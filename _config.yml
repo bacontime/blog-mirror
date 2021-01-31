@@ -1,0 +1,12 @@
+title: "JTD test"
+remote_theme: RMWinslow/just-the-docs-tweaked
+search_enabled: true
+
+
+
+gh_edit_link: false  # show or hide edit this page link
+
+
+compress_html:
+  ignore:
+    envs: all
