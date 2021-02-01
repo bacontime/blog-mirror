@@ -11,19 +11,25 @@ This is a really simplified explanation of the current events surrounding the pr
 ## Super Short Summary.
 
 - Concepts:
-  - Stocks: Partial Ownership of a company
-  - Short-seller: Anything where the short-seller benefits if the stock price goes down.
-  - Hedge Funds: 
-      - Original concept: “hedge your bets” 
-      - Modern reputation: shenanigans
+    - Stocks: 
+        - Partial ownership of a company.
+    - Short-selling: 
+        - Anything where the short-seller benefits if the stock price goes *down*.
+        - Important detail: Physical short-sellers promise to buy the stock in the future.
+    - Hedge Funds: 
+        - Original concept: “hedge your bets” 
+        - Modern reputation: shenanigans
 - Current events:
-    1. Some hedge funds short-sold Gamestop
-    2. Woops. They shorted it *a lot*.
-    3. Game stop has some good news, making the stock price go up.
+    1. Some hedge funds short-sell Gamestop
+    2. Woops. They short-sell it *a lot*.
+    3. Gamestop has some good news, making the stock price go up.
     4. Now the short-sellers are contractually obligated to buy the gamestonks at a loss.
-    5. The short-sellers want to buy lots of gamestonks all at once, which drives up the price even further. This is called a short squeeze.
-    6. Other hedge funds profit by restricting the short-seller's ability to buy the gamestonks.
-    7. High demand + low supply meands prices go 🚀🚀🚀. This is called a short squeeze.
+    5. Other investors restrict the short-sellers' ability to buy the gamestonks they need. This is called a short squeeze.
+    6. High demand + low supply means prices go 🚀🚀🚀. 
+    7. Reddit exacerbates the short squeeze because it's funny.
+    8. It is very funny. 
+
+---
 
 ## Key concepts
 
@@ -49,7 +55,12 @@ If you own stock in a company, then you'll be wealthier if the price of the stoc
 
 Short-selling is the opposite. It's any arrangement  where you'll benefit if the stock price *goes down*. It's a bet that the company will do worse than other people expect. 
 
-Under normal circumstances, short-selling be beneficial. It can contribute to the stock market's purposes of mitigating risk and collecting information. Short-sellers are often blamed for crashing the price of an asset, but this is usually just a case of shooting the messenger.  [According to this article from the the Federal Reserve](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci18-5.pdf), a temporary ban on short-selling in 2008 didn't prevent stock prices from falling; instead it just increased transaction costs.
+Under normal circumstances, short-selling be beneficial. It contributes to the stock market's purposes of mitigating risk and collecting information. 
+Short-sellers are often blamed for crashing the price of an asset (and *sometimes* short-selling is associated with shady business), but this is usually just a case of shooting the messenger.  [According to this article from the the Federal Reserve](https://www.newyorkfed.org/medialibrary/media/research/current_issues/ci18-5.pdf), a temporary ban on short-selling in 2008 didn't prevent stock prices from falling; instead it just increased transaction costs.
+
+<aside markdown="block">
+*Maybe watch: Season 1, Episode 3 of "Dirty Money" on Netflix tells a story about short-sellers uncovering fraud at Valeant Pharmaceuticals.*
+</aside>
 
 Short-selling can be done in several different ways. But most relevant to current events is "physical" short-selling, which goes something like this:
 1. I go to somebody else who has the stock.
@@ -76,7 +87,7 @@ Modern reputation: Shenanigans. Supposedly, hedge funds face slightly different 
 
 A simplified version of the story goes something like this:
 
-Some hedge funds (Melvin is the one with the funniest name) think Gamestop won't handle the transition to digital gaming very well, and decide to short Gamestop. So far, not that strange.
+Some hedge funds ([Melvin is the one with the funniest name](https://en.wikipedia.org/wiki/Synecdoche)) think Gamestop won't handle the transition to digital gaming very well, and decide to short Gamestop. So far, not that strange.
 
 Ah, but they're shorting Gamestop _a lot_. Like they might be promising to buy more Gamestop stocks than _actually exist_. This doesn't mean any fraud has been committed; I can borrow a stock, sell it to you, and then you can lend it to someone else, etc. But even if nothing illegal has occurred, it sure smells like *shenanigans*.
 
@@ -97,7 +108,7 @@ This chain of events is called a **Short Squeeze**.
 
 Eventually, the short-sellers will be able to buy enough gamestonks to satisfy their contracts, at which point the price will fall back down to something more reasonable. Without these shenanigans in play, supply and demand for Gamestop stock will mostly be a reflection of the earnings and potential of the company (plus whatever value people place on the stock as a piece of meme memorabilia, I suppose).
 
-The short-sellers of Gamestop will have lost a lot of money. [Melvin in particular has supposedly lost $4.5 billion from the ordeal.](https://arstechnica.com/gadgets/2021/01/hedge-fund-melvin-sustains-53-loss-after-reddit-onslaught/) Which is impressive, given that I'm pretty sure they could have just bought Gamestop with that much cash a few years ago.
+The short-sellers of Gamestop will have lost a lot of money. [Melvin in particular has lost $4billion from the ordeal.](https://arstechnica.com/gadgets/2021/01/hedge-fund-melvin-sustains-53-loss-after-reddit-onslaught/) Which is impressive, given that I'm pretty sure they could have just bought Gamestop with that much cash a few years ago.
 
 Some other hedge funds will have made a lot of money off of Melvin's mistake. In fact, I'd guess the majority of profits from the squeeze will go to other large investors. Even if WSB were the first to notice the short squeeze coming, [there are hedge funds which monitor WSB](https://arstechnica.com/gadgets/2021/01/hedge-fund-melvin-sustains-53-loss-after-reddit-onslaught/). So 🤷
 
@@ -106,6 +117,7 @@ A few lucky redditors who sold at the right time will get an early retirement. A
 There will also be a big chunk of redditors who bought in while the squeeze was happening and didn't get out before things returned to normal. They'll lose money, but spending a few hundred dollars to be part of an event is a good value-proposition for a lot of people. So cue the [bittersweet memes](https://old.reddit.com/r/wallstreetbets/comments/l8mzow/welcome_to_the_endgame/).
 
 Finally, there will inevitably be a few redditors who believed a little bit too hard in the meme magic, and went into debt to buy Gamestop stock at its peak. That's not unheard of for WSB users to do, but I'm hoping most of these cases were just people joking.
+
 
 ## And what of Gamestop? How will they fare from all this? 
 
@@ -120,11 +132,12 @@ Most public corporations also retain the right to sell additional stocks in what
 But if they do so, then they dilute the existing shares, meaning each individual stock now represents a smaller fraction of ownership, gets a smaller vote, gets a smaller share of the profits, etc. 
 As such, there are restrictions preventing this from being abused. 
 
-AMC Theatres -- another subject of WSB memes, but not the subject of a short squeeze -- also had a big increase in stock price recently. [AMC used this as an opportunity](https://www.marketwatch.com/story/amc-entertainment-to-issue-444-million-shares-as-investors-opt-to-convert-600-million-of-convertible-debt-2021-01-28) to pay off their debt by giving their bond-holders the option to trade those bonds for new AMC stock. And maybe after things calm down, Gamestop can capitalize on their meme premium in a similar way. But if Gamestop tried to do that right now, I don't think the SEC would be very happy. *(I mean, securities law is a complicated topic which I know nothing about. But [this statement from the SEC](https://www.sec.gov/news/public-statement/joint-statement-market-volatility-2021-01-29) certainly seems like they're giving Gamestop a stern warning glare.)*
+AMC Theatres -- another subject of WSB memes, but not the subject of a short squeeze -- also had a big increase in stock price recently. [AMC used this as an opportunity](https://www.marketwatch.com/story/amc-entertainment-to-issue-444-million-shares-as-investors-opt-to-convert-600-million-of-convertible-debt-2021-01-28) to pay off their debt by giving their bond-holders the option to trade those bonds for new AMC stock. And maybe after things calm down, Gamestop can capitalize on their meme premium in a similar way. But if Gamestop tried to do that right now, I don't think the SEC would be very happy. *(I mean, securities law is a complicated topic which I know basically nothing about. But [this statement from the SEC](https://www.sec.gov/news/public-statement/joint-statement-market-volatility-2021-01-29) certainly seems like they're giving Gamestop a stern warning glare.)*
 
-<!--Something something Regulation M?-->
+<!--Something something Regulation M?
+https://corpgov.law.harvard.edu/2013/11/02/sec-enforcement-focusing-on-rule-105-of-regulation-m/-->
 
-By analogy, Nintendo mostly cares about the sale of *new* copies of Mario Kart. When someone buys a used copy of Mario Kart (from Gamestop for example), it doesn't directly affect Nintendo's bottom line. The ability to resell games influences people's decisions about buying new games, and that secondary market is important for allocating copies of the game or signalling what new games Nintendo should release. But if some bozo comes along and signs a contract promising to buy every copy of Mario Kart 64 currently in existence, and somebody else takes advantage of that by listing a copy for $1000 on Ebay, then Nintendo can just ignore the resulting shenanigans. 
+By analogy, Nintendo mostly cares about the sale of *new* copies of Mario Kart. When someone buys a used copy of Mario Kart (from Gamestop for example), it doesn't directly affect Nintendo's bottom line. The ability to resell games influences people's decisions about buying new games, and that secondary market is important for allocating copies of the game or signalling what new games Nintendo should release. But if some bozo comes along and signs a contract promising to buy every copy of Mario Kart 64 currently in existence, and somebody else takes advantage of that by listing a copy for $1000 on Ebay, then Nintendo can pretty much just ignore the resulting shenanigans. 
 
 
 
@@ -132,4 +145,18 @@ By analogy, Nintendo mostly cares about the sale of *new* copies of Mario Kart. 
 
 Probably not, no. 
 
-Short squeezes are nothing new. Whenever somebody makes a big dumb bet, reminding us why it's called the efficient market *hypothesis* instead of the efficient market *law*, it gives other people the opportunity to profit from their buffoonery. 
+Short squeezes are nothing new. 
+<!--Whenever somebody makes a big dumb bet, reminding us why it's called the efficient market *hypothesis* instead of the efficient market *law*, it gives other people the opportunity to profit from their buffoonery. -->
+A few recent examples would be:
+- In 2015, Martin Shkreli - former WSB moderator, more famous for jacking up the price of AIDS drug Daraprim, and now in prison for an unrelated third thing - [orchestrated a short squeeze in KaloBios Pharmaceuticals](https://www.marketwatch.com/story/kalobios-short-sellers-facing-squeeze-as-ceo-shkreli-says-will-no-longer-lend-stock-2015-11-27).
+- In 2008, investors short-sold Volkswagon stock, believing there was a good chance it would soon go bankrupt. Then [Porsche bought most of the existing shares](https://web.archive.org/web/20081029052916/http://www.ft.com/cms/s/0/05a4df12-a396-11dd-942c-000077b07658.html), triggering a short squeeze despite a fairly modest amount of short-selling.
+
+And you can read [Aristotle's account of a man getting rich by using his knowledge of astronomy to corner the market in olive presses](http://www.perseus.tufts.edu/hopper/text?doc=Aristot.+Pol.+1.1259a&redirect=true). This isn't a short squeeze, but the story shows that the basic concept of "person getting rich off of someone else's pessimism" is an ancient one.
+
+But there is *something* very interesting about these events.
+In most short squeezes, it's large investors doing the squeezing.
+But here a bunch of small actors are getting in on the action. 
+This is interesting because a lot of these small-time investors will end up losing money. Only a portion of them can actually cash out by selling Gamestop to the short-sellers. And every individual has an incentive to get out early so they aren't the ones left holding at the end. 
+
+We'll have to wait and see how things shake out, but if WSB manages a big win,
+then they'll have navigated through a thousands-strong prisoners dilemma using nothing more than the power of meme energy.
