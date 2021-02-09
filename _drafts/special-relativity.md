@@ -5,7 +5,14 @@ parent: science
 
 # A slightly simplified explanation of special relativity.
 
-This page is my notes on reading through ["On The Electrodynamics Of Moving Bodies"](http://www.fourmilab.ch/etexts/einstein/specrel/specrel.pdf), which Einstein wrote back in 1905. These have the same organization as the original, but the math is heavily trimmed for simplicity.
+This page is an exeriment with explanatory writing style. 
+
+It's essentially a copy of ["On The Electrodynamics Of Moving Bodies"](http://www.fourmilab.ch/etexts/einstein/specrel/specrel.pdf), which Einstein wrote back in 1905. 
+This page has the same content as the original, and is presented in the same order.
+But the maths is trimmed, the definitions are less rigourous, 
+and there's a lot of emojis in place of greek letters.
+
+https://en.wikisource.org/wiki/Translation:On_the_Electrodynamics_of_Moving_Bodies
 
 ## Main Idea
 
@@ -17,12 +24,29 @@ There were [some big experiments](https://en.wikipedia.org/wiki/Michelson%E2%80%
 So there's no such thing as "absolute rest". Where do we go from here? 
 
 Einstein starts by assuming the following two things:
-1. **The Principle of Relativity:** Light and electromagnetism follow the same laws in every frame of reference. That is, your laptop will still work on a moving train.
-2. **Constant speed of light:** Light always moves through a vacuum at some specific speed we call $c$, and this speed doesn't change depending on the motion of the lightsource. That is, the light coming out of the headlights of a moving car doesn't go any faster than the light coming out of a parked car. 
+1. **The Principle of Relativity:** Light and electromagnetism follow the same laws in every frame of reference[^1]. That is, your laptop will still work the same on a moving train.
+2. **Constant speed of light:** Light always moves at some specific speed we call "$c$", and this speed doesn't change depending on the motion of the lightsource. That is, the light coming out of the headlights of a moving car doesn't go any faster than the light coming out of a parked car. 
+
+[^1]: This only applies to "inertial" frames of references. 
+    That is, if the laws of physics apply to some coordinate system, 
+    then the same laws apply to a second coordinate system 
+    which is sliding past the first at a constant velocity. 
+
+[^2]: Light actually moves at $c$ in a *vacuum*, 
+    and moves more slowly through other mediums. 
+    But we'll ignore this for now. 
+    The important bit is just that light doesn't go faster when its source is moving.
+
+<aside markdown="block">
+Light actually moves at $c$ in a vacuum, 
+and moves more slowly through other mediums. 
+But we'll ignore this for now. 
+The important bit is just that light doesn't go faster when its source is moving.
+</aside>
 
 With these two starting assumptions, we can describe motion in a way that doesn't require some universal objective notion of stillness. But doing so has some weird implications.
 
-*(Note that Einstein isn't providing evidence of the above assumptions. There were already experiments showing those to be true. What Einstein does is explain how these assumptions fit together.)*
+*(Note that Einstein isn't providing evidence of the above assumptions. There were already experiments showing those to be true. What Einstein does is explain how these assumptions fit together, and the implications that these assumptions have.)*
 
 
 ## Part 1. Stuff Moving About
@@ -35,15 +59,16 @@ What do these concepts even mean?
 
 First we need to define time. That's easy. The time is whatever my watch ⌚ says it is. If a dog "barks at 7:00", it means that when the dog barked, my watch also read `7:00`.
 
-This gets tricky over long distances. If you've ever been in a thunderstorm, you know that there's a delay before you hear the thunder. So let's say my friend Betty has another clock ⏰ which is in sync with my watch. 
-
+This gets tricky over long distances. 
+(If you've ever been in a thunderstorm, you know that there's a delay before you hear the thunder.)
+So let's say my friend has another clock ⏰ which is in sync with my watch. 
 And we'll say that the time when something happens is based off of the clock right next to it.
 
 #### Example 1
 
-My dog barks. I look at my watch. It says `7:00`.
-My friend's cat meows. She looks at her watch. It says `7:00`. 
-If her clock and my watch are in sync, then we can say the bark and the meow happened "at the same time". 
+Alan's dog barks. He looks at his watch. It says `7:00`.
+Betty's cat meows. She looks at her clock. It says `7:00`. 
+If her clock and his watch are in sync, then we can say the bark and the meow happened "at the same time". 
 
 Simple, right?
 
@@ -51,13 +76,118 @@ Here's a slightly more complicated example:
 
 #### Example 2
 
-I'm standing at a distance $d$ away from Betty. 
-I turn on my flashlight at some time we'll label $⌚_1$. 
+Alan's standing at a distance $d$ away from Betty. 
+He turns on his flashlight at some time we'll label $⌚_1$. 
 The light goes to Betty and hits her mirror at time $⏰_2$. 
-Finally, the light bounces back to my eyes at time $⌚_3$. 
+Finally, the light bounces back to Alan's eyes at time $⌚_3$. 
 (Remember, we measure the time of an event by using the clock that's right next to it.)
 
-<?xml version="1.0" encoding="UTF-8"?> <svg width="160.62mm" height="33.885mm" version="1.1" viewBox="0 0 160.62 33.885" xmlns="http://www.w3.org/2000/svg">  <defs>   <marker id="Arrow1Send" style="overflow:visible" orient="auto">    <path transform="matrix(-.2 0 0 -.2 -1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;fill:#ffff00;stroke-width:1pt;stroke:#ffff00"/>   </marker>   <marker id="Arrow1Sstart" style="overflow:visible" orient="auto">    <path transform="matrix(.2 0 0 .2 1.2 0)" d="m0 0 5-5-17.5 5 17.5 5z" style="fill-rule:evenodd;fill:#ffff00;stroke-width:1pt;stroke:#ffff00"/>   </marker>  </defs>  <g transform="translate(-16.437 -159.25)">   <g transform="matrix(.26458 0 0 .26458 48.656 57.56)" stroke-miterlimit="10" stroke-width="2">    <g id="color">     <g fill="#9b9b9a">      <path d="m53.996 40.523h0.6992c1.1 0 2-0.9 2-2v-5.1541c0-1.1-0.9-2-2-2h-4.695v9.1648z" stroke="#9b9b9a"/>      <path d="m25 21v-12c0-0.5523 0.4477-1 1-1h20c0.5523 0 1 0.4477 1 1v12"/>      <path d="m47 51v12c0 0.5523-0.4477 1-1 1h-20c-0.5523 0-1-0.4477-1-1v-12" stroke="#9b9b9a"/>     </g>     <path d="m48 51h-24c-1.1 0-2-0.9-2-2v-26c0-1.1 0.9-2 2-2h24c1.1 0 2 0.9 2 2v26c0 1.1-0.9 2-2 2z" fill="#d0cfce" stroke="#d0cfce"/>    </g>    <g id="line" fill="none" stroke="#000000">     <path d="m25 21v-12c0-0.5523 0.4477-1 1-1h20c0.5523 0 1 0.4477 1 1v12"/>     <g stroke-linecap="round" stroke-linejoin="round">      <path d="m25 16"/>      <path d="m47 56"/>      <path d="m47 16"/>      <polyline points="35.844 26.188 35.844 36.188 44.156 36.188"/>      <path d="m25 16"/>      <polyline points="47 55 47 64 25 64 25 55"/>      <path d="m47 56"/>      <path d="m47 16"/>      <polyline points="25 17 25 8 47 8 47 17"/>      <path d="m53.996 31.369h0.6991c1.1 0 2 0.9 2 2v5.1541c0 1.1-0.9 2-2 2h-0.6992"/>      <path d="m48 51h-24c-1.1 0-2-0.9-2-2v-26c0-1.1 0.9-2 2-2h24c1.1 0 2 0.9 2 2v26c0 1.1-0.9 2-2 2z"/>      <polyline points="35.844 26.188 35.844 36.188 44.156 36.188"/>     </g>    </g>   </g>   <g transform="matrix(.26458 0 0 .26458 -30.688 75.953)">    <path d="m20 6.042c0 1.112-0.903 2.014-2 2.014s-2-0.902-2-2.014v-4.028c0-1.113 0.903-2.014 2-2.014s2 0.901 2 2.014z" fill="#ffcc4d"/>    <path d="m9.18 36c-0.224 0-0.452-0.052-0.666-0.159-0.736-0.374-1.035-1.28-0.667-2.027l8.94-18.127c0.252-0.512 0.768-0.835 1.333-0.835s1.081 0.323 1.333 0.835l8.941 18.127c0.368 0.747 0.07 1.653-0.666 2.027-0.736 0.372-1.631 0.07-1.999-0.676l-7.608-15.425-7.607 15.425c-0.262 0.529-0.788 0.835-1.334 0.835z" fill="#ffac33"/>    <path d="m18.121 20.392c-0.263 0-0.516-0.106-0.702-0.295l-13.907-14.099c-0.388-0.394-0.388-1.031 0-1.424s1.017-0.393 1.404 0l13.205 13.386 13.203-13.387c0.389-0.393 1.017-0.393 1.405 0 0.388 0.394 0.388 1.031 0 1.424l-13.905 14.1c-0.187 0.188-0.439 0.295-0.703 0.295z" fill="#58595b"/>    <path d="m34.015 19.385c0 8.898-7.115 16.111-15.894 16.111-8.777 0-15.893-7.213-15.893-16.111 0-8.9 7.116-16.113 15.893-16.113 8.778-1e-3 15.894 7.213 15.894 16.113z" fill="#dd2e44"/>    <path d="m30.041 19.385c0 6.674-5.335 12.084-11.92 12.084-6.583 0-11.919-5.41-11.919-12.084 0-6.675 5.336-12.085 11.919-12.085 6.585-1e-3 11.92 5.41 11.92 12.085z" fill="#e6e7e8"/>    <path d="m30.04 1.257c-1.646 0-3.135 0.676-4.214 1.77l8.429 8.544c1.078-1.093 1.745-2.603 1.745-4.272 0-3.336-2.669-6.042-5.96-6.042zm-24.08 0c1.645 0 3.135 0.676 4.214 1.77l-8.429 8.544c-1.078-1.093-1.745-2.603-1.745-4.272 0-3.336 2.668-6.042 5.96-6.042z" fill="#ffcc4d"/>    <path d="m23 20h-5c-0.552 0-1-0.447-1-1v-9c0-0.552 0.448-1 1-1s1 0.448 1 1v8h4c0.553 0 1 0.448 1 1 0 0.553-0.447 1-1 1z" fill="#414042"/>   </g>   <g transform="matrix(.26458 0 0 .26458 71.19 66.235)">    <line x1="50.258" x2="53.142" y1="55.036" y2="59.864" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>    <line x1="21.742" x2="18.858" y1="55.036" y2="59.864" fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="2"/>    <g fill="#d0cfce">     <path d="m36 19" stroke="#d0cfce" stroke-miterlimit="10" stroke-width="2"/>     <path d="m36 19" stroke="#d0cfce" stroke-miterlimit="10" stroke-width="2"/>     <path d="m46.186 14.792c2.2534-4.6476 4.2653-4.0842 6.1673-4.3168 1.2869-0.1573 6.4609 3.1641 6.4609 6.5799s-2.2433 4.739-3.5597 5.4867"/>     <path d="m25.814 14.792c-2.2533-4.6476-4.2652-4.0842-6.1672-4.3168-1.287-0.1573-6.461 3.1641-6.461 6.5799s2.2433 4.739 3.5597 5.4867"/>    </g>    <g fill="#ffffff" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">     <circle cx="36" cy="36.294" r="23" stroke-width="2"/>     <line x1="36.026" x2="36.026" y1="18.989" y2="35.989" stroke-width="2"/>     <line x1="35.974" x2="29.974" y1="35.935" y2="46.327" stroke-width="2.0785"/>    </g>    <g fill="none" stroke="#000000" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10">     <g stroke-width="2">      <path d="m36 12.633"/>      <path d="m36 19.072"/>      <path d="m36 19.248"/>      <path d="m36 12.754"/>      <line x1="50.258" x2="53.142" y1="55.036" y2="59.864"/>      <line x1="21.742" x2="18.858" y1="55.036" y2="59.864"/>      <path d="m48.85 12.576c0.9692-0.8502 2.2395-1.3655 3.6301-1.3655 3.0417 0 5.5076 2.4657 5.5076 5.5075 0 1.1088-0.3277 2.1411-0.8914 3.0052"/>      <path d="m23.15 12.576c-0.9693-0.8502-2.2396-1.3655-3.6302-1.3655-3.0417 0-5.5075 2.4657-5.5075 5.5075 0 1.1088 0.3276 2.1411 0.8914 3.0052"/>      <circle cx="36" cy="36.294" r="23"/>      <line x1="36.026" x2="36.026" y1="18.989" y2="35.989"/>     </g>     <line x1="35.974" x2="29.974" y1="35.935" y2="46.327" stroke-width="2.0785"/>    </g>   </g>   <g transform="matrix(-.04303 0 0 .04303 177.32 171.29)">    <path d="m275.82 58.999v123.14c0 10.899-8.917 19.816-19.816 19.816s-19.816-8.917-19.816-19.816v-123.14c0-10.899 8.917-19.816 19.816-19.816s19.816 8.917 19.816 19.816zm91.749 103.04c7.738 7.738 20.284 7.739 28.022 1e-3l50.586-50.586c7.738-7.738 7.738-20.285 0-28.023s-20.285-7.738-28.023 0l-50.586 50.586c-7.737 7.738-7.736 20.285 1e-3 28.022m-223.12 1e-3c7.738-7.738 7.739-20.284 1e-3 -28.022l-50.586-50.586c-7.738-7.738-20.285-7.738-28.023 0s-7.738 20.285 0 28.023l50.586 50.586c7.738 7.737 20.284 7.737 28.022-1e-3m258.98 320.58c7.706-7.706 7.706-20.317 0-28.023l-87.073-87.073c-7.706-7.706-20.317-7.706-28.023 0s-7.706 20.317 0 28.023l87.073 87.073c7.706 7.706 20.317 7.706 28.023 0zm-266.83 0 87.073-87.073c7.706-7.706 7.706-20.317 0-28.023s-20.317-7.706-28.023 0l-87.073 87.073c-7.706 7.706-7.706 20.317 0 28.023s20.317 7.706 28.023 0z" fill="#6b8da1"/>    <path d="m354.32 45.692c36.12-30.974 90.561-29.384 124.77 4.823 34.242 34.242 35.8 88.76 4.727 124.88-2.812 1.987-6.524 2.121-9.46 0.405l-120.53-120.53c-1.741-2.978-1.576-6.754 0.493-9.579zm-316.65 130.09 120.53-120.53c1.717-2.936 1.582-6.648-0.405-9.46-36.12-31.073-90.637-29.515-124.88 4.727-34.206 34.207-35.796 88.648-4.822 124.77 2.825 2.07 6.601 2.234 9.578 0.493z" fill="#ffb636"/>    <path d="m477.51 108.53c-4.411 0-8.386-3.056-9.377-7.541-2.136-9.668-6.91-18.579-13.807-25.772-6.88-7.176-15.559-12.318-25.098-14.871-5.128-1.372-8.173-6.643-6.801-11.771 1.373-5.128 6.643-8.173 11.771-6.801 12.934 3.461 24.693 10.425 34.005 20.137 9.338 9.739 15.805 21.818 18.702 34.931 1.145 5.184-2.129 10.314-7.313 11.46-0.698 0.154-1.395 0.228-2.082 0.228zm-434.76-8.154c2.553-9.539 7.695-18.218 14.871-25.098 7.193-6.897 16.105-11.671 25.772-13.807 5.184-1.145 8.458-6.276 7.313-11.46s-6.276-8.458-11.46-7.313c-13.112 2.897-25.191 9.364-34.931 18.702-9.713 9.313-16.676 21.071-20.137 34.005-1.372 5.129 1.672 10.398 6.801 11.771 0.833 0.223 1.668 0.329 2.491 0.329 4.245 1e-3 8.13-2.833 9.28-7.129z" fill="#ffd469"/>    <path d="m256 64.394c-117.01 0-211.86 94.852-211.86 211.86s94.852 211.87 211.86 211.87 211.86-94.861 211.86-211.87-94.852-211.86-211.86-211.86" fill="#fb5046"/>    <path d="m83.765 276.26c0 94.973 77.267 172.24 172.24 172.24s172.23-77.267 172.23-172.24-77.258-172.24-172.23-172.24-172.24 77.267-172.24 172.24" fill="#f9f9f8"/>    <path d="m256 289.45h123.17c6.11 0 11.071-4.96 11.071-11.079 0-6.11-4.961-11.07-11.071-11.07h-123.17c-6.119 0-11.08 4.961-11.08 11.07 0 6.118 4.961 11.079 11.08 11.079" fill="#6b8da1"/>    <path d="m256 289.45c6.119 0 11.08-4.96 11.08-11.079v-120.53c0-6.119-4.961-11.08-11.08-11.08s-11.08 4.961-11.08 11.08v120.53c0 6.119 4.961 11.08 11.08 11.08" fill="#6b8da1"/>   </g>   <g transform="matrix(.039062 0 0 .039062 13.159 173.14)">    <path d="m443.17 256c0 8.334-6.756 15.09-15.09 15.09s-15.09-6.756-15.09-15.09 6.756-15.09 15.09-15.09 15.09 6.756 15.09 15.09z" fill="#597b91"/>    <path d="m319.75 512h-122.66c-15.906 0-28.8-12.894-28.8-28.8v-454.4c0-15.906 12.894-28.8 28.8-28.8h122.66c15.906 0 28.8 12.894 28.8 28.8v454.4c0 15.906-12.894 28.8-28.8 28.8z" fill="#2b3b47"/>    <path d="m428.08 256c0 95.039-77.045 172.08-172.08 172.08s-172.08-77.045-172.08-172.08 77.045-172.08 172.08-172.08 172.08 77.045 172.08 172.08z" fill="#bfbcaf"/>    <path d="m256 394.21c-76.209 0-138.21-62.002-138.21-138.21s62-138.21 138.21-138.21 138.21 61.998 138.21 138.21-62 138.21-138.21 138.21z" fill="#f9f9f7"/>    <path d="m266.48 163.46v93.992c0 4.77-3.867 8.637-8.638 8.637-0.383 0-0.758-0.034-1.128-0.082-0.37 0.048-0.745 0.082-1.128 0.082h-96.047c-4.77 0-8.638-3.867-8.638-8.637s3.867-8.637 8.638-8.637h89.665v-85.355c0-4.77 3.867-8.637 8.638-8.637 4.77-1e-3 8.638 3.866 8.638 8.637z" fill="#597b91"/>   </g>   <g transform="matrix(.26458 0 0 .26458 -9.8379 96.8)">    <path d="m25 32c0 2.209-1.791 4-4 4h-6c-2.209 0-4-1.791-4-4v-28c0-2.209 1.791-4 4-4h6c2.209 0 4 1.791 4 4z" fill="#31373d"/>    <path d="m32 18c0-1.104-0.896-2-2-2h-1c-1.104 0-2 0.896-2 2s0.896 2 2 2h1c1.104 0 2-0.896 2-2z" fill="#99aab5"/>    <path d="m6 18c0-6.627 5.373-12 12-12 6.628 0 12 5.373 12 12s-5.372 12-12 12c-6.627 0-12-5.373-12-12z" fill="#ccd6dd"/>    <path d="m10 18c0-4.418 3.582-8 8-8 4.419 0 8 3.582 8 8s-3.581 8-8 8c-4.418 0-8-3.582-8-8z" fill="#f5f8fa"/>    <path d="m23 22c-0.175 0-0.353-0.046-0.514-0.143l-5-3c-0.301-0.18-0.486-0.505-0.486-0.857v-7c0-0.552 0.448-1 1-1s1 0.448 1 1v6.434l4.516 2.708c0.474 0.284 0.627 0.898 0.343 1.372-0.188 0.313-0.519 0.486-0.859 0.486z" fill="#66757f"/>   </g>   <g transform="matrix(.60568 0 0 .60568 134.11 158.65)">    <g fill="#ffac33">     <path d="m29.96 23.087c4.04 3.913 4.083 10.934 3.061 10.934s-4.115-1.852-6.068-3.937c-1.953-2.084-1.75-6.778-1.75-6.778l1.586-4.319c0-1e-3 -0.869 0.187 3.171 4.1z"/>     <path d="m26.96 23.087c4.04 3.913 4.083 10.934 3.061 10.934s-4.115-1.852-6.068-3.937c-1.953-2.084-1.75-6.778-1.75-6.778l1.586-4.319c0-1e-3 -0.869 0.187 3.171 4.1zm-23.96 10.913c-1 0-1-7 3-11s3-4 3-4l2 4s0 5-2 7-5 4-6 4z"/>     <path d="m6 34c-1 0-1-7 3-11s3-4 3-4l2 4s0 5-2 7-5 4-6 4z"/>    </g>    <path d="m6.914 18.353c-0.571-2.134-2.116-3.575-3.45-3.217s-1.95 2.378-1.379 4.511c0.571 2.135 2.116 3.574 3.45 3.217 1.334-0.358 1.951-2.378 1.379-4.511zm27.001 1.294c0.571-2.134-0.046-4.154-1.38-4.512-1.333-0.356-2.878 1.083-3.449 3.218-0.572 2.134 0.045 4.153 1.379 4.511s2.879-1.083 3.45-3.217z" fill="#ffdc5d"/>    <path d="m31 19c0-9.389-5.82-16-13-16s-13 6.611-13 16 5.82 15 13 15 13-5.611 13-15z" fill="#ffdc5d"/>    <path d="m18 27.651c-2.42 0-4.274-0.687-4.352-0.715-0.517-0.194-0.779-0.771-0.584-1.288 0.194-0.517 0.769-0.779 1.286-0.585 0.016 6e-3 1.61 0.588 3.65 0.588 2.041 0 3.635-0.582 3.65-0.588 0.516-0.194 1.094 0.071 1.285 0.587 0.193 0.517-0.067 1.092-0.584 1.286-0.077 0.029-1.93 0.715-4.351 0.715z" fill="#df1f32"/>    <path d="m19 23h-2c-0.552 0-1-0.447-1-1s0.448-1 1-1h2c0.553 0 1 0.447 1 1s-0.447 1-1 1z" fill="#c1694f"/>    <path d="m12 20c-0.552 0-1-0.447-1-1v-2c0-0.552 0.448-1 1-1s1 0.448 1 1v2c0 0.553-0.448 1-1 1zm12 0c-0.553 0-1-0.447-1-1v-2c0-0.552 0.447-1 1-1s1 0.448 1 1v2c0 0.553-0.447 1-1 1z" fill="#662113"/>    <path d="m32 10c-2-7-7-9-10-9-2 0-4 2-4 2s-2-2-4-2c-3 0-8 2-10 9-1.648 5.769 1 11 1 11 0-3.001 2-9 7-9s6-4 6-4 0.786 4 5.786 4 7.214 6 7.214 9c0 0 2.648-5.231 1-11z" fill="#ffac33"/>   </g>   <g transform="matrix(.57727 0 0 .57727 27.799 159.72)">    <path d="m6 20c0 2.209-1.119 4-2.5 4s-2.5-1.791-2.5-4 1.119-4 2.5-4 2.5 1.791 2.5 4zm29 0c0 2.209-1.119 4-2.5 4s-2.5-1.791-2.5-4 1.119-4 2.5-4 2.5 1.791 2.5 4z" fill="#ffdc5d"/>    <path d="m4 20.562c0-8.526 6.268-15.438 14-15.438s14 6.912 14 15.438-6.268 14.438-14 14.438-14-5.912-14-14.438z" fill="#ffdc5d"/>    <path d="m12 22c-0.552 0-1-0.447-1-1v-2c0-0.552 0.448-1 1-1s1 0.448 1 1v2c0 0.553-0.448 1-1 1zm12 0c-0.553 0-1-0.447-1-1v-2c0-0.552 0.447-1 1-1s1 0.448 1 1v2c0 0.553-0.447 1-1 1z" fill="#662113"/>    <path d="m18 30c-4.188 0-6.357-1.06-6.447-1.105-0.494-0.247-0.694-0.848-0.447-1.342 0.247-0.492 0.843-0.692 1.337-0.449 0.051 0.024 1.925 0.896 5.557 0.896 3.665 0 5.54-0.888 5.559-0.897 0.496-0.241 1.094-0.034 1.336 0.457 0.243 0.493 0.045 1.089-0.447 1.335-0.092 0.045-2.26 1.105-6.448 1.105zm1-5h-2c-0.552 0-1-0.447-1-1s0.448-1 1-1h2c0.553 0 1 0.447 1 1s-0.447 1-1 1z" fill="#c1694f"/>    <path d="m18 0.354c-9.23 0-15 6.462-15 11.846 0 5.385 1.154 7.539 2.308 5.385l2.308-4.308s3.791-0.124 6.099-2.278c0 0-1.071 4 6.594 0.124 0 0-0.166 3.876 5.191-0.124 0 0 4.039 1.201 5.191 6.586 0.32 1.494 2.309 0 2.309-5.385 0-5.384-4.615-11.846-15-11.846z" fill="#ffac33"/>   </g>   <path d="m119.6 95.49c-1.1377-1.1377-2.9633-1.1377-4.101 0-0.15875 0.15875-0.42333 0.15875-0.58208 0-1.1377-1.1377-2.9369-1.1377-4.0746-0.0265-0.97895 0.9525-1.1642 2.54-0.39687 3.7042 0.23812 0.34395 0.52917 0.60854 0.84667 0.8202l3.3867 2.7517c0.3175 0.26458 0.76729 0.26458 1.0848 0l3.3867-2.7781c0.23813-0.15875 0.47625-0.37042 0.66146-0.60855 0.92604-1.1377 0.82021-2.831-0.21167-3.8629z" fill="#ff473e" style="stroke-width:.26458"/>   <g transform="matrix(.028808 .028808 -.028808 .028808 45.37 168.38)">    <path d="m450.96 234.43c-59.536 59.536-134.39 106.47-182.5 106.47-4.376 0-8.355-0.408-11.981-1.141l-152.46 152.46c-22.343 22.343-58.568 22.343-80.912 0l-3.316-3.316c-22.343-22.343-22.343-58.568 0-80.911l152.34-152.34c-0.772-3.705-1.199-7.787-1.199-12.283 0-48.109 46.931-122.97 106.47-182.5 12.018-12.018 60.614 17.093 108.54 65.021 47.93 47.928 77.041 96.524 65.023 108.54z" fill="#597b91"/>    <path d="m138.27 414.08-10.629-10.629c-6.702-6.702-6.702-17.568 0-24.27l29.708-29.708c1.907-1.907 4.999-1.907 6.906 0l27.993 27.993c1.907 1.907 1.907 4.999 0 6.906l-29.708 29.708c-6.702 6.701-17.568 6.701-24.27 0z" fill="#2b3b47"/>    <path d="m437.14 227.8c-10.033 10.033-52.44-16.109-94.721-58.39s-68.422-84.688-58.39-94.721c10.033-10.033 52.44 16.109 94.721 58.39s68.422 84.689 58.39 94.721zm-19.123-119.46 47.959-47.959c3.962-3.962 3.962-10.387 0-14.349-3.963-3.962-10.387-3.962-14.35 0l-47.959 47.959c-3.962 3.962-3.962 10.387 0 14.349 1.981 1.981 4.578 2.972 7.175 2.972s5.193-0.991 7.175-2.972zm-47.16-43.934v-51.934c0-5.604-4.543-10.146-10.146-10.146s-10.146 4.543-10.146 10.146v51.934c0 5.604 4.543 10.146 10.146 10.146s10.146-4.543 10.146-10.146zm138.64 86.964c0-5.604-4.543-10.146-10.146-10.146h-54.491c-5.604 0-10.146 4.543-10.146 10.146s4.543 10.146 10.146 10.146h54.491c5.603 1e-3 10.146-4.542 10.146-10.146z" fill="#ffb636"/>   </g>   <g transform="matrix(0 -.60921 .60921 0 127.17 195.69)">    <path d="m29 32h-22c-0.55 0-1-0.45-1-1v-24c0-0.55 0.45-1 1-1h22c0.55 0 1 0.45 1 1v24c0 0.55-0.45 1-1 1z" fill="#ffac33"/>    <path d="m8 8h20v22h-20z" fill="#d99e82"/>    <path d="m28 30h-20l20-22z" fill="#ffd983"/>    <path d="m9 9h18v20h-18z" fill="#bbddf5"/>    <path d="m24.231 9-12.462 20h6.231l9-14.615v-5.385z" fill="#f5f8fa"/>    <path d="m28 8h-21v-1h22zm-20 22-1 1v-23h1z" fill="#662113"/>    <path d="m29 31h-22l1-1h21zm0-24-1 1v22h1z" fill="#c1694f"/>    <path d="m26.294 5.31s-0.163-0.587-1.04-1.069c-0.594-0.327-1.604-0.089-1.604-0.089s-0.323-0.834-1.634-1.366c-0.95-0.387-2.016 0.214-2.016 0.214 0-1-0.977-2-2-2s-2 1-2 2c0 0-1.066-0.601-2.016-0.214-1.31 0.532-1.634 1.366-1.634 1.366s-1.01-0.238-1.604 0.089c-0.876 0.482-1.04 1.069-1.04 1.069s-1.812 0.69-2.706 0.69h22c-0.894 0-2.706-0.69-2.706-0.69zm-19.294 26.69c0.894 0 2.706 0.414 2.706 0.414s0.163 0.352 1.04 0.642c0.594 0.196 1.604 0.053 1.604 0.053s0.323 0.5 1.634 0.82c0.95 0.231 2.016-0.129 2.016-0.129 0 0.6 0.977 1.2 2 1.2s2-0.6 2-1.2c0 0 1.066 0.36 2.016 0.129 1.31-0.319 1.634-0.82 1.634-0.82s1.01 0.143 1.604-0.053c0.876-0.289 1.04-0.642 1.04-0.642s1.812-0.414 2.706-0.414z" fill="#ffac33"/>    <path d="m9.868 6.375h1.132c0.207 0 0.375-0.168 0.375-0.375 0-0.317 0.092-0.537 0.28-0.673 0.551-0.398 1.793-0.115 2.227 0.029 0.114 0.038 0.238 0.018 0.335-0.052 0.097-0.069 0.156-0.182 0.158-0.301 2e-3 -0.147 0.056-0.628 0.625-0.628 0.688 0 1.483 0.641 1.734 0.889l1e-3 1e-3c0.146 0.146 0.384 0.146 0.53 0 0.144-0.144 0.146-0.376 7e-3 -0.523l-6e-3 -6e-3c-0.405-0.405-0.347-1.037-0.157-1.494 0.203-0.495 0.587-0.867 0.891-0.867s0.688 0.372 0.892 0.866c0.19 0.457 0.248 1.089-0.157 1.494l-6e-3 6e-3c-0.14 0.147-0.137 0.379 7e-3 0.523 0.146 0.146 0.383 0.146 0.531 0v-1e-3c0.25-0.247 1.045-0.888 1.733-0.888 0.569 0 0.622 0.481 0.625 0.625 0 0.121 0.058 0.233 0.155 0.304 0.099 0.07 0.226 0.09 0.338 0.052 0.433-0.143 1.674-0.427 2.227-0.029 0.188 0.136 0.28 0.356 0.28 0.673 0 0.207 0.168 0.375 0.375 0.375h1.132c0.207 0 0.375-0.168 0.375-0.375s-0.168-0.375-0.375-0.375h-0.79c-0.09-0.472-0.341-0.75-0.559-0.907-0.718-0.517-1.867-0.34-2.489-0.19-0.156-0.456-0.55-0.903-1.294-0.903-0.43 0-0.852 0.151-1.211 0.342 5e-3 -0.326-0.062-0.671-0.204-1.013-0.303-0.732-0.867-1.222-1.437-1.299-0.046-0.019-0.096-0.03-0.148-0.03s-0.102 0.011-0.148 0.031c-0.57 0.077-1.135 0.567-1.438 1.299-0.142 0.342-0.208 0.687-0.203 1.013-0.36-0.192-0.781-0.343-1.211-0.343-0.744 0-1.138 0.447-1.294 0.903-0.623-0.151-1.775-0.326-2.489 0.19-0.218 0.157-0.469 0.435-0.558 0.907h-0.791c-0.207 0-0.375 0.168-0.375 0.375s0.168 0.375 0.375 0.375zm16.264 24.95h-1.132c-0.207 0-0.405 0.222-0.405 0.429-0.333 0.283-1.708 0.214-2.533 0.076-0.11-0.018-0.218-7e-3 -0.302 0.063-0.084 0.071-0.131 0.156-0.131 0.267-0.016 0.043-0.163 0.165-0.629 0.165-0.896 0-1.823-0.456-1.833-0.461-0.184-0.091-0.409-0.018-0.502 0.168s-0.018 0.411 0.168 0.503c0.152 0.076 0.22 0.152 0.203 0.225-0.052 0.223-0.521 0.565-1.035 0.565s-0.983-0.343-1.035-0.565c-0.018-0.072 0.051-0.148 0.203-0.225 0.186-0.092 0.261-0.317 0.168-0.503-0.093-0.184-0.318-0.259-0.502-0.168-9e-3 5e-3 -0.937 0.461-1.833 0.461-0.466 0-0.614-0.122-0.625-0.125 0-0.11-0.048-0.215-0.133-0.286-0.083-0.071-0.194-0.1-0.304-0.084-0.823 0.139-2.198 0.208-2.563-0.13 0-0.207-0.168-0.375-0.375-0.375h-1.134c-0.207 0-0.375 0.168-0.375 0.375s0.168 0.375 0.375 0.375h0.848c0.049 0.093 0.118 0.177 0.204 0.251 0.611 0.517 2.153 0.38 2.854 0.287 0.164 0.227 0.507 0.462 1.227 0.462 0.435 0 0.864-0.084 1.226-0.187 2e-3 0.015 6e-3 0.029 9e-3 0.044 0.146 0.619 0.955 1.143 1.765 1.143s1.619-0.523 1.766-1.143l9e-3 -0.044c0.361 0.103 0.791 0.187 1.226 0.187 0.72 0 1.062-0.235 1.227-0.462 0.699 0.094 2.243 0.23 2.854-0.287 0.087-0.074 0.155-0.158 0.204-0.251h0.848c0.207 0 0.375-0.168 0.375-0.375s-0.171-0.375-0.378-0.375z" fill="#c1694f"/>   </g>   <path d="m63.689 181.43h57.263" style="fill:#ffff00;marker-end:url(#Arrow1Send);marker-start:url(#Arrow1Sstart);paint-order:markers fill stroke;stroke-linecap:round;stroke-linejoin:round;stroke-width:3;stroke:#ffff00"/>  </g> </svg> 
+![Alan and Betty doing science.](lightbounce.svg)
+
+The **speed of light is constant**. And speed is just distance over time. 
+So two things should happen in this example:
+
+- First, it should take the same amount of time for the light to go each way. 
+  If our clocks are in sync, then 
+  
+  $$⌚_3 - ⏰_2 = ⏰_2 - ⌚_1 = \text{The time it takes the light to travel distance d.}$$
+- Second, Alan should be able to measure the speed of light by timing how long it takes for the light to bounce back:
+  
+  $$\frac{2\cdot d}{⌚_3 - ⌚_1} = c$$
+
+  $$\frac{\text{Distance the light travels.}}{\text{The time it takes.}} = \text{Speed of Light}$$
+  
+  and this should always give the same speed. 
+
+### Woops. Time is now relative. 
+
+Let's measure a train. How long is it?
+
+Easy: However long the measuring stick says it is! 
+
+Let's measure the train while it's still, and call this length $📏_{still}$
+
+Things get a bit trickier when the train is in motion. 
+It would be really difficult and dangerous to put our measuring stick next to a moving train, so now we have two options.
+
+First option is to give the measuring stick to someone riding the the train,
+and ask them to measure it while it's moving. Call this length $📏_{onboard}$.
+
+Or we could take a picture of the train as it whizzes past, 
+mark the position of the front and back of the train at some specific point in time,
+and then measure the distance between those two points on the track.
+Call this length $📏_{outside}$.
+
+![Three different ways to measure a train.](trains-length.svg)
+
+So now we have three different measurements for the length of the train. 
+We used the same train and the same measuring stick each time, 
+so we'd expect that we'll get the same length, right?
+
+Our **Principle of Relativity** assumption says that if the train is moving at a constant velocity, 
+then the experience of a moving person measuring the moving train should be exactly the same
+as a still person measuring the still train. So
+
+$$📏_{still} = 📏_{onboard}$$
+
+But we don't know for sure whether $📏_{onboard}$ is also the same. (And we'll see in a later section that it isn't.)
+
+#### Example 3:
+
+Put Alan and Betty inside the moving train.
+
+1. Alan turns on his flashlight at time $⌚_1$. 
+2. The light goes forwards, in the same direction as the train, and hits Betty's mirror at time $⏰_2$. 
+3. The light bounces backwards and travels in the opposite direction, hitting Alan's eyes at time $⌚_3$. 
+
+There's also a third person, Carl, watching from alongside the tracks. He has his own clock.
+
+![An image showing the three people monitoring this experiment.](train-shift.svg)
+
+What does Carl see? 
+The **constant speed of light** assumption says that
+the light going forward from Alan's flashlight should be going the same speed 
+as the light bouncing backwards from Betty's mirror.
+Because the train is also moving, 
+the light will take longer to go from flashlight to mirror
+than it will to go from the mirror back to Alan.
+
+Therefore, if both Alan's and Betty's clocks are synchronized with Carl's clock, 
+Carl with observe that
+
+$$⌚_3 - ⏰_2 = \frac{📏_{outside}}{c+v} < \frac{📏_{outside}}{c-v} = ⏰_2 - ⌚_1$$
+
+where $v$ is the speed of the train and $c$ is the speed of light.
+
+What do Alan and Betty see?
+The **Principle of Relativity** assumption says that
+their experiment should work exactly like the one from Example 2.
+If their clocks are in sync with each other, then 
+
+$$⌚_3 - ⏰_2 = \frac{📏_{onboard}}{c} = ⏰_2 - ⌚_1$$
+
+Uh oh. Do you see the problem here?
+These two equations can't both be true.
+So if the clocks look in sync to Carl, then they can't look in sync to Alan and Betty.
+And vice versa. 
+
+This means that it's not just motion that's relative. 
+Even our concept of "things happening at the same time" depends on the frame of reference.
+This is the first weird consequence of our assumptions[^3].
+
+[^3]: We might then conclude that this is *too* weird; one of our assumptions must be wrong.
+    Maybe the light comes out of Alan's flashlight faster on a moving train.
+    Or maybe the Principle of Relativity just isn't that strong. 
+    But again, Einstein isn't providing evidence of these two assumptions;
+    there were already several big experiments showing them both to be true.
+    What Einstein is doing is *starting* with these assumptions, and then making predictions.
+    And as it turns out, the predictions are true. [Time really is relative](http://www.astronomy.ohio-state.edu/~pogge/Ast162/Unit5/gps.html).
+    It's just that we're usually not moving fast enough to notice.
 
 
-### 
+
+
+
+
+
+
