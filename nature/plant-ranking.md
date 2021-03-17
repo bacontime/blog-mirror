@@ -84,7 +84,7 @@ Tea Family (Theaceae)
 : Tea. It's good.
 
 Coffee Family (Rubiaceae)
-: Obviously, the star of the show is coffee, which I can admit is an impressive plant even if I don't like the stuff myself. But this family is full of plants with interesting medicinal properties, like the quinine tree, kratom, or that shrub they use to make ayahusca.
+: Obviously, the star of the show is coffee, which I can admit is an impressive plant even if I don't like the stuff myself. But this family is full of plants with interesting medicinal properties, like the quinine tree, kratom, or that shrub they use to make ayahuasca.
 
 
 Orchid Family (Orchidaceae)
