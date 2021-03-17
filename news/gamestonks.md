@@ -1,6 +1,7 @@
 ---
 title: "Gamestop stock and r/wallstreetbets"
 parent: News
+nav_exclude: true
 ---
 posted January 2021
 
