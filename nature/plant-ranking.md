@@ -1,6 +1,10 @@
 ---
-title: Ranking of common plant families.
+title: Plant Ranking
 ---
+
+
+# Ranking of common plant families.
+
 
 I came across this [identification guide for common plant families](https://www.sbbg.org/sites/default/files/pdfs/Docent%20Corner_Field%20ID%20of%2050%20most%20common%20plant%20families.pdf), and ranked the families as I read through the list.
 
