@@ -36,22 +36,20 @@ Lignin
 : Lignin is a more complicated polymer made by linking together several kinds of monomers. When mixed with cellulose, it increases the hardness and rot resistance of the material. Wood is a mixture of cellulose and lignin.
 
 Latex
-: Latex is a sticky substance made of polymers mixed with water. Plants make the stuff to protect themselves from predators.  Humans have figured out how to process some kinds of latex into materials like natural rubber and chicle.
+: Latex is a sticky substance made of polymers mixed with water. Plants make the stuff to protect themselves from predators.  Certain kinds of latex can be processed into materials like natural rubber and chicle.
 
 
 ### Bug polymers
 
 Chitin
-: A polymer used in the bodies of many animals and fungi. It's made by altering the sugar with nitrogen before linking it together. Chitin is used by insects and crabs to make their exoskeletons, and by fish to make their scales. Many scientists are trying to figure out a way of manufacturing chitin on large scales so that we can mold things out of it. The best we've figured out so far is to grind up shrimp shells and mix them with a bit of lye.
+: A polymer used in the bodies of many animals and fungi. It's made by altering the sugar with nitrogen before linking it together. Chitin is used by insects and crustaceans to make their exoskeletons, and by fish to make their scales. Many scientists are trying to figure out a way of manufacturing chitin on large scales so that we can mold things out of it. The best we've figured out so far is to grind up shrimp shells and mix them with a bit of lye.
 
-Shellac
-:
+Lac
+: A substance secreted by certain kinds of insects as protection while they feed on plants. People harvest lac and dissolve it in alchol to form shellac. It can be brushed onto a surface to form a glossy water-resistant coating (and similar synthetic materials are still called lacquers). It can also be molded into complex shapes. Before the invention of vinyl, records were typically made of shellac.
 
 Silk
-: 
+: This is the stuff spiders use to spin their webs. The spider keeps the liquid containing the silk monomers in its silk glad, and then squeezes the liquid through a twisted narrow passageway  called the spinneret while pulling on the other end. This process causes the components of the silk to connect together into a tough fiber. Many insects, most famously the silk worm, use a similar process to build a shelter out of silk. Natural silk cloth is made by combining the silk from thousands of silk worm coccoons. 
 
-There are many other important natural polymers, including natural rubber, shellac, and silk.
-And some of the substances in the human body are technically polymers, like protein and DNA.
 
 ### The polymers in our body.
 
@@ -65,7 +63,7 @@ Scleroprotein
 : Very long proteins that connect together into sheets or fibers. Due to their structure, these proteins behave the most like what we would typically call "plastic". Important scleroproteins include collagen keratin, Fibrin, and Elastin. 
 
 Collagen
-: The most common protein in the human body. It's tough and flexible, and used to make ligaments, tendons, cartilege and blood vessels. When mixed with a mineral called *hydroxyapatite*, it can be used to make bones and teeth. The name means "glue-maker", because we boil it down to make some kinds of glue.
+: The most common protein in the human body. It's tough and flexible, and used to make ligaments, tendons, cartilege and blood vessels. When mixed with a mineral called *hydroxyapatite*, it can be used to make bones and teeth. The name means "glue-maker", because we can boil it down to make some kinds of glue.
 
 Keratin
 : Long coiled protein polymers used to make claws, fingernails, hair, feathers, reptile scales, and tortoise shells, and rhino horns. It's very hard and tough. If a part of your skin is repeatedly subjected to stress, your body will put some keratin in the skin there to form a callus.
@@ -85,6 +83,22 @@ Elastin
 
 ### Cellulose-based plastics
 
+Nitrocellulose
+: The first man-made plastic. It's made by treating cellulose with a mixture of nitric acid and sulfuric acid. (An alchemist would call these "spirit of niter" and "oil of vitriol".) Nitrocellulose was discovered on accident after a chemist used a cotton apron to wipe up an acid spill. Later, his apron dramatically burst into flame when hung up to dry. When used as an explosive, it's called "gun cotton" or "smokeless gunpowder". But it can also be easily dissolved and painted onto a surface as a lacquer. Nail polish is primarily dissolved nitrocellulose.
+
+Celluloid
+:
+
+https://en.wikipedia.org/wiki/Collodion
+https://en.wikipedia.org/wiki/Celluloid
+https://en.wikipedia.org/wiki/Film_base#Nitrate
+https://en.wikipedia.org/wiki/Cellulose_acetate
+https://en.wikipedia.org/wiki/Nitrocellulose
+https://en.wikipedia.org/wiki/Cellulose_diacetate
+https://en.wikipedia.org/wiki/Cellulose_triacetate
+https://en.wikipedia.org/wiki/Sulfur_vulcanization
+https://en.wikipedia.org/wiki/Spandex
+
 Rayon (1894)
 : Cloth from wood! Chemically the same as cellulose, but arranged into much more regular fibers, which makes it great for use in textiles. [Made by](https://en.wikipedia.org/wiki/Rayon#Manufacture) treating wood pulp with lye and carbon disulfide (CS2, originally called "liquid sulfur"). The treated cellulose is then dissolved, and extruded through tiny holes into an acid bath. Because of the similarity between the extruder and a spider's spinnerets, rayon is sometimes called _artificial silk_.
 
@@ -98,6 +112,8 @@ Cellophane (1912)
 ### Food plastics
 
 If we're talking very broadly, bread can be thought of as one of the first man-made plastics. When we knead dough, we're encouraging the gluten proteins in the flour to connect together into long cross-connected fibers, which makes the bread flexible and chewy.
+
+Gelatin
 
 Xanthan gum (1960s)
 : A polysaccharide used to thicken liquids. Used in sauces and yogurt. Gluten-free use xantham gum as an alternative to kneaded gluten. It's also used to thicken non-food  liquids like shampoo or drilling fluid. It's created via fermentation. 
@@ -121,7 +137,9 @@ Vulcanized rubber
 Nitrocellulose
 
 https://en.wikipedia.org/wiki/Celluloid
-
+https://en.wikipedia.org/wiki/Plastic_film
+https://en.wikipedia.org/wiki/Plastic#History
+https://en.wikipedia.org/wiki/Timeline_of_plastic_development
 
 ### Modern petroleum plastics
 
