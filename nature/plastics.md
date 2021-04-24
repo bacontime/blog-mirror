@@ -83,17 +83,30 @@ Elastin
 
 ## Man-made polymers
 
-### Semi-natural plastics
-
-If we're talking very broadly, bread can be though of as one of the first man-made plastics. When we knead dough, we're encouraging the gluten proteins in the flour to connect together into long cross-connected fibers, which makes the bread flexible and chewy.
-
+### Cellulose-based plastics
 
 Rayon (1894)
-: Cloth from wood! Chemically the same as cellulose, but arranged into much more regular fibers, which makes it desirable for use in textiles. [Made by](https://en.wikipedia.org/wiki/Rayon#Manufacture) treating wood pulp with lye and carbon disulfide (originally called "liquid sulfur"). The treated cellulose is then dissolved, and extruded through tiny holes into an acid bath. Because of the similarity between the extruder and a spider's spinnerets, rayon is sometimes called _artificial silk_.
-
+: Cloth from wood! Chemically the same as cellulose, but arranged into much more regular fibers, which makes it great for use in textiles. [Made by](https://en.wikipedia.org/wiki/Rayon#Manufacture) treating wood pulp with lye and carbon disulfide (CS2, originally called "liquid sulfur"). The treated cellulose is then dissolved, and extruded through tiny holes into an acid bath. Because of the similarity between the extruder and a spider's spinnerets, rayon is sometimes called _artificial silk_.
 
 Cellophane (1912)
-: The name is a combination of "diaphanous" (thin enough to be transparent) and "cellulose". Made the same way as rayon, but a narrow slit is used instead of a spinneret. Widely used in all sorts of food packaging.
+: The name is a combination of "diaphanous" (thin enough to be transparent) and "cellulose". Made the same way as rayon, but a narrow slit is used instead of a spinneret. Used in food packaging, and other situations where clear, slightly breathable wrapping is desired.
+
+*Because both rayon and cellophane are essentially just smooth, thin bits of paper, both materials are biodegradable and environmentally friendly. However, the CS2 used in manufacturing is highly toxic. Also, the word "cellophane" is often used to refer to other sorts of plastic film. For example, when I search for "cellophane" on amazon, the first result (and best seller) is actually made of polypropylene.*
+
+
+
+### Food plastics
+
+If we're talking very broadly, bread can be thought of as one of the first man-made plastics. When we knead dough, we're encouraging the gluten proteins in the flour to connect together into long cross-connected fibers, which makes the bread flexible and chewy.
+
+Xanthan gum (1960s)
+: A polysaccharide used to thicken liquids. Used in sauces and yogurt. Gluten-free use xantham gum as an alternative to kneaded gluten. It's also used to thicken non-food  liquids like shampoo or drilling fluid. It's created via fermentation. 
+
+Other gum
+
+
+
+
 
 Casein plastic (1897)
 : Casein is the protein in milk that's good for your teeth and bones. It can also be used as the monomer to produce polymers like [milk fiber](https://en.wikipedia.org/wiki/Galalith) and [galalith (meaning "milk stone")](https://en.wikipedia.org/wiki/Galalith). These have largely been replaced by newer, cheaper materials, but milk stone is still sometimes used to make buttons for clothes. 
@@ -102,8 +115,6 @@ Bakelite (1907)
 : 
 
 
-Xanthan gum (1960s)
-: A polysaccharide used to thicken liquids. Used in sauces and yogurt. Gluten-free use xantham gum as an alternative to kneaded gluten. It's also used to thicken non-food  liquids like shampoo or drilling fluid. It's created via fermentation. 
 
 Vulcanized rubber
 
@@ -128,4 +139,5 @@ These are just my informal notes on polymers written in very simple terms. Most 
 Links:
 - [Polymers: an Overview](https://www.essentialchemicalindustry.org/polymers/polymers-an-overview.html) from Essential Chemical Industry. This website also has lots of interesting articles about other industrial chemical processes.
 - [This educational film](https://www.youtube.com/watch?v=Nl4bS-59w9c) from 1949 about rayon and nylon is an amusing watch.
+- [A video about rayon](https://www.youtube.com/watch?v=1daBc3lP9xA) from a fashion and environmental perspective.
 
