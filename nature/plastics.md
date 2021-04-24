@@ -83,13 +83,17 @@ Elastin
 
 ### Cellulose-based plastics
 
-Nitrocellulose
-: The first man-made plastic. It's made by treating cellulose with a mixture of nitric acid and sulfuric acid. (An alchemist would call these "spirit of niter" and "oil of vitriol".) Nitrocellulose was discovered on accident after a chemist used a cotton apron to wipe up an acid spill. Later, his apron dramatically burst into flame when hung up to dry. When used as an explosive, it's called "gun cotton" or "smokeless gunpowder". But it can also be easily dissolved and painted onto a surface as a lacquer. Nail polish is primarily dissolved nitrocellulose.
+Nitrocellulose (1846)
+: The first man-made plastic. It's made by treating cellulose with a mixture of nitric acid and sulfuric acid. (An alchemist would call these "spirit of niter" and "oil of vitriol".) Nitrocellulose was discovered on accident after a chemist used a cotton apron to wipe up an acid spill. Later, his apron dramatically burst into flame when hung up to dry. When used as an explosive, it's called "gun cotton" or "smokeless gunpowder". But it can also be easily dissolved and painted onto a surface as lacquer, replacing shellac. Nail polish is often dissolved nitrocellulose.
 
-Celluloid
-:
+<!--https://en.wikipedia.org/wiki/Collodion-->
 
-https://en.wikipedia.org/wiki/Collodion
+Celluloid (1862/1868)
+: A mixture of nitrocellulose with camphor, which is a stinky wax harvested from the camphor tree. The camphor makes the nitrocellulose stronger and easier to work with. Celluloid is a _thermoplastic_, which means that it can be heated to become soft, molded into shape, and then cooled back down to become hard. Celluloid's first application was as a replacement for the ivory (elephant tooth) previously used to make billiard balls, and soon became widely popular as a replacement for horn and ivory in all sorts of applications. Celluloid film was also the first flexible material which could hold photographs. This flexibility allowed many small photographs to be stored on a long coiled strip of film, and led to the rise of moving pictures as an art form. 
+
+Although the camphor makes the nitrocellulose significantly less explosive, celluloid is 
+
+
 https://en.wikipedia.org/wiki/Celluloid
 https://en.wikipedia.org/wiki/Film_base#Nitrate
 https://en.wikipedia.org/wiki/Cellulose_acetate
