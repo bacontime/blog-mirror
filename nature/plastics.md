@@ -81,6 +81,8 @@ Elastin
 
 ## Man-made polymers
 
+If we're talking very broadly, bread can be thought of as one of the first man-made plastics. When we knead dough, we're encouraging the gluten proteins in the flour to connect together into long cross-connected fibers, which makes the bread flexible and chewy.
+
 ### Cellulose-based plastics
 
 Nitrocellulose (1846)
@@ -89,40 +91,67 @@ Nitrocellulose (1846)
 <!--https://en.wikipedia.org/wiki/Collodion-->
 
 Celluloid (1862/1868)
-: A mixture of nitrocellulose with camphor, which is a stinky wax harvested from the camphor tree. The camphor makes the nitrocellulose stronger and easier to work with. Celluloid is a _thermoplastic_, which means that it can be heated to become soft, molded into shape, and then cooled back down to become hard. Celluloid's first application was as a replacement for the ivory (elephant tooth) previously used to make billiard balls, and soon became widely popular as a replacement for horn and ivory in all sorts of applications. Celluloid film was also the first flexible material which could hold photographs. This flexibility allowed many small photographs to be stored on a long coiled strip of film, and led to the rise of moving pictures as an art form. 
+: A mixture of nitrocellulose with camphor, which is a stinky wax harvested from the camphor laurel. The camphor makes the nitrocellulose stronger and easier to work with. Celluloid is a _thermoplastic_, which means that it can be heated to become soft, molded into shape, and then cooled back down to become hard. Celluloid's first application was as a replacement for the ivory (elephant tooth) previously used to make billiard balls, and soon became widely popular as a replacement for horn and ivory in all sorts of applications. Celluloid film was also the first flexible material which could hold photographs. This flexibility allowed many small photographs to be stored on a long coiled strip of film, and led to the rise of moving pictures as an art form.   
+    
+Oh, but do remember that this stuff is basically gunpowder. The camphor makes the nitrocellulose significantly *less* explosive, but it's still a *wee bit* explosive. Early celluloid billiard balls would sometimes explode on impact, and the tendency for film to spontaneously burst into flame was a huge problem for the early movie industry. If you have any ping-pong balls from [before 2014](https://web.archive.org/web/20140211033949/http://www.ittf.com/museum/archivesnewproto/BoD/2012%20BoD%20Minutes%20final.pdf), [make sure](https://www.youtube.com/watch?v=y3Ot1W-yiaE) to keep them away from open flame.
 
-Although the camphor makes the nitrocellulose significantly less explosive, celluloid is 
 
 
-https://en.wikipedia.org/wiki/Celluloid
 https://en.wikipedia.org/wiki/Film_base#Nitrate
 https://en.wikipedia.org/wiki/Cellulose_acetate
-https://en.wikipedia.org/wiki/Nitrocellulose
 https://en.wikipedia.org/wiki/Cellulose_diacetate
 https://en.wikipedia.org/wiki/Cellulose_triacetate
 https://en.wikipedia.org/wiki/Sulfur_vulcanization
 https://en.wikipedia.org/wiki/Spandex
 
-Rayon (1894)
+Rayon (1894 - Charles Frederick Cross, Edward John Bevan, Clayton Beadle)
 : Cloth from wood! Chemically the same as cellulose, but arranged into much more regular fibers, which makes it great for use in textiles. [Made by](https://en.wikipedia.org/wiki/Rayon#Manufacture) treating wood pulp with lye and carbon disulfide (CS2, originally called "liquid sulfur"). The treated cellulose is then dissolved, and extruded through tiny holes into an acid bath. Because of the similarity between the extruder and a spider's spinnerets, rayon is sometimes called _artificial silk_.
 
 Cellophane (1912)
 : The name is a combination of "diaphanous" (thin enough to be transparent) and "cellulose". Made the same way as rayon, but a narrow slit is used instead of a spinneret. Used in food packaging, and other situations where clear, slightly breathable wrapping is desired.
 
-*Because both rayon and cellophane are essentially just smooth, thin bits of paper, both materials are biodegradable and environmentally friendly. However, the CS2 used in manufacturing is highly toxic. Also, the word "cellophane" is often used to refer to other sorts of plastic film. For example, when I search for "cellophane" on amazon, the first result (and best seller) is actually made of polypropylene.*
+*Because both rayon and cellophane are essentially just smooth, thin bits of cellulose, both materials are biodegradable and environmentally friendly. However, the CS2 used in manufacturing is highly toxic. Also, the word "cellophane" is often used to refer to other sorts of plastic film. For example, when I search for "cellophane" on amazon, the first result (and best seller) is actually made of polypropylene.*
 
+Xanthan gum (1960s)
+: A polysaccharide used to thicken liquids. Used in sauces and yogurt. Gluten-free foods use xantham gum as an alternative to kneaded gluten. It's also used to thicken non-food  liquids like shampoo or drilling fluid. It's created via fermentation. 
 
 
 ### Food plastics
 
-If we're talking very broadly, bread can be thought of as one of the first man-made plastics. When we knead dough, we're encouraging the gluten proteins in the flour to connect together into long cross-connected fibers, which makes the bread flexible and chewy.
 
 Gelatin
 
-Xanthan gum (1960s)
-: A polysaccharide used to thicken liquids. Used in sauces and yogurt. Gluten-free use xantham gum as an alternative to kneaded gluten. It's also used to thicken non-food  liquids like shampoo or drilling fluid. It's created via fermentation. 
 
 Other gum
+
+
+### Fossil-fuel-based plastics
+
+Phenol-formaldehyde resins (1872 - Adolf von Baeyer, Werner Kleeberg)
+: Phenol is one of the earliest chemical antiseptics, and is derived from coal tar. Formaldehyde is made from wood alcohol (methanol), and is used as a medical preservative. When mixed together, they react to form a hard polymer which is difficult to dissolve and can ruin lab equipment.
+
+Early PF resins were difficult to work with and basically useless. But other chemists saw potential in the material, and tried to find improvements.
+With the spread of electricity, people needed an insulator to coat electrical wires. The best option at the time was shellac, but the lac bugs couldn't be farmed fast enough to meet this new source of demand. This incentivized Leo Baekeland to experiment with the the stuff
+
+Bakelite (1907 - Leo Baekeland)
+: The first modern plastic. Bakelite is made by cooking PF resin at very high pressure. This plastic can be shaped when hot, but doesn't soften when reheated. It's a good electrical insulator, and unlike its alternatives, bakelite is very hard to scratch, burn, or melt. It replaced celluloid for most applications, which was great because bakelite doesn't randomly explode. For the next few decades, everything was being made out of bakelite: electronics, cars, buttons, board games, billiard balls, jewelry. At one point, the US Mint [considered making pennies out of Bakelite](https://uspatterns.stores.yahoo.net/p2073.html).
+
+
+
+
+### Other monomers
+
+Polystyrene 
+: The monomer styrene is an oil substance which can be extracted from balsam or cinnamon, though the majority of production nowadays comes from
+https://en.wikipedia.org/wiki/Styrene
+
+
+
+
+
+
+
+
 
 
 
@@ -131,8 +160,6 @@ Other gum
 Casein plastic (1897)
 : Casein is the protein in milk that's good for your teeth and bones. It can also be used as the monomer to produce polymers like [milk fiber](https://en.wikipedia.org/wiki/Galalith) and [galalith (meaning "milk stone")](https://en.wikipedia.org/wiki/Galalith). These have largely been replaced by newer, cheaper materials, but milk stone is still sometimes used to make buttons for clothes. 
 
-Bakelite (1907)
-: 
 
 
 
@@ -162,4 +189,11 @@ Links:
 - [Polymers: an Overview](https://www.essentialchemicalindustry.org/polymers/polymers-an-overview.html) from Essential Chemical Industry. This website also has lots of interesting articles about other industrial chemical processes.
 - [This educational film](https://www.youtube.com/watch?v=Nl4bS-59w9c) from 1949 about rayon and nylon is an amusing watch.
 - [A video about rayon](https://www.youtube.com/watch?v=1daBc3lP9xA) from a fashion and environmental perspective.
+- The American Chemical Society on the [Invention of Bakelite](https://www.acs.org/content/acs/en/education/whatischemistry/landmarks/bakelite.html)
+- [Major Industrial Polymers](https://www.britannica.com/topic/industrial-polymers-468698) from Brittanica.
+- Nilered's plastic-making videos: 
+    - [Bakelite](https://www.youtube.com/watch?v=phNLecfyWS8)
+    - [Nylon](https://www.youtube.com/watch?v=HTh_5CWMSoQ)
 
+https://www.ptonline.com/articles/tracing-the-history-of-polymeric-materials-part-5
+https://en.wikipedia.org/wiki/Catalin
