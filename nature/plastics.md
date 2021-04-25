@@ -116,14 +116,6 @@ Xanthan gum (1960s)
 : A polysaccharide used to thicken liquids. Used in sauces and yogurt. Gluten-free foods use xantham gum as an alternative to kneaded gluten. It's also used to thicken non-food  liquids like shampoo or drilling fluid. It's created via fermentation. 
 
 
-### Food plastics
-
-
-Gelatin
-
-
-Other gum
-
 
 ### Fossil-fuel-based plastics
 
@@ -137,14 +129,117 @@ Bakelite (1907 - Leo Baekeland)
 : The first modern plastic. Bakelite is made by cooking PF resin at very high pressure. This plastic can be shaped when hot, but doesn't soften when reheated. It's a good electrical insulator, and unlike its alternatives, bakelite is very hard to scratch, burn, or melt. It replaced celluloid for most applications, which was great because bakelite doesn't randomly explode. For the next few decades, everything was being made out of bakelite: electronics, cars, buttons, board games, billiard balls, jewelry. At one point, the US Mint [considered making pennies out of Bakelite](https://uspatterns.stores.yahoo.net/p2073.html).
 
 
+Ethylene
+
+
+
+And from there it gets crazy. Listen, there's like a a bajillion different plastics you can make from ethylene. The stuff is wack.
+
+
+
+
+Ethylene, as it turns out, is an incredibly fascinating molecule. But we can leave that for the next section. For now, it suffices to say that it's a simple, sweet-smelling gas.
+
+So to make the food containers in my cabinets, we need to first make some ethylene and then connect the ethylene into very long chains so that we can injection mold it.
+
+How is it made?
+To connect the individual ethylene units into a plastic polymer, chemists use something called a Ziegler–Natta catalyst, which is a metallic compound that guides the reaction of the monomers and helps them to grow into long chains. We don't need fossil fuels for this step.
+
+But where do we get the ethylene? 
+
+The main source of ethylene production is, sure enough, from fossil fuels. You take some crude oil, heat it up with steam, and you're off to the races. The process is called steam-cracking.
+
+But there are non-fossil-fuel sources of the substance as well. In particular, ethanol (the stuff in wine that gets you drunk) is the hydrate of ethylene. To oversimplify, ethanol = ethylene + water, and converting between the two is fairly straightforward. 
+
+So, because we can make ethanol through fermentation, we have a non-fossil fuel pathway to making plastic food containers. And in fact, there are some firms today that manufacture ethylene from sugar-cane derived ethanol, though these make up only a small percentage of global output. There are also commercially available catalytic generators for converting ethanol to ethylene on a small scale.
+
+
+
+
+
+
+Sidenote: Ethylene is Kinda Crazy Stuff:
+According to Essential Chemistry Online, it's one of the most widely manufactured chemicals on earth, and possibly the most widely manufactured organic molecule by tonnage. (Glucose and its derivatives beats it out in terms of production, but that's grown instead of manufactured for the most part.) This is because it's not just the building block for polyethylene, but also as the precursor for all sorts of other compounds, including the vinyl use to make records.
+
+It's also a very important plant hormone that triggers aging. It's what causes flowers to develop and fruit to ripen. It's also what causes leaves to fall from trees. My wife is very particular in how she stores her fruit, claiming for example that putting apples next to the kiwis will make the kiwis taste sweeter. Turns out, that's not just a weird tradition from her grandma; apples offgas ethylene! Small scale ethylene production is often used for this purpose, generating ethylene gas in an enclosed shed to rapidly ripen fruits. 
+
+Old-timey kerosene lamps produce small amounts of ethylene in their smoke, leading to a bizarre phenomenon in the late 1800s and early 1900s where street lights were killing the trees along city streets.
+
+Oh yeah, and it's also psychoactive. It smells sweet and induces euphoria when inhaled, so was tried for a time as an anesthetic alternative to chloroform. It's also highly explosive in high concentrations, so doctors stopped using it that way as soon as better alternatives were found. There's also speculation that the prophetic visions of the Oracle of Delphi were triggered by ethylene inhalation.
+
+John Collier - Priestess of Delphi - 1891		
+
+
+
+
+
+
+
+Plausible Invention - Would the stuff have been invented without fossil fuels?
+It stands to reason, however, that physical possibility is necessary but insufficient for a technology to arise. Physics and chemistry today are exactly the same as they were when the first human was born in the distant past. Yet it took tens of thousands of years to come up with the storage containers to hold my leftover lasagna. 
+
+Let's take a look at how these chemical processes were actually discovered.
+
+The Development of the polymer:
+
+The Development of the monomer:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sidenote about the cultural importance of Ethylene. Plants and so forth. Oracle of Delphi
+
+
+Quote textbook about corn production
+Until about 1950, ethylene was expensive and was obtained from fermentation ethanol by dehydration – the reverse of the above processes. With the advent of cheap ethylene from steam cracking, the petrochemical route to ethanol became more economical than fermentation. By the early 1970s, scarcely any industrial ethanol was made by fermentation in the United States, although there was a legal requirement in most countries that potable ethanol be made in the traditional way. In the United States in the 1980s, this trend was reversed when government subsidies were introduced to facilitate the production of ethanol by fermentation of corn starch. The product went into automotive fuel known as gasohol. Fermentation ethanol is not economical without subsidies. 
+From INDUSTRIAL ORGANIC CHEMICALS, 3rd edition (Wittcoff Reuben Plotkin 2013)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Other monomers
 
-Polystyrene 
-: The monomer styrene is an oil substance which can be extracted from balsam or cinnamon, though the majority of production nowadays comes from
-https://en.wikipedia.org/wiki/Styrene
+Polystyrene (1839 - Eduard Simon)
+: Polystyrene is the 'cheap feeling' plastic used to make packagin foam and disposable forks. The monomer styrene is an oily substance which can be extracted from balsam or cinnamon, though the majority of production nowadays comes from fossil fuels.
 
+
+PVC
+
+
+### Ethylene 
 
 
 
