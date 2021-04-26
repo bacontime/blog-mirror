@@ -16,10 +16,10 @@ Grasses (Poaceae)
 : Maize, wheat, rice, and other grains provide the majority of dietary energy for humanity. Bamboo, reeds, and straw are common building materials. Sugarcane is an important source of biofuels. We eat it, we live in it, we use it as decoration, we play sports on it, we ferment it to get drunk. Basically the entire human experience is dedicated to cultivating and enjoying grass.
 
 Legume Family (Fabaceae)
-: Peas, peanuts, beans, chickpeas, alfalfa, liquorice. Important staple crops that fix nitrogen and heal soil. Also includes things like acacia, which is used to make gum, and true indigo, which is used to make, well, indigo. And clovers for luck!
+: Peas, peanuts, beans, chickpeas, alfalfa, liquorice. Important staple crops that fix nitrogen and heal soil. Also includes things like acacia, which is used to make gum, and true indigo, which is used to make, well, indigo. And clovers for luck! I've heard people say that the use of these plants to rejuvenate soil is one of the things which boosted agricultural productivity enough to kickstart the industrial revolution. So thanks, Legume. Thanks for eveything.
 
 Nightshades (Solanaceae)
-: Yes, some of them are deadly poison. But some of them are only *somewhat* poisonous, including potatoes, tomatoes, eggplant, bell peppers, chili peppers, tomatillos, and tabacco. Potatoes are some of the most nutritious and land/resource-efficient food crops. They really are a miracle, and we all owe a debt of gratitude to whatever ancient south american farmer ate a bunch of nightshade until finding the ones that aren't deadly poison. Even tabacco, infamous for its use as a drug, is important for scientific research as a model organism.
+: Yes, some of them are deadly poison. But some of them are only *somewhat* poisonous, including potatoes, tomatoes, eggplant, bell peppers, chili peppers, tomatillos, and tabacco. Potatoes are some of the most nutritious and land/resource-efficient food crops. They really are a miracle, and we all owe a debt of gratitude to whatever ancient south american farmer ate a bunch of nightshade until finding the ones that are just barely poisonous. Even tabacco, infamous for its use as a drug, is important for scientific research as a model organism.
 
 
 ---
@@ -37,7 +37,7 @@ Oak Family (Fagaceae)
 : Oak, chestnut, and beech. The backbone of American forests.
 
 Palms (Arecaceae)
-: A classic cultural symbol, mentioned dozens of times in scripture. Dates and coconuts are very important fruits. And to be honest, I just like to look at them. They're neat.
+: A classic cultural symbol,  representing victory, peace, paradise, and vaporwave. Dates and coconuts are very important fruits which come from palms. And to be honest, I just like to look at them. They're neat.
 
 Olive Family (Oleaceae)
 : Olives, ash, jasmine, and lilacs. This deserves it's place up her for cultural reasons even before considering it's oily magnificence.
