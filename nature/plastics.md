@@ -292,3 +292,6 @@ Links:
 
 https://www.ptonline.com/articles/tracing-the-history-of-polymeric-materials-part-5
 https://en.wikipedia.org/wiki/Catalin
+
+
+https://www.youtube.com/watch?v=OyLnKz7uNMQ
