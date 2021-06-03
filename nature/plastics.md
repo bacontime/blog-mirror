@@ -295,3 +295,8 @@ https://en.wikipedia.org/wiki/Catalin
 
 
 https://www.youtube.com/watch?v=OyLnKz7uNMQ
+
+
+Only video I could find on youtube that actually makes galalith. 
+If you don't use the formaldehyde, it's just dried cheese!
+https://www.youtube.com/watch?v=Wsg1ftunQFg
