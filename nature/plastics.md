@@ -303,3 +303,10 @@ https://www.youtube.com/watch?v=Wsg1ftunQFg
 
 
 https://archive.org/details/caseinitsprepara00scherich/page/88/mode/2up
+
+
+> Note that the price of any
+commodity is set by the costs of the least efficient producer who has stayed in
+business.  
+-- Wittcoff Reuben, Plotkin
+
