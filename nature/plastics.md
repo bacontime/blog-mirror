@@ -154,7 +154,7 @@ But there are non-fossil-fuel sources of the substance as well. In particular, e
 So, because we can make ethanol through fermentation, we have a non-fossil fuel pathway to making plastic food containers. And in fact, there are some firms today that manufacture ethylene from sugar-cane derived ethanol, though these make up only a small percentage of global output. There are also commercially available catalytic generators for converting ethanol to ethylene on a small scale.
 
 
-
+("Mechanism of Metathesis" totally sounds alchemical.)
 
 
 
@@ -193,16 +193,31 @@ The Development of the monomer:
 
 
 
+This page also mentions that the stuff was initially manufactured in small batches back in the 1880s. And besides, any self respecting wizard needs formaldehyde for their jars of twitching magical eyeballs. So sure, fantasy formaldehyde is a go go.
+
+https://www.formacare.eu/about-formaldehyde/history-of-formaldehyde/
 
 
 
+products, and coproducts resulting in the wrong amounts for the market
 
 
 
+> Wood was originally converted to chemically useful substances by destructive distil-
+lation. This involved heating the wood above 100 ? C to drive off water, followed by
+furtherheatingabove270 ? Cintheabsenceofair.Themainproductwascharcoal,which
+wasusefulinsteelmaking.Onetonofhardwoodgaveabout270kgcharcoal.Theliquid
+products, known as pyroligneous acid, contained about 50kg acetic acid, 16kg
+methanol, and 8kg acetone plus 190kg soluble tars and 50kg insoluble tars. It is
+astonishing that, before the First World War, this yield of less than 1% was seen as an
+acceptable source of acetone (Section 6.7) and it was the only source of industrial
+methanol. 32 Destructivedistillationofpinewoodalsogaveterrenesandhenceturpentine.
 
 
-
-
+> shows part of the lignin structure and some of the products
+that a U.S. Department of Energy report feels might be made from it. The report
+produces literally hundreds of possibilities but scarcely any of them are currently
+commercialized. Key problems are solids handling, fractionation of feedstocks and products, and coproducts resulting in the wrong amounts for the market
 
 
 
@@ -219,11 +234,16 @@ From INDUSTRIAL ORGANIC CHEMICALS, 3rd edition (Wittcoff Reuben Plotkin 2013)
 
 
 
+For many years propylene was ethylene’s ugly sister, a by-product that was used in
+therefinery,soldatafractionaboveitsfuelvalueorburned
 
 
 
-
-
+>  Cows and other
+ruminants (broadly thosethat are accepted by Jews askosher)havedigestivesystems
+containing organisms with enzymes that hydrolyze cellulose, and they are therefore
+able to use grass and similar materials for food. It is  a slow process all the same, and the
+average cow has time for little else.
 
 
 
@@ -304,9 +324,17 @@ https://www.youtube.com/watch?v=Wsg1ftunQFg
 
 https://archive.org/details/caseinitsprepara00scherich/page/88/mode/2up
 
+> Cen
+trifugal compressors are the greatest contribution of mechanical engineering to the
+chemical industry.
 
 > Note that the price of any
 commodity is set by the costs of the least efficient producer who has stayed in
 business.  
 -- Wittcoff Reuben, Plotkin
 
+
+hydrochloric acid potentially first described in magia naturalis, the book of natural magic
+https://web.archive.org/web/20180416080731/http://www.mindserpent.com/American_History/books/Porta/jportat2.html
+
+http://wwwcourses.sens.buffalo.edu/ce435/Polyethylene/CE435Kevin.htm
