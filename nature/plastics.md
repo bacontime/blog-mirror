@@ -328,6 +328,22 @@ https://archive.org/details/caseinitsprepara00scherich/page/88/mode/2up
 trifugal compressors are the greatest contribution of mechanical engineering to the
 chemical industry.
 
+> Sulfur dioxide pollution remains serious in the developing world, and also in
+Eastern Europe, where cheap and readily available soft coal or lignite are traditional
+fuels. In low-technology grates, coal combustion is better described as destructive
+distillation and is only slightly better than burning camel dung in a tent. The health
+consequencesarenottrivial.IntheUnitedStatesin1995,9%ofdeathswereattributed
+to respiratory disease arising from combustion-related air pollution. In China, where
+coalisextensivelyusedasadomesticfuel,theproportionwas21.8%.
+
+> Unless you are living on the sun, where nuclear fusion occurs, hydrogen is not an
+energysource.It isan energycarrier.Thebasicproblem ishow toobtain it.Although
+about40millionmetrictonsofhydrogenisproducedannuallybytheoilandchemical
+industries,mostofitiscaptiveproductionusedinammoniaandmethanolproduction
+and refinery processes. To obtain it from water requires as much energy as can be
+recovered when it is burned to water
+
+
 > Note that the price of any
 commodity is set by the costs of the least efficient producer who has stayed in
 business.  
@@ -338,3 +354,33 @@ hydrochloric acid potentially first described in magia naturalis, the book of na
 https://web.archive.org/web/20180416080731/http://www.mindserpent.com/American_History/books/Porta/jportat2.html
 
 http://wwwcourses.sens.buffalo.edu/ce435/Polyethylene/CE435Kevin.htm
+
+
+---
+
+What about rubber?
+
+> After polyethylene and poly(vinyl chloride), the third large tonnage polymer to be
+made from ethylene is polystyrene. Its monomer, styrene, was used initially not in
+polystyrene but in a copolymer with butadiene that served as a substitute for natural
+rubber. Germany had started commercial production of Buna S rubber in 1938 and
+during World War II was totally dependent on it. With the capture by Japan of the
+rubberproducingareasofSoutheastAsia,theUnitedStatestoowasforcedintoacrash
+program for synthetic rubber development. The Buna S-type (GR-S) rubber was the
+result of an admirable coordinated effort between many academic, industrial, and
+government laboratories. If either side in thewar had lacked synthetic rubber, its war
+effort might have collapsed.
+Synthetic rubbers now account for about 59.4% of world consumption, excluding
+thermoplastic rubbers, which account for 5.4%, leaving 35.2% for natural rubber.
+Natural rubber styrene-butadiene (SBR) rubber, the descendant of Buna S and GR-S,
+is the preferred material for automobile tires together with lesser amounts of
+polybutadiene rubber, butyl rubber, and natural rubber (Section 7.1) and accounts
+for rather over half of world synthetic rubber production.
+
+Styrene Butadiene Rubber is the rubber most often used in car tires.
+
+Page 278 has a table of elastomers
+
+As described on [the wiki page for butadiene](https://en.wikipedia.org/wiki/Butadiene), it can be made fairly easily from ethanol.
+
+The styrene comes from ethylene and benzene. But toluene can be used instead, which can be distilled from pine oil?
