@@ -108,7 +108,8 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 [Bon Appétit](https://www.youtube.com/user/BonAppetitDotCom/videos?view=0&sort=p&flow=grid)
 : This is the one where they make gourmet skittles
 
-
+[Tasting History](https://www.youtube.com/c/TastingHistory/videos)
+: Historically accurate recipes, along with discussion of adjacent history.
 
 
 
