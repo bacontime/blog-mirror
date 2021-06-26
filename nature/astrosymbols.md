@@ -42,4 +42,6 @@ You will need the [Catrinity font](http://catrinity-font.de/) installed to prope
     </tr>
 </table>
 
-
+|Symbol|Name|
+|:-:|:-:|
+| &#xF5da; | Blahblg|
