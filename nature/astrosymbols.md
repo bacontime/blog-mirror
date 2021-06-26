@@ -32,7 +32,7 @@ You will need the [Catrinity font](http://catrinity-font.de/) installed to prope
     </tr>
     </thead>
     <tr>
-        <td>&#xF5da</td>
+        <td>\&#xF5da; &#xF5da; </td>
         <td>Vesta</td>
         <td></td>
     </tr>
