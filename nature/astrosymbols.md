@@ -30,9 +30,9 @@ You will need the [Catrinity font](http://catrinity-font.de/) installed to prope
 <table>
     <thead>
     <tr>
-        <td>Sym</td>
-        <td>Vesta</td>
-        <td>Namesake's Domain</td>
+        <th>Sym</th>
+        <th>Vesta</th>
+        <th>Namesake's Domain</th>
     </tr>
     </thead>
     <tr>
