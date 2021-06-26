@@ -46,42 +46,41 @@ You will need the [Catrinity font](http://catrinity-font.de/) installed to prope
 |:-:|:--|:--|
 | &#xF5BB; | Blahblg|  |
 | &#xF89A; | Blahblg|  |
-| &#xF5D0; |  |  |
-| &#xF5D1; |  |  |
-| &#xF5D2; |  |  |
-| &#xF5D3; |  |  |
+| &#xF5D0; | Sun Wheel |  |
+| &#xF5D1; | Eclipse |  |
+| &#xF5D2; | Selena |  |
+| &#xF5D3; | Crescent |  |
 | &#xF5D4; |  |  |
 | &#xF5D5; |  |  |
 | &#xF5D6; |  |  |
 | &#xF5D7; |  |  |
 | &#xF5D8; |  |  |
-| &#xF5D9; |  |  |
-| &#xF5DA; |  |  |
-| &#xF5DB; |  |  |
-| &#xF5DC; |  |  |
-| &#xF5DD; |  |  |
-| &#xF5DE; |  |  |
-| &#xF5DF; |  |  |
-| &#xF5E0; |  |  |
-| &#xF5E1; |  |  |
-| &#xF5E2; |  |  |
-| &#xF5E3; |  |  |
-| &#xF5E4; |  |  |
-| &#xF5E5; |  |  |
-| &#xF5E6; |  |  |
-| &#xF5E7; |  |  |
-| &#xF5E8; |  |  |
-| &#xF5E9; |  |  |
-| &#xF5EA; |  |  |
-| &#xF5EB; |  |  |
-| &#xF5EC; |  |  |
-| &#xF5ED; |  |  |
-| &#xF5EE; |  |  |
-| &#xF5EF; |  |  |
-| &#xF5F0; |  |  |
-| &#xF5F1; |  |  |
-| &#xF5F2; |  |  |
-| &#xF5F3; |  |  |
+| &#xF5D9; | Vulcan |  |
+| &#xF5DA; | Haumea |  |
+| &#xF5DB; | Makemake |  |
+| &#xF5DC; | Astraea |  |
+| &#xF5DD; | Hebe |  |
+| &#xF5DE; | Iris |  |
+| &#xF5DF; | Flora |  |
+| &#xF5E0; | Metis |  |
+| &#xF5E1; | Hygeiea |  |
+| &#xF5E2; | Parthenope |  |
+| &#xF5E3; | Victoria |  |
+| &#xF5E4; | Egeria |  |
+| &#xF5E5; | Irene |  |
+| &#xF5E6; | Eunomia |  |
+| &#xF5E7; | Psyche |  |
+| &#xF5E8; | Thetis |  |
+| &#xF5E9; | Melpomene |  |
+| &#xF5EA; | Fortuna |  |
+| &#xF5EB; | Proserpina |  |
+| &#xF5EC; | Bellona |  |
+| &#xF5ED; | Amphitrite |  |
+| &#xF5EE; | Leukothea |  |
+| &#xF5EF; | Fides |  |
+| &#xF5F1; | Ixion |  |
+| &#xF5F2; | Typhon |  |
+| &#xF5F3; | Quaoar |  |
 | &#x; |  |  |
 | &#x; |  |  |
 | &#x; |  |  |
