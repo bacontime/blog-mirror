@@ -9,39 +9,31 @@ td {font-family: Catrinity;}
 |Symbol|Name|Namesake's Associations|
 |:-:|:--|:--|
 | &#x; |  |  |
-| &#x2600; | sun |  |
-| &#x2604; | comet |  |
-| &#x2605; | star |  |
-| &#x2606; | star |  |
-| &#x2609; | sun | gold |
-| &#x260a; |  |  |
-| &#x260b; |  |  |
-| &#x260c; |  |  |
-| &#x260d; |  |  |
-| &#x263c; | sun |  |
-| &#x263d; | moon | silver |
-| &#x263e; | moon |  |
-| &#x263f; | mercury |  |
-| &#x2640; | venus |  |
-| &#x2641; | earth |  |
-| &#x2642; | mars |  |
-| &#x2643; | jupiter |  |
-| &#x2644; | saturn |  |
-| &#x2645;⛢ | uranus |  |
-| &#x2646;♆⯉ | neptune |  |
-| &#x2647; | pluto |  |
-| &#x2648; | aries |  |
-| &#x2649; | taurus |  |
-| &#x264a; | gemini |  |
-| &#x264b; | cancer |  |
-| &#x264c; | leo |  |
-| &#x264d; | virgo |  |
-| &#x264e; | libra |  |
-| &#x264f; | scorpius |  |
-| &#x2650; | sagittarius |  |
-| &#x2651; | capricorn |  |
-| &#x2652; | aquarius |  |
-| &#x26ce; | Ophiuchus |  |
+| ☀☉☼ | sun | gold |
+| ☄ | comet |  |
+| ☆ | star |  |
+| ☽☾ | moon | silver |
+| ☿ | mercury |  |
+| ♀ | venus |  |
+| ♁ | earth |  |
+| ♂ | mars |  |
+| ♃ | jupiter |  |
+| ♄ | saturn |  |
+| ♅⛢ | uranus |  |
+| ♆⯉ | neptune |  |
+| ♇ | pluto |  |
+| ♈ | aries |  |
+| ♉ | taurus |  |
+| ♊ | gemini |  |
+| ♋ | cancer |  |
+| ♌ | leo |  |
+| ♍ | virgo |  |
+| ♎ | libra |  |
+| ♏ | scorpius |  |
+| ♐ | sagittarius |  |
+| ♑ | capricorn |  |
+| ♒ | aquarius |  |
+| ⛎ | Ophiuchus |  |
 | ⚳ | Ceres |  |
 | ⚴ | Pallas |  |
 | ⚵ | Juno |  |
