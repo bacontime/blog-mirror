@@ -112,40 +112,40 @@ Some are official unicode, but some are specific to Catrinity.
 
 
 
-
-
+♃ can be electricity or clouds?
+♄ seems earth or flesh or rust? (ravages of time?)
 
 
 |||
 |:-:|:-:|
 |  |acid|
 |  |base|
-| ⚵ |blood|
-| ⚴ |bone|
+|⚵|blood|
+|⯚|bone|
 |  |chitin|
-| ⚳ |clay|
-| ♁ |earth|
-| ♃☈ |electricity|
-| ⚶ |fire|
-| ⚶ |flesh|
-|  |glass|
-| ☉ |gold|
-|  |ice|
-| ♂ |iron|
-| ⯦ |lava|
-| ☼ |light|
+|⚳|clay|
+| ♁⊕ |earth|
+| ♃⯢☈ |electricity|
+| ⚶ |fire|
+| ⚶♐ |flesh|
+||glass|
+|☉|gold|
+| ⯘ |ice|
+|♂|iron|
+|⯦|lava|
+|☼|light|
 | ☊ |magnetism|
-|  |mist+|
-|  |rust|
-| ϴ |salt|
-| ⚷ |sand|
+| ⯓ |mist+|
+|♄|rust|
+|ϴ|salt|
+|⚷|sand|
 | ⚸⯕ |shadow|
-|  |smoke+|
+| ⯔ |smoke+|
 |  |steam+|
-|  |stone|
-| ♅ |vacuum+|
-| ☥ |water|
-|  |wood|
+| ♇ |stone|
+|♅|vacuum+|
+|♆|water|
+|⚴|wood|
 
 
 Maybe use the * ones for air? Or for non-elementals?
