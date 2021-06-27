@@ -1,7 +1,7 @@
 
 
 <style>
-td {font-family: Catrinity;}
+td {font-family: Catrinity; padding:0em;}
 </style>
 
 
@@ -124,7 +124,7 @@ Some are official unicode, but some are specific to Catrinity.
 |  |bone|
 |  |chitin|
 | ⚳ |clay|
-| ♁ |earth|
+| ♁ |earth|
 | ♃☈ |electricity|
 | ⚶ |fire|
 |  |flesh|
@@ -144,7 +144,7 @@ Some are official unicode, but some are specific to Catrinity.
 |  |steam+|
 |  |stone|
 | ♅ |vacuum+|
-|  |water|
+| ☥ |water|
 |  |wood|
 
 
