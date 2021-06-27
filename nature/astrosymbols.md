@@ -40,31 +40,15 @@ td {font-family: Catrinity;}
 | ⚶ | Vesta |  hearth, home, family, |
 | ⚷ | Chiron | smart centaur dude.  |
 | ⚸ ⯞ | Lilith |  |
-|  |  |  |
-|  |  |  |
-|  |  |  |
-| &#x; |  |  |
 | ⯗ | Transpluto |  |
-|  | Proserpina |  |
-|  | Astraea |  |
-|  | Hygiea |  |
 | ⯛ | Pholus | smart centaur |
 | ⯜ | Nessus | famous centaur with poison blood |
-|  | Selena |  |
-|  | Lilith |  |
 | ⯟ | Arta | name means golden |
 | ⯠ | Cupido | eroptic love, desire |
-|  | Hades |  |
-|  | Zeus |  |
-|  | Kronos |  |
 | ⯤ | Apollon | sunlight, oracles, musice, herds |
 | ⯥ | Admetos | untamed, some king dude, herdsman |
-|  | Vulcanus |  |
-|  | Poseidon |  |
 | ⯰⯱ | Eris | strife, discord |
 | ⯲ | Sedna | sea, sea-mammals, ice, meat and bone, knives |
-|  |  |  |
-|  |  |  |
 
 
 ## Other Astronomical Symbols
@@ -105,14 +89,6 @@ Some are official unicode, but some are specific to Catrinity.
 | &#xF5F1; | Ixion | kin-slayer, cloud doinker, centaur daddy |
 | &#xF5F2; | Typhon | smoke, abyss, volcano, whirlwind, snake |
 | &#xF5F3; | Quaoar | ? Maybe a creator diety or culture hero?, spies, morality, hallucinogens |
-| &#x; |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-
 
 
 
