@@ -120,24 +120,24 @@ Some are official unicode, but some are specific to Catrinity.
 |:-:|:-:|
 |  |acid|
 |  |base|
-|  |blood|
-|  |bone|
+| ⚵ |blood|
+| ⚴ |bone|
 |  |chitin|
 | ⚳ |clay|
 | ♁ |earth|
 | ♃☈ |electricity|
 | ⚶ |fire|
-|  |flesh|
+| ⚶ |flesh|
 |  |glass|
 | ☉ |gold|
 |  |ice|
 | ♂ |iron|
 | ⯦ |lava|
 | ☼ |light|
-|  |magnetism|
+| ☊ |magnetism|
 |  |mist+|
 |  |rust|
-| 🜔 |salt|
+| ϴ |salt|
 | ⚷ |sand|
 | ⚸⯕ |shadow|
 |  |smoke+|
