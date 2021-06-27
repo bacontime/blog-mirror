@@ -46,23 +46,23 @@ td {font-family: Catrinity;}
 | &#x; |  |  |
 | ⯗ | Transpluto |  |
 | ⯘ | Proserpina |  |
-|  | Astraea |  |
-|  | Hygiea |  |
-|  | Pholus |  |
-|  | Nessus |  |
-|  | Selena |  |
-|  | Lilith |  |
-|  | Arta |  |
-|  | Cupid |  |
-|  | Hades |  |
-|  | Zeus |  |
-|  | Kronos |  |
-|  | Apollon |  |
-|  | Admetos |  |
-|  | Vulcanus |  |
-|  | Poseidon |  |
-|  | Eris |  |
-|  | Sedna |  |
+| ⯙ | Astraea |  |
+| ⯚ | Hygiea |  |
+| ⯛ | Pholus |  |
+| ⯜ | Nessus |  |
+| ⯝ | Selena |  |
+| ⯞ | Lilith |  |
+| ⯟ | Arta | name means golden |
+| ⯠ | Cupid |  |
+| ⯡ | Hades |  |
+| ⯢ | Zeus |  |
+| ⯣ | Kronos |  |
+| ⯤ | Apollon |  |
+| ⯥ | Admetos |  |
+| ⯦ | Vulcanus |  |
+| ⯧ | Poseidon |  |
+| ⯰⯱ | Eris |  |
+| ⯲ | Sedna |  |
 |  |  |  |
 |  |  |  |
 
