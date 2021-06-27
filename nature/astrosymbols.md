@@ -13,15 +13,15 @@ td {font-family: Catrinity;}
 | ☄ | comet |  |
 | ☆ | star |  |
 | ☽☾ | moon | silver |
-| ☿ | mercury |  |
-| ♀ | venus |  |
+| ☿ | mercury | finance, commerce, communication, travel, rogues, (soul) |
+| ♀ | venus | love, prosperity, beauty, desire |
 | ♁ | earth |  |
-| ♂ | mars |  |
-| ♃ | jupiter |  |
-| ♄ | saturn |  |
-| ♅⛢ | uranus |  |
-| ♆⯉ | neptune |  |
-| ♇⯓⯔⯕⯖ | pluto |  |
+| ♂ | mars | war, agriculture, courage |
+| ♃ ⯢ | jupiter | sky,lightning,thunder,law |
+| ♄ ⯣ | saturn | wealth, liberation, agriculture, time |
+| ♅⛢ | uranus | primordial sky |
+| ♆⯉ ⯧ | neptune | sea,storm,earthquake,horses |
+| ♇⯓⯔⯕⯖ ⯡ | pluto | dead, riches, underworld,  |
 | ♈ | aries |  |
 | ♉ | taurus |  |
 | ♊ | gemini |  |
@@ -34,35 +34,35 @@ td {font-family: Catrinity;}
 | ♑ | capricorn |  |
 | ♒ | aquarius |  |
 | ⛎ | Ophiuchus |  |
-| ⚳ | Ceres |  |
-| ⚴ | Pallas |  |
-| ⚵ | Juno |  |
-| ⚶ | Vesta |  |
-| ⚷ | Chiron |  |
-| ⚸ | Lilith |  |
+| ⚳ | Ceres | grain, harvest, motherhood,  |
+| ⚴ | Pallas | various: warrior; fed zeus entrails, got stabbed tragically, giant skin cloak, turned to stone   |
+| ⚵ | Juno | marriage, childbirth,  |
+| ⚶ | Vesta |  hearth, home, family, |
+| ⚷ | Chiron | smart centaur dude.  |
+| ⚸ ⯞ | Lilith |  |
 |  |  |  |
 |  |  |  |
 |  |  |  |
 | &#x; |  |  |
 | ⯗ | Transpluto |  |
-| ⯘ | Proserpina |  |
-| ⯙ | Astraea |  |
-| ⯚ | Hygiea |  |
-| ⯛ | Pholus |  |
-| ⯜ | Nessus |  |
-| ⯝ | Selena |  |
-| ⯞ | Lilith |  |
+|  | Proserpina |  |
+|  | Astraea |  |
+|  | Hygiea |  |
+| ⯛ | Pholus | smart centaur |
+| ⯜ | Nessus | famous centaur with poison blood |
+|  | Selena |  |
+|  | Lilith |  |
 | ⯟ | Arta | name means golden |
-| ⯠ | Cupid |  |
-| ⯡ | Hades |  |
-| ⯢ | Zeus |  |
-| ⯣ | Kronos |  |
-| ⯤ | Apollon |  |
-| ⯥ | Admetos |  |
-| ⯦ | Vulcanus |  |
-| ⯧ | Poseidon |  |
-| ⯰⯱ | Eris |  |
-| ⯲ | Sedna |  |
+| ⯠ | Cupido | eroptic love, desire |
+|  | Hades |  |
+|  | Zeus |  |
+|  | Kronos |  |
+| ⯤ | Apollon | sunlight, oracles, musice, herds |
+| ⯥ | Admetos | untamed, some king dude, herdsman |
+|  | Vulcanus |  |
+|  | Poseidon |  |
+| ⯰⯱ | Eris | strife, discord |
+| ⯲ | Sedna | sea, sea-mammals, ice, meat and bone, knives |
 |  |  |  |
 |  |  |  |
 
@@ -76,22 +76,22 @@ Some are official unicode, but some are specific to Catrinity.
 |:-:|:--|:--|
 | &#xF5D0; | Wheel |  |
 | &#xF5D1; | Eclipse |  |
-| &#xF5D2; | Selena |  |
+| ⯝ &#xF5D2; | Selena |  |
 | &#xF5D3; | Crescent |  |
 | &#xF5D4; | Priapus | fertility, veggies, livestock, bees, schlonger |
 | &#xF5D5; |  |  |
 | &#xF5D6; |  |  |
 | &#xF5D7; |  |  |
 | &#xF5D8; |  |  |
-| &#xF5D9; | Vulcan | fire, volcano, desert, forge |
+| ⯦ &#xF5D9; | Vulcan | fire, volcano, desert, forge |
 | &#xF5DA; | Haumea | fertility, childbirth |
 | &#xF5DB; | Makemake | creation, humanity, bird-man cult |
-| &#xF5DC; | Astraea | Justice, innocence, purity, precision |
+| ⯙ &#xF5DC; | Astraea | Justice, innocence, purity, precision |
 | &#xF5DD; | Hebe | youth, forgiveness, cupbearer |
 | &#xF5DE; | Iris | rainbow, messenger, clouds |
 | &#xF5DF; | Flora | flowers, spring |
 | &#xF5E0; | Metis | wisdom, skilled counsel |
-| &#xF5E1; | Hygieia | health, cleanliness, sanitation |
+| ⯚ &#xF5E1; | Hygieia | health, cleanliness, sanitation |
 | &#xF5E2; | Parthenope | World-river titan, (also a siren) |
 | &#xF5E3; | Victoria | victory |
 | &#xF5E4; | Egeria | water nymph, laws, ritual |
@@ -101,7 +101,7 @@ Some are official unicode, but some are specific to Catrinity.
 | &#xF5E8; | Thetis | sea nymph, mom of Achilles |
 | &#xF5E9; | Melpomene | singing, chorus muse, tragedy |
 | &#xF5EA; | Fortuna | luck |
-| &#xF5EB; | Proserpina | wine, fertility, seasons, the kidnapping |
+| ⯘ &#xF5EB; | Proserpina | wine, fertility, seasons, the kidnapping |
 | &#xF5EC; | Bellona | war, bloodlust, conquest |
 | &#xF5ED; | Amphitrite | saltwater, sea |
 | &#xF5EE; | Leukothea | white sea nymph |
