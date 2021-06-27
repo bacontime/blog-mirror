@@ -79,10 +79,6 @@ Some are official unicode, but some are specific to Catrinity.
 | ⯝ &#xF5D2; | Selena |  |
 | &#xF5D3; | Crescent |  |
 | &#xF5D4; | Priapus | fertility, veggies, livestock, bees, schlonger |
-| &#xF5D5; |  |  |
-| &#xF5D6; |  |  |
-| &#xF5D7; |  |  |
-| &#xF5D8; |  |  |
 | ⯦ &#xF5D9; | Vulcan | fire, volcano, desert, forge |
 | &#xF5DA; | Haumea | fertility, childbirth |
 | &#xF5DB; | Makemake | creation, humanity, bird-man cult |
@@ -125,17 +121,16 @@ Some are official unicode, but some are specific to Catrinity.
 |Symbols|Description|
 |:-:|:--|
 |  |  |
-| ☊☋☌☍ ⚹⚺⚻⚼ ÍÊÃËÌÈ &#x2bf8; | Relative positions of planets |
+| ☊☋☌☍ ⚹⚺⚻⚼ &#x2bf3;&#x2bf4;&#x2bf5;&#x2bf6;&#x2bf7;&#x2bf8; &#xF5D5;&#xF5D6;&#xF5D7;&#xF5D8; | Relative positions of planets |
 | ⚢⚣⚤⚥⚦⚧⚨⚩⚲⚪ ⚭⚮⚯ | Gender and marriage symbols |
 | ☇☈ | Lightning and thunderstorm |
 | ☠☡☢☣ &#x26a0; &#x26a1; | Warnings |
 | ☤⚕⚚ | Snake(s) on stick |
 | ☥☦☧☨☩☪☸ | Religious symbols |
 | ♨♺⚒⚖⚗⚙⚛ | you know, stuff |
-|  |  |
 | ⛣ |  |
 | ⟠⟟⟡⦽⦹⧜⧝⧞⧟⧬⧮⧰⧲ | Misc Math symbols |
 | ⯒⧧ | group and thermodynamics |
-|  |  |
-| &#xF5BB; | Blahblg|
-| &#xF89A; | Blahblg|
+
+
+
