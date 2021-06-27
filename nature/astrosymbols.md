@@ -103,7 +103,7 @@ Some are official unicode, but some are specific to Catrinity.
 | ☇☈ | Lightning and thunderstorm |
 | ☠☡☢☣ &#x26a0; &#x26a1; | Warnings |
 | ☤⚕⚚ | Snake(s) on stick |
-| ☥☦☧☨☩☪☸ | Religious symbols |
+| ☥☦☧☨☩☪☸ | Religious symbols (ankh air water) |
 | ♨♺⚒⚖⚗⚙⚛ | you know, stuff |
 | ⛣ |  |
 | ⟠⟟⟡⦽⦹⧜⧝⧞⧟⧬⧮⧰⧲ | Misc Math symbols |
@@ -125,21 +125,21 @@ Some are official unicode, but some are specific to Catrinity.
 |  |chitin|
 | ⚳ |clay|
 | ♁ |earth|
-|  |electricity|
-|  |fire|
+| ♃☈ |electricity|
+| ⚶ |fire|
 |  |flesh|
 |  |glass|
 | ☉ |gold|
 |  |ice|
 | ♂ |iron|
-|  |lava|
-|  |light|
+| ⯦ |lava|
+| ☼ |light|
 |  |magnetism|
 |  |mist+|
 |  |rust|
-|  |salt|
+| 🜔 |salt|
 | ⚷ |sand|
-|  |shadow|
+| ⚸⯕ |shadow|
 |  |smoke+|
 |  |steam+|
 |  |stone|
