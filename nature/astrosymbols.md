@@ -16,7 +16,7 @@ td {font-family: Catrinity; padding:0em;}
 | ☽☾ | moon | silver |
 | ☿ | mercury | finance, commerce, communication, travel, rogues, (soul) |
 | ♀ | venus | love, prosperity, beauty, desire |
-| ♁ | earth |  |
+| ♁⊕ | earth |  |
 | ♂ | mars | war, agriculture, courage |
 | ♃ ⯢ | jupiter | sky,lightning,thunder,law |
 | ♄ ⯣ | saturn | wealth, liberation, agriculture, time |
@@ -147,6 +147,8 @@ Some are official unicode, but some are specific to Catrinity.
 |♆|water|
 |⚴|wood|
 
+Switch ⚵ to steam, ⚴ to blood, and ... to wood?
+Or just swap Juno and Pallas?
 
 Maybe use the * ones for air? Or for non-elementals?
 
