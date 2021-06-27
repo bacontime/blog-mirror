@@ -4,6 +4,7 @@
 td {font-family: Catrinity;}
 </style>
 
+
 ## Unicode Astronomical Symbols
 
 |Symbol|Name|Namesake's Associations|
@@ -107,6 +108,41 @@ Some are official unicode, but some are specific to Catrinity.
 | ⛣ |  |
 | ⟠⟟⟡⦽⦹⧜⧝⧞⧟⧬⧮⧰⧲ | Misc Math symbols |
 | ⯒⧧ | group and thermodynamics |
+|||
 
 
-
+
+
+
+
+
+|||
+|:-:|:-:|
+|  |acid|
+|  |base|
+|  |blood|
+|  |bone|
+|  |chitin|
+|  |clay|
+| ♁ |earth|
+|  |electricity|
+|  |fire|
+|  |flesh|
+|  |glass|
+| ☉ |gold|
+|  |ice|
+| ♂ |iron|
+|  |lava|
+|  |light|
+|  |magnetism|
+|  |mist|
+|  |rust|
+|  |salt|
+|  |sand|
+|  |shadow|
+|  |smoke|
+|  |steam|
+|  |stone|
+|  |vacuum|
+|  |water|
+|  |wood|
