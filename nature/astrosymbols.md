@@ -9,30 +9,76 @@ td {font-family: Catrinity;}
 |Symbol|Name|Namesake's Associations|
 |:-:|:--|:--|
 | &#x; |  |  |
-| &#x263c; |  |  |
-| &#x263d; |  |  |
-| &#x263e; |  |  |
-| &#x263f; |  |  |
-| &#x2640; |  |  |
-| &#x2641; |  |  |
-| &#x2642; |  |  |
-| &#x2643; |  |  |
-| &#x2644; |  |  |
-| &#x2645; |  |  |
-| &#x2646; |  |  |
-| &#x2647; |  |  |
-| &#x2648; |  |  |
-| &#x2649; |  |  |
-| &#x264a; |  |  |
-| &#x264b; |  |  |
-| &#x264c; |  |  |
-| &#x264d; |  |  |
-| &#x264e; |  |  |
-| &#x264f; |  |  |
-| &#x2650; |  |  |
-| &#x2651; |  |  |
-| &#x2652; |  |  |
-| &#x2653; |  |  |
+| &#x2600; | sun |  |
+| &#x2604; | comet |  |
+| &#x2605; | star |  |
+| &#x2606; | star |  |
+| &#x2609; | sun | gold |
+| &#x260a; |  |  |
+| &#x260b; |  |  |
+| &#x260c; |  |  |
+| &#x260d; |  |  |
+| &#x263c; | sun |  |
+| &#x263d; | moon | silver |
+| &#x263e; | moon |  |
+| &#x263f; | mercury |  |
+| &#x2640; | venus |  |
+| &#x2641; | earth |  |
+| &#x2642; | mars |  |
+| &#x2643; | jupiter |  |
+| &#x2644; | saturn |  |
+| &#x2645;⛢ | uranus |  |
+| &#x2646;♆⯉ | neptune |  |
+| &#x2647; | pluto |  |
+| &#x2648; | aries |  |
+| &#x2649; | taurus |  |
+| &#x264a; | gemini |  |
+| &#x264b; | cancer |  |
+| &#x264c; | leo |  |
+| &#x264d; | virgo |  |
+| &#x264e; | libra |  |
+| &#x264f; | scorpius |  |
+| &#x2650; | sagittarius |  |
+| &#x2651; | capricorn |  |
+| &#x2652; | aquarius |  |
+| &#x26ce; | Ophiuchus |  |
+| ⚳ | Ceres |  |
+| ⚴ | Pallas |  |
+| ⚵ | Juno |  |
+| ⚶ | Vesta |  |
+| ⚷ | Chiron |  |
+| ⚸ | Lilith |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+|  |  |  |
+| &#x; |  |  |
+| &#x; |  |  |
+| &#x; |  |  |
+| &#x; |  |  |
+| &#x; |  |  |
+| &#x; |  |  |
+
+## Related or Similar Symbols
+
+|Symbols|Description|
+|:-:|:--|
+|  |  |
+| ☊☋☌☍ ⚹⚺⚻⚼ | Relative positions of planets |
+| ⚢⚣⚤⚥⚦⚧⚨⚩⚲⚪ ⚭⚮⚯ | Gender and marriage symbols |
+| ☇☈ | Lightning and thunderstorm |
+| ☠☡☢☣ &#x26a0; &#x26a1; | Warnings |
+| ☤⚕⚚ | Snake(s) on stick |
+| ☥☦☧☨☩☪☸ | Religious symbols |
+| ♨♺⚒⚖⚗⚙⚛ | you know, stuff |
+|  |  |
+| ⛣ |  |
+| ⟠⟟⟡⦽⦹⧜⧝⧞⧟⧬⧮⧰⧲ | Misc Math symbols |
+|  |  |
+|  |  |
 
 
 ## Other Astronomical Symbols
