@@ -21,7 +21,7 @@ td {font-family: Catrinity;}
 | ♄ | saturn |  |
 | ♅⛢ | uranus |  |
 | ♆⯉ | neptune |  |
-| ♇ | pluto |  |
+| ♇⯓⯔⯕⯖ | pluto |  |
 | ♈ | aries |  |
 | ♉ | taurus |  |
 | ♊ | gemini |  |
@@ -43,44 +43,37 @@ td {font-family: Catrinity;}
 |  |  |  |
 |  |  |  |
 |  |  |  |
+| &#x; |  |  |
+| ⯗ | Transpluto |  |
+| ⯘ | Proserpina |  |
+|  | Astraea |  |
+|  | Hygiea |  |
+|  | Pholus |  |
+|  | Nessus |  |
+|  | Selena |  |
+|  | Lilith |  |
+|  | Arta |  |
+|  | Cupid |  |
+|  | Hades |  |
+|  | Zeus |  |
+|  | Kronos |  |
+|  | Apollon |  |
+|  | Admetos |  |
+|  | Vulcanus |  |
+|  | Poseidon |  |
+|  | Eris |  |
+|  | Sedna |  |
 |  |  |  |
 |  |  |  |
-|  |  |  |
-|  |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-| &#x; |  |  |
-
-## Related or Similar Symbols
-
-|Symbols|Description|
-|:-:|:--|
-|  |  |
-| ☊☋☌☍ ⚹⚺⚻⚼ | Relative positions of planets |
-| ⚢⚣⚤⚥⚦⚧⚨⚩⚲⚪ ⚭⚮⚯ | Gender and marriage symbols |
-| ☇☈ | Lightning and thunderstorm |
-| ☠☡☢☣ &#x26a0; &#x26a1; | Warnings |
-| ☤⚕⚚ | Snake(s) on stick |
-| ☥☦☧☨☩☪☸ | Religious symbols |
-| ♨♺⚒⚖⚗⚙⚛ | you know, stuff |
-|  |  |
-| ⛣ |  |
-| ⟠⟟⟡⦽⦹⧜⧝⧞⧟⧬⧮⧰⧲ | Misc Math symbols |
-|  |  |
-|  |  |
 
 
 ## Other Astronomical Symbols
 
-You will need the [Catrinity font](http://catrinity-font.de/) installed to properly view these entries.
+You will need the [Catrinity font](http://catrinity-font.de/) installed to properly view these entries. 
+Some are official unicode, but some are specific to Catrinity.
 
 |Symbol|Name|Namesake's Associations|
 |:-:|:--|:--|
-| &#xF5BB; | Blahblg|  |
-| &#xF89A; | Blahblg|  |
 | &#xF5D0; | Wheel |  |
 | &#xF5D1; | Eclipse |  |
 | &#xF5D2; | Selena |  |
@@ -123,3 +116,26 @@ You will need the [Catrinity font](http://catrinity-font.de/) installed to prope
 | &#x; |  |  |
 | &#x; |  |  |
 | &#x; |  |  |
+
+
+
+
+## Related or Similar Symbols
+
+|Symbols|Description|
+|:-:|:--|
+|  |  |
+| ☊☋☌☍ ⚹⚺⚻⚼ ÍÊÃËÌÈ &#x2bf8; | Relative positions of planets |
+| ⚢⚣⚤⚥⚦⚧⚨⚩⚲⚪ ⚭⚮⚯ | Gender and marriage symbols |
+| ☇☈ | Lightning and thunderstorm |
+| ☠☡☢☣ &#x26a0; &#x26a1; | Warnings |
+| ☤⚕⚚ | Snake(s) on stick |
+| ☥☦☧☨☩☪☸ | Religious symbols |
+| ♨♺⚒⚖⚗⚙⚛ | you know, stuff |
+|  |  |
+| ⛣ |  |
+| ⟠⟟⟡⦽⦹⧜⧝⧞⧟⧬⧮⧰⧲ | Misc Math symbols |
+| ⯒⧧ | group and thermodynamics |
+|  |  |
+| &#xF5BB; | Blahblg|
+| &#xF89A; | Blahblg|
