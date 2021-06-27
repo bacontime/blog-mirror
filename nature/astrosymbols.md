@@ -105,7 +105,7 @@ Some are official unicode, but some are specific to Catrinity.
 | ☤⚕⚚ | Snake(s) on stick |
 | ☥☦☧☨☩☪☸ | Religious symbols (ankh air water) |
 | ♨♺⚒⚖⚗⚙⚛ | you know, stuff |
-| ⛣ |  |
+| ⛣ | Public office? |
 | ⟠⟟⟡⦽⦹⧜⧝⧞⧟⧬⧮⧰⧲ | Misc Math symbols |
 | ⯒⧧ | group and thermodynamics |
 |||
@@ -118,13 +118,13 @@ Some are official unicode, but some are specific to Catrinity.
 
 |||
 |:-:|:-:|
-|  |acid|
-|  |base|
+|♀|acid|
+|♁|base|
 |⚵|blood|
 |⯚|bone|
 |  |chitin|
 |⚳|clay|
-| ♁⊕ |earth|
+| ♁⊕⨁⏚土𒆠𓇾 |earth|
 | ♃⯢☈ |electricity|
 | ⚶ |fire|
 | ⚶♐ |flesh|
@@ -149,3 +149,5 @@ Some are official unicode, but some are specific to Catrinity.
 
 
 Maybe use the * ones for air? Or for non-elementals?
+
+![](elementhex.svg)
