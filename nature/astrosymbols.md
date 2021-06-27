@@ -123,26 +123,29 @@ Some are official unicode, but some are specific to Catrinity.
 |  |blood|
 |  |bone|
 |  |chitin|
-|  |clay|
+| ⚳ |clay|
 | ♁ |earth|
 |  |electricity|
 |  |fire|
 |  |flesh|
-|  |glass|
+|  |glass|
 | ☉ |gold|
 |  |ice|
 | ♂ |iron|
 |  |lava|
 |  |light|
 |  |magnetism|
-|  |mist|
+|  |mist+|
 |  |rust|
 |  |salt|
-|  |sand|
+| ⚷ |sand|
 |  |shadow|
-|  |smoke|
-|  |steam|
+|  |smoke+|
+|  |steam+|
 |  |stone|
-|  |vacuum|
+| ♅ |vacuum+|
 |  |water|
 |  |wood|
+
+
+Maybe use the * ones for air? Or for non-elementals?
