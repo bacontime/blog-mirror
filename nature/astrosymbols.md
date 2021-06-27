@@ -6,41 +6,38 @@ td {font-family: Catrinity;}
 
 ## Unicode Astronomical Symbols
 
-<table style="font: Catrinity">
-    <thead>
-    <tr>
-        <td>Sym</td>
-        <td>Vesta</td>
-        <td>Namesake's Domain</td>
-    </tr>
-    </thead>
-    <tr>
-        <td>⚶</td>
-        <td>Vesta</td>
-        <td></td>
-    </tr>
-</table>
-
+|Symbol|Name|Namesake's Associations|
+|:-:|:--|:--|
+| &#x; |  |  |
+| &#x263c; |  |  |
+| &#x263d; |  |  |
+| &#x263e; |  |  |
+| &#x263f; |  |  |
+| &#x2640; |  |  |
+| &#x2641; |  |  |
+| &#x2642; |  |  |
+| &#x2643; |  |  |
+| &#x2644; |  |  |
+| &#x2645; |  |  |
+| &#x2646; |  |  |
+| &#x2647; |  |  |
+| &#x2648; |  |  |
+| &#x2649; |  |  |
+| &#x264a; |  |  |
+| &#x264b; |  |  |
+| &#x264c; |  |  |
+| &#x264d; |  |  |
+| &#x264e; |  |  |
+| &#x264f; |  |  |
+| &#x2650; |  |  |
+| &#x2651; |  |  |
+| &#x2652; |  |  |
+| &#x2653; |  |  |
 
 
 ## Other Astronomical Symbols
 
 You will need the [Catrinity font](http://catrinity-font.de/) installed to properly view these entries.
-
-<table>
-    <thead>
-    <tr>
-        <th>Sym</th>
-        <th>Vesta</th>
-        <th>Namesake's Domain</th>
-    </tr>
-    </thead>
-    <tr>
-        <td>&#xF5da; &#xF5da; </td>
-        <td>Vesta</td>
-        <td></td>
-    </tr>
-</table>
 
 |Symbol|Name|Namesake's Associations|
 |:-:|:--|:--|
@@ -60,7 +57,7 @@ You will need the [Catrinity font](http://catrinity-font.de/) installed to prope
 | &#xF5DB; | Makemake | creation, humanity, bird-man cult |
 | &#xF5DC; | Astraea | Justice, innocence, purity, precision |
 | &#xF5DD; | Hebe | youth, forgiveness, cupbearer |
-| &#xF5DE; | Iris | rainbow, messenger |
+| &#xF5DE; | Iris | rainbow, messenger, clouds |
 | &#xF5DF; | Flora | flowers, spring |
 | &#xF5E0; | Metis | wisdom, skilled counsel |
 | &#xF5E1; | Hygieia | health, cleanliness, sanitation |
