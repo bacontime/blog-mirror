@@ -137,7 +137,7 @@ Some are official unicode, but some are specific to Catrinity.
 | ☊ |magnetism|
 | ⯓ |mist+|
 |♄|rust|
-|ϴ|salt|
+|ϴ|salt|
 |⚷|sand|
 | ⚸⯕ |shadow|
 | ⯔ |smoke+|
@@ -146,6 +146,8 @@ Some are official unicode, but some are specific to Catrinity.
 |♅|vacuum+|
 |♆|water|
 |⚴|wood|
+
+<div></div>
 
 Switch ⚵ to steam, ⚴ to blood, and ... to wood?
 Or just swap Juno and Pallas?
