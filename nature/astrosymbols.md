@@ -149,6 +149,8 @@ Some are official unicode, but some are specific to Catrinity.
 
 <div style="font-family: Catrinity;"></div>
 
+Slime Slugs Leaves
+
 Switch ⚵ to steam, ⚴ to blood, and ... to wood?
 Or just swap Juno and Pallas?
 Basically, Juno looks like a tree, and the blood spear thing is important in the WtC story.
