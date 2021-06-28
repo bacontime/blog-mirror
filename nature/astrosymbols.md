@@ -149,6 +149,7 @@ Some are official unicode, but some are specific to Catrinity.
 
 Switch ⚵ to steam, ⚴ to blood, and ... to wood?
 Or just swap Juno and Pallas?
+Basically, Juno looks like a tree, and the blood spear thing is important in the WtC story.
 
 Maybe use the * ones for air? Or for non-elementals?
 
