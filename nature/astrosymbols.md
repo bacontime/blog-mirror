@@ -160,3 +160,5 @@ Basically, Juno looks like a tree, and the blood spear thing is important in the
 Maybe use the * ones for air? Or for non-elementals?
 
 ![](elementhex.svg)
+
+![](elementhex2.png)
