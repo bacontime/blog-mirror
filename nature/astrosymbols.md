@@ -147,7 +147,7 @@ Some are official unicode, but some are specific to Catrinity.
 |♆|water|
 |⚴|wood|
 
-<div style="font-family: Catrinity; font-size:large;"></div>
+<div style="font-family: Catrinity; font-size: 300%;"></div>
 
 Rainbow, eye, snake, fish, buckler, heart, wing, dolphin, dagger, wheel of fortune, pomegranate, shell.
 
