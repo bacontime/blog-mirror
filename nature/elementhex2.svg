@@ -34,11 +34,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="190.37067"
-     inkscape:cy="233.13836"
+     inkscape:zoom="0.35000001"
+     inkscape:cx="-494.77128"
+     inkscape:cy="-182.2086"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1857"
@@ -62,7 +62,8 @@
      inkscape:groupmode="layer"
      id="layer2"
      inkscape:label="Layer 2"
-     transform="translate(-1115.9259,691.47434)">
+     transform="translate(-1115.9259,691.47434)"
+     sodipodi:insensitive="true">
     <g
        style="display:inline;fill:#ffffff"
        transform="translate(413.47823,-409.98332)"
@@ -764,8 +765,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-1115.9259,691.47434)"
-     sodipodi:insensitive="true">
+     transform="translate(-1115.9259,691.47434)">
     <g
        id="g8300"
        style="stroke:#f9f9f9"
@@ -11406,7 +11406,7 @@
     </g>
     <g
        id="g2213-76-4-8-3-5"
-       transform="matrix(0.6249975,0,0,0.6249975,1139.1509,-776.55693)">
+       transform="matrix(0.6249975,0,0,0.6249975,1139.7188,-775.88876)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -11450,7 +11450,7 @@
     </g>
     <g
        id="g2213-01-3-8-8-6"
-       transform="matrix(0.6249975,0,0,0.6249975,1109.6529,-792.74288)">
+       transform="matrix(0.6249975,0,0,0.6249975,1111.8245,-794.94786)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -12112,7 +12112,7 @@
     </g>
     <g
        id="g2213-72-1-8-1-0"
-       transform="matrix(0.6249975,0,0,0.6249975,1117.0908,-797.03713)">
+       transform="matrix(0.6249975,0,0,0.6249975,1123.4051,-793.12831)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -12200,7 +12200,7 @@
     </g>
     <g
        id="g2929-4-6-9-8"
-       transform="matrix(0.6249975,0,0,0.6249975,1109.1383,-710.35778)">
+       transform="matrix(0.6249975,0,0,0.6249975,1111.8245,-708.14492)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -12332,7 +12332,7 @@
     </g>
     <g
        id="g2213-17-2-7-4-0"
-       transform="matrix(0.6249975,0,0,0.6249975,1139.6282,-727.17782)">
+       transform="matrix(0.6249975,0,0,0.6249975,1123.4051,-710.27282)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
