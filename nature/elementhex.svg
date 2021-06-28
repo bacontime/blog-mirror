@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.4"
-     inkscape:cx="146.12141"
-     inkscape:cy="564.78146"
+     inkscape:zoom="0.98994949"
+     inkscape:cx="914.79147"
+     inkscape:cy="677.15834"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -53,18 +53,238 @@
      inkscape:groupmode="layer"
      id="layer1"
      transform="translate(-5.923786,94.734074)">
+    <g
+       id="g2213-2-8-6"
+       transform="translate(122.8976,-62.913164)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path869-6-9-09-3-0-2"
+         sodipodi:sides="6"
+         sodipodi:cx="125.65878"
+         sodipodi:cy="191.9278"
+         sodipodi:r1="7.9337511"
+         sodipodi:r2="6.8708296"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-1.0078465e-05"
+         inkscape:transform-center-y="-3.1150799e-06"
+         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-103.52207"
+         y="213.99402"
+         id="text2198-7-2-8"
+         transform="rotate(-60)"><tspan
+           sodipodi:role="line"
+           id="tspan2196-0-9-3"
+           x="-103.52207"
+           y="213.99402"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Flavoring</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="125.65878"
+         y="196.54422"
+         id="text873-4-3-1-1-0-8"><tspan
+           sodipodi:role="line"
+           id="tspan871-7-2-9-3-2-9"
+           x="125.65878"
+           y="196.54422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">♊︎</tspan></text>
+    </g>
+    <g
+       id="g2213-1-1-0"
+       transform="translate(122.8976,-79.829394)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path869-6-9-09-4-2-9"
+         sodipodi:sides="6"
+         sodipodi:cx="125.65878"
+         sodipodi:cy="191.9278"
+         sodipodi:r1="7.9337511"
+         sodipodi:r2="6.8708296"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-1.0078465e-05"
+         inkscape:transform-center-y="-3.1150799e-06"
+         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-103.52207"
+         y="213.99402"
+         id="text2198-72-6-2"
+         transform="rotate(-60)"><tspan
+           sodipodi:role="line"
+           id="tspan2196-2-2-1"
+           x="-103.52207"
+           y="213.99402"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Ferment</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="125.65878"
+         y="196.54422"
+         id="text873-4-3-1-0-9-8"><tspan
+           sodipodi:role="line"
+           id="tspan871-7-2-9-37-6-1"
+           x="125.65878"
+           y="196.54422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">♑︎</tspan></text>
+    </g>
+    <g
+       id="g2213-23-6-2"
+       transform="translate(122.8976,-130.57807)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path869-6-9-09-79-0-9"
+         sodipodi:sides="6"
+         sodipodi:cx="125.65878"
+         sodipodi:cy="191.9278"
+         sodipodi:r1="7.9337511"
+         sodipodi:r2="6.8708296"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-1.0078465e-05"
+         inkscape:transform-center-y="-3.1150799e-06"
+         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-103.52207"
+         y="213.99402"
+         id="text2198-913-0-0"
+         transform="rotate(-60)"><tspan
+           sodipodi:role="line"
+           id="tspan2196-15-3-7"
+           x="-103.52207"
+           y="213.99402"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Veggie</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="125.65878"
+         y="196.54422"
+         id="text873-4-3-1-08-6-79"><tspan
+           sodipodi:role="line"
+           id="tspan871-7-2-9-22-0-78"
+           x="125.65878"
+           y="196.54422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583"></tspan></text>
+    </g>
+    <g
+       id="g2213-72-3-6"
+       transform="translate(122.8976,-96.745624)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path869-6-9-09-31-6-2"
+         sodipodi:sides="6"
+         sodipodi:cx="125.65878"
+         sodipodi:cy="191.9278"
+         sodipodi:r1="7.9337511"
+         sodipodi:r2="6.8708296"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-1.0078465e-05"
+         inkscape:transform-center-y="-3.1150799e-06"
+         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-103.52207"
+         y="213.99402"
+         id="text2198-347-8-8"
+         transform="rotate(-60)"><tspan
+           sodipodi:role="line"
+           id="tspan2196-89-4-3"
+           x="-103.52207"
+           y="213.99402"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Sweets</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="125.65878"
+         y="196.54422"
+         id="text873-4-3-1-80-2-5"><tspan
+           sodipodi:role="line"
+           id="tspan871-7-2-9-04-3-7"
+           x="125.65878"
+           y="196.54422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">♋︎</tspan></text>
+    </g>
+    <g
+       id="g2213-722-3-0"
+       transform="translate(122.8976,-113.66186)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path869-6-9-09-45-7-9"
+         sodipodi:sides="6"
+         sodipodi:cx="125.65878"
+         sodipodi:cy="191.9278"
+         sodipodi:r1="7.9337511"
+         sodipodi:r2="6.8708296"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-1.0078465e-05"
+         inkscape:transform-center-y="-3.1150799e-06"
+         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-103.52207"
+         y="213.99402"
+         id="text2198-95-6-3"
+         transform="rotate(-60)"><tspan
+           sodipodi:role="line"
+           id="tspan2196-49-4-1"
+           x="-103.52207"
+           y="213.99402"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Seed</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="125.65878"
+         y="196.54422"
+         id="text873-4-3-1-72-1-0"><tspan
+           sodipodi:role="line"
+           id="tspan871-7-2-9-81-4-4"
+           x="125.65878"
+           y="196.54422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">♌︎</tspan></text>
+    </g>
     <use
        x="0"
        y="0"
        xlink:href="#g2213-72"
        id="use3287"
-       transform="translate(149.79591,2.5190008)"
+       transform="translate(133.16496,2.5190008)"
        width="100%"
        height="100%" />
     <circle
        style="fill:#deaa87;stroke:#000000;stroke-width:0.139144;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
        id="path3293"
-       cx="157.37086"
+       cx="140.73991"
        cy="19.573118"
        r="16.566887" />
     <g
@@ -285,7 +505,7 @@
            id="tspan871-7-2-9-76"
            x="125.65878"
            y="196.54422"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">.♐</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">♐︎</tspan></text>
     </g>
     <g
        id="g2213-3"
@@ -1523,7 +1743,7 @@
        y="0"
        xlink:href="#g2213-52"
        id="use3237"
-       transform="translate(189.62351,182.23474)"
+       transform="translate(172.99256,182.23474)"
        width="100%"
        height="100%" />
     <use
@@ -1531,7 +1751,7 @@
        y="0"
        xlink:href="#g2213-60"
        id="use3239"
-       transform="translate(177.72288,172.18934)"
+       transform="translate(161.09193,172.18934)"
        width="100%"
        height="100%" />
     <use
@@ -1539,7 +1759,7 @@
        y="0"
        xlink:href="#g2213-56"
        id="use3241"
-       transform="translate(80.104089,-43.781339)"
+       transform="translate(63.473137,-43.781339)"
        width="100%"
        height="100%" />
     <use
@@ -1547,7 +1767,7 @@
        y="0"
        xlink:href="#g2213-21"
        id="use3243"
-       transform="translate(143.81167,-15.034641)"
+       transform="translate(127.18072,-15.034641)"
        width="100%"
        height="100%" />
     <use
@@ -1555,7 +1775,7 @@
        y="0"
        xlink:href="#g2213-13"
        id="use3245"
-       transform="translate(178.7858,-24.190263)"
+       transform="translate(162.15485,-24.190263)"
        width="100%"
        height="100%" />
     <use
@@ -1563,7 +1783,7 @@
        y="0"
        xlink:href="#g2213-3"
        id="use3247"
-       transform="translate(131.18329,12.816759)"
+       transform="translate(114.55234,12.816759)"
        width="100%"
        height="100%" />
     <use
@@ -1571,7 +1791,7 @@
        y="0"
        xlink:href="#g2213-14"
        id="use3249"
-       transform="translate(114.00884,-117.81739)"
+       transform="translate(97.377888,-117.81739)"
        width="100%"
        height="100%" />
     <use
@@ -1579,7 +1799,7 @@
        y="0"
        xlink:href="#g2213-76"
        id="use3251"
-       transform="translate(107.38204,-91.855191)"
+       transform="translate(90.751088,-91.855191)"
        width="100%"
        height="100%" />
     <use
@@ -1587,7 +1807,7 @@
        y="0"
        xlink:href="#g2213-01"
        id="use3253"
-       transform="translate(155.3637,-82.06216)"
+       transform="translate(138.73275,-82.06216)"
        width="100%"
        height="100%" />
     <use
@@ -1595,7 +1815,7 @@
        y="0"
        xlink:href="#g2213-33"
        id="use3255"
-       transform="translate(124.36204,69.320645)"
+       transform="translate(107.73109,69.320645)"
        width="100%"
        height="100%" />
     <use
@@ -1603,7 +1823,7 @@
        y="0"
        xlink:href="#g2213-79"
        id="use3257"
-       transform="translate(143.08392,-41.628191)"
+       transform="translate(126.45297,-41.628191)"
        width="100%"
        height="100%" />
     <use
@@ -1611,7 +1831,7 @@
        y="0"
        xlink:href="#g2213-17"
        id="use3259"
-       transform="translate(178.7858,87.874206)"
+       transform="translate(162.15485,87.874206)"
        width="100%"
        height="100%" />
     <use
@@ -1619,7 +1839,7 @@
        y="0"
        xlink:href="#g2213-4"
        id="use3261"
-       transform="translate(162.9183,94.223346)"
+       transform="translate(146.28735,94.223346)"
        width="100%"
        height="100%" />
     <use
@@ -1627,7 +1847,7 @@
        y="0"
        xlink:href="#g2213-77"
        id="use3263"
-       transform="translate(170.85205,91.048776)"
+       transform="translate(154.2211,91.048776)"
        width="100%"
        height="100%" />
     <use
@@ -1635,7 +1855,7 @@
        y="0"
        xlink:href="#g2213-2"
        id="use3265"
-       transform="translate(120.25585,67.339886)"
+       transform="translate(103.6249,67.339886)"
        width="100%"
        height="100%" />
     <use
@@ -1643,7 +1863,7 @@
        y="0"
        xlink:href="#g2213-15"
        id="use3269"
-       transform="translate(188.00375,-38.579444)"
+       transform="translate(171.3728,-38.579444)"
        width="100%"
        height="100%" />
     <use
@@ -1651,7 +1871,7 @@
        y="0"
        xlink:href="#g2213-0"
        id="use3271"
-       transform="translate(133.54926,-88.680601)"
+       transform="translate(116.91831,-88.680601)"
        width="100%"
        height="100%" />
     <use
@@ -1659,7 +1879,7 @@
        y="0"
        xlink:href="#g2213-28"
        id="use3273"
-       transform="translate(190.49212,-47.651858)"
+       transform="translate(173.86117,-47.651858)"
        width="100%"
        height="100%" />
     <use
@@ -1667,7 +1887,7 @@
        y="0"
        xlink:href="#g2213-5"
        id="use3275"
-       transform="translate(198.42587,-129.05842)"
+       transform="translate(181.79492,-129.05842)"
        width="100%"
        height="100%" />
     <use
@@ -1675,7 +1895,7 @@
        y="0"
        xlink:href="#g2213-50"
        id="use3277"
-       transform="translate(93.880505,-54.848152)"
+       transform="translate(77.249553,-54.848152)"
        width="100%"
        height="100%" />
     <use
@@ -1683,7 +1903,7 @@
        y="0"
        xlink:href="#g2213-7"
        id="use3279"
-       transform="translate(84.639805,-36.410811)"
+       transform="translate(68.008853,-36.410811)"
        width="100%"
        height="100%" />
     <use
@@ -1691,7 +1911,7 @@
        y="0"
        xlink:href="#g2213-6"
        id="use3281"
-       transform="translate(188.00375,-41.754004)"
+       transform="translate(171.3728,-41.754004)"
        width="100%"
        height="100%" />
     <use
@@ -1699,7 +1919,7 @@
        y="0"
        xlink:href="#g2213-8"
        id="use3283"
-       transform="translate(85.946755,15.991327)"
+       transform="translate(69.315803,15.991327)"
        width="100%"
        height="100%" />
     <use
@@ -1707,7 +1927,7 @@
        y="0"
        xlink:href="#g2213-23"
        id="use3285"
-       transform="translate(108.44105,51.34491)"
+       transform="translate(91.810098,51.34491)"
        width="100%"
        height="100%" />
     <use
@@ -1715,7 +1935,7 @@
        y="0"
        xlink:href="#g2213-722"
        id="use3289"
-       transform="translate(141.86217,5.6935708)"
+       transform="translate(125.23122,5.6935708)"
        width="100%"
        height="100%" />
     <use
@@ -1723,7 +1943,7 @@
        y="0"
        xlink:href="#g2929"
        id="use3291"
-       transform="translate(141.48301,-64.389061)"
+       transform="translate(124.85206,-64.389061)"
        width="100%"
        height="100%" />
     <g
@@ -2101,226 +2321,6 @@
        width="100%"
        height="100%" />
     <g
-       id="g2213-2-8-6"
-       transform="translate(-182.63751,-140.57957)">
-      <path
-         sodipodi:type="star"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-         id="path869-6-9-09-3-0-2"
-         sodipodi:sides="6"
-         sodipodi:cx="125.65878"
-         sodipodi:cy="191.9278"
-         sodipodi:r1="7.9337511"
-         sodipodi:r2="6.8708296"
-         sodipodi:arg1="1.0471976"
-         sodipodi:arg2="1.5707963"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         inkscape:transform-center-x="-1.0078465e-05"
-         inkscape:transform-center-y="-3.1150799e-06"
-         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="-103.52207"
-         y="213.99402"
-         id="text2198-7-2-8"
-         transform="rotate(-60)"><tspan
-           sodipodi:role="line"
-           id="tspan2196-0-9-3"
-           x="-103.52207"
-           y="213.99402"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Flavoring</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="125.65878"
-         y="196.54422"
-         id="text873-4-3-1-1-0-8"><tspan
-           sodipodi:role="line"
-           id="tspan871-7-2-9-3-2-9"
-           x="125.65878"
-           y="196.54422"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583"></tspan></text>
-    </g>
-    <g
-       id="g2213-1-1-0"
-       transform="translate(-182.63751,-157.4958)">
-      <path
-         sodipodi:type="star"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-         id="path869-6-9-09-4-2-9"
-         sodipodi:sides="6"
-         sodipodi:cx="125.65878"
-         sodipodi:cy="191.9278"
-         sodipodi:r1="7.9337511"
-         sodipodi:r2="6.8708296"
-         sodipodi:arg1="1.0471976"
-         sodipodi:arg2="1.5707963"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         inkscape:transform-center-x="-1.0078465e-05"
-         inkscape:transform-center-y="-3.1150799e-06"
-         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="-103.52207"
-         y="213.99402"
-         id="text2198-72-6-2"
-         transform="rotate(-60)"><tspan
-           sodipodi:role="line"
-           id="tspan2196-2-2-1"
-           x="-103.52207"
-           y="213.99402"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Ferment</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="125.65878"
-         y="196.54422"
-         id="text873-4-3-1-0-9-8"><tspan
-           sodipodi:role="line"
-           id="tspan871-7-2-9-37-6-1"
-           x="125.65878"
-           y="196.54422"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583"></tspan></text>
-    </g>
-    <g
-       id="g2213-23-6-2"
-       transform="translate(-182.63751,-208.24448)">
-      <path
-         sodipodi:type="star"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-         id="path869-6-9-09-79-0-9"
-         sodipodi:sides="6"
-         sodipodi:cx="125.65878"
-         sodipodi:cy="191.9278"
-         sodipodi:r1="7.9337511"
-         sodipodi:r2="6.8708296"
-         sodipodi:arg1="1.0471976"
-         sodipodi:arg2="1.5707963"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         inkscape:transform-center-x="-1.0078465e-05"
-         inkscape:transform-center-y="-3.1150799e-06"
-         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="-103.52207"
-         y="213.99402"
-         id="text2198-913-0-0"
-         transform="rotate(-60)"><tspan
-           sodipodi:role="line"
-           id="tspan2196-15-3-7"
-           x="-103.52207"
-           y="213.99402"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Veggie</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="125.65878"
-         y="196.54422"
-         id="text873-4-3-1-08-6-79"><tspan
-           sodipodi:role="line"
-           id="tspan871-7-2-9-22-0-78"
-           x="125.65878"
-           y="196.54422"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583"></tspan></text>
-    </g>
-    <g
-       id="g2213-72-3-6"
-       transform="translate(-182.63751,-174.41203)">
-      <path
-         sodipodi:type="star"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-         id="path869-6-9-09-31-6-2"
-         sodipodi:sides="6"
-         sodipodi:cx="125.65878"
-         sodipodi:cy="191.9278"
-         sodipodi:r1="7.9337511"
-         sodipodi:r2="6.8708296"
-         sodipodi:arg1="1.0471976"
-         sodipodi:arg2="1.5707963"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         inkscape:transform-center-x="-1.0078465e-05"
-         inkscape:transform-center-y="-3.1150799e-06"
-         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="-103.52207"
-         y="213.99402"
-         id="text2198-347-8-8"
-         transform="rotate(-60)"><tspan
-           sodipodi:role="line"
-           id="tspan2196-89-4-3"
-           x="-103.52207"
-           y="213.99402"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Sweets</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="125.65878"
-         y="196.54422"
-         id="text873-4-3-1-80-2-5"><tspan
-           sodipodi:role="line"
-           id="tspan871-7-2-9-04-3-7"
-           x="125.65878"
-           y="196.54422"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583"></tspan></text>
-    </g>
-    <g
-       id="g2213-722-3-0"
-       transform="translate(-182.63751,-191.32827)">
-      <path
-         sodipodi:type="star"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-         id="path869-6-9-09-45-7-9"
-         sodipodi:sides="6"
-         sodipodi:cx="125.65878"
-         sodipodi:cy="191.9278"
-         sodipodi:r1="7.9337511"
-         sodipodi:r2="6.8708296"
-         sodipodi:arg1="1.0471976"
-         sodipodi:arg2="1.5707963"
-         inkscape:flatsided="true"
-         inkscape:rounded="0"
-         inkscape:randomized="0"
-         inkscape:transform-center-x="-1.0078465e-05"
-         inkscape:transform-center-y="-3.1150799e-06"
-         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
-      <text
-         xml:space="preserve"
-         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
-         x="-103.52207"
-         y="213.99402"
-         id="text2198-95-6-3"
-         transform="rotate(-60)"><tspan
-           sodipodi:role="line"
-           id="tspan2196-49-4-1"
-           x="-103.52207"
-           y="213.99402"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Seed</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
-         x="125.65878"
-         y="196.54422"
-         id="text873-4-3-1-72-1-0"><tspan
-           sodipodi:role="line"
-           id="tspan871-7-2-9-81-4-4"
-           x="125.65878"
-           y="196.54422"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">A</tspan></text>
-    </g>
-    <g
        id="g2213-15-4"
        transform="translate(-141.86305,-88.554276)">
       <path
@@ -2413,8 +2413,104 @@
        y="0"
        xlink:href="#g4242"
        id="use4244"
-       transform="translate(188.00375,73.485027)"
+       transform="translate(171.3728,73.485027)"
        width="100%"
        height="100%" />
+    <use
+       x="0"
+       y="0"
+       xlink:href="#g2213-13"
+       id="use3245-9"
+       transform="translate(234.34157,-20.561728)"
+       width="100%"
+       height="100%" />
+    <g
+       id="g2213-72-3-6-3"
+       transform="translate(107.18892,-90.893197)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path869-6-9-09-31-6-2-2"
+         sodipodi:sides="6"
+         sodipodi:cx="125.65878"
+         sodipodi:cy="191.9278"
+         sodipodi:r1="7.9337511"
+         sodipodi:r2="6.8708296"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-1.0078465e-05"
+         inkscape:transform-center-y="-3.1150799e-06"
+         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-103.52207"
+         y="213.99402"
+         id="text2198-347-8-8-4"
+         transform="rotate(-60)"><tspan
+           sodipodi:role="line"
+           id="tspan2196-89-4-3-6"
+           x="-103.52207"
+           y="213.99402"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Sweets</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="125.65878"
+         y="196.54422"
+         id="text873-4-3-1-80-2-5-4"><tspan
+           sodipodi:role="line"
+           id="tspan871-7-2-9-04-3-7-6"
+           x="125.65878"
+           y="196.54422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">♉︎</tspan></text>
+    </g>
+    <g
+       id="g2213-23-6-2-2"
+       transform="translate(108.0703,-123.69362)">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path869-6-9-09-79-0-9-2"
+         sodipodi:sides="6"
+         sodipodi:cx="125.65878"
+         sodipodi:cy="191.9278"
+         sodipodi:r1="7.9337511"
+         sodipodi:r2="6.8708296"
+         sodipodi:arg1="1.0471976"
+         sodipodi:arg2="1.5707963"
+         inkscape:flatsided="true"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         inkscape:transform-center-x="-1.0078465e-05"
+         inkscape:transform-center-y="-3.1150799e-06"
+         d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+         x="-103.52207"
+         y="213.99402"
+         id="text2198-913-0-0-4"
+         transform="rotate(-60)"><tspan
+           sodipodi:role="line"
+           id="tspan2196-15-3-7-2"
+           x="-103.52207"
+           y="213.99402"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Open Sans';-inkscape-font-specification:'Open Sans';text-align:center;text-anchor:middle;stroke-width:0.264583">Veggie</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="125.65878"
+         y="196.54422"
+         id="text873-4-3-1-08-6-79-9"><tspan
+           sodipodi:role="line"
+           id="tspan871-7-2-9-22-0-78-4"
+           x="125.65878"
+           y="196.54422"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">♈︎</tspan></text>
+    </g>
   </g>
 </svg>
