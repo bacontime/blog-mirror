@@ -162,3 +162,5 @@ Maybe use the * ones for air? Or for non-elementals?
 ![](elementhex.svg)
 
 ![](elementhex2.png)
+
+![](elementhexplus.png)
