@@ -147,7 +147,7 @@ Some are official unicode, but some are specific to Catrinity.
 |♆|water|
 |⚴|wood|
 
-<div></div>
+<div style="font-family: Catrinity;"></div>
 
 Switch ⚵ to steam, ⚴ to blood, and ... to wood?
 Or just swap Juno and Pallas?
