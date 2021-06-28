@@ -34,11 +34,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.70000002"
-     inkscape:cx="-131.82475"
-     inkscape:cy="253.72477"
+     inkscape:zoom="3.9597981"
+     inkscape:cx="416.49174"
+     inkscape:cy="249.68938"
      inkscape:document-units="mm"
-     inkscape:current-layer="g6347-9-2"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:window-width="1857"
@@ -11097,12 +11097,12 @@
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583"></tspan></text>
     </g>
     <g
-       id="g2213-52-1-2-1-9"
-       transform="matrix(0.6249975,0,0,0.6249975,1171.1268,-725.6268)">
+       id="g2213-52-1-2-1-9-5"
+       transform="matrix(0.6249975,0,0,0.6249975,1124.8655,-730.5342)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-         id="path869-6-9-09-80-0-1-9-5"
+         id="path869-6-9-09-80-0-1-9-5-4"
          sodipodi:sides="6"
          sodipodi:cx="125.65878"
          sodipodi:cy="191.9278"
@@ -11121,10 +11121,10 @@
          style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
          x="-103.52207"
          y="213.99402"
-         id="text2198-71-3-6-4-6"
+         id="text2198-71-3-6-4-6-7"
          transform="rotate(-60)"><tspan
            sodipodi:role="line"
-           id="tspan2196-09-9-6-3-7"
+           id="tspan2196-09-9-6-3-7-9"
            x="-103.52207"
            y="213.99402"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;stroke-width:0.264583">Acid</tspan></text>
@@ -11133,20 +11133,20 @@
          style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
          x="125.65878"
          y="196.54422"
-         id="text873-4-3-1-73-9-8-7-4"><tspan
+         id="text873-4-3-1-73-9-8-7-4-8"><tspan
            sodipodi:role="line"
-           id="tspan871-7-2-9-00-5-7-6-9"
+           id="tspan871-7-2-9-00-5-7-6-9-6"
            x="125.65878"
            y="196.54422"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">♀</tspan></text>
     </g>
     <g
-       id="g2213-60-7-7-3-3"
-       transform="matrix(0.6249975,0,0,0.6249975,1181.0439,-725.6268)">
+       id="g2213-60-7-7-3-3-7"
+       transform="matrix(0.6249975,0,0,0.6249975,1119.9069,-721.9457)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
-         id="path869-6-9-09-85-2-7-0-1"
+         id="path869-6-9-09-85-2-7-0-1-1"
          sodipodi:sides="6"
          sodipodi:cx="125.65878"
          sodipodi:cy="191.9278"
@@ -11165,10 +11165,10 @@
          style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
          x="-103.52207"
          y="213.99402"
-         id="text2198-90-6-3-7-1"
+         id="text2198-90-6-3-7-1-0"
          transform="rotate(-60)"><tspan
            sodipodi:role="line"
-           id="tspan2196-3-9-2-8-0"
+           id="tspan2196-3-9-2-8-0-4"
            x="-103.52207"
            y="213.99402"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;stroke-width:0.264583">Base</tspan></text>
@@ -11177,9 +11177,9 @@
          style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
          x="125.65878"
          y="196.54422"
-         id="text873-4-3-1-53-6-9-3-3"><tspan
+         id="text873-4-3-1-53-6-9-3-3-1"><tspan
            sodipodi:role="line"
-           id="tspan871-7-2-9-4-4-0-1-1"
+           id="tspan871-7-2-9-4-4-0-1-1-9"
            x="125.65878"
            y="196.54422"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">♁</tspan></text>
@@ -11406,7 +11406,7 @@
     </g>
     <g
        id="g2213-76-4-8-3-5"
-       transform="matrix(0.6249975,0,0,0.6249975,1198.8514,-731.83057)">
+       transform="matrix(0.6249975,0,0,0.6249975,1138.2383,-765.20227)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -11582,7 +11582,7 @@
     </g>
     <g
        id="g2213-17-2-7-4-0"
-       transform="matrix(0.6249975,0,0,0.6249975,1168.3486,-711.13993)">
+       transform="matrix(0.6249975,0,0,0.6249975,1166.6543,-728.48884)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -11670,7 +11670,7 @@
     </g>
     <g
        id="g2213-77-2-9-2-4"
-       transform="matrix(0.6249975,0,0,0.6249975,1124.8912,-730.59616)">
+       transform="matrix(0.6249975,0,0,0.6249975,1164.1153,-740.08413)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -12066,7 +12066,7 @@
     </g>
     <g
        id="g2213-8-6-9-8-5"
-       transform="matrix(0.6249975,0,0,0.6249975,1201.0899,-801.5254)">
+       transform="matrix(0.6249975,0,0,0.6249975,1138.2383,-736.86354)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -12242,7 +12242,7 @@
     </g>
     <g
        id="g2929-4-6-9-8"
-       transform="matrix(0.6249975,0,0,0.6249975,1119.9326,-722.00766)">
+       transform="matrix(0.6249975,0,0,0.6249975,1111.7542,-709.70455)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -12330,7 +12330,7 @@
     </g>
     <g
        id="g2213-2-7-4-4-2"
-       transform="matrix(0.6249975,0,0,0.6249975,1176.184,-759.87704)">
+       transform="matrix(0.6249975,0,0,0.6249975,1086.3514,-737.49381)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
