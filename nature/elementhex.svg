@@ -24,9 +24,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.7"
-     inkscape:cx="255.62155"
-     inkscape:cy="364.91174"
+     inkscape:zoom="0.49497475"
+     inkscape:cx="552.11555"
+     inkscape:cy="504.97226"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -58,14 +58,14 @@
        y="0"
        xlink:href="#g2213-72"
        id="use3287"
-       transform="translate(152.46861,-15.120788)"
+       transform="translate(149.79591,2.5190008)"
        width="100%"
        height="100%" />
     <circle
        style="fill:#deaa87;stroke:#000000;stroke-width:0.139144;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
        id="path3293"
-       cx="160.04356"
-       cy="1.9333303"
+       cx="157.37086"
+       cy="19.573118"
        r="16.566887" />
     <g
        id="g2213-52"
@@ -637,7 +637,7 @@
            id="tspan871-7-2-9-40"
            x="125.65878"
            y="196.54422"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">⚵</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">⚴</tspan></text>
     </g>
     <g
        id="g2213-77"
@@ -1296,7 +1296,7 @@
            id="tspan2925"
            x="125.65878"
            y="196.54422"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">⚴</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.264583">⚵</tspan></text>
     </g>
     <g
        id="g2213-2-8"
@@ -1523,7 +1523,7 @@
        y="0"
        xlink:href="#g2213-52"
        id="use3237"
-       transform="translate(181.8727,150.02876)"
+       transform="translate(189.62351,182.23474)"
        width="100%"
        height="100%" />
     <use
@@ -1531,7 +1531,7 @@
        y="0"
        xlink:href="#g2213-60"
        id="use3239"
-       transform="translate(169.97207,139.98336)"
+       transform="translate(177.72288,172.18934)"
        width="100%"
        height="100%" />
     <use
@@ -1539,7 +1539,7 @@
        y="0"
        xlink:href="#g2213-56"
        id="use3241"
-       transform="translate(79.752974,-47.624997)"
+       transform="translate(80.104089,-43.781339)"
        width="100%"
        height="100%" />
     <use
@@ -1547,7 +1547,7 @@
        y="0"
        xlink:href="#g2213-21"
        id="use3243"
-       transform="translate(193.52381,51.782741)"
+       transform="translate(143.81167,-15.034641)"
        width="100%"
        height="100%" />
     <use
@@ -1555,7 +1555,7 @@
        y="0"
        xlink:href="#g2213-13"
        id="use3245"
-       transform="translate(130.77976,100.16369)"
+       transform="translate(178.7858,-24.190263)"
        width="100%"
        height="100%" />
     <use
@@ -1563,7 +1563,7 @@
        y="0"
        xlink:href="#g2213-3"
        id="use3247"
-       transform="translate(133.85599,-4.82303)"
+       transform="translate(131.18329,12.816759)"
        width="100%"
        height="100%" />
     <use
@@ -1571,7 +1571,7 @@
        y="0"
        xlink:href="#g2213-14"
        id="use3249"
-       transform="translate(116.68154,-135.45718)"
+       transform="translate(114.00884,-117.81739)"
        width="100%"
        height="100%" />
     <use
@@ -1579,7 +1579,7 @@
        y="0"
        xlink:href="#g2213-76"
        id="use3251"
-       transform="translate(89.740178,-119.82496)"
+       transform="translate(107.38204,-91.855191)"
        width="100%"
        height="100%" />
     <use
@@ -1587,7 +1587,7 @@
        y="0"
        xlink:href="#g2213-01"
        id="use3253"
-       transform="translate(158.0364,-99.701949)"
+       transform="translate(155.3637,-82.06216)"
        width="100%"
        height="100%" />
     <use
@@ -1595,7 +1595,7 @@
        y="0"
        xlink:href="#g2213-33"
        id="use3255"
-       transform="translate(122.65328,80.50893)"
+       transform="translate(124.36204,69.320645)"
        width="100%"
        height="100%" />
     <use
@@ -1603,7 +1603,7 @@
        y="0"
        xlink:href="#g2213-79"
        id="use3257"
-       transform="translate(145.75662,-59.26798)"
+       transform="translate(143.08392,-41.628191)"
        width="100%"
        height="100%" />
     <use
@@ -1611,7 +1611,7 @@
        y="0"
        xlink:href="#g2213-17"
        id="use3259"
-       transform="translate(159.88393,186.72024)"
+       transform="translate(178.7858,87.874206)"
        width="100%"
        height="100%" />
     <use
@@ -1619,7 +1619,7 @@
        y="0"
        xlink:href="#g2213-4"
        id="use3261"
-       transform="translate(147.76978,79.58089)"
+       transform="translate(162.9183,94.223346)"
        width="100%"
        height="100%" />
     <use
@@ -1627,7 +1627,7 @@
        y="0"
        xlink:href="#g2213-77"
        id="use3263"
-       transform="translate(151.49444,89.501)"
+       transform="translate(170.85205,91.048776)"
        width="100%"
        height="100%" />
     <use
@@ -1635,7 +1635,7 @@
        y="0"
        xlink:href="#g2213-2"
        id="use3265"
-       transform="translate(97.328621,47.67477)"
+       transform="translate(120.25585,67.339886)"
        width="100%"
        height="100%" />
     <use
@@ -1643,7 +1643,7 @@
        y="0"
        xlink:href="#g2213-15"
        id="use3269"
-       transform="translate(167.424,-62.633702)"
+       transform="translate(188.00375,-38.579444)"
        width="100%"
        height="100%" />
     <use
@@ -1651,7 +1651,7 @@
        y="0"
        xlink:href="#g2213-0"
        id="use3271"
-       transform="translate(136.22196,-106.32039)"
+       transform="translate(133.54926,-88.680601)"
        width="100%"
        height="100%" />
     <use
@@ -1659,7 +1659,7 @@
        y="0"
        xlink:href="#g2213-28"
        id="use3273"
-       transform="translate(195.03571,-44.979163)"
+       transform="translate(190.49212,-47.651858)"
        width="100%"
        height="100%" />
     <use
@@ -1667,7 +1667,7 @@
        y="0"
        xlink:href="#g2213-5"
        id="use3275"
-       transform="translate(182.91727,-134.68356)"
+       transform="translate(198.42587,-129.05842)"
        width="100%"
        height="100%" />
     <use
@@ -1675,7 +1675,7 @@
        y="0"
        xlink:href="#g2213-50"
        id="use3277"
-       transform="translate(90.127607,-77.401627)"
+       transform="translate(93.880505,-54.848152)"
        width="100%"
        height="100%" />
     <use
@@ -1683,7 +1683,7 @@
        y="0"
        xlink:href="#g2213-7"
        id="use3279"
-       transform="translate(82.76892,-46.567049)"
+       transform="translate(84.639805,-36.410811)"
        width="100%"
        height="100%" />
     <use
@@ -1691,7 +1691,7 @@
        y="0"
        xlink:href="#g2213-6"
        id="use3281"
-       transform="translate(167.424,-65.808262)"
+       transform="translate(188.00375,-41.754004)"
        width="100%"
        height="100%" />
     <use
@@ -1699,7 +1699,7 @@
        y="0"
        xlink:href="#g2213-8"
        id="use3283"
-       transform="translate(80.232807,47.635777)"
+       transform="translate(85.946755,15.991327)"
        width="100%"
        height="100%" />
     <use
@@ -1707,7 +1707,7 @@
        y="0"
        xlink:href="#g2213-23"
        id="use3285"
-       transform="translate(119.06251,39.68751)"
+       transform="translate(108.44105,51.34491)"
        width="100%"
        height="100%" />
     <use
@@ -1715,7 +1715,7 @@
        y="0"
        xlink:href="#g2213-722"
        id="use3289"
-       transform="translate(144.53487,-11.946218)"
+       transform="translate(141.86217,5.6935708)"
        width="100%"
        height="100%" />
     <use
@@ -1723,7 +1723,7 @@
        y="0"
        xlink:href="#g2929"
        id="use3291"
-       transform="translate(107.30193,-81.759674)"
+       transform="translate(141.48301,-64.389061)"
        width="100%"
        height="100%" />
     <g
@@ -2413,7 +2413,7 @@
        y="0"
        xlink:href="#g4242"
        id="use4244"
-       transform="translate(167.424,49.430769)"
+       transform="translate(188.00375,73.485027)"
        width="100%"
        height="100%" />
   </g>

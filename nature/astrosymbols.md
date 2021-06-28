@@ -127,7 +127,7 @@ Some are official unicode, but some are specific to Catrinity.
 | ♁⊕⨁⏚土𒆠𓇾 |earth|
 | ♃⯢☈ |electricity|
 | ⚶ |fire|
-| ⚶♐ |flesh|
+| ⚶♐  &#x2650; |flesh|
 ||glass|
 |☉|gold|
 | ⯘ |ice|
