@@ -34,9 +34,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.25"
-     inkscape:cx="-2282.3846"
-     inkscape:cy="2311.6243"
+     inkscape:zoom="1.4142136"
+     inkscape:cx="340.11019"
+     inkscape:cy="145.91123"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -13136,7 +13136,7 @@
     </g>
     <g
        id="g4242-0-6-6-2"
-       transform="matrix(0.6249975,0,0,0.6249975,1316.2754,-695.35785)">
+       transform="matrix(0.6249975,0,0,0.6249975,1126.5593,-587.6528)">
       <path
          sodipodi:type="star"
          style="fill:#ffffff;stroke:#000000;stroke-width:0.258339;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
@@ -13721,11 +13721,11 @@
     </g>
     <g
        id="g2213-2-3-9-7-0-2"
-       transform="matrix(0.6249975,0,0,0.6249975,1070.1615,-730.72297)"
-       style="stroke-width:0.32000128;stroke-miterlimit:4;stroke-dasharray:none">
+       transform="matrix(0.6249975,0,0,0.6249975,1212.3725,-814.79305)"
+       style="stroke-width:0.320001;stroke-miterlimit:4;stroke-dasharray:none">
       <path
          sodipodi:type="star"
-         style="fill:#ffffff;stroke:#000000;stroke-width:0.32000128;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke;stroke-miterlimit:4;stroke-dasharray:none"
+         style="fill:#ffffff;stroke:#000000;stroke-width:0.320001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
          id="path869-6-9-09-3-8-6-1-3-5"
          sodipodi:sides="6"
          sodipodi:cx="125.65878"
@@ -13742,7 +13742,7 @@
          d="m 129.62566,198.79863 -7.93375,0 -3.96688,-6.87083 3.96688,-6.87083 7.93375,0 3.96687,6.87083 z" />
       <text
          xml:space="preserve"
-         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.32000128;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-size:2.82222px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.320001;stroke-miterlimit:4;stroke-dasharray:none"
          x="-103.52207"
          y="213.99402"
          id="text2198-7-3-3-9-9-5"
@@ -13751,10 +13751,10 @@
            id="tspan2196-0-96-3-9-4-3"
            x="-103.52207"
            y="213.99402"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;stroke-width:0.32000128;stroke-miterlimit:4;stroke-dasharray:none">Mist</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.82222px;font-family:'Gill Sans MT';-inkscape-font-specification:'Gill Sans MT';text-align:center;text-anchor:middle;stroke-width:0.320001;stroke-miterlimit:4;stroke-dasharray:none">Mist</tspan></text>
       <text
          xml:space="preserve"
-         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.32000128;stroke-miterlimit:4;stroke-dasharray:none"
+         style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.320001;stroke-miterlimit:4;stroke-dasharray:none"
          x="125.65878"
          y="196.54422"
          id="text873-4-3-1-1-3-1-2-5-0"><tspan
@@ -13762,7 +13762,7 @@
            id="tspan871-7-2-9-3-28-3-6-0-7"
            x="125.65878"
            y="196.54422"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.32000128;stroke-miterlimit:4;stroke-dasharray:none"></tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:14.1111px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.320001;stroke-miterlimit:4;stroke-dasharray:none"></tspan></text>
     </g>
     <g
        id="g2213-2-7-4-4-2"
