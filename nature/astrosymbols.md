@@ -159,8 +159,20 @@ Basically, Juno looks like a tree, and the blood spear thing is important in the
 
 Maybe use the * ones for air? Or for non-elementals?
 
+Some of the symbols are [modern inventions by Denis Moskowitz](https://suberic.net/~dmm/astro/tno.html). Fortunately, he has entered the designs on these symbols into the public domain.
+
+
+
+
 ![](elementhex.svg)
 
 ![](elementhex2.png)
 
 ![](elementhexplus.png)
+
+![](elementasociationtierlist.png)
+
+
+
+## Links:
+- [List of names of astrobodies, and their associations from the USGS.](https://planetarynames.wr.usgs.gov/Page/Planets)
