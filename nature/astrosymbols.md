@@ -176,3 +176,7 @@ Some of the symbols are [modern inventions by Denis Moskowitz](https://suberic.n
 
 ## Links:
 - [List of names of astrobodies, and their associations from the USGS.](https://planetarynames.wr.usgs.gov/Page/Planets)
+- [New astro symbols, by Denis Moskowitz.](https://suberic.net/~dmm/astro/index.html) A couple have actually made it into the unicode standard.
+
+
+
