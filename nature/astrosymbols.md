@@ -2,7 +2,9 @@
 
 <style>
 /*td {font-family: Catrinity; padding:0em;}*/
-.catsym {font-family: Catrinity; padding:0em; font-size: 200%;}
+.catsym {font-family: Catrinity; padding:0em; margin:0em; font-size: 150%;
+  text-align: center;
+  vertical-align: middle;}
 </style>
 
 <table>
@@ -22,7 +24,7 @@
 | ☄ | comet |  |
 | ☆ | star |  |
 | ☽☾ | moon | silver |
-| ☿ | mercury | finance, commerce, communication, travel, rogues, (soul) |
+| <span class="catsym">☿</span> | mercury | finance, commerce, communication, travel, rogues, (soul) |
 | ♀ | venus | love, prosperity, beauty, desire |
 | ♁⊕ | earth |  |
 | ♂ | mars | war, agriculture, courage |
