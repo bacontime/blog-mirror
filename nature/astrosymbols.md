@@ -1,9 +1,16 @@
 
 
 <style>
-td {font-family: Catrinity; padding:0em;}
+/*td {font-family: Catrinity; padding:0em;}*/
+.catsym {font-family: Catrinity; padding:0em; font-size: 200%;}
 </style>
 
+<table>
+<tr>
+<td class="catsym">☿⯟</td>
+<td>Venus</td>
+<td>Love, prosperity, beauty, desire</td>
+</tr>
 
 ## Unicode Astronomical Symbols
 
@@ -177,7 +184,7 @@ Some of the symbols are [modern inventions by Denis Moskowitz](https://suberic.n
 
 -->
 
-![](astrosymbols/dualscalesolarsystem_nofont.png)
+![](astrosymbols/dualscalesolarsystem_nofont.svg)
 
 
 
