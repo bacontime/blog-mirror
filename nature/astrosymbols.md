@@ -162,7 +162,7 @@ Maybe use the * ones for air? Or for non-elementals?
 Some of the symbols are [modern inventions by Denis Moskowitz](https://suberic.net/~dmm/astro/tno.html). Fortunately, he has entered the designs on these symbols into the public domain.
 
 
-
+<!--
 
 ![](elementhex.svg)
 
@@ -173,16 +173,32 @@ Some of the symbols are [modern inventions by Denis Moskowitz](https://suberic.n
 ![](elementasociationtierlist.png)
 
 
+![](astrosymbols/dualscalesolarsystem.png)
+
+-->
+
+![](astrosymbols/dualscalesolarsystem_nofont.png)
+
+
+
+
+
+
+
+
+
 
 ## Links:
 - [List of names of astrobodies, and their associations from the USGS.](https://planetarynames.wr.usgs.gov/Page/Planets)
 - [New astro symbols, by Denis Moskowitz.](https://suberic.net/~dmm/astro/index.html) A couple have actually made it into the unicode standard.
 
 
-![](astrosymbols/dualscalesolarsystem.png)
 
 
-![](astrosymbols/dualscalesolarsystem_nofont.png)
+
+
+
+
 
 
 826400
