@@ -11,6 +11,7 @@
 <td>Venus</td>
 <td>Love, prosperity, beauty, desire</td>
 </tr>
+</table>
 
 ## Unicode Astronomical Symbols
 
