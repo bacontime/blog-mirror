@@ -179,4 +179,10 @@ Some of the symbols are [modern inventions by Denis Moskowitz](https://suberic.n
 - [New astro symbols, by Denis Moskowitz.](https://suberic.net/~dmm/astro/index.html) A couple have actually made it into the unicode standard.
 
 
+![](astrosymbols/dualscalesolarsystem.png)
 
+
+![](astrosymbols/dualscalesolarsystem_nofont.png)
+
+
+826400
