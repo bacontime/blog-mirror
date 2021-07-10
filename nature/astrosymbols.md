@@ -187,7 +187,15 @@ Some of the symbols are [modern inventions by Denis Moskowitz](https://suberic.n
 
 -->
 
-![](astrosymbols/dualscalesolarsystem_nofont.svg)
+Here is a quadratically scaled solar system.
+I'm playing around with the symbols for some of the moons.
+
+![](astrosymbols/quadraticsolarsystem.svg)
+
+
+And here is one to scale:
+
+![](astrosymbols/dualscalesolarsystem_moons_nofont.svg)
 
 
 
