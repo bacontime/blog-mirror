@@ -3,8 +3,7 @@
 <style>
 @font-face {
   font-family: CatrinityWeb;
-  src: url("astrosymbols/Catrinity.otf") format("opentype");
-  src: url("astrosymbols/Catrinity.ttf") format("truetype");
+  src: url("astrosymbols/Catrinity.otf"), url("astrosymbols/Catrinity.ttf");
 }
 /*td {font-family: CatrinityWeb; padding:0em;}*/
 .catsym {font-family: CatrinityWeb; padding:0em; margin:0em; font-size: 150%;
