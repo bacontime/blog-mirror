@@ -3,12 +3,18 @@
 <style>
 @font-face {
   font-family: CatrinityWeb;
-  src: Catrinity, url("astrosymbols/Catrinity.otf"), url("astrosymbols/Catrinity.ttf");
+  src: local(Catrinity), url("astrosymbols/Catrinity.otf"), url("astrosymbols/Catrinity.ttf");
 }
 /*td {font-family: CatrinityWeb; padding:0em;}*/
 .catsym {font-family: CatrinityWeb; padding:0em; margin:0em; font-size: 150%;
   text-align: center;
   vertical-align: middle;}
+.catsubtitle {
+    font-family: CatrinityWeb; 
+    padding:0em; margin:0em; 
+    font-size: 80%;
+    font-style: italic;
+}
 </style>
 
 <span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>
@@ -140,7 +146,8 @@ Namesake
 : God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.
 
 ### <span class="catsym">⊕</span> Terra  
-*Alt symbol: <span class="catsym">♁</span>*  
+<span class="catsubtitle">Alt symbol:♁</span>
+
 Planet features
 : Liquid water oceans, surprising amounts of oxygen, exotic slimes.
 
