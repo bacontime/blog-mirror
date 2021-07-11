@@ -1,6 +1,10 @@
 
 
 <style>
+@font-face {
+  font-family: "Catrinity";
+  src: url("https://RMWinslow.github.io/font/Catrinity.otf");
+}
 /*td {font-family: Catrinity; padding:0em;}*/
 .catsym {font-family: Catrinity; padding:0em; margin:0em; font-size: 150%;
   text-align: center;
