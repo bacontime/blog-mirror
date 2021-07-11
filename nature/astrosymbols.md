@@ -146,7 +146,7 @@ Namesake
 : God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.
 
 ### <span class="catsym">⊕</span> Terra  
-<div class="catsubtitle">Alt symbol:♁</div>
+<div class="catsubtitle">Alternate symbol: ♁</div>
 
 Planet features
 : Liquid water oceans, surprising amounts of oxygen, exotic slimes.
@@ -239,13 +239,14 @@ Namesake
 
 Some colored glyphs:
 
+<div class="catsym">
 &#xF5B6;
 &#xF5B7;
 &#xF5B8;
 &#xF5B9;
 &#xF5BA;
 &#xF5BB;
-
+</div>
 
 
 
