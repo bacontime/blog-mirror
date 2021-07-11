@@ -4,13 +4,15 @@
 @font-face {
   font-family: CatrinityWeb;
   src: url("astrosymbols/Catrinity.otf") format("opentype");
-  src: url("https://RMWinslow.github.io/font/Catrinity.ttf") format("truetype");
+  src: url("astrosymbols/Catrinity.ttf") format("truetype");
 }
 /*td {font-family: CatrinityWeb; padding:0em;}*/
 .catsym {font-family: CatrinityWeb; padding:0em; margin:0em; font-size: 150%;
   text-align: center;
   vertical-align: middle;}
 </style>
+
+<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>
 
 
 ## The Eight Major Planets
