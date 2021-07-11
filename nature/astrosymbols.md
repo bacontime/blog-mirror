@@ -166,9 +166,14 @@ Namesake
 
 
 
+Some colored glyphs:
 
-
-
+&#xF5B6;
+&#xF5B7;
+&#xF5B8;
+&#xF5B9;
+&#xF5BA;
+&#xF5BB;
 
 
 
