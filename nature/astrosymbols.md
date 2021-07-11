@@ -7,11 +7,44 @@
   vertical-align: middle;}
 </style>
 
+
+## The Eight Major Planets
+
 <table>
+<tr>
+<th>Symbol</th>
+<th>Name</th>
+<th>Namesake</th>
+</tr>
 <tr>
 <td class="catsym">☿⯟</td>
 <td>Venus</td>
-<td>Love, prosperity, beauty, desire</td>
+<td>Love, prosperity, beauty, desire.</td>
+</tr>
+<tr>
+<td class="catsym">☿⯟</td>
+<td>Venus</td>
+<td>God of love, prosperity, beauty, desire.</td>
+</tr>
+<tr>
+<td class="catsym">♁⊕</td>
+<td>Terra</td>
+<td>Earth. You know, dirt and stuff.</td>
+</tr>
+<tr>
+<td class="catsym">♂</td>
+<td>Mars</td>
+<td>God of violent war and bloodshed! (Also, sometimes agriculture.)</td>
+</tr>
+<tr>
+<td class="catsym">♃⯢</td>
+<td>Jupiter</td>
+<td>King of the Gods. God of the sky, lightning, and being an adulterous creep.</td>
+</tr>
+<tr>
+<td class="catsym">♄⯣</td>
+<td>Saturn</td>
+<td>Titan of wealth, agriculture, cycles of renewal, and time. A horrible father, but a pretty good ruler of the world.</td>
 </tr>
 </table>
 
@@ -122,40 +155,46 @@ Some are official unicode, but some are specific to Catrinity.
 
 
 
-♃ can be electricity or clouds?
-♄ seems earth or flesh or rust? (ravages of time?)
 
 
-|||
-|:-:|:-:|
-|♀|acid|
-|♁|base|
-|⚵|blood|
-|⯚|bone|
-|  |chitin|
-|⚳|clay|
-| ♁⊕⨁⏚土𒆠𓇾 |earth|
-| ♃⯢☈ |electricity|
-| ⚶ |fire|
-| ⚶♐  &#x2650; |flesh|
-||glass|
-|☉|gold|
-| ⯘ |ice|
-|♂|iron|
-|⯦|lava|
-|☼|light|
-| ☊ |magnetism|
-| ⯓ |mist+|
-|♄|rust|
-|ϴ|salt|
-|⚷|sand|
-| ⚸⯕ |shadow|
-| ⯔ |smoke+|
-|  |steam+|
-| ♇ |stone|
-|♅|vacuum+|
-|♆|water|
-|⚴|wood|
+
+
+## Asteroids
+
+People initially thought these were planets and gave them symbols. Around the discovery of 16 Psyche is when astronomers realized there are too many of the dang things to dote on each one individually.
+
+1. Ceres: God of grain, harvest, motherhood.
+2. Pallas: Athena and her spear.
+3. Juno: God of marriage and childbirth.
+4. Vesta: God of hearth and home.
+5. Astraea: God of justice, innocence, purity, and precision.
+6. Hebe: God of youth and forgiveness, Cupbearer to the gods.
+7. Iris: God of rainbows. Messenger of the gods.
+8. Flora: God of flowers and springtime.
+9. Metis: Titan of wisdom and skilled council. Mother of Athena.
+10. Hygiea: God of cleanliness, sanitation, and preventative medicine.
+11. Parthenope: Siren. Either failed to lure Odysseus or was turned into a city by Jupiter.
+12. Victoria: God of victory.
+13. Egeria: 
+14. Irene
+15. Eunomia
+16. Psyche
+17. Thetis
+18. Melpomene
+19. Fortuna
+26. Proserpina
+28. Bellona
+29. Amphitrite
+35. Leukothea
+37. Fides
+
+
+
+
+
+
+
+
 
 <div style="font-family: Catrinity; font-size: 300%;"></div>
 

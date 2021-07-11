@@ -38,6 +38,34 @@ radkm = {'Ceres': 473,
          'Charon': 603,
          'Dysnomia': 350,}
 
+asteroid_diameter_km = {
+        '1 Ceres': 939,
+        '2 Pallas': 512,
+        '3 Juno': 247,
+        '4 Vesta': 525,
+        '5 Astraea': 107,
+        '6 Hebe': 186,
+        '7 Iris': 214,
+        '8 Flora': 147,
+        '9 Metis': 274,
+        '10 Hygiea': 434,
+        '11 Parthenope': 143,
+        '12 Victoria': 115,
+        '13 Egeria': 208,
+        '14 Irene': 152,
+        '15 Eunomia': 268,
+        '16 Psyche': 225,
+        '17 Thetis': 85,
+        '18 Melpomene': 140,
+        '19 Fortuna': 225,
+        '26 Proserpina': 95,
+        '28 Bellona': 121,
+        '29 Amphitrite': 190,
+        '35 Leukothea': 103,
+        '37 Fides': 108,}
+
+#https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=35
+
 distanceAU = {'Ceres': 2.766,
          'Pluto': 39.482,
          'Haumea': 43.335,
