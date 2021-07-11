@@ -139,10 +139,8 @@ Planet features
 Namesake
 : God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.
 
-### <span class="catsym">⊕</span> Terra
-
-*Alt symbol: <span class="catsym">♁</span>*
-
+### <span class="catsym">⊕</span> Terra  
+*Alt symbol: <span class="catsym">♁</span>*  
 Planet features
 : Liquid water oceans, surprising amounts of oxygen, exotic slimes.
 
@@ -160,7 +158,7 @@ Namesake
 
 ## The Dwarf Planets
 
-### Ceres
+### <span class="catsym">⚳</span> Ceres
 
 Planet features
 : Largest asteroid. Made of clay and brine. Cryovolcanoes. 
