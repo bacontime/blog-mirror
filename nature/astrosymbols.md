@@ -3,7 +3,7 @@
 <style>
 @font-face {
   font-family: CatrinityWeb;
-  src: url("https://RMWinslow.github.io/font/Catrinity.otf") format("opentype");
+  src: url("astrosymbols/Catrinity.otf") format("opentype");
   src: url("https://RMWinslow.github.io/font/Catrinity.ttf") format("truetype");
 }
 /*td {font-family: CatrinityWeb; padding:0em;}*/
@@ -200,7 +200,9 @@ Planet features
 Namesake
 : God of discord. Started the Trojan war with the apple incident.
 
+### Gonggong?
 
+### Orcus?
 
 ## Planetary Mass Moons.
 
