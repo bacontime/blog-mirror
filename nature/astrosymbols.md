@@ -2,11 +2,12 @@
 
 <style>
 @font-face {
-  font-family: Catrinity;
+  font-family: CatrinityWeb;
   src: url("https://RMWinslow.github.io/font/Catrinity.otf") format("opentype");
+  src: url("https://RMWinslow.github.io/font/Catrinity.ttf") format("truetype");
 }
-/*td {font-family: Catrinity; padding:0em;}*/
-.catsym {font-family: Catrinity; padding:0em; margin:0em; font-size: 150%;
+/*td {font-family: CatrinityWeb; padding:0em;}*/
+.catsym {font-family: CatrinityWeb; padding:0em; margin:0em; font-size: 150%;
   text-align: center;
   vertical-align: middle;}
 </style>
@@ -205,7 +206,7 @@ Namesake
 
 
 
-Luna
+### Luna
 
 Features
 : Makes big tides on earth. 
@@ -213,7 +214,19 @@ Features
 Namesake
 : "Moon" comes from "menses", the protoindoeuropean word for month. "Luna" is a moon god, sometimes identified with Artemis, god of the hunt.
 
+### Io
 
+### Europa
+
+### Ganymede
+
+### Kallisto
+
+### Titan
+
+### Triton
+
+### Charon
 
 
 Some colored glyphs:
