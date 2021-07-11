@@ -11,42 +11,184 @@
 ## The Eight Major Planets
 
 <table>
-<tr>
+<thead><tr>
 <th>Symbol</th>
 <th>Name</th>
+<th>Features</th>
 <th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">☿</td>
+<td>Mercury</td>
+<td>Tidal locked, extreme temperatures, very close to sun.</td>
+<td>God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.</td>
 </tr>
 <tr>
-<td class="catsym">☿⯟</td>
+<td class="catsym">♀</td>
 <td>Venus</td>
-<td>Love, prosperity, beauty, desire.</td>
+<td>Blisteringly hot, thick atmosphere, clouds made of sulfuric acid.</td>
+<td>God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.</td>
 </tr>
 <tr>
-<td class="catsym">☿⯟</td>
-<td>Venus</td>
-<td>God of love, prosperity, beauty, desire.</td>
-</tr>
-<tr>
-<td class="catsym">♁⊕</td>
+<td class="catsym">⊕♁</td>
 <td>Terra</td>
+<td>Liquid water oceans, surprising amounts of oxygen, exotic slimes.</td>
 <td>Earth. You know, dirt and stuff.</td>
 </tr>
 <tr>
 <td class="catsym">♂</td>
 <td>Mars</td>
-<td>God of violent war and bloodshed! (Also, sometimes agriculture.)</td>
+<td>Inside the habitable zone, covered in rust, icy poles, biggest mountain, inhabited by robots.</td>
+<td>God of violent war and bloodshed! (Also, sometimes agriculture. He can be cool.) Symbol is his shield and spear.</td>
 </tr>
 <tr>
 <td class="catsym">♃⯢</td>
 <td>Jupiter</td>
+<td>Huge; like, really so big it's hard to believe. Bombarded by comets (might protect us from them). Has moons so big they're basically planets. Giant eternal storms.</td>
 <td>King of the Gods. God of the sky, lightning, and being an adulterous creep.</td>
 </tr>
 <tr>
 <td class="catsym">♄⯣</td>
 <td>Saturn</td>
-<td>Titan of wealth, agriculture, cycles of renewal, and time. A horrible father, but a pretty good ruler of the world.</td>
+<td>Another stormy giant. Weird polar hexagonal storm. Magnificent rings.</td>
+<td>Titan of wealth, agriculture, cycles of renewal, and time. A horrible father, but a pretty good ruler of the world. Overthrown by his son Jupiter. Symbol is his scythe.</td>
+</tr>
+<tr>
+<td class="catsym">♅⛢</td>
+<td>Uranus</td>
+<td>Sideways ice giant. Made of eerily smooth gas.</td>
+<td>Primordial sky god. Overthrown by his son Saturn.</td>
+</tr>
+<tr>
+<td class="catsym">♆⯉⯧</td>
+<td>Neptune</td>
+<td>Another ice giant. Discovered with math.</td>
+<td>God of the sea (and horses) (and in the greek equivalent, earthquakes).</td>
 </tr>
 </table>
+
+
+## The Dwarf Planets
+
+
+
+
+---
+
+Okay, and here's a test of the same info using description lists instead.
+
+
+
+
+## The Eight Major Planets
+
+### ☿ Mercury
+
+Planet features
+: Tidal locked, extreme temperatures, very close to sun.
+
+Namesake
+: God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.
+
+### ♀ Venus
+
+Planet features
+: Blisteringly hot, thick atmosphere, clouds made of sulfuric acid.
+
+Namesake
+: God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.
+
+### ⊕ Terra
+
+*Alt symbol: ♁*
+
+Planet features
+: Liquid water oceans, surprising amounts of oxygen, exotic slimes.
+
+Namesake
+: Earth. You know, dirt and stuff.
+
+### ♂ Mars
+
+Planet features
+: Inside the habitable zone, covered in rust, icy poles, biggest mountain, inhabited by robots.
+
+Namesake
+: God of violent war and bloodshed! (Also, sometimes agriculture. He can be cool.) Symbol is his shield and spear.
+
+
+### <span class="catsym">☿</span> Mercury
+
+Planet features
+: Tidal locked, extreme temperatures, very close to sun.
+
+Namesake
+: God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.
+
+### <span class="catsym">♀</span> Venus
+
+Planet features
+: Blisteringly hot, thick atmosphere, clouds made of sulfuric acid.
+
+Namesake
+: God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.
+
+### <span class="catsym">⊕</span> Terra
+
+*Alt symbol: <span class="catsym">♁</span>*
+
+Planet features
+: Liquid water oceans, surprising amounts of oxygen, exotic slimes.
+
+Namesake
+: Earth. You know, dirt and stuff.
+
+### <span class="catsym">♂</span> Mars
+
+Planet features
+: Inside the habitable zone, covered in rust, icy poles, biggest mountain, inhabited by robots.
+
+Namesake
+: God of violent war and bloodshed! (Also, sometimes agriculture. He can be cool.) Symbol is his shield and spear.
+
+
+## The Dwarf Planets
+
+### Ceres
+
+### Pluto
+
+### Haumea
+
+### Makamake
+
+### Eris
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+---
+
+
+
+
 
 ## Unicode Astronomical Symbols
 
