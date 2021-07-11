@@ -12,7 +12,7 @@
 .catsubtitle {
     font-family: CatrinityWeb; 
     padding:0em; margin:0em; 
-    font-size: 80%;
+    font-size: 90%;
     font-style: italic;
 }
 </style>
@@ -146,7 +146,7 @@ Namesake
 : God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.
 
 ### <span class="catsym">⊕</span> Terra  
-<span class="catsubtitle">Alt symbol:♁</span>
+<div class="catsubtitle">Alt symbol:♁</div>
 
 Planet features
 : Liquid water oceans, surprising amounts of oxygen, exotic slimes.
