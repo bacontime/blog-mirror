@@ -2,8 +2,8 @@
 
 <style>
 @font-face {
-  font-family: "Catrinity";
-  src: url("https://RMWinslow.github.io/font/Catrinity.otf");
+  font-family: Catrinity;
+  src: url("https://RMWinslow.github.io/font/Catrinity.otf") format("opentype");
 }
 /*td {font-family: Catrinity; padding:0em;}*/
 .catsym {font-family: Catrinity; padding:0em; margin:0em; font-size: 150%;
@@ -198,6 +198,21 @@ Planet features
 
 Namesake
 : God of discord. Started the Trojan war with the apple incident.
+
+
+
+## Planetary Mass Moons.
+
+
+
+Luna
+
+Features
+: Makes big tides on earth. 
+
+Namesake
+: "Moon" comes from "menses", the protoindoeuropean word for month. "Luna" is a moon god, sometimes identified with Artemis, god of the hunt.
+
 
 
 
