@@ -160,13 +160,44 @@ Namesake
 
 ### Ceres
 
+Planet features
+: Largest asteroid. Made of clay and brine. Cryovolcanoes. 
+
+Namesake
+: God of the harvest.
+
+
 ### Pluto
+
+Planet features
+: Cold, small, cute heart shape. Has a moon big enough to be a planet.
+
+Namesake
+: God of the underworld and material riches.
 
 ### Haumea
 
+Planet features
+: Egg shape. Rings. 
+
+Namesake
+: God of motherhood.
+
 ### Makamake
 
+Planet features
+: uh.
+
+Namesake
+: Bird cult, bird cult, bird cult! BIRD CULT!
+
 ### Eris
+
+Planet features
+: Very very very far away from the sun. Slightly more massive than Pluto. The reason Pluto is no longer a major planet.
+
+Namesake
+: God of discord. Started the Trojan war with the apple incident.
 
 
 
