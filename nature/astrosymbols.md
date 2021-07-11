@@ -340,18 +340,6 @@ People initially thought these were planets and gave them symbols. Around the di
 
 <!--<div style="font-family: Catrinity; font-size: 300%;"></div>-->
 
-Rainbow, eye, snake, fish, buckler, heart, wing, dolphin, dagger, wheel of fortune, pomegranate, shell.
-
-Slime Slugs Leaves
-
-Switch ⚵ to steam, ⚴ to blood, and ... to wood?
-Or just swap Juno and Pallas?
-Basically, Juno looks like a tree, and the blood spear thing is important in the WtC story.
-
-Maybe use the * ones for air? Or for non-elementals?
-
-Some of the symbols are [modern inventions by Denis Moskowitz](https://suberic.net/~dmm/astro/tno.html). Fortunately, he has entered the designs on these symbols into the public domain.
-
 
 <!--
 
