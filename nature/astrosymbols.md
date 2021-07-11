@@ -338,7 +338,7 @@ People initially thought these were planets and gave them symbols. Around the di
 
 
 
-<div style="font-family: Catrinity; font-size: 300%;"></div>
+<!--<div style="font-family: Catrinity; font-size: 300%;"></div>-->
 
 Rainbow, eye, snake, fish, buckler, heart, wing, dolphin, dagger, wheel of fortune, pomegranate, shell.
 
