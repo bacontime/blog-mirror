@@ -127,17 +127,17 @@ Aka "satellite planets"
 </tr></thead>
 <tr>
 <td class="catsym">Luna</td>
-<td></td>
-<td></td>
+<td>Tides</td>
+<td>Artemis</td>
 </tr>
 <tr>
 <td class="catsym">Io</td>
-<td></td>
+<td>Geologically active</td>
 <td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a hunky king.</td>
 </tr>
 <tr>
 <td class="catsym">Europa</td>
-<td></td>
+<td>Oceans under kilometers of ice.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
 </tr>
 <tr>
@@ -147,10 +147,10 @@ Aka "satellite planets"
 </tr>
 <tr>
 <td class="catsym">Kallisto</td>
-<td></td>
+<td>uh</td>
 <td>A nymph and follower of Artemis. Jupiter raped her, then Artemis kicked her out because shr wasn"t a virgin anymore. A while later, Hera turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
 </tr>
-<tr>
+<!--<tr>
 <td class="catsym">Titan</td>
 <td>Thick atmosphere. Only place besides Earth with surface liquid (it's methane though).</td>
 <td>Precursors to the Olympean gods. Not any specific titan, though.</td>
@@ -179,7 +179,7 @@ Aka "satellite planets"
 <td class="catsym">Charon</td>
 <td></td>
 <td>Ferryman of the dead.</td>
-</tr>
+</tr>-->
 </table>
 
 
