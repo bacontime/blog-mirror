@@ -82,8 +82,121 @@ title: Astro Symbols
 </table>
 
 
+
+<table>
+<thead><tr>
+<th>Planet</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">☿ Mercury</td>
+<td>Tidal locked, extreme temperatures, very close to sun.</td>
+<td>God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.</td>
+</tr>
+<tr>
+<td class="catsym">♀ Venus</td>
+<td>Blisteringly hot, thick atmosphere, clouds made of sulfuric acid.</td>
+<td>God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.</td>
+</tr>
+<tr>
+<td class="catsym">⊕ Terra<br>♁</td>
+<td>Liquid water oceans, surprising amounts of oxygen, exotic slimes.</td>
+<td>Earth. You know, dirt and stuff.</td>
+</tr>
+</table>
+
+
+
+
+
+
+
 ## The Dwarf Planets
 
+
+## Planetary Mass Moons
+
+Aka "satellite planets"
+
+<table>
+<thead><tr>
+<th>Moon</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Luna</td>
+<td></td>
+<td></td>
+</tr>
+
+<tr>
+<td class="catsym">Io</td>
+<td></td>
+<td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a hunky king.</td>
+</tr>
+
+<tr>
+<td class="catsym">Europa</td>
+<td></td>
+<td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
+</tr>
+
+<tr>
+<td class="catsym">Ganymede</td>
+<td>A moon with its own magnetic field.</td>
+<td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer and boytoy.</td>
+</tr>
+
+<tr>
+<td class="catsym">Kallisto</td>
+<td></td>
+<td>A nymph and follower of Artemis. Jupiter raped her, then Artemis kicked her out because shr wasn"t a virgin anymore. A while later, Hera turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
+</tr>
+
+
+<tr>
+<td class="catsym">Titan</td>
+<td>Thick atmosphere. Only place besides Earth with surface liquid (it's methane though).</td>
+<td>Precursors to the Olympean gods. Not any specific titan, though.</td>
+</tr>
+
+
+<tr>
+<td class="catsym">Titiana</td>
+<td></td>
+<td>Queen of the Fey</td>
+</tr>
+
+
+<tr>
+<td class="catsym">Obberon</td>
+<td></td>
+<tdl>King of the Fey</td>
+</tr>
+
+
+<tr>
+<td class="catsym">Triton</td>
+<td></td>
+<td>Son of Neptune. Merman with a magic conch.</td>
+</tr>
+
+
+<tr>
+<td class="catsym"></td>
+<td></td>
+<td></td>
+</tr>
+
+
+<tr>
+<td class="catsym">Charon</td>
+<td></td>
+<td>Ferryman of the dead.</td>
+</tr>
+</table>
 
 
 
