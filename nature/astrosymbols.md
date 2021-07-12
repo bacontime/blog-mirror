@@ -1,4 +1,6 @@
-
+---
+title: Astro Symbols
+---
 
 <style>
 @font-face {
