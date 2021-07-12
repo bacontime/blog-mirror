@@ -19,7 +19,7 @@ title: Astro Symbols
 }
 </style>
 
-<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>
+<!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
 
 
 ## The Eight Major Planets
@@ -554,7 +554,9 @@ And here is one to scale:
 ## Links:
 - [List of names of astrobodies, and their associations from the USGS.](https://planetarynames.wr.usgs.gov/Page/Planets)
 - [New astro symbols, by Denis Moskowitz.](https://suberic.net/~dmm/astro/index.html) A couple have actually made it into the unicode standard.
-
+- Catrinity.
+- the wiki page used for sizes
+- that asteroid lookup page
 
 
 
