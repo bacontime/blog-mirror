@@ -1,6 +1,6 @@
 ---
 title: YouTube Channels
-parent: media
+parent: Media
 description: "This is a list of Youtube channels I like to check back to watch."
 ---
 

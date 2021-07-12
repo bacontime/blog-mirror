@@ -12,7 +12,7 @@ nav_exclude: true
 
 ## Original Fiction
 
-Dungeon Crawler Carl
+[Dungeon Crawler Carl](https://www.royalroad.com/fiction/29358/dungeon-crawler-carl)
 
 [Worm](https://parahumans.wordpress.com/)
 
@@ -34,7 +34,6 @@ Dungeon Crawler Carl
 [Harry Potter and the Methods of Rationality](http://www.hpmor.com/) 
 
 [Seventh Horcrux](https://forums.spacebattles.com/threads/seventh-horcrux-hp-au.298748/reader/)
-
 
 [Alexander Wales' Fanfics](https://alexanderwales.com/fan-fiction/)
 
