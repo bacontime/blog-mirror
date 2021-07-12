@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.64"
-     inkscape:cx="-117345.33"
-     inkscape:cy="-1280.9568"
+     inkscape:zoom="0.16"
+     inkscape:cx="-61248.47"
+     inkscape:cy="8855.3636"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -12437,6 +12437,35 @@
          d="m -26551.454,6657.4775 h -0.07 v -0.058 l -0.05,0.029 -0.04,-0.063 0.05,-0.029 -0.05,-0.029 0.04,-0.063 0.05,0.029 v -0.058 h 0.07 v 0.058 l 0.05,-0.029 0.04,0.063 -0.05,0.029 0.05,0.029 -0.04,0.063 -0.05,-0.029 z m -0.04,0.3301 q 0.05,0 0.08,-0.032 0.03,-0.032 0.03,-0.077 0,-0.045 -0.03,-0.077 -0.03,-0.032 -0.08,-0.032 -0.04,0 -0.08,0.032 -0.03,0.032 -0.03,0.077 0,0.045 0.03,0.077 0.03,0.032 0.08,0.032 z m 0,-0.055 q -0.02,0 -0.04,-0.015 -0.02,-0.016 -0.02,-0.037 0,-0.022 0.02,-0.038 0.02,-0.015 0.04,-0.015 0.02,0 0.04,0.015 0.02,0.015 0.02,0.038 0,0.022 -0.02,0.037 -0.01,0.015 -0.04,0.015 z m 0,0.1275 q -0.145,0 -0.247,-0.081 -0.06,-0.045 -0.08,-0.1 0.02,-0.055 0.08,-0.1 0.102,-0.081 0.247,-0.081 0.145,0 0.247,0.081 0.06,0.045 0.08,0.1 -0.03,0.055 -0.08,0.1 -0.102,0.081 -0.247,0.081 z m 0.168,-0.114 q 0.05,-0.028 0.08,-0.066 -0.03,-0.039 -0.08,-0.066 0.01,0.031 0.01,0.066 0,0.036 -0.01,0.066 z m -0.337,0 q -0.01,-0.031 -0.01,-0.066 0,-0.036 0.01,-0.067 -0.05,0.028 -0.08,0.067 0.03,0.038 0.08,0.066 z"
          style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:0.985507px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.0222558;stroke-miterlimit:4;stroke-dasharray:none"
          id="path30112" />
+    </g>
+    <g
+       id="g3714-3-2"
+       transform="matrix(5.8677684,0,0,5.8677684,56691.884,-36391.309)">
+      <ellipse
+         style="fill:#ebdd21;fill-opacity:1;stroke:none;stroke-width:0.0124982;stroke-miterlimit:10;paint-order:stroke fill markers"
+         id="path2805-6-9"
+         cx="-11612.361"
+         cy="7838.6489"
+         rx="3.6300001"
+         ry="3.629997" />
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:8.70589px;line-height:1;font-family:Catrinity;-inkscape-font-specification:Catrinity;letter-spacing:0px;word-spacing:0px;stroke-width:0.408089"
+         x="-11613.743"
+         y="7841.4009"
+         id="text3622-8-83"><tspan
+           sodipodi:role="line"
+           id="tspan3620-31-8"
+           x="-11613.743"
+           y="7841.4009"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Catrinity;-inkscape-font-specification:Catrinity;stroke-width:0.408089">Ι </tspan></text>
+      <rect
+         style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.662524;stroke-miterlimit:10;paint-order:stroke fill markers"
+         id="rect3624-18-1"
+         width="3.6301112"
+         height="0.63946325"
+         x="-11614.177"
+         y="7839.2354" />
     </g>
   </g>
 </svg>
