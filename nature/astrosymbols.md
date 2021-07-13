@@ -83,6 +83,8 @@ title: Astro Symbols
 
 
 
+
+
 <table>
 <thead><tr>
 <th>Planet</th>
@@ -103,6 +105,31 @@ title: Astro Symbols
 <td class="catsym">⊕ Terra<br>♁</td>
 <td>Liquid water oceans, surprising amounts of oxygen, exotic slimes.</td>
 <td>Earth. You know, dirt and stuff.</td>
+</tr>
+<tr>
+<td class="catsym">♂<br>Mars</td>
+<td>Inside the habitable zone, covered in rust, icy poles, biggest mountain, inhabited by robots.</td>
+<td>God of violent war and bloodshed! (Also, sometimes agriculture. He can be cool.) Symbol is his shield and spear.</td>
+</tr>
+<tr>
+<td class="catsym">♃⯢<br>Jupiter</td>
+<td>Huge; like, really so big it's hard to believe. Bombarded by comets (might protect us from them). Has moons so big they're basically planets. Giant eternal storms.</td>
+<td>King of the Gods. God of the sky, lightning, and being an adulterous creep.</td>
+</tr>
+<tr>
+<td class="catsym">♄⯣<br>Saturn</td>
+<td>Another stormy giant. Weird polar hexagonal storm. Magnificent rings.</td>
+<td>Titan of wealth, agriculture, cycles of renewal, and time. A horrible father, but a pretty good ruler of the world. Overthrown by his son Jupiter. Symbol is his scythe.</td>
+</tr>
+<tr>
+<td class="catsym">♅⛢<br>Uranus</td>
+<td>Sideways ice giant. Made of eerily smooth gas.</td>
+<td>Primordial sky god. Overthrown by his son Saturn.</td>
+</tr>
+<tr>
+<td class="catsym">♆⯉⯧<br>Neptune</td>
+<td>Another ice giant. Discovered with math.</td>
+<td>God of the sea (and horses) (and in the greek equivalent, earthquakes).</td>
 </tr>
 </table>
 
