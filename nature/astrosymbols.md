@@ -7,8 +7,10 @@ title: Astro Symbols
   font-family: CatrinityWeb;
   src: local(Catrinity), url("astrosymbols/Catrinity.otf"), url("astrosymbols/Catrinity.ttf");
 }
+td{vertical-align: middle;}
 /*td {font-family: CatrinityWeb; padding:0em;}*/
-.catsym {font-family: CatrinityWeb; /*padding:0em; margin:0em;*/ font-size: 150%;
+.catsym {font-family: CatrinityWeb; /*padding:0em; margin:0em;*/ 
+  font-size: large;
   text-align: center;
   vertical-align: middle;
   line-height: 1;
@@ -36,7 +38,7 @@ title: Astro Symbols
 </tr></thead>
 <tr>
 <td class="catsym">☿<br>Mercury</td>
-<td>Tidal locked, extreme temperatures, very close to sun.</td>
+<td>Tidal locked. Extreme temperatures. Very close to sun.</td>
 <td>God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.</td>
 </tr>
 <tr>
@@ -45,18 +47,18 @@ title: Astro Symbols
 <td>God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.</td>
 </tr>
 <tr>
-<td class="catsym">⊕<br>Terra<br>♁</td>
+<td class="catsym">⊕<br>Terra<br><small>♁</small></td>
 <td>Liquid water oceans, surprising amounts of oxygen, exotic slimes.</td>
 <td>Earth. You know, dirt and stuff.</td>
 </tr>
 <tr>
 <td class="catsym">♂<br>Mars</td>
 <td>Inside the habitable zone, covered in rust, icy poles, biggest mountain, inhabited by robots.</td>
-<td>God of violent war and bloodshed! (Also, sometimes agriculture. He can be cool.) Symbol is his shield and spear.</td>
+<td>God of violent war and bloodshed! (Also, sometimes agriculture; he can be cool.) Symbol is his shield and spear.</td>
 </tr>
 <tr>
 <td class="catsym">♃<br>Jupiter<br>⯢</td>
-<td>Huge; like, really so big it's hard to believe. Bombarded by comets (might protect us from them). Has moons so big they're basically planets. Giant eternal storms.</td>
+<td>Huge; like, really so big it's hard to believe. Bombarded by comets (might protect us from them). Has moons so big they're basically planets. Giant eternal storms. Band of intense radiation in a plasma torus around the equator.</td>
 <td>King of the Gods. God of the sky, lightning, and being an adulterous creep.</td>
 </tr>
 <tr>
@@ -65,12 +67,12 @@ title: Astro Symbols
 <td>Titan of wealth, agriculture, cycles of renewal, and time. A horrible father, but a pretty good ruler of the world. Overthrown by his son Jupiter. Symbol is his scythe.</td>
 </tr>
 <tr>
-<td class="catsym">♅<br>Uranus<br>⛢</td>
+<td class="catsym">♅<br>Uranus<br>♅<br><br><small>⛢</small></td>
 <td>Sideways ice giant. Made of eerily smooth gas.</td>
 <td>Primordial sky god. Overthrown by his son Saturn.</td>
 </tr>
 <tr>
-<td class="catsym">♆<br>Neptune<br>⯉⯧</td>
+<td class="catsym">♆<br>Neptune<br><small>⯉⯧</small></td>
 <td>Another ice giant. Discovered with math.</td>
 <td>God of the sea (and horses) (and in the greek equivalent, earthquakes).</td>
 </tr>
@@ -96,36 +98,36 @@ Aka "satellite planets"
 <th>Namesake</th>
 </tr></thead>
 <tr>
-<td class="catsym">Luna</td>
-<td>Tides</td>
-<td>Artemis</td>
+<td class="catsym">Luna<br>☾</td>
+<td></td>
+<td>God of the Moon. A bit redundant, I know. </td>
 </tr>
 <tr>
 <td class="catsym">Io</td>
-<td>Geologically active</td>
-<td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a hunky king.</td>
+<td>Least water of anywhere in the solar system. Sulfur atmosphere. Hundreds of volcanoes. Sulfur crust. Spews out plumes of sulfurous crud all the way into space. The crud is then accelerated by Jupiter's magnetic field to form the deadly radiation torus.</td>
+<td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a king.</td>
 </tr>
 <tr>
 <td class="catsym">Europa</td>
-<td>Oceans under kilometers of ice.</td>
+<td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
 </tr>
 <tr>
 <td class="catsym">Ganymede</td>
-<td>A moon with its own magnetic field.</td>
+<td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
 <td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer and boytoy.</td>
 </tr>
 <tr>
 <td class="catsym">Kallisto</td>
 <td>uh</td>
-<td>A nymph and follower of Artemis. Jupiter raped her, then Artemis kicked her out because shr wasn"t a virgin anymore. A while later, Hera turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
-</tr>
-<!--<tr>
-<td class="catsym">Titan</td>
-<td>Thick atmosphere. Only place besides Earth with surface liquid (it's methane though).</td>
-<td>Precursors to the Olympean gods. Not any specific titan, though.</td>
+<td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
 </tr>
 <tr>
+<td class="catsym">Titan</td>
+<td>Thicker atmosphere than Earth's. Only place besides Earth with surface liquid (it's methane though).</td>
+<td>Precursors to the Olympean gods. Not any specific titan, though.</td>
+</tr>
+<!--<tr>
 <td class="catsym">Titiana</td>
 <td></td>
 <td>Queen of the Fey</td>
@@ -156,7 +158,7 @@ Aka "satellite planets"
 
 ---
 
-Okay, and here's a test of the same info using description lists instead.
+<!--Okay, and here's a test of the same info using description lists instead.
 
 
 
@@ -317,15 +319,7 @@ Some colored glyphs:
 &#xF5BB;
 </div>
 
-
-
-
-
-
-
-
-
-
+-->
 
 
 
@@ -451,10 +445,10 @@ Some are official unicode, but some are specific to Catrinity.
 
 People initially thought these were planets and gave them symbols. Around the discovery of 16 Psyche is when astronomers realized there are too many of the dang things to dote on each one individually.
 
-1. Ceres: God of grain, harvest, motherhood.
-2. Pallas: Athena and her spear.
-3. Juno: God of marriage and childbirth.
-4. Vesta: God of hearth and home.
+1. ⚳ Ceres: God of grain, harvest, motherhood.
+2. ⚴ Pallas: Athena and her spear.
+3. ⚵ Juno: God of marriage and childbirth.
+4. ⚶ Vesta: God of hearth and home.
 5. Astraea: God of justice, innocence, purity, and precision.
 6. Hebe: God of youth and forgiveness, Cupbearer to the gods.
 7. Iris: God of rainbows. Messenger of the gods.
@@ -475,10 +469,6 @@ People initially thought these were planets and gave them symbols. Around the di
 29. Amphitrite
 35. Leukothea
 37. Fides
-
-
-
-
 
 
 

@@ -79,7 +79,9 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 : Chill vids of little octodudes
 
 
-
+## Space!
+[Astrum](https://www.youtube.com/c/astrumspace/videos)
+: Videos about the sensational weirdness of space.
 
 
 ## Chemistry and Metallurgy and whatnot
