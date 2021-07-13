@@ -89,7 +89,10 @@ td{vertical-align: middle;}
 
 ## Planetary Mass Moons
 
-Aka "satellite planets"
+Aka "satellite planets".
+The word "moon" originally just referred to Luna, the moon of earth, and comes from a Proto-Indo-European word related to timekeeping and the month.
+
+Here are the moons bigger than Pluto, and which would at the very least be classified as dwarf planets were they not orbiting around another body (in fact, Titan and Ganymede are even bigger than Mercury):
 
 <table>
 <thead><tr>
@@ -99,33 +102,138 @@ Aka "satellite planets"
 </tr></thead>
 <tr>
 <td class="catsym">Luna<br>☾</td>
-<td></td>
-<td>God of the Moon. A bit redundant, I know. </td>
+<td>Tides and whatnot. It's *the* Moon. </td>
+<td>God of the Moon. A bit redundant, I know. Often identified with Diana, god of the hunt, or Juno, god of marriage and childbirth.</td>
 </tr>
 <tr>
-<td class="catsym">Io</td>
+<td class="catsym">Io<br>♃-I</td>
 <td>Least water of anywhere in the solar system. Sulfur atmosphere. Hundreds of volcanoes. Sulfur crust. Spews out plumes of sulfurous crud all the way into space. The crud is then accelerated by Jupiter's magnetic field to form the deadly radiation torus.</td>
 <td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a king.</td>
 </tr>
 <tr>
-<td class="catsym">Europa</td>
+<td class="catsym">Europa<br>♃-II</td>
 <td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
 </tr>
 <tr>
-<td class="catsym">Ganymede</td>
+<td class="catsym">Ganymede<br>♃-III</td>
 <td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
 <td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer and boytoy.</td>
 </tr>
 <tr>
-<td class="catsym">Kallisto</td>
-<td>uh</td>
+<td class="catsym">Callisto<br>♃-IV</td>
+<td>Lots of craters. Outside of the deadly radiation donut, so might be the best place near Jupiter to set up a human base. (Also, might have subterranean oceans. That's apparently pretty common in space.)</td>
 <td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
 </tr>
 <tr>
-<td class="catsym">Titan</td>
-<td>Thicker atmosphere than Earth's. Only place besides Earth with surface liquid (it's methane though).</td>
-<td>Precursors to the Olympean gods. Not any specific titan, though.</td>
+<td class="catsym">Titan<br>♄-VI</td>
+<td>2nd biggest moon. Thicker atmosphere than Earth's. Very hazy. Only place besides Earth with surface liquid (it's methane though), and thus the only place besides Earth to have whirlpools. Also might have an ammonia-water ocean underground, which erupts from cryovolcanoes. Soft crunchy surface. Permanent polar vortexes.<!--Victor of a clash between moons.--></td>
+<td>Precursors to the Olympian gods. Not any specific titan, though.</td>
+</tr>
+<tr>
+<td class="catsym">Triton<br>♆-I</td>
+<td>Backwards, tilted orbit. Possibly a captured dwarf planet.</td>
+<td>Son of Neptune. Merman with a magic conch.</td>
+</tr>
+<!--<tr>
+<td class="catsym">Titiana</td>
+<td></td>
+<td>Queen of the Fey</td>
+</tr>
+<tr>
+<td class="catsym">Obberon</td>
+<td></td>
+<tdl>King of the Fey</td>
+</tr>
+<tr>
+<td class="catsym">Triton</td>
+<td></td>
+<td>Son of Neptune. Merman with a magic conch.</td>
+</tr>
+<tr>
+<td class="catsym"></td>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td class="catsym">Charon</td>
+<td></td>
+<td>Ferryman of the dead.</td>
+</tr>-->
+</table>
+
+
+
+And here are a few more bigger than Ceres, big enough to probably count as dwarf planets, even if they aren't as dramatically large as the previous list.
+
+
+<table>
+<thead><tr>
+<th>Moon</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Tethys<br>♃-III</td>
+<td>placeholder</td>
+<td>placeholder</td>
+</tr>
+<tr>
+<td class="catsym">Dione<br>♃-IV</td>
+<td>placeholder</td>
+<td>placeholder</td>
+</tr>
+<tr>
+<td class="catsym">Rhea<br>♃-V</td>
+<td>placeholder</td>
+<td>placeholder</td>
+</tr>
+<tr>
+<td class="catsym">Iapetus<br>♃-VIII</td>
+<td>placeholder</td>
+<td>placeholder</td>
+</tr>
+<tr>
+<td class="catsym">Ariel<br>♅-I</td>
+<td>placeholder</td>
+<td>placeholder</td>
+</tr>
+<tr>
+<td class="catsym">Umbriel<br>♅-II</td>
+<td>placeholder</td>
+<td>placeholder</td>
+</tr>
+<tr>
+<td class="catsym">Titania<br>♅-III</td>
+<td>placeholder</td>
+<td>placeholder</td>
+</tr>
+<tr>
+<td class="catsym">Oberon<br>♅-IV</td>
+<td>placeholder</td>
+<td>placeholder</td>
+</tr>
+<tr>
+<td class="catsym">Charon<br>♇-</td>
+<td>placeholder</td>
+<td>placeholder</td>
+</tr>
+</table>
+
+
+
+And what the heck? Enceladus is teeny tiny, but it's interesting enough to include.
+
+<table>
+<thead><tr>
+<th>Moon</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Enceladus<br>♄-II</td>
+<td>Clean, reflective ball of ice.  Relatively hot tiger stripes detected under the south pole. The south pole shoots out water jets which turn into a blue watery ring around saturn.</td>
+<td>Giant son of Gaia, and opponent of Athena.</td>
 </tr>
 <!--<tr>
 <td class="catsym">Titiana</td>

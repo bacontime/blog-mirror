@@ -83,6 +83,9 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 [Astrum](https://www.youtube.com/c/astrumspace/videos)
 : Videos about the sensational weirdness of space.
 
+[Anton Petrov](https://www.youtube.com/c/whatdamath/videos)
+: Science discovery explainers, most space-related.
+
 
 ## Chemistry and Metallurgy and whatnot
 
