@@ -14,6 +14,7 @@ td{vertical-align: middle;}
   text-align: center;
   vertical-align: middle;
   line-height: 1;
+    color: black;
   }
 .catsubtitle {
     font-family: CatrinityWeb; 
@@ -94,6 +95,50 @@ td{vertical-align: middle;}
 
 
 ## The Dwarf Planets
+
+
+
+
+<table>
+<thead><tr>
+<th>Planet</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Ceres<br>⚳</td>
+<td>planetdesc</td>
+<td>mythos</td>
+</tr>
+<tr>
+<td class="catsym">Pluto<br>♇<br><small>(alt: ⯓⯔⯕⯖ ⯡)</small></td>
+<td>planetdesc</td>
+<td>mythos (And no, I don't know why the unicode standard includes 5 variant symbols for Pluto.</td>
+</tr>
+<tr>
+<td class="catsym">Haumea<br></td>
+<td>planetdesc</td>
+<td>mythos</td>
+</tr>
+<tr>
+<td class="catsym">Makemake<br></td>
+<td>planetdesc</td>
+<td>mythos</td>
+</tr>
+<tr>
+<td class="catsym">Eris<br>⯰<br><small>(alt: ⯱)</small></td>
+<td>planetdesc</td>
+<td>mythos</td>
+</tr>
+</table>
+
+
+
+
+
+
+
+
 
 
 ## Planetary Mass Moons
