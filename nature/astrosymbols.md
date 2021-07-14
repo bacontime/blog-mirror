@@ -31,17 +31,74 @@ td{vertical-align: middle;}
     vertical-align: middle;
 }
 .moonicon path{
-    stroke-width:5px;
+    stroke-width:.1em;
     stroke:blue;
     fill:none;
 }
 @media (prefers-color-scheme: dark) {
-    .moonicon path {stroke:green;}
+    .moonicon path {stroke:white;}
 }
 </style>
 
 <!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
 
+
+
+
+<table>
+<thead><tr>
+<th>Moon</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Luna<br>☾</td>
+<td>Tides and whatnot. It's *the* Moon. </td>
+<td>God of the Moon. A bit redundant, I know. Often identified with Diana, god of the hunt, or Juno, god of marriage and childbirth.</td>
+</tr>
+<tr>
+<td class="catsym">Io<br><img class="icon" src="astrosymbols/moonicon_io.svg"><small><br>(♃-I)</small></td>
+<td>Least water of anywhere in the solar system. Sulfur atmosphere. Hundreds of volcanoes. Sulfur crust. Spews out plumes of sulfurous crud all the way into space. The crud is then accelerated by Jupiter's magnetic field to form the deadly radiation torus.</td>
+<td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a king.</td>
+</tr>
+<tr>
+<td class="catsym">Europa<br>
+<svg class="moonicon" viewBox="0 0 18.947 26.458"><g transform="matrix(.92677 0 0 .92915 -.72816 0)" style="stroke-width:1.0776;stroke:currentcolor">  <path d="m16.14 0v28.476"/>  <path d="m5.87 18.35a4.3719 4.3719 0 0 1-3.7862-2.186 4.3719 4.3719 0 0 1 0-4.3719 4.3719 4.3719 0 0 1 3.7862-2.186" style="stroke-linecap:round;"/>  <path d="m21.23 18.35h-15.408" style=""/>  <path d="m5.78 9.62a3.7166 3.7166 0 0 1-3.4337-2.2943 3.7166 3.7166 0 0 1 0.80567-4.0504 3.7166 3.7166 0 0 1 4.0503-0.80566 3.7166 3.7166 0 0 1 2.2943 3.4337" style=""/></g></svg>
+<small><br>(♃-II)</small></td>
+<td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
+<td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
+</tr>
+<tr>
+<td class="catsym"><small>Ganymede</small><br>
+<svg class="moonicon" viewBox="0 0 16.07 26.458"> <g transform="matrix(.99875 0 0 .99875 -.12428 -.38337)" style="stroke-width:1.0012">  <path d="m8.5389 0.62167 7.0283 18.267"/>  <path d="m15.604 1.0691s-8.5438 20.54-8.5438 23.069c0 1.0968 0.99758 2.0746 2.0129 2.0746 1.1455 0 2.054-0.79729 2.039-2.0746-0.026035-2.2159-6.9083-18.641-7.7743-20.133-0.80577-1.4867-2.1663-2.1343-3.2129-2.1343"/></g></svg>
+<small><br>(♃-III)</small></td>
+<td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
+<td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer and boytoy.</td>
+</tr>
+<tr>
+<td class="catsym">Callisto<br>
+<svg class="moonicon"viewBox="0 0 24.032 26.458"> <g transform="translate(-206.94 -177.04)">  <g transform="matrix(.89793 0 0 .89793 21.124 18.125)">   <path d="m228.21 190.36-0.146 16.08" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-miterlimit:10;stroke-width:1.4733;stroke:currentcolor"/>   <path d="m233.7 198.23h-11.656c-2.777 0-3.728-4.395-3.728-5.421 0-3.821 3.764-14.032 3.764-14.032s-10.835 17.609-12.644 23.138c0 0 2.246-21.032 1.672-22.027-1.006-1.742-3.118-2.188-4.159-2.17"/>  </g> </g></svg>
+<small><br>(♃-IV)</small></td>
+<td>Lots of craters. Outside of the deadly radiation donut, so might be the best place near Jupiter to set up a human base. (Also, might have subterranean oceans. That's apparently pretty common in space.)</td>
+<td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
+</tr>
+<tr>
+<td class="catsym">Titan<br>
+<svg height="1em" version="1.1" viewBox="0 0 25.435 27.593" xmlns="http://www.w3.org/2000/svg"> <g transform="matrix(.71097 0 0 .71097 .0073872 .50493)" style="stroke-miterlimit:10;stroke-width:1.8607">  <circle cx="17.878" cy="7.2285" r="7.0084" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:currentcolor"/>  <path d="m-0.01039 7.0451h35.776" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:currentcolor"/>  <path d="m29.538 37.17c-1.4137 0-4.1096-1.0274-4.1096-4.183 0-2.6203 4.6018-6.1929 4.6018-10.275 0-5.7906-4.0882-6.5673-5.5433-6.5673-2.086 0-5.2955 1.7676-6.457 6.1022v-15.129" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:currentcolor"/> </g></svg>
+<small><br>(♄-VI)</small></td>
+<td>2nd biggest moon. Thicker atmosphere than Earth's. Very hazy. Only place besides Earth with surface liquid (it's methane though), and thus the only place besides Earth to have whirlpools. Also might have an ammonia-water ocean underground, which erupts from cryovolcanoes. Soft crunchy surface. Permanent polar hurricances.<!--Victor of a clash between moons.--></td>
+<td>Precursors to the Olympian gods. Not any specific titan, though.</td>
+</tr>
+<tr>
+<td class="catsym">Triton<br><img class="icon" src="astrosymbols/moonicon_triton.svg"><br><small>(♆-I)</small></td>
+<td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryvolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
+<td>Son of Neptune. Merman with a magic conch.</td>
+</tr>
+</table>
+
+
+
+---
 
 ## The Eight Major Planets
 
