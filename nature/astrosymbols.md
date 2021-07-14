@@ -30,6 +30,14 @@ td{vertical-align: middle;}
     height: 1em;
     vertical-align: middle;
 }
+.moonicon path{
+    stroke-width:5px;
+    stroke:blue;
+    fill:none;
+}
+@media (prefers-color-scheme: dark) {
+    .moonicon path {stroke:green;}
+}
 </style>
 
 <!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
@@ -167,7 +175,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Europa<br>
-<svg class="moonicon" viewBox="0 0 18.947 26.458"><g transform="matrix(.92677 0 0 .92915 -.72816 0)" style="stroke-width:1.0776;stroke:currentcolor">  <path d="m16.14 0v28.476" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-miterlimit:10;stroke-width:1.4256;stroke:currentcolor"/>  <path d="m5.87 18.35a4.3719 4.3719 0 0 1-3.7862-2.186 4.3719 4.3719 0 0 1 0-4.3719 4.3719 4.3719 0 0 1 3.7862-2.186" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linecap:round;stroke-miterlimit:10;stroke-width:1.4256;stroke:currentcolor"/>  <path d="m21.23 18.35h-15.408" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-miterlimit:10;stroke-width:1.4256;stroke:currentcolor"/>  <path d="m5.78 9.62a3.7166 3.7166 0 0 1-3.4337-2.2943 3.7166 3.7166 0 0 1 0.80567-4.0504 3.7166 3.7166 0 0 1 4.0503-0.80566 3.7166 3.7166 0 0 1 2.2943 3.4337" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-miterlimit:10;stroke-width:1.4256;stroke:currentcolor"/></g></svg>
+<svg class="moonicon" viewBox="0 0 18.947 26.458"><g transform="matrix(.92677 0 0 .92915 -.72816 0)" style="stroke-width:1.0776;stroke:currentcolor">  <path d="m16.14 0v28.476"/>  <path d="m5.87 18.35a4.3719 4.3719 0 0 1-3.7862-2.186 4.3719 4.3719 0 0 1 0-4.3719 4.3719 4.3719 0 0 1 3.7862-2.186" style="stroke-linecap:round;"/>  <path d="m21.23 18.35h-15.408" style=""/>  <path d="m5.78 9.62a3.7166 3.7166 0 0 1-3.4337-2.2943 3.7166 3.7166 0 0 1 0.80567-4.0504 3.7166 3.7166 0 0 1 4.0503-0.80566 3.7166 3.7166 0 0 1 2.2943 3.4337" style=""/></g></svg>
 <small><br>(♃-II)</small></td>
 <td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
