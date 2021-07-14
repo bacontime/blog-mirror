@@ -81,7 +81,7 @@ Youtube's recomendation algorithm is evil and an unsorted list of every subscrip
 
 ## Space!
 [Astrum](https://www.youtube.com/c/astrumspace/videos)
-: Videos about the sensational weirdness of space.
+: Videos about the sensational weirdness of space. The titles are clickbaity, but the content is very good. For example, the author takes care to clearly indicate which footage is cgi, photoenhanced, etc. <!--I did notice in one video they confused "amines" for "amino acids"-->
 
 [Anton Petrov](https://www.youtube.com/c/whatdamath/videos)
 : Science discovery explainers, most space-related.
