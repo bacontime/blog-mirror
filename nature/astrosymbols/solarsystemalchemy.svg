@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.90509668"
-     inkscape:cx="-69121.166"
-     inkscape:cy="11540.649"
+     inkscape:zoom="0.08"
+     inkscape:cx="-65593.911"
+     inkscape:cy="11769.481"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -12833,17 +12833,17 @@
        sodipodi:nodetypes="ccccccccccccc" />
     <path
        id="path5091-7-2-9-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.0841px;line-height:1;font-family:Catrinity;-inkscape-font-specification:Catrinity;letter-spacing:0px;word-spacing:0px;fill:#800000;stroke-width:9.05034"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.0841px;line-height:1;font-family:Catrinity;-inkscape-font-specification:Catrinity;letter-spacing:0px;word-spacing:0px;fill:#000000;stroke-width:9.05034"
        d="M -68892.221 11363.367 C -68901.772 11363.367 -68910.162 11367.075 -68917.393 11374.49 C -68923.84 11380.942 -68931.531 11392.663 -68931.531 11409.984 L -68917.393 11409.984 L -68917.393 11408.619 C -68917.079 11400.009 -68914.531 11392.684 -68909.754 11386.652 C -68904.916 11380.556 -68899.261 11377.51 -68892.787 11377.51 C -68887.507 11377.51 -68883.232 11379.298 -68879.963 11382.881 C -68876.633 11386.403 -68874.967 11391.838 -68874.967 11399.193 C -68874.967 11408.869 -68878.266 11417.951 -68884.865 11426.436 C -68891.464 11434.921 -68894.764 11442.809 -68894.764 11450.1 C -68894.764 11457.39 -68892.187 11463.612 -68887.035 11468.768 C -68881.884 11473.919 -68875.658 11476.496 -68868.367 11476.496 L -68868.367 11462.357 C -68871.761 11462.357 -68874.652 11461.162 -68877.041 11458.773 C -68879.43 11456.385 -68880.625 11453.494 -68880.625 11450.1 C -68880.625 11446.706 -68877.326 11440.768 -68870.727 11432.283 C -68864.128 11423.798 -68860.828 11412.766 -68860.828 11399.193 C -68860.828 11387.942 -68863.78 11379.172 -68869.688 11372.887 C -68875.534 11366.541 -68883.044 11363.367 -68892.221 11363.367 z "
        transform="matrix(0.26458333,0,0,0.26458333,4520.8413,6992.9605)" />
     <g
        aria-label="E"
        id="text3622-8-8-40-2-1-3-0"
-       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.0841px;line-height:1;font-family:Catrinity;-inkscape-font-specification:Catrinity;letter-spacing:0px;word-spacing:0px;stroke-width:2.39457"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:51.0841px;line-height:1;font-family:Catrinity;-inkscape-font-specification:Catrinity;letter-spacing:0px;word-spacing:0px;stroke-width:2.39457;fill:#000000"
        transform="translate(6.710111,154.98895)">
       <path
          d="m -13716.52,9857.1006 h -15.842 v -25.517 h 26.773 v 3.7415 h -23.033 v 3.4421 h 12.102 v 3.7415 h -12.102 v 10.8504 h 12.102 z"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Catrinity;-inkscape-font-specification:Catrinity;stroke-width:2.39457"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Catrinity;-inkscape-font-specification:Catrinity;stroke-width:2.39457;fill:#000000"
          id="path5094-1-9-7-2"
          sodipodi:nodetypes="ccccccccccccc" />
     </g>

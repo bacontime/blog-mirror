@@ -144,31 +144,6 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 <td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryvolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
 <td>Son of Neptune. Merman with a magic conch.</td>
 </tr>
-<!--<tr>
-<td class="catsym">Titiana</td>
-<td></td>
-<td>Queen of the Fey</td>
-</tr>
-<tr>
-<td class="catsym">Obberon</td>
-<td></td>
-<tdl>King of the Fey</td>
-</tr>
-<tr>
-<td class="catsym">Triton</td>
-<td></td>
-<td>Son of Neptune. Merman with a magic conch.</td>
-</tr>
-<tr>
-<td class="catsym"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td class="catsym">Charon</td>
-<td></td>
-<td>Ferryman of the dead.</td>
-</tr>-->
 </table>
 
 
@@ -185,47 +160,47 @@ And here are a few more bigger than Ceres, big enough to probably count as dwarf
 <tr>
 <td class="catsym">Tethys<br><img class="icon" src="astrosymbols/moonicon_tethys.svg"><br><small>(♃-III)</small></td>
 <td>placeholder</td>
-<td>placeholder</td>
+<td>Titan mother of thousands of minor ocean and river gods.</td>
 </tr>
 <tr>
 <td class="catsym">Dione<br><img class="icon" src="astrosymbols/moonicon_dione.svg"><br><small>(♃-IV)</small></td>
 <td>placeholder</td>
-<td>placeholder</td>
+<td>Titan and mother of Aphrodite</td>
 </tr>
 <tr>
 <td class="catsym">Rhea<br><img class="icon" src="astrosymbols/moonicon_rhea.svg"><br><small>(♃-V)</small></td>
 <td>placeholder</td>
-<td>placeholder</td>
+<td>Titan wife of Saturn who rescued baby Jupiter from being eaten.</td>
 </tr>
 <tr>
 <td class="catsym">Iapetus<br><img class="icon" src="astrosymbols/moonicon_iapetus.svg"><br><small>(♃-VIII)</small></td>
 <td>placeholder</td>
-<td>placeholder</td>
+<td>Titan, brother of Saturn. Father of Atlas and Prometheus. Sometimes later identified with one of Noah's sons.</td>
 </tr>
 <tr>
 <td class="catsym">Ariel<br><img class="icon" src="astrosymbols/moonicon_ariel.svg"><br><small>(♅-I)</small></td>
 <td>placeholder</td>
-<td>placeholder</td>
+<td>Slyph</td>
 </tr>
 <tr>
 <td class="catsym">Umbriel<br><img class="icon" src="astrosymbols/moonicon_umbriel.svg"><br><small>(♅-II)</small></td>
 <td>placeholder</td>
-<td>placeholder</td>
+<td>Dusky melancholy gnome.</td>
 </tr>
 <tr>
 <td class="catsym">Titania<br><img class="icon" src="astrosymbols/moonicon_titania.svg"><br><small>(♅-III)</small></td>
 <td>placeholder</td>
-<td>placeholder</td>
+<td>Queen of the Fey</td>
 </tr>
 <tr>
 <td class="catsym">Oberon<br><img class="icon" src="astrosymbols/moonicon_oberon.svg"><br><small>(♅-IV)</small></td>
 <td>placeholder</td>
-<td>placeholder</td>
+<td>King of the Fey</td>
 </tr>
 <tr>
 <td class="catsym">Charon<br>⯕<br><small>(♇-I)</small></td>
 <td>placeholder</td>
-<td>placeholder</td>
+<td>Ferryman of the dead.</td>
 </tr>
 </table>
 
