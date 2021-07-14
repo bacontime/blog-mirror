@@ -135,7 +135,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 <td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
 </tr>
 <tr>
-<td class="catsym">Titan<br><img class="icon" src="astrosymbols/moonicon_titan.svg"><small><br>(♄-VI)</small></td>
+<td class="catsym">Titan<br><img class="icon" src="astrosymbols/moonicon_titan2.svg"><small><br>(♄-VI)</small></td>
 <td>2nd biggest moon. Thicker atmosphere than Earth's. Very hazy. Only place besides Earth with surface liquid (it's methane though), and thus the only place besides Earth to have whirlpools. Also might have an ammonia-water ocean underground, which erupts from cryovolcanoes. Soft crunchy surface. Permanent polar hurricances.<!--Victor of a clash between moons.--></td>
 <td>Precursors to the Olympian gods. Not any specific titan, though.</td>
 </tr>
@@ -223,7 +223,7 @@ And here are a few more bigger than Ceres, big enough to probably count as dwarf
 <td>placeholder</td>
 </tr>
 <tr>
-<td class="catsym">Charon<br><img class="icon" src="astrosymbols/moonicon_charon.svg"><br><small>(♇-I)</small></td>
+<td class="catsym">Charon<br>⯕<br><small>(♇-I)</small></td>
 <td>placeholder</td>
 <td>placeholder</td>
 </tr>
