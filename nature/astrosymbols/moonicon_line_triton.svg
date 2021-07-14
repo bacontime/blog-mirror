@@ -1,0 +1,7 @@
+<svg width="10mm" height="10mm" version="1.1" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+ <g transform="matrix(.99193 0 0 1.016 .040354 -.080123)" style="stroke-width:.99611">
+  <path d="m0.21135 3.1136h9.5773" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.99611;stroke:#ff0000"/>
+  <path d="m5 9.6751v-9.3502" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.99611;stroke:#ff0000"/>
+  <path d="m2.0385 0.32656c0 3.716 1.0654 4.8564 2.9615 4.8564 1.8961 0 2.9615-1.1945 2.9615-4.8564" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:.99611;stroke:#ff0000"/>
+ </g>
+</svg>

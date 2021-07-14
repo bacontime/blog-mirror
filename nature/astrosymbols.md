@@ -31,9 +31,9 @@ td{vertical-align: middle;}
     vertical-align: middle;
 }
 .moonicon path{
-    stroke-width:.1em;
+    stroke-width:.05em;
     stroke:blue;
-    fill:none;
+    fill: none;
 }
 @media (prefers-color-scheme: dark) {
     .moonicon path {stroke:white;}
@@ -90,7 +90,9 @@ td{vertical-align: middle;}
 <td>Precursors to the Olympian gods. Not any specific titan, though.</td>
 </tr>
 <tr>
-<td class="catsym">Triton<br><img class="icon" src="astrosymbols/moonicon_triton.svg"><br><small>(♆-I)</small></td>
+<td class="catsym">Triton<br>
+<svg class="moonicon" viewBox="0 0 10 10"> <path d="m0.21135 3.1136h9.5773" /> <path d="m5 9.6751v-9.3502" /> <path d="m2.0385 0.32656c0 3.716 1.0654 4.8564 2.9615 4.8564 1.8961 0 2.9615-1.1945 2.9615-4.8564" /></svg>
+<br><small>(♆-I)</small></td>
 <td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryvolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
 <td>Son of Neptune. Merman with a magic conch.</td>
 </tr>
