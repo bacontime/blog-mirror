@@ -5,11 +5,11 @@ title: Astro Symbols
 <style>
 @font-face {
   font-family: CatrinityWeb;
-  src: local(Catrinity), url("astrosymbols/Catrinity.otf"), url("astrosymbols/Catrinity.ttf");
+  src: local(Catrinity), url("https://www.rmwinslow.com/posts/nature/astrosymbols/Catrinity.otf"), url("https://www.rmwinslow.com/posts/nature/astrosymbols/Catrinity.ttf");
 }
 @font-face {
   font-family: moonsymbols;
-  src: url("astrosymbols/moonsymbols.ttf");
+  src: url("https://www.rmwinslow.com/posts/nature/astrosymbols/moonsymbols.ttf");
 }
 td{vertical-align: middle;}
 /*td {font-family: CatrinityWeb; padding:0em;}*/
