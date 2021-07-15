@@ -31,12 +31,9 @@ td{vertical-align: middle;}
     vertical-align: middle;
 }
 .moonicon path{
-    stroke-width:.05em;
+    stroke-width:10%;
     stroke:blue;
     fill: none;
-}
-@media (prefers-color-scheme: dark) {
-    .moonicon path {stroke:white;}
 }
 </style>
 
@@ -77,7 +74,7 @@ td{vertical-align: middle;}
 </tr>
 <tr>
 <td class="catsym">Callisto<br>
-<svg class="moonicon"viewBox="0 0 24.032 26.458"> <g transform="translate(-206.94 -177.04)">  <g transform="matrix(.89793 0 0 .89793 21.124 18.125)">   <path d="m228.21 190.36-0.146 16.08" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-miterlimit:10;stroke-width:1.4733;stroke:currentcolor"/>   <path d="m233.7 198.23h-11.656c-2.777 0-3.728-4.395-3.728-5.421 0-3.821 3.764-14.032 3.764-14.032s-10.835 17.609-12.644 23.138c0 0 2.246-21.032 1.672-22.027-1.006-1.742-3.118-2.188-4.159-2.17"/>  </g> </g></svg>
+<svg class="moonicon" viewBox="0 0 10 10"> <path d="m7.5442 4.7053v5.0444"/> <path d="m9.3936 7.1741h-3.825c-0.91128 0-1.2234-1.3787-1.2234-1.7006 0-1.1987 1.2352-4.4019 1.2352-4.4019s-3.5555 5.5241-4.1492 7.2585c0 0 0.73703-6.5979 0.54867-6.91-0.33012-0.54648-1.0232-0.68639-1.3648-0.68074"/></svg>
 <small><br>(♃-IV)</small></td>
 <td>Lots of craters. Outside of the deadly radiation donut, so might be the best place near Jupiter to set up a human base. (Also, might have subterranean oceans. That's apparently pretty common in space.)</td>
 <td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
@@ -92,6 +89,7 @@ td{vertical-align: middle;}
 <tr>
 <td class="catsym">Triton<br>
 <svg class="moonicon" viewBox="0 0 10 10"> <path d="m0.21135 3.1136h9.5773" /> <path d="m5 9.6751v-9.3502" /> <path d="m2.0385 0.32656c0 3.716 1.0654 4.8564 2.9615 4.8564 1.8961 0 2.9615-1.1945 2.9615-4.8564" /></svg>
+<svg class="moonicon" viewBox="0 0 10 10"><path d="M0 3h10M5 10V0M2 0c0 4 1 5 3 5s3-1 3-5"/></g></svg>
 <br><small>(♆-I)</small></td>
 <td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryvolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
 <td>Son of Neptune. Merman with a magic conch.</td>
