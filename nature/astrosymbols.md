@@ -54,20 +54,22 @@ td{vertical-align: middle;}
 <td>God of the Moon. A bit redundant, I know. Often identified with Diana, god of the hunt, or Juno, god of marriage and childbirth.</td>
 </tr>
 <tr>
-<td class="catsym">Io<br><img class="icon" src="astrosymbols/moonicon_io.svg"><small><br>(♃-I)</small></td>
+<td class="catsym">Io<br>
+<svg class="moonicon" viewBox="0 0 10 10"> <path d="m3.4283 9.25h3.1433" /> <path d="m2.0084 6.4377h5.9831" /> <path d="m5 0.75v8.5" /> <path d="m3.4283 0.75h3.1433" /></svg>
+<br>(♃-I)</small></td>
 <td>Least water of anywhere in the solar system. Sulfur atmosphere. Hundreds of volcanoes. Sulfur crust. Spews out plumes of sulfurous crud all the way into space. The crud is then accelerated by Jupiter's magnetic field to form the deadly radiation torus.</td>
 <td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a king.</td>
 </tr>
 <tr>
 <td class="catsym">Europa<br>
-<svg viewBox="0 0 10 10"> <path d="m6.8039 0.25v9.4999" /> <path d="m3.6108 6.3717a1.3593 1.4585 0 0 1-1.1772-0.72927 1.3593 1.4585 0 0 1 0-1.4585 1.3593 1.4585 0 0 1 1.1772-0.72927" /> <path d="m8.3865 6.3717h-4.7907" /> <path d="m3.5828 3.4593a1.1556 1.2399 0 0 1-1.0676-0.7654 1.1556 1.2399 0 0 1 0.2505-1.3513 1.1556 1.2399 0 0 1 1.2593-0.26878 1.1556 1.2399 0 0 1 0.71334 1.1455" /></svg>
+<svg class="moonicon" viewBox="0 0 10 10"> <path d="m6.8039 0.25v9.4999" /> <path d="m3.6108 6.3717a1.3593 1.4585 0 0 1-1.1772-0.72927 1.3593 1.4585 0 0 1 0-1.4585 1.3593 1.4585 0 0 1 1.1772-0.72927" /> <path d="m8.3865 6.3717h-4.7907" /> <path d="m3.5828 3.4593a1.1556 1.2399 0 0 1-1.0676-0.7654 1.1556 1.2399 0 0 1 0.2505-1.3513 1.1556 1.2399 0 0 1 1.2593-0.26878 1.1556 1.2399 0 0 1 0.71334 1.1455" /></svg>
 <small><br>(♃-II)</small></td>
 <td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
 </tr>
 <tr>
 <td class="catsym"><small>Ganymede</small><br>
-<svg viewBox="0 0 10 10"> <path d="m4.9206 0.4914 2.3416 6.137" /> <path d="m8.3646-0.51869s-3.9367 8.061-3.9367 8.9106c0 0.36848 0.33237 0.69698 0.67064 0.69698 0.38165 0 0.68434-0.26786 0.67934-0.69698-0.0086742-0.74445-2.3017-6.2626-2.5902-6.7639-0.26846-0.49947-0.93797-0.71704-1.2867-0.71704" /></svg>
+<svg class="moonicon" viewBox="0 0 10 10"> <path d="m4.9206 0.4914 2.3416 6.137" /> <path d="m8.3646-0.51869s-3.9367 8.061-3.9367 8.9106c0 0.36848 0.33237 0.69698 0.67064 0.69698 0.38165 0 0.68434-0.26786 0.67934-0.69698-0.0086742-0.74445-2.3017-6.2626-2.5902-6.7639-0.26846-0.49947-0.93797-0.71704-1.2867-0.71704" /></svg>
 <small><br>(♃-III)</small></td>
 <td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
 <td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer and boytoy.</td>
