@@ -31,8 +31,8 @@ td{vertical-align: middle;}
     vertical-align: middle;
 }
 .moonicon path{
-    stroke-width:10%;
-    stroke:blue;
+    stroke-width:5%;
+    stroke:currentcolor;
     fill: none;
 }
 </style>
@@ -60,14 +60,14 @@ td{vertical-align: middle;}
 </tr>
 <tr>
 <td class="catsym">Europa<br>
-<svg class="moonicon" viewBox="0 0 18.947 26.458"><g transform="matrix(.92677 0 0 .92915 -.72816 0)" style="stroke-width:1.0776;stroke:currentcolor">  <path d="m16.14 0v28.476"/>  <path d="m5.87 18.35a4.3719 4.3719 0 0 1-3.7862-2.186 4.3719 4.3719 0 0 1 0-4.3719 4.3719 4.3719 0 0 1 3.7862-2.186" style="stroke-linecap:round;"/>  <path d="m21.23 18.35h-15.408" style=""/>  <path d="m5.78 9.62a3.7166 3.7166 0 0 1-3.4337-2.2943 3.7166 3.7166 0 0 1 0.80567-4.0504 3.7166 3.7166 0 0 1 4.0503-0.80566 3.7166 3.7166 0 0 1 2.2943 3.4337" style=""/></g></svg>
+<svg viewBox="0 0 10 10"> <path d="m6.8039 0.25v9.4999" /> <path d="m3.6108 6.3717a1.3593 1.4585 0 0 1-1.1772-0.72927 1.3593 1.4585 0 0 1 0-1.4585 1.3593 1.4585 0 0 1 1.1772-0.72927" /> <path d="m8.3865 6.3717h-4.7907" /> <path d="m3.5828 3.4593a1.1556 1.2399 0 0 1-1.0676-0.7654 1.1556 1.2399 0 0 1 0.2505-1.3513 1.1556 1.2399 0 0 1 1.2593-0.26878 1.1556 1.2399 0 0 1 0.71334 1.1455" /></svg>
 <small><br>(♃-II)</small></td>
 <td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
 </tr>
 <tr>
 <td class="catsym"><small>Ganymede</small><br>
-<svg class="moonicon" viewBox="0 0 16.07 26.458"> <g transform="matrix(.99875 0 0 .99875 -.12428 -.38337)" style="stroke-width:1.0012">  <path d="m8.5389 0.62167 7.0283 18.267"/>  <path d="m15.604 1.0691s-8.5438 20.54-8.5438 23.069c0 1.0968 0.99758 2.0746 2.0129 2.0746 1.1455 0 2.054-0.79729 2.039-2.0746-0.026035-2.2159-6.9083-18.641-7.7743-20.133-0.80577-1.4867-2.1663-2.1343-3.2129-2.1343"/></g></svg>
+<svg viewBox="0 0 10 10"> <path d="m4.9206 0.4914 2.3416 6.137" /> <path d="m8.3646-0.51869s-3.9367 8.061-3.9367 8.9106c0 0.36848 0.33237 0.69698 0.67064 0.69698 0.38165 0 0.68434-0.26786 0.67934-0.69698-0.0086742-0.74445-2.3017-6.2626-2.5902-6.7639-0.26846-0.49947-0.93797-0.71704-1.2867-0.71704" /></svg>
 <small><br>(♃-III)</small></td>
 <td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
 <td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer and boytoy.</td>
@@ -81,7 +81,7 @@ td{vertical-align: middle;}
 </tr>
 <tr>
 <td class="catsym">Titan<br>
-<svg height="1em" version="1.1" viewBox="0 0 25.435 27.593" xmlns="http://www.w3.org/2000/svg"> <g transform="matrix(.71097 0 0 .71097 .0073872 .50493)" style="stroke-miterlimit:10;stroke-width:1.8607">  <circle cx="17.878" cy="7.2285" r="7.0084" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:currentcolor"/>  <path d="m-0.01039 7.0451h35.776" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:currentcolor"/>  <path d="m29.538 37.17c-1.4137 0-4.1096-1.0274-4.1096-4.183 0-2.6203 4.6018-6.1929 4.6018-10.275 0-5.7906-4.0882-6.5673-5.5433-6.5673-2.086 0-5.2955 1.7676-6.457 6.1022v-15.129" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:currentcolor"/> </g></svg>
+<svg class="moonicon" viewBox="0 0 10 10"> <path d="m6.6325 2.3622a1.6324 1.6122 0 0 1-1.6324 1.6122 1.6324 1.6122 0 0 1-1.6324-1.6122 1.6324 1.6122 0 0 1 1.6324-1.6122 1.6324 1.6122 0 0 1 1.6324 1.6122z" /> <path d="m0.83343 2.32h8.3331" /> <path d="m7.716 9.25c-0.32929 0-0.95723-0.23634-0.95723-0.96226 0-0.60278 1.0719-1.4246 1.0719-2.3637 0-1.3321-0.95225-1.5107-1.2912-1.5107-0.48588 0-1.2335 0.40662-1.504 1.4038v-3.4803" /></svg>
 <small><br>(♄-VI)</small></td>
 <td>2nd biggest moon. Thicker atmosphere than Earth's. Very hazy. Only place besides Earth with surface liquid (it's methane though), and thus the only place besides Earth to have whirlpools. Also might have an ammonia-water ocean underground, which erupts from cryovolcanoes. Soft crunchy surface. Permanent polar hurricances.<!--Victor of a clash between moons.--></td>
 <td>Precursors to the Olympian gods. Not any specific titan, though.</td>
@@ -89,7 +89,6 @@ td{vertical-align: middle;}
 <tr>
 <td class="catsym">Triton<br>
 <svg class="moonicon" viewBox="0 0 10 10"> <path d="m0.21135 3.1136h9.5773" /> <path d="m5 9.6751v-9.3502" /> <path d="m2.0385 0.32656c0 3.716 1.0654 4.8564 2.9615 4.8564 1.8961 0 2.9615-1.1945 2.9615-4.8564" /></svg>
-<svg class="moonicon" viewBox="0 0 10 10"><path d="M0 3h10M5 10V0M2 0c0 4 1 5 3 5s3-1 3-5"/></g></svg>
 <br><small>(♆-I)</small></td>
 <td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryvolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
 <td>Son of Neptune. Merman with a magic conch.</td>

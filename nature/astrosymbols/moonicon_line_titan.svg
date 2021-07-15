@@ -1,8 +1,5 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<svg width="25.435mm" height="27.593mm" version="1.1" viewBox="0 0 25.435 27.593" xmlns="http://www.w3.org/2000/svg">
- <g transform="matrix(.71097 0 0 .71097 .0073872 .50493)" style="stroke-miterlimit:10;stroke-width:1.8607">
-  <circle cx="17.878" cy="7.2285" r="7.0084" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:#ff0000"/>
-  <path d="m-0.01039 7.0451h35.776" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:#ff0000"/>
-  <path d="m29.538 37.17c-1.4137 0-4.1096-1.0274-4.1096-4.183 0-2.6203 4.6018-6.1929 4.6018-10.275 0-5.7906-4.0882-6.5673-5.5433-6.5673-2.086 0-5.2955 1.7676-6.457 6.1022v-15.129" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:#ff0000"/>
- </g>
+<svg width="10mm" height="10mm" version="1.1" viewBox="0 0 10 10" xmlns="http://www.w3.org/2000/svg">
+ <path d="m6.6325 2.3622a1.6324 1.6122 0 0 1-1.6324 1.6122 1.6324 1.6122 0 0 1-1.6324-1.6122 1.6324 1.6122 0 0 1 1.6324-1.6122 1.6324 1.6122 0 0 1 1.6324 1.6122z" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke:#ff0000"/>
+ <path d="m0.83343 2.32h8.3331" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke:#ff0000"/>
+ <path d="m7.716 9.25c-0.32929 0-0.95723-0.23634-0.95723-0.96226 0-0.60278 1.0719-1.4246 1.0719-2.3637 0-1.3321-0.95225-1.5107-1.2912-1.5107-0.48588 0-1.2335 0.40662-1.504 1.4038v-3.4803" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke:#ff0000"/>
 </svg>
