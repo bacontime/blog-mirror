@@ -41,9 +41,9 @@ td{vertical-align: middle;}
 }
 </style>
 
-<b><span style="font-family:moonsymbols;">RST IEGK</span></b>
-<span style="font-family:moonsymbols;">RST IEGKL mehdr auto</span>
-RST IEGKL mehdr autoj
+<span style="font-family:moonsymbols;">RST IEGKL mehdri auto</span>
+
+RST IEGKL mehdri auto
 
 <!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
 
