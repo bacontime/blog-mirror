@@ -62,7 +62,7 @@ td{vertical-align: middle;}
 <tr>
 <td class="catsym">Io<br>
 <svg class="moonicon" viewBox="0 0 10 10"> <path d="m3.4283 9.25h3.1433" /> <path d="m2.0084 6.4377h5.9831" /> <path d="m5 0.75v8.5" /> <path d="m3.4283 0.75h3.1433" /></svg>
-<br>(♃-I)</small></td>
+<br><small>(♃-I)</small></td>
 <td>Least water of anywhere in the solar system. Sulfur atmosphere. Hundreds of volcanoes. Sulfur crust. Spews out plumes of sulfurous crud all the way into space. The crud is then accelerated by Jupiter's magnetic field to form the deadly radiation torus.</td>
 <td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a king.</td>
 </tr>
