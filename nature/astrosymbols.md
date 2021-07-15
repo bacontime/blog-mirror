@@ -7,6 +7,10 @@ title: Astro Symbols
   font-family: CatrinityWeb;
   src: local(Catrinity), url("astrosymbols/Catrinity.otf"), url("astrosymbols/Catrinity.ttf");
 }
+@font-face {
+  font-family: moontestfont;
+  src: url("astrosymbols/moontest.ttf");
+}
 td{vertical-align: middle;}
 /*td {font-family: CatrinityWeb; padding:0em;}*/
 .catsym {font-family: CatrinityWeb; /*padding:0em; margin:0em;*/ 
@@ -36,6 +40,8 @@ td{vertical-align: middle;}
     fill: none;
 }
 </style>
+
+<span style="font-family:moontestfont;">RST IEGK zy</span>
 
 <!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
 
