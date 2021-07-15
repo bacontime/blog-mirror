@@ -42,7 +42,7 @@ td{vertical-align: middle;}
 </style>
 
 <b><span style="font-family:moonsymbols;">RST IEGK</span></b>
-<span style="font-family:moonsymbols;">RST IEGKL rhauto</span>
+<span style="font-family:moonsymbols;">RST IEGKL mehdr auto</span>
 
 <!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
 
@@ -54,10 +54,6 @@ td{vertical-align: middle;}
 ---
 
 ## The Eight Major Planets
-
-<div style="color:red;">res
-<svg class="moonicon" viewBox="0 0 25.435 27.593"> <g transform="matrix(.71097 0 0 .71097 .0073872 .50493)" style="stroke-miterlimit:10;stroke-width:1.8607">  <circle cx="17.878" cy="7.2285" r="7.0084" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:currentcolor"/>  <path d="m-0.01039 7.0451h35.776" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:currentcolor"/>  <path d="m29.538 37.17c-1.4137 0-4.1096-1.0274-4.1096-4.183 0-2.6203 4.6018-6.1929 4.6018-10.275 0-5.7906-4.0882-6.5673-5.5433-6.5673-2.086 0-5.2955 1.7676-6.457 6.1022v-15.129" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.8607;stroke:currentcolor"/> </g></svg>
-<svg class="moonicon"viewBox="0 0 24.032 26.458"> <g transform="translate(-206.94 -177.04)">  <g transform="matrix(.89793 0 0 .89793 21.124 18.125)" style="fill:none;stroke-miterlimit:10;stroke-width:1.4733;stroke:currentcolor">   <path d="m228.21 190.36-0.146 16.08" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-miterlimit:10;stroke-width:1.4733;stroke:currentcolor"/>   <path d="m233.7 198.23h-11.656c-2.777 0-3.728-4.395-3.728-5.421 0-3.821 3.764-14.032 3.764-14.032s-10.835 17.609-12.644 23.138c0 0 2.246-21.032 1.672-22.027-1.006-1.742-3.118-2.188-4.159-2.17" style="fill:none;opacity:.999;paint-order:stroke fill markers;stroke-linejoin:round;stroke-miterlimit:10;stroke-width:1.4733;stroke:currentcolor"/>  </g> </g></svg></div>
 
 <table>
 <thead><tr>
@@ -181,7 +177,6 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Io<br>
-<svg class="moonicon" viewBox="0 0 10 10"> <path d="m3.4283 9.25h3.1433" /> <path d="m2.0084 6.4377h5.9831" /> <path d="m5 0.75v8.5" /> <path d="m3.4283 0.75h3.1433" /></svg>
 <span style="font-family:moonsymbols;">I</span>
 <br><small>(♃-I)</small></td>
 <td>Least water of anywhere in the solar system. Sulfur atmosphere. Hundreds of volcanoes. Sulfur crust. Spews out plumes of sulfurous crud all the way into space. The crud is then accelerated by Jupiter's magnetic field to form the deadly radiation torus.</td>
@@ -189,7 +184,6 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Europa<br>
-<svg class="moonicon" viewBox="0 0 10 10"> <path d="m6.8039 0.25v9.4999" /> <path d="m3.6108 6.3717a1.3593 1.4585 0 0 1-1.1772-0.72927 1.3593 1.4585 0 0 1 0-1.4585 1.3593 1.4585 0 0 1 1.1772-0.72927" /> <path d="m8.3865 6.3717h-4.7907" /> <path d="m3.5828 3.4593a1.1556 1.2399 0 0 1-1.0676-0.7654 1.1556 1.2399 0 0 1 0.2505-1.3513 1.1556 1.2399 0 0 1 1.2593-0.26878 1.1556 1.2399 0 0 1 0.71334 1.1455" /></svg>
 <span style="font-family:moonsymbols;">E</span>
 <small><br>(♃-II)</small></td>
 <td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
@@ -197,7 +191,6 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym"><small>Ganymede</small><br>
-<svg class="moonicon" viewBox="0 0 10 10"> <path d="m4.9206 0.4914 2.3416 6.137" /> <path d="m8.3646-0.51869s-3.9367 8.061-3.9367 8.9106c0 0.36848 0.33237 0.69698 0.67064 0.69698 0.38165 0 0.68434-0.26786 0.67934-0.69698-0.0086742-0.74445-2.3017-6.2626-2.5902-6.7639-0.26846-0.49947-0.93797-0.71704-1.2867-0.71704" /></svg>
 <span style="font-family:moonsymbols;">G</span>
 <small><br>(♃-III)</small></td>
 <td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
@@ -205,7 +198,6 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Callisto<br>
-<svg class="moonicon" viewBox="0 0 10 10"> <path d="m7.5442 4.7053v5.0444"/> <path d="m9.3936 7.1741h-3.825c-0.91128 0-1.2234-1.3787-1.2234-1.7006 0-1.1987 1.2352-4.4019 1.2352-4.4019s-3.5555 5.5241-4.1492 7.2585c0 0 0.73703-6.5979 0.54867-6.91-0.33012-0.54648-1.0232-0.68639-1.3648-0.68074"/></svg>
 <span style="font-family:moonsymbols;">KL</span>
 <small><br>(♃-IV)</small></td>
 <td>Lots of craters. Outside of the deadly radiation donut, so might be the best place near Jupiter to set up a human base. (Also, might have subterranean oceans. That's apparently pretty common in space.)</td>
@@ -213,7 +205,6 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Titan<br>
-<svg class="moonicon" viewBox="0 0 10 10"> <path d="m6.6325 2.3622a1.6324 1.6122 0 0 1-1.6324 1.6122 1.6324 1.6122 0 0 1-1.6324-1.6122 1.6324 1.6122 0 0 1 1.6324-1.6122 1.6324 1.6122 0 0 1 1.6324 1.6122z" /> <path d="m0.83343 2.32h8.3331" /> <path d="m7.716 9.25c-0.32929 0-0.95723-0.23634-0.95723-0.96226 0-0.60278 1.0719-1.4246 1.0719-2.3637 0-1.3321-0.95225-1.5107-1.2912-1.5107-0.48588 0-1.2335 0.40662-1.504 1.4038v-3.4803" /></svg>
 <span style="font-family:moonsymbols;">T</span>
 <small><br>(♄-VI)</small></td>
 <td>2nd biggest moon. Thicker atmosphere than Earth's. Very hazy. Only place besides Earth with surface liquid (it's methane though), and thus the only place besides Earth to have whirlpools. Also might have an ammonia-water ocean underground, which erupts from cryovolcanoes. Soft crunchy surface. Permanent polar hurricances.<!--Victor of a clash between moons.--></td>
@@ -221,7 +212,6 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Triton<br>
-<svg class="moonicon" viewBox="0 0 10 10"> <path d="m0.21135 3.1136h9.5773" /> <path d="m5 9.6751v-9.3502" /> <path d="m2.0385 0.32656c0 3.716 1.0654 4.8564 2.9615 4.8564 1.8961 0 2.9615-1.1945 2.9615-4.8564" /></svg>
 <span style="font-family:moonsymbols;">R</span>
 <br><small>(♆-I)</small></td>
 <td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryvolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
