@@ -43,6 +43,7 @@ td{vertical-align: middle;}
 
 <b><span style="font-family:moonsymbols;">RST IEGK</span></b>
 <span style="font-family:moonsymbols;">RST IEGKL mehdr auto</span>
+RST IEGKL mehdr autoj
 
 <!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
 
@@ -63,7 +64,7 @@ td{vertical-align: middle;}
 </tr></thead>
 <tr>
 <td class="catsym">Mercury<br>☿</td>
-<td>Tidal locked. Extreme temperatures. Very close to sun.</td>
+<td>Tidally locked. Extreme temperatures. Very close to sun.</td>
 <td>God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.</td>
 </tr>
 <tr>
@@ -122,28 +123,28 @@ td{vertical-align: middle;}
 </tr></thead>
 <tr>
 <td class="catsym">Ceres<br>⚳</td>
-<td>planetdesc</td>
+<td>Largest asteroid. Made of clay and brine. Cryovolcanoes. Originally considered a planet. (Pluto is not unique in that regard.) There's a dead satellite orbitting around it.</td>
 <td>mythos</td>
 </tr>
 <tr>
-<td class="catsym">Pluto<br>♇<br><small>(alt: ⯓⯔⯕⯖ ⯡)</small></td>
+<td class="catsym">Pluto<br>♇<br><small>alt: ⯓⯔⯕⯖⯡</small></td>
 <td>planetdesc</td>
 <td>mythos (And no, I don't know why the unicode standard includes 5 variant symbols for Pluto.)</td>
 </tr>
 <tr>
 <td class="catsym">Haumea<br></td>
-<td>planetdesc</td>
+<td>Spins so fast it's egg-shaped. Tiny little rings.</td>
 <td>mythos</td>
 </tr>
 <tr>
 <td class="catsym">Makemake<br></td>
 <td>planetdesc</td>
-<td>mythos</td>
+<td>Lead god of the birdman cult.</td>
 </tr>
 <tr>
 <td class="catsym">Eris<br>⯰<br><small>(alt: ⯱)</small></td>
-<td>planetdesc</td>
-<td>mythos</td>
+<td>Incredibly distant from the Sun. Ever slightly more massive than Pluto, which led to the controversial decision to reclassify Pluto as Dwarf Planet. <i>(Personally, I liked Asimov's terminology suggestion of "Major Planet" for the big 8, "Minor Planet" for peedy things like comets and asteroids, and "Mesoplanet" for the Plutos and Ceress of the the system.)</i></td>
+<td>God of strife and discord. Kickstarted the Trojan War with the apple incident. </td>
 </tr>
 </table>
 
@@ -198,7 +199,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Callisto<br>
-<span style="font-family:moonsymbols;">KL</span>
+<span style="font-family:moonsymbols;">KC</span>
 <small><br>(♃-IV)</small></td>
 <td>Lots of craters. Outside of the deadly radiation donut, so might be the best place near Jupiter to set up a human base. (Also, might have subterranean oceans. That's apparently pretty common in space.)</td>
 <td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
@@ -243,28 +244,28 @@ And here are a few more bigger than Ceres, big enough to probably count as dwarf
 <span style="font-family:moonsymbols;">d</span>
 <br><small>(♃-IV)</small></td>
 <td>placeholder</td>
-<td>Titan and mother of Aphrodite</td>
+<td>Titan. Mother of Aphrodite</td>
 </tr>
 <tr>
 <td class="catsym">Rhea<br>
 <span style="font-family:moonsymbols;">r</span><br>
 <small>(♃-V)</small></td>
 <td>placeholder</td>
-<td>Titan wife of Saturn who rescued baby Jupiter from being eaten.</td>
+<td>Titan. Wife of Saturn who rescued baby Jupiter from being eaten.</td>
 </tr>
 <tr>
 <td class="catsym">Iapetus<br>
 <span style="font-family:moonsymbols;">i</span>
 <br><small>(♃-VIII)</small></td>
 <td>placeholder</td>
-<td>Titan, brother of Saturn. Father of Atlas and Prometheus. Sometimes later identified with one of Noah's sons.</td>
+<td>Titan, brother of Saturn. Father of Atlas and Prometheus. Sometimes later identified with one of Noah's sons?</td>
 </tr>
 <tr>
 <td class="catsym">Ariel<br>
 <span style="font-family:moonsymbols;">a</span>
 <br><small>(♅-I)</small></td>
 <td>placeholder</td>
-<td>Slyph</td>
+<td>Slyph with power over the winds, bound to serve the magician Prospero.</td>
 </tr>
 <tr>
 <td class="catsym">Umbriel<br>
@@ -290,7 +291,7 @@ And here are a few more bigger than Ceres, big enough to probably count as dwarf
 <tr>
 <td class="catsym">Charon<br>⯕<br><small>(♇-I)</small></td>
 <td>placeholder</td>
-<td>Ferryman of the dead.</td>
+<td>Ferryman of the dead. Son of Nyx, god of night. Sibling to Thanatos and Hypnos, personifications of death and sleep. Kind of a gnarly old dude.</td>
 </tr>
 </table>
 
@@ -423,7 +424,7 @@ Namesake
 ### <span class="catsym">⚳</span> Ceres
 
 Planet features
-: Largest asteroid. Made of clay and brine. Cryovolcanoes. 
+: 
 
 Namesake
 : God of the harvest.
