@@ -35,13 +35,13 @@ td{vertical-align: middle;}
     vertical-align: middle;
 }
 .moonicon path{
-    stroke-width:5%;
+    stroke-width:8%;
     stroke:currentcolor;
     fill: none;
 }
 </style>
 
-<span style="font-family:moontestfont;">RST IEGK zy</span>
+<span style="font-family:moontestfont;">RST IEGK</span>
 
 <!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
 
@@ -62,6 +62,7 @@ td{vertical-align: middle;}
 <tr>
 <td class="catsym">Io<br>
 <svg class="moonicon" viewBox="0 0 10 10"> <path d="m3.4283 9.25h3.1433" /> <path d="m2.0084 6.4377h5.9831" /> <path d="m5 0.75v8.5" /> <path d="m3.4283 0.75h3.1433" /></svg>
+<span style="font-family:moontestfont;">E</span>
 <br><small>(♃-I)</small></td>
 <td>Least water of anywhere in the solar system. Sulfur atmosphere. Hundreds of volcanoes. Sulfur crust. Spews out plumes of sulfurous crud all the way into space. The crud is then accelerated by Jupiter's magnetic field to form the deadly radiation torus.</td>
 <td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a king.</td>
@@ -69,6 +70,7 @@ td{vertical-align: middle;}
 <tr>
 <td class="catsym">Europa<br>
 <svg class="moonicon" viewBox="0 0 10 10"> <path d="m6.8039 0.25v9.4999" /> <path d="m3.6108 6.3717a1.3593 1.4585 0 0 1-1.1772-0.72927 1.3593 1.4585 0 0 1 0-1.4585 1.3593 1.4585 0 0 1 1.1772-0.72927" /> <path d="m8.3865 6.3717h-4.7907" /> <path d="m3.5828 3.4593a1.1556 1.2399 0 0 1-1.0676-0.7654 1.1556 1.2399 0 0 1 0.2505-1.3513 1.1556 1.2399 0 0 1 1.2593-0.26878 1.1556 1.2399 0 0 1 0.71334 1.1455" /></svg>
+<span style="font-family:moontestfont;">E</span>
 <small><br>(♃-II)</small></td>
 <td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
@@ -76,6 +78,7 @@ td{vertical-align: middle;}
 <tr>
 <td class="catsym"><small>Ganymede</small><br>
 <svg class="moonicon" viewBox="0 0 10 10"> <path d="m4.9206 0.4914 2.3416 6.137" /> <path d="m8.3646-0.51869s-3.9367 8.061-3.9367 8.9106c0 0.36848 0.33237 0.69698 0.67064 0.69698 0.38165 0 0.68434-0.26786 0.67934-0.69698-0.0086742-0.74445-2.3017-6.2626-2.5902-6.7639-0.26846-0.49947-0.93797-0.71704-1.2867-0.71704" /></svg>
+<span style="font-family:moontestfont;">G</span>
 <small><br>(♃-III)</small></td>
 <td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
 <td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer and boytoy.</td>
@@ -83,6 +86,7 @@ td{vertical-align: middle;}
 <tr>
 <td class="catsym">Callisto<br>
 <svg class="moonicon" viewBox="0 0 10 10"> <path d="m7.5442 4.7053v5.0444"/> <path d="m9.3936 7.1741h-3.825c-0.91128 0-1.2234-1.3787-1.2234-1.7006 0-1.1987 1.2352-4.4019 1.2352-4.4019s-3.5555 5.5241-4.1492 7.2585c0 0 0.73703-6.5979 0.54867-6.91-0.33012-0.54648-1.0232-0.68639-1.3648-0.68074"/></svg>
+<span style="font-family:moontestfont;">K</span>
 <small><br>(♃-IV)</small></td>
 <td>Lots of craters. Outside of the deadly radiation donut, so might be the best place near Jupiter to set up a human base. (Also, might have subterranean oceans. That's apparently pretty common in space.)</td>
 <td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
