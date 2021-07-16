@@ -41,9 +41,9 @@ td{vertical-align: middle;}
 }
 </style>
 
-<span style="font-family:moonsymbols;">RST IEGKL mehdri auto</span>
+<span style="font-family:moonsymbols;">RST IEGKCL mehdri auto</span>
 
-RST IEGKL mehdri auto
+RST IEGKCL mehdri auto
 
 <!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
 
@@ -64,28 +64,28 @@ RST IEGKL mehdri auto
 </tr></thead>
 <tr>
 <td class="catsym">Mercury<br>☿</td>
-<td>Tidally locked. Extreme temperatures. Very close to sun.</td>
+<td>Tidally locked. Extreme temperatures. Very close to sun. Moves really fast around the sun.</td>
 <td>God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.</td>
 </tr>
 <tr>
 <td class="catsym">Venus<br>♀</td>
-<td>Blisteringly hot, thick atmosphere, clouds made of sulfuric acid.</td>
+<td>Blisteringly hot, thick atmosphere. Clouds made of sulfuric acid.</td>
 <td>God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.</td>
 </tr>
 <tr>
 <td class="catsym">Terra<br>⊕<br><small>alt: ♁</small></td>
-<td>Liquid water oceans, surprising amounts of oxygen, exotic slimes.</td>
+<td>Liquid water oceans. Exotic slimes.</td>
 <td>Earth. You know, dirt and stuff.</td>
 </tr>
 <tr>
 <td class="catsym">Mars<br>♂</td>
-<td>Inside the habitable zone, covered in rust, icy poles, biggest mountain, inhabited by robots.</td>
+<td>Inside the habitable zone. Covered in rust. Icy poles. Biggest mountain in the system. Inhabited by robots.</td>
 <td>God of violent war and bloodshed! (Also, sometimes agriculture; he can be cool.) Symbol is his shield and spear.</td>
 </tr>
 <tr>
 <td class="catsym">Jupiter<br>♃<br><small>alt: ⯢</small></td>
 <td>Huge; like, really so big it's hard to believe. Bombarded by comets (might protect us from them). Has moons so big they're basically planets. Giant eternal storms. Band of intense radiation in a plasma torus around the equator.</td>
-<td>King of the Gods. God of the sky, lightning, and being an adulterous creep.</td>
+<td>King of the Gods. God of the sky and lightning. Adulterous creep.</td>
 </tr>
 <tr>
 <td class="catsym">Saturn<br>♄<br><small>alt: ⯣</small></td>
@@ -113,7 +113,7 @@ RST IEGKL mehdri auto
 ## The Dwarf Planets
 
 
-
+<i>(Personally, I liked Asimov's terminology suggestion of "Major Planet" for the big 8, "Minor Planet" for peedie things like comets and asteroids, and "Mesoplanet" for the Plutos and Cereses of the the system.)</i>
 
 <table>
 <thead><tr>
@@ -124,31 +124,60 @@ RST IEGKL mehdri auto
 <tr>
 <td class="catsym">Ceres<br>⚳</td>
 <td>Largest asteroid. Made of clay and brine. Cryovolcanoes. Originally considered a planet. (Pluto is not unique in that regard.) There's a dead satellite orbitting around it.</td>
-<td>mythos</td>
+<td>God of the harvest, agriculture, and especially grain. Hates pigs. Winter happens when her daughter goes to the underworld.</td>
 </tr>
 <tr>
 <td class="catsym">Pluto<br>♇<br><small>alt: ⯓⯔⯕⯖⯡</small></td>
-<td>planetdesc</td>
-<td>mythos (And no, I don't know why the unicode standard includes 5 variant symbols for Pluto.)</td>
+<td>Most visible object and widest (but not most massive) object in the Kuiper belt. Weird tilted orbit. (And no, I don't know why the unicode standard includes 5 variant symbols for Pluto.)</td>
+<td>Ruler of the underworld. God of wealth. Kidnapped Ceres' daughter, who must now stay in the underworld each winter because she ate an underworldly pomegranate.</td>
 </tr>
 <tr>
 <td class="catsym">Haumea<br></td>
 <td>Spins so fast it's egg-shaped. Tiny little rings.</td>
-<td>mythos</td>
+<td>Fertility god who gave humans the ability to give birth.</td>
 </tr>
 <tr>
 <td class="catsym">Makemake<br></td>
-<td>planetdesc</td>
+<td>Brightly visible from earth, at least compared to other objects that far out. It's kinda red.</td>
 <td>Lead god of the birdman cult.</td>
 </tr>
 <tr>
 <td class="catsym">Eris<br>⯰<br><small>(alt: ⯱)</small></td>
-<td>Incredibly distant from the Sun. Ever slightly more massive than Pluto, which led to the controversial decision to reclassify Pluto as Dwarf Planet. <i>(Personally, I liked Asimov's terminology suggestion of "Major Planet" for the big 8, "Minor Planet" for peedy things like comets and asteroids, and "Mesoplanet" for the Plutos and Ceress of the the system.)</i></td>
+<td>Incredibly distant from the Sun. Ever slightly more massive than Pluto, which led to the controversial decision to reclassify Pluto as Dwarf Planet. </td>
 <td>God of strife and discord. Kickstarted the Trojan War with the apple incident. </td>
 </tr>
 </table>
 
 
+And the following are a few of the objects most likely to be dwarf planets, which haven't been recognized by the IAU as such:
+
+<table>
+<thead><tr>
+<th>Planet</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Orcus<br></td>
+<td>planet</td>
+<td>lore</td>
+</tr>
+<tr>
+<td class="catsym">Quaoar<br></td>
+<td>planet</td>
+<td>lore</td>
+</tr>
+<tr>
+<td class="catsym">Gonggong<br>	共</td>
+<td>planet</td>
+<td>lore</td>
+</tr>
+<tr>
+<td class="catsym">Sedna<br>⯲</td>
+<td>planet</td>
+<td>lore</td>
+</tr>
+</table>
 
 
 
@@ -702,6 +731,7 @@ And here is one to scale:
 - Catrinity.
 - the wiki page used for sizes
 - that asteroid lookup page
+- [This old janky nasa.gov subsite for kids.](https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/solar_system.html)
 
 
 
