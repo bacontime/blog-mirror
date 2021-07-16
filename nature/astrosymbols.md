@@ -70,17 +70,17 @@ RST IEGKCL mehdri auto
 <tr>
 <td class="catsym">Venus<br>♀</td>
 <td>Blisteringly hot, thick atmosphere. Clouds made of sulfuric acid.</td>
-<td>God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.</td>
+<td>God of love, prosperity, beauty, desire. Sometimes a god of war. Sometimes acts a bit bonkers. Started the Trojan war to win an apple. Symbol is just a modified ϕ (short for Phosphorus).</td>
 </tr>
 <tr>
 <td class="catsym">Terra<br>⊕<br><small>alt: ♁</small></td>
-<td>Liquid water oceans. Exotic slimes.</td>
+<td>Liquid water surface oceans. Exotic slimes.</td>
 <td>Earth. You know, dirt and stuff.</td>
 </tr>
 <tr>
 <td class="catsym">Mars<br>♂</td>
 <td>Inside the habitable zone. Covered in rust. Icy poles. Biggest mountain in the system. Inhabited by robots.</td>
-<td>God of violent war and bloodshed! (Also, sometimes agriculture; he can be cool.) Symbol is his shield and spear.</td>
+<td>God of violent war and bloodshed! (Also, sometimes agriculture; he can be cool.) One time got stuck in a jar. Symbol is his shield and spear.</td>
 </tr>
 <tr>
 <td class="catsym">Jupiter<br>♃<br><small>alt: ⯢</small></td>
@@ -123,22 +123,22 @@ RST IEGKCL mehdri auto
 </tr></thead>
 <tr>
 <td class="catsym">Ceres<br>⚳</td>
-<td>Largest asteroid. Made of clay and brine. Cryovolcanoes. Originally considered a planet. (Pluto is not unique in that regard.) There's a dead satellite orbitting around it.</td>
+<td>Largest asteroid. Made of clay and brine. Cryovolcanoes. Originally considered a planet. (Pluto is not unique in that regard.) There's a dead satellite orbitting around it. Has the water and organic compounds needed for life, but is far too cold and small for any chance of life occuring in Ceres' past.</td>
 <td>God of the harvest, agriculture, and especially grain. Hates pigs. Winter happens when her daughter goes to the underworld.</td>
 </tr>
 <tr>
 <td class="catsym">Pluto<br>♇<br><small>alt: ⯓⯔⯕⯖⯡</small></td>
-<td>Most visible object and widest (but not most massive) object in the Kuiper belt. Weird tilted orbit. (And no, I don't know why the unicode standard includes 5 variant symbols for Pluto.)</td>
+<td>Widest (but not most massive) object in the Kuiper belt. Weird tilted orbit.  Big heart-shaped plain of solid nitrogen the size of Texas. Equitorial dark spots made of tholins (space tar), the biggest of which is called "Cthulhu Macula". Mountains made of water ice. Thin hazy atmosphere. May have had liquid nitrogen lakes in the past.(And no, I don't know why the unicode standard includes 5 variant symbols for Pluto.)</td>
 <td>Ruler of the underworld. God of wealth. Kidnapped Ceres' daughter, who must now stay in the underworld each winter because she ate an underworldly pomegranate.</td>
 </tr>
 <tr>
 <td class="catsym">Haumea<br></td>
-<td>Spins so fast it's egg-shaped. Tiny little rings.</td>
+<td>Spins so fast it's egg-shaped. Tiny little rings. Both of these features are the result of the planet's history as the product of a violent collision between multiple objects.</td>
 <td>Fertility god who gave humans the ability to give birth.</td>
 </tr>
 <tr>
 <td class="catsym">Makemake<br></td>
-<td>Brightly visible from earth, at least compared to other objects that far out. It's kinda red.</td>
+<td>It's kinda red, but not, like, super red.</td>
 <td>Lead god of the birdman cult.</td>
 </tr>
 <tr>
@@ -319,7 +319,7 @@ And here are a few more bigger than Ceres, big enough to probably count as dwarf
 </tr>
 <tr>
 <td class="catsym">Charon<br>⯕<br><small>(♇-I)</small></td>
-<td>placeholder</td>
+<td>A moon big enough and close enough to Pluto make their center of gravity lie between the two.</td>
 <td>Ferryman of the dead. Son of Nyx, god of night. Sibling to Thanatos and Hypnos, personifications of death and sleep. Kind of a gnarly old dude.</td>
 </tr>
 </table>
