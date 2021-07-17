@@ -49,7 +49,24 @@ RST IEGKCL mehdri auto
 
 
 
+![](astrosymbols/squarerootscaleplanets.png)
 
+
+![](astrosymbols/squarerootscaleplanetsreal.png)
+
+
+<table>
+<thead><tr>
+<th>Planet</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Sol<br>☉</td>
+<td>It's the sun.</td>
+<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.)</td>
+</tr>
+</table>
 
 
 ---
@@ -123,7 +140,7 @@ RST IEGKCL mehdri auto
 </tr></thead>
 <tr>
 <td class="catsym">Ceres<br>⚳</td>
-<td>Largest asteroid. Made of clay and brine. Cryovolcanoes. Originally considered a planet. (Pluto is not unique in that regard.) There's a dead satellite orbitting around it. Has the water and organic compounds needed for life, but is far too cold and small for any chance of life occuring in Ceres' past.</td>
+<td>Largest asteroid. Made of clay and brine. Cryovolcanoes. Originally considered a planet. (Pluto is not unique in that regard.) There's a dead satellite orbitting around it. Has the water and organic compounds needed for life, but is far too cold and small for any chance of life occuring in Ceres' past. Guards the barrier between life and death?</td>
 <td>God of the harvest, agriculture, and especially grain. Hates pigs. Winter happens when her daughter goes to the underworld.</td>
 </tr>
 <tr>
@@ -228,7 +245,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Callisto<br>
-<span style="font-family:moonsymbols;">KC</span>
+<span style="font-family:moonsymbols;">K</span>
 <small><br>(♃-IV)</small></td>
 <td>Lots of craters. Outside of the deadly radiation donut, so might be the best place near Jupiter to set up a human base. (Also, might have subterranean oceans. That's apparently pretty common in space.)</td>
 <td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
@@ -250,6 +267,8 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </table>
 
 
+
+<!--Callisto and its oceans of piss.-->
 
 
 And here are a few more bigger than Ceres, big enough to probably count as dwarf planets, even if they aren't as dramatically large as the previous list.
