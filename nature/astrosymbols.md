@@ -96,7 +96,7 @@ RST IEGKCL mehdri auto
 </tr>
 <tr>
 <td class="catsym">Mars<br>♂</td>
-<td>Inside the habitable zone. Covered in rust. Icy poles. Biggest mountain in the system. Inhabited by robots.</td>
+<td>Inside the habitable zone. Covered in rust. Icy poles. ~~Biggest~~Second biggest mountain in the system. Inhabited by robots.</td>
 <td>God of violent war and bloodshed! (Also, sometimes agriculture; he can be cool.) One time got stuck in a jar. Symbol is his shield and spear.</td>
 </tr>
 <tr>
@@ -116,7 +116,7 @@ RST IEGKCL mehdri auto
 </tr>
 <tr>
 <td class="catsym">Neptune<br>♆<br><small>alt: ⯉⯧</small></td>
-<td>Another ice giant. Discovered with math.</td>
+<td>Another ice giant. Discovered with math. Tilted offset magnetic field.</td>
 <td>God of the sea (and horses) (and in the greek equivalent, earthquakes).</td>
 </tr>
 </table>
@@ -145,8 +145,8 @@ RST IEGKCL mehdri auto
 </tr>
 <tr>
 <td class="catsym">Pluto<br>♇<br><small>alt: ⯓⯔⯕⯖⯡</small></td>
-<td>Widest (but not most massive) object in the Kuiper belt. Weird tilted orbit.  Big heart-shaped plain of solid nitrogen the size of Texas. Equitorial dark spots made of tholins (space tar), the biggest of which is called "Cthulhu Macula". Mountains made of water ice. Thin hazy atmosphere. May have had liquid nitrogen lakes in the past.(And no, I don't know why the unicode standard includes 5 variant symbols for Pluto.)</td>
-<td>Ruler of the underworld. God of wealth. Kidnapped Ceres' daughter, who must now stay in the underworld each winter because she ate an underworldly pomegranate.</td>
+<td>Widest (but not most massive) object in the Kuiper belt. Weird tilted orbit.  Big heart-shaped plain of solid nitrogen the size of Texas. Equitorial dark spots made of tholins (space tar), the biggest of which is called "Cthulhu Macula". Mountains made of water ice. Thin hazy atmosphere. May have had liquid nitrogen lakes and subsurface water oceans in the past. (And yes, the unicode standard includes 5 variant symbols for Pluto.)</td>
+<td>Ruler of the underworld. God of mineral wealth. Kidnapped Ceres' daughter, who must now stay in the underworld each winter because she ate an underworldly pomegranate.</td>
 </tr>
 <tr>
 <td class="catsym">Haumea<br></td>
@@ -155,8 +155,8 @@ RST IEGKCL mehdri auto
 </tr>
 <tr>
 <td class="catsym">Makemake<br></td>
-<td>It's kinda red, but not, like, super red.</td>
-<td>Lead god of the birdman cult.</td>
+<td>It's kinda red, but not, like, super red. Red-tinged and covered in pellets of solid methane. Not as much nitrogen as Pluto or Triton.</td>
+<td>Lead god of the birdman cult. Associated with a proxy-war-like ritual involving a deadly race to collect the first tern egg of the season.</td>
 </tr>
 <tr>
 <td class="catsym">Eris<br>⯰<br><small>(alt: ⯱)</small></td>
@@ -176,23 +176,23 @@ And the following are a few of the objects most likely to be dwarf planets, whic
 </tr></thead>
 <tr>
 <td class="catsym">Orcus<br></td>
-<td>planet</td>
-<td>lore</td>
+<td>Called the "anti-Pluto" because it's orbit is similar to Pluto's, yet opposite from it.   They are both resonant with neptune and have the same orbital period. Both of them cross over Neptune's orbit. But Pluto is close to the sun when Orcus is far away and vice versa. Also, both have a relatively large tidally locked moon, named after psychopomps. </td>
+<td>Underworld god and punisher of broken oaths. Namesake of ogres, orcs, and orcas.It's moon, Vanth, is named after another psychopomp.</td>
 </tr>
 <tr>
 <td class="catsym">Quaoar<br></td>
-<td>planet</td>
-<td>lore</td>
+<td>Its icy shell was stripped away in a past collision.</td>
+<td>Sang and danced the cosmos into being. Wild animals enforce his will.<!--https://www.sacred-texts.com/nam/ca/bosc/bosc04.htm--></td>
 </tr>
 <tr>
 <td class="catsym">Gonggong<br>	共</td>
-<td>planet</td>
-<td>lore</td>
+<td>Just barely big enough to hold onto volatile compounds..</td>
+<td>Jerkwad serpent who knocked the earth off kilter. Also prone to causing floods, and his 9-headed sidekick had his teeth kicked in by Da Yu.</td>
 </tr>
 <tr>
 <td class="catsym">Sedna<br>⯲</td>
-<td>planet</td>
-<td>lore</td>
+<td>Almost as red as the planet Mars.</td>
+<td>God of the sea and sea creatures. Maybe she married a dog. Maybe she married a bird in disguise. Maybe she refused to marry anyone. The story varies. One way  or another, she lost her fingers, which turned into sea mammals.</td>
 </tr>
 </table>
 
@@ -273,6 +273,8 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 
 And here are a few more bigger than Ceres, big enough to probably count as dwarf planets, even if they aren't as dramatically large as the previous list.
 
+And you know, what the heck? Enceladus is teeny tiny, but it's interesting enough to include. So throw that one in the list too.
+
 
 <table>
 <thead><tr>
@@ -281,59 +283,66 @@ And here are a few more bigger than Ceres, big enough to probably count as dwarf
 <th>Namesake</th>
 </tr></thead>
 <tr>
+<td class="catsym">Enceladus<br>
+<span style="font-family:moonsymbols;">e</span>
+<br><small>(♄-II)</small></td>
+<td>Clean, reflective ball of ice.  Relatively hot tiger stripes detected under the south pole. The south pole shoots out water jets which turn into a blue icy ring around saturn.</td>
+<td>Giant son of Gaia, and opponent of Athena.</td>
+</tr>
+<tr>
 <td class="catsym">Tethys<br>
 <span style="font-family:moonsymbols;">h</span>
 <br><small>(♃-III)</small></td>
-<td>placeholder</td>
+<td>Somewhat bigger and slightly less shiny than Enceladus. Almost entirely made of ice. Faintly bluish stripe.</td>
 <td>Titan mother of thousands of minor ocean and river gods.</td>
 </tr>
 <tr>
 <td class="catsym">Dione<br>
 <span style="font-family:moonsymbols;">d</span>
 <br><small>(♃-IV)</small></td>
-<td>placeholder</td>
-<td>Titan. Mother of Aphrodite</td>
+<td>Networks of icy cliffs. <!--Possible subsurface liquid oceans? Hard to find mention of that outside wikipedia though?--> Resonant with Enceladus and its features might be more "mature" versions of that little moon's. Also, constantly bombarded with icey powder from Enceladus.</td>
+<td>Titan. Mother of Aphrodite. (sometimes, when she isn't birthed from seafoam)</td>
 </tr>
 <tr>
 <td class="catsym">Rhea<br>
 <span style="font-family:moonsymbols;">r</span><br>
 <small>(♃-V)</small></td>
-<td>placeholder</td>
+<td>Described by NASA as a "dirty snowball". Has it's own tiny little rings. More cratered than the other ice moons of saturn.</td>
 <td>Titan. Wife of Saturn who rescued baby Jupiter from being eaten.</td>
 </tr>
 <tr>
 <td class="catsym">Iapetus<br>
 <span style="font-family:moonsymbols;">i</span>
 <br><small>(♃-VIII)</small></td>
-<td>placeholder</td>
+<td>Tilted orbit around saturn. It's the only one of Saturn's moons with a good view of the rings. Walnut shape from huge equitorial ridge. One bright side and one dark side. </td>
 <td>Titan, brother of Saturn. Father of Atlas and Prometheus. Sometimes later identified with one of Noah's sons?</td>
 </tr>
 <tr>
 <td class="catsym">Ariel<br>
 <span style="font-family:moonsymbols;">a</span>
 <br><small>(♅-I)</small></td>
-<td>placeholder</td>
+<td>Relatively bright and porous surface.</td>
 <td>Slyph with power over the winds, bound to serve the magician Prospero.</td>
 </tr>
 <tr>
 <td class="catsym">Umbriel<br>
 <span style="font-family:moonsymbols;">u</span>
 <br><small>(♅-II)</small></td>
-<td>placeholder</td>
+<td>Darkest of the moons of Uranus</td>
 <td>Dusky melancholy gnome.</td>
 </tr>
 <tr>
 <td class="catsym">Titania<br>
 <span style="font-family:moonsymbols;">t</span>
 <br><small>(♅-III)</small></td>
-<td>placeholder</td>
+<td>Enormous frost-lined canyons.</td>
 <td>Queen of the Fey</td>
 </tr>
 <tr>
 <td class="catsym">Oberon<br>
 <span style="font-family:moonsymbols;">o</span>
 <br><small>(♅-IV)</small></td>
-<td>placeholder</td>
+<td>Scarred and cratered surface.</td>
 <td>King of the Fey</td>
 </tr>
 <tr>
@@ -681,7 +690,7 @@ People initially thought these were planets and gave them symbols. Around the di
 1. ⚳ Ceres: God of grain, harvest, motherhood.
 2. ⚴ Pallas: Athena and her spear.
 3. ⚵ Juno: God of marriage and childbirth.
-4. ⚶ Vesta: God of hearth and home.
+4. ⚶ Vesta: God of hearth and home. (Asteroid has the tallest mountain in the system.)
 5. Astraea: God of justice, innocence, purity, and precision.
 6. Hebe: God of youth and forgiveness, Cupbearer to the gods.
 7. Iris: God of rainbows. Messenger of the gods.
@@ -753,9 +762,10 @@ And here is one to scale:
 - [This old janky nasa.gov subsite for kids.](https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/solar_system.html)
 - [NASA Planetary Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
 - [Physical data for Moons](https://ssd.jpl.nasa.gov/?sat_phys_par)
+- http://www.chadtrujillo.com/quaoar/
 
 
-
+<!--https://web.archive.org/web/20110429095406/http://www.tongva.com/-->
 
 
 
