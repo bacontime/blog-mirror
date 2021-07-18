@@ -81,7 +81,7 @@ RST IEGKCL mehdri auto
 </tr></thead>
 <tr>
 <td class="catsym">Mercury<br>☿</td>
-<td>Tidally locked. Extreme temperatures. Very close to sun. Moves really fast around the sun.</td>
+<td>Tidally locked. Extreme temperatures. Very close to sun. Moves really fast around the sun. Closest planet to Earth (on average) yet also the most difficult to reach.</td>
 <td>God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.</td>
 </tr>
 <tr>
@@ -140,8 +140,8 @@ RST IEGKCL mehdri auto
 </tr></thead>
 <tr>
 <td class="catsym">Ceres<br>⚳</td>
-<td>Largest asteroid. Made of clay and brine. Cryovolcanoes. Originally considered a planet. (Pluto is not unique in that regard.) There's a dead satellite orbitting around it. Has the water and organic compounds needed for life, but is far too cold and small for any chance of life occuring in Ceres' past. Guards the barrier between life and death?</td>
-<td>God of the harvest, agriculture, and especially grain. Hates pigs. Winter happens when her daughter goes to the underworld.</td>
+<td>Largest asteroid. Made of clay and brine. Cryovolcanoes. Originally considered a planet. (Pluto is not unique in that regard.) There's a dead satellite orbitting around it. Has the water and organic compounds needed for life, but is far too cold and small for any chance of life occuring in Ceres' past.</td>
+<td>God of the harvest, agriculture, and especially grain. Hates pigs. Winter happens when her daughter goes to the underworld. Guards the barrier between life and death?</td>
 </tr>
 <tr>
 <td class="catsym">Pluto<br>♇<br><small>alt: ⯓⯔⯕⯖⯡</small></td>
@@ -751,6 +751,8 @@ And here is one to scale:
 - the wiki page used for sizes
 - that asteroid lookup page
 - [This old janky nasa.gov subsite for kids.](https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/solar_system.html)
+- [NASA Planetary Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
+- [Physical data for Moons](https://ssd.jpl.nasa.gov/?sat_phys_par)
 
 
 
