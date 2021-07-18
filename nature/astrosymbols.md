@@ -767,8 +767,18 @@ And here is one to scale:
 
 <!--https://web.archive.org/web/20110429095406/http://www.tongva.com/-->
 
+<!--
+Some public domain image sources:
 
+- https://commons.wikimedia.org/wiki/Category:Pearson_Scott_Foresman_publisher
+- https://commons.wikimedia.org/wiki/User:LadyofHats
+- https://commons.wikimedia.org/wiki/Category:Health_Physics_Posters
+- https://commons.wikimedia.org/wiki/Category:PD_US_Government
+- https://docs.google.com/document/d/1JwR9ngrwxi8LgrHMAyQEmd_ZY9MDRUGKZLTq-WBvKsw/edit
+- https://docs.google.com/document/d/1tv8s70yrZMJPsZmn77jlKd3BrJjIKnT2UIk1LxGOTms/edit#heading=h.jcvaf0ril1oe
+- https://recedingrules.blogspot.com/p/public-domain-images.html
 
+-->
 
 
 
