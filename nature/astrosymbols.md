@@ -41,7 +41,7 @@ td{vertical-align: middle;}
 }
 </style>
 
-<span style="font-family:moonsymbols;">RST IEGKCL mehdri auto</span>
+<span style="font-family:moonsymbols;">RST IEGKCL mehdri auto O</span>
 
 RST IEGKCL mehdri auto
 
@@ -51,8 +51,6 @@ RST IEGKCL mehdri auto
 
 ![](astrosymbols/squarerootscaleplanets.png)
 
-
-![](astrosymbols/squarerootscaleplanetsreal.png)
 
 
 <table>
@@ -64,7 +62,7 @@ RST IEGKCL mehdri auto
 <tr>
 <td class="catsym">Sol<br>☉</td>
 <td>It's the sun.</td>
-<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.)</td>
+<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). Associated with gold by alchemists.</td>
 </tr>
 </table>
 
@@ -82,32 +80,32 @@ RST IEGKCL mehdri auto
 <tr>
 <td class="catsym">Mercury<br>☿</td>
 <td>Tidally locked. Extreme temperatures. Very close to sun. Moves really fast around the sun. Closest planet to Earth (on average) yet also the most difficult to reach.</td>
-<td>God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.</td>
+<td>God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories. In Mandarin, called "water planet". Associated with the element mercury by alchemists.</td>
 </tr>
 <tr>
 <td class="catsym">Venus<br>♀</td>
 <td>Blisteringly hot, thick atmosphere. Clouds made of sulfuric acid.</td>
-<td>God of love, prosperity, beauty, desire. Sometimes a god of war. Sometimes acts a bit bonkers. Started the Trojan war to win an apple. Symbol is just a modified ϕ (short for Phosphorus).</td>
+<td>God of love, prosperity, beauty, desire. Sometimes a god of war. Sometimes acts a bit bonkers. Started the Trojan war to win an apple. Symbol is just a modified ϕ (short for Phosphorus).  In Mandarin, called "metal planet". Associated with copper by alchemists.</td>
 </tr>
 <tr>
 <td class="catsym">Terra<br>⊕<br><small>alt: ♁</small></td>
 <td>Liquid water surface oceans. Exotic slimes.</td>
-<td>Earth. You know, dirt and stuff.</td>
+<td>Earth. You know, dirt and stuff. </td>
 </tr>
 <tr>
 <td class="catsym">Mars<br>♂</td>
-<td>Inside the habitable zone. Covered in rust. Icy poles. ~~Biggest~~Second biggest mountain in the system. Inhabited by robots.</td>
-<td>God of violent war and bloodshed! (Also, sometimes agriculture; he can be cool.) One time got stuck in a jar. Symbol is his shield and spear.</td>
+<td>Inside the habitable zone. Covered in rust. Icy poles. Second biggest mountain in the system. Inhabited by robots.</td>
+<td>God of violent war and bloodshed! (Also, sometimes agriculture; he can be cool.) One time got stuck in a jar. Symbol is his shield and spear. In Mandarin, called "fire planet". Associated with iron by alchemists.</td>
 </tr>
 <tr>
 <td class="catsym">Jupiter<br>♃<br><small>alt: ⯢</small></td>
 <td>Huge; like, really so big it's hard to believe. Bombarded by comets (might protect us from them). Has moons so big they're basically planets. Giant eternal storms. Band of intense radiation in a plasma torus around the equator.</td>
-<td>King of the Gods. God of the sky and lightning. Adulterous creep.</td>
+<td>King of the Gods. God of the sky and lightning. Adulterous creep.  In Mandarin, called "wood planet". Associated with tin by alchemists.</td>
 </tr>
 <tr>
 <td class="catsym">Saturn<br>♄<br><small>alt: ⯣</small></td>
 <td>Another stormy giant. Weird polar hexagonal storm. Magnificent rings.</td>
-<td>Titan of wealth, agriculture, cycles of renewal, and time. A horrible father, but a pretty good ruler of the world. Overthrown by his son Jupiter. Symbol is his scythe.</td>
+<td>Titan of wealth, agriculture, cycles of renewal, and time. A horrible father, but a pretty good ruler of the world. Overthrown by his son Jupiter. Symbol is his scythe.  In Mandarin, called "earth planet". Associated with lead by alchemists.</td>
 </tr>
 <tr>
 <td class="catsym">Uranus<br>♅<br><small>alt: ⛢</small></td>
@@ -191,7 +189,7 @@ And the following are a few of the objects most likely to be dwarf planets, whic
 </tr>
 <tr>
 <td class="catsym">Sedna<br>⯲</td>
-<td>Almost as red as the planet Mars.</td>
+<td>Almost as red as the planet Mars. Listen, they can't all be fascinating worlds with exciting geology and the potential for life. Sometimes it's a rock just really far away and all we know about it is a vague sense of its color.</td>
 <td>God of the sea and sea creatures. Maybe she married a dog. Maybe she married a bird in disguise. Maybe she refused to marry anyone. The story varies. One way  or another, she lost her fingers, which turned into sea mammals.</td>
 </tr>
 </table>
@@ -219,8 +217,8 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr></thead>
 <tr>
 <td class="catsym">Luna<br>☾</td>
-<td>Tides and whatnot. It's *the* Moon. </td>
-<td>God of the Moon. A bit redundant, I know. Often identified with Diana, god of the hunt, or Juno, god of marriage and childbirth.</td>
+<td>Tides and whatnot. It's *the* Moon. Likely the result of a massive collision between Earth and another planet, the same collision that gave earth its oceans.</td>
+<td>God of the Moon. A bit redundant, I know. Often identified with Diana, god of the hunt, or Juno, god of marriage and childbirth. The Moon is mythologically associated with wolves, madness, womanhood, and shellfish. Or at least, it used to be. The shellfish association kinda disappeared from pop culture for some reason. Alchemists associated it with silver.</td>
 </tr>
 <tr>
 <td class="catsym">Io<br>
@@ -349,6 +347,28 @@ And you know, what the heck? Enceladus is teeny tiny, but it's interesting enoug
 <td class="catsym">Charon<br>⯕<br><small>(♇-I)</small></td>
 <td>A moon big enough and close enough to Pluto make their center of gravity lie between the two.</td>
 <td>Ferryman of the dead. Son of Nyx, god of night. Sibling to Thanatos and Hypnos, personifications of death and sleep. Kind of a gnarly old dude.</td>
+</tr>
+</table>
+
+
+
+## Other planetesque objects.
+
+<table>
+<thead><tr>
+<th>Name</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Theia</td>
+<td>The hypothetical water-rich ancient planet which collided with the young Earth. After the debris settled, the solar system was left with the Terra and Luna we all know and love.</td>
+<td>Titan. Mother of the sun, the moon, and the dawn. Endowed precious metal and gems with their beauty.</td>
+</tr>
+<tr>
+<td class="catsym">Vulcan</td>
+<td>Urbain Le Verrier famously predicted the existence of Neptune through irregularities in the orbit of Uranus. He also predicted the existence of this planet through the irregularities in the orbit of Mercury. Alas, Vulcan doesn't exist. Rather, the irregularities are explained by general relativity.</td>
+<td>God of fire, the forge, volcanoes, and deserts.</td>
 </tr>
 </table>
 
