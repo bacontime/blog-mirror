@@ -45,11 +45,11 @@ td{vertical-align: middle;}
 
 RST IEGKCL mehdri auto
 
-<!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>-->
+<!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>
 
 
 
-![](astrosymbols/squarerootscaleplanets.png)
+![](astrosymbols/squarerootscaleplanets.png)-->
 
 
 
@@ -368,209 +368,10 @@ And you know, what the heck? Enceladus is teeny tiny, but it's interesting enoug
 <tr>
 <td class="catsym">Vulcan</td>
 <td>Urbain Le Verrier famously predicted the existence of Neptune through irregularities in the orbit of Uranus. He also predicted the existence of this planet through the irregularities in the orbit of Mercury. Alas, Vulcan doesn't exist. Rather, the irregularities are explained by general relativity.</td>
-<td>God of fire, the forge, volcanoes, and deserts.</td>
+<td>God of fire, the forge, volcanoes, and deserts. Frought marriage with Venus.</td>
 </tr>
 </table>
 
-
-
-And what the heck? Enceladus is teeny tiny, but it's interesting enough to include.
-
-<table>
-<thead><tr>
-<th>Moon</th>
-<th>Features</th>
-<th>Namesake</th>
-</tr></thead>
-<tr>
-<td class="catsym">Enceladus<br>
-<span style="font-family:moonsymbols;">e</span>
-<br><small>(♄-II)</small></td>
-<td>Clean, reflective ball of ice.  Relatively hot tiger stripes detected under the south pole. The south pole shoots out water jets which turn into a blue icy ring around saturn.</td>
-<td>Giant son of Gaia, and opponent of Athena.</td>
-</tr>
-<!--<tr>
-<td class="catsym">Titiana</td>
-<td></td>
-<td>Queen of the Fey</td>
-</tr>
-<tr>
-<td class="catsym">Obberon</td>
-<td></td>
-<tdl>King of the Fey</td>
-</tr>
-<tr>
-<td class="catsym">Triton</td>
-<td></td>
-<td>Son of Neptune. Merman with a magic conch.</td>
-</tr>
-<tr>
-<td class="catsym"></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td class="catsym">Charon</td>
-<td></td>
-<td>Ferryman of the dead.</td>
-</tr>-->
-</table>
-
-
-
----
-
-<!--Okay, and here's a test of the same info using description lists instead.
-
-
-
-
-## The Eight Major Planets
-
-### ☿ Mercury
-
-Planet features
-: Tidal locked, extreme temperatures, very close to sun.
-
-Namesake
-: God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.
-
-### ♀ Venus
-
-Planet features
-: Blisteringly hot, thick atmosphere, clouds made of sulfuric acid.
-
-Namesake
-: God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.
-
-### ⊕ Terra
-
-*Alt symbol: ♁*
-
-Planet features
-: Liquid water oceans, surprising amounts of oxygen, exotic slimes.
-
-Namesake
-: Earth. You know, dirt and stuff.
-
-### ♂ Mars
-
-Planet features
-: Inside the habitable zone, covered in rust, icy poles, biggest mountain, inhabited by robots.
-
-Namesake
-: God of violent war and bloodshed! (Also, sometimes agriculture. He can be cool.) Symbol is his shield and spear.
-
-
-### <span class="catsym">☿</span> Mercury
-
-Planet features
-: Tidal locked, extreme temperatures, very close to sun.
-
-Namesake
-: God of commerce and communication (and thieves and trickery). Guides souls to the underworld. Questionable fashion accessories.
-
-### <span class="catsym">♀</span> Venus
-
-Planet features
-: Blisteringly hot, thick atmosphere, clouds made of sulfuric acid.
-
-Namesake
-: God of love, prosperity, beauty, desire. Symbol is just a modified ϕ (short for Phosphorus), but sometimes said to be her necklace or hand mirror.
-
-### <span class="catsym">⊕</span> Terra  
-<div class="catsubtitle">Alternate symbol: ♁</div>
-
-Planet features
-: Liquid water oceans, surprising amounts of oxygen, exotic slimes.
-
-Namesake
-: Earth. You know, dirt and stuff.
-
-### <span class="catsym">♂</span> Mars
-
-Planet features
-: Inside the habitable zone, covered in rust, icy poles, biggest mountain, inhabited by robots.
-
-Namesake
-: God of violent war and bloodshed! (Also, sometimes agriculture. He can be cool.) Symbol is his shield and spear.
-
-
-## The Dwarf Planets
-
-### <span class="catsym">⚳</span> Ceres
-
-Planet features
-: 
-
-Namesake
-: God of the harvest.
-
-
-### Pluto
-
-Planet features
-: Cold, small, cute heart shape. Has a moon big enough to be a planet.
-
-Namesake
-: God of the underworld and material riches.
-
-### Haumea
-
-Planet features
-: Egg shape. Rings. 
-
-Namesake
-: God of motherhood.
-
-### Makamake
-
-Planet features
-: uh.
-
-Namesake
-: Bird cult, bird cult, bird cult! BIRD CULT!
-
-### Eris
-
-Planet features
-: Very very very far away from the sun. Slightly more massive than Pluto. The reason Pluto is no longer a major planet.
-
-Namesake
-: God of discord. Started the Trojan war with the apple incident.
-
-### Gonggong?
-
-### Orcus?
-
-## Planetary Mass Moons.
-
-
-
-### Luna
-
-Features
-: Makes big tides on earth. 
-
-Namesake
-: "Moon" comes from "menses", the protoindoeuropean word for month. "Luna" is a moon god, sometimes identified with Artemis, god of the hunt.
-
-### Io
-
-### Europa
-
-### Ganymede
-
-### Kallisto
-
-### Titan
-
-### Triton
-
-### Charon
-
-
-Some colored glyphs:
 
 <div class="catsym">
 &#xF5B6;
@@ -580,17 +381,6 @@ Some colored glyphs:
 &#xF5BA;
 &#xF5BB;
 </div>
-
--->
-
-
-
-
----
-
-
-
-
 
 ## Unicode Astronomical Symbols
 
@@ -752,7 +542,6 @@ People initially thought these were planets and gave them symbols. Around the di
 
 ![](astrosymbols/dualscalesolarsystem.png)
 
--->
 
 Here is a quadratically scaled solar system.
 I'm playing around with the symbols for some of the moons.
@@ -763,6 +552,8 @@ I'm playing around with the symbols for some of the moons.
 And here is one to scale:
 
 ![](astrosymbols/dualscalesolarsystem_moons_nofont.svg)
+-->
+
 
 
 
