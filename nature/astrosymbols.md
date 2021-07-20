@@ -552,6 +552,8 @@ I'm playing around with the symbols for some of the moons.
 And here is one to scale:
 
 ![](astrosymbols/dualscalesolarsystem_moons_nofont.svg)
+
+https://www.heritagetype.com/pages/free-vintage-illustrations
 -->
 
 
@@ -574,6 +576,8 @@ And here is one to scale:
 - [NASA Planetary Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
 - [Physical data for Moons](https://ssd.jpl.nasa.gov/?sat_phys_par)
 - http://www.chadtrujillo.com/quaoar/
+- https://nineplanets.org/hypothetical-planets/#vulcan
+- https://solarsystem.nasa.gov/resources/682/space-tourism-posters/
 
 
 <!--https://web.archive.org/web/20110429095406/http://www.tongva.com/-->
@@ -588,6 +592,8 @@ Some public domain image sources:
 - https://docs.google.com/document/d/1JwR9ngrwxi8LgrHMAyQEmd_ZY9MDRUGKZLTq-WBvKsw/edit
 - https://docs.google.com/document/d/1tv8s70yrZMJPsZmn77jlKd3BrJjIKnT2UIk1LxGOTms/edit#heading=h.jcvaf0ril1oe
 - https://recedingrules.blogspot.com/p/public-domain-images.html
+- https://commons.wikimedia.org/wiki/Commons:Bible_Illustrations
+- https://www.rawpixel.com/libraryofcongress/showcase?sort=curated&mode=shop&page=1
 
 -->
 
