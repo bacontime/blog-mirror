@@ -710,7 +710,7 @@ People initially thought these were planets and gave them symbols. Around the di
 - <span class="catsym">1 Ceres ⚳</span>: God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
 - <span class="catsym">2 Pallas ⚴</span>: Athena and her spear. A lot of other mythological characters are named Pallas as well.
 - <span class="catsym">3 Juno ⚵</span>: God of marriage and childbirth. Sometimes associated with the moon.
-- <span class="catsym">4 Vesta ⚶</span>: God of hearth and home. This asteroid has the tallest mountain in the system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)
+- <span class="catsym">4 Vesta ⚶</span>: God of hearth and home. This asteroid is the second largest, and has the tallest mountain in the solar system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)
 - <span class="catsym">5 Astraea <span class="catPUA"></span>⯙</span>: God of justice, innocence, purity, and precision.
 - <span class="catsym">6 Hebe <span class="catPUA"></span></span>: God of youth and forgiveness, Cupbearer to the gods.
 - <span class="catsym">7 Iris <span class="catPUA"></span></span>: God of rainbows. Messenger of the gods.
@@ -720,18 +720,34 @@ People initially thought these were planets and gave them symbols. Around the di
 - <span class="catsym">11 Parthenope <span class="catPUA"></span></span>: Siren Either failed to lure Odysseus or was turned into a city by Jupiter.
 - <span class="catsym">12 Victoria <span class="catPUA"></span></span>: God of victory.
 - <span class="catsym">13 Egeria <span class="catPUA"></span></span>: Nymph who gave laws and to early Rome. 
-- <span class="catsym">14 Irene <span class="catPUA"></span></span>: Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis, titan of divine law and second wife of Jupiter.
+- <span class="catsym">14 Irene <span class="catPUA"></span></span>: Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis
 - <span class="catsym">15 Eunomia <span class="catPUA"></span></span>: Personification of Order. God of law, legistlation, and pastures.
-- <span class="catsym">16 Psyche <span class="catPUA"></span></span>: God of the soul. A beautiful mortal who had a romance with Cupid and was tormented by his mother Venus. Around the time this asteroid was discovered, people realized there's tons of the things and started numbering them.
+- <span class="catsym">16 Psyche <span class="catPUA"></span></span>: God of the soul. A beautiful mortal who had a romance with Cupid and was tormented by his mother Venus. Around the time this asteroid was discovered, people realized there's tons of the things and started numbering them instead of giving them unique names and symbols.
 - <span class="catsym">17 Thetis <span class="catPUA"></span></span>: Sea nymph, mother of Achilles
 - <span class="catsym">18 Melpomene <span class="catPUA"></span></span>: Muse of the Chorus and Tregedy.
 - <span class="catsym">19 Fortuna <span class="catPUA"></span></span>: God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.
+- <span class="catsym">20 Massalia</span>: Named after a city.
+- <span class="catsym">21 Lutetia</span>: Named after a city.
+- <span class="catsym">22 Kalliope</span>: Muse of epic poetry. Chief of the Muses. Turned some uppity mortals into songbirds.
+- <span class="catsym">23 Thalia</span>: Muse of comedy.
+- <span class="catsym">24 Themis</span>: Titan of divine law. Second wife of Jupiter.
+- <span class="catsym">25 Phocaea</span>: Named after a city.
 - <span class="catsym">26 Proserpina <span class="catPUA"></span>⯘</span>: Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.
 - <span class="catsym">28 Bellona <span class="catPUA"></span></span>: Wife of Mars. Also a god of a crazed bloodthirsty war. Likes to ride into battle with her hubby and has a special talent when it comes to destroying entire cities.
 - <span class="catsym">29 Amphitrite <span class="catPUA"></span></span>: Neptune's wife. God of the sea and salt water.
+- <span class="catsym">30 Urania</span>: Muse of astronomy.
+- <span class="catsym">31 Euphrosyne</span>: God of good cheer. 
+- <span class="catsym">32 Pomona</span>: Wood nymph. God of orchards.
+- <span class="catsym">33 Polyhymnia</span>: Muse of sacred poetry and pantomime.
+- <span class="catsym">34 Circe</span>: Wizard Queen. Transmogrified people into animals. Daughter of the Sun.
 - <span class="catsym">35 Leukothea <span class="catPUA"></span></span>: A nymph or queen who leapt into the sea. The symbol is an old-timey lighthouse.
-- <span class="catsym">37 Fides <span class="catPUA"></span></span>: God of trust and reliability, 
-
+- <span class="catsym">37 Fides <span class="catPUA"></span></span>: God of trust and reliability. Astronomers pretty much completely gave up on the asteroid symbols past this point.
+- <span class="catsym">38 Leda</span>: Spartan queen. Made love to swan-Jupiter, and gave birth to an egg from which hatched Helen of Troy, and the twins Castor and Pollux.
+- ...
+- <span class="catsym">243 Ida</span>: A nymph who nursed Jupiter. Also the name of the mountain where Jupiter was hidden away. The asteroid was the first discovered with its own tiny moon.
+- <span class="catsym">253 Mathilde</span>: Named after an Astronomer's wife. The asteroid was visited by a probe on its way to 433 Eros, and scientists were surprised to see that 253 Mathilde is a loosely packed pile of rubble, more crater than stone.
+- <span class="catsym">433 Eros</span>: Aka Cupid. God of erotic desire. Had a romance with Psyche. This asteroid was the first near-earth asteroid to be discovered. It was also the first asteroid people put an orbiter around, and the first asteroid to be landed on.
+- <span class="catsym">25143 Itokawa</span>: Named for the father of Japanese rocketry. Shaped like a lumpy sea otter. This was the first asteroid from which a sample was collected and brought back to Earth. It's  also the smallest asteroid ever visited.
 
 
 
@@ -922,7 +938,7 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
 - http://www.chadtrujillo.com/quaoar/
 - https://nineplanets.org/hypothetical-planets/#vulcan
 - https://solarsystem.nasa.gov/resources/682/space-tourism-posters/
-
+- https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=24
 
 <!--https://web.archive.org/web/20110429095406/http://www.tongva.com/-->
 
