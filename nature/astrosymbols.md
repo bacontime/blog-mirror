@@ -19,7 +19,11 @@ td{vertical-align: middle;}
   vertical-align: middle;
   line-height: 1;
   color: black;
+  font-weight:bold;
   }
+.catPUA {
+    color:blue;
+}
 .catsubtitle {
     font-family: CatrinityWeb; 
     padding:0em; margin:0em; 
@@ -53,18 +57,6 @@ RST IEGKCL mehdri auto
 
 
 
-<table>
-<thead><tr>
-<th>Planet</th>
-<th>Features</th>
-<th>Namesake</th>
-</tr></thead>
-<tr>
-<td class="catsym">Sol<br>☉</td>
-<td>It's the sun.</td>
-<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). Associated with gold by alchemists.</td>
-</tr>
-</table>
 
 
 ---
@@ -489,7 +481,188 @@ Some are official unicode, but some are specific to Catrinity.
 
 
 
+## Asteroids
 
+Ceres is the largest of the asteroids and the first discovered. It's now considered a dwarf planet and is listed above.
+
+<table>
+<thead><tr>
+<th>Asteroid</th>
+<th>Namesake+Notes</th>
+</tr></thead>
+<tr>
+<td class="catsym">1 Ceres<br>⚳</td>
+<td>Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.</td>
+</tr>
+<tr>
+<td class="catsym">2 Pallas<br>⚴</td>
+<td>Athena and her spear. A lot of other mythological characters are named Pallas as well.</td>
+</tr>
+<tr>
+<td class="catsym">3 Juno<br>⚵</td>
+<td>God of marriage and childbirth. Sometimes associated with the moon.</td>
+</tr>
+<tr>
+<td class="catsym">4 Vesta<br>⚶</td>
+<td>God of hearth and home. This asteroid has the tallest mountain in the system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)</td>
+</tr>
+<tr>
+<td class="catsym">5 Astraea<br><span class="catPUA"></span></td>
+<td>God of justice, innocence, purity, and precision. Daughter of the dawn.</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">6 Hebe<br><span class="catPUA"></span></td>
+<td>God of youth and forgiveness, Cupbearer to the gods.</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">7 Iris<br><span class="catPUA"></span></td>
+<td>God of rainbows. Messenger of the gods.</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">8 Flora<br><span class="catPUA"></span></td>
+<td>God of flowers and springtime.</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">9 Metis<br><span class="catPUA"></span></td>
+<td>Titan of wisdom and skilled council. Jupiter's first wife and mother of Athena (Jupiter absorbed Metis while she was pregnant, which is why Athena was birthed out Jupiter's head).</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">10 Hygieia<br><span class="catPUA"></span></td>
+<td>God of cleanliness, sanitation, and preventative medicine.</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">11 Parthenope<br><span class="catPUA"></span></td>
+<td>Siren. Either failed to lure Odysseus or was turned into a city by Jupiter.</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">12 Victoria<br><span class="catPUA"></span></td>
+<td>God of victory.</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">13 Egeria<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">14 Irene<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">15 Eunomia<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">16 Psyche<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">17 Thetis<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">18 Melpomene<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+</tr>
+<tr>
+<td class="catsym">name<br><span class="catPUA"></span></td>
+<td>notes</td>
+</tr>
+<tr>
+<td class="catsym">Name<br></td>
+<td>notes</td>
+</tr>
+<tr>
+<td class="catsym">Name<br></td>
+<td>notes</td>
+</tr>
+</table>
 
 
 
@@ -524,6 +697,177 @@ People initially thought these were planets and gave them symbols. Around the di
 
 
 
+
+
+2 Pallas
+⚴	Athena and her spear. A lot of other mythological characters are named Pallas as well.
+3 Juno
+⚵	God of marriage and childbirth. Sometimes associated with the moon.
+4 Vesta
+⚶	
+
+
+- <span class="catsym">1 Ceres ⚳</span>: God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
+- <span class="catsym">2 Pallas ⚴</span>: Athena and her spear. A lot of other mythological characters are named Pallas as well.
+- <span class="catsym">3 Juno ⚵</span>: God of marriage and childbirth. Sometimes associated with the moon.
+- <span class="catsym">4 Vesta ⚶</span>: God of hearth and home. This asteroid has the tallest mountain in the system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)
+- <span class="catsym">5 Astraea <span class="catPUA"></span>⯙</span>: God of justice, innocence, purity, and precision.
+- <span class="catsym">6 Hebe <span class="catPUA"></span></span>: God of youth and forgiveness, Cupbearer to the gods.
+- <span class="catsym">7 Iris <span class="catPUA"></span></span>: God of rainbows. Messenger of the gods.
+- <span class="catsym">8 Flora <span class="catPUA"></span></span>: God of flowers and springtime.
+- <span class="catsym">9 Metis <span class="catPUA"></span></span>: Titan of wisdom and skilled council. Mother of Athena.
+- <span class="catsym">10 Hygiea <span class="catPUA"></span>⯚</span>: God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me.
+- <span class="catsym">11 Parthenope <span class="catPUA"></span></span>: Siren Either failed to lure Odysseus or was turned into a city by Jupiter.
+- <span class="catsym">12 Victoria <span class="catPUA"></span></span>: God of victory.
+- <span class="catsym">13 Egeria <span class="catPUA"></span></span>: Nymph who gave laws and to early Rome. 
+- <span class="catsym">14 Irene <span class="catPUA"></span></span>: Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis, titan of divine law and second wife of Jupiter.
+- <span class="catsym">15 Eunomia <span class="catPUA"></span></span>: Personification of Order. God of law, legistlation, and pastures.
+- <span class="catsym">16 Psyche <span class="catPUA"></span></span>: God of the soul. A beautiful mortal who had a romance with Cupid and was tormented by his mother Venus. Around the time this asteroid was discovered, people realized there's tons of the things and started numbering them.
+- <span class="catsym">17 Thetis <span class="catPUA"></span></span>: Sea nymph, mother of Achilles
+- <span class="catsym">18 Melpomene <span class="catPUA"></span></span>: Muse of the Chorus and Tregedy.
+- <span class="catsym">19 Fortuna <span class="catPUA"></span></span>: God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.
+- <span class="catsym">26 Proserpina <span class="catPUA"></span>⯘</span>: Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.
+- <span class="catsym">28 Bellona <span class="catPUA"></span></span>: Wife of Mars. Also a god of a crazed bloodthirsty war. Likes to ride into battle with her hubby and has a special talent when it comes to destroying entire cities.
+- <span class="catsym">29 Amphitrite <span class="catPUA"></span></span>: Neptune's wife. God of the sea and salt water.
+- <span class="catsym">35 Leukothea <span class="catPUA"></span></span>: A nymph or queen who leapt into the sea. The symbol is an old-timey lighthouse.
+- <span class="catsym">37 Fides <span class="catPUA"></span></span>: God of trust and reliability, 
+
+
+
+
+
+
+
+
+
+<span class="catsym">1 Ceres ⚳</span>
+: God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
+<span class="catsym">2 Pallas ⚴</span>
+: Athena and her spear. A lot of other mythological characters are named Pallas as well.
+<span class="catsym">3 Juno ⚵</span>
+: God of marriage and childbirth. Sometimes associated with the moon.
+<span class="catsym">4 Vesta ⚶</span>
+: God of hearth and home. This asteroid has the tallest mountain in the system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)
+<span class="catsym">5 Astraea <span class="catPUA"></span>⯙</span>
+: God of justice, innocence, purity, and precision.
+<span class="catsym">6 Hebe <span class="catPUA"></span></span>
+: God of youth and forgiveness, Cupbearer to the gods.
+<span class="catsym">7 Iris <span class="catPUA"></span></span>
+: God of rainbows. Messenger of the gods.
+<span class="catsym">8 Flora <span class="catPUA"></span></span>
+: God of flowers and springtime.
+<span class="catsym">9 Metis <span class="catPUA"></span></span>
+: Titan of wisdom and skilled council. Mother of Athena.
+<span class="catsym">10 Hygiea <span class="catPUA"></span>⯚</span>
+: God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me.
+<span class="catsym">11 Parthenope <span class="catPUA"></span></span>
+: Siren Either failed to lure Odysseus or was turned into a city by Jupiter.
+<span class="catsym">12 Victoria <span class="catPUA"></span></span>
+: God of victory.
+<span class="catsym">13 Egeria <span class="catPUA"></span></span>
+: Nymph who gave laws and to early Rome. 
+<span class="catsym">14 Irene <span class="catPUA"></span></span>
+: Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis, titan of divine law and second wife of Jupiter.
+<span class="catsym">15 Eunomia <span class="catPUA"></span></span>
+: Personification of Order. God of law, legistlation, and pastures.
+<span class="catsym">16 Psyche <span class="catPUA"></span></span>
+: God of the soul. A beautiful mortal who had a romance with Cupid and was tormented by his mother Venus. Around the time this asteroid was discovered, people realized there's tons of the things and started numbering them.
+<span class="catsym">17 Thetis <span class="catPUA"></span></span>
+: Sea nymph, mother of Achilles
+<span class="catsym">18 Melpomene <span class="catPUA"></span></span>
+: Muse of the Chorus and Tregedy.
+<span class="catsym">19 Fortuna <span class="catPUA"></span></span>
+: God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.
+<span class="catsym">26 Proserpina <span class="catPUA"></span>⯘</span>
+: Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.
+<span class="catsym">28 Bellona <span class="catPUA"></span></span>
+: Wife of Mars. Also a god of a crazed bloodthirsty war. Likes to ride into battle with her hubby and has a special talent when it comes to destroying entire cities.
+<span class="catsym">29 Amphitrite <span class="catPUA"></span></span>
+: Neptune's wife. God of the sea and salt water.
+<span class="catsym">35 Leukothea <span class="catPUA"></span></span>
+: A nymph or queen who leapt into the sea. The symbol is an old-timey lighthouse.
+<span class="catsym">37 Fides <span class="catPUA"></span></span>
+: God of trust and reliability, 
+
+
+
+
+
+1 Ceres ⚳
+: God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
+2 Pallas ⚴
+: Athena and her spear. A lot of other mythological characters are named Pallas as well.
+3 Juno ⚵
+: God of marriage and childbirth. Sometimes associated with the moon.
+4 Vesta ⚶
+: God of hearth and home. This asteroid has the tallest mountain in the system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)
+5 Astraea <span class="catPUA"></span>⯙
+: God of justice, innocence, purity, and precision.
+6 Hebe <span class="catPUA"></span>
+: God of youth and forgiveness, Cupbearer to the gods.
+7 Iris <span class="catPUA"></span>
+: God of rainbows. Messenger of the gods.
+8 Flora <span class="catPUA"></span>
+: God of flowers and springtime.
+9 Metis <span class="catPUA"></span>
+: Titan of wisdom and skilled council. Mother of Athena.
+10 Hygiea <span class="catPUA"></span>⯚
+: God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me.
+11 Parthenope <span class="catPUA"></span>
+: Siren Either failed to lure Odysseus or was turned into a city by Jupiter.
+12 Victoria <span class="catPUA"></span>
+: God of victory.
+13 Egeria <span class="catPUA"></span>
+: Nymph who gave laws and to early Rome. 
+14 Irene <span class="catPUA"></span>
+: Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis, titan of divine law and second wife of Jupiter.
+15 Eunomia <span class="catPUA"></span>
+: Personification of Order. God of law, legistlation, and pastures.
+16 Psyche <span class="catPUA"></span>
+: God of the soul. A beautiful mortal who had a romance with Cupid and was tormented by his mother Venus. Around the time this asteroid was discovered, people realized there's tons of the things and started numbering them.
+17 Thetis <span class="catPUA"></span>
+: Sea nymph, mother of Achilles
+18 Melpomene <span class="catPUA"></span>
+: Muse of the Chorus and Tregedy.
+19 Fortuna <span class="catPUA"></span>
+: God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.
+26 Proserpina <span class="catPUA"></span>⯘
+: Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.
+28 Bellona <span class="catPUA"></span>
+: Wife of Mars. Also a god of a crazed bloodthirsty war. Likes to ride into battle with her hubby and has a special talent when it comes to destroying entire cities.
+29 Amphitrite <span class="catPUA"></span>
+: Neptune's wife. God of the sea and salt water.
+35 Leukothea <span class="catPUA"></span>
+: A nymph or queen who leapt into the sea. The symbol is an old-timey lighthouse.
+37 Fides <span class="catPUA"></span>
+: God of trust and reliability, 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<table>
+<thead><tr>
+<th>Planet</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Sol<br>☉</td>
+<td>It's the sun.</td>
+<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). Associated with gold by alchemists.</td>
+</tr>
+</table>
 
 
 <!--<div style="font-family: Catrinity; font-size: 300%;"></div>-->
