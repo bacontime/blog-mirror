@@ -48,17 +48,15 @@ td{vertical-align: middle;}
 }
 </style>
 
-<span class="moonsym">RST IEGKCL mehdri auto O</span>
 
-RST IEGKCL mehdri auto
-
-<!--<span style="font-family:CatrinityWeb;"> This is a test of catrinity loading.⯣</span>
+![](astrosymbols/squarerootscaleplanets.png)
 
 
 
-![](astrosymbols/squarerootscaleplanets.png)-->
+You will need the [Catrinity font](http://catrinity-font.de/) installed to properly view these entries. 
+Some are official unicode, but some are specific to Catrinity.
 
-
+TODO EXPLANATION OF WHERE THESE SYMBOLS COME FROM
 
 
 
@@ -407,7 +405,7 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 
 
 
-## Other planetesque objects.
+## Theorized Planets
 
 <table>
 <thead><tr>
@@ -427,51 +425,6 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 </tr>
 </table>
 
-
-<div class="catsym">
-&#xF5B6;
-&#xF5B7;
-&#xF5B8;
-&#xF5B9;
-&#xF5BA;
-&#xF5BB;
-</div>
-
-## Unicode Astronomical Symbols
-
-|Symbol|Name|Namesake's Associations|
-|:-:|:--|:--|
-| &#x; |  |  |
-| ☀☉☼ | sun | gold |
-| ☄ | comet |  |
-| ☆ | star |  |
-| ♈ | aries |  |
-| ♉ | taurus |  |
-| ♊ | gemini |  |
-| ♋ | cancer |  |
-| ♌ | leo |  |
-| ♍ | virgo |  |
-| ♎ | libra |  |
-| ♏ | scorpius |  |
-| ♐ | sagittarius |  |
-| ♑ | capricorn |  |
-| ♒ | aquarius |  |
-| ⛎ | Ophiuchus |  |
-
-
-## Other Astronomical Symbols
-
-You will need the [Catrinity font](http://catrinity-font.de/) installed to properly view these entries. 
-Some are official unicode, but some are specific to Catrinity.
-
-|Symbol|Name|Namesake's Associations|
-|:-:|:--|:--|
-| &#xF5D0; | Wheel |  |
-| &#xF5D1; | Eclipse |  |
-| &#xF5D3; | Crescent |  |
-| &#xF5D4; | Priapus | fertility, veggies, livestock, bees, schlonger |
-| &#xF5F1; | Ixion | kin-slayer, cloud doinker, centaur daddy |
-| &#xF5F2; | Typhon | smoke, abyss, volcano, whirlwind, snake |
 
 
 ## The Minor Planets
@@ -508,7 +461,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <tr><td class="catsym">16 Psyche <br><span class="catPUA"></span></td><td> God of the soul. A beautiful mortal who married Cupid and was tormented by his mother Venus. The symbol is supposed to be a butterfly's wing. <br> The asteroid is thought to be the exposed core of a shattered protoplanet, and there's a plan to visit it in 2026. (Mission tagline: "Journey to a Metal World")</td></tr>
 <tr><td class="catsym">17 Thetis <br><span class="catPUA"></span></td><td> Sea nymph, mother of Achilles</td></tr>
 <tr><td class="catsym">18 Melpomene <br><span class="catPUA"></span></td><td> Muse of the Chorus and Tregedy.</td></tr>
-<tr><td class="catsym">19 Fortuna <br><span class="catPUA"></span></td><td> God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.</td></tr>
+<tr><td class="catsym">19 Fortuna <br><span class="catPUA"></span></td><td> God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.</td></tr>
 <tr><td class="catsym">20 Massalia</td><td> Named after a city.</td></tr>
 <tr><td class="catsym">21 Lutetia</td><td> Named after a city. One of the densest asteroids.</td></tr>
 <tr><td class="catsym">22 Kalliope</td><td> Muse of epic poetry. Chief of the Muses. Turned some uppity mortals into songbirds.</td></tr>
@@ -539,6 +492,8 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <tr><td class="catsym">7066 Nessus<br>⯜</td><td>A centaur. Unlike the previous two, this centaur was a total creep. He tried to rape Heracles' wife, so Heracles killed him with some turbo poison. Years later, Heracles put on a shirt that was stained with the turbo-poisoned centaur blood, and Heracles himself was killed.<br>The object was the third astronomical centaur to be discovered.</td></tr>
 <tr><td class="catsym">10199 Chariklo</td><td> A nymph, wife to the centaur Chiron. <br> This object is the largest (yet found as of 2019) of the astronomical centaurs, and the smallest object known to have rings.</td></tr>
 <tr><td class="catsym">25143 Itokawa</td><td> Named for the father of Japanese rocketry. <br> Rubble pile shaped like a lumpy sea otter. This was the first asteroid from which a sample was collected and brought back to Earth. It's  also the smallest asteroid ever visited.</td></tr>
+<tr><td class="catsym">28978 Ixion<br><span class="catPUA"></span></td><td>The first man to kill his kin. Jupiter showed him mercy, but then he violated hospitality by making love to a cloud shaped like Juno. (The cloud got pregnant. This is where centaurs come from.) As punishment for his crimes, the gods chained him to a wheel, lit him on fire and hucked him like a frisbee across the sky.<br>The object Ixion is a plutino and maaaaaybe a dwarf planet.</td></tr>
+<tr><td class="catsym">42355 Typhon<br><span class="catPUA"></span></td><td>The object is the first binary centaur to be discovered, together with its moon Echidna.<br>In myth, Typhon was a giant snakeman monster who tried to overthrow Jupiter as king of the world. Echidna was his giant monster lover who gave birth to loads of famous monsters. </td></tr>
 <tr><td class="catsym">65803 Didymos</td><td> The name is Greek for "twin". <br> It has a moonlet called "Dimorphos", meaning "Two forms." <br> NASA's DART mission is planning to test our planetary defense capabilities by ramming into Dimorphos as high speed in 2022. </td></tr>
 <tr><td class="catsym">99942 Apophis</td><td> A primordial serpent who sought to devour the sun. <br> When this asteroid was first discovered, measurements suggested there was a small chance it would impact the Earth. That's since been ruled out, but it will pass by incredibly close in 2029.</td></tr>
 <tr><td class="catsym">101955 Bennu</td><td> Named for a mythological bird associated with the creation of the world. <br> An Apollo-class object with an unstable orbit. It has a low chance of crashing into the Earth next century, but is more likely to spiral into the sun or crash into Venus. As of May 2021, a spacecraft has collected a sample and is bringing it back to Earth.</td></tr>
@@ -734,9 +689,30 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 
 
 
+## Constellations
+
+These aren't actually objects so much as they're regions of the sky.
 
 
-## Various Other Unicode Astro Symbols
+|Symbol|Name|Depicts|
+|:-:|:--|:--|
+| ♈ | aries | shep |
+| ♉ | taurus | coo |
+| ♊ | gemini | Castor and Pollux, sons of Leda, from the swan thing. |
+| ♋ | cancer | crab |
+| ♌ | leo | big cat |
+| ♍ | virgo | A gal. Sometimes specifically Astraea, the namesake of asteroid 5. |
+| ♎ | libra | Tiny constellation. Usually interpreted as scales held by virgo or the claws of Scorpio. |
+| ♏ | scorpius | scary bug. Even Orion is scare |
+| ♐ | sagittarius | a centaur maybe? |
+| ♑ | capricorn | goatfish (it was a thing in Babylon don't worry about it) |
+| ♒ | aquarius | waterbottle |
+| ♓︎ | pisces | two fish... tied together with a string |
+| ⛎︎ | Ophiuchus | dude wrasslin snek |
+
+
+
+## Various Other Astro Symbols
 
 - Symbols for the relative posititions of objects: <span class="catsym">☊☋☌☍⚹⚺⚻⚼⯳⯴⯵⯶⯷⯸<span class="catPUA"></span></span>
 - Some fortune-teller-types use "Lilith" and "Priapus" to refer to the Moon's perigee and apogee. (Nearest and farthest orbital points from the Earth.) <span class="catsym">⚸⯞<span class="catPUA"></span></span> Lilith is either a primordial demon or the first woman, sculpted from the same clay as Adam. Priapus is the god of beekeeping and big schlongers. 
@@ -747,13 +723,21 @@ Below, I've listed the first batch discovered, as well as some notable objects d
     - There's also  <span class="catsym">⯠ Cupido, ⯡ Hades, ⯢ Zeus, ⯣ Kronos, ⯤ Apollon, ⯥ Admetos, ⯦ Vulcanus, and ⯧ Poseidon </span>. 
         - Most of those are just alternate names for gods that already had a planet or asteroid named after them. I do have to admit, however, that the symbols for Vulcanus and Poseidon are snazzy enough that I've included them up above as alternate symbols for Vulcan and Neptune.
         - The odd one out here is Admetos. His story is that Apollo loved this guy a lot, and so when he learned that Admetus was soon fated to die, Apollo convinced the fates to let someone else die in his place. But oh no, his wife Alcestis is the one who volunteers to die! Ironic tragedy! It all works out in the end because Heracles stops by, wrassles Thanatos into submission, and brings Alcestis back to the world of the living.
+- Star and comet <span class="catsym">☆☄</span>. Eclipse and crescent thing <span class="catsym"><span class="catPUA"></span></span>
 
 
 
 
 
 
-
+<div class="catsym">
+&#xF5B6;
+&#xF5B7;
+&#xF5B8;
+&#xF5B9;
+&#xF5BA;
+&#xF5BB;
+</div>
 
 
 
@@ -766,7 +750,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <th>Namesake</th>
 </tr></thead>
 <tr>
-<td class="catsym">Sol<br>☉</td>
+<td class="catsym">Sol<br>☉<br><small>alt: ☀☼</small></td>
 <td>It's the sun.</td>
 <td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). Associated with gold by alchemists.</td>
 </tr>
@@ -803,7 +787,7 @@ And here is one to scale:
 https://www.heritagetype.com/pages/free-vintage-illustrations
 -->
 
-
+![](astrosymbols/dualscalesolarsystem_moons_nofont.svg)
 
 
 
