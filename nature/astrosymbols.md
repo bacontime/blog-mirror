@@ -196,10 +196,13 @@ And the following are a few of the objects most likely to be dwarf planets, whic
 
 
 
-## Planetary Mass Moons
+## The Moons
 
 Aka "satellite planets".
 The word "moon" originally just referred to Luna, the moon of earth, and comes from a Proto-Indo-European word related to timekeeping and the month.
+
+
+### Planetary Mass Moons
 
 Here are the moons bigger than Pluto, and which would at the very least be classified as dwarf planets were they not orbiting around another body (in fact, Titan and Ganymede are even bigger than Mercury):
 
@@ -266,7 +269,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 
 And here are a few more bigger than Ceres, big enough to probably count as dwarf planets, even if they aren't as dramatically large as the previous list.
 
-And you know, what the heck? Enceladus is teeny tiny, but it's interesting enough to include. So throw that one in the list too.
+And you know, what the heck? Enceladus is teeny tiny, but it's round and interesting enough to include. So throw that one in the list too.
 
 
 <table>
@@ -344,6 +347,41 @@ And you know, what the heck? Enceladus is teeny tiny, but it's interesting enoug
 <td>Ferryman of the dead. Son of Nyx, god of night. Sibling to Thanatos and Hypnos, personifications of death and sleep. Kind of a gnarly old dude.</td>
 </tr>
 </table>
+
+
+### Teeny Moons
+
+Mars' itty bitty teensy weeny moons are kinda famous. They're only a couple dozen kilometers wide, but they're notable for being so close to the surface of Mars that they are large in the Martian sky.
+
+<table>
+<thead><tr>
+<th>Moon</th>
+<th>Features</th>
+<th>Namesake</th>
+</tr></thead>
+<tr>
+<td class="catsym">Phobos<br>
+<span class="moonsym"></span>
+<br><small>(♂-I)</small></td>
+<td>Orbits close enough that it's being slowly pulled apart. Will likely crash into Mars or disintegrate into rings in about 40 millions years. </td>
+<td>Son of Mars and Venus. Personification of fear. Twin brother to Deimos.</td>
+</tr>
+<tr>
+<td class="catsym">Deimos<br>
+<span class="moonsym"></span>
+<br><small>(♂-II)</small></td>
+<td>Small enough that if you were standing on its surface, you could achieve escape velocity by jumpinh.</td>
+<td>Son of Mars and Venus. Personification of the dread that drives men mad before a battle.</td>
+</tr>
+</tr>
+</table>
+
+
+
+
+
+
+
 
 
 
