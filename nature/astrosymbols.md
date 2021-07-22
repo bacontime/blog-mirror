@@ -19,10 +19,13 @@ td{vertical-align: middle;}
   vertical-align: middle;
   line-height: 1;
   color: black;
-  font-weight:bold;
   }
 .catPUA {
     color:blue;
+}
+.moonsym {
+    font-family: moonsymbols;
+    color: red;
 }
 .catsubtitle {
     font-family: CatrinityWeb; 
@@ -45,7 +48,7 @@ td{vertical-align: middle;}
 }
 </style>
 
-<span style="font-family:moonsymbols;">RST IEGKCL mehdri auto O</span>
+<span class="moonsym">RST IEGKCL mehdri auto O</span>
 
 RST IEGKCL mehdri auto
 
@@ -86,7 +89,7 @@ RST IEGKCL mehdri auto
 </tr>
 <tr>
 <td class="catsym">Mars<br>♂</td>
-<td>Inside the habitable zone. Covered in rust. Icy poles. Second biggest mountain in the system. Inhabited by robots.</td>
+<td>Inside the habitable zone. Covered in rust. Icy poles. Biggest mountain in the system. Inhabited by robots.</td>
 <td>God of violent war and bloodshed! (Also, sometimes agriculture; he can be cool.) One time got stuck in a jar. Symbol is his shield and spear. In Mandarin, called "fire planet". Associated with iron by alchemists.</td>
 </tr>
 <tr>
@@ -214,42 +217,42 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Io<br>
-<span style="font-family:moonsymbols;">I</span>
+<span class="moonsym">I</span>
 <br><small>(♃-I)</small></td>
 <td>Least water of anywhere in the solar system. Sulfur atmosphere. Hundreds of volcanoes. Sulfur crust. Spews out plumes of sulfurous crud all the way into space. The crud is then accelerated by Jupiter's magnetic field to form the deadly radiation torus.</td>
 <td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a king.</td>
 </tr>
 <tr>
 <td class="catsym">Europa<br>
-<span style="font-family:moonsymbols;">E</span>
+<span class="moonsym">E</span>
 <small><br>(♃-II)</small></td>
 <td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
 </tr>
 <tr>
 <td class="catsym"><small>Ganymede</small><br>
-<span style="font-family:moonsymbols;">G</span>
+<span class="moonsym">G</span>
 <small><br>(♃-III)</small></td>
 <td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
 <td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer and boytoy.</td>
 </tr>
 <tr>
 <td class="catsym">Callisto<br>
-<span style="font-family:moonsymbols;">K</span>
+<span class="moonsym">K</span>
 <small><br>(♃-IV)</small></td>
 <td>Lots of craters. Outside of the deadly radiation donut, so might be the best place near Jupiter to set up a human base. (Also, might have subterranean oceans. That's apparently pretty common in space.)</td>
 <td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
 </tr>
 <tr>
 <td class="catsym">Titan<br>
-<span style="font-family:moonsymbols;">T</span>
+<span class="moonsym">T</span>
 <small><br>(♄-VI)</small></td>
 <td>2nd biggest moon. Thicker atmosphere than Earth's. Very hazy. Only place besides Earth with surface liquid (it's methane though), and thus the only place besides Earth to have whirlpools. Also might have an ammonia-water ocean underground, which erupts from cryovolcanoes. Soft crunchy surface. Permanent polar hurricances.<!--Victor of a clash between moons.--></td>
 <td>Precursors to the Olympian gods. Not any specific titan, though.</td>
 </tr>
 <tr>
 <td class="catsym">Triton<br>
-<span style="font-family:moonsymbols;">R</span>
+<span class="moonsym">R</span>
 <br><small>(♆-I)</small></td>
 <td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryvolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
 <td>Son of Neptune. Merman with a magic conch.</td>
@@ -274,63 +277,63 @@ And you know, what the heck? Enceladus is teeny tiny, but it's interesting enoug
 </tr></thead>
 <tr>
 <td class="catsym">Enceladus<br>
-<span style="font-family:moonsymbols;">e</span>
+<span class="moonsym">e</span>
 <br><small>(♄-II)</small></td>
 <td>Clean, reflective ball of ice.  Relatively hot tiger stripes detected under the south pole. The south pole shoots out water jets which turn into a blue icy ring around saturn.</td>
 <td>Giant son of Gaia, and opponent of Athena.</td>
 </tr>
 <tr>
 <td class="catsym">Tethys<br>
-<span style="font-family:moonsymbols;">h</span>
+<span class="moonsym">h</span>
 <br><small>(♃-III)</small></td>
 <td>Somewhat bigger and slightly less shiny than Enceladus. Almost entirely made of ice. Faintly bluish stripe.</td>
 <td>Titan mother of thousands of minor ocean and river gods.</td>
 </tr>
 <tr>
 <td class="catsym">Dione<br>
-<span style="font-family:moonsymbols;">d</span>
+<span class="moonsym">d</span>
 <br><small>(♃-IV)</small></td>
 <td>Networks of icy cliffs. <!--Possible subsurface liquid oceans? Hard to find mention of that outside wikipedia though?--> Resonant with Enceladus and its features might be more "mature" versions of that little moon's. Also, constantly bombarded with icey powder from Enceladus.</td>
 <td>Titan. Mother of Aphrodite. (sometimes, when she isn't birthed from seafoam)</td>
 </tr>
 <tr>
 <td class="catsym">Rhea<br>
-<span style="font-family:moonsymbols;">r</span><br>
+<span class="moonsym">r</span><br>
 <small>(♃-V)</small></td>
 <td>Described by NASA as a "dirty snowball". Has it's own tiny little rings. More cratered than the other ice moons of saturn.</td>
 <td>Titan. Wife of Saturn who rescued baby Jupiter from being eaten.</td>
 </tr>
 <tr>
 <td class="catsym">Iapetus<br>
-<span style="font-family:moonsymbols;">i</span>
+<span class="moonsym">i</span>
 <br><small>(♃-VIII)</small></td>
 <td>Tilted orbit around saturn. It's the only one of Saturn's moons with a good view of the rings. Walnut shape from huge equitorial ridge. One bright side and one dark side. </td>
 <td>Titan, brother of Saturn. Father of Atlas and Prometheus. Sometimes later identified with one of Noah's sons?</td>
 </tr>
 <tr>
 <td class="catsym">Ariel<br>
-<span style="font-family:moonsymbols;">a</span>
+<span class="moonsym">a</span>
 <br><small>(♅-I)</small></td>
 <td>Relatively bright and porous surface.</td>
 <td>Slyph with power over the winds, bound to serve the magician Prospero.</td>
 </tr>
 <tr>
 <td class="catsym">Umbriel<br>
-<span style="font-family:moonsymbols;">u</span>
+<span class="moonsym">u</span>
 <br><small>(♅-II)</small></td>
 <td>Darkest of the moons of Uranus</td>
 <td>Dusky melancholy gnome.</td>
 </tr>
 <tr>
 <td class="catsym">Titania<br>
-<span style="font-family:moonsymbols;">t</span>
+<span class="moonsym">t</span>
 <br><small>(♅-III)</small></td>
 <td>Enormous frost-lined canyons.</td>
 <td>Queen of the Fey</td>
 </tr>
 <tr>
 <td class="catsym">Oberon<br>
-<span style="font-family:moonsymbols;">o</span>
+<span class="moonsym">o</span>
 <br><small>(♅-IV)</small></td>
 <td>Scarred and cratered surface.</td>
 <td>King of the Fey</td>
@@ -666,7 +669,9 @@ Ceres is the largest of the asteroids and the first discovered. It's now conside
 
 
 
-## Asteroids
+## The Minor Planets
+
+These are now called "small solar system bodies".
 
 People initially thought these were planets and gave them symbols. Around the discovery of 16 Psyche is when astronomers realized there are too many of the dang things to dote on each one individually.
 
@@ -706,11 +711,13 @@ People initially thought these were planets and gave them symbols. Around the di
 4 Vesta
 ⚶	
 
+" Around the time this asteroid was discovered, people realized there's tons of the things and started numbering them instead of giving them unique names and symbols"
+
 
 - <span class="catsym">1 Ceres ⚳</span>: God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
-- <span class="catsym">2 Pallas ⚴</span>: Athena and her spear. A lot of other mythological characters are named Pallas as well.
+- <span class="catsym">2 Pallas ⚴</span>: Athena and her spear. A lot of other mythological characters are named Pallas as well. The asteroid is is the third largest, as dark as asphalt, and on a highly tilted orbit.
 - <span class="catsym">3 Juno ⚵</span>: God of marriage and childbirth. Sometimes associated with the moon.
-- <span class="catsym">4 Vesta ⚶</span>: God of hearth and home. This asteroid is the second largest, and has the tallest mountain in the solar system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)
+- <span class="catsym">4 Vesta ⚶</span>: God of hearth and home. This asteroid is the second most massive, and is a surviving rocky protoplanet, and has the tallest mountain in the solar system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.) The only surviving rocky protoplanet, like the frozen embryo of a terrestrial world. Shattered fragments of Vesta have fallen to Earth as meteorites, remnants of a massive colission a billion years ago. 
 - <span class="catsym">5 Astraea <span class="catPUA"></span>⯙</span>: God of justice, innocence, purity, and precision.
 - <span class="catsym">6 Hebe <span class="catPUA"></span></span>: God of youth and forgiveness, Cupbearer to the gods.
 - <span class="catsym">7 Iris <span class="catPUA"></span></span>: God of rainbows. Messenger of the gods.
@@ -722,12 +729,12 @@ People initially thought these were planets and gave them symbols. Around the di
 - <span class="catsym">13 Egeria <span class="catPUA"></span></span>: Nymph who gave laws and to early Rome. 
 - <span class="catsym">14 Irene <span class="catPUA"></span></span>: Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis
 - <span class="catsym">15 Eunomia <span class="catPUA"></span></span>: Personification of Order. God of law, legistlation, and pastures.
-- <span class="catsym">16 Psyche <span class="catPUA"></span></span>: God of the soul. A beautiful mortal who had a romance with Cupid and was tormented by his mother Venus. Around the time this asteroid was discovered, people realized there's tons of the things and started numbering them instead of giving them unique names and symbols.
+- <span class="catsym">16 Psyche <span class="catPUA"></span></span>: God of the soul. A beautiful mortal who married Cupid and was tormented by his mother Venus. The symbol is supposed to be a butterfly's wing. The asteroid is thought to be the exposed core of a shattered protoplanet, and there's a plan to visit it in 2026. (Mission tagline: "Journey to a Metal World")
 - <span class="catsym">17 Thetis <span class="catPUA"></span></span>: Sea nymph, mother of Achilles
 - <span class="catsym">18 Melpomene <span class="catPUA"></span></span>: Muse of the Chorus and Tregedy.
 - <span class="catsym">19 Fortuna <span class="catPUA"></span></span>: God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.
 - <span class="catsym">20 Massalia</span>: Named after a city.
-- <span class="catsym">21 Lutetia</span>: Named after a city.
+- <span class="catsym">21 Lutetia</span>: Named after a city. One of the densest asteroids.
 - <span class="catsym">22 Kalliope</span>: Muse of epic poetry. Chief of the Muses. Turned some uppity mortals into songbirds.
 - <span class="catsym">23 Thalia</span>: Muse of comedy.
 - <span class="catsym">24 Themis</span>: Titan of divine law. Second wife of Jupiter.
@@ -744,13 +751,18 @@ People initially thought these were planets and gave them symbols. Around the di
 - <span class="catsym">37 Fides <span class="catPUA"></span></span>: God of trust and reliability. Astronomers pretty much completely gave up on the asteroid symbols past this point.
 - <span class="catsym">38 Leda</span>: Spartan queen. Made love to swan-Jupiter, and gave birth to an egg from which hatched Helen of Troy, and the twins Castor and Pollux.
 - ...
-- <span class="catsym">243 Ida</span>: A nymph who nursed Jupiter. Also the name of the mountain where Jupiter was hidden away. The asteroid was the first discovered with its own tiny moon.
+- <span class="catsym">243 Ida</span>: A nymph who nursed Jupiter. Also the name of the mountain where baby Jupiter was hidden away. The asteroid was the first discovered to have its own tiny asteroid moon. The moon is named "Dactyl", after a group of weird little forge fellas that lived on Mount Ida and protected Jupiter. 
 - <span class="catsym">253 Mathilde</span>: Named after an Astronomer's wife. The asteroid was visited by a probe on its way to 433 Eros, and scientists were surprised to see that 253 Mathilde is a loosely packed pile of rubble, more crater than stone.
-- <span class="catsym">433 Eros</span>: Aka Cupid. God of erotic desire. Had a romance with Psyche. This asteroid was the first near-earth asteroid to be discovered. It was also the first asteroid people put an orbiter around, and the first asteroid to be landed on.
-- <span class="catsym">25143 Itokawa</span>: Named for the father of Japanese rocketry. Shaped like a lumpy sea otter. This was the first asteroid from which a sample was collected and brought back to Earth. It's  also the smallest asteroid ever visited.
+- <span class="catsym">433 Eros</span>: Aka Cupid. God of erotic desire. Had a romance with Psyche. This asteroid was the first near-earth asteroid to be discovered. It was also the first asteroid people put an orbiter around, and the first asteroid to be landed on. Rich in precious metals. About as big as the asteroid that wiped out the dinos, and has high odds of slamming into the earth in the very distant future.
+- <span class="catsym">2060 Chiron ⚷</span>: The wisest of the centaurs. Trainer of heroes. Inventor of botany. The object Chiron was the first recognized example of the astronomical centaurs, a group of objects like asteroids but which orbit further out between the gas giants. They're so named because they seem to resemble a combination of asteroid and comet.
+- <span class="catsym">10199 Chariklo</span>: A nymph, wife to the centaur Chiron. This object is the largest (yet found as of 2019) of the astronomical centaurs, and the smallest object known to have rings.
+- <span class="catsym">25143 Itokawa</span>: Named for the father of Japanese rocketry. Rubble pile shaped like a lumpy sea otter. This was the first asteroid from which a sample was collected and brought back to Earth. It's  also the smallest asteroid ever visited.
 
 
 
+2005 VX3: Highly eccentric. Possibly a dormant comet.
+99942 Apophis
+2019 OK
 
 
 
@@ -758,50 +770,76 @@ People initially thought these were planets and gave them symbols. Around the di
 
 <span class="catsym">1 Ceres ⚳</span>
 : God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
+
 <span class="catsym">2 Pallas ⚴</span>
 : Athena and her spear. A lot of other mythological characters are named Pallas as well.
+
 <span class="catsym">3 Juno ⚵</span>
 : God of marriage and childbirth. Sometimes associated with the moon.
+
 <span class="catsym">4 Vesta ⚶</span>
-: God of hearth and home. This asteroid has the tallest mountain in the system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)
+: God of hearth and home. 
+: This asteroid has the tallest mountain in the system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)
+
 <span class="catsym">5 Astraea <span class="catPUA"></span>⯙</span>
 : God of justice, innocence, purity, and precision.
+
 <span class="catsym">6 Hebe <span class="catPUA"></span></span>
 : God of youth and forgiveness, Cupbearer to the gods.
+
 <span class="catsym">7 Iris <span class="catPUA"></span></span>
 : God of rainbows. Messenger of the gods.
+
 <span class="catsym">8 Flora <span class="catPUA"></span></span>
 : God of flowers and springtime.
+
 <span class="catsym">9 Metis <span class="catPUA"></span></span>
 : Titan of wisdom and skilled council. Mother of Athena.
+
 <span class="catsym">10 Hygiea <span class="catPUA"></span>⯚</span>
-: God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me.
+: God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. 
+
+: I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me.
+
 <span class="catsym">11 Parthenope <span class="catPUA"></span></span>
 : Siren Either failed to lure Odysseus or was turned into a city by Jupiter.
+
 <span class="catsym">12 Victoria <span class="catPUA"></span></span>
 : God of victory.
+
 <span class="catsym">13 Egeria <span class="catPUA"></span></span>
 : Nymph who gave laws and to early Rome. 
+
 <span class="catsym">14 Irene <span class="catPUA"></span></span>
 : Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis, titan of divine law and second wife of Jupiter.
+
 <span class="catsym">15 Eunomia <span class="catPUA"></span></span>
 : Personification of Order. God of law, legistlation, and pastures.
+
 <span class="catsym">16 Psyche <span class="catPUA"></span></span>
 : God of the soul. A beautiful mortal who had a romance with Cupid and was tormented by his mother Venus. Around the time this asteroid was discovered, people realized there's tons of the things and started numbering them.
+
 <span class="catsym">17 Thetis <span class="catPUA"></span></span>
 : Sea nymph, mother of Achilles
+
 <span class="catsym">18 Melpomene <span class="catPUA"></span></span>
 : Muse of the Chorus and Tregedy.
+
 <span class="catsym">19 Fortuna <span class="catPUA"></span></span>
 : God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.
+
 <span class="catsym">26 Proserpina <span class="catPUA"></span>⯘</span>
 : Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.
+
 <span class="catsym">28 Bellona <span class="catPUA"></span></span>
 : Wife of Mars. Also a god of a crazed bloodthirsty war. Likes to ride into battle with her hubby and has a special talent when it comes to destroying entire cities.
+
 <span class="catsym">29 Amphitrite <span class="catPUA"></span></span>
 : Neptune's wife. God of the sea and salt water.
+
 <span class="catsym">35 Leukothea <span class="catPUA"></span></span>
 : A nymph or queen who leapt into the sea. The symbol is an old-timey lighthouse.
+
 <span class="catsym">37 Fides <span class="catPUA"></span></span>
 : God of trust and reliability, 
 
@@ -809,52 +847,76 @@ People initially thought these were planets and gave them symbols. Around the di
 
 
 
+
 1 Ceres ⚳
 : God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
+
 2 Pallas ⚴
 : Athena and her spear. A lot of other mythological characters are named Pallas as well.
+
 3 Juno ⚵
 : God of marriage and childbirth. Sometimes associated with the moon.
+
 4 Vesta ⚶
 : God of hearth and home. This asteroid has the tallest mountain in the system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.)
+
 5 Astraea <span class="catPUA"></span>⯙
 : God of justice, innocence, purity, and precision.
+
 6 Hebe <span class="catPUA"></span>
 : God of youth and forgiveness, Cupbearer to the gods.
+
 7 Iris <span class="catPUA"></span>
 : God of rainbows. Messenger of the gods.
+
 8 Flora <span class="catPUA"></span>
 : God of flowers and springtime.
+
 9 Metis <span class="catPUA"></span>
 : Titan of wisdom and skilled council. Mother of Athena.
+
 10 Hygiea <span class="catPUA"></span>⯚
 : God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me.
+
 11 Parthenope <span class="catPUA"></span>
 : Siren Either failed to lure Odysseus or was turned into a city by Jupiter.
+
 12 Victoria <span class="catPUA"></span>
 : God of victory.
+
 13 Egeria <span class="catPUA"></span>
 : Nymph who gave laws and to early Rome. 
+
 14 Irene <span class="catPUA"></span>
 : Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis, titan of divine law and second wife of Jupiter.
+
 15 Eunomia <span class="catPUA"></span>
 : Personification of Order. God of law, legistlation, and pastures.
+
 16 Psyche <span class="catPUA"></span>
 : God of the soul. A beautiful mortal who had a romance with Cupid and was tormented by his mother Venus. Around the time this asteroid was discovered, people realized there's tons of the things and started numbering them.
+
 17 Thetis <span class="catPUA"></span>
 : Sea nymph, mother of Achilles
+
 18 Melpomene <span class="catPUA"></span>
 : Muse of the Chorus and Tregedy.
+
 19 Fortuna <span class="catPUA"></span>
 : God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.
+
 26 Proserpina <span class="catPUA"></span>⯘
 : Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.
+
 28 Bellona <span class="catPUA"></span>
 : Wife of Mars. Also a god of a crazed bloodthirsty war. Likes to ride into battle with her hubby and has a special talent when it comes to destroying entire cities.
+
 29 Amphitrite <span class="catPUA"></span>
 : Neptune's wife. God of the sea and salt water.
+
 35 Leukothea <span class="catPUA"></span>
 : A nymph or queen who leapt into the sea. The symbol is an old-timey lighthouse.
+
 37 Fides <span class="catPUA"></span>
 : God of trust and reliability, 
 
