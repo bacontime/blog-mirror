@@ -715,15 +715,15 @@ People initially thought these were planets and gave them symbols. Around the di
 
 
 - <span class="catsym">1 Ceres ⚳</span>: God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
-- <span class="catsym">2 Pallas ⚴</span>: Athena and her spear. A lot of other mythological characters are named Pallas as well. The asteroid is is the third largest, as dark as asphalt, and on a highly tilted orbit.
+- <span class="catsym">2 Pallas ⚴</span>: Athena and her spear. A lot of other mythological characters are named Pallas as well. The asteroid is is the third most massive, as dark as asphalt, and on a highly tilted orbit.
 - <span class="catsym">3 Juno ⚵</span>: God of marriage and childbirth. Sometimes associated with the moon.
-- <span class="catsym">4 Vesta ⚶</span>: God of hearth and home. This asteroid is the second most massive, and is a surviving rocky protoplanet, and has the tallest mountain in the solar system. (Though that seems like cheating to me. Vesta isn't even big enough to make itself round; of course it's going to have some lumps.) The only surviving rocky protoplanet, like the frozen embryo of a terrestrial world. Shattered fragments of Vesta have fallen to Earth as meteorites, remnants of a massive colission a billion years ago. 
+- <span class="catsym">4 Vesta ⚶</span>: God of hearth and home. This asteroid is the second most massive, and is a surviving rocky protoplanet, like the frozen embryo of a terrestrial world. About a billion years ago, it suffered from two giant impacts. The splash from one of these impacts gave Vesta a mountain to rival Olympus Mons. And the debris from the impact was scattered throughout the solar system (5% of meteorites that hit Earth are chunks of Vesta).
 - <span class="catsym">5 Astraea <span class="catPUA"></span>⯙</span>: God of justice, innocence, purity, and precision.
 - <span class="catsym">6 Hebe <span class="catPUA"></span></span>: God of youth and forgiveness, Cupbearer to the gods.
 - <span class="catsym">7 Iris <span class="catPUA"></span></span>: God of rainbows. Messenger of the gods.
 - <span class="catsym">8 Flora <span class="catPUA"></span></span>: God of flowers and springtime.
 - <span class="catsym">9 Metis <span class="catPUA"></span></span>: Titan of wisdom and skilled council. Mother of Athena.
-- <span class="catsym">10 Hygiea <span class="catPUA"></span>⯚</span>: God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me.
+- <span class="catsym">10 Hygiea <span class="catPUA"></span>⯚</span>: God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me. 4th largest asteroid.
 - <span class="catsym">11 Parthenope <span class="catPUA"></span></span>: Siren Either failed to lure Odysseus or was turned into a city by Jupiter.
 - <span class="catsym">12 Victoria <span class="catPUA"></span></span>: God of victory.
 - <span class="catsym">13 Egeria <span class="catPUA"></span></span>: Nymph who gave laws and to early Rome. 
@@ -754,15 +754,29 @@ People initially thought these were planets and gave them symbols. Around the di
 - <span class="catsym">243 Ida</span>: A nymph who nursed Jupiter. Also the name of the mountain where baby Jupiter was hidden away. The asteroid was the first discovered to have its own tiny asteroid moon. The moon is named "Dactyl", after a group of weird little forge fellas that lived on Mount Ida and protected Jupiter. 
 - <span class="catsym">253 Mathilde</span>: Named after an Astronomer's wife. The asteroid was visited by a probe on its way to 433 Eros, and scientists were surprised to see that 253 Mathilde is a loosely packed pile of rubble, more crater than stone.
 - <span class="catsym">433 Eros</span>: Aka Cupid. God of erotic desire. Had a romance with Psyche. This asteroid was the first near-earth asteroid to be discovered. It was also the first asteroid people put an orbiter around, and the first asteroid to be landed on. Rich in precious metals. About as big as the asteroid that wiped out the dinos, and has high odds of slamming into the earth in the very distant future.
+- <span class="catsym">624 Hektor</span>: A mythological Trojan Prince. The largest of the Jupiter Trojans, which are similar to asteroids, but orbiting in Jupiter's Lagrange points. It's extremely elongated, and has a little moon name Skamandrios, after the mythological Hektor's son.
+- <span class="catsym">704 Interamnia</span>: Named after a city. 5th largest asteroid but poorly studied.
+- <span class="catsym">1862 Apollo</span>: God of the sun, fortune telling, and all sorts of stuff. This asteroid was the first discovered example and namesake of the Apollo-class asteroids, asteroids whose orbits cross Earth's. (If you remember the meteor that hit Russia back in 2013, that came from an Apollo-class object.)
 - <span class="catsym">2060 Chiron ⚷</span>: The wisest of the centaurs. Trainer of heroes. Inventor of botany. The object Chiron was the first recognized example of the astronomical centaurs, a group of objects like asteroids but which orbit further out between the gas giants. They're so named because they seem to resemble a combination of asteroid and comet.
+- <span class="catsym">3200 Phaethon</span>: Son of Helios, the sun god. Took his dad's sun chariot for a joy ride, almost destroyed the world, and had to be struck down with a lightning bolt by Jupiter. This Apollo-class asteroid is so named because it flies closer to the sun than any other asteroid.
 - <span class="catsym">10199 Chariklo</span>: A nymph, wife to the centaur Chiron. This object is the largest (yet found as of 2019) of the astronomical centaurs, and the smallest object known to have rings.
 - <span class="catsym">25143 Itokawa</span>: Named for the father of Japanese rocketry. Rubble pile shaped like a lumpy sea otter. This was the first asteroid from which a sample was collected and brought back to Earth. It's  also the smallest asteroid ever visited.
+- <span class="catsym">65803 Didymos</span>: The name is Greek for "twin". It has a moonlet called "Dimorphos", meaning "Two forms." NASA's DART mission is planning to test our planetary defense capabilities by ramming into Dimorphos as high speed in 2022. 
+- <span class="catsym">99942 Apophis</span>: A primordial serpent who sought to devour the sun. When this asteroid was first discovered, measurements suggested there was a small chance it would impact the Earth. That's since been ruled out, but it will pass by incredibly close in 2029.
 
 
 
-2005 VX3: Highly eccentric. Possibly a dormant comet.
-99942 Apophis
-2019 OK
+<!--2005 VX3: Highly eccentric. Possibly a dormant comet.
+2019 OK-->
+
+
+
+## Other Whatsits
+
+- <span class="catsym">ʻOumuamua</span>: The first known instellar object to visit the Solar System. It's name means something like "scout". Probably not aliens, but for a while there, that wasn't a completely ludicrous hypothesis.
+
+
+
 
 
 
@@ -1001,6 +1015,7 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
 - https://nineplanets.org/hypothetical-planets/#vulcan
 - https://solarsystem.nasa.gov/resources/682/space-tourism-posters/
 - https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=24
+- https://minorplanetcenter.net//iau/lists/MPNames.html
 
 <!--https://web.archive.org/web/20110429095406/http://www.tongva.com/-->
 
