@@ -696,17 +696,17 @@ These aren't actually objects so much as they're regions of the sky.
 
 |Symbol|Name|Depicts|
 |:-:|:--|:--|
-| ♈ | aries | shep |
-| ♉ | taurus | coo |
-| ♊ | gemini | Castor and Pollux, sons of Leda, from the swan thing. |
-| ♋ | cancer | crab |
-| ♌ | leo | big cat |
-| ♍ | virgo | A gal. Sometimes specifically Astraea, the namesake of asteroid 5. |
-| ♎ | libra | Tiny constellation. Usually interpreted as scales held by virgo or the claws of Scorpio. |
-| ♏ | scorpius | scary bug. Even Orion is scare |
-| ♐ | sagittarius | a centaur maybe? |
-| ♑ | capricorn | goatfish (it was a thing in Babylon don't worry about it) |
-| ♒ | aquarius | waterbottle |
+| ♈︎ | aries | shep |
+| ♉︎ | taurus | coo |
+| ♊︎ | gemini | Castor and Pollux, sons of Leda, from the swan thing. |
+| ♋︎ | cancer | crab |
+| ♌︎ | leo | big cat |
+| ♍︎ | virgo | A gal. Sometimes specifically Astraea, the namesake of asteroid 5. |
+| ♎︎ | libra | Tiny constellation. Usually interpreted as scales held by virgo or the claws of Scorpio. |
+| ♏︎ | scorpius | scary bug. Even Orion is scare |
+| ♐︎ | sagittarius | a centaur maybe? |
+| ♑︎ | capricorn | goatfish (it was a thing in Babylon don't worry about it) |
+| ♒︎ | aquarius | waterbottle |
 | ♓︎ | pisces | two fish... tied together with a string |
 | ⛎︎ | Ophiuchus | dude wrasslin snek |
 
