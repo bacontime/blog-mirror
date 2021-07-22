@@ -458,7 +458,6 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 | ♑ | capricorn |  |
 | ♒ | aquarius |  |
 | ⛎ | Ophiuchus |  |
-| ⚷ | Chiron | smart centaur dude.  |
 | ⚸ ⯞ | Lilith |  |
 | ⯗ | Transpluto |  |
 | ⯛ | Pholus | smart centaur |
@@ -467,8 +466,6 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 | ⯠ | Cupido | eroptic love, desire |
 | ⯤ | Apollon | sunlight, oracles, musice, herds |
 | ⯥ | Admetos | untamed, some king dude, herdsman |
-| ⯰⯱ | Eris | strife, discord |
-| ⯲ | Sedna | sea, sea-mammals, ice, meat and bone, knives |
 
 
 ## Other Astronomical Symbols
