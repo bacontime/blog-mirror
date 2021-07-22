@@ -851,6 +851,8 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
     - [Wikipedia - List of gravitationally rounded objects of the Solar System](https://en.wikipedia.org/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System)
     - [JPL Small-Body Database Browser](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=24)
     - [IAU Minor PLanet Center](https://minorplanetcenter.net//iau/lists/MPNames.html)
+    - [Astrum youtube channel](https://www.youtube.com/c/astrumspace/videos)
+    - [Anton Petrov youtube channel](https://www.youtube.com/c/whatdamath/videos)
 - Symbols:
     - [Wikipedia - Astronomical Symbols](https://en.wikipedia.org/wiki/Astronomical_symbols) has all of the official ones.
     - [Wikimedia - Asteroid Symbols](https://commons.wikimedia.org/wiki/Asteroid_symbols)
@@ -860,7 +862,7 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
 https://www.unicode.org/charts/nameslist/n_2600.html), [Unicode2](
 https://www.unicode.org/charts/nameslist/n_2B00.html), [Catrinity](http://catrinity-font.de/downloads/CatrinityPrivateUseArea.pdf). (ctrl+f "astro")
     - [The janky font I made for moon symbols.](https://bacontime.github.io/moonsymbols.ttf)
-- Namesakes of the planets:
+- Namesakes:
     - [Overly Sarcastic - Miscellaneous Myths](https://www.youtube.com/playlist?list=PLDb22nlVXGgeoPb-HBWwzEeoAwDvckSrC)
     - [Quaoar faq](http://www.chadtrujillo.com/quaoar/)
 - Other:
