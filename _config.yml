@@ -14,3 +14,4 @@ compress_html:
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
