@@ -400,7 +400,7 @@ Mars' itty bitty teensy weeny moons are kinda famous. They're only a couple doze
 </tr>
 <tr>
 <td class="catsym">Vulcan<br><span class="catPUA">⯦</span></td>
-<td>Urbain Le Verrier famously predicted the existence of Neptune through irregularities in the orbit of Uranus. He also predicted the existence of Vulcan through the irregularities in the orbit of Mercury. Alas, Vulcan doesn't exist. Rather, the irregularities are explained by general relativity.</td>
+<td>Urbain Le Verrier famously predicted the existence of Neptune through irregularities in the orbit of Uranus. He also predicted the existence of Vulcan through the irregularities in the orbit of Mercury. Alas, Vulcan doesn't exist. Rather, the irregularities are explained by general relativity. However, the space between the sun and Mercury is surprisingly empty compared to what we see in other systems. So maybe such a planet did exist long ago before spiraling into the sun.</td>
 <td>God of fire, the forge, volcanoes, and deserts. Frought marriage with Venus.</td>
 </tr>
 </table>
@@ -764,17 +764,20 @@ People initially thought these were planets and gave them symbols. Around the di
 - <span class="catsym">25143 Itokawa</span>: Named for the father of Japanese rocketry. Rubble pile shaped like a lumpy sea otter. This was the first asteroid from which a sample was collected and brought back to Earth. It's  also the smallest asteroid ever visited.
 - <span class="catsym">65803 Didymos</span>: The name is Greek for "twin". It has a moonlet called "Dimorphos", meaning "Two forms." NASA's DART mission is planning to test our planetary defense capabilities by ramming into Dimorphos as high speed in 2022. 
 - <span class="catsym">99942 Apophis</span>: A primordial serpent who sought to devour the sun. When this asteroid was first discovered, measurements suggested there was a small chance it would impact the Earth. That's since been ruled out, but it will pass by incredibly close in 2029.
+- <span class="catsym">99942 Apophis</span>: A primordial serpent who sought to devour the sun. When this asteroid was first discovered, measurements suggested there was a small chance it would impact the Earth. That's since been ruled out, but it will pass by incredibly close in 2029.
+- <span class="catsym">101955 Bennu</span>: Named for a mythological bird associated with the creation of the world. An Apollo-class object with an unstable orbit. It has a low chance of crashing into the Earth next century, but is more likely to spiral into the sun or crash into Venus. As of May 2021, a spacecraft has collected a sample and is bringing it back to Earth.
 
-
+101955 Bennu
 
 <!--2005 VX3: Highly eccentric. Possibly a dormant comet.
-2019 OK-->
+https://en.wikipedia.org/wiki/514107_Ka%CA%BBepaoka%CA%BBawela-->
 
 
 
 ## Other Whatsits
 
 - <span class="catsym">ʻOumuamua</span>: The first known instellar object to visit the Solar System. It's name means something like "scout". Probably not aliens, but for a while there, that wasn't a completely ludicrous hypothesis.
+- <span class="catsym">2019 OK</span>: An Apollo-class object that passed close to the Earth in 2019. Because of the angle of its orbit, we had very little warning about its approach. The name is just based on the date of its discovery, and doesn't follow the normal asteroid naming pattern.
 
 
 
