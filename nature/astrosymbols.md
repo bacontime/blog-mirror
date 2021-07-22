@@ -93,12 +93,12 @@ RST IEGKCL mehdri auto
 <td>God of violent war and bloodshed! (Also, sometimes agriculture; he can be cool.) One time got stuck in a jar. Symbol is his shield and spear. In Mandarin, called "fire planet". Associated with iron by alchemists.</td>
 </tr>
 <tr>
-<td class="catsym">Jupiter<br>♃<br><small>alt: ⯢</small></td>
+<td class="catsym">Jupiter<br>♃<br></td>
 <td>Huge; like, really so big it's hard to believe. Bombarded by comets (might protect us from them). Has moons so big they're basically planets. Giant eternal storms. Band of intense radiation in a plasma torus around the equator.</td>
 <td>King of the Gods. God of the sky and lightning. Adulterous creep.  In Mandarin, called "wood planet". Associated with tin by alchemists.</td>
 </tr>
 <tr>
-<td class="catsym">Saturn<br>♄<br><small>alt: ⯣</small></td>
+<td class="catsym">Saturn<br>♄<br></td>
 <td>Another stormy giant. Weird polar hexagonal storm. Magnificent rings.</td>
 <td>Titan of wealth, agriculture, cycles of renewal, and time. A horrible father, but a pretty good ruler of the world. Overthrown by his son Jupiter. Symbol is his scythe.  In Mandarin, called "earth planet". Associated with lead by alchemists.</td>
 </tr>
@@ -137,7 +137,7 @@ RST IEGKCL mehdri auto
 <td>God of the harvest, agriculture, and especially grain. Hates pigs. Winter happens when her daughter goes to the underworld. Guards the barrier between life and death?</td>
 </tr>
 <tr>
-<td class="catsym">Pluto<br>♇<br><small>alt: ⯓⯔⯕⯖⯡</small></td>
+<td class="catsym">Pluto<br>♇<br><small>alt: ⯓⯔⯕⯖</small></td>
 <td>Widest (but not most massive) object in the Kuiper belt. Weird tilted orbit.  Big heart-shaped plain of solid nitrogen the size of Texas. Equitorial dark spots made of tholins (space tar), the biggest of which is called "Cthulhu Macula". Mountains made of water ice. Thin hazy atmosphere. May have had liquid nitrogen lakes and subsurface water oceans in the past. (And yes, the unicode standard includes 5 variant symbols for Pluto.)</td>
 <td>Ruler of the underworld. God of mineral wealth. Kidnapped Ceres' daughter, who must now stay in the underworld each winter because she ate an underworldly pomegranate.</td>
 </tr>
@@ -152,7 +152,7 @@ RST IEGKCL mehdri auto
 <td>Lead god of the birdman cult. Associated with a proxy-war-like ritual involving a deadly race to collect the first tern egg of the season.</td>
 </tr>
 <tr>
-<td class="catsym">Eris<br>⯰<br><small>(alt: ⯱)</small></td>
+<td class="catsym">Eris<br>⯰<br><small>alt: ⯱</small></td>
 <td>Incredibly distant from the Sun. Ever slightly more massive than Pluto, which led to the controversial decision to reclassify Pluto as Dwarf Planet. </td>
 <td>God of strife and discord. Kickstarted the Trojan War with the apple incident. </td>
 </tr>
@@ -252,7 +252,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 <span class="moonsym">T</span>
 <small><br>(♄-VI)</small></td>
 <td>2nd biggest moon. Thicker atmosphere than Earth's. Very hazy. Only place besides Earth with surface liquid (it's methane though), and thus the only place besides Earth to have whirlpools. Also might have an ammonia-water ocean underground, which erupts from cryovolcanoes. Soft crunchy surface. Permanent polar hurricances.<!--Victor of a clash between moons.--></td>
-<td>Precursors to the Olympian gods. Not any specific titan, though.</td>
+<td>Precursors to the Olympian gods. Not any specific titan, though. The other moons of Saturn are named after specific titans.</td>
 </tr>
 <tr>
 <td class="catsym">Triton<br>
@@ -445,7 +445,6 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 | ☀☉☼ | sun | gold |
 | ☄ | comet |  |
 | ☆ | star |  |
-| ♇⯓⯔⯕⯖ ⯡ | pluto | dead, riches, underworld,  |
 | ♈ | aries |  |
 | ♉ | taurus |  |
 | ♊ | gemini |  |
@@ -458,14 +457,6 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 | ♑ | capricorn |  |
 | ♒ | aquarius |  |
 | ⛎ | Ophiuchus |  |
-| ⚸ ⯞ | Lilith |  |
-| ⯗ | Transpluto |  |
-| ⯛ | Pholus | smart centaur |
-| ⯜ | Nessus | famous centaur with poison blood |
-| ⯟ | Arta | name means golden |
-| ⯠ | Cupido | eroptic love, desire |
-| ⯤ | Apollon | sunlight, oracles, musice, herds |
-| ⯥ | Admetos | untamed, some king dude, herdsman |
 
 
 ## Other Astronomical Symbols
@@ -477,7 +468,6 @@ Some are official unicode, but some are specific to Catrinity.
 |:-:|:--|:--|
 | &#xF5D0; | Wheel |  |
 | &#xF5D1; | Eclipse |  |
-| ⯝ &#xF5D2; | Selena |  |
 | &#xF5D3; | Crescent |  |
 | &#xF5D4; | Priapus | fertility, veggies, livestock, bees, schlonger |
 | &#xF5F1; | Ixion | kin-slayer, cloud doinker, centaur daddy |
@@ -559,7 +549,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 
 
 
-
+<!--
 <span class="catsym">1 Ceres ⚳</span>
 : God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
 
@@ -727,7 +717,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <span class="catsym">101955 Bennu</span>
 : Named for a mythological bird associated with the creation of the world. 
 : An Apollo-class object with an unstable orbit. It has a low chance of crashing into the Earth next century, but is more likely to spiral into the sun or crash into Venus. As of May 2021, a spacecraft has collected a sample and is bringing it back to Earth.
-
+-->
 
 
 ### Other Space Whatsits
@@ -750,7 +740,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 
 - Symbols for the relative posititions of objects: <span class="catsym">☊☋☌☍⚹⚺⚻⚼⯳⯴⯵⯶⯷⯸<span class="catPUA"></span></span>
 - Some fortune-teller-types use "Lilith" and "Priapus" to refer to the Moon's perigee and apogee. (Nearest and farthest orbital points from the Earth.) <span class="catsym">⚸⯞<span class="catPUA"></span></span> Lilith is either a primordial demon or the first woman, sculpted from the same clay as Adam. Priapus is the god of beekeeping and big schlongers. 
-- Then there's also "White Moon Selena" and "True Light Moon Arta" <span class="catsym">⯝⯟<span class="catPUA"></span></span>, astrological points which have *some* sort of connection to the moon's orbit. I tried following the citations from the unicode documents, but [the page I ended up at](https://astrologer.ru/book/light_moon/index.html.en) gave off powerful Time Cube energy.
+- Then there's also "White Moon Selena" and "True Light Moon Arta" <span class="catsym">⯝⯟<span class="catPUA"></span></span>, astrological points which have *some* sort of connection to the moon's orbit. I tried following the citations from the unicode documents, but [the page I ended up at](https://astrologer.ru/book/light_moon/index.html.en) gave off powerful Time Cube energy.
 - Speculating about a major planet out past Pluto is a popular hobby, and astrologers haven't skipped out on the fun. 
     - <span class="catsym">⯗ Generic Transpluto Planet</span>: This character is listed in the unicode standard simply as "Transpluto". <!--Sometimes called Isis(TODO) or Bacchus (god of inebriation and madness).-->
     - <span class="catsym">⯘ Proserpina</span>: Same namesake as asteroid 26, but otherwise no connection. (But yeah, dang. Given the myth, maybe that name should have been saved for an eccentric Kuiper belt object, like a comet or something.)
