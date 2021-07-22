@@ -2,51 +2,6 @@
 title: Astro Symbols
 ---
 
-<style>
-@font-face {
-  font-family: CatrinityWeb;
-  src: local(Catrinity), url("https://www.rmwinslow.com/posts/nature/astrosymbols/Catrinity.otf"), url("https://www.rmwinslow.com/posts/nature/astrosymbols/Catrinity.ttf");
-}
-@font-face {
-  font-family: moonsymbols;
-  src: url("https://www.rmwinslow.com/posts/nature/astrosymbols/moonsymbols.ttf");
-}
-td{vertical-align: middle;}
-/*td {font-family: CatrinityWeb; padding:0em;}*/
-.catsym {font-family: CatrinityWeb; /*padding:0em; margin:0em;*/ 
-  /*font-size: large;*/
-  text-align: center;
-  vertical-align: middle;
-  line-height: 1;
-  color: black;
-  }
-.catPUA {
-    color:#113074;
-}
-.moonsym {
-    font-family: moonsymbols;
-    color: #87122d;
-}
-.catsubtitle {
-    font-family: CatrinityWeb; 
-    padding:0em; margin:0em; 
-    font-size: 90%;
-    font-style: italic;
-}
-.icon {
-    height: 1.5ex;
-    vertical-align: middle;
-}
-.moonicon {
-    height: 1em;
-    vertical-align: middle;
-}
-.moonicon path{
-    stroke-width:8%;
-    stroke:currentcolor;
-    fill: none;
-}
-</style>
 
 
 
