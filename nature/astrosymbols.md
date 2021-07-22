@@ -49,14 +49,33 @@ td{vertical-align: middle;}
 </style>
 
 
+
 ![](astrosymbols/squarerootscaleplanets.png)
 
 
-
-You will need the [Catrinity font](http://catrinity-font.de/) installed to properly view these entries. 
+You will need the  installed to properly view these entries. 
 Some are official unicode, but some are specific to Catrinity.
 
-TODO EXPLANATION OF WHERE THESE SYMBOLS COME FROM
+The following is an incomplete list of objects in the Solar System, along with their namesakes and symbols.
+
+
+The symbols for the major planets, the Sun, Luna, Ceres, Pluto, and the early-discovered asteroids are all official and recognized by astronomers. (This is because all of these objects were at one point considered planets.)
+The symbols for the other dwarf planets, the moons of other objects, etc. are unofficial. 
+These mostly come from [public domain designs by Denis Moskowitz](https://suberic.net/~dmm/astro/index.html).
+The designs for Europa, Ganymede, Callisto, and Orcus are my own designs (also public domain).
+
+
+All of the astronomical symbols in the table below are copypasteable.
+- If an astronomical symbol is in black, then it's an official part of the unicode standard.
+- If a symbol is in <span class="catPUA">blue</span>, then it is implemented in the Private Use Area of the [Catrinity font](http://catrinity-font.de/). You'll need that specific font installed to use these characters.
+- If a symbol is in <span class="moonsym">red</span>, then it's a symbol I've jankily implemented in webfont form.
+
+
+Please don't treat this as an authoritative source on either Greco-roman mythology nor  astronomy. 
+I have some links at the end. But the source for a lot of these snippets is "something I remember hearing from a Youtube video".
+
+
+
 
 
 
@@ -114,7 +133,7 @@ TODO EXPLANATION OF WHERE THESE SYMBOLS COME FROM
 
 
 
-
+---
 
 
 
@@ -191,7 +210,7 @@ And the following are a few of the objects most likely to be dwarf planets, whic
 
 
 
-
+---
 
 
 
@@ -236,7 +255,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 <span class="moonsym">G</span>
 <small><br>(♃-III)</small></td>
 <td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
-<td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer and boytoy.</td>
+<td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer.</td>
 </tr>
 <tr>
 <td class="catsym">Callisto<br>
@@ -361,46 +380,43 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 </tr></thead>
 <tr>
 <td class="catsym">Phobos<br>
-<span class="moonsym"></span>
+<span class="moonsym">p</span>
 <br><small>(♂-I)</small></td>
 <td>Orbits close enough that it's being slowly pulled apart. Will likely crash into Mars or disintegrate into rings in about 40 millions years. One of the least reflective objects in the solar system.</td>
 <td>Son of Mars and Venus. Personification of fear. Twin brother to Deimos.</td>
 </tr>
 <tr>
 <td class="catsym">Deimos<br>
-<span class="moonsym"></span>
+<span class="moonsym">q</span>
 <br><small>(♂-II)</small></td>
 <td>Small enough that if you were standing on its surface, you could achieve escape velocity by jumping.</td>
 <td>Son of Mars and Venus. Personification of the dread that drives men mad before a battle.</td>
 </tr>
 <tr>
 <td class="catsym">Mimas<br>
-<span class="moonsym"></span>
+<span class="moonsym">m</span>
 <br><small>(♄-I)</small></td>
 <td>Looks like the Death Star from Star Wars. (Just a coincidence.) The temperature map supposedly looks like Pac-Man.</td>
 <td>Giant son of Gaia. Divine punching bag.</td>
 </tr>
 <tr>
 <td class="catsym">Miranda<br>
-<span class="moonsym"></span>
+<span class="moonsym">n</span>
 <br><small>(♅-I)</small></td>
 <td>Lumpy. Orbits weirdly close to Uranus.</td>
 <td>The daughter of the magician Prospero.</td>
 </tr>
-<tr>
+<!--<tr>
 <td class="catsym">Vanth<br>
-<span class="moonsym"></span>
+<span class="moonsym">v</span>
 <br><small>(<span style="font-family: moonsymbols;">O</span>-I)</small></td>
 <td>Tidally locked, relatively big compared to its planet, similar to the Pluto+Charon system.</td>
 <td>A winged psychopomp associated often accompanied by Charun, the Estruscan version of Charon. The name was suggested by an internet commenter to further the parallels between Pluto and Orcus</td>
-</tr>
+</tr>-->
 </table>
 
 
-
-
-
-
+---
 
 
 
@@ -427,9 +443,29 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 
 
 
+
+---
+
+## The Sun
+
+
+<table>
+<tr>
+<td class="catsym">Sol<br>☉<br><small>alt: ☀☼</small></td>
+<td>1. <a href="https://www.youtube.com/watch?v=3JdWlSF195Y">An explanation of the sun</a>. 2. <a href="https://www.youtube.com/watch?v=sLkGSV9WDMA">A correction to this explanation</a>.</td>
+<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). Associated with gold by alchemists.</td>
+</tr>
+</table>
+
+
+---
+
+
+
+
 ## The Minor Planets
 
-These are now called "small solar system bodies".
+These are now properly called "small solar system bodies".
 
 People initially considered these planets and gave them symbols. Around the discovery of 16 Psyche is when astronomers realized there are too many of the dang things to dote on each one individually, and just started giving them numbers.
 
@@ -448,11 +484,11 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <tr><td class="catsym">3 Juno<br>⚵</td><td> God of marriage and childbirth. Sometimes associated with the moon.</td></tr>
 <tr><td class="catsym">4 Vesta<br>⚶</td><td> God of hearth and home. <br> This asteroid is the second most massive, and is a surviving rocky protoplanet, like the frozen embryo of a terrestrial world. About a billion years ago, it suffered from two giant impacts. The splash from one of these impacts gave Vesta a mountain to rival Olympus Mons. And the debris from the impact was scattered throughout the solar system (5% of meteorites that hit Earth are chunks of Vesta).</td></tr>
 <tr><td class="catsym">5 Astraea <br><span class="catPUA"></span>⯙⚖</td><td> God of justice, innocence, purity, and precision.</td></tr>
-<tr><td class="catsym">6 Hebe <br><span class="catPUA"></span>🍷︎</td><td> God of youth and forgiveness, Cupbearer to the gods.</td></tr>
+<tr><td class="catsym">6 Hebe <br><span class="catPUA"></span><small>🍷︎</small></td><td> God of youth and forgiveness, Cupbearer to the gods. Married Heracles and retired after Ganymede was brought into the operation.</td></tr>
 <tr><td class="catsym">7 Iris <br><span class="catPUA"></span></td><td> God of rainbows. Messenger of the gods.</td></tr>
 <tr><td class="catsym">8 Flora <br><span class="catPUA"></span>⚘</td><td> God of flowers and springtime.</td></tr>
 <tr><td class="catsym">9 Metis <br><span class="catPUA"></span></td><td> Titan of wisdom and skilled council. Mother of Athena.</td></tr>
-<tr><td class="catsym">10 Hygiea <br><span class="catPUA"></span>⯚⚕</td><td> God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me. <br> 4th largest asteroid.</td></tr>
+<tr><td class="catsym">10 Hygiea <br><span class="catPUA"></span>⯚<!--⚕--></td><td> God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me. <br> 4th largest asteroid.</td></tr>
 <tr><td class="catsym">11 Parthenope <br><span class="catPUA"></span></td><td> Siren Either failed to lure Odysseus or was turned into a city by Jupiter.</td></tr>
 <tr><td class="catsym">12 Victoria <br><span class="catPUA"></span></td><td> God of victory.</td></tr>
 <tr><td class="catsym">13 Egeria <br><span class="catPUA"></span></td><td> Nymph who gave laws and to early Rome. </td></tr>
@@ -698,17 +734,17 @@ These aren't actually objects so much as they're regions of the sky.
 |:-:|:--|:--|
 | ♈︎ | aries | shep |
 | ♉︎ | taurus | coo |
-| ♊︎ | gemini | Castor and Pollux, sons of Leda, from the swan thing. |
+| ♊︎ | gemini | Castor and Pollux, sons of Leda, from the swan thing |
 | ♋︎ | cancer | crab |
 | ♌︎ | leo | big cat |
 | ♍︎ | virgo | A gal. Sometimes specifically Astraea, the namesake of asteroid 5. |
-| ♎︎ | libra | Tiny constellation. Usually interpreted as scales held by virgo or the claws of Scorpio. |
+| ♎︎ | libra | claws |
 | ♏︎ | scorpius | scary bug. Even Orion is scare |
 | ♐︎ | sagittarius | a centaur maybe? |
 | ♑︎ | capricorn | goatfish (it was a thing in Babylon don't worry about it) |
 | ♒︎ | aquarius | waterbottle |
-| ♓︎ | pisces | two fish... tied together with a string |
-| ⛎︎ | Ophiuchus | dude wrasslin snek |
+| ♓︎ | pisces | two fish... tied together with a rope |
+| ⛎︎ | Ophiuchus | wrasslin snek |
 
 
 
@@ -721,7 +757,7 @@ These aren't actually objects so much as they're regions of the sky.
     - <span class="catsym">⯗ Generic Transpluto Planet</span>: This character is listed in the unicode standard simply as "Transpluto". <!--Sometimes called Isis(TODO) or Bacchus (god of inebriation and madness).-->
     - <span class="catsym">⯘ Proserpina</span>: Same namesake as asteroid 26, but otherwise no connection. (But yeah, dang. Given the myth, maybe that name should have been saved for an eccentric Kuiper belt object, like a comet or something.)
     - There's also  <span class="catsym">⯠ Cupido, ⯡ Hades, ⯢ Zeus, ⯣ Kronos, ⯤ Apollon, ⯥ Admetos, ⯦ Vulcanus, and ⯧ Poseidon </span>. 
-        - Most of those are just alternate names for gods that already had a planet or asteroid named after them. I do have to admit, however, that the symbols for Vulcanus and Poseidon are snazzy enough that I've included them up above as alternate symbols for Vulcan and Neptune.
+        - Most of those are just alternate names for gods that already had a planet or asteroid named after them. I do have to admit, however, that the symbol for Vulcanus is super snazzy.
         - The odd one out here is Admetos. His story is that Apollo loved this guy a lot, and so when he learned that Admetus was soon fated to die, Apollo convinced the fates to let someone else die in his place. But oh no, his wife Alcestis is the one who volunteers to die! Ironic tragedy! It all works out in the end because Heracles stops by, wrassles Thanatos into submission, and brings Alcestis back to the world of the living.
 - Star and comet <span class="catsym">★☆☄</span>. Eclipse and crescent thing <span class="catsym"><span class="catPUA"></span></span>
 
@@ -743,18 +779,31 @@ These aren't actually objects so much as they're regions of the sky.
 
 ---
 
-<table>
-<thead><tr>
-<th>Planet</th>
-<th>Features</th>
-<th>Namesake</th>
-</tr></thead>
-<tr>
-<td class="catsym">Sol<br>☉<br><small>alt: ☀☼</small></td>
-<td>It's the sun.</td>
-<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). Associated with gold by alchemists.</td>
-</tr>
-</table>
+
+## My designs:
+
+Jupiter's Symbol is the letter zeta crossed with Jupiter's staff. 
+These symbols for <span class="moonsym">E</span> Europa, <span class="moonsym">G</span>  Ganymede and <span class="moonsym">C</span>  Callisto - all watery moons of Jupiter - take the first greek letter of the moon's name (γ,ε,ϰ), and cross it with with a line. [Moskowitz' symbols for these moons](https://suberic.net/~dmm/astro/moons.html) are similar, but with capital letters. 
+The miniscule versions of the letters just felt more *spacey* to me.
+
+Plus, as a bonus, this version of the Europa symbol looks vaguely like a bull's horns, and a lowercase gamma looks a bit like a bird.
+
+![](astrosymbols/jupiterwatermoons.png)
+
+
+
+Then just as PLuto's symbol is a combination of P and L, this symbol for 
+<span class="moonsym">O</span> Orcus is a combination of O and R, (arranged to look like a scary monster eyeball.)
+
+![](astrosymbols/moonicon_fontglyph_planetorcus2.png)
+
+
+
+
+
+
+---
+
 
 
 <!--<div style="font-family: Catrinity; font-size: 300%;"></div>-->
@@ -797,24 +846,40 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
 
 
 
-## Links:
-- [List of names of astrobodies, and their associations from the USGS.](https://planetarynames.wr.usgs.gov/Page/Planets)
-- [New astro symbols, by Denis Moskowitz.](https://suberic.net/~dmm/astro/index.html) A couple have actually made it into the unicode standard.
-- Catrinity.
-- the wiki page used for sizes
-- that asteroid lookup page
-- [This old janky nasa.gov subsite for kids.](https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/solar_system.html)
-- [NASA Planetary Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
-- [Physical data for Moons](https://ssd.jpl.nasa.gov/?sat_phys_par)
-- http://www.chadtrujillo.com/quaoar/
-- https://nineplanets.org/hypothetical-planets/#vulcan
-- https://solarsystem.nasa.gov/resources/682/space-tourism-posters/
-- https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=24
-- https://minorplanetcenter.net//iau/lists/MPNames.html
+## Relevant Links:
+- Object Info:
+    - [List of names of astrobodies, and their associations from the USGS.](https://planetarynames.wr.usgs.gov/Page/Planets)
+    - [NASA Planetary Fact Sheet](https://nssdc.gsfc.nasa.gov/planetary/factsheet/)
+    - [Physical data for Moons](https://ssd.jpl.nasa.gov/?sat_phys_par)
+    - [Wikipedia - List of gravitationally rounded objects of the Solar System](https://en.wikipedia.org/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System)
+    - [JPL Small-Body Database Browser](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=24)
+    - [IAU Minor PLanet Center](https://minorplanetcenter.net//iau/lists/MPNames.html)
+- Symbols:
+    - [Wikipedia - Astronomical Symbols](https://en.wikipedia.org/wiki/Astronomical_symbols) has all of the official ones.
+    - [Wikimedia - Asteroid Symbols](https://commons.wikimedia.org/wiki/Asteroid_symbols)
+    - [New astro symbols, by Denis Moskowitz.](https://suberic.net/~dmm/astro/index.html) (A couple have actually made it into the unicode standard.)
+    - [Catrinity font](http://catrinity-font.de/)
+    - The charts with the codepoints of the astro symbols: [Unicode1](
+https://www.unicode.org/charts/nameslist/n_2600.html), [Unicode2](
+https://www.unicode.org/charts/nameslist/n_2B00.html), [Catrinity](http://catrinity-font.de/downloads/CatrinityPrivateUseArea.pdf). (ctrl+f "astro")
+Namesakes of the planets:
+    - [Overly Sarcastic - Miscellaneous Myths](https://www.youtube.com/playlist?list=PLDb22nlVXGgeoPb-HBWwzEeoAwDvckSrC)
+    - [Quaoar faq](http://www.chadtrujillo.com/quaoar/))
+- Other:
+    - [Space tourism posters](https://solarsystem.nasa.gov/resources/682/space-tourism-posters/)
+    - [This old janky nasa.gov subsite for kids.](https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/solar_system.html)
 
-https://www.unicode.org/charts/nameslist/n_2B00.html
 
-<!--https://web.archive.org/web/20110429095406/http://www.tongva.com/-->
+
+
+
+
+
+
+<!--
+https://nineplanets.org/hypothetical-planets/#vulcan
+
+https://web.archive.org/web/20110429095406/http://www.tongva.com/-->
 
 <!--
 Some public domain image sources:
@@ -828,9 +893,9 @@ Some public domain image sources:
 - https://recedingrules.blogspot.com/p/public-domain-images.html
 - https://commons.wikimedia.org/wiki/Commons:Bible_Illustrations
 - https://www.rawpixel.com/libraryofcongress/showcase?sort=curated&mode=shop&page=1
-
+826400
 -->
 
 
 
-826400
+
