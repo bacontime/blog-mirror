@@ -399,8 +399,8 @@ Mars' itty bitty teensy weeny moons are kinda famous. They're only a couple doze
 <td>Titan. Mother of the sun, the moon, and the dawn. Endowed precious metal and gems with their beauty.</td>
 </tr>
 <tr>
-<td class="catsym">Vulcan</td>
-<td>Urbain Le Verrier famously predicted the existence of Neptune through irregularities in the orbit of Uranus. He also predicted the existence of this planet through the irregularities in the orbit of Mercury. Alas, Vulcan doesn't exist. Rather, the irregularities are explained by general relativity.</td>
+<td class="catsym">Vulcan<br><span class="catPUA">⯦</span></td>
+<td>Urbain Le Verrier famously predicted the existence of Neptune through irregularities in the orbit of Uranus. He also predicted the existence of Vulcan through the irregularities in the orbit of Mercury. Alas, Vulcan doesn't exist. Rather, the irregularities are explained by general relativity.</td>
 <td>God of fire, the forge, volcanoes, and deserts. Frought marriage with Venus.</td>
 </tr>
 </table>
@@ -423,15 +423,6 @@ Mars' itty bitty teensy weeny moons are kinda famous. They're only a couple doze
 | ☀☉☼ | sun | gold |
 | ☄ | comet |  |
 | ☆ | star |  |
-| ☽☾ | moon | silver |
-| <span class="catsym">☿</span> | mercury | finance, commerce, communication, travel, rogues, (soul) |
-| ♀ | venus | love, prosperity, beauty, desire |
-| ♁⊕ | earth |  |
-| ♂ | mars | war, agriculture, courage |
-| ♃ ⯢ | jupiter | sky,lightning,thunder,law |
-| ♄ ⯣ | saturn | wealth, liberation, agriculture, time |
-| ♅⛢ | uranus | primordial sky |
-| ♆⯉ ⯧ | neptune | sea,storm,earthquake,horses |
 | ♇⯓⯔⯕⯖ ⯡ | pluto | dead, riches, underworld,  |
 | ♈ | aries |  |
 | ♉ | taurus |  |
@@ -445,10 +436,6 @@ Mars' itty bitty teensy weeny moons are kinda famous. They're only a couple doze
 | ♑ | capricorn |  |
 | ♒ | aquarius |  |
 | ⛎ | Ophiuchus |  |
-| ⚳ | Ceres | grain, harvest, motherhood,  |
-| ⚴ | Pallas | various: warrior; fed zeus entrails, got stabbed tragically, giant skin cloak, turned to stone   |
-| ⚵ | Juno | marriage, childbirth,  |
-| ⚶ | Vesta |  hearth, home, family, |
 | ⚷ | Chiron | smart centaur dude.  |
 | ⚸ ⯞ | Lilith |  |
 | ⯗ | Transpluto |  |
@@ -475,32 +462,8 @@ Some are official unicode, but some are specific to Catrinity.
 | &#xF5D3; | Crescent |  |
 | &#xF5D4; | Priapus | fertility, veggies, livestock, bees, schlonger |
 | ⯦ &#xF5D9; | Vulcan | fire, volcano, desert, forge |
-| &#xF5DA; | Haumea | fertility, childbirth |
-| &#xF5DB; | Makemake | creation, humanity, bird-man cult |
-| ⯙ &#xF5DC; | Astraea | Justice, innocence, purity, precision |
-| &#xF5DD; | Hebe | youth, forgiveness, cupbearer |
-| &#xF5DE; | Iris | rainbow, messenger, clouds |
-| &#xF5DF; | Flora | flowers, spring |
-| &#xF5E0; | Metis | wisdom, skilled counsel |
-| ⯚ &#xF5E1; | Hygieia | health, cleanliness, sanitation |
-| &#xF5E2; | Parthenope | World-river titan, (also a siren) |
-| &#xF5E3; | Victoria | victory |
-| &#xF5E4; | Egeria | water nymph, laws, ritual |
-| &#xF5E5; | Irene | peace |
-| &#xF5E6; | Eunomia | good order, law, green pastures |
-| &#xF5E7; | Psyche | soul, beauty |
-| &#xF5E8; | Thetis | sea nymph, mom of Achilles |
-| &#xF5E9; | Melpomene | singing, chorus muse, tragedy |
-| &#xF5EA; | Fortuna | luck |
-| ⯘ &#xF5EB; | Proserpina | wine, fertility, seasons, the kidnapping |
-| &#xF5EC; | Bellona | war, bloodlust, conquest |
-| &#xF5ED; | Amphitrite | saltwater, sea |
-| &#xF5EE; | Leukothea | white sea nymph |
-| &#xF5EF; | Fides | trust, good faith |
 | &#xF5F1; | Ixion | kin-slayer, cloud doinker, centaur daddy |
 | &#xF5F2; | Typhon | smoke, abyss, volcano, whirlwind, snake |
-| &#xF5F3; | Quaoar | ? Maybe a creator diety or culture hero?, spies, morality, hallucinogens |
-
 
 
 ## Related or Similar Symbols
