@@ -360,7 +360,7 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 <th>Moon</th>
 <th>Features</th>
 <th>Namesake</th>
-</thead>
+</tr></thead>
 <tr>
 <td class="catsym">Phobos<br>
 <span class="moonsym"></span>
