@@ -21,11 +21,11 @@ td{vertical-align: middle;}
   color: black;
   }
 .catPUA {
-    color:blue;
+    color:#113074;
 }
 .moonsym {
     font-family: moonsymbols;
-    color: red;
+    color: #87122d;
 }
 .catsubtitle {
     font-family: CatrinityWeb; 
@@ -52,9 +52,6 @@ td{vertical-align: middle;}
 
 ![](astrosymbols/squarerootscaleplanets.png)
 
-
-You will need the  installed to properly view these entries. 
-Some are official unicode, but some are specific to Catrinity.
 
 The following is an incomplete list of objects in the Solar System, along with their namesakes and symbols.
 
@@ -862,9 +859,10 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
     - The charts with the codepoints of the astro symbols: [Unicode1](
 https://www.unicode.org/charts/nameslist/n_2600.html), [Unicode2](
 https://www.unicode.org/charts/nameslist/n_2B00.html), [Catrinity](http://catrinity-font.de/downloads/CatrinityPrivateUseArea.pdf). (ctrl+f "astro")
-Namesakes of the planets:
+    - [The janky font I made for moon symbols.](https://bacontime.github.io/moonsymbols.ttf)
+- Namesakes of the planets:
     - [Overly Sarcastic - Miscellaneous Myths](https://www.youtube.com/playlist?list=PLDb22nlVXGgeoPb-HBWwzEeoAwDvckSrC)
-    - [Quaoar faq](http://www.chadtrujillo.com/quaoar/))
+    - [Quaoar faq](http://www.chadtrujillo.com/quaoar/)
 - Other:
     - [Space tourism posters](https://solarsystem.nasa.gov/resources/682/space-tourism-posters/)
     - [This old janky nasa.gov subsite for kids.](https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/solar_system.html)
