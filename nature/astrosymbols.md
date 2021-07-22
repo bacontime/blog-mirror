@@ -168,7 +168,8 @@ And the following are a few of the objects most likely to be dwarf planets, whic
 <th>Namesake</th>
 </tr></thead>
 <tr>
-<td class="catsym">Orcus<br></td>
+<td class="catsym">Orcus<br>
+<span class="moonsym">O</span></td>
 <td>Called the "anti-Pluto" because it's orbit is similar to Pluto's, yet opposite from it.   They are both resonant with neptune and have the same orbital period. Both of them cross over Neptune's orbit. But Pluto is close to the sun when Orcus is far away and vice versa. Also, both have a relatively large tidally locked moon, named after psychopomps. </td>
 <td>Underworld god and punisher of broken oaths. Namesake of ogres, orcs, and orcas.It's moon, Vanth, is named after another psychopomp.</td>
 </tr>
@@ -267,9 +268,8 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 <!--Callisto and its oceans of piss.-->
 
 
-And here are a few more bigger than Ceres, big enough to probably count as dwarf planets, even if they aren't as dramatically large as the previous list.
-
-And you know, what the heck? Enceladus is teeny tiny, but it's round and interesting enough to include. So throw that one in the list too.
+And here are a few more moons which are maybe big enough to probably count as dwarf planets, even if they aren't as dramatically large as the previous list.
+Well, Enceladus is teeny tiny, but it's round and interesting enough that it seems to fit in with this list.
 
 
 <table>
@@ -288,28 +288,28 @@ And you know, what the heck? Enceladus is teeny tiny, but it's round and interes
 <tr>
 <td class="catsym">Tethys<br>
 <span class="moonsym">h</span>
-<br><small>(♃-III)</small></td>
+<br><small>(♄-III)</small></td>
 <td>Somewhat bigger and slightly less shiny than Enceladus. Almost entirely made of ice. Faintly bluish stripe.</td>
 <td>Titan mother of thousands of minor ocean and river gods.</td>
 </tr>
 <tr>
 <td class="catsym">Dione<br>
 <span class="moonsym">d</span>
-<br><small>(♃-IV)</small></td>
+<br><small>(♄-IV)</small></td>
 <td>Networks of icy cliffs. <!--Possible subsurface liquid oceans? Hard to find mention of that outside wikipedia though?--> Resonant with Enceladus and its features might be more "mature" versions of that little moon's. Also, constantly bombarded with icey powder from Enceladus.</td>
 <td>Titan. Mother of Aphrodite. (sometimes, when she isn't birthed from seafoam)</td>
 </tr>
 <tr>
 <td class="catsym">Rhea<br>
 <span class="moonsym">r</span><br>
-<small>(♃-V)</small></td>
+<small>(♄-V)</small></td>
 <td>Described by NASA as a "dirty snowball". Has it's own tiny little rings. More cratered than the other ice moons of saturn.</td>
 <td>Titan. Wife of Saturn who rescued baby Jupiter from being eaten.</td>
 </tr>
 <tr>
 <td class="catsym">Iapetus<br>
 <span class="moonsym">i</span>
-<br><small>(♃-VIII)</small></td>
+<br><small>(♄-VIII)</small></td>
 <td>Tilted orbit around saturn. It's the only one of Saturn's moons with a good view of the rings. Walnut shape from huge equitorial ridge. One bright side and one dark side. </td>
 <td>Titan, brother of Saturn. Father of Atlas and Prometheus. Sometimes later identified with one of Noah's sons?</td>
 </tr>
@@ -349,30 +349,52 @@ And you know, what the heck? Enceladus is teeny tiny, but it's round and interes
 </table>
 
 
-### Teeny Moons
+### Tiny Lumpy Moons
 
-Mars' itty bitty teensy weeny moons are kinda famous. They're only a couple dozen kilometers wide, but they're notable for being so close to the surface of Mars that they are large in the Martian sky.
+Here are a few more moons which aren't big enough to be properly rounded, but are 'famous' enough to mention. 
+
+Mars' itty bitty teensy weeny moons, for example, are no more than a couple dozen km across, but they're notable for being so close to the surface of Mars that they appear large in the Martian sky.
 
 <table>
 <thead><tr>
 <th>Moon</th>
 <th>Features</th>
 <th>Namesake</th>
-</tr></thead>
+</thead>
 <tr>
 <td class="catsym">Phobos<br>
 <span class="moonsym"></span>
 <br><small>(♂-I)</small></td>
-<td>Orbits close enough that it's being slowly pulled apart. Will likely crash into Mars or disintegrate into rings in about 40 millions years. </td>
+<td>Orbits close enough that it's being slowly pulled apart. Will likely crash into Mars or disintegrate into rings in about 40 millions years. One of the least reflective objects in the solar system.</td>
 <td>Son of Mars and Venus. Personification of fear. Twin brother to Deimos.</td>
 </tr>
 <tr>
 <td class="catsym">Deimos<br>
 <span class="moonsym"></span>
 <br><small>(♂-II)</small></td>
-<td>Small enough that if you were standing on its surface, you could achieve escape velocity by jumpinh.</td>
+<td>Small enough that if you were standing on its surface, you could achieve escape velocity by jumping.</td>
 <td>Son of Mars and Venus. Personification of the dread that drives men mad before a battle.</td>
 </tr>
+<tr>
+<td class="catsym">Mimas<br>
+<span class="moonsym"></span>
+<br><small>(♄-I)</small></td>
+<td>Looks like the Death Star from Star Wars. (Just a coincidence.) The temperature map supposedly looks like Pac-Man.</td>
+<td>Giant son of Gaia. Divine punching bag.</td>
+</tr>
+<tr>
+<td class="catsym">Miranda<br>
+<span class="moonsym"></span>
+<br><small>(♅-I)</small></td>
+<td>Lumpy. Orbits weirdly close to Uranus.</td>
+<td>The daughter of the magician Prospero.</td>
+</tr>
+<tr>
+<td class="catsym">Vanth<br>
+<span class="moonsym"></span>
+<br><small>(<span style="font-family: moonsymbols;">O</span>-I)</small></td>
+<td>Tidally locked, relatively big compared to its planet, similar to the Pluto+Charon system.</td>
+<td>A winged psychopomp associated often accompanied by Charun, the Estruscan version of Charon. The name was suggested by an internet commenter to further the parallels between Pluto and Orcus</td>
 </tr>
 </table>
 
