@@ -447,12 +447,12 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <tr><td class="catsym">2 Pallas<br>⚴</td><td> Athena and her spear. A lot of other mythological characters are named Pallas as well. <br> The asteroid is is the third most massive, as dark as asphalt, and on a highly tilted orbit.</td></tr>
 <tr><td class="catsym">3 Juno<br>⚵</td><td> God of marriage and childbirth. Sometimes associated with the moon.</td></tr>
 <tr><td class="catsym">4 Vesta<br>⚶</td><td> God of hearth and home. <br> This asteroid is the second most massive, and is a surviving rocky protoplanet, like the frozen embryo of a terrestrial world. About a billion years ago, it suffered from two giant impacts. The splash from one of these impacts gave Vesta a mountain to rival Olympus Mons. And the debris from the impact was scattered throughout the solar system (5% of meteorites that hit Earth are chunks of Vesta).</td></tr>
-<tr><td class="catsym">5 Astraea <br><span class="catPUA"></span>⯙</td><td> God of justice, innocence, purity, and precision.</td></tr>
-<tr><td class="catsym">6 Hebe <br><span class="catPUA"></span></td><td> God of youth and forgiveness, Cupbearer to the gods.</td></tr>
+<tr><td class="catsym">5 Astraea <br><span class="catPUA"></span>⯙⚖</td><td> God of justice, innocence, purity, and precision.</td></tr>
+<tr><td class="catsym">6 Hebe <br><span class="catPUA"></span>🍷︎</td><td> God of youth and forgiveness, Cupbearer to the gods.</td></tr>
 <tr><td class="catsym">7 Iris <br><span class="catPUA"></span></td><td> God of rainbows. Messenger of the gods.</td></tr>
-<tr><td class="catsym">8 Flora <br><span class="catPUA"></span></td><td> God of flowers and springtime.</td></tr>
+<tr><td class="catsym">8 Flora <br><span class="catPUA"></span>⚘</td><td> God of flowers and springtime.</td></tr>
 <tr><td class="catsym">9 Metis <br><span class="catPUA"></span></td><td> Titan of wisdom and skilled council. Mother of Athena.</td></tr>
-<tr><td class="catsym">10 Hygiea <br><span class="catPUA"></span>⯚</td><td> God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me. <br> 4th largest asteroid.</td></tr>
+<tr><td class="catsym">10 Hygiea <br><span class="catPUA"></span>⯚⚕</td><td> God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me. <br> 4th largest asteroid.</td></tr>
 <tr><td class="catsym">11 Parthenope <br><span class="catPUA"></span></td><td> Siren Either failed to lure Odysseus or was turned into a city by Jupiter.</td></tr>
 <tr><td class="catsym">12 Victoria <br><span class="catPUA"></span></td><td> God of victory.</td></tr>
 <tr><td class="catsym">13 Egeria <br><span class="catPUA"></span></td><td> Nymph who gave laws and to early Rome. </td></tr>
@@ -723,7 +723,7 @@ These aren't actually objects so much as they're regions of the sky.
     - There's also  <span class="catsym">⯠ Cupido, ⯡ Hades, ⯢ Zeus, ⯣ Kronos, ⯤ Apollon, ⯥ Admetos, ⯦ Vulcanus, and ⯧ Poseidon </span>. 
         - Most of those are just alternate names for gods that already had a planet or asteroid named after them. I do have to admit, however, that the symbols for Vulcanus and Poseidon are snazzy enough that I've included them up above as alternate symbols for Vulcan and Neptune.
         - The odd one out here is Admetos. His story is that Apollo loved this guy a lot, and so when he learned that Admetus was soon fated to die, Apollo convinced the fates to let someone else die in his place. But oh no, his wife Alcestis is the one who volunteers to die! Ironic tragedy! It all works out in the end because Heracles stops by, wrassles Thanatos into submission, and brings Alcestis back to the world of the living.
-- Star and comet <span class="catsym">☆☄</span>. Eclipse and crescent thing <span class="catsym"><span class="catPUA"></span></span>
+- Star and comet <span class="catsym">★☆☄</span>. Eclipse and crescent thing <span class="catsym"><span class="catPUA"></span></span>
 
 
 
