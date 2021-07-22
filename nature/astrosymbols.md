@@ -490,6 +490,10 @@ Some are official unicode, but some are specific to Catrinity.
 Ceres is the largest of the asteroids and the first discovered. It's now considered a dwarf planet and is listed above.
 
 <table>
+<thead>
+<th>Rock</th>
+<th>Namesake+Notes</th>
+</thead>
 <tr><td class="catsym">1 Ceres<br>⚳</td><td> God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.</td></tr>
 <tr><td class="catsym">2 Pallas<br>⚴</td><td> Athena and her spear. A lot of other mythological characters are named Pallas as well. <br> The asteroid is is the third most massive, as dark as asphalt, and on a highly tilted orbit.</td></tr>
 <tr><td class="catsym">3 Juno<br>⚵</td><td> God of marriage and childbirth. Sometimes associated with the moon.</td></tr>
