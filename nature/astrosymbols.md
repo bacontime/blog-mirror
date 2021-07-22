@@ -421,7 +421,7 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 <td>Titan. Mother of the sun, the moon, and the dawn. Endowed precious metal and gems with their beauty.</td>
 </tr>
 <tr>
-<td class="catsym">Vulcan<br><span class="catPUA">⯦</span></td>
+<td class="catsym">Vulcan<br>⯦<span class="catPUA"></span></td>
 <td>Urbain Le Verrier famously predicted the existence of Neptune through irregularities in the orbit of Uranus. He also predicted the existence of Vulcan through the irregularities in the orbit of Mercury. Alas, Vulcan doesn't exist. Rather, the irregularities are explained by general relativity. However, the space between the sun and Mercury is surprisingly empty compared to what we see in other systems. So maybe such a planet did exist long ago before spiraling into the sun.</td>
 <td>God of fire, the forge, volcanoes, and deserts. Frought marriage with Venus.</td>
 </tr>
@@ -480,39 +480,26 @@ Some are official unicode, but some are specific to Catrinity.
 | ⯝ &#xF5D2; | Selena |  |
 | &#xF5D3; | Crescent |  |
 | &#xF5D4; | Priapus | fertility, veggies, livestock, bees, schlonger |
-| ⯦ &#xF5D9; | Vulcan | fire, volcano, desert, forge |
 | &#xF5F1; | Ixion | kin-slayer, cloud doinker, centaur daddy |
 | &#xF5F2; | Typhon | smoke, abyss, volcano, whirlwind, snake |
 
 
-## Related or Similar Symbols
+## The Minor Planets
 
-|Symbols|Description|
-|:-:|:--|
-|  |  |
-| ☊☋☌☍ ⚹⚺⚻⚼ &#x2bf3;&#x2bf4;&#x2bf5;&#x2bf6;&#x2bf7;&#x2bf8; &#xF5D5;&#xF5D6;&#xF5D7;&#xF5D8; | Relative positions of planets |
-| ⚢⚣⚤⚥⚦⚧⚨⚩⚲⚪ ⚭⚮⚯ | Gender and marriage symbols |
-| ☇☈ | Lightning and thunderstorm |
-| ☠☡☢☣ &#x26a0; &#x26a1; | Warnings |
-| ☤⚕⚚ | Snake(s) on stick |
-| ☥☦☧☨☩☪☸ | Religious symbols (ankh air water) |
-| ♨♺⚒⚖⚗⚙⚛ | you know, stuff |
-| ⛣ | Public office? |
-| ⟠⟟⟡⦽⦹⧜⧝⧞⧟⧬⧮⧰⧲ | Misc Math symbols |
-| ⯒⧧ | group and thermodynamics |
-|||
+These are now called "small solar system bodies".
 
+People initially considered these planets and gave them symbols. Around the discovery of 16 Psyche is when astronomers realized there are too many of the dang things to dote on each one individually, and just started giving them numbers.
 
+<!--2005 VX3: Highly eccentric. Possibly a dormant comet.
+https://en.wikipedia.org/wiki/514107_Ka%CA%BBepaoka%CA%BBawela-->
 
-## Asteroids
-
-Ceres is the largest of the asteroids and the first discovered. It's now considered a dwarf planet and is listed above.
+Below, I've listed the first batch discovered, as well as some notable objects discovered later on. [A much much more comprehensive list can be found here.](https://en.wikipedia.org/wiki/Meanings_of_minor_planet_names#Index)
 
 <table>
-<thead>
+<thead><tr>
 <th>Rock</th>
 <th>Namesake+Notes</th>
-</thead>
+</tr></thead>
 <tr><td class="catsym">1 Ceres<br>⚳</td><td> God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.</td></tr>
 <tr><td class="catsym">2 Pallas<br>⚴</td><td> Athena and her spear. A lot of other mythological characters are named Pallas as well. <br> The asteroid is is the third most massive, as dark as asphalt, and on a highly tilted orbit.</td></tr>
 <tr><td class="catsym">3 Juno<br>⚵</td><td> God of marriage and childbirth. Sometimes associated with the moon.</td></tr>
@@ -538,7 +525,7 @@ Ceres is the largest of the asteroids and the first discovered. It's now conside
 <tr><td class="catsym">23 Thalia</td><td> Muse of comedy.</td></tr>
 <tr><td class="catsym">24 Themis</td><td> Titan of divine law. Second wife of Jupiter.</td></tr>
 <tr><td class="catsym">25 Phocaea</td><td> Named after a city.</td></tr>
-<tr><td class="catsym">26 Proserpina <br><span class="catPUA"></span>⯘</td><td> Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.</td></tr>
+<tr><td class="catsym">26 Proserpina <br><span class="catPUA"></span></td><td> Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.</td></tr>
 <tr><td class="catsym">28 Bellona <br><span class="catPUA"></span></td><td> Wife of Mars. Also a god of a crazed bloodthirsty war. Likes to ride into battle with her hubby and has a special talent when it comes to destroying entire cities.</td></tr>
 <tr><td class="catsym">29 Amphitrite <br><span class="catPUA"></span></td><td> Neptune's wife. God of the sea and salt water.</td></tr>
 <tr><td class="catsym">30 Urania</td><td> Muse of astronomy.</td></tr>
@@ -549,15 +536,17 @@ Ceres is the largest of the asteroids and the first discovered. It's now conside
 <tr><td class="catsym">35 Leukothea <br><span class="catPUA"></span></td><td> A nymph or queen who leapt into the sea. The symbol is an old-timey lighthouse.</td></tr>
 <tr><td class="catsym">37 Fides <br><span class="catPUA"></span></td><td> God of trust and reliability. Astronomers pretty much completely gave up on the asteroid symbols past this point.</td></tr>
 <tr><td class="catsym">38 Leda</td><td> Spartan queen. Made love to swan-Jupiter, and gave birth two eggs from which hatched Helen of Troy, and the twins Castor and Pollux.</td></tr>
-<tr>...</tr>
+<tr><td></td><td></td></tr>
 <tr><td class="catsym">243 Ida</td><td> A nymph who nursed Jupiter. Also the name of the mountain where baby Jupiter was hidden away. <br> The asteroid was the first discovered to have its own tiny asteroid moon. <br> The moon is named "Dactyl", after a group of weird little forge fellas that lived on Mount Ida and protected Jupiter. </td></tr>
 <tr><td class="catsym">253 Mathilde</td><td> Named after an Astronomer's wife. <br> The asteroid was visited by a probe on its way to 433 Eros, and scientists were surprised to see that 253 Mathilde is a loosely packed pile of rubble, more crater than stone.</td></tr>
 <tr><td class="catsym">433 Eros</td><td> Aka Cupid. God of erotic desire. Had a romance with Psyche. <br> This asteroid was the first near-earth asteroid to be discovered. It was also the first asteroid people put an orbiter around, and the first asteroid to be landed on. Rich in precious metals. About as big as the asteroid that wiped out the dinos, and has high odds of slamming into the earth in the very distant future.</td></tr>
 <tr><td class="catsym">624 Hektor</td><td> A mythological Trojan Prince. <br> The largest of the Jupiter Trojans, which are similar to asteroids, but orbiting in Jupiter's Lagrange points. It's extremely elongated, and has a little moon named Skamandrios, after the mythological Hektor's son.</td></tr>
 <tr><td class="catsym">704 Interamnia</td><td> Named after a city. <br> 5th largest asteroid but poorly studied.</td></tr>
 <tr><td class="catsym">1862 Apollo</td><td> God of the sun, fortune telling, and all sorts of stuff. <br> This asteroid was the first discovered example and namesake of the Apollo-class asteroids, asteroids whose orbits cross Earth's. (If you remember the meteor that hit Russia back in 2013, that came from an Apollo-class object.)</td></tr>
-<tr><td class="catsym">2060 Chiron ⚷</td><td> The wisest of the centaurs. Trainer of heroes. Inventor of botany. <br> The object Chiron was the first recognized example of the astronomical centaurs, a group of objects like asteroids but which orbit further out between the gas giants. They're so named because they seem to resemble a combination of asteroid and comet.</td></tr>
+<tr><td class="catsym">2060 Chiron<br>⚷</td><td> The wisest of the centaurs. Trainer of heroes. Inventor of botany. <br> The object Chiron was the first recognized example of the astronomical centaurs, a group of objects like asteroids but which orbit further out between the gas giants. They're so named because they seem to resemble a combination of asteroid and comet.</td></tr>
 <tr><td class="catsym">3200 Phaethon</td><td> Son of Helios, the sun god. Took his dad's sun chariot for a joy ride, almost destroyed the world, and had to be struck down with a lightning bolt by Jupiter. <br> This Apollo-class asteroid is so named because it flies closer to the sun than any other asteroid.</td></tr>
+<tr><td class="catsym">5145 Pholus<br>⯛</td><td>Another very smart centaur. Friend of Heracles.<br>The object was the second astronomical centaur to be discovered.</td></tr>
+<tr><td class="catsym">7066 Nessus<br>⯜</td><td>A centaur. Unlike the previous two, this centaur was a total creep. He tried to rape Heracles' wife, so Heracles killed him with some turbo poison. Years later, Heracles put on a shirt that was stained with the turbo-poisoned centaur blood, and Heracles himself was killed.<br>The object was the third astronomical centaur to be discovered.</td></tr>
 <tr><td class="catsym">10199 Chariklo</td><td> A nymph, wife to the centaur Chiron. <br> This object is the largest (yet found as of 2019) of the astronomical centaurs, and the smallest object known to have rings.</td></tr>
 <tr><td class="catsym">25143 Itokawa</td><td> Named for the father of Japanese rocketry. <br> Rubble pile shaped like a lumpy sea otter. This was the first asteroid from which a sample was collected and brought back to Earth. It's  also the smallest asteroid ever visited.</td></tr>
 <tr><td class="catsym">65803 Didymos</td><td> The name is Greek for "twin". <br> It has a moonlet called "Dimorphos", meaning "Two forms." <br> NASA's DART mission is planning to test our planetary defense capabilities by ramming into Dimorphos as high speed in 2022. </td></tr>
@@ -568,18 +557,6 @@ Ceres is the largest of the asteroids and the first discovered. It's now conside
 
 
 
-
-## The Minor Planets
-
-These are now called "small solar system bodies".
-
-People initially thought these were planets and gave them symbols. Around the discovery of 16 Psyche is when astronomers realized there are too many of the dang things to dote on each one individually, and just started giving them numbers. 
-Nowadays, we know of thousands of the things, and they only get a proper name if they're interesting enough.
-
-<!--2005 VX3: Highly eccentric. Possibly a dormant comet.
-https://en.wikipedia.org/wiki/514107_Ka%CA%BBepaoka%CA%BBawela-->
-
-Below, I've listed the first batch discovered, as well as some notable objects discovered later on:
 
 
 
@@ -753,12 +730,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 
 
 
-
-
-
-
-
-## Other Whatsits
+### Other Space Whatsits
 
 <span class="catsym">ʻOumuamua</span>
 : The first known instellar object to visit the Solar System. 
@@ -774,11 +746,28 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 
 
 
+## Various Other Unicode Astro Symbols
+
+- Symbols for the relative posititions of objects: <span class="catsym">☊☋☌☍⚹⚺⚻⚼⯳⯴⯵⯶⯷⯸<span class="catPUA"></span></span>
+- Some fortune-teller-types use "Lilith" and "Priapus" to refer to the Moon's perigee and apogee. (Nearest and farthest orbital points from the Earth.) <span class="catsym">⚸⯞<span class="catPUA"></span></span> Lilith is either a primordial demon or the first woman, sculpted from the same clay as Adam. Priapus is the god of beekeeping and big schlongers. 
+- Then there's also "White Moon Selena" and "True Light Moon Arta" <span class="catsym">⯝⯟<span class="catPUA"></span></span>, astrological points which have *some* sort of connection to the moon's orbit. I tried following the citations from the unicode documents, but [the page I ended up at](https://astrologer.ru/book/light_moon/index.html.en) gave off powerful Time Cube energy.
+- Speculating about a major planet out past Pluto is a popular hobby, and astrologers haven't skipped out on the fun. 
+    - <span class="catsym">⯗ Generic Transpluto Planet</span>: This character is listed in the unicode standard simply as "Transpluto". <!--Sometimes called Isis(TODO) or Bacchus (god of inebriation and madness).-->
+    - <span class="catsym">⯘ Proserpina</span>: Same namesake as asteroid 26, but otherwise no connection. (But yeah, dang. Given the myth, maybe that name should have been saved for an eccentric Kuiper belt object, like a comet or something.)
+    - There's also  <span class="catsym">⯠ Cupido, ⯡ Hades, ⯢ Zeus, ⯣ Kronos, ⯤ Apollon, ⯥ Admetos, ⯦ Vulcanus, and ⯧ Poseidon </span>. 
+        - Most of those are just alternate names for gods that already had a planet or asteroid named after them. I do have to admit, however, that the symbols for Vulcanus and Poseidon are snazzy enough that I've included them up above as alternate symbols for Vulcan and Neptune.
+        - The odd one out here is Admetos. His story is that Apollo loved this guy a lot, and so when he learned that Admetus was soon fated to die, Apollo convinced the fates to let someone else die in his place. But oh no, his wife Alcestis is the one who volunteers to die! Ironic tragedy! It all works out in the end because Heracles stops by, wrassles Thanatos into submission, and brings Alcestis back to the world of the living.
 
 
 
 
 
+
+
+
+
+
+---
 
 <table>
 <thead><tr>
@@ -848,6 +837,8 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
 - https://solarsystem.nasa.gov/resources/682/space-tourism-posters/
 - https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=24
 - https://minorplanetcenter.net//iau/lists/MPNames.html
+
+https://www.unicode.org/charts/nameslist/n_2B00.html
 
 <!--https://web.archive.org/web/20110429095406/http://www.tongva.com/-->
 
