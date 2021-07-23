@@ -155,12 +155,12 @@ I have some links at the end. But the source for a lot of these snippets is "som
 <td>Ruler of the underworld. God of mineral wealth. Kidnapped Ceres' daughter, who must now stay in the underworld each winter because she ate an underworldly pomegranate.</td>
 </tr>
 <tr>
-<td class="catsym">Haumea<br></td>
+<td class="catsym">Haumea<br><span class="catPUA"></span></td>
 <td>Spins so fast it's egg-shaped. Tiny little rings. Both of these features are the result of the planet's history as the product of a violent collision between multiple objects.</td>
 <td>Fertility god who gave humans the ability to give birth.</td>
 </tr>
 <tr>
-<td class="catsym">Makemake<br></td>
+<td class="catsym">Makemake<br><span class="catPUA"></span></td>
 <td>It's kinda red, but not, like, super red. Red-tinged and covered in pellets of solid methane. Not as much nitrogen as Pluto or Triton.</td>
 <td>Lead god of the birdman cult. Associated with a proxy-war-like ritual involving a deadly race to collect the first tern egg of the season.</td>
 </tr>
