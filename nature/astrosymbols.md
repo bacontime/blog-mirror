@@ -865,7 +865,7 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
     - The charts with the codepoints of the astro symbols: [Unicode1](
 https://www.unicode.org/charts/nameslist/n_2600.html), [Unicode2](
 https://www.unicode.org/charts/nameslist/n_2B00.html), [Catrinity](http://catrinity-font.de/downloads/CatrinityPrivateUseArea.pdf). (ctrl+f "astro")
-    - [The janky font I made for moon symbols.](https://bacontime.github.io/moonsymbols.ttf)
+    - [The janky font I made for moon symbols.](astrosymbols/moonsymbols.ttf)
 - Namesakes:
     - [Overly Sarcastic - Miscellaneous Myths](https://www.youtube.com/playlist?list=PLDb22nlVXGgeoPb-HBWwzEeoAwDvckSrC)
     - [Quaoar faq](http://www.chadtrujillo.com/quaoar/)
