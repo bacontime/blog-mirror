@@ -148,7 +148,7 @@ I have some links at the end. But the source for a lot of these snippets is "som
 <tr>
 <td class="catsym">Ceres<br>⚳</td>
 <td>Largest asteroid. Made of clay and brine. Cryovolcanoes. Originally considered a planet. (Pluto is not unique in that regard.) There's a dead satellite orbitting around it. Has the water and organic compounds needed for life, but is far too cold and small for any chance of life occuring in Ceres' past.</td>
-<td>God of the harvest, agriculture, and especially grain. Hates pigs. Winter happens when her daughter goes to the underworld. Guards the barrier between life and death?</td>
+<td>God of the harvest, agriculture, and especially grain. Hates pigs. Winter happens when her daughter goes to the underworld. Guards the barrier between life and death? Ceres is also the namesake of Cerium, a soft rare-earth-element used in pigments and LEDs.</td>
 </tr>
 <tr>
 <td class="catsym">Pluto<br>♇<br><small>alt: ⯓⯔⯕⯖</small></td>
@@ -438,7 +438,7 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 </tr>
 <tr>
 <td class="catsym">The Fifth Giant</td>
-<td>Cimputer simulations of the early somewhat suggest that the shape of the solar system is more easily explained if there used to be a third ice giant which has since been ejected from the system.</td>
+<td>Computer simulations of the early somewhat suggest that the shape of the solar system is more easily explained if there used to be a third ice giant which has since been ejected from the system.</td>
 <td>This hypothetical fifth giant is sometimes informally referred to as Hades, Liber (party wine god), or Mephitis (god of the noxious gasses that seap from the ground).</td>
 </tr>
 </table>
@@ -455,7 +455,7 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 <tr>
 <td class="catsym">Sol<br>☉<br><small>alt: ☀☼</small></td>
 <td>1. <a href="https://www.youtube.com/watch?v=3JdWlSF195Y">An explanation of the sun</a>. 2. <a href="https://www.youtube.com/watch?v=sLkGSV9WDMA">A correction to this explanation</a>.</td>
-<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). Associated with gold by alchemists.</td>
+<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). The sun is classically associated with gold, and Helium is named after Helios because of Helium's role in nuclear fusion.</td>
 </tr>
 </table>
 
