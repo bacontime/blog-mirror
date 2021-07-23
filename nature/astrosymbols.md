@@ -118,7 +118,7 @@ I have some links at the end. But the source for a lot of these snippets is "som
 </tr>
 <tr>
 <td class="catsym">Uranus<br>♅<br><small>alt: ⛢</small></td>
-<td>Sideways ice giant. Made of eerily smooth gas. Mantle made of water and methane. Pressure near the core intense to cause diamond snow.</td>
+<td>Sideways ice giant. Made of eerily smooth gas. Mantle made of water and methane. Pressure near the core intense to cause diamond snow. Coldest planet?</td>
 <td>Primordial sky god. Overthrown by his son Saturn.</td>
 </tr>
 <tr>
@@ -435,6 +435,11 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 <td class="catsym">Vulcan<br>⯦<span class="catPUA"></span></td>
 <td>Urbain Le Verrier famously predicted the existence of Neptune through irregularities in the orbit of Uranus. He also predicted the existence of Vulcan through the irregularities in the orbit of Mercury. Alas, Vulcan doesn't exist. Rather, the irregularities are explained by general relativity. However, the space between the sun and Mercury is surprisingly empty compared to what we see in other systems. So maybe such a planet did exist long ago before spiraling into the sun.</td>
 <td>God of fire, the forge, volcanoes, and deserts. Frought marriage with Venus.</td>
+</tr>
+<tr>
+<td class="catsym">The Fifth Giant</td>
+<td>Cimputer simulations of the early somewhat suggest that the shape of the solar system is more easily explained if there used to be a third ice giant which has since been ejected from the system.</td>
+<td>This hypothetical fifth giant is sometimes informally referred to as Hades, Liber (party wine god), or Mephitis (god of the noxious gasses that seap from the ground).</td>
 </tr>
 </table>
 
@@ -865,9 +870,11 @@ https://www.unicode.org/charts/nameslist/n_2B00.html), [Catrinity](http://catrin
 - Namesakes:
     - [Overly Sarcastic - Miscellaneous Myths](https://www.youtube.com/playlist?list=PLDb22nlVXGgeoPb-HBWwzEeoAwDvckSrC)
     - [Quaoar faq](http://www.chadtrujillo.com/quaoar/)
+    - [Gazetteer of Planetary Nomenclature](https://planetarynames.wr.usgs.gov/)
 - Other:
     - [Space tourism posters](https://solarsystem.nasa.gov/resources/682/space-tourism-posters/)
     - [This old janky nasa.gov subsite for kids.](https://starchild.gsfc.nasa.gov/docs/StarChild/solar_system_level2/solar_system.html)
+    - [XKCD planet surface area comparison](https://xkcd.com/1389/)
 
 
 
