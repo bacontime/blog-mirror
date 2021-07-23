@@ -752,7 +752,7 @@ These aren't actually objects so much as they're regions of the sky.
 ## Various Other Astro Symbols
 
 - Symbols for the relative posititions of objects: <span class="catsym">☊☋☌☍⚹⚺⚻⚼⯳⯴⯵⯶⯷⯸<span class="catPUA"></span></span>
-- Some fortune-teller-types use "Lilith" and "Priapus" to refer to the Moon's perigee and apogee. (Nearest and farthest orbital points from the Earth.) <span class="catsym">⚸⯞<span class="catPUA"></span></span> Lilith is either a primordial demon or the first woman, sculpted from the same clay as Adam. Priapus is the god of beekeeping and big schlongers. 
+- Some fortune-teller-types use "Lilith" and "Priapus" to refer to the Moon's perigee and apogee. (Nearest and farthest orbital points from the Earth.) <span class="catsym">⚸⯞<span class="catPUA"></span></span> Lilith is either a primordial demon or the first woman, sculpted from the same clay as Adam. Priapus is the god of beekeeping and jumbo schlongers. 
 - Then there's also "White Moon Selena" and "True Light Moon Arta" <span class="catsym">⯝⯟<span class="catPUA"></span></span>, astrological points which have *some* sort of connection to the moon's orbit. I tried following the citations from the unicode documents, but [the page I ended up at](https://astrologer.ru/book/light_moon/index.html.en) gave off powerful Time Cube energy.
 - Speculating about a major planet out past Pluto is a popular hobby, and astrologers haven't skipped out on the fun. 
     - <span class="catsym">⯗ Generic Transpluto Planet</span>: This character is listed in the unicode standard simply as "Transpluto". <!--Sometimes called Isis(TODO) or Bacchus (god of inebriation and madness).-->
