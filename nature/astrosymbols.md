@@ -49,8 +49,7 @@ td{vertical-align: middle;}
 </style>
 
 
-
-![](astrosymbols/squarerootscaleplanets.png)
+<a href="astrosymbols/squarerootscaleplanets.png"><img src="astrosymbols/squarerootscaleplanets.png"></a>
 
 
 The following is an incomplete list of objects in the Solar System, along with their namesakes and symbols.
@@ -455,7 +454,7 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 <tr>
 <td class="catsym">Sol<br>☉<br><small>alt: ☀☼</small></td>
 <td>1. <a href="https://www.youtube.com/watch?v=3JdWlSF195Y">An explanation of the sun</a>. 2. <a href="https://www.youtube.com/watch?v=sLkGSV9WDMA">A correction to this explanation</a>.</td>
-<td>the word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). The sun is classically associated with gold, and Helium is named after Helios because of Helium's role in nuclear fusion.</td>
+<td>The word sol means "the sun". Speaking of grecoroman myth, it's often associated with Apollo (who does some future sight business), and Helios (who rides around with his sky horses.). The sun is classically associated with gold, and Helium is named after Helios because of Helium's role in nuclear fusion.</td>
 </tr>
 </table>
 
