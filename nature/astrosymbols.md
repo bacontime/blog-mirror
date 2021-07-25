@@ -243,7 +243,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 <td class="catsym">Europa<br>
 <span class="moonsym">E</span>
 <small><br>(♃-II)</small></td>
-<td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestial life.</td>
+<td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestrial life.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
 </tr>
 <tr>
@@ -251,7 +251,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 <span class="moonsym">G</span>
 <small><br>(♃-III)</small></td>
 <td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
-<td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Juipter's personal cupbearer.</td>
+<td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Jupiter's personal cupbearer.</td>
 </tr>
 <tr>
 <td class="catsym">Callisto<br>
@@ -271,7 +271,7 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 <td class="catsym">Triton<br>
 <span class="moonsym">R</span>
 <br><small>(♆-I)</small></td>
-<td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryvolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
+<td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryovolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
 <td>Son of Neptune. Merman with a magic conch.</td>
 </tr>
 </table>
@@ -331,7 +331,7 @@ Well, Enceladus is teeny tiny, but it's round and interesting enough that it see
 <span class="moonsym">a</span>
 <br><small>(♅-I)</small></td>
 <td>Relatively bright and porous surface.</td>
-<td>Slyph with power over the winds, bound to serve the magician Prospero.</td>
+<td>Sylph with power over the winds, bound to serve the magician Prospero.</td>
 </tr>
 <tr>
 <td class="catsym">Umbriel<br>
@@ -438,7 +438,7 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 <tr>
 <td class="catsym">The Fifth Giant</td>
 <td>Computer simulations of the early somewhat suggest that the shape of the solar system is more easily explained if there used to be a third ice giant which has since been ejected from the system.</td>
-<td>This hypothetical fifth giant is sometimes informally referred to as Hades, Liber (party wine god), or Mephitis (god of the noxious gasses that seap from the ground).</td>
+<td>This hypothetical fifth giant is sometimes informally referred to as Hades, Liber (party wine god), or Mephitis (god of the noxious gasses that seep from the ground).</td>
 </tr>
 </table>
 
@@ -490,11 +490,11 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <tr><td class="catsym">8 Flora <br><span class="catPUA"></span>⚘</td><td> God of flowers and springtime.</td></tr>
 <tr><td class="catsym">9 Metis <br><span class="catPUA"></span></td><td> Titan of wisdom and skilled council. Mother of Athena.</td></tr>
 <tr><td class="catsym">10 Hygiea <br><span class="catPUA"></span>⯚<!--⚕--></td><td> God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me. <br> 4th largest asteroid.</td></tr>
-<tr><td class="catsym">11 Parthenope <br><span class="catPUA"></span></td><td> Siren Either failed to lure Odysseus or was turned into a city by Jupiter.</td></tr>
+<tr><td class="catsym">11 Parthenope <br><span class="catPUA"></span></td><td> Siren. Either failed to lure Odysseus or was turned into a city by Jupiter.</td></tr>
 <tr><td class="catsym">12 Victoria <br><span class="catPUA"></span></td><td> God of victory.</td></tr>
-<tr><td class="catsym">13 Egeria <br><span class="catPUA"></span></td><td> Nymph who gave laws and to early Rome. </td></tr>
+<tr><td class="catsym">13 Egeria <br><span class="catPUA"></span></td><td> Nymph who gave laws to early Rome. </td></tr>
 <tr><td class="catsym">14 Irene <br><span class="catPUA"></span></td><td> Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis</td></tr>
-<tr><td class="catsym">15 Eunomia <br><span class="catPUA"></span></td><td> Personification of Order. God of law, legistlation, and pastures.</td></tr>
+<tr><td class="catsym">15 Eunomia <br><span class="catPUA"></span></td><td> Personification of Order. God of law, legislation, and pastures.</td></tr>
 <tr><td class="catsym">16 Psyche <br><span class="catPUA"></span></td><td> God of the soul. A beautiful mortal who married Cupid and was tormented by his mother Venus. The symbol is supposed to be a butterfly's wing. <br> The asteroid is thought to be the exposed core of a shattered protoplanet, and there's a plan to visit it in 2026. (Mission tagline: "Journey to a Metal World")</td></tr>
 <tr><td class="catsym">17 Thetis <br><span class="catPUA"></span></td><td> Sea nymph, mother of Achilles</td></tr>
 <tr><td class="catsym">18 Melpomene <br><span class="catPUA"></span></td><td> Muse of the Chorus and Tregedy.</td></tr>
@@ -505,7 +505,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <tr><td class="catsym">23 Thalia</td><td> Muse of comedy.</td></tr>
 <tr><td class="catsym">24 Themis</td><td> Titan of divine law. Second wife of Jupiter.</td></tr>
 <tr><td class="catsym">25 Phocaea</td><td> Named after a city.</td></tr>
-<tr><td class="catsym">26 Proserpina <br><span class="catPUA"></span></td><td> Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.</td></tr>
+<tr><td class="catsym">26 Proserpina <br><span class="catPUA"></span></td><td> Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranate seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.</td></tr>
 <tr><td class="catsym">28 Bellona <br><span class="catPUA"></span></td><td> Wife of Mars. Also a god of a crazed bloodthirsty war. Likes to ride into battle with her hubby and has a special talent when it comes to destroying entire cities.</td></tr>
 <tr><td class="catsym">29 Amphitrite <br><span class="catPUA"></span></td><td> Neptune's wife. God of the sea and salt water.</td></tr>
 <tr><td class="catsym">30 Urania</td><td> Muse of astronomy.</td></tr>
@@ -715,7 +715,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 ### Other Space Whatsits
 
 <span class="catsym">ʻOumuamua</span>
-: The first known instellar object to visit the Solar System. 
+: The first known interstellar object to visit the Solar System. 
 : Its name means something like "scout". Probably not aliens, but for a while there, that wasn't a completely ludicrous hypothesis.
 
 <span class="catsym">2019 OK</span>
@@ -751,7 +751,7 @@ These aren't actually objects so much as they're regions of the sky.
 
 ## Various Other Astro Symbols
 
-- Symbols for the relative posititions of objects: <span class="catsym">☊☋☌☍⚹⚺⚻⚼⯳⯴⯵⯶⯷⯸<span class="catPUA"></span></span>
+- Symbols for the relative positions of objects: <span class="catsym">☊☋☌☍⚹⚺⚻⚼⯳⯴⯵⯶⯷⯸<span class="catPUA"></span></span>
 - Some fortune-teller-types use "Lilith" and "Priapus" to refer to the Moon's perigee and apogee. (Nearest and farthest orbital points from the Earth.) <span class="catsym">⚸⯞<span class="catPUA"></span></span> Lilith is either a primordial demon or the first woman, sculpted from the same clay as Adam. Priapus is the god of beekeeping and jumbo schlongers. 
 - Then there's also "White Moon Selena" and "True Light Moon Arta" <span class="catsym">⯝⯟<span class="catPUA"></span></span>, astrological points which have *some* sort of connection to the moon's orbit. I tried following the citations from the unicode documents, but [the page I ended up at](https://astrologer.ru/book/light_moon/index.html.en) gave off powerful Time Cube energy.
 - Speculating about a major planet out past Pluto is a popular hobby, and astrologers haven't skipped out on the fun. 
@@ -785,7 +785,7 @@ These aren't actually objects so much as they're regions of the sky.
 
 Jupiter's Symbol is the letter zeta crossed with Jupiter's staff. 
 These symbols for <span class="moonsym">E</span> Europa, <span class="moonsym">G</span>  Ganymede and <span class="moonsym">C</span>  Callisto - all watery moons of Jupiter - take the first greek letter of the moon's name (γ,ε,ϰ), and cross it with with a line. [Moskowitz' symbols for these moons](https://suberic.net/~dmm/astro/moons.html) are similar, but with capital letters. 
-The miniscule versions of the letters just felt more *spacey* to me.
+The minuscule versions of the letters just felt more *spacey* to me.
 
 Plus, as a bonus, this version of the Europa symbol looks vaguely like a bull's horns, and a lowercase gamma looks a bit like a bird.
 
@@ -854,7 +854,7 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
     - [Physical data for Moons](https://ssd.jpl.nasa.gov/?sat_phys_par)
     - [Wikipedia - List of gravitationally rounded objects of the Solar System](https://en.wikipedia.org/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System)
     - [JPL Small-Body Database Browser](https://ssd.jpl.nasa.gov/sbdb.cgi?sstr=24)
-    - [IAU Minor PLanet Center](https://minorplanetcenter.net//iau/lists/MPNames.html)
+    - [IAU Minor Planet Center](https://minorplanetcenter.net//iau/lists/MPNames.html)
     - [Astrum youtube channel](https://www.youtube.com/c/astrumspace/videos)
     - [Anton Petrov youtube channel](https://www.youtube.com/c/whatdamath/videos)
 - Symbols:
