@@ -97,7 +97,7 @@ I have some links at the end. But the source for a lot of these snippets is "som
 </tr>
 <tr>
 <td class="catsym">Terra<br>⊕<br><small>alt: ♁</small></td>
-<td>Liquid water surface oceans. Exotic slimes.</td>
+<td>Liquid water surface oceans. Exotic slimes. <!--Unusual amount of phosphorous.--></td>
 <td>Earth. You know, dirt and stuff. </td>
 </tr>
 <tr>
@@ -717,6 +717,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <span class="catsym">ʻOumuamua</span>
 : The first known interstellar object to visit the Solar System. 
 : Its name means something like "scout". Probably not aliens, but for a while there, that wasn't a completely ludicrous hypothesis.
+: Likely a chunk of solid nitrogen broken off from some other system's equivalent of Pluto, hurled into the cosmic void, and eroded by cosmic rays.
 
 <span class="catsym">2019 OK</span>
 : An Apollo-class object that passed close to the Earth in 2019. Because of the angle of its orbit, we had very little warning about its approach. 
@@ -857,6 +858,7 @@ https://www.heritagetype.com/pages/free-vintage-illustrations
     - [IAU Minor Planet Center](https://minorplanetcenter.net//iau/lists/MPNames.html)
     - [Astrum youtube channel](https://www.youtube.com/c/astrumspace/videos)
     - [Anton Petrov youtube channel](https://www.youtube.com/c/whatdamath/videos)
+    - [Diagramatic Planet Position Viewer](https://www.theplanetstoday.com/index.html0) 
 - Symbols:
     - [Wikipedia - Astronomical Symbols](https://en.wikipedia.org/wiki/Astronomical_symbols) has all of the official ones.
     - [Wikimedia - Asteroid Symbols](https://commons.wikimedia.org/wiki/Asteroid_symbols)
