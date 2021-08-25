@@ -203,7 +203,20 @@ More families of pretty flowers which bore me `¯\_(ツ)_/¯`:
 - Figwort Family (Scrophulariaceae)
 
 
+---
 
+<script src="https://giscus.app/client.js"
+        data-repo="RMWinslow/posts"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkzMzQ3MjkyMjA="
+        data-category="Comments"
+        data-category-id="DIC_kwDOE_OQBM4B-zgA"
+        data-mapping="pathname"
+        data-reactions-enabled="1"
+        data-emit-metadata="0"
+        data-theme="transparent_dark"
+        crossorigin="anonymous"
+        async>
+</script>
 
 
 <!--
