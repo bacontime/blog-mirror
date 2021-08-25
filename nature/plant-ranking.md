@@ -219,6 +219,16 @@ More families of pretty flowers which bore me `¯\_(ツ)_/¯`:
 </script>
 
 
+<script src="https://utteranc.es/client.js"
+        repo="RMWinslow/posts"
+        issue-term="pathname"
+        label="Comment"
+        theme="github-dark-orange"
+        crossorigin="anonymous"
+        async>
+</script>
+
+
 <!--
 ---
 
