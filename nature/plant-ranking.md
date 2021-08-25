@@ -205,7 +205,7 @@ More families of pretty flowers which bore me `¯\_(ツ)_/¯`:
 
 ---
 
-<!--<script src="https://giscus.app/client.js"
+<script src="https://giscus.app/client.js"
         data-repo="RMWinslow/posts"
         data-repo-id="MDEwOlJlcG9zaXRvcnkzMzQ3MjkyMjA="
         data-category="Comments"
@@ -216,14 +216,14 @@ More families of pretty flowers which bore me `¯\_(ツ)_/¯`:
         data-theme="preferred_color_scheme"
         crossorigin="anonymous"
         async>
-</script>-->
+</script>
 
 
 <script src="https://utteranc.es/client.js"
         repo="RMWinslow/posts"
         issue-term="pathname"
         label="Comment"
-        theme="github-light"
+        theme="preferred-color-scheme"
         crossorigin="anonymous"
         async>
 </script>
