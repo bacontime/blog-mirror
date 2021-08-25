@@ -16,6 +16,7 @@ Grasses (Poaceae)
 : Maize, wheat, rice, and other grains provide the majority of dietary energy for humanity. Bamboo, reeds, and straw are common building materials. Sugarcane is an important source of biofuels. We eat it, we live in it, we use it as decoration, we play sports on it, we ferment it to get drunk. Basically the entire human experience is dedicated to cultivating and enjoying grass.
 
 Legume Family (Fabaceae)
+: 🥜
 : Peas, peanuts, beans, chickpeas, alfalfa, liquorice. Important staple crops that fix nitrogen and heal soil. Also includes things like acacia, which is used to make gum, and true indigo, which is used to make, well, indigo. And clovers for luck! I've heard people say that the use of these plants to rejuvenate soil is one of the things which boosted agricultural productivity enough to kickstart the industrial revolution. So thanks, Legume. Thanks for eveything.
 
 Nightshades (Solanaceae)
