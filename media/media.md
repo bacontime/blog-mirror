@@ -1,11 +1,11 @@
 ---
 title: Media
 has_children: true
-nav_exclude: true
+nav_exclude: false
 description: "This is a repository of books, movies, and the like which I like."
 ---
 
-
+<!--
 TODO: 
 
 - Visual artists
@@ -15,3 +15,5 @@ TODO:
 - Music
 - Movies
 - Books
+
+-->
