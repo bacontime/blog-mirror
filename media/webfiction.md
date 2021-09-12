@@ -1,6 +1,6 @@
 ---
 title: Web Fiction
-parent: Media
+parent: _Media
 description: "This is a list of web serials I remember reading."
 nav_exclude: true
 ---
