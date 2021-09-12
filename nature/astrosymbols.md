@@ -1,5 +1,6 @@
 ---
 title: Astro Symbols
+parent: Science and Nature
 ---
 
 <style>

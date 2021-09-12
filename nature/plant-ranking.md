@@ -1,5 +1,6 @@
 ---
 title: Plant Ranking
+parent: Science and Nature
 ---
 
 
