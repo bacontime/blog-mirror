@@ -14,7 +14,7 @@ The following is an incomplete ranking of [plant families](https://www.sbbg.org/
 ## Super Tier
 
 Grasses (Poaceae)
-: Maize, wheat, rice, and other grains provide the majority of dietary energy for humanity. Bamboo, reeds, and straw are common building materials. Sugarcane is an important source of biofuels. We eat it, we live in it, we use it as decoration, we play sports on it, we ferment it to get drunk. Basically the entire human experience is dedicated to cultivating and enjoying grass.
+: Maize, wheat, rice, and other grains provide the majority of dietary energy for humanity. 🌽🌾 Bamboo, reeds, and straw are common building materials. Sugarcane is an important source of biofuels. We eat it, we live in it, we use it as decoration, we play sports on it, we ferment it to get drunk. Basically the entire human experience is dedicated to cultivating and enjoying grass.
 
 Legume Family (Fabaceae)
 : Peas, peanuts, beans, chickpeas, alfalfa, liquorice. 🥜 Important staple crops that fix nitrogen and heal soil. Also includes things like acacia, which is used to make gum, and true indigo, which is used to make, well, indigo. And clovers for luck! I've heard people say that the use of these plants to rejuvenate soil is one of the things which boosted agricultural productivity enough to kickstart the industrial revolution. So thanks, Legume. Thanks for everything.
@@ -29,7 +29,7 @@ Nightshades (Solanaceae)
 ## A Tier
 
 Amaryllis Family (Amaryllidaceae)
-: Amaryllis, daffodils, and onions. The flowers are nice, but onions and garlic are where the real magic's at.
+: Amaryllis, daffodils, and onions. 🧅🧄 The flowers are nice, but onions and garlic are where the real magic's at.
 
 Mallows (Malvaceae)
 : Cacao, okra, cotton, kola nuts,  and durians? Plus, you got pretty stuff like the baobab and the hibiscus in there too? 🌺 If not for my personal onion obsession, this would easily take fourth place. 
@@ -38,28 +38,28 @@ Oak Family (Fagaceae)
 : Oak, chestnut, and beech. The backbone of American forests.
 
 Palms (Arecaceae)
-: A classic cultural symbol,  representing victory, peace, paradise, and vaporwave. Dates and coconuts are very important fruits which come from palms. And to be honest, I just like to look at them. They're neat.
+: A classic cultural symbol,  representing victory, peace, paradise, and vaporwave. 🌴 Dates and coconuts are very important fruits which come from palms. 🥥 And to be honest, I just like to look at them. They're neat.
 
 Olive Family (Oleaceae)
-: Olives, ash, jasmine, and lilacs. This deserves it's place up her for cultural reasons even before considering it's oily magnificence.
+: Olives, ash, jasmine, and lilacs. 🫒 This deserves it's place up her for cultural reasons even before considering it's oily magnificence.
 
 Gourd Family (Cucurbitaceae)
-: Put some pickled cucumbers on your burger, eat some tasty melon, carve a jack-o-lantern, and scrub your back with a luffa. It's gourd time!
+: Put some pickled cucumbers on your burger, eat some tasty melon, carve a jack-o-lantern, and scrub your back with a luffa. 🥒🍈🎃 It's gourd time!
 
 Bromeliads (Bromeliaceae)
-: Pineapples. Nice. [Some of these things are pretty [freaky](https://en.wikipedia.org/wiki/Bromeliaceae#/media/File:Tillandsia_sp._telephone_line_(codiferous).jpg) [looking](https://en.wikipedia.org/wiki/Puya_raimondii), but in a cool way.
+: Pineapples. 🍍 Nice. [Some of these things are pretty [freaky](https://en.wikipedia.org/wiki/Bromeliaceae#/media/File:Tillandsia_sp._telephone_line_(codiferous).jpg) [looking](https://en.wikipedia.org/wiki/Puya_raimondii), but in a cool way.
 
 Cactus (Cactaceae)
-: Iconic.
+: Iconic. 🌵
 
 Rose Family (Rosaceae)
-: Roses themselves, I'm not too keen on. But this family includes Apples, Pears, Blackberries, Raspberries, Strawberries, Plums, Peaches, and Apricots. This family is the poster child for tasty fruit. The only major downside? The family also contains almonds.
+: Roses themselves, I'm not too keen on. 🌹 But this family includes Apples, Pears, Blackberries, Raspberries, Strawberries, Plums, Peaches, Cherries, and Apricots. 🍎🍐🍓🍑🍒🌸 This family is the poster child for tasty fruit. The only major downside? The family also contains almonds.
 
 Musaceae
-: Banananas and plaintains. Surprisingly one of the world's staple foods. Can't call it the "banana family" for [reasons](https://en.wikipedia.org/wiki/Banana-families)
+: Banananas and plaintains. 🍌 Surprisingly one of the world's staple foods. Can't call it the "banana family" for [reasons](https://en.wikipedia.org/wiki/Banana-families)
 
 Rue Family (Rutaceae)
-: Citrus, sichuan pepper, and the curry tree. Good smells, good flavors, good family of plants.
+: Citrus, sichuan pepper, and the curry tree. 🍋🍊 Good smells, good flavors, good family of plants.
 
 
 
@@ -70,10 +70,10 @@ Rue Family (Rutaceae)
 
 
 Carrot Family (Apiaceae)
-: Got some decent veggies like carrots and celery. Some flavorherbs like dill, cumin, parsely. But also some deadly poisons like hemlock and ~~cilantro~~. A nice, solid plant family.
+: Got some decent veggies like carrots and celery. 🥕 Some flavorherbs like dill, cumin, parsely. But also some deadly poisons like hemlock ~~and cilantro~~. A nice, solid plant family.
 
 Sunflower Family (Asteraceae)
-: Sunflowers, daisies (including lettuce), chrysanthemums,  dandelions, tumbleweeds, thistles (including artichokes). Sunflower oil is nice, and thistles are neat. But wow, that's a lot of invasive species. This family would be ranked lower if not for my legal obligation as a Kansas resident to feel positively about sunflowers.
+: Sunflowers, daisies (including lettuce), chrysanthemums,  dandelions, tumbleweeds, thistles (including artichokes). 🌻 Sunflower oil is nice, and thistles are neat. But wow, that's a lot of invasive species. This family would be ranked lower if not for my legal obligation as a Kansas resident to feel positively about sunflowers.
 
 Cypress Family (Cupressaceae)
 : Junipers, Redwoods, cedars. These are some high-quality conifers.
@@ -82,7 +82,7 @@ Willow Family (Salicaceae)
 : Willows, of course. But also aspens, poplars, and cottonwoods. Sitting under a willow tree makes me feel happy.
 
 Tea Family (Theaceae)
-: Tea. It's good.
+: Tea. It's good. 🍵
 
 Coffee Family (Rubiaceae)
 : Obviously, the star of the show is coffee, which I can admit is an impressive plant even if I don't like the stuff myself. But this family is full of plants with interesting medicinal properties, like the quinine tree, kratom, or that shrub they use to make ayahuasca.
@@ -94,7 +94,7 @@ Orchid Family (Orchidaceae)
 
 
 Mustards (Brassicaceae)
-: Cabbage, broccoli, collard greens, kale, cauliflower, and brussel sprouts. Those are all the same species. There's also turnips, radishes, horseradish, and rapeseed, which is used to make canola oil. And of course, most mustard comes from this family. That's an impressive variety of foodstuffs. Shame it's all pretty boring.
+: Cabbage, broccoli, collard greens, kale, cauliflower, and brussel sprouts. 🥦 Those are all the same species. There's also turnips, radishes, horseradish, and rapeseed, which is used to make canola oil. And of course, most mustard comes from this family. That's an impressive variety of foodstuffs. Shame it's all pretty boring.
 
 
 Asparagus Family (Asparagaceae)
@@ -106,7 +106,7 @@ Fig Family (Moraceae)
 
 
 Heath Family (Ericaceae)
-: Blueberries, huckleberries, cranberries, crowberries, bearberries, deerberries, bilberries, lingonberries, farkleberries, whortleberries. We get it, Ericaceae, calm down with the berries. Also, breaking the pattern, this family contains the ghost plant, a small pale white flower which has lost the ability to photosynthesize and lives entirely by stealing nutrients from fungi.
+: Blueberries, huckleberries, cranberries, crowberries, bearberries, deerberries, bilberries, lingonberries, farkleberries, whortleberries. 🫐 We get it, Ericaceae, calm down with the berries. Also, breaking the pattern, this family contains the ghost plant, a small pale white flower which has lost the ability to photosynthesize and lives entirely by stealing nutrients from fungi.
 
 
 Spurge Family (Euphorbiaceae)
@@ -119,7 +119,7 @@ Spurge Family (Euphorbiaceae)
 ## C Tier
 
 Laurel Family (Lauraceae)
-: Includes cinnamon, avocados, and laurel, which is used to make those champion leaf-hat things. Some impressive individual plants, making for a high C tier family.
+: Includes cinnamon, avocados, and laurel, which is used to make those champion leaf-hat things. 🥑 Some impressive individual plants, making for a high C tier family.
 
 Myrtle Family (Myrtaceae)
 : Guava, clove, allspice, eucalyptus.
@@ -137,7 +137,7 @@ Mint Family (Lamiaceae)
 : This family has some good stinks. Mint, sage, thyme, basil, rosemary, lavender, and catnip. I've never smelled teak wood myself, but wikipedia says it smells like leather. 
 
 Cashew Family (Anacardiaceae)
-: One the one hand, mangos, cashews, and pistachios are pretty tight. On the other hand, poison ivy and poison oak? Not so tight, my dude. And cashews are pretty difficult and environmentally costly to farm.
+: One the one hand, mangos, cashews, and pistachios are pretty tight. 🥭 On the other hand, poison ivy and poison oak? Not so tight, my dude. And cashews are pretty difficult and environmentally costly to farm.
 
 
 ---
