@@ -1,7 +1,7 @@
 ---
 title: Movies
 parent: Media
-nav_exclude: true
+nav_exclude: false
 description: "This is a list of movies I've seen and remember."
 ---
 
