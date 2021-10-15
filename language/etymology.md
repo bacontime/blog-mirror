@@ -28,7 +28,7 @@ Salad
 
 ----
 
-4
+5
 
 ----
 
@@ -53,7 +53,6 @@ I'll need to see if iframeresizer has a way of using javascript to modify a para
         data-emit-metadata="1"
         data-theme="preferred_color_scheme"
         crossorigin="anonymous"
-        "origins": ["https://giscus.app", "https://www.rmwinslow.com"],
         async>
 </script>
 
