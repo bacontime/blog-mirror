@@ -28,7 +28,13 @@ Salad
 
 
 
+----
 
+<!--
+Problem is that the height isn't being calculated correctly on mobile. 
+According to the [iframeresizer documentation](http://davidjbradshaw.github.io/iframe-resizer/), this is because "resizeFrom" is set to 'child'.
+The solution might be found in changing the "heightCalculationMethod".
+-->
 
 
 
