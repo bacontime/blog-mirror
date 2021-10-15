@@ -28,9 +28,6 @@ Salad
 
 ----
 
-6
-
-----
 
 <!--
 Problem is that the height isn't being calculated correctly on mobile. 
@@ -51,8 +48,13 @@ I'll need to see if iframeresizer has a way of using javascript to modify a para
         data-mapping="pathname"
         data-reactions-enabled="0"
         data-emit-metadata="1"
-        data-theme="preferred_color_scheme"
+        data-theme="transparent_dark"
         crossorigin="anonymous"
         async>
 </script>
 
+
+<script>
+        var element = document.getElementById("iFrameResizer0"); 
+        element.setAttribute("scrolling", "yes"); 
+</script>
