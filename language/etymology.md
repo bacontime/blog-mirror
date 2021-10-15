@@ -28,7 +28,7 @@ Salad
 
 ----
 
-3
+4
 
 ----
 
@@ -53,15 +53,7 @@ I'll need to see if iframeresizer has a way of using javascript to modify a para
         data-emit-metadata="1"
         data-theme="preferred_color_scheme"
         crossorigin="anonymous"
-        "origins": ["https://giscus.app"],
+        "origins": ["https://giscus.app", "https://www.rmwinslow.com"],
         async>
-</script>
-
-<script>
-function sendMessage<T>(message: T) {
-  const iframe = document.querySelector<HTMLIFrameElement>('iframe.giscus-frame');
-  if (!iframe) return;
-  iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
-}
 </script>
 
