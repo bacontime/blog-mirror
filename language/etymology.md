@@ -27,3 +27,21 @@ Salad
 
 
 
+
+
+
+
+
+
+<script src="https://giscus.app/client.js"
+        data-repo="RMWinslow/posts"
+        data-repo-id="MDEwOlJlcG9zaXRvcnkzMzQ3MjkyMjA="
+        data-category="Comments"
+        data-category-id="DIC_kwDOE_OQBM4B-zgA"
+        data-mapping="pathname"
+        data-reactions-enabled="0"
+        data-emit-metadata="0"
+        data-theme="http://www.rmwinslow.com/posts/teststyle.css"
+        crossorigin="anonymous"
+        async>
+</script>
