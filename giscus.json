@@ -2,7 +2,6 @@
   "origins": [
     "https://giscus.app",
     "https://giscus.vercel.app",
-    "https://www.rmwinslow.com"
   ],
   "originsRegex": [
     "https://giscus-git-([A-z0-9]|-)*giscus\\.vercel\\.app",
