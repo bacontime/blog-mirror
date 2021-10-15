@@ -41,7 +41,7 @@ Salad
         data-mapping="pathname"
         data-reactions-enabled="0"
         data-emit-metadata="0"
-        data-theme="http://www.rmwinslow.com/posts/teststyle.css"
+        data-theme="https://www.rmwinslow.com/posts/teststyle.css"
         crossorigin="anonymous"
         async>
 </script>
