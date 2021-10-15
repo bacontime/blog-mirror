@@ -34,6 +34,8 @@ Salad
 Problem is that the height isn't being calculated correctly on mobile. 
 According to the [iframeresizer documentation](http://davidjbradshaw.github.io/iframe-resizer/), this is because "resizeFrom" is set to 'child'.
 The solution might be found in changing the "heightCalculationMethod".
+Ah, nevermind, I can't easily self-host giscus or even the style sheet, so how on earth can I possibly edit a parameter in the script.
+I'll need to see if iframeresizer has a way of using javascript to modify a parameter.
 -->
 
 
@@ -47,7 +49,7 @@ The solution might be found in changing the "heightCalculationMethod".
         data-mapping="pathname"
         data-reactions-enabled="0"
         data-emit-metadata="0"
-        data-theme="https://www.rmwinslow.com/posts/teststyle.css"
+        data-theme="https://giscus.app/themes/custom_example.css"
         crossorigin="anonymous"
         async>
 </script>
