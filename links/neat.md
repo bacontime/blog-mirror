@@ -11,4 +11,7 @@ nav_exclude: false
 : The USGS used to publish paper maps of little snippets of the US. Nowadays, those maps are automatically generated from computerized data. [Here's a map viewer](https://apps.nationalmap.gov/viewer/); the GMNA Geological Map is very striking. The USGS also lets you view historical geological survery maps with their "[topoview](https://ngmdb.usgs.gov/topoview/viewer/)" viewer; just click on an area and historical maps will appear. [Here's a strange location](https://ngmdb.usgs.gov/topoview/viewer/#15/40.6639/-74.1003), where you can see ship wrecks build up over the decades until they're cleared out, and the bay is turned into a golf course.
 
 [Stalib Datasets](http://lib.stat.cmu.edu/datasets/)
-: A collection of open datasets, as well as links to other resources.
+: A collection of open datasets, as well as links to other resources. (Including the landcover data?) <!--Kaggle looks pretty neat. I need to check it out a bit more.-->
+
+[TensorFlow Playground](https://playground.tensorflow.org/)
+: Interactive visualization of an Neural Network as it learns.
