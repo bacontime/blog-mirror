@@ -4,11 +4,11 @@ parent: Science and Nature
 has_children: true
 ---
 
-In *The State Birds are Garbage*, 
+In [*The State Birds are Garbage*](https://www.youtube.com/watch?v=JAZI5GcPm8c),
 Jam2go calculates "BIRD Uniqueness Points" for each (bird,state) pair, 
 and uses this to assign new state birds.
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/JAZI5GcPm8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" src="https://www.youtube-nocookie.com/embed/JAZI5GcPm8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The video is about much more than that, and is definitely worth a watch,
 but I found the results of the exercise dissapointing. 
