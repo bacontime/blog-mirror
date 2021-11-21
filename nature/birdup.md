@@ -42,7 +42,7 @@ TODO: Details about scoring.
 
 ## The Results
 
-### Using a Weighted Variant of teh [Phi Coefficient](https://en.wikipedia.org/wiki/Phi_coefficient)
+### Using a Weighted Variant of the [Phi Coefficient](https://en.wikipedia.org/wiki/Phi_coefficient)
 
 | State | Bird | Common Name | Example Species | Common Name |
 |---|---|---|---|---|
