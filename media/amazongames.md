@@ -34,6 +34,8 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
     - Local:
 - Rogue Heroes: Ruins of Tasos
     - Local:
+    - Good. Zelda Clone Roguelite.
+    - There's lots of little side mechanics that don't really have any meat, but the core gameplay loop and combat engine are rock solid.
 - Whisky Zombies
     - Local:
 - Song of Horror
@@ -55,6 +57,8 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
     - Local:
 - Indiana Jones and the Fate of Atlantis
 - Metamorphosis
+    - Bad. Nonfunctional.
+    - Too 
 - Secret Files Tunguska
 - Lost Horizon 2
 - Another Lost Phone - Laura's Story
@@ -75,6 +79,8 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 - Faraway
 - Bombslinger
 - Healer's Quest
+    - Meh. 
+    - Only Played a few minutes. Visual style is unique but not super clear. Audio is a mixed bag. Gameplay consists of holding mouse button over a person when their health is low. Might be interesting later in the game, but the hook just isn't there. Cute little experiment though.
 - Beholder
 - The Blind Prophet
 - A Blind Legend
@@ -87,11 +93,15 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 - Before I Forget
 - Aces of the Luftwaffe
     - Local:
+    - Meh. Shmup
+    - I think maybe I just don't like this genre.
 - Moving Out
     - Local:
 - Jim Henson's The Dark Crystal Age of Resistance Tactics
 - Escape Machine City Airborne
 - Optica
+    - Meh. Puzzle.
+    - Perspective gimmick isn't enough to make the game hold my attention.
 - Tengami
     - Bad. Nothing
     - I think it's trying to a puzle game. But the gameplay loop is click on a glowing dot, wait a full minute for your little guy to slowly walk over to it, then click on the new glowing dot that appears.
@@ -117,6 +127,8 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 - Swimsanity! (local only)
     - Local:
 - Table Manners
+    - Okay. Goofy simulator.
+    - Attempts to be Surgeon Simulator but with a date at a restaurant. The gimmick and presentation are fun, but the game is horribly optimized, and some of the simulation elements are unresponsive. <!-- For example, I struggled to light a candle with a lit match. With this kind of game, they should err on the side of causing chaos. It should be *too easy* to start fires, not too hard.-->
 - Strata
 - Bridge Constructor Playground
 - Algo Bot
@@ -173,8 +185,6 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 - Tempest
 - Shock Troopers
 - Ironclad
-- Sengoku 3
-    - Local:
 - SNK 40th Anniversary
 - Shaq Fu: A Legend Reborn
 - The Inner World
@@ -191,9 +201,12 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
     - Local:
 - Vane
 - Dungeon Rushers
-    - Local:
+    - Only Online Multiplayer.
+    - Meh. Dungeon Crawler.
+    - Kinda glitchy. Barebones rpg combat.
 - Grip
     - Local:
+    11 GB?!
 - Reus
 - Turok 2: Seeds of Evil
     - Local:
@@ -213,7 +226,7 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 - PictoQuest
 - Dream Daddy
 - Forsaken Remastered
-    - Local:
+    - Online PVP
 - Max: The Curse of Brotherhood
 - Earthlock
 - Kathy Rain
@@ -248,7 +261,7 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
     - Local:
 - Sherlock Holmes: The Devil's Daughter
 - Hover
-    - Local:
+    - Online Multiplayer
 - When Ski Lifts Go Wrong
 - Hue
     - Bad. 2D Platformer
@@ -297,8 +310,6 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 - 10 Second Ninja X
 - Sokobond
 - Bomber Crew
-- Baseball Stars
-    - Local:
 - The Escapists
 - The Swords of Ditto
     - Local:
@@ -331,7 +342,7 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
     - Local:
 - Whispering Willows
 - Overload
-    - Local:
+    - Online Multiplayer:
 - Orwell Ignorance is Strength
 - Steamworld Dig
 - Hyper Light Drifter
@@ -341,6 +352,8 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 - Darksiders
 - Manual Samuel
     - Local:
+    - Okay.
+    - This game thinks it's a lot funnier than it is, and doesn't respect my time.
 - Chicken Assassin
 - Stealth Inc. 2 
 - Yoku's Island Express
@@ -402,6 +415,7 @@ Aurion: Legacy of the Kori-Odan – What is the purpose of mankind? Find the ans
 
 - Art of Fighting 2
 - Baseball Stars 2
+    - Local:
 - Blazing Star
 - Garou: Mark of the Wolves
 - Fatal Fury Special
@@ -421,6 +435,12 @@ Aurion: Legacy of the Kori-Odan – What is the purpose of mankind? Find the ans
 - Samurai Shodown II
 - Samurai Shodown V Special
 - Sengoku 3
+    - Local:
 - Shock Troopers
 - Shock Troopers 2nd Squad
 - SNK 40th Anniversary Collection
+
+
+
+
+<!--Microchip carp with million AUD golden ticket-->
