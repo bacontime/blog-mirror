@@ -1,6 +1,7 @@
 ---
 title: New State Birds
 parent: Science and Nature
+has_children: true
 ---
 
 In *The State Birds are Garbage*, 
