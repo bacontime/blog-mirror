@@ -8,6 +8,12 @@ In [*The State Birds are Garbage*](https://www.youtube.com/watch?v=JAZI5GcPm8c),
 Jam2go calculates "BIRD Uniqueness Points" for each (bird,state) pair, 
 and uses this to assign new state birds.
 
+<div class="container" style="position: relative; width: 100%; height: 0; padding-bottom: 56.25%;"
+<iframe src="//www.youtube.com/embed/yCOY82UdFrw" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"
+frameborder="0" allowfullscreen class="video"></iframe>
+</div>
+
+
 <iframe width="100%" src="https://www.youtube-nocookie.com/embed/JAZI5GcPm8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 The video is about much more than that, and is definitely worth a watch,
