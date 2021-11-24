@@ -5,8 +5,6 @@ grand_parent: Science and Nature
 has_children: false
 ---
 
-# Bird Scores - Phi Coefficient
-
 
 This BIRDUP scoring system uses the [phi coefficient](https://en.wikipedia.org/wiki/Phi_coefficient). 
 It's essentially the correlation across observations between a bird and a state.
