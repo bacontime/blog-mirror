@@ -29,13 +29,18 @@ Here, the Bird Score for a pair of state and bird is
 
 $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\nBird\times(\nTotal-\nState)\times(\nTotal-\nBird)}}$$
 
-1. TOC
+<details closed markdown="block">
+  <summary>
+    Table of contents
+  </summary>
+- TOC
 {:toc}
+</details>
 
 
 In the tables below, `†` indicates that the bird genus is represented among actual state birds.
 `‡` indicates that the bird is the actual state bird for that state.
-`*` indicates a bird that is non-native. A lack of `*` does not necessarily mean the bird is native.
+`＊` indicates a bird that is non-native. A lack of `*` does not necessarily mean the bird is native.
 
 
 ## Scores for Bird Genera
@@ -210,7 +215,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 |---|---|---|---|---|---|
 | 0.0665 | [Pica](https://en.wikipedia.org/wiki/Pica_(genus))  | Magpie | 387306 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie |
 | 0.0415 | [Selasphorus](https://en.wikipedia.org/wiki/Selasphorus)  | Hummingbird | 210475 | [Selasphorus platycercus](https://en.wikipedia.org/wiki/Selasphorus_platycercus) | Broad-tailed Hummingbird |
-| 0.0362 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) ⃰ | Collared Dove | 292668 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
+| 0.0362 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) * | Collared Dove | 292668 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
 | 0.0266 | [Myadestes](https://en.wikipedia.org/wiki/Myadestes)  |  | 73348 | [Myadestes townsendi](https://en.wikipedia.org/wiki/Myadestes_townsendi) | Townsend's Solitaire |
 | 0.0256 | [Sturnella](https://en.wikipedia.org/wiki/Sturnella) † | Meadowlark | 241188 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) | Western Meadowlark |
 | 0.0253 | [Aechmophorus](https://en.wikipedia.org/wiki/Aechmophorus)  | Grebe | 92411 | [Aechmophorus occidentalis](https://en.wikipedia.org/wiki/Aechmophorus_occidentalis) | Western Grebe |
@@ -235,7 +240,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0077 | [Hylocichla](https://en.wikipedia.org/wiki/Hylocichla) † | Wood Thrush | 47578 | [Hylocichla mustelina](https://en.wikipedia.org/wiki/Hylocichla_mustelina) | Wood Thrush |
 | 0.0073 | [Haematopus](https://en.wikipedia.org/wiki/Haematopus)  | Oystercatcher | 22502 | [Haematopus palliatus](https://en.wikipedia.org/wiki/Haematopus_palliatus) | American Oystercatcher |
 | 0.0071 | [Melospiza](https://en.wikipedia.org/wiki/Melospiza)  | Song Sparrow | 302089 | [Melospiza melodia](https://en.wikipedia.org/wiki/Melospiza_melodia) | Song Sparrow |
-| 0.0068 | [Passer](https://en.wikipedia.org/wiki/Passer) ⃰ | True Sparrow | 187078 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
+| 0.0068 | [Passer](https://en.wikipedia.org/wiki/Passer) * | True Sparrow | 187078 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
 | 0.0066 | [Cyanocitta](https://en.wikipedia.org/wiki/Cyanocitta)  | Blue Jay | 295889 | [Cyanocitta cristata](https://en.wikipedia.org/wiki/Cyanocitta_cristata) | Blue Jay |
 | 0.0064 | [Vermivora](https://en.wikipedia.org/wiki/Vermivora)  | Warbler | 21206 | [Vermivora cyanoptera](https://en.wikipedia.org/wiki/Vermivora_cyanoptera) | Blue-winged Warbler |
 
@@ -250,8 +255,8 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 |---|---|---|---|---|---|
 | 0.0088 | [Chaetura](https://en.wikipedia.org/wiki/Chaetura)  | Swift | 24475 | [Chaetura pelagica](https://en.wikipedia.org/wiki/Chaetura_pelagica) | Chimney Swift |
 | 0.0075 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) † | Carolina Wren | 41998 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
-| 0.0063 | [Sturnus](https://en.wikipedia.org/wiki/Sturnus) ⃰ | Starling | 53975 | [Sturnus vulgaris](https://en.wikipedia.org/wiki/Sturnus_vulgaris) | European Starling |
-| 0.0060 | [Passer](https://en.wikipedia.org/wiki/Passer) ⃰ | True Sparrow | 42950 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
+| 0.0063 | [Sturnus](https://en.wikipedia.org/wiki/Sturnus) * | Starling | 53975 | [Sturnus vulgaris](https://en.wikipedia.org/wiki/Sturnus_vulgaris) | European Starling |
+| 0.0060 | [Passer](https://en.wikipedia.org/wiki/Passer) * | True Sparrow | 42950 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
 | 0.0050 | [Mimus](https://en.wikipedia.org/wiki/Mimus) † | Mockingbird | 30486 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos) | Northern Mockingbird |
 | 0.0044 | [Turdus](https://en.wikipedia.org/wiki/Turdus) † | Robin | 62170 | [Turdus migratorius](https://en.wikipedia.org/wiki/Turdus_migratorius) | American Robin |
 | 0.0041 | [Cardinalis](https://en.wikipedia.org/wiki/Cardinalis) † | Cardinal | 57641 | [Cardinalis cardinalis](https://en.wikipedia.org/wiki/Cardinalis_cardinalis) | Northern Cardinal |
@@ -294,7 +299,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0706 | [Mycteria](https://en.wikipedia.org/wiki/Mycteria)  | Stork | 284639 | [Mycteria americana](https://en.wikipedia.org/wiki/Mycteria_americana) | Wood Stork |
 | 0.0664 | [Aramus](https://en.wikipedia.org/wiki/Aramus)  |  | 184399 | [Aramus guarauna](https://en.wikipedia.org/wiki/Aramus_guarauna) | Limpkin |
 | 0.0634 | [Gallinula](https://en.wikipedia.org/wiki/Gallinula)  |  | 389658 | [Gallinula galeata](https://en.wikipedia.org/wiki/Gallinula_galeata) | Common Gallinule |
-| 0.0501 | [Bubulcus](https://en.wikipedia.org/wiki/Bubulcus) ⃰ | Cattle Egret | 314435 | [Bubulcus ibis](https://en.wikipedia.org/wiki/Bubulcus_ibis) | Cattle Egret |
+| 0.0501 | [Bubulcus](https://en.wikipedia.org/wiki/Bubulcus) * | Cattle Egret | 314435 | [Bubulcus ibis](https://en.wikipedia.org/wiki/Bubulcus_ibis) | Cattle Egret |
 | 0.0497 | [Thalasseus](https://en.wikipedia.org/wiki/Thalasseus)  | Crested Tern | 312301 | [Thalasseus maximus](https://en.wikipedia.org/wiki/Thalasseus_maximus) | Royal Tern |
 | 0.0463 | [Pandion](https://en.wikipedia.org/wiki/Pandion_(bird))  | Osprey | 678520 | [Pandion haliaetus](https://en.wikipedia.org/wiki/Pandion_haliaetus) | Osprey |
 | 0.0459 | [Elanoides](https://en.wikipedia.org/wiki/Elanoides)  |  | 111055 | [Elanoides forficatus](https://en.wikipedia.org/wiki/Elanoides_forficatus) | Swallow-tailed Kite |
@@ -328,10 +333,10 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.2383 | [Zosterops](https://en.wikipedia.org/wiki/Zosterops) ⃰ | White-Eyes | 82840 | [Zosterops japonicus](https://en.wikipedia.org/wiki/Zosterops_japonicus) |  |
-| 0.2324 | [Acridotheres](https://en.wikipedia.org/wiki/Acridotheres) ⃰ | Myna | 89440 | [Acridotheres tristis](https://en.wikipedia.org/wiki/Acridotheres_tristis) | Common Myna |
-| 0.2317 | [Geopelia](https://en.wikipedia.org/wiki/Geopelia) ⃰ |  | 78346 | [Geopelia striata](https://en.wikipedia.org/wiki/Geopelia_striata) |  |
-| 0.1972 | [Paroaria](https://en.wikipedia.org/wiki/Paroaria) ⃰ |  | 56710 | [Paroaria coronata](https://en.wikipedia.org/wiki/Paroaria_coronata) |  |
+| 0.2383 | [Zosterops](https://en.wikipedia.org/wiki/Zosterops) * | White-Eyes | 82840 | [Zosterops japonicus](https://en.wikipedia.org/wiki/Zosterops_japonicus) |  |
+| 0.2324 | [Acridotheres](https://en.wikipedia.org/wiki/Acridotheres) * | Myna | 89440 | [Acridotheres tristis](https://en.wikipedia.org/wiki/Acridotheres_tristis) | Common Myna |
+| 0.2317 | [Geopelia](https://en.wikipedia.org/wiki/Geopelia) * |  | 78346 | [Geopelia striata](https://en.wikipedia.org/wiki/Geopelia_striata) |  |
+| 0.1972 | [Paroaria](https://en.wikipedia.org/wiki/Paroaria) * |  | 56710 | [Paroaria coronata](https://en.wikipedia.org/wiki/Paroaria_coronata) |  |
 | 0.1564 | [Himatione](https://en.wikipedia.org/wiki/Himatione)  |  | 35689 | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
 | 0.1530 | [Chlorodrepanis](https://en.wikipedia.org/wiki/Chlorodrepanis)  |  | 34136 | [Chlorodrepanis virens](https://en.wikipedia.org/wiki/Chlorodrepanis_virens) |  |
 | 0.1340 | [Pycnonotus](https://en.wikipedia.org/wiki/Pycnonotus)  |  | 33210 | [Pycnonotus cafer](https://en.wikipedia.org/wiki/Pycnonotus_cafer) |  |
@@ -348,10 +353,10 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0125 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †⃰ | Pheasant | 21293 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
+| 0.0125 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †* | Pheasant | 21293 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
 | 0.0115 | [Spiza](https://en.wikipedia.org/wiki/Spiza)  | Dickcissel | 15850 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
 | 0.0073 | [Melanerpes](https://en.wikipedia.org/wiki/Melanerpes)  | Woodpecker | 97621 | [Melanerpes erythrocephalus](https://en.wikipedia.org/wiki/Melanerpes_erythrocephalus) | Red-headed Woodpecker |
-| 0.0065 | [Passer](https://en.wikipedia.org/wiki/Passer) ⃰ | True Sparrow | 76639 | [Passer montanus](https://en.wikipedia.org/wiki/Passer_montanus) | Eurasian Tree Sparrow |
+| 0.0065 | [Passer](https://en.wikipedia.org/wiki/Passer) * | True Sparrow | 76639 | [Passer montanus](https://en.wikipedia.org/wiki/Passer_montanus) | Eurasian Tree Sparrow |
 | 0.0058 | [Troglodytes](https://en.wikipedia.org/wiki/Troglodytes_(bird))  | House Wren | 45929 | [Troglodytes aedon](https://en.wikipedia.org/wiki/Troglodytes_aedon) | House Wren |
 | 0.0057 | [Haliaeetus](https://en.wikipedia.org/wiki/Haliaeetus)  | Sea Eagle | 42291 | [Haliaeetus leucocephalus](https://en.wikipedia.org/wiki/Haliaeetus_leucocephalus) | Bald Eagle |
 | 0.0049 | [Spatula](https://en.wikipedia.org/wiki/Spatula_(bird))  | Shoveler/Teal | 40013 | [Spatula discors](https://en.wikipedia.org/wiki/Spatula_discors) | Blue-winged Teal |
@@ -370,14 +375,14 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 |---|---|---|---|---|---|
 | 0.0408 | [Pica](https://en.wikipedia.org/wiki/Pica_(genus))  | Magpie | 118106 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie |
 | 0.0235 | [Callipepla](https://en.wikipedia.org/wiki/Callipepla) † | Crested Quail | 53404 | [Callipepla californica](https://en.wikipedia.org/wiki/Callipepla_californica) | California Quail |
-| 0.0154 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) ⃰ | Collared Dove | 65286 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
+| 0.0154 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) * | Collared Dove | 65286 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
 | 0.0128 | [Euphagus](https://en.wikipedia.org/wiki/Euphagus)  | Blackbird | 38584 | [Euphagus cyanocephalus](https://en.wikipedia.org/wiki/Euphagus_cyanocephalus) | Brewer's Blackbird |
 | 0.0126 | [Aechmophorus](https://en.wikipedia.org/wiki/Aechmophorus)  | Grebe | 23444 | [Aechmophorus occidentalis](https://en.wikipedia.org/wiki/Aechmophorus_occidentalis) | Western Grebe |
 | 0.0111 | [Falco](https://en.wikipedia.org/wiki/Falcon)  | Falcon | 81038 | [Falco sparverius](https://en.wikipedia.org/wiki/Falco_sparverius) | American Kestrel |
 | 0.0102 | [Xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus)  | Yellow-headed Blackbird | 18567 | [Xanthocephalus xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus_xanthocephalus) | Yellow-headed Blackbird |
 | 0.0097 | [Buteo](https://en.wikipedia.org/wiki/Buteo)  | Hawk | 135819 | [Buteo swainsoni](https://en.wikipedia.org/wiki/Buteo_swainsoni) | Swainson's Hawk |
 | 0.0090 | [Oreoscoptes](https://en.wikipedia.org/wiki/Oreoscoptes)  | Sage Thrasher | 6303 | [Oreoscoptes montanus](https://en.wikipedia.org/wiki/Oreoscoptes_montanus) | Sage Thrasher |
-| 0.0088 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †⃰ | Pheasant | 18645 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
+| 0.0088 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †* | Pheasant | 18645 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
 
 
 
@@ -388,7 +393,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0147 | [Passer](https://en.wikipedia.org/wiki/Passer) ⃰ | True Sparrow | 434206 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
+| 0.0147 | [Passer](https://en.wikipedia.org/wiki/Passer) * | True Sparrow | 434206 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
 | 0.0127 | [Centronyx](https://en.wikipedia.org/wiki/Centronyx)  | Sparrow | 18756 | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
 | 0.0124 | [Chaetura](https://en.wikipedia.org/wiki/Chaetura)  | Swift | 163030 | [Chaetura pelagica](https://en.wikipedia.org/wiki/Chaetura_pelagica) | Chimney Swift |
 | 0.0121 | [Spiza](https://en.wikipedia.org/wiki/Spiza)  | Dickcissel | 46626 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
@@ -416,7 +421,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0069 | [Centronyx](https://en.wikipedia.org/wiki/Centronyx)  | Sparrow | 7607 | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
 | 0.0068 | [Spizella](https://en.wikipedia.org/wiki/Spizella)  | Sparrow | 173525 | [Spizella pusilla](https://en.wikipedia.org/wiki/Spizella_pusilla) | Field Sparrow |
 | 0.0065 | [Sitta](https://en.wikipedia.org/wiki/Sitta)  | Nuthatch | 247310 | [Sitta carolinensis](https://en.wikipedia.org/wiki/Sitta_carolinensis) | White-breasted Nuthatch |
-| 0.0062 | [Passer](https://en.wikipedia.org/wiki/Passer) ⃰ | True Sparrow | 181515 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
+| 0.0062 | [Passer](https://en.wikipedia.org/wiki/Passer) * | True Sparrow | 181515 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
 | 0.0060 | [Molothrus](https://en.wikipedia.org/wiki/Molothrus)  | Cowbird | 115449 | [Molothrus ater](https://en.wikipedia.org/wiki/Molothrus_ater) | Brown-headed Cowbird |
 
 
@@ -455,7 +460,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0066 | [Coragyps](https://en.wikipedia.org/wiki/Coragyps)  | Black Vulture | 35716 | [Coragyps atratus](https://en.wikipedia.org/wiki/Coragyps_atratus) | Black Vulture |
 | 0.0066 | [Melanerpes](https://en.wikipedia.org/wiki/Melanerpes)  | Woodpecker | 109288 | [Melanerpes carolinus](https://en.wikipedia.org/wiki/Melanerpes_carolinus) | Red-bellied Woodpecker |
 | 0.0058 | [Cathartes](https://en.wikipedia.org/wiki/Cathartes)  | Turkey Vulture | 84477 | [Cathartes aura](https://en.wikipedia.org/wiki/Cathartes_aura) | Turkey Vulture |
-| 0.0051 | [Sturnus](https://en.wikipedia.org/wiki/Sturnus) ⃰ | Starling | 101534 | [Sturnus vulgaris](https://en.wikipedia.org/wiki/Sturnus_vulgaris) | European Starling |
+| 0.0051 | [Sturnus](https://en.wikipedia.org/wiki/Sturnus) * | Starling | 101534 | [Sturnus vulgaris](https://en.wikipedia.org/wiki/Sturnus_vulgaris) | European Starling |
 | 0.0050 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria)  | Prothonotary warbler | 8107 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
 | 0.0049 | [Icteria](https://en.wikipedia.org/wiki/Icteria)  | Yellow-breasted Chat | 10504 | [Icteria virens](https://en.wikipedia.org/wiki/Icteria_virens) | Yellow-breasted Chat |
 
@@ -470,7 +475,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 |---|---|---|---|---|---|
 | 0.0255 | [Egretta](https://en.wikipedia.org/wiki/Egretta)  | Egret | 171844 | [Egretta thula](https://en.wikipedia.org/wiki/Egretta_thula) | Snowy Egret |
 | 0.0182 | [Eudocimus](https://en.wikipedia.org/wiki/Eudocimus)  | Ibis | 63812 | [Eudocimus albus](https://en.wikipedia.org/wiki/Eudocimus_albus) | White Ibis |
-| 0.0177 | [Bubulcus](https://en.wikipedia.org/wiki/Bubulcus) ⃰ | Cattle Egret | 50157 | [Bubulcus ibis](https://en.wikipedia.org/wiki/Bubulcus_ibis) | Cattle Egret |
+| 0.0177 | [Bubulcus](https://en.wikipedia.org/wiki/Bubulcus) * | Cattle Egret | 50157 | [Bubulcus ibis](https://en.wikipedia.org/wiki/Bubulcus_ibis) | Cattle Egret |
 | 0.0176 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia)  | Mississippi Kite | 27044 | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
 | 0.0165 | [Mimus](https://en.wikipedia.org/wiki/Mimus) † | Mockingbird | 164645 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos) | Northern Mockingbird |
 | 0.0142 | [Lanius](https://en.wikipedia.org/wiki/Lanius)  | Shrike | 50080 | [Lanius ludovicianus](https://en.wikipedia.org/wiki/Lanius_ludovicianus) | Loggerhead Shrike |
@@ -569,7 +574,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0140 | [Dryobates](https://en.wikipedia.org/wiki/Dryobates)  | Woodpecker | 436581 | [Dryobates villosus](https://en.wikipedia.org/wiki/Dryobates_villosus) | Hairy Woodpecker |
-| 0.0139 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †⃰ | Pheasant | 46603 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
+| 0.0139 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †* | Pheasant | 46603 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
 | 0.0128 | [Haliaeetus](https://en.wikipedia.org/wiki/Haliaeetus)  | Sea Eagle | 156850 | [Haliaeetus leucocephalus](https://en.wikipedia.org/wiki/Haliaeetus_leucocephalus) | Bald Eagle |
 | 0.0126 | [Aix](https://en.wikipedia.org/wiki/Aix_(bird))  | Wood Duck | 121146 | [Aix sponsa](https://en.wikipedia.org/wiki/Aix_sponsa) | Wood Duck |
 | 0.0121 | [Poecile](https://en.wikipedia.org/wiki/Poecile) † | Chickadee | 448373 | [Poecile atricapillus](https://en.wikipedia.org/wiki/Poecile_atricapillus) | Black-capped Chickadee |
@@ -630,14 +635,14 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 |---|---|---|---|---|---|
 | 0.0490 | [Pica](https://en.wikipedia.org/wiki/Pica_(genus))  | Magpie | 151463 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie |
 | 0.0243 | [Nucifraga](https://en.wikipedia.org/wiki/Nucifraga)  | Nutcracker | 24361 | [Nucifraga columbiana](https://en.wikipedia.org/wiki/Nucifraga_columbiana) | Clark's Nutcracker |
-| 0.0157 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †⃰ | Pheasant | 32921 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
+| 0.0157 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †* | Pheasant | 32921 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
 | 0.0156 | [Pooecetes](https://en.wikipedia.org/wiki/Pooecetes)  |  | 31238 | [Pooecetes gramineus](https://en.wikipedia.org/wiki/Pooecetes_gramineus) | Vesper Sparrow |
 | 0.0156 | [Myadestes](https://en.wikipedia.org/wiki/Myadestes)  |  | 23231 | [Myadestes townsendi](https://en.wikipedia.org/wiki/Myadestes_townsendi) | Townsend's Solitaire |
-| 0.0145 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) ⃰ | Collared Dove | 68395 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
+| 0.0145 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) * | Collared Dove | 68395 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
 | 0.0143 | [Aquila](https://en.wikipedia.org/wiki/Aquila_(bird))  | True Eagle | 17889 | [Aquila chrysaetos](https://en.wikipedia.org/wiki/Aquila_chrysaetos) | Golden Eagle |
 | 0.0134 | [Sturnella](https://en.wikipedia.org/wiki/Sturnella) ‡ | Meadowlark | 69555 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) | Western Meadowlark |
 | 0.0133 | [Xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus)  | Yellow-headed Blackbird | 25367 | [Xanthocephalus xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus_xanthocephalus) | Yellow-headed Blackbird |
-| 0.0130 | [Perdix](https://en.wikipedia.org/wiki/Perdix) ⃰ | Partridge | 7149 | [Perdix perdix](https://en.wikipedia.org/wiki/Perdix_perdix) | Gray Partridge |
+| 0.0130 | [Perdix](https://en.wikipedia.org/wiki/Perdix) * | Partridge | 7149 | [Perdix perdix](https://en.wikipedia.org/wiki/Perdix_perdix) | Gray Partridge |
 
 
 
@@ -668,14 +673,14 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0193 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †⃰ | Pheasant | 24049 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
+| 0.0193 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †* | Pheasant | 24049 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
 | 0.0183 | [Tympanuchus](https://en.wikipedia.org/wiki/Tympanuchus)  | Prarie Chicken | 6539 | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
 | 0.0161 | [Xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus)  | Yellow-headed Blackbird | 18180 | [Xanthocephalus xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus_xanthocephalus) | Yellow-headed Blackbird |
 | 0.0128 | [Bartramia](https://en.wikipedia.org/wiki/Bartramia_(bird))  | Upland Sandpiper | 7042 | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
 | 0.0112 | [Chlidonias](https://en.wikipedia.org/wiki/Chlidonias)  |  | 9608 | [Chlidonias niger](https://en.wikipedia.org/wiki/Chlidonias_niger) | Black Tern |
 | 0.0110 | [Spatula](https://en.wikipedia.org/wiki/Spatula_(bird))  | Shoveler/Teal | 46662 | [Spatula discors](https://en.wikipedia.org/wiki/Spatula_discors) | Blue-winged Teal |
 | 0.0109 | [Sturnella](https://en.wikipedia.org/wiki/Sturnella) ‡ | Meadowlark | 33785 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) | Western Meadowlark |
-| 0.0103 | [Perdix](https://en.wikipedia.org/wiki/Perdix) ⃰ | Partridge | 3576 | [Perdix perdix](https://en.wikipedia.org/wiki/Perdix_perdix) | Gray Partridge |
+| 0.0103 | [Perdix](https://en.wikipedia.org/wiki/Perdix) * | Partridge | 3576 | [Perdix perdix](https://en.wikipedia.org/wiki/Perdix_perdix) | Gray Partridge |
 | 0.0096 | [Phalaropus](https://en.wikipedia.org/wiki/Phalaropus)  |  | 11671 | [Phalaropus tricolor](https://en.wikipedia.org/wiki/Phalaropus_tricolor) | Wilson's Phalarope |
 | 0.0095 | [Dolichonyx](https://en.wikipedia.org/wiki/Dolichonyx)  |  | 12354 | [Dolichonyx oryzivorus](https://en.wikipedia.org/wiki/Dolichonyx_oryzivorus) | Bobolink |
 
@@ -690,8 +695,8 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 |---|---|---|---|---|---|
 | 0.0163 | [Spiza](https://en.wikipedia.org/wiki/Spiza)  | Dickcissel | 19658 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
 | 0.0151 | [Sturnella](https://en.wikipedia.org/wiki/Sturnella) ‡ | Meadowlark | 52365 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) | Western Meadowlark |
-| 0.0121 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †⃰ | Pheasant | 18728 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
-| 0.0110 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) ⃰ | Collared Dove | 38307 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
+| 0.0121 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †* | Pheasant | 18728 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
+| 0.0110 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) * | Collared Dove | 38307 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
 | 0.0099 | [Tympanuchus](https://en.wikipedia.org/wiki/Tympanuchus)  | Prarie Chicken | 4213 | [Tympanuchus cupido](https://en.wikipedia.org/wiki/Tympanuchus_cupido) | Greater Prairie-Chicken |
 | 0.0089 | [Colinus](https://en.wikipedia.org/wiki/Colinus)  | Bobwhite | 10081 | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
 | 0.0087 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes)  |  | 13158 | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
@@ -756,7 +761,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0198 | [Callipepla](https://en.wikipedia.org/wiki/Callipepla) † | Crested Quail | 61432 | [Callipepla squamata](https://en.wikipedia.org/wiki/Callipepla_squamata) | Scaled Quail |
 | 0.0196 | [Gymnorhinus](https://en.wikipedia.org/wiki/Gymnorhinus)  | Pinyon Jay | 13673 | [Gymnorhinus cyanocephalus](https://en.wikipedia.org/wiki/Gymnorhinus_cyanocephalus) | Pinyon Jay |
 | 0.0180 | [Myadestes](https://en.wikipedia.org/wiki/Myadestes)  |  | 32323 | [Myadestes townsendi](https://en.wikipedia.org/wiki/Myadestes_townsendi) | Townsend's Solitaire |
-| 0.0173 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) ⃰ | Collared Dove | 97804 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
+| 0.0173 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) * | Collared Dove | 97804 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
 | 0.0161 | [Haemorhous](https://en.wikipedia.org/wiki/Haemorhous)  | Rosefinch | 259544 | [Haemorhous mexicanus](https://en.wikipedia.org/wiki/Haemorhous_mexicanus) | House Finch |
 
 
@@ -771,7 +776,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0278 | [Callipepla](https://en.wikipedia.org/wiki/Callipepla) † | Crested Quail | 49041 | [Callipepla gambelii](https://en.wikipedia.org/wiki/Callipepla_gambelii) | Gambel's Quail |
 | 0.0216 | [Auriparus](https://en.wikipedia.org/wiki/Auriparus)  | Verdin | 29373 | [Auriparus flaviceps](https://en.wikipedia.org/wiki/Auriparus_flaviceps) | Verdin |
 | 0.0153 | [Phainopepla](https://en.wikipedia.org/wiki/Phainopepla)  | Phainopepla | 14504 | [Phainopepla nitens](https://en.wikipedia.org/wiki/Phainopepla_nitens) | Phainopepla |
-| 0.0152 | [Tetraogallus](https://en.wikipedia.org/wiki/Tetraogallus) ⃰ | Snowcock | 672 | [Tetraogallus himalayensis](https://en.wikipedia.org/wiki/Tetraogallus_himalayensis) |  |
+| 0.0152 | [Tetraogallus](https://en.wikipedia.org/wiki/Tetraogallus) * | Snowcock | 672 | [Tetraogallus himalayensis](https://en.wikipedia.org/wiki/Tetraogallus_himalayensis) |  |
 | 0.0149 | [Artemisiospiza](https://en.wikipedia.org/wiki/Artemisiospiza)  | Sparrow | 5324 | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
 | 0.0138 | [Amphispiza](https://en.wikipedia.org/wiki/Amphispiza)  |  | 12902 | [Amphispiza bilineata](https://en.wikipedia.org/wiki/Amphispiza_bilineata) | Black-throated Sparrow |
 | 0.0137 | [Fulica](https://en.wikipedia.org/wiki/Coot)  | Coot | 53207 | [Fulica americana](https://en.wikipedia.org/wiki/Fulica_americana) | American Coot |
@@ -792,8 +797,8 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0196 | [Dumetella](https://en.wikipedia.org/wiki/Dumetella)  | Gray Catbird | 598555 | [Dumetella carolinensis](https://en.wikipedia.org/wiki/Dumetella_carolinensis) | Gray Catbird |
 | 0.0164 | [Branta](https://en.wikipedia.org/wiki/Branta) † | Black Goose | 1053772 | [Branta bernicla](https://en.wikipedia.org/wiki/Branta_bernicla) | Brant |
 | 0.0128 | [Cyanocitta](https://en.wikipedia.org/wiki/Cyanocitta)  | Blue Jay | 1158294 | [Cyanocitta cristata](https://en.wikipedia.org/wiki/Cyanocitta_cristata) | Blue Jay |
-| 0.0123 | [Passer](https://en.wikipedia.org/wiki/Passer) ⃰ | True Sparrow | 713416 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
-| 0.0119 | [Sturnus](https://en.wikipedia.org/wiki/Sturnus) ⃰ | Starling | 895261 | [Sturnus vulgaris](https://en.wikipedia.org/wiki/Sturnus_vulgaris) | European Starling |
+| 0.0123 | [Passer](https://en.wikipedia.org/wiki/Passer) * | True Sparrow | 713416 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
+| 0.0119 | [Sturnus](https://en.wikipedia.org/wiki/Sturnus) * | Starling | 895261 | [Sturnus vulgaris](https://en.wikipedia.org/wiki/Sturnus_vulgaris) | European Starling |
 | 0.0111 | [Melospiza](https://en.wikipedia.org/wiki/Melospiza)  | Song Sparrow | 1120243 | [Melospiza melodia](https://en.wikipedia.org/wiki/Melospiza_melodia) | Song Sparrow |
 | 0.0111 | [Columba](https://en.wikipedia.org/wiki/Columba_(bird))  | Pigeon | 431557 | [Columba livia](https://en.wikipedia.org/wiki/Columba_livia) | Rock Pigeon |
 | 0.0107 | [Cygnus](https://en.wikipedia.org/wiki/Swan)  | Swan | 210030 | [Cygnus olor](https://en.wikipedia.org/wiki/Cygnus_olor) | Mute Swan |
@@ -832,7 +837,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0133 | [Tyrannus](https://en.wikipedia.org/wiki/Tyrannus) ‡ | Kingbird/Flycatcher | 70179 | [Tyrannus forficatus](https://en.wikipedia.org/wiki/Tyrannus_forficatus) | Scissor-tailed Flycatcher |
 | 0.0107 | [Spiza](https://en.wikipedia.org/wiki/Spiza)  | Dickcissel | 14500 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
 | 0.0095 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes)  |  | 15360 | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
-| 0.0093 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) ⃰ | Collared Dove | 36984 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
+| 0.0093 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) * | Collared Dove | 36984 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
 | 0.0090 | [Sturnella](https://en.wikipedia.org/wiki/Sturnella) † | Meadowlark | 39044 | [Sturnella magna](https://en.wikipedia.org/wiki/Sturnella_magna) | Eastern Meadowlark |
 | 0.0081 | [Mimus](https://en.wikipedia.org/wiki/Mimus) † | Mockingbird | 65170 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos) | Northern Mockingbird |
 | 0.0078 | [Colinus](https://en.wikipedia.org/wiki/Colinus)  | Bobwhite | 9753 | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
@@ -891,7 +896,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0154 | [Larus](https://en.wikipedia.org/wiki/Larus) † | Gull | 134161 | [Larus marinus](https://en.wikipedia.org/wiki/Larus_marinus) | Great Black-backed Gull |
 | 0.0150 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax)  | Cormorant | 8422 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
 | 0.0145 | [Somateria](https://en.wikipedia.org/wiki/Somateria)  | Eider | 18190 | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider |
-| 0.0139 | [Cuculus](https://en.wikipedia.org/wiki/Cuculus) ⃰ | Cuckoo | 672 | [Cuculus canorus](https://en.wikipedia.org/wiki/Cuculus_canorus) | Common Cuckoo |
+| 0.0139 | [Cuculus](https://en.wikipedia.org/wiki/Cuculus) * | Cuckoo | 672 | [Cuculus canorus](https://en.wikipedia.org/wiki/Cuculus_canorus) | Common Cuckoo |
 | 0.0093 | [Melanitta](https://en.wikipedia.org/wiki/Melanitta)  | Scoter | 20964 | [Melanitta americana](https://en.wikipedia.org/wiki/Melanitta_americana) | Black Scoter |
 | 0.0075 | [Gavia](https://en.wikipedia.org/wiki/Loon) † | Loon | 23304 | [Gavia immer](https://en.wikipedia.org/wiki/Gavia_immer) | Common Loon |
 | 0.0065 | [Cygnus](https://en.wikipedia.org/wiki/Swan)  | Swan | 19549 | [Cygnus olor](https://en.wikipedia.org/wiki/Cygnus_olor) | Mute Swan |
@@ -928,7 +933,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0145 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) ‡⃰ | Pheasant | 15094 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
+| 0.0145 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) ‡* | Pheasant | 15094 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
 | 0.0118 | [Sturnella](https://en.wikipedia.org/wiki/Sturnella) † | Meadowlark | 28631 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) | Western Meadowlark |
 | 0.0115 | [Bartramia](https://en.wikipedia.org/wiki/Bartramia_(bird))  | Upland Sandpiper | 5213 | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
 | 0.0108 | [Tympanuchus](https://en.wikipedia.org/wiki/Tympanuchus)  | Prarie Chicken | 3235 | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
@@ -992,11 +997,11 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0209 | [Recurvirostra](https://en.wikipedia.org/wiki/Recurvirostra)  | Avocet | 41087 | [Recurvirostra americana](https://en.wikipedia.org/wiki/Recurvirostra_americana) | American Avocet |
 | 0.0201 | [Aechmophorus](https://en.wikipedia.org/wiki/Aechmophorus)  | Grebe | 41176 | [Aechmophorus clarkii](https://en.wikipedia.org/wiki/Aechmophorus_clarkii) | Clark's Grebe |
 | 0.0195 | [Xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus)  | Yellow-headed Blackbird | 38183 | [Xanthocephalus xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus_xanthocephalus) | Yellow-headed Blackbird |
-| 0.0193 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) ⃰ | Collared Dove | 92492 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
+| 0.0193 | [Streptopelia](https://en.wikipedia.org/wiki/Streptopelia) * | Collared Dove | 92492 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) | Eurasian Collared-Dove |
 | 0.0177 | [Aquila](https://en.wikipedia.org/wiki/Aquila_(bird))  | True Eagle | 23315 | [Aquila chrysaetos](https://en.wikipedia.org/wiki/Aquila_chrysaetos) | Golden Eagle |
 | 0.0163 | [Aphelocoma](https://en.wikipedia.org/wiki/Aphelocoma)  | Scrub Jay | 53017 | [Aphelocoma woodhouseii](https://en.wikipedia.org/wiki/Aphelocoma_woodhouseii) | Woodhouse's Scrub-Jay |
-| 0.0149 | [Alectoris](https://en.wikipedia.org/wiki/Alectoris) ⃰ | Rock Partridge | 7064 | [Alectoris chukar](https://en.wikipedia.org/wiki/Alectoris_chukar) | Chukar |
-| 0.0143 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †⃰ | Pheasant | 32783 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
+| 0.0149 | [Alectoris](https://en.wikipedia.org/wiki/Alectoris) * | Rock Partridge | 7064 | [Alectoris chukar](https://en.wikipedia.org/wiki/Alectoris_chukar) | Chukar |
+| 0.0143 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) †* | Pheasant | 32783 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
 | 0.0140 | [Salpinctes](https://en.wikipedia.org/wiki/Salpinctes)  |  | 19107 | [Salpinctes obsoletus](https://en.wikipedia.org/wiki/Salpinctes_obsoletus) | Rock Wren |
 
 
@@ -1276,7 +1281,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0645 | [Selasphorus platycercus](https://en.wikipedia.org/wiki/Selasphorus_platycercus)  | Broad-tailed Hummingbird | 174912 |
 | 0.0470 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) † | Western Meadowlark | 240927 |
 | 0.0449 | [Poecile gambeli](https://en.wikipedia.org/wiki/Poecile_gambeli)  | Mountain Chickadee | 174321 |
-| 0.0369 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) ⃰ | Eurasian Collared-Dove | 292188 |
+| 0.0369 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) * | Eurasian Collared-Dove | 292188 |
 | 0.0356 | [Aphelocoma woodhouseii](https://en.wikipedia.org/wiki/Aphelocoma_woodhouseii)  | Woodhouse's Scrub-Jay | 99324 |
 | 0.0327 | [Sialia currucoides](https://en.wikipedia.org/wiki/Sialia_currucoides) † | Mountain Bluebird | 86998 |
 | 0.0295 | [Sitta pygmaea](https://en.wikipedia.org/wiki/Sitta_pygmaea)  | Pygmy Nuthatch | 74209 |
@@ -1316,8 +1321,8 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0123 | [Corvus ossifragus](https://en.wikipedia.org/wiki/Corvus_ossifragus)  | Fish Crow | 26969 |
 | 0.0093 | [Chaetura pelagica](https://en.wikipedia.org/wiki/Chaetura_pelagica)  | Chimney Swift | 24475 |
 | 0.0075 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) † | Carolina Wren | 41998 |
-| 0.0063 | [Sturnus vulgaris](https://en.wikipedia.org/wiki/Sturnus_vulgaris) ⃰ | European Starling | 53975 |
-| 0.0061 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) ⃰ | House Sparrow | 42950 |
+| 0.0063 | [Sturnus vulgaris](https://en.wikipedia.org/wiki/Sturnus_vulgaris) * | European Starling | 53975 |
+| 0.0061 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) * | House Sparrow | 42950 |
 | 0.0056 | [Poecile carolinensis](https://en.wikipedia.org/wiki/Poecile_carolinensis)  | Carolina Chickadee | 27503 |
 | 0.0055 | [Zonotrichia albicollis](https://en.wikipedia.org/wiki/Zonotrichia_albicollis)  | White-throated Sparrow | 28883 |
 | 0.0051 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos) † | Northern Mockingbird | 30486 |
@@ -1392,12 +1397,12 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
-| 0.2383 | [Zosterops japonicus](https://en.wikipedia.org/wiki/Zosterops_japonicus) ⃰ |  | 82840 |
-| 0.2350 | [Acridotheres tristis](https://en.wikipedia.org/wiki/Acridotheres_tristis) ⃰ | Common Myna | 89440 |
-| 0.2317 | [Geopelia striata](https://en.wikipedia.org/wiki/Geopelia_striata) ⃰ |  | 78346 |
+| 0.2383 | [Zosterops japonicus](https://en.wikipedia.org/wiki/Zosterops_japonicus) * |  | 82840 |
+| 0.2350 | [Acridotheres tristis](https://en.wikipedia.org/wiki/Acridotheres_tristis) * | Common Myna | 89440 |
+| 0.2317 | [Geopelia striata](https://en.wikipedia.org/wiki/Geopelia_striata) * |  | 78346 |
 | 0.2023 | [Streptopelia chinensis](https://en.wikipedia.org/wiki/Streptopelia_chinensis)  | Spotted Dove | 63162 |
 | 0.1651 | [Pluvialis fulva](https://en.wikipedia.org/wiki/Pluvialis_fulva)  | Pacific Golden-Plover | 54637 |
-| 0.1649 | [Paroaria coronata](https://en.wikipedia.org/wiki/Paroaria_coronata) ⃰ |  | 39698 |
+| 0.1649 | [Paroaria coronata](https://en.wikipedia.org/wiki/Paroaria_coronata) * |  | 39698 |
 | 0.1564 | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea)  | Apapane | 35689 |
 | 0.1416 | [Chlorodrepanis virens](https://en.wikipedia.org/wiki/Chlorodrepanis_virens)  |  | 29234 |
 | 0.1318 | [Estrilda astrild](https://en.wikipedia.org/wiki/Estrilda_astrild)  |  | 25340 |
@@ -1413,7 +1418,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0180 | [Passer montanus](https://en.wikipedia.org/wiki/Passer_montanus)  | Eurasian Tree Sparrow | 7675 |
-| 0.0125 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †⃰ | Ring-necked Pheasant | 21293 |
+| 0.0125 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †* | Ring-necked Pheasant | 21293 |
 | 0.0115 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana)  | Dickcissel | 15850 |
 | 0.0114 | [Melanerpes erythrocephalus](https://en.wikipedia.org/wiki/Melanerpes_erythrocephalus)  | Red-headed Woodpecker | 24590 |
 | 0.0082 | [Pelecanus erythrorhynchos](https://en.wikipedia.org/wiki/Pelecanus_erythrorhynchos)  | American White Pelican | 20786 |
@@ -1439,7 +1444,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0166 | [Euphagus cyanocephalus](https://en.wikipedia.org/wiki/Euphagus_cyanocephalus)  | Brewer's Blackbird | 38461 |
 | 0.0160 | [Buteo swainsoni](https://en.wikipedia.org/wiki/Buteo_swainsoni)  | Swainson's Hawk | 25401 |
 | 0.0158 | [Passerina amoena](https://en.wikipedia.org/wiki/Passerina_amoena)  | Lazuli Bunting | 20762 |
-| 0.0157 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) ⃰ | Eurasian Collared-Dove | 65282 |
+| 0.0157 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) * | Eurasian Collared-Dove | 65282 |
 | 0.0155 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) † | Western Meadowlark | 42774 |
 | 0.0143 | [Selasphorus calliope](https://en.wikipedia.org/wiki/Selasphorus_calliope)  | Calliope Hummingbird | 10890 |
 
@@ -1454,7 +1459,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 |---|---|---|---|
 | 0.0140 | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii)  | Henslow's Sparrow | 18756 |
 | 0.0138 | [Passerina cyanea](https://en.wikipedia.org/wiki/Passerina_cyanea)  | Indigo Bunting | 161280 |
-| 0.0138 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) ⃰ | House Sparrow | 419893 |
+| 0.0138 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) * | House Sparrow | 419893 |
 | 0.0137 | [Chaetura pelagica](https://en.wikipedia.org/wiki/Chaetura_pelagica)  | Chimney Swift | 163028 |
 | 0.0130 | [Passer montanus](https://en.wikipedia.org/wiki/Passer_montanus)  | Eurasian Tree Sparrow | 14313 |
 | 0.0125 | [Branta canadensis](https://en.wikipedia.org/wiki/Branta_canadensis)  | Canada Goose | 509568 |
@@ -1534,7 +1539,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 |---|---|---|---|
 | 0.0186 | [Ardea alba](https://en.wikipedia.org/wiki/Ardea_alba)  | Great Egret | 133593 |
 | 0.0182 | [Eudocimus albus](https://en.wikipedia.org/wiki/Eudocimus_albus)  | White Ibis | 63812 |
-| 0.0177 | [Bubulcus ibis](https://en.wikipedia.org/wiki/Bubulcus_ibis) ⃰ | Cattle Egret | 50157 |
+| 0.0177 | [Bubulcus ibis](https://en.wikipedia.org/wiki/Bubulcus_ibis) * | Cattle Egret | 50157 |
 | 0.0176 | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis)  | Mississippi Kite | 27044 |
 | 0.0169 | [Egretta thula](https://en.wikipedia.org/wiki/Egretta_thula)  | Snowy Egret | 78150 |
 | 0.0168 | [Lanius ludovicianus](https://en.wikipedia.org/wiki/Lanius_ludovicianus)  | Loggerhead Shrike | 50080 |
@@ -1635,7 +1640,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0253 | [Cygnus buccinator](https://en.wikipedia.org/wiki/Cygnus_buccinator)  | Trumpeter Swan | 69864 |
 | 0.0243 | [Poecile atricapillus](https://en.wikipedia.org/wiki/Poecile_atricapillus)  | Black-capped Chickadee | 443332 |
 | 0.0149 | [Dryobates villosus](https://en.wikipedia.org/wiki/Dryobates_villosus)  | Hairy Woodpecker | 168673 |
-| 0.0139 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †⃰ | Ring-necked Pheasant | 46603 |
+| 0.0139 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †* | Ring-necked Pheasant | 46603 |
 | 0.0139 | [Spizella pallida](https://en.wikipedia.org/wiki/Spizella_pallida)  | Clay-colored Sparrow | 34266 |
 | 0.0131 | [Sitta carolinensis](https://en.wikipedia.org/wiki/Sitta_carolinensis)  | White-breasted Nuthatch | 249129 |
 | 0.0128 | [Haliaeetus leucocephalus](https://en.wikipedia.org/wiki/Haliaeetus_leucocephalus)  | Bald Eagle | 156850 |
@@ -1701,7 +1706,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0171 | [Myadestes townsendi](https://en.wikipedia.org/wiki/Myadestes_townsendi)  | Townsend's Solitaire | 23231 |
 | 0.0170 | [Corvus corax](https://en.wikipedia.org/wiki/Corvus_corax)  | Common Raven | 112518 |
 | 0.0168 | [Sphyrapicus nuchalis](https://en.wikipedia.org/wiki/Sphyrapicus_nuchalis)  | Red-naped Sapsucker | 16678 |
-| 0.0157 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †⃰ | Ring-necked Pheasant | 32921 |
+| 0.0157 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †* | Ring-necked Pheasant | 32921 |
 
 
 
@@ -1734,7 +1739,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 |---|---|---|---|
 | 0.0207 | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus)  | Sharp-tailed Grouse | 6240 |
 | 0.0205 | [Spizella pallida](https://en.wikipedia.org/wiki/Spizella_pallida)  | Clay-colored Sparrow | 19291 |
-| 0.0193 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †⃰ | Ring-necked Pheasant | 24049 |
+| 0.0193 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †* | Ring-necked Pheasant | 24049 |
 | 0.0193 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) ‡ | Western Meadowlark | 33762 |
 | 0.0167 | [Calcarius ornatus](https://en.wikipedia.org/wiki/Calcarius_ornatus)  | Chestnut-collared Longspur | 4748 |
 | 0.0161 | [Xanthocephalus xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus_xanthocephalus)  | Yellow-headed Blackbird | 18180 |
@@ -1756,8 +1761,8 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0169 | [Zonotrichia querula](https://en.wikipedia.org/wiki/Zonotrichia_querula)  | Harris's Sparrow | 13378 |
 | 0.0163 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana)  | Dickcissel | 19658 |
 | 0.0134 | [Tympanuchus cupido](https://en.wikipedia.org/wiki/Tympanuchus_cupido)  | Greater Prairie-Chicken | 2934 |
-| 0.0121 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †⃰ | Ring-necked Pheasant | 18728 |
-| 0.0113 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) ⃰ | Eurasian Collared-Dove | 38303 |
+| 0.0121 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) †* | Ring-necked Pheasant | 18728 |
+| 0.0113 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) * | Eurasian Collared-Dove | 38303 |
 | 0.0106 | [Melanerpes erythrocephalus](https://en.wikipedia.org/wiki/Melanerpes_erythrocephalus)  | Red-headed Woodpecker | 20934 |
 | 0.0097 | [Tyrannus verticalis](https://en.wikipedia.org/wiki/Tyrannus_verticalis)  | Western Kingbird | 17491 |
 | 0.0090 | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus)  | Northern Bobwhite | 10081 |
@@ -1899,7 +1904,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0115 | [Passerina ciris](https://en.wikipedia.org/wiki/Passerina_ciris)  | Painted Bunting | 13547 |
 | 0.0107 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana)  | Dickcissel | 14500 |
 | 0.0102 | [Sturnella magna](https://en.wikipedia.org/wiki/Sturnella_magna)  | Eastern Meadowlark | 29688 |
-| 0.0096 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) ⃰ | Eurasian Collared-Dove | 36943 |
+| 0.0096 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) * | Eurasian Collared-Dove | 36943 |
 | 0.0095 | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus)  | Lark Sparrow | 15360 |
 | 0.0082 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos) † | Northern Mockingbird | 65170 |
 
@@ -1956,7 +1961,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0160 | [Larus argentatus](https://en.wikipedia.org/wiki/Larus_argentatus)  | Herring Gull | 60029 |
 | 0.0150 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo)  | Great Cormorant | 8422 |
 | 0.0149 | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima)  | Common Eider | 17732 |
-| 0.0149 | [Cuculus canorus](https://en.wikipedia.org/wiki/Cuculus_canorus) ⃰ | Common Cuckoo | 672 |
+| 0.0149 | [Cuculus canorus](https://en.wikipedia.org/wiki/Cuculus_canorus) * | Common Cuckoo | 672 |
 | 0.0105 | [Cygnus olor](https://en.wikipedia.org/wiki/Cygnus_olor)  | Mute Swan | 18958 |
 | 0.0090 | [Branta bernicla](https://en.wikipedia.org/wiki/Branta_bernicla)  | Brant | 9532 |
 | 0.0089 | [Melanitta americana](https://en.wikipedia.org/wiki/Melanitta_americana)  | Black Scoter | 8733 |
@@ -1993,7 +1998,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0200 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) † | Western Meadowlark | 28423 |
-| 0.0145 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) ‡⃰ | Ring-necked Pheasant | 15094 |
+| 0.0145 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) ‡* | Ring-necked Pheasant | 15094 |
 | 0.0115 | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda)  | Upland Sandpiper | 5213 |
 | 0.0100 | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus)  | Sharp-tailed Grouse | 2538 |
 | 0.0099 | [Xanthocephalus xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus_xanthocephalus)  | Yellow-headed Blackbird | 9544 |
@@ -2059,7 +2064,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0203 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) † | Western Meadowlark | 63292 |
 | 0.0202 | [Plegadis chihi](https://en.wikipedia.org/wiki/Plegadis_chihi)  | White-faced Ibis | 33048 |
 | 0.0197 | [Spatula cyanoptera](https://en.wikipedia.org/wiki/Spatula_cyanoptera)  | Cinnamon Teal | 38472 |
-| 0.0197 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) ⃰ | Eurasian Collared-Dove | 92453 |
+| 0.0197 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) * | Eurasian Collared-Dove | 92453 |
 | 0.0197 | [Archilochus alexandri](https://en.wikipedia.org/wiki/Archilochus_alexandri)  | Black-chinned Hummingbird | 41781 |
 | 0.0195 | [Xanthocephalus xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus_xanthocephalus)  | Yellow-headed Blackbird | 38183 |
 
@@ -2179,7 +2184,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 | 0.0178 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) ‡ | Western Meadowlark | 30804 |
 | 0.0159 | [Aquila chrysaetos](https://en.wikipedia.org/wiki/Aquila_chrysaetos)  | Golden Eagle | 11895 |
 | 0.0148 | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus)  | Greater Sage-Grouse | 2281 |
-| 0.0135 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) ⃰ | Eurasian Collared-Dove | 35919 |
+| 0.0135 | [Streptopelia decaocto](https://en.wikipedia.org/wiki/Streptopelia_decaocto) * | Eurasian Collared-Dove | 35919 |
 | 0.0133 | [Corvus corax](https://en.wikipedia.org/wiki/Corvus_corax)  | Common Raven | 52152 |
 | 0.0130 | [Oreoscoptes montanus](https://en.wikipedia.org/wiki/Oreoscoptes_montanus)  | Sage Thrasher | 5825 |
 
