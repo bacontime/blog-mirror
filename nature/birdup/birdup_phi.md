@@ -8,13 +8,6 @@ has_children: false
 # Bird Scores - Phi Coefficient
 
 
-<div hidden markdown="block">
-test [^asteriskmeansnonnative]
-test [^plusmeansalreadyisastatebird]
-[^asteriskmeansnonnative]: `*` means non-native bird. A lack of `*` does not necessarily mean the bird is native.
-[^plusmeansalreadyisastatebird]: `+` means that this bird is already a state bird.
-</div>
-
 This BIRDUP scoring system uses the [phi coefficient](https://en.wikipedia.org/wiki/Phi_coefficient). 
 It's essentially the correlation across observations between a bird and a state.
 It uses observation records from the eBird database[^ebirdcitation].
