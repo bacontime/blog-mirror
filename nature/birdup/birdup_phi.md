@@ -6,18 +6,11 @@ has_children: false
 ---
 
 <div hidden markdown="block">
-test [^beancite]
+test [^asteriskmeansnonnative]
+test [^plusmeansalreadyisastatebird]
+[^asteriskmeansnonnative]: `*` means non-native bird. A lack of `*` does not necessarily mean the bird is native.
+[^plusmeansalreadyisastatebird]: `+` means that this bird is already a state bird.
 </div>
-
-<div markdown="block">
-test [^eggcite]
-</div>
-
-
-[^beancite]: Hello
-
-
-[^eggcite]: This is a test.
 
 This BIRDUP system uses the [phi coefficient](https://en.wikipedia.org/wiki/Phi_coefficient). 
 It's essentially the correlation across observations between a bird and a state.
@@ -103,7 +96,15 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 | US-WY | [Aquila](https://en.wikipedia.org/wiki/Aquila_(bird)) | True Eagle | [Aquila chrysaetos](https://en.wikipedia.org/wiki/Aquila_chrysaetos) | Golden Eagle |
 
 
-### Alaska US-AK
+
+### Top Birds by State
+
+In the tables below, `†` indicates that the bird genus is represented among actual state birds.
+`‡` indicates that the bird is the actual state bird for that state.
+`*` indicates a bird that is non-native. A lack of `*` does not necessarily mean the bird is native.
+
+
+#### Alaska US-AK
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -123,7 +124,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Alabama US-AL
+#### Alabama US-AL
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -143,7 +144,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Arkansas US-AR
+#### Arkansas US-AR
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -163,7 +164,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Arizona US-AZ
+#### Arizona US-AZ
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -183,7 +184,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### California US-CA
+#### California US-CA
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -203,7 +204,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Colorado US-CO
+#### Colorado US-CO
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -223,7 +224,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Connecticut US-CT
+#### Connecticut US-CT
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -243,7 +244,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### District of Columbia US-DC
+#### District of Columbia US-DC
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -263,7 +264,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Delaware US-DE
+#### Delaware US-DE
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -283,7 +284,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Florida US-FL
+#### Florida US-FL
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -303,7 +304,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Georgia US-GA
+#### Georgia US-GA
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -323,7 +324,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Hawaii US-HI
+#### Hawaii US-HI
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -343,7 +344,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Iowa US-IA
+#### Iowa US-IA
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -363,7 +364,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Idaho US-ID
+#### Idaho US-ID
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -383,7 +384,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Illinois US-IL
+#### Illinois US-IL
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -403,7 +404,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Indiana US-IN
+#### Indiana US-IN
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -423,7 +424,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Kansas US-KS
+#### Kansas US-KS
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -443,7 +444,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Kentucky US-KY
+#### Kentucky US-KY
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -463,7 +464,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Louisiana US-LA
+#### Louisiana US-LA
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -483,7 +484,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Massachusetts US-MA
+#### Massachusetts US-MA
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -503,7 +504,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Maryland US-MD
+#### Maryland US-MD
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -523,7 +524,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Maine US-ME
+#### Maine US-ME
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -543,7 +544,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Michigan US-MI
+#### Michigan US-MI
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -563,7 +564,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Minnesota US-MN
+#### Minnesota US-MN
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -583,7 +584,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Missouri US-MO
+#### Missouri US-MO
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -603,7 +604,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Mississippi US-MS
+#### Mississippi US-MS
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -623,7 +624,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Montana US-MT
+#### Montana US-MT
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -643,7 +644,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### North Carolina US-NC
+#### North Carolina US-NC
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -663,7 +664,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### North Dakota US-ND
+#### North Dakota US-ND
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -683,7 +684,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Nebraska US-NE
+#### Nebraska US-NE
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -703,7 +704,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### New Hampshire US-NH
+#### New Hampshire US-NH
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -723,7 +724,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### New Jersey US-NJ
+#### New Jersey US-NJ
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -743,7 +744,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### New Mexico US-NM
+#### New Mexico US-NM
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -763,7 +764,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Nevada US-NV
+#### Nevada US-NV
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -783,7 +784,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### New York US-NY
+#### New York US-NY
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -803,7 +804,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Ohio US-OH
+#### Ohio US-OH
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -823,7 +824,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Oklahoma US-OK
+#### Oklahoma US-OK
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -843,7 +844,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Oregon US-OR
+#### Oregon US-OR
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -863,7 +864,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Pennsylvania US-PA
+#### Pennsylvania US-PA
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -883,7 +884,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Rhode Island US-RI
+#### Rhode Island US-RI
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -903,7 +904,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### South Carolina US-SC
+#### South Carolina US-SC
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -923,7 +924,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### South Dakota US-SD
+#### South Dakota US-SD
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -943,7 +944,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Tennessee US-TN
+#### Tennessee US-TN
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -963,7 +964,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Texas US-TX
+#### Texas US-TX
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -983,7 +984,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Utah US-UT
+#### Utah US-UT
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1003,7 +1004,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Virginia US-VA
+#### Virginia US-VA
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1023,7 +1024,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Vermont US-VT
+#### Vermont US-VT
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1043,7 +1044,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Washington US-WA
+#### Washington US-WA
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1063,7 +1064,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Wisconsin US-WI
+#### Wisconsin US-WI
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1083,7 +1084,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### West Virginia US-WV
+#### West Virginia US-WV
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1103,7 +1104,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Wyoming US-WY
+#### Wyoming US-WY
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1161,7 +1162,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 ## Scores for Bird Species
 
-## Unique Top Birds
+### Unique Top Birds
 
 | State | Bird | Common Name |
 |---|---|---|
@@ -1218,7 +1219,17 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 | US-WY | [Sialia currucoides](https://en.wikipedia.org/wiki/Sialia_currucoides) | Mountain Bluebird |
 
 
-### Alaska US-AK
+### Top Birds by State
+
+In the tables below, `†` indicates that the bird genus is represented among actual state birds.
+`‡` indicates that the bird is the actual state bird for that state.
+`*` indicates a bird that is non-native. A lack of `*` does not necessarily mean the bird is native.
+
+
+
+
+
+#### Alaska US-AK
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1238,7 +1249,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Alabama US-AL
+#### Alabama US-AL
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1258,7 +1269,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Arkansas US-AR
+#### Arkansas US-AR
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1278,7 +1289,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Arizona US-AZ
+#### Arizona US-AZ
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1298,7 +1309,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### California US-CA
+#### California US-CA
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1318,7 +1329,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Colorado US-CO
+#### Colorado US-CO
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1338,7 +1349,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Connecticut US-CT
+#### Connecticut US-CT
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1358,7 +1369,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### District of Columbia US-DC
+#### District of Columbia US-DC
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1378,7 +1389,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Delaware US-DE
+#### Delaware US-DE
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1398,7 +1409,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Florida US-FL
+#### Florida US-FL
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1418,7 +1429,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Georgia US-GA
+#### Georgia US-GA
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1438,7 +1449,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Hawaii US-HI
+#### Hawaii US-HI
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1458,7 +1469,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Iowa US-IA
+#### Iowa US-IA
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1478,7 +1489,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Idaho US-ID
+#### Idaho US-ID
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1498,7 +1509,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Illinois US-IL
+#### Illinois US-IL
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1518,7 +1529,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Indiana US-IN
+#### Indiana US-IN
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1538,7 +1549,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Kansas US-KS
+#### Kansas US-KS
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1558,7 +1569,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Kentucky US-KY
+#### Kentucky US-KY
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1578,7 +1589,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Louisiana US-LA
+#### Louisiana US-LA
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1598,7 +1609,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Massachusetts US-MA
+#### Massachusetts US-MA
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1618,7 +1629,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Maryland US-MD
+#### Maryland US-MD
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1638,7 +1649,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Maine US-ME
+#### Maine US-ME
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1658,7 +1669,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Michigan US-MI
+#### Michigan US-MI
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1678,7 +1689,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Minnesota US-MN
+#### Minnesota US-MN
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1698,7 +1709,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Missouri US-MO
+#### Missouri US-MO
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1718,7 +1729,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Mississippi US-MS
+#### Mississippi US-MS
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1738,7 +1749,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Montana US-MT
+#### Montana US-MT
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1758,7 +1769,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### North Carolina US-NC
+#### North Carolina US-NC
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1778,7 +1789,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### North Dakota US-ND
+#### North Dakota US-ND
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1798,7 +1809,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Nebraska US-NE
+#### Nebraska US-NE
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1818,7 +1829,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### New Hampshire US-NH
+#### New Hampshire US-NH
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1838,7 +1849,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### New Jersey US-NJ
+#### New Jersey US-NJ
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1858,7 +1869,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### New Mexico US-NM
+#### New Mexico US-NM
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1878,7 +1889,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Nevada US-NV
+#### Nevada US-NV
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1898,7 +1909,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### New York US-NY
+#### New York US-NY
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1918,7 +1929,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Ohio US-OH
+#### Ohio US-OH
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1938,7 +1949,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Oklahoma US-OK
+#### Oklahoma US-OK
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1958,7 +1969,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Oregon US-OR
+#### Oregon US-OR
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1978,7 +1989,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Pennsylvania US-PA
+#### Pennsylvania US-PA
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1998,7 +2009,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Rhode Island US-RI
+#### Rhode Island US-RI
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2018,7 +2029,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### South Carolina US-SC
+#### South Carolina US-SC
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2038,7 +2049,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### South Dakota US-SD
+#### South Dakota US-SD
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2058,7 +2069,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Tennessee US-TN
+#### Tennessee US-TN
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2078,7 +2089,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Texas US-TX
+#### Texas US-TX
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2098,7 +2109,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Utah US-UT
+#### Utah US-UT
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2118,7 +2129,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Virginia US-VA
+#### Virginia US-VA
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2138,7 +2149,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Vermont US-VT
+#### Vermont US-VT
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2158,7 +2169,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Washington US-WA
+#### Washington US-WA
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2178,7 +2189,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Wisconsin US-WI
+#### Wisconsin US-WI
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2198,7 +2209,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### West Virginia US-WV
+#### West Virginia US-WV
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2218,7 +2229,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 
-### Wyoming US-WY
+#### Wyoming US-WY
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
