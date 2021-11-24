@@ -14,6 +14,7 @@ The video is about much more than that, and is definitely worth a watch,
 but I found the results of the exercise dissapointing. 
 As such, I downloaded 200 gigs of bird data and reran the numbers myself.
 
+- TOC
 {:toc}
 
 ## The Problems with Jam2go's BIRDUP
@@ -45,6 +46,90 @@ TODO: Details about scoring.
 
 ### Using a Weighted Variant of the [Phi Coefficient](https://en.wikipedia.org/wiki/Phi_coefficient)
 
+
+
+## State Bird Tiebreakers
+
+Most of the unique state birds are pretty swell.
+But there's a few big blocks of states that all share the same bird.
+Let's try to decide which state has the best claim on each of these critters.
+
+### The Cardinal States
+
+![A map of the states which have the Cardinal as their state bird.](birdup/statepic_cardinal.png)
+
+Across the temperate forests of the east.
+
+
+
+### The Meadowlark States 
+
+![A map of the states which have the Meadowlark as their state bird.](birdup/statepic_meadowlark.png)
+
+<!--https://ebird.org/science/status-and-trends/wesmea/abundance-map-weekly-->
+
+Just like the cardinal is spread across the temperate forests of the east, the Meadowlark can be found all across the Great Plains. 
+So 5 of these states - Montana, North Dakota, Wyoming, Nebraska, and Kansas  - have pretty goods claims on this little yellow fellow.
+
+But Oregon, what do you think you're doing in the Meadowlark club? 
+Get outta here. 
+There are probably about 20 states that have a better claim to the Meadowlark than Oregon does.
+Oregon can have the [scrub jay](https://en.wikipedia.org/wiki/California_scrub_jay), as a treat.
+
+If only one state can keep the Meadowlark, then my numbers say should go to either Kansas or Nebraska. 
+And whichever of the two doesn't get the Meadowlark ends up with the Dickcissel.
+The Dickcissel looks like an off-brand Meadowlark, but has [some pretty impressive migratory patterns](https://ebird.org/science/status-and-trends/dickci/abundance-map-weekly).
+
+
+
+
+### The Mockingbird States
+
+![A map of the states which have the Mockingbird as their state bird.](birdup/statepic_mockingbird.png)
+
+5 States claim the Northern Mockingbird as their state bird:
+Texas, Arkansas, Mississippi, Tennessee, and Florida.
+And indeed, Mockingbirds are common all across the American Southeast.
+
+Texas and Florida have the strongest claims to the the bird based on my scoring, 
+and you can see in [this map of mockingbird abundance](https://ebird.org/science/status-and-trends/normoc/abundance-map-weekly) confirms that those two states are hotspots for Mockingbirds.
+
+But Texas and Florida are also just generally birdular. 
+Both states have even stronger claims to other birds.
+Texas has the Caracara, an unusual type of falcon which [looks like a little cowboy](https://www.youtube.com/watch?v=hSsdzO9-HY8).
+And Florida has has all manner of Darters and Herons and other Water Birds.
+
+<!--https://ebird.org/science/status-and-trends/y00678/abundance-map-->
+
+So the state which gets the mockingbird by my reckoning is the one which doesn't have even stronger ties to some other bird.
+And that state turns out to be ... *drum roll* ... Alabama?
+Wait. Let me double check. Yeah. 
+(Depending on how I fiddle with the formulas and data cleaning steps, I can also swing it so that Tennessee gets the Mockingbird.)
+
+What of Alabama's unique state bird, the Northern Flicker, aka the Yellowhammer?
+Alabama is known as "The Yellowhammer State" after all.
+But this nickname doesn't refer to the abundance of Yellowhammers in the state; they're not particularly common in Alabama.<!--https://ebird.org/science/status-and-trends/norfli/abundance-map-weekly-->
+The nickname actually comes from the style of civil war Alabama military uniforms:
+
+> On the sleeves, collars and coattails of the new calvary troop were bits of brilliant yellow cloth. As the company rode past Company A , Will Arnett cried out in greeting "Yellowhammer, Yellowhammer, flicker, flicker!" The greeting brought a roar of laughter from the men and from that moment the Huntsville soldiers were spoken of as the "yellowhammer company." The term quickly spread throughout the Confederate Army and all Alabama troops were referred to unofficially as the "Yellowhammers."
+
+Besides, *To Kill a Mockingbird* is set in Alabama, so it fits pretty well.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<!--
 | State | Bird | Common Name | Example Species | Common Name |
 |---|---|---|---|---|
 | US-AK | [Aethia](https://en.wikipedia.org/wiki/Aethia) | Auklet | [Aethia psittacula](https://en.wikipedia.org/wiki/Aethia_psittacula) |  |
@@ -98,7 +183,7 @@ TODO: Details about scoring.
 | US-WI | [Antigone](https://en.wikipedia.org/wiki/Antigone_(bird)) | Crane | [Antigone canadensis](https://en.wikipedia.org/wiki/Antigone_canadensis) | Sandhill Crane |
 | US-WV | [Dryocopus](https://en.wikipedia.org/wiki/Dryocopus) | Woodpecker | [Dryocopus pileatus](https://en.wikipedia.org/wiki/Dryocopus_pileatus) | Pileated Woodpecker |
 | US-WY | [Centrocercus](https://en.wikipedia.org/wiki/Centrocercus) | Sage-grouse | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
-
+-->
 
 
 
