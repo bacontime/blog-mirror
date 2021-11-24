@@ -2,7 +2,7 @@
 title: "Bird Scores - Phi"
 parent: New State Birds
 grand_parent: Science and Nature
-has_children: false
+has_children: true
 ---
 
 
