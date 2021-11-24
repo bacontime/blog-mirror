@@ -25,9 +25,9 @@ $$\gdef\nBird{🦃}
 
 Each observation is for a specific species of bird in a specific state.
 - Let $N$ be the total number of observations in the data.
-- Let $\nBird = |bird|$ be the total number of observations of a specific bird species or genus.
-- Let $\nState = |state|$ be the total number of observations taking place in a specific state.
-- Let $\nJoint = |bird \cap state|$ be the the joint observation count -- the total number of observations of that specific type of bird in that specific state.
+- Let $\nBird$ be the total number of observations of a specific bird species or genus.
+- Let $\nState$ be the total number of observations taking place in a specific state.
+- Let $\nJoint$ be the the joint observation count -- the total number of observations of that specific type of bird in that specific state.
 
 Here, the Bird Score for a pair of state and bird is 
 
