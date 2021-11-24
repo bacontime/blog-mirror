@@ -8,20 +8,18 @@ has_children: false
 
 This BIRDUP scoring system uses the [phi coefficient](https://en.wikipedia.org/wiki/Phi_coefficient). 
 It's essentially the correlation across observations between a bird and a state.
-It uses observation records from the eBird database[^ebirdcitation].
-
-[^ebirdcitation]: eBird Basic Dataset. Version: EBD_relSep-2021. Cornell Lab of Ornithology, Ithaca, New York. Sep 2021.
 
 $$\gdef\nBird{🦃}
 \gdef\nState{🗽}
 \gdef\nTotal{N}
 \gdef\nJoint{📋}$$
 
+It uses observation records from the eBird database[^ebirdcitation].
 Each observation is for a specific species of bird in a specific state.
 - Let $N$ be the total number of observations in the data.
 - Let $\nBird$ be the total number of observations of a specific bird species or genus.
 - Let $\nState$ be the total number of observations taking place in a specific state.
-- Let $\nJoint$ be the the joint observation count -- the total number of observations of that specific type of bird in that specific state.
+- Let $\nJoint$ be the the joint observation count: the total number of observations of that specific type of bird in that specific state.
 
 Here, the Bird Score for a pair of state and bird is 
 
@@ -35,10 +33,11 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 {:toc}
 </details>
 
-
 In the tables below, `†` indicates that the bird genus is represented among actual state birds.  
 `‡` indicates that the bird is the actual state bird for that state.  
-`＊` indicates a bird that is non-native. A lack of `*` does not necessarily mean the bird is native.
+`＊` indicates a bird that is non-native and so excluded it form. A lack of `*` does not necessarily mean the bird *is* native.
+
+[^ebirdcitation]: eBird Basic Dataset. Version: EBD_relSep-2021. Cornell Lab of Ornithology, Ithaca, New York. Sep 2021.
 
 
 
@@ -48,7 +47,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 ## Scores for Bird Genera
 
-### Top Birds Overview
+### Top Scoring Unique State Birds
 
 | State | Bird | Common Name | Example Species | Common Name |
 |---|---|---|---|---|
@@ -1134,7 +1133,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 ## Scores for Bird Species
 
-### Top Birds Overview
+### Top Scoring Unique State Birds
 
 | State | Bird | Common Name |
 |---|---|---|
