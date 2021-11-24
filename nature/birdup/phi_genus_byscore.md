@@ -1,6 +1,7 @@
 ---
-title: "Bird Scores - Phi - Full Genus Ranking"
+title: "Full Genus Ranking for Phi Scores"
 parent: "Bird Scores - Phi"
+grand_parent: "New State Birds"
 has_children: false
 nav_exclude: true
 search_exclude: true
