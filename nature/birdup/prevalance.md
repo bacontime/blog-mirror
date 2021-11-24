@@ -22,7 +22,7 @@ Each observation is for a specific species of bird in a specific state.
 
 Here, the Bird Score for a pair of state and bird is simply
 
-$$\text{prevalence} = \frac{\nJoint\}{\nState}$$
+$$\text{prevalence} = \frac{\nJoint}{\nState}$$
 
 Note that this is not the same as determining which bird is most populous within the state. 
 Firstly, I'm counting the number of observation records of each type of bird.
