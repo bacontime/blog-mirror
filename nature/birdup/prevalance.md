@@ -68,7 +68,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 ### Top Scoring Unique State Birds
 
 | State | Score | Bird | Common Name | Example Species | Common Name |
-|---|---|---|---|---|
+|--:|---|---|---|---|---|
 | AK | 0.0463 | [Anas](https://en.wikipedia.org/wiki/Anas) | Mallard | [Anas platyrhynchos](https://en.wikipedia.org/wiki/Anas_platyrhynchos) | Mallard |
 | AL | 0.0386 | [Cardinalis](https://en.wikipedia.org/wiki/Cardinalis)† | Cardinal | [Cardinalis cardinalis](https://en.wikipedia.org/wiki/Cardinalis_cardinalis) | Northern Cardinal |
 | AR | 0.0315 | [Cyanocitta](https://en.wikipedia.org/wiki/Cyanocitta) | Blue Jay | [Cyanocitta cristata](https://en.wikipedia.org/wiki/Cyanocitta_cristata) | Blue Jay |
@@ -125,7 +125,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Alaska (AK)
+### Top Genera for Alaska (AK)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -145,7 +145,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Alabama (AL)
+### Top Genera for Alabama (AL)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Arkansas (AR)
+### Top Genera for Arkansas (AR)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -185,7 +185,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Arizona (AZ)
+### Top Genera for Arizona (AZ)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for California (CA)
+### Top Genera for California (CA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -225,7 +225,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Colorado (CO)
+### Top Genera for Colorado (CO)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Connecticut (CT)
+### Top Genera for Connecticut (CT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -265,7 +265,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for District of Columbia (DC)
+### Top Genera for District of Columbia (DC)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -285,7 +285,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Delaware (DE)
+### Top Genera for Delaware (DE)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -305,7 +305,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Florida (FL)
+### Top Genera for Florida (FL)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -325,7 +325,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Georgia (GA)
+### Top Genera for Georgia (GA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -345,7 +345,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Hawaii (HI)
+### Top Genera for Hawaii (HI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Iowa (IA)
+### Top Genera for Iowa (IA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -385,7 +385,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Idaho (ID)
+### Top Genera for Idaho (ID)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -405,7 +405,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Illinois (IL)
+### Top Genera for Illinois (IL)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -425,7 +425,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Indiana (IN)
+### Top Genera for Indiana (IN)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -445,7 +445,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Kansas (KS)
+### Top Genera for Kansas (KS)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -465,7 +465,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Kentucky (KY)
+### Top Genera for Kentucky (KY)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -485,7 +485,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Louisiana (LA)
+### Top Genera for Louisiana (LA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -505,7 +505,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Massachusetts (MA)
+### Top Genera for Massachusetts (MA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -525,7 +525,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Maryland (MD)
+### Top Genera for Maryland (MD)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -545,7 +545,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Maine (ME)
+### Top Genera for Maine (ME)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -565,7 +565,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Michigan (MI)
+### Top Genera for Michigan (MI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -585,7 +585,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Minnesota (MN)
+### Top Genera for Minnesota (MN)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -605,7 +605,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Missouri (MO)
+### Top Genera for Missouri (MO)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -625,7 +625,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Mississippi (MS)
+### Top Genera for Mississippi (MS)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -645,7 +645,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Montana (MT)
+### Top Genera for Montana (MT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -665,7 +665,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for North Carolina (NC)
+### Top Genera for North Carolina (NC)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -685,7 +685,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for North Dakota (ND)
+### Top Genera for North Dakota (ND)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -705,7 +705,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Nebraska (NE)
+### Top Genera for Nebraska (NE)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -725,7 +725,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for New Hampshire (NH)
+### Top Genera for New Hampshire (NH)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -745,7 +745,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for New Jersey (NJ)
+### Top Genera for New Jersey (NJ)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -765,7 +765,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for New Mexico (NM)
+### Top Genera for New Mexico (NM)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -785,7 +785,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Nevada (NV)
+### Top Genera for Nevada (NV)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -805,7 +805,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for New York (NY)
+### Top Genera for New York (NY)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -825,7 +825,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Ohio (OH)
+### Top Genera for Ohio (OH)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -845,7 +845,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Oklahoma (OK)
+### Top Genera for Oklahoma (OK)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -865,7 +865,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Oregon (OR)
+### Top Genera for Oregon (OR)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -885,7 +885,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Pennsylvania (PA)
+### Top Genera for Pennsylvania (PA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -905,7 +905,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Rhode Island (RI)
+### Top Genera for Rhode Island (RI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -925,7 +925,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for South Carolina (SC)
+### Top Genera for South Carolina (SC)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -945,7 +945,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for South Dakota (SD)
+### Top Genera for South Dakota (SD)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -965,7 +965,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Tennessee (TN)
+### Top Genera for Tennessee (TN)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -985,7 +985,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Texas (TX)
+### Top Genera for Texas (TX)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1005,7 +1005,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Utah (UT)
+### Top Genera for Utah (UT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1025,7 +1025,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Virginia (VA)
+### Top Genera for Virginia (VA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1045,7 +1045,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Vermont (VT)
+### Top Genera for Vermont (VT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1065,7 +1065,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Washington (WA)
+### Top Genera for Washington (WA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1085,7 +1085,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Wisconsin (WI)
+### Top Genera for Wisconsin (WI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1105,7 +1105,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for West Virginia (WV)
+### Top Genera for West Virginia (WV)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1125,7 +1125,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Genera for Wyoming (WY)
+### Top Genera for Wyoming (WY)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1154,7 +1154,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 ### Top Scoring Unique State Birds
 
 | State | Score | Bird | Common Name |
-|---|---|---|
+|--:|---|---|---|
 | AK | 0.0286 | [Corvus corax](https://en.wikipedia.org/wiki/Corvus_corax) | Common Raven |
 | AL | 0.0386 | [Cardinalis cardinalis](https://en.wikipedia.org/wiki/Cardinalis_cardinalis)† | Northern Cardinal |
 | AR | 0.0248 | [Melanerpes carolinus](https://en.wikipedia.org/wiki/Melanerpes_carolinus) | Red-bellied Woodpecker |
@@ -1211,7 +1211,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Alaska (AK)
+### Top Species for Alaska (AK)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1231,7 +1231,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Alabama (AL)
+### Top Species for Alabama (AL)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1251,7 +1251,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Arkansas (AR)
+### Top Species for Arkansas (AR)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1271,7 +1271,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Arizona (AZ)
+### Top Species for Arizona (AZ)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1291,7 +1291,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for California (CA)
+### Top Species for California (CA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1311,7 +1311,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Colorado (CO)
+### Top Species for Colorado (CO)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1331,7 +1331,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Connecticut (CT)
+### Top Species for Connecticut (CT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1351,7 +1351,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for District of Columbia (DC)
+### Top Species for District of Columbia (DC)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1371,7 +1371,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Delaware (DE)
+### Top Species for Delaware (DE)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1391,7 +1391,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Florida (FL)
+### Top Species for Florida (FL)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1411,7 +1411,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Georgia (GA)
+### Top Species for Georgia (GA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1431,7 +1431,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Hawaii (HI)
+### Top Species for Hawaii (HI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1451,7 +1451,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Iowa (IA)
+### Top Species for Iowa (IA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1471,7 +1471,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Idaho (ID)
+### Top Species for Idaho (ID)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1491,7 +1491,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Illinois (IL)
+### Top Species for Illinois (IL)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1511,7 +1511,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Indiana (IN)
+### Top Species for Indiana (IN)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1531,7 +1531,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Kansas (KS)
+### Top Species for Kansas (KS)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1551,7 +1551,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Kentucky (KY)
+### Top Species for Kentucky (KY)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1571,7 +1571,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Louisiana (LA)
+### Top Species for Louisiana (LA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1591,7 +1591,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Massachusetts (MA)
+### Top Species for Massachusetts (MA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1611,7 +1611,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Maryland (MD)
+### Top Species for Maryland (MD)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1631,7 +1631,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Maine (ME)
+### Top Species for Maine (ME)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1651,7 +1651,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Michigan (MI)
+### Top Species for Michigan (MI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1671,7 +1671,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Minnesota (MN)
+### Top Species for Minnesota (MN)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1691,7 +1691,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Missouri (MO)
+### Top Species for Missouri (MO)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1711,7 +1711,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Mississippi (MS)
+### Top Species for Mississippi (MS)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1731,7 +1731,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Montana (MT)
+### Top Species for Montana (MT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1751,7 +1751,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for North Carolina (NC)
+### Top Species for North Carolina (NC)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1771,7 +1771,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for North Dakota (ND)
+### Top Species for North Dakota (ND)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1791,7 +1791,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Nebraska (NE)
+### Top Species for Nebraska (NE)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1811,7 +1811,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for New Hampshire (NH)
+### Top Species for New Hampshire (NH)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1831,7 +1831,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for New Jersey (NJ)
+### Top Species for New Jersey (NJ)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1851,7 +1851,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for New Mexico (NM)
+### Top Species for New Mexico (NM)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1871,7 +1871,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Nevada (NV)
+### Top Species for Nevada (NV)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1891,7 +1891,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for New York (NY)
+### Top Species for New York (NY)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1911,7 +1911,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Ohio (OH)
+### Top Species for Ohio (OH)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1931,7 +1931,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Oklahoma (OK)
+### Top Species for Oklahoma (OK)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1951,7 +1951,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Oregon (OR)
+### Top Species for Oregon (OR)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1971,7 +1971,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Pennsylvania (PA)
+### Top Species for Pennsylvania (PA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1991,7 +1991,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Rhode Island (RI)
+### Top Species for Rhode Island (RI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2011,7 +2011,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for South Carolina (SC)
+### Top Species for South Carolina (SC)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2031,7 +2031,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for South Dakota (SD)
+### Top Species for South Dakota (SD)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2051,7 +2051,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Tennessee (TN)
+### Top Species for Tennessee (TN)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2071,7 +2071,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Texas (TX)
+### Top Species for Texas (TX)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2091,7 +2091,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Utah (UT)
+### Top Species for Utah (UT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2111,7 +2111,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Virginia (VA)
+### Top Species for Virginia (VA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2131,7 +2131,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Vermont (VT)
+### Top Species for Vermont (VT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2151,7 +2151,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Washington (WA)
+### Top Species for Washington (WA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2171,7 +2171,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Wisconsin (WI)
+### Top Species for Wisconsin (WI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2191,7 +2191,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for West Virginia (WV)
+### Top Species for West Virginia (WV)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2211,7 +2211,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Scoring Bird Species for Wyoming (WY)
+### Top Species for Wyoming (WY)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
