@@ -2,7 +2,7 @@
 title: "Bird Scores - Phi"
 parent: New State Birds
 grand_parent: Science and Nature
-has_children: true
+has_children: false
 ---
 
 
@@ -2227,7 +2227,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 ---
 
-Full rankings (large amount of text):  
+Full Lists of Scores (large amount of text):  
 [Phi Scores - Full Genus Ranking](phi_genus_bystate.csv)  
 [Phi Scores - Full Genus Ranking By State](phi_genus_bystate.csv)  
 [Phi Scores - Full Species Ranking](phi_species_bystate.csv)  
