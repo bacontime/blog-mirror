@@ -5,6 +5,9 @@ grand_parent: Science and Nature
 has_children: false
 ---
 
+# Bird Scores - Phi Coefficient
+
+
 <div hidden markdown="block">
 test [^asteriskmeansnonnative]
 test [^plusmeansalreadyisastatebird]
@@ -12,7 +15,7 @@ test [^plusmeansalreadyisastatebird]
 [^plusmeansalreadyisastatebird]: `+` means that this bird is already a state bird.
 </div>
 
-This BIRDUP system uses the [phi coefficient](https://en.wikipedia.org/wiki/Phi_coefficient). 
+This BIRDUP scoring system uses the [phi coefficient](https://en.wikipedia.org/wiki/Phi_coefficient). 
 It's essentially the correlation across observations between a bird and a state.
 It uses observation records from the eBird database[^ebirdcitation].
 
@@ -33,13 +36,13 @@ Here, the Bird Score for a pair of state and bird is
 
 $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\nBird\times(\nTotal-\nState)\times(\nTotal-\nBird)}}$$
 
-
+1. TOC
 {:toc}
 
 
 ## Scores for Bird Genera
 
-### Unique Top Birds
+### Unique Top Birds Overview
 
 | State | Bird | Common Name | Example Species | Common Name |
 |---|---|---|---|---|
@@ -1162,7 +1165,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 ## Scores for Bird Species
 
-### Unique Top Birds
+### Unique Top Birds Overview
 
 | State | Bird | Common Name |
 |---|---|---|
