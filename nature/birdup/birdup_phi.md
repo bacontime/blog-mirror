@@ -104,6 +104,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Alaska US-AK
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0806 | [Aethia](https://en.wikipedia.org/wiki/Aethia) | Auklet | 31286 | [Aethia psittacula](https://en.wikipedia.org/wiki/Aethia_psittacula) | Parakeet auklet |
@@ -123,6 +124,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Alabama US-AL
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0179+ | [Mimus](https://en.wikipedia.org/wiki/Mimus) | Mockingbird | 130529 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos) | Northern Mockingbird |
@@ -142,6 +144,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Arkansas US-AR
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0115+ | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) | Carolina Wren | 91280 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
@@ -161,6 +164,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Arizona US-AZ
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.1077 | [Auriparus](https://en.wikipedia.org/wiki/Auriparus) | Verdin | 386191 | [Auriparus flaviceps](https://en.wikipedia.org/wiki/Auriparus_flaviceps) | Verdin |
@@ -180,6 +184,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### California US-CA
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0546 | [Chamaea](https://en.wikipedia.org/wiki/Chamaea) | Wrentit | 57649 | [Chamaea fasciata](https://en.wikipedia.org/wiki/Chamaea_fasciata) | Wrentit |
@@ -199,6 +204,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Colorado US-CO
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0665 | [Pica](https://en.wikipedia.org/wiki/Pica_(genus)) | Magpie | 387306 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie |
@@ -218,6 +224,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Connecticut US-CT
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0136 | [Baeolophus](https://en.wikipedia.org/wiki/Baeolophus) | Titmouse | 240563 | [Baeolophus bicolor](https://en.wikipedia.org/wiki/Baeolophus_bicolor) | Tufted Titmouse |
@@ -237,6 +244,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### District of Columbia US-DC
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0088 | [Chaetura](https://en.wikipedia.org/wiki/Chaetura) | Swift | 24475 | [Chaetura pelagica](https://en.wikipedia.org/wiki/Chaetura_pelagica) | Chimney Swift |
@@ -256,6 +264,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Delaware US-DE
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0132 | [Leucophaeus](https://en.wikipedia.org/wiki/Leucophaeus) | Gull | 53108 | [Leucophaeus atricilla](https://en.wikipedia.org/wiki/Leucophaeus_atricilla) | Laughing Gull |
@@ -275,6 +284,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Florida US-FL
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.1158 | [Egretta](https://en.wikipedia.org/wiki/Egretta) | Egret | 1584817 | [Egretta caerulea](https://en.wikipedia.org/wiki/Egretta_caerulea) | Little Blue Heron |
@@ -294,6 +304,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Georgia US-GA
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0293+ | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) | Carolina Wren | 395603 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
@@ -313,6 +324,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Hawaii US-HI
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.2383* | [Zosterops](https://en.wikipedia.org/wiki/Zosterops) | White-Eyes | 82840 | [Zosterops japonicus](https://en.wikipedia.org/wiki/Zosterops_japonicus) |  |
@@ -332,6 +344,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Iowa US-IA
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0125*+ | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) | Pheasant | 21293 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
@@ -351,6 +364,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Idaho US-ID
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0408 | [Pica](https://en.wikipedia.org/wiki/Pica_(genus)) | Magpie | 118106 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie |
@@ -370,6 +384,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Illinois US-IL
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0147* | [Passer](https://en.wikipedia.org/wiki/Passer) | True Sparrow | 434206 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus) | House Sparrow |
@@ -389,6 +404,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Indiana US-IN
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0118 | [Baeolophus](https://en.wikipedia.org/wiki/Baeolophus) | Titmouse | 224909 | [Baeolophus bicolor](https://en.wikipedia.org/wiki/Baeolophus_bicolor) | Tufted Titmouse |
@@ -408,6 +424,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Kansas US-KS
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0204 | [Spiza](https://en.wikipedia.org/wiki/Spiza) | Dickcissel | 36284 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
@@ -427,6 +444,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Kentucky US-KY
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0105+ | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) | Carolina Wren | 98073 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
@@ -446,6 +464,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Louisiana US-LA
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0255 | [Egretta](https://en.wikipedia.org/wiki/Egretta) | Egret | 171844 | [Egretta thula](https://en.wikipedia.org/wiki/Egretta_thula) | Snowy Egret |
@@ -465,6 +484,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Massachusetts US-MA
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0343 | [Somateria](https://en.wikipedia.org/wiki/Somateria) | Eider | 147688 | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider |
@@ -484,6 +504,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Maryland US-MD
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0289+ | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) | Carolina Wren | 543555 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
@@ -503,6 +524,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Maine US-ME
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0507 | [Somateria](https://en.wikipedia.org/wiki/Somateria) | Eider | 127240 | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider |
@@ -522,6 +544,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Michigan US-MI
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0261 | [Cygnus](https://en.wikipedia.org/wiki/Swan) | Swan | 236621 | [Cygnus olor](https://en.wikipedia.org/wiki/Cygnus_olor) | Mute Swan |
@@ -541,6 +564,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Minnesota US-MN
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0140 | [Dryobates](https://en.wikipedia.org/wiki/Dryobates) | Woodpecker | 436581 | [Dryobates villosus](https://en.wikipedia.org/wiki/Dryobates_villosus) | Hairy Woodpecker |
@@ -560,6 +584,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Missouri US-MO
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0149 | [Spiza](https://en.wikipedia.org/wiki/Spiza) | Dickcissel | 34191 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
@@ -579,6 +604,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Mississippi US-MS
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0110+ | [Mimus](https://en.wikipedia.org/wiki/Mimus) | Mockingbird | 66564 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos) | Northern Mockingbird |
@@ -598,6 +624,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Montana US-MT
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0490 | [Pica](https://en.wikipedia.org/wiki/Pica_(genus)) | Magpie | 151463 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie |
@@ -617,6 +644,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### North Carolina US-NC
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0329+ | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) | Carolina Wren | 484010 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
@@ -636,6 +664,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### North Dakota US-ND
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0193*+ | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) | Pheasant | 24049 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
@@ -655,6 +684,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Nebraska US-NE
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0163 | [Spiza](https://en.wikipedia.org/wiki/Spiza) | Dickcissel | 19658 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
@@ -674,6 +704,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### New Hampshire US-NH
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0118 | [Sitta](https://en.wikipedia.org/wiki/Sitta) | Nuthatch | 174912 | [Sitta canadensis](https://en.wikipedia.org/wiki/Sitta_canadensis) | Red-breasted Nuthatch |
@@ -693,6 +724,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### New Jersey US-NJ
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0204 | [Leucophaeus](https://en.wikipedia.org/wiki/Leucophaeus) | Gull | 193945 | [Leucophaeus atricilla](https://en.wikipedia.org/wiki/Leucophaeus_atricilla) | Laughing Gull |
@@ -712,6 +744,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### New Mexico US-NM
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0287+ | [Geococcyx](https://en.wikipedia.org/wiki/Geococcyx) | Roadrunner | 46838 | [Geococcyx californianus](https://en.wikipedia.org/wiki/Geococcyx_californianus) | Greater Roadrunner |
@@ -731,6 +764,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Nevada US-NV
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0278+ | [Callipepla](https://en.wikipedia.org/wiki/Callipepla) | Crested Quail | 49041 | [Callipepla gambelii](https://en.wikipedia.org/wiki/Callipepla_gambelii) | Gambel's Quail |
@@ -750,6 +784,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### New York US-NY
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0222+ | [Larus](https://en.wikipedia.org/wiki/Larus) | Gull | 1430945 | [Larus marinus](https://en.wikipedia.org/wiki/Larus_marinus) | Great Black-backed Gull |
@@ -769,6 +804,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Ohio US-OH
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0135 | [Melanerpes](https://en.wikipedia.org/wiki/Melanerpes) | Woodpecker | 598486 | [Melanerpes carolinus](https://en.wikipedia.org/wiki/Melanerpes_carolinus) | Red-bellied Woodpecker |
@@ -788,6 +824,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Oklahoma US-OK
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0212 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | 21873 | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
@@ -807,6 +844,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Oregon US-OR
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0719 | [Aphelocoma](https://en.wikipedia.org/wiki/Aphelocoma) | Scrub Jay | 374161 | [Aphelocoma californica](https://en.wikipedia.org/wiki/Aphelocoma_californica) | California Scrub-Jay |
@@ -826,6 +864,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Pennsylvania US-PA
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0209+ | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) | Carolina Wren | 557667 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
@@ -845,6 +884,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Rhode Island US-RI
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0154+ | [Larus](https://en.wikipedia.org/wiki/Larus) | Gull | 134161 | [Larus marinus](https://en.wikipedia.org/wiki/Larus_marinus) | Great Black-backed Gull |
@@ -864,6 +904,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### South Carolina US-SC
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0253 | [Egretta](https://en.wikipedia.org/wiki/Egretta) | Egret | 195795 | [Egretta tricolor](https://en.wikipedia.org/wiki/Egretta_tricolor) | Tricolored Heron |
@@ -883,6 +924,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### South Dakota US-SD
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0145*+ | [Phasianus](https://en.wikipedia.org/wiki/Phasianus) | Pheasant | 15094 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus) | Ring-necked Pheasant |
@@ -902,6 +944,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Tennessee US-TN
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0224+ | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) | Carolina Wren | 264394 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
@@ -921,6 +964,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Texas US-TX
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0607 | [Caracara](https://en.wikipedia.org/wiki/Caracara_(genus)) | Caracara | 249608 | [Caracara plancus](https://en.wikipedia.org/wiki/Caracara_plancus) | Crested Caracara |
@@ -940,6 +984,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Utah US-UT
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0381 | [Pica](https://en.wikipedia.org/wiki/Pica_(genus)) | Magpie | 129642 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie |
@@ -959,6 +1004,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Virginia US-VA
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0335+ | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) | Carolina Wren | 597727 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
@@ -978,6 +1024,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Vermont US-VT
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0123 | [Seiurus](https://en.wikipedia.org/wiki/Seiurus) | Ovenbird | 56705 | [Seiurus aurocapilla](https://en.wikipedia.org/wiki/Seiurus_aurocapilla) | Ovenbird |
@@ -997,6 +1044,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Washington US-WA
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0484 | [Calypte](https://en.wikipedia.org/wiki/Calypte) | Hummingbird | 331274 | [Calypte anna](https://en.wikipedia.org/wiki/Calypte_anna) | Anna's Hummingbird |
@@ -1016,6 +1064,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Wisconsin US-WI
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0374 | [Antigone](https://en.wikipedia.org/wiki/Antigone_(bird)) | Crane | 231517 | [Antigone canadensis](https://en.wikipedia.org/wiki/Antigone_canadensis) | Sandhill Crane |
@@ -1035,6 +1084,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### West Virginia US-WV
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0093+ | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus) | Carolina Wren | 67983 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
@@ -1054,6 +1104,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Wyoming US-WY
+
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0227 | [Nucifraga](https://en.wikipedia.org/wiki/Nucifraga) | Nutcracker | 14068 | [Nucifraga columbiana](https://en.wikipedia.org/wiki/Nucifraga_columbiana) | Clark's Nutcracker |
@@ -1168,6 +1219,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Alaska US-AK
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0738 | [Larus brachyrhynchus](https://en.wikipedia.org/wiki/Larus_brachyrhynchus) |  | 100304 |
@@ -1187,6 +1239,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Alabama US-AL
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0180+ | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos) | Northern Mockingbird | 130529 |
@@ -1206,6 +1259,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Arkansas US-AR
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0179 | [Poecile carolinensis](https://en.wikipedia.org/wiki/Poecile_carolinensis) | Carolina Chickadee | 98316 |
@@ -1225,6 +1279,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Arizona US-AZ
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.1333 | [Melanerpes uropygialis](https://en.wikipedia.org/wiki/Melanerpes_uropygialis) | Gila Woodpecker | 443649 |
@@ -1244,6 +1299,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### California US-CA
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.1010 | [Melozone crissalis](https://en.wikipedia.org/wiki/Melozone_crissalis) | California Towhee | 124793 |
@@ -1263,6 +1319,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Colorado US-CO
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0670 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie | 387306 |
@@ -1282,6 +1339,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Connecticut US-CT
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0153 | [Baeolophus bicolor](https://en.wikipedia.org/wiki/Baeolophus_bicolor) | Tufted Titmouse | 240563 |
@@ -1301,6 +1359,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### District of Columbia US-DC
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0137 | [Corvus sp. (crow sp.)](https://en.wikipedia.org/wiki/Corvus) |  | 10911 |
@@ -1320,6 +1379,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Delaware US-DE
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0155 | [Sterna forsteri](https://en.wikipedia.org/wiki/Sterna_forsteri) | Forster's Tern | 37786 |
@@ -1339,6 +1399,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Florida US-FL
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.1053 | [Eudocimus albus](https://en.wikipedia.org/wiki/Eudocimus_albus) | White Ibis | 748541 |
@@ -1358,6 +1419,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Georgia US-GA
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0614 | [Sitta pusilla](https://en.wikipedia.org/wiki/Sitta_pusilla) | Brown-headed Nuthatch | 176715 |
@@ -1377,6 +1439,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Hawaii US-HI
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.2383* | [Zosterops japonicus](https://en.wikipedia.org/wiki/Zosterops_japonicus) |  | 82840 |
@@ -1396,6 +1459,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Iowa US-IA
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0180 | [Passer montanus](https://en.wikipedia.org/wiki/Passer_montanus) | Eurasian Tree Sparrow | 7675 |
@@ -1415,6 +1479,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Idaho US-ID
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0410 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie | 118106 |
@@ -1434,6 +1499,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Illinois US-IL
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0140 | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow | 18756 |
@@ -1453,6 +1519,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Indiana US-IN
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0173 | [Poecile carolinensis](https://en.wikipedia.org/wiki/Poecile_carolinensis) | Carolina Chickadee | 192755 |
@@ -1472,6 +1539,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Kansas US-KS
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0381 | [Zonotrichia querula](https://en.wikipedia.org/wiki/Zonotrichia_querula) | Harris's Sparrow | 43167 |
@@ -1491,6 +1559,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Kentucky US-KY
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0187 | [Poecile carolinensis](https://en.wikipedia.org/wiki/Poecile_carolinensis) | Carolina Chickadee | 113140 |
@@ -1510,6 +1579,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Louisiana US-LA
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0186 | [Ardea alba](https://en.wikipedia.org/wiki/Ardea_alba) | Great Egret | 133593 |
@@ -1529,6 +1599,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Massachusetts US-MA
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0351 | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider | 143177 |
@@ -1548,6 +1619,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Maryland US-MD
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0319 | [Poecile carolinensis](https://en.wikipedia.org/wiki/Poecile_carolinensis) | Carolina Chickadee | 455890 |
@@ -1567,6 +1639,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Maine US-ME
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0529 | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider | 126024 |
@@ -1586,6 +1659,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Michigan US-MI
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0273 | [Cygnus olor](https://en.wikipedia.org/wiki/Cygnus_olor) | Mute Swan | 165631 |
@@ -1605,6 +1679,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Minnesota US-MN
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0253 | [Cygnus buccinator](https://en.wikipedia.org/wiki/Cygnus_buccinator) | Trumpeter Swan | 69864 |
@@ -1624,6 +1699,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Missouri US-MO
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0385 | [Passer montanus](https://en.wikipedia.org/wiki/Passer_montanus) | Eurasian Tree Sparrow | 26402 |
@@ -1643,6 +1719,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Mississippi US-MS
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0113+ | [Pelecanus occidentalis](https://en.wikipedia.org/wiki/Pelecanus_occidentalis) | Brown Pelican | 22486 |
@@ -1662,6 +1739,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Montana US-MT
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0493 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie | 151463 |
@@ -1681,6 +1759,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### North Carolina US-NC
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0477 | [Sitta pusilla](https://en.wikipedia.org/wiki/Sitta_pusilla) | Brown-headed Nuthatch | 154113 |
@@ -1700,6 +1779,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### North Dakota US-ND
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0207 | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse | 6240 |
@@ -1719,6 +1799,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Nebraska US-NE
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0205+ | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) | Western Meadowlark | 42141 |
@@ -1738,6 +1819,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### New Hampshire US-NH
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0167 | [Poecile atricapillus](https://en.wikipedia.org/wiki/Poecile_atricapillus) | Black-capped Chickadee | 198394 |
@@ -1757,6 +1839,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### New Jersey US-NJ
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0255 | [Larus marinus](https://en.wikipedia.org/wiki/Larus_marinus) | Great Black-backed Gull | 211320 |
@@ -1776,6 +1859,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### New Mexico US-NM
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0440 | [Aphelocoma woodhouseii](https://en.wikipedia.org/wiki/Aphelocoma_woodhouseii) | Woodhouse's Scrub-Jay | 76727 |
@@ -1795,6 +1879,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Nevada US-NV
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0219 | [Callipepla gambelii](https://en.wikipedia.org/wiki/Callipepla_gambelii) | Gambel's Quail | 24428 |
@@ -1814,6 +1899,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### New York US-NY
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0217 | [Larus marinus](https://en.wikipedia.org/wiki/Larus_marinus) | Great Black-backed Gull | 289559 |
@@ -1833,6 +1919,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Ohio US-OH
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0152 | [Melanerpes carolinus](https://en.wikipedia.org/wiki/Melanerpes_carolinus) | Red-bellied Woodpecker | 519777 |
@@ -1852,6 +1939,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Oklahoma US-OK
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0295+ | [Tyrannus forficatus](https://en.wikipedia.org/wiki/Tyrannus_forficatus) | Scissor-tailed Flycatcher | 37937 |
@@ -1871,6 +1959,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Oregon US-OR
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.1028 | [Aphelocoma californica](https://en.wikipedia.org/wiki/Aphelocoma_californica) | California Scrub-Jay | 374161 |
@@ -1890,6 +1979,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Pennsylvania US-PA
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0234 | [Baeolophus bicolor](https://en.wikipedia.org/wiki/Baeolophus_bicolor) | Tufted Titmouse | 620147 |
@@ -1909,6 +1999,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Rhode Island US-RI
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0172 | [Larus marinus](https://en.wikipedia.org/wiki/Larus_marinus) | Great Black-backed Gull | 39719 |
@@ -1928,6 +2019,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### South Carolina US-SC
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0275 | [Sitta pusilla](https://en.wikipedia.org/wiki/Sitta_pusilla) | Brown-headed Nuthatch | 68558 |
@@ -1947,6 +2039,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### South Dakota US-SD
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0200+ | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta) | Western Meadowlark | 28423 |
@@ -1966,6 +2059,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Tennessee US-TN
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0308 | [Poecile carolinensis](https://en.wikipedia.org/wiki/Poecile_carolinensis) | Carolina Chickadee | 264148 |
@@ -1985,6 +2079,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Texas US-TX
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0881 | [Quiscalus mexicanus](https://en.wikipedia.org/wiki/Quiscalus_mexicanus) | Great-tailed Grackle | 794651 |
@@ -2004,6 +2099,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Utah US-UT
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0383 | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie | 129642 |
@@ -2023,6 +2119,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Virginia US-VA
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0371 | [Poecile carolinensis](https://en.wikipedia.org/wiki/Poecile_carolinensis) | Carolina Chickadee | 507768 |
@@ -2042,6 +2139,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Vermont US-VT
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0226 | [Poecile atricapillus](https://en.wikipedia.org/wiki/Poecile_atricapillus) | Black-capped Chickadee | 295586 |
@@ -2061,6 +2159,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Washington US-WA
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0587 | [Larus glaucescens](https://en.wikipedia.org/wiki/Larus_glaucescens) | Glaucous-winged Gull | 281727 |
@@ -2080,6 +2179,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Wisconsin US-WI
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0374 | [Antigone canadensis](https://en.wikipedia.org/wiki/Antigone_canadensis) | Sandhill Crane | 231517 |
@@ -2099,6 +2199,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### West Virginia US-WV
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0128 | [Pipilo erythrophthalmus](https://en.wikipedia.org/wiki/Pipilo_erythrophthalmus) | Eastern Towhee | 51061 |
@@ -2118,6 +2219,7 @@ $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\n
 
 
 ### Wyoming US-WY
+
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
 | 0.0244+ | [Sialia currucoides](https://en.wikipedia.org/wiki/Sialia_currucoides) | Mountain Bluebird | 21085 |
