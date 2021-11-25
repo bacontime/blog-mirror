@@ -56,7 +56,7 @@ Let's try to decide which state has the best claim on each of these critters.
 
 ### The Cardinal States
 
-![A map of the states which have the Cardinal as their state bird.](birdup/statepic_cardinal.png)
+![A map of the states which have the Cardinal as their state bird.](birdup/statepic_cardinal_xsmall.png)
 
 Across the temperate forests of the east.
 
@@ -64,7 +64,7 @@ Across the temperate forests of the east.
 
 ### The Meadowlark States 
 
-![A map of the states which have the Meadowlark as their state bird.](birdup/statepic_meadowlark.png)
+![A map of the states which have the Meadowlark as their state bird.](birdup/statepic_meadowlark_xsmall.png)
 
 <!--https://ebird.org/science/status-and-trends/wesmea/abundance-map-weekly-->
 
@@ -85,7 +85,7 @@ The Dickcissel looks like an off-brand Meadowlark, but has [some pretty impressi
 
 ### The Mockingbird States
 
-![A map of the states which have the Mockingbird as their state bird.](birdup/statepic_mockingbird.png)
+![A map of the states which have the Mockingbird as their state bird.](birdup/statepic_mockingbird_xsmall.png)
 
 5 States claim the Northern Mockingbird as their state bird:
 Texas, Arkansas, Mississippi, Tennessee, and Florida.
