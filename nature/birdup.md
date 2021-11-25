@@ -190,8 +190,8 @@ Besides, *To Kill a Mockingbird* is set in Alabama, so it fits pretty well.
 
 ---
 
-Map data from [Natural Earth](https://www.naturalearthdata.com/downloads/).  
-All photos from the National Park Service.
+*Map data from [Natural Earth](https://www.naturalearthdata.com/downloads/).*  
+*All photos from the National Park Service.*
 
 
 
