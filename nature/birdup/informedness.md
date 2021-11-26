@@ -28,6 +28,7 @@ Here, the Bird Score for a pair of state and bird is
 
 $$J = \frac{\nJoint}{\nState} - \frac{\nBird - \nJoint}{\nTotal - \nState}$$
 
+The dual of this measurement, called [markedness](markedness), swaps the roll of state and bird in the formula.
 
 <details closed markdown="block">
   <summary>
