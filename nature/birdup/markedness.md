@@ -55,8 +55,8 @@ Do note, however, that this particular metric causes all the weird fluke entries
 <!--TODO: Add note about referring to the other data set.-->
 
 Still though, this score set taught me some interesting things. 
-For example, lovebirds score the highest for Arizona, and [the story behind that is rather interesting.](https://www.audubon.org/news/when-it-gets-too-hot-phoenixs-lovebirds-turn-air-conditioning)
-
+For example, lovebirds score the highest for Arizona, as [a sizeable colony exists in Phoenix, dependent on AC units and decorative palm trees to survive.](https://www.audubon.org/news/when-it-gets-too-hot-phoenixs-lovebirds-turn-air-conditioning)
+And in the northeast, there's a [stable population of Monk Parakeets](https://www.youtube.com/watch?v=69hvxjaFXDg). 
 
 
 
