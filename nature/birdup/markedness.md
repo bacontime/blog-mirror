@@ -13,7 +13,8 @@ Lovebirds for Arizona, Passenger Pigeons show up. It's weird.
 
 This BIRDUP scoring system is based on  [Youden's J statistic](https://en.wikipedia.org/wiki/Youden%27s_J_statistic).
 The way I'm using it here, 
-It's essentially the difference between how common a bird is in a state and how common that bird is elsewhere in North America.
+It's the portion of observations of a bird which occur in a given state
+minus the portion of observations of *other* birds which occur in that state.
 
 Youden's J statistic is usually used to evaluate the performance of a diagnostic test.
 If we interpret these bird scores that way, we're essentially evaluating states as diagnostic tests of whether you're seeing a particular type of bird. 
@@ -54,7 +55,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 Do note, however, that this particular metric causes all the weird fluke entries in this dataset to bubble to the surface. I've excluded species with fewer than 1000 observations - otherwise the passenger pigeon would show up in the top birds - but there are still probably invasive species that I didn't manage to trim out.
 <!--TODO: Add note about referring to the other data set.-->
 
-Still though, this score set taught me some interesting things. 
+Still though, this score-set taught me some interesting things. 
 For example, lovebirds score the highest for Arizona, as [a sizeable colony exists in Phoenix, dependent on AC units and decorative palm trees to survive.](https://www.audubon.org/news/when-it-gets-too-hot-phoenixs-lovebirds-turn-air-conditioning)
 And in the northeast, there's a [stable population of Monk Parakeets](https://www.youtube.com/watch?v=69hvxjaFXDg). 
 
