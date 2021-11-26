@@ -25,6 +25,14 @@ Here, the Bird Score for a pair of state and bird is
 
 $$\phi = \frac{\nTotal\times\nJoint - \nState\times\nBird}{\sqrt{\nState\times\nBird\times(\nTotal-\nState)\times(\nTotal-\nBird)}}$$
 
+For the top scores, the formula is equivalent to
+
+$$\phi = {\Delta p}^{0.5}\times{J}^{0.5}$$
+
+where $J$ is the [informedness](informedness) and $\Delta p$ is the [markedness](markedness).
+If the exponents are adjusted, then we get my [Weighted Phi](weightedphi) metric.
+
+
 <details closed markdown="block">
   <summary>
     Table of contents
