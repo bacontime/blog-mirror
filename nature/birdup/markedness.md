@@ -56,63 +56,63 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 | State | Score | Bird | Common Name | Example Species | Common Name |
 |--:|---|---|---|---|---|
-| US-AK | 0.9934 | [Muscicapa](https://en.wikipedia.org/wiki/Muscicapa) |  | [Muscicapa griseisticta](https://en.wikipedia.org/wiki/Muscicapa_griseisticta) |  |
-| US-AL | 0.0552 | [Grus](https://en.wikipedia.org/wiki/Grus_(genus)) | Crane | [Grus americana](https://en.wikipedia.org/wiki/Grus_americana) | Whooping Crane |
-| US-AR | 0.0145 | [Antrostomus](https://en.wikipedia.org/wiki/Antrostomus) | Nightjar | [Antrostomus sp.](https://en.wikipedia.org/wiki/Antrostomus) |  |
-| US-AZ | 0.9008 | [Agapornis](https://en.wikipedia.org/wiki/Agapornis) |  | [Agapornis personatus](https://en.wikipedia.org/wiki/Agapornis_personatus) |  |
-| US-CA | 0.5597 | [Chamaea](https://en.wikipedia.org/wiki/Chamaea) | Wrentit | [Chamaea fasciata](https://en.wikipedia.org/wiki/Chamaea_fasciata) | Wrentit |
-| US-CO | 0.2735 | [Rhynchophanes](https://en.wikipedia.org/wiki/Rhynchophanes) | Longspur | [Rhynchophanes mccownii](https://en.wikipedia.org/wiki/Rhynchophanes_mccownii) | Thick-billed Longspur |
-| US-CT | 0.0668 | [Threskiornithidae](https://en.wikipedia.org/wiki/Threskiornithidae) |  | [Threskiornithidae sp. (ibis sp.)](https://en.wikipedia.org/wiki/Threskiornithidae) |  |
-| US-DC | 0.0134 | [Melopsittacus](https://en.wikipedia.org/wiki/Melopsittacus) |  | [Melopsittacus undulatus (Domestic type)](https://en.wikipedia.org/wiki/Melopsittacus_undulatus_(Domestic_type)) |  |
-| US-DE | 0.0331 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) |  | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
-| US-FL | 0.9494 | [Melanospiza](https://en.wikipedia.org/wiki/Melanospiza) |  | [Melanospiza bicolor](https://en.wikipedia.org/wiki/Melanospiza_bicolor) |  |
-| US-GA | 0.0912 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
-| US-HI | 0.9980 | [Himatione](https://en.wikipedia.org/wiki/Himatione) |  | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
-| US-IA | 0.0245 | [Rhodostethia](https://en.wikipedia.org/wiki/Rhodostethia) |  | [Rhodostethia rosea](https://en.wikipedia.org/wiki/Rhodostethia_rosea) | Ross's Gull |
-| US-ID | 0.2104 | [Tarsiger](https://en.wikipedia.org/wiki/Tarsiger) |  | [Tarsiger cyanurus](https://en.wikipedia.org/wiki/Tarsiger_cyanurus) |  |
-| US-IL | 0.1907 | [Centronyx](https://en.wikipedia.org/wiki/Centronyx) | Sparrow | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
-| US-IN | 0.0257 | [Oporornis](https://en.wikipedia.org/wiki/Oporornis) | Connecticut Warbler | [Oporornis agilis](https://en.wikipedia.org/wiki/Oporornis_agilis) | Connecticut Warbler |
-| US-KS | 0.0768 | [Spiza](https://en.wikipedia.org/wiki/Spiza) | Dickcissel | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
-| US-KY | 0.0185 | [Ectopistes](https://en.wikipedia.org/wiki/Ectopistes) |  | [Ectopistes migratorius](https://en.wikipedia.org/wiki/Ectopistes_migratorius) |  |
-| US-LA | 0.0844 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
-| US-MA | 0.5510 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) |  | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) |  |
-| US-MD | 0.0483 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
-| US-ME | 0.1952 | [Somateria](https://en.wikipedia.org/wiki/Somateria) | Eider | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider |
-| US-MI | 0.0842 | [Cygnus](https://en.wikipedia.org/wiki/Swan) | Swan | [Cygnus sp.](https://en.wikipedia.org/wiki/Swan) |  |
-| US-MN | 0.1065 | [Pagophila](https://en.wikipedia.org/wiki/Pagophila) | Ivory gull | [Pagophila eburnea](https://en.wikipedia.org/wiki/Pagophila_eburnea) |  |
-| US-MO | 0.1044 | [Mergellus](https://en.wikipedia.org/wiki/Mergellus) |  | [Mergellus albellus](https://en.wikipedia.org/wiki/Mergellus_albellus) |  |
-| US-MS | 0.0306 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) |  | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
-| US-MT | 0.1324 | [Sibirionetta](https://en.wikipedia.org/wiki/Sibirionetta) |  | [Sibirionetta formosa](https://en.wikipedia.org/wiki/Sibirionetta_formosa) |  |
-| US-NC | 0.3693 | [Pterodroma](https://en.wikipedia.org/wiki/Pterodroma) | Gadfly Petrel | [Pterodroma feae](https://en.wikipedia.org/wiki/Pterodroma_feae) |  |
-| US-ND | 0.1107 | [Tympanuchus](https://en.wikipedia.org/wiki/Tympanuchus) | Prarie Chicken | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
-| US-NE | 0.0258 | [Colinus](https://en.wikipedia.org/wiki/Colinus) | Bobwhite | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
-| US-NH | 0.0275 | [Cuculidae](https://en.wikipedia.org/wiki/Cuculidae) |  | [Cuculidae sp.](https://en.wikipedia.org/wiki/Cuculidae) |  |
-| US-NJ | 0.2287 | [Vanellus](https://en.wikipedia.org/wiki/Vanellus) |  | [Vanellus vanellus](https://en.wikipedia.org/wiki/Vanellus_vanellus) | Northern Lapwing |
-| US-NM | 0.2172 | [Gymnorhinus](https://en.wikipedia.org/wiki/Gymnorhinus) | Pinyon Jay | [Gymnorhinus cyanocephalus](https://en.wikipedia.org/wiki/Gymnorhinus_cyanocephalus) | Pinyon Jay |
-| US-NV | 0.1247 | [Artemisiospiza](https://en.wikipedia.org/wiki/Artemisiospiza) | Sparrow | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
-| US-NY | 0.8710 | [Crex](https://en.wikipedia.org/wiki/Crex) |  | [Crex crex](https://en.wikipedia.org/wiki/Crex_crex) |  |
-| US-OH | 0.0998 | [Fringilla](https://en.wikipedia.org/wiki/Fringilla) |  | [Fringilla montifringilla](https://en.wikipedia.org/wiki/Fringilla_montifringilla) |  |
-| US-OK | 0.0311 | [Nomonyx](https://en.wikipedia.org/wiki/Nomonyx) |  | [Nomonyx dominicus](https://en.wikipedia.org/wiki/Nomonyx_dominicus) | Masked Duck |
-| US-OR | 0.4319 | [Oreortyx](https://en.wikipedia.org/wiki/Oreortyx) |  | [Oreortyx pictus](https://en.wikipedia.org/wiki/Oreortyx_pictus) | Mountain Quail |
-| US-PA | 0.0974 | [Aves](https://en.wikipedia.org/wiki/Aves) |  | [Aves sp.](https://en.wikipedia.org/wiki/Aves) |  |
-| US-RI | 0.2711 | [Xenus](https://en.wikipedia.org/wiki/Xenus) |  | [Xenus cinereus](https://en.wikipedia.org/wiki/Xenus_cinereus) |  |
-| US-SC | 0.0872 | [Mycteria](https://en.wikipedia.org/wiki/Mycteria) | Stork | [Mycteria americana](https://en.wikipedia.org/wiki/Mycteria_americana) | Wood Stork |
-| US-SD | 0.0381 | [Bartramia](https://en.wikipedia.org/wiki/Bartramia_(bird)) | Upland Sandpiper | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
-| US-TN | 0.0352 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
-| US-TX | 0.9136 | [Spermestes](https://en.wikipedia.org/wiki/Spermestes) |  | [Spermestes cucullata](https://en.wikipedia.org/wiki/Spermestes_cucullata) |  |
-| US-UT | 0.1869 | [Psiloscops](https://en.wikipedia.org/wiki/Psiloscops) |  | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
-| US-VA | 0.0644 | [Numida](https://en.wikipedia.org/wiki/Numida) |  | [Numida meleagris (Domestic type)](https://en.wikipedia.org/wiki/Numida_meleagris_(Domestic_type)) |  |
-| US-VT | 0.0297 | [Bonasa](https://en.wikipedia.org/wiki/Bonasa)† | Ruffed Grouse | [Bonasa umbellus](https://en.wikipedia.org/wiki/Bonasa_umbellus) | Ruffed Grouse |
-| US-WA | 0.9451 | [Creagrus](https://en.wikipedia.org/wiki/Creagrus) |  | [Creagrus furcatus](https://en.wikipedia.org/wiki/Creagrus_furcatus) |  |
-| US-WI | 0.1417 | [Antigone](https://en.wikipedia.org/wiki/Antigone_(bird)) | Crane | [Antigone canadensis](https://en.wikipedia.org/wiki/Antigone_canadensis) | Sandhill Crane |
-| US-WV | 0.0128 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
-| US-WY | 0.1964 | [Centrocercus](https://en.wikipedia.org/wiki/Centrocercus) | Sage-grouse | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
+| AK | 0.9934 | [Muscicapa](https://en.wikipedia.org/wiki/Muscicapa) |  | [Muscicapa griseisticta](https://en.wikipedia.org/wiki/Muscicapa_griseisticta) |  |
+| AL | 0.0552 | [Grus](https://en.wikipedia.org/wiki/Grus_(genus)) | Crane | [Grus americana](https://en.wikipedia.org/wiki/Grus_americana) | Whooping Crane |
+| AR | 0.0145 | [Antrostomus](https://en.wikipedia.org/wiki/Antrostomus) | Nightjar | [Antrostomus sp.](https://en.wikipedia.org/wiki/Antrostomus) |  |
+| AZ | 0.9008 | [Agapornis](https://en.wikipedia.org/wiki/Agapornis) |  | [Agapornis personatus](https://en.wikipedia.org/wiki/Agapornis_personatus) |  |
+| CA | 0.5597 | [Chamaea](https://en.wikipedia.org/wiki/Chamaea) | Wrentit | [Chamaea fasciata](https://en.wikipedia.org/wiki/Chamaea_fasciata) | Wrentit |
+| CO | 0.2735 | [Rhynchophanes](https://en.wikipedia.org/wiki/Rhynchophanes) | Longspur | [Rhynchophanes mccownii](https://en.wikipedia.org/wiki/Rhynchophanes_mccownii) | Thick-billed Longspur |
+| CT | 0.0668 | [Threskiornithidae](https://en.wikipedia.org/wiki/Threskiornithidae) |  | [Threskiornithidae sp. (ibis sp.)](https://en.wikipedia.org/wiki/Threskiornithidae) |  |
+| DC | 0.0134 | [Melopsittacus](https://en.wikipedia.org/wiki/Melopsittacus) |  | [Melopsittacus undulatus (Domestic type)](https://en.wikipedia.org/wiki/Melopsittacus_undulatus_(Domestic_type)) |  |
+| DE | 0.0331 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) |  | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
+| FL | 0.9494 | [Melanospiza](https://en.wikipedia.org/wiki/Melanospiza) |  | [Melanospiza bicolor](https://en.wikipedia.org/wiki/Melanospiza_bicolor) |  |
+| GA | 0.0912 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| HI | 0.9980 | [Himatione](https://en.wikipedia.org/wiki/Himatione) |  | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
+| IA | 0.0245 | [Rhodostethia](https://en.wikipedia.org/wiki/Rhodostethia) |  | [Rhodostethia rosea](https://en.wikipedia.org/wiki/Rhodostethia_rosea) | Ross's Gull |
+| ID | 0.2104 | [Tarsiger](https://en.wikipedia.org/wiki/Tarsiger) |  | [Tarsiger cyanurus](https://en.wikipedia.org/wiki/Tarsiger_cyanurus) |  |
+| IL | 0.1907 | [Centronyx](https://en.wikipedia.org/wiki/Centronyx) | Sparrow | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
+| IN | 0.0257 | [Oporornis](https://en.wikipedia.org/wiki/Oporornis) | Connecticut Warbler | [Oporornis agilis](https://en.wikipedia.org/wiki/Oporornis_agilis) | Connecticut Warbler |
+| KS | 0.0768 | [Spiza](https://en.wikipedia.org/wiki/Spiza) | Dickcissel | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
+| KY | 0.0185 | [Ectopistes](https://en.wikipedia.org/wiki/Ectopistes) |  | [Ectopistes migratorius](https://en.wikipedia.org/wiki/Ectopistes_migratorius) |  |
+| LA | 0.0844 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
+| MA | 0.5510 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) |  | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) |  |
+| MD | 0.0483 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus) | Carolina Wren |
+| ME | 0.1952 | [Somateria](https://en.wikipedia.org/wiki/Somateria) | Eider | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider |
+| MI | 0.0842 | [Cygnus](https://en.wikipedia.org/wiki/Swan) | Swan | [Cygnus sp.](https://en.wikipedia.org/wiki/Swan) |  |
+| MN | 0.1065 | [Pagophila](https://en.wikipedia.org/wiki/Pagophila) | Ivory gull | [Pagophila eburnea](https://en.wikipedia.org/wiki/Pagophila_eburnea) |  |
+| MO | 0.1044 | [Mergellus](https://en.wikipedia.org/wiki/Mergellus) |  | [Mergellus albellus](https://en.wikipedia.org/wiki/Mergellus_albellus) |  |
+| MS | 0.0306 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) |  | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
+| MT | 0.1324 | [Sibirionetta](https://en.wikipedia.org/wiki/Sibirionetta) |  | [Sibirionetta formosa](https://en.wikipedia.org/wiki/Sibirionetta_formosa) |  |
+| NC | 0.3693 | [Pterodroma](https://en.wikipedia.org/wiki/Pterodroma) | Gadfly Petrel | [Pterodroma feae](https://en.wikipedia.org/wiki/Pterodroma_feae) |  |
+| ND | 0.1107 | [Tympanuchus](https://en.wikipedia.org/wiki/Tympanuchus) | Prarie Chicken | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
+| NE | 0.0258 | [Colinus](https://en.wikipedia.org/wiki/Colinus) | Bobwhite | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
+| NH | 0.0275 | [Cuculidae](https://en.wikipedia.org/wiki/Cuculidae) |  | [Cuculidae sp.](https://en.wikipedia.org/wiki/Cuculidae) |  |
+| NJ | 0.2287 | [Vanellus](https://en.wikipedia.org/wiki/Vanellus) |  | [Vanellus vanellus](https://en.wikipedia.org/wiki/Vanellus_vanellus) | Northern Lapwing |
+| NM | 0.2172 | [Gymnorhinus](https://en.wikipedia.org/wiki/Gymnorhinus) | Pinyon Jay | [Gymnorhinus cyanocephalus](https://en.wikipedia.org/wiki/Gymnorhinus_cyanocephalus) | Pinyon Jay |
+| NV | 0.1247 | [Artemisiospiza](https://en.wikipedia.org/wiki/Artemisiospiza) | Sparrow | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
+| NY | 0.8710 | [Crex](https://en.wikipedia.org/wiki/Crex) |  | [Crex crex](https://en.wikipedia.org/wiki/Crex_crex) |  |
+| OH | 0.0998 | [Fringilla](https://en.wikipedia.org/wiki/Fringilla) |  | [Fringilla montifringilla](https://en.wikipedia.org/wiki/Fringilla_montifringilla) |  |
+| OK | 0.0311 | [Nomonyx](https://en.wikipedia.org/wiki/Nomonyx) |  | [Nomonyx dominicus](https://en.wikipedia.org/wiki/Nomonyx_dominicus) | Masked Duck |
+| OR | 0.4319 | [Oreortyx](https://en.wikipedia.org/wiki/Oreortyx) |  | [Oreortyx pictus](https://en.wikipedia.org/wiki/Oreortyx_pictus) | Mountain Quail |
+| PA | 0.0974 | [Aves](https://en.wikipedia.org/wiki/Aves) |  | [Aves sp.](https://en.wikipedia.org/wiki/Aves) |  |
+| RI | 0.2711 | [Xenus](https://en.wikipedia.org/wiki/Xenus) |  | [Xenus cinereus](https://en.wikipedia.org/wiki/Xenus_cinereus) |  |
+| SC | 0.0872 | [Mycteria](https://en.wikipedia.org/wiki/Mycteria) | Stork | [Mycteria americana](https://en.wikipedia.org/wiki/Mycteria_americana) | Wood Stork |
+| SD | 0.0381 | [Bartramia](https://en.wikipedia.org/wiki/Bartramia_(bird)) | Upland Sandpiper | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
+| TN | 0.0352 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
+| TX | 0.9136 | [Spermestes](https://en.wikipedia.org/wiki/Spermestes) |  | [Spermestes cucullata](https://en.wikipedia.org/wiki/Spermestes_cucullata) |  |
+| UT | 0.1869 | [Psiloscops](https://en.wikipedia.org/wiki/Psiloscops) |  | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
+| VA | 0.0644 | [Numida](https://en.wikipedia.org/wiki/Numida) |  | [Numida meleagris (Domestic type)](https://en.wikipedia.org/wiki/Numida_meleagris_(Domestic_type)) |  |
+| VT | 0.0297 | [Bonasa](https://en.wikipedia.org/wiki/Bonasa)† | Ruffed Grouse | [Bonasa umbellus](https://en.wikipedia.org/wiki/Bonasa_umbellus) | Ruffed Grouse |
+| WA | 0.9451 | [Creagrus](https://en.wikipedia.org/wiki/Creagrus) |  | [Creagrus furcatus](https://en.wikipedia.org/wiki/Creagrus_furcatus) |  |
+| WI | 0.1417 | [Antigone](https://en.wikipedia.org/wiki/Antigone_(bird)) | Crane | [Antigone canadensis](https://en.wikipedia.org/wiki/Antigone_canadensis) | Sandhill Crane |
+| WV | 0.0128 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| WY | 0.1964 | [Centrocercus](https://en.wikipedia.org/wiki/Centrocercus) | Sage-grouse | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
 
 
 
 
 
-### Top Genera for Alaska (US-AK)
+### Top Genera for Alaska (AK)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -132,7 +132,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Alabama (US-AL)
+### Top Genera for Alabama (AL)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -152,7 +152,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Arkansas (US-AR)
+### Top Genera for Arkansas (AR)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -172,7 +172,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Arizona (US-AZ)
+### Top Genera for Arizona (AZ)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -192,7 +192,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for California (US-CA)
+### Top Genera for California (CA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -212,7 +212,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Colorado (US-CO)
+### Top Genera for Colorado (CO)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -232,7 +232,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Connecticut (US-CT)
+### Top Genera for Connecticut (CT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -252,7 +252,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for District of Columbia (US-DC)
+### Top Genera for District of Columbia (DC)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Delaware (US-DE)
+### Top Genera for Delaware (DE)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -292,7 +292,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Florida (US-FL)
+### Top Genera for Florida (FL)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -312,7 +312,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Georgia (US-GA)
+### Top Genera for Georgia (GA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -332,7 +332,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Hawaii (US-HI)
+### Top Genera for Hawaii (HI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -352,7 +352,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Iowa (US-IA)
+### Top Genera for Iowa (IA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -372,7 +372,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Idaho (US-ID)
+### Top Genera for Idaho (ID)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -392,7 +392,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Illinois (US-IL)
+### Top Genera for Illinois (IL)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -412,7 +412,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Indiana (US-IN)
+### Top Genera for Indiana (IN)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -432,7 +432,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Kansas (US-KS)
+### Top Genera for Kansas (KS)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Kentucky (US-KY)
+### Top Genera for Kentucky (KY)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -472,7 +472,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Louisiana (US-LA)
+### Top Genera for Louisiana (LA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -492,7 +492,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Massachusetts (US-MA)
+### Top Genera for Massachusetts (MA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -512,7 +512,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Maryland (US-MD)
+### Top Genera for Maryland (MD)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -532,7 +532,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Maine (US-ME)
+### Top Genera for Maine (ME)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -552,7 +552,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Michigan (US-MI)
+### Top Genera for Michigan (MI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -572,7 +572,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Minnesota (US-MN)
+### Top Genera for Minnesota (MN)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -592,7 +592,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Missouri (US-MO)
+### Top Genera for Missouri (MO)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -612,7 +612,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Mississippi (US-MS)
+### Top Genera for Mississippi (MS)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -632,7 +632,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Montana (US-MT)
+### Top Genera for Montana (MT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -652,7 +652,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for North Carolina (US-NC)
+### Top Genera for North Carolina (NC)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -672,7 +672,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for North Dakota (US-ND)
+### Top Genera for North Dakota (ND)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -692,7 +692,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Nebraska (US-NE)
+### Top Genera for Nebraska (NE)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -712,7 +712,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for New Hampshire (US-NH)
+### Top Genera for New Hampshire (NH)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -732,7 +732,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for New Jersey (US-NJ)
+### Top Genera for New Jersey (NJ)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -752,7 +752,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for New Mexico (US-NM)
+### Top Genera for New Mexico (NM)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -772,7 +772,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Nevada (US-NV)
+### Top Genera for Nevada (NV)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -792,7 +792,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for New York (US-NY)
+### Top Genera for New York (NY)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -812,7 +812,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Ohio (US-OH)
+### Top Genera for Ohio (OH)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -832,7 +832,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Oklahoma (US-OK)
+### Top Genera for Oklahoma (OK)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -852,7 +852,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Oregon (US-OR)
+### Top Genera for Oregon (OR)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -872,7 +872,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Pennsylvania (US-PA)
+### Top Genera for Pennsylvania (PA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -892,7 +892,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Rhode Island (US-RI)
+### Top Genera for Rhode Island (RI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -912,7 +912,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for South Carolina (US-SC)
+### Top Genera for South Carolina (SC)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -932,7 +932,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for South Dakota (US-SD)
+### Top Genera for South Dakota (SD)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -952,7 +952,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Tennessee (US-TN)
+### Top Genera for Tennessee (TN)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -972,7 +972,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Texas (US-TX)
+### Top Genera for Texas (TX)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -992,7 +992,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Utah (US-UT)
+### Top Genera for Utah (UT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1012,7 +1012,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Virginia (US-VA)
+### Top Genera for Virginia (VA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1032,7 +1032,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Vermont (US-VT)
+### Top Genera for Vermont (VT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1052,7 +1052,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Washington (US-WA)
+### Top Genera for Washington (WA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1072,7 +1072,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Wisconsin (US-WI)
+### Top Genera for Wisconsin (WI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1092,7 +1092,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for West Virginia (US-WV)
+### Top Genera for West Virginia (WV)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1112,7 +1112,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Genera for Wyoming (US-WY)
+### Top Genera for Wyoming (WY)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1142,63 +1142,63 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 | State | Score | Bird | Common Name |
 |--:|---|---|---|
-| US-AK | 0.9934 | [Urile urile](https://en.wikipedia.org/wiki/Urile_urile) |  |
-| US-AL | 0.0607 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
-| US-AR | 0.0686 | [Antrostomus sp.](https://en.wikipedia.org/wiki/Antrostomus) |  |
-| US-AZ | 0.9691 | [Agapornis personatus](https://en.wikipedia.org/wiki/Agapornis_personatus) |  |
-| US-CA | 0.9851 | [Pica nuttalli](https://en.wikipedia.org/wiki/Pica_nuttalli) | Yellow-billed Magpie |
-| US-CO | 0.7193 | [Leucosticte australis](https://en.wikipedia.org/wiki/Leucosticte_australis) | Brown-capped Rosy-Finch |
-| US-CT | 0.1904 | [Ammospiza sp.](https://en.wikipedia.org/wiki/Ammospiza) |  |
-| US-DC | 0.1111 | [Larus michahellis](https://en.wikipedia.org/wiki/Larus_michahellis) |  |
-| US-DE | 0.1585 | [Chlidonias leucopterus](https://en.wikipedia.org/wiki/Chlidonias_leucopterus) | White-winged Tern |
-| US-FL | 0.9494 | [Amazona amazonica](https://en.wikipedia.org/wiki/Amazona_amazonica) |  |
-| US-GA | 0.2768 | [Sitta pusilla](https://en.wikipedia.org/wiki/Sitta_pusilla) | Brown-headed Nuthatch |
-| US-HI | 0.9980 | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
-| US-IA | 0.0378 | [Larus crassirostris](https://en.wikipedia.org/wiki/Larus_crassirostris) | Black-tailed Gull |
-| US-ID | 0.9937 | [Loxia sinesciuris](https://en.wikipedia.org/wiki/Loxia_sinesciuris) | Cassia Crossbill |
-| US-IL | 0.2272 | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
-| US-IN | 0.1326 | [Tringa erythropus](https://en.wikipedia.org/wiki/Tringa_erythropus) |  |
-| US-KS | 0.2114 | [Zonotrichia querula](https://en.wikipedia.org/wiki/Zonotrichia_querula) | Harris's Sparrow |
-| US-KY | 0.0278 | [Geothlypis formosa](https://en.wikipedia.org/wiki/Geothlypis_formosa) | Kentucky Warbler |
-| US-LA | 0.1090 | [Quiscalus sp.](https://en.wikipedia.org/wiki/Quiscalus) |  |
-| US-MA | 0.9674 | [Falco vespertinus](https://en.wikipedia.org/wiki/Falco_vespertinus) |  |
-| US-MD | 0.4003 | [Larus dominicanus](https://en.wikipedia.org/wiki/Larus_dominicanus) |  |
-| US-ME | 0.5279 | [Fratercula arctica](https://en.wikipedia.org/wiki/Fratercula_arctica) |  |
-| US-MI | 0.6334 | [Setophaga kirtlandii](https://en.wikipedia.org/wiki/Setophaga_kirtlandii) | Kirtland's Warbler |
-| US-MN | 0.1151 | [Cygnus buccinator](https://en.wikipedia.org/wiki/Cygnus_buccinator) | Trumpeter Swan |
-| US-MO | 0.5093 | [Passer montanus](https://en.wikipedia.org/wiki/Passer_montanus) | Eurasian Tree Sparrow |
-| US-MS | 0.1435 | [Dendrocygna viduata](https://en.wikipedia.org/wiki/Dendrocygna_viduata) | White-faced Whistling-Duck |
-| US-MT | 0.1975 | [Centronyx bairdii](https://en.wikipedia.org/wiki/Centronyx_bairdii) | Baird's Sparrow |
-| US-NC | 0.9096 | [Hydrobates pelagicus](https://en.wikipedia.org/wiki/Hydrobates_pelagicus) |  |
-| US-ND | 0.1474 | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
-| US-NE | 0.1329 | [Lanius sp.](https://en.wikipedia.org/wiki/Lanius) |  |
-| US-NH | 0.2412 | [Egretta gularis](https://en.wikipedia.org/wiki/Egretta_gularis) |  |
-| US-NJ | 0.8225 | [Chlidonias hybrida](https://en.wikipedia.org/wiki/Chlidonias_hybrida) |  |
-| US-NM | 0.4158 | [Pluvialis apricaria](https://en.wikipedia.org/wiki/Pluvialis_apricaria) |  |
-| US-NV | 0.1529 | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
-| US-NY | 0.9360 | [Chroicocephalus cirrocephalus](https://en.wikipedia.org/wiki/Chroicocephalus_cirrocephalus) |  |
-| US-OH | 0.1042 | [Fringilla montifringilla](https://en.wikipedia.org/wiki/Fringilla_montifringilla) |  |
-| US-OK | 0.4407 | [Tadorna ferruginea](https://en.wikipedia.org/wiki/Tadorna_ferruginea) |  |
-| US-OR | 0.9727 | [Melanitta nigra](https://en.wikipedia.org/wiki/Melanitta_nigra) |  |
-| US-PA | 0.3118 | [Anser serrirostris](https://en.wikipedia.org/wiki/Anser_serrirostris) |  |
-| US-RI | 0.2711 | [Xenus cinereus](https://en.wikipedia.org/wiki/Xenus_cinereus) |  |
-| US-SC | 0.1377 | [Dryobates borealis](https://en.wikipedia.org/wiki/Dryobates_borealis) | Red-cockaded Woodpecker |
-| US-SD | 0.0381 | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
-| US-TN | 0.6266 | [Grus monacha](https://en.wikipedia.org/wiki/Grus_monacha) |  |
-| US-TX | 0.9189 | [Baeolophus atricristatus](https://en.wikipedia.org/wiki/Baeolophus_atricristatus) | Black-crested Titmouse |
-| US-UT | 0.1869 | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
-| US-VA | 0.5107 | [Anser indicus](https://en.wikipedia.org/wiki/Anser_indicus) |  |
-| US-VT | 0.2150 | [Catharus bicknelli](https://en.wikipedia.org/wiki/Catharus_bicknelli) | Bicknell's Thrush |
-| US-WA | 0.9451 | [Creagrus furcatus](https://en.wikipedia.org/wiki/Creagrus_furcatus) |  |
-| US-WI | 0.1849 | [Tympanuchus cupido](https://en.wikipedia.org/wiki/Tympanuchus_cupido) | Greater Prairie-Chicken |
-| US-WV | 0.0249 | [Setophaga cerulea](https://en.wikipedia.org/wiki/Setophaga_cerulea) | Cerulean Warbler |
-| US-WY | 0.1964 | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
+| AK | 0.9934 | [Urile urile](https://en.wikipedia.org/wiki/Urile_urile) |  |
+| AL | 0.0607 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| AR | 0.0686 | [Antrostomus sp.](https://en.wikipedia.org/wiki/Antrostomus) |  |
+| AZ | 0.9691 | [Agapornis personatus](https://en.wikipedia.org/wiki/Agapornis_personatus) |  |
+| CA | 0.9851 | [Pica nuttalli](https://en.wikipedia.org/wiki/Pica_nuttalli) | Yellow-billed Magpie |
+| CO | 0.7193 | [Leucosticte australis](https://en.wikipedia.org/wiki/Leucosticte_australis) | Brown-capped Rosy-Finch |
+| CT | 0.1904 | [Ammospiza sp.](https://en.wikipedia.org/wiki/Ammospiza) |  |
+| DC | 0.1111 | [Larus michahellis](https://en.wikipedia.org/wiki/Larus_michahellis) |  |
+| DE | 0.1585 | [Chlidonias leucopterus](https://en.wikipedia.org/wiki/Chlidonias_leucopterus) | White-winged Tern |
+| FL | 0.9494 | [Amazona amazonica](https://en.wikipedia.org/wiki/Amazona_amazonica) |  |
+| GA | 0.2768 | [Sitta pusilla](https://en.wikipedia.org/wiki/Sitta_pusilla) | Brown-headed Nuthatch |
+| HI | 0.9980 | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
+| IA | 0.0378 | [Larus crassirostris](https://en.wikipedia.org/wiki/Larus_crassirostris) | Black-tailed Gull |
+| ID | 0.9937 | [Loxia sinesciuris](https://en.wikipedia.org/wiki/Loxia_sinesciuris) | Cassia Crossbill |
+| IL | 0.2272 | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
+| IN | 0.1326 | [Tringa erythropus](https://en.wikipedia.org/wiki/Tringa_erythropus) |  |
+| KS | 0.2114 | [Zonotrichia querula](https://en.wikipedia.org/wiki/Zonotrichia_querula) | Harris's Sparrow |
+| KY | 0.0278 | [Geothlypis formosa](https://en.wikipedia.org/wiki/Geothlypis_formosa) | Kentucky Warbler |
+| LA | 0.1090 | [Quiscalus sp.](https://en.wikipedia.org/wiki/Quiscalus) |  |
+| MA | 0.9674 | [Falco vespertinus](https://en.wikipedia.org/wiki/Falco_vespertinus) |  |
+| MD | 0.4003 | [Larus dominicanus](https://en.wikipedia.org/wiki/Larus_dominicanus) |  |
+| ME | 0.5279 | [Fratercula arctica](https://en.wikipedia.org/wiki/Fratercula_arctica) |  |
+| MI | 0.6334 | [Setophaga kirtlandii](https://en.wikipedia.org/wiki/Setophaga_kirtlandii) | Kirtland's Warbler |
+| MN | 0.1151 | [Cygnus buccinator](https://en.wikipedia.org/wiki/Cygnus_buccinator) | Trumpeter Swan |
+| MO | 0.5093 | [Passer montanus](https://en.wikipedia.org/wiki/Passer_montanus) | Eurasian Tree Sparrow |
+| MS | 0.1435 | [Dendrocygna viduata](https://en.wikipedia.org/wiki/Dendrocygna_viduata) | White-faced Whistling-Duck |
+| MT | 0.1975 | [Centronyx bairdii](https://en.wikipedia.org/wiki/Centronyx_bairdii) | Baird's Sparrow |
+| NC | 0.9096 | [Hydrobates pelagicus](https://en.wikipedia.org/wiki/Hydrobates_pelagicus) |  |
+| ND | 0.1474 | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
+| NE | 0.1329 | [Lanius sp.](https://en.wikipedia.org/wiki/Lanius) |  |
+| NH | 0.2412 | [Egretta gularis](https://en.wikipedia.org/wiki/Egretta_gularis) |  |
+| NJ | 0.8225 | [Chlidonias hybrida](https://en.wikipedia.org/wiki/Chlidonias_hybrida) |  |
+| NM | 0.4158 | [Pluvialis apricaria](https://en.wikipedia.org/wiki/Pluvialis_apricaria) |  |
+| NV | 0.1529 | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
+| NY | 0.9360 | [Chroicocephalus cirrocephalus](https://en.wikipedia.org/wiki/Chroicocephalus_cirrocephalus) |  |
+| OH | 0.1042 | [Fringilla montifringilla](https://en.wikipedia.org/wiki/Fringilla_montifringilla) |  |
+| OK | 0.4407 | [Tadorna ferruginea](https://en.wikipedia.org/wiki/Tadorna_ferruginea) |  |
+| OR | 0.9727 | [Melanitta nigra](https://en.wikipedia.org/wiki/Melanitta_nigra) |  |
+| PA | 0.3118 | [Anser serrirostris](https://en.wikipedia.org/wiki/Anser_serrirostris) |  |
+| RI | 0.2711 | [Xenus cinereus](https://en.wikipedia.org/wiki/Xenus_cinereus) |  |
+| SC | 0.1377 | [Dryobates borealis](https://en.wikipedia.org/wiki/Dryobates_borealis) | Red-cockaded Woodpecker |
+| SD | 0.0381 | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
+| TN | 0.6266 | [Grus monacha](https://en.wikipedia.org/wiki/Grus_monacha) |  |
+| TX | 0.9189 | [Baeolophus atricristatus](https://en.wikipedia.org/wiki/Baeolophus_atricristatus) | Black-crested Titmouse |
+| UT | 0.1869 | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
+| VA | 0.5107 | [Anser indicus](https://en.wikipedia.org/wiki/Anser_indicus) |  |
+| VT | 0.2150 | [Catharus bicknelli](https://en.wikipedia.org/wiki/Catharus_bicknelli) | Bicknell's Thrush |
+| WA | 0.9451 | [Creagrus furcatus](https://en.wikipedia.org/wiki/Creagrus_furcatus) |  |
+| WI | 0.1849 | [Tympanuchus cupido](https://en.wikipedia.org/wiki/Tympanuchus_cupido) | Greater Prairie-Chicken |
+| WV | 0.0249 | [Setophaga cerulea](https://en.wikipedia.org/wiki/Setophaga_cerulea) | Cerulean Warbler |
+| WY | 0.1964 | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
 
 
 
 
 
-### Top Species for Alaska (US-AK)
+### Top Species for Alaska (AK)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1218,7 +1218,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Alabama (US-AL)
+### Top Species for Alabama (AL)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1238,7 +1238,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Arkansas (US-AR)
+### Top Species for Arkansas (AR)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1258,7 +1258,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Arizona (US-AZ)
+### Top Species for Arizona (AZ)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1278,7 +1278,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for California (US-CA)
+### Top Species for California (CA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1298,7 +1298,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Colorado (US-CO)
+### Top Species for Colorado (CO)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1318,7 +1318,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Connecticut (US-CT)
+### Top Species for Connecticut (CT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1338,7 +1338,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for District of Columbia (US-DC)
+### Top Species for District of Columbia (DC)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1358,7 +1358,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Delaware (US-DE)
+### Top Species for Delaware (DE)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1378,7 +1378,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Florida (US-FL)
+### Top Species for Florida (FL)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1398,7 +1398,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Georgia (US-GA)
+### Top Species for Georgia (GA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1418,7 +1418,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Hawaii (US-HI)
+### Top Species for Hawaii (HI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1438,7 +1438,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Iowa (US-IA)
+### Top Species for Iowa (IA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1458,7 +1458,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Idaho (US-ID)
+### Top Species for Idaho (ID)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1478,7 +1478,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Illinois (US-IL)
+### Top Species for Illinois (IL)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1498,7 +1498,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Indiana (US-IN)
+### Top Species for Indiana (IN)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1518,7 +1518,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Kansas (US-KS)
+### Top Species for Kansas (KS)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1538,7 +1538,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Kentucky (US-KY)
+### Top Species for Kentucky (KY)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1558,7 +1558,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Louisiana (US-LA)
+### Top Species for Louisiana (LA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1578,7 +1578,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Massachusetts (US-MA)
+### Top Species for Massachusetts (MA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1598,7 +1598,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Maryland (US-MD)
+### Top Species for Maryland (MD)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1618,7 +1618,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Maine (US-ME)
+### Top Species for Maine (ME)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1638,7 +1638,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Michigan (US-MI)
+### Top Species for Michigan (MI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1658,7 +1658,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Minnesota (US-MN)
+### Top Species for Minnesota (MN)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1678,7 +1678,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Missouri (US-MO)
+### Top Species for Missouri (MO)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1698,7 +1698,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Mississippi (US-MS)
+### Top Species for Mississippi (MS)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1718,7 +1718,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Montana (US-MT)
+### Top Species for Montana (MT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1738,7 +1738,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for North Carolina (US-NC)
+### Top Species for North Carolina (NC)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1758,7 +1758,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for North Dakota (US-ND)
+### Top Species for North Dakota (ND)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1778,7 +1778,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Nebraska (US-NE)
+### Top Species for Nebraska (NE)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1798,7 +1798,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for New Hampshire (US-NH)
+### Top Species for New Hampshire (NH)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1818,7 +1818,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for New Jersey (US-NJ)
+### Top Species for New Jersey (NJ)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1838,7 +1838,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for New Mexico (US-NM)
+### Top Species for New Mexico (NM)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1858,7 +1858,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Nevada (US-NV)
+### Top Species for Nevada (NV)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1878,7 +1878,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for New York (US-NY)
+### Top Species for New York (NY)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1898,7 +1898,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Ohio (US-OH)
+### Top Species for Ohio (OH)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1918,7 +1918,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Oklahoma (US-OK)
+### Top Species for Oklahoma (OK)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1938,7 +1938,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Oregon (US-OR)
+### Top Species for Oregon (OR)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1958,7 +1958,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Pennsylvania (US-PA)
+### Top Species for Pennsylvania (PA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1978,7 +1978,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Rhode Island (US-RI)
+### Top Species for Rhode Island (RI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1998,7 +1998,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for South Carolina (US-SC)
+### Top Species for South Carolina (SC)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2018,7 +2018,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for South Dakota (US-SD)
+### Top Species for South Dakota (SD)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2038,7 +2038,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Tennessee (US-TN)
+### Top Species for Tennessee (TN)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2058,7 +2058,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Texas (US-TX)
+### Top Species for Texas (TX)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2078,7 +2078,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Utah (US-UT)
+### Top Species for Utah (UT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2098,7 +2098,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Virginia (US-VA)
+### Top Species for Virginia (VA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2118,7 +2118,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Vermont (US-VT)
+### Top Species for Vermont (VT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2138,7 +2138,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Washington (US-WA)
+### Top Species for Washington (WA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2158,7 +2158,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Wisconsin (US-WI)
+### Top Species for Wisconsin (WI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2178,7 +2178,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for West Virginia (US-WV)
+### Top Species for West Virginia (WV)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2198,7 +2198,7 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 
 
 
-### Top Species for Wyoming (US-WY)
+### Top Species for Wyoming (WY)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
