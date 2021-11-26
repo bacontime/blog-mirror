@@ -127,10 +127,15 @@ The nickname actually comes from the style of civil war Alabama military uniform
 
 > On the sleeves, collars and coattails of the new calvary troop were bits of brilliant yellow cloth. As the company rode past Company A , Will Arnett cried out in greeting "Yellowhammer, Yellowhammer, flicker, flicker!" The greeting brought a roar of laughter from the men and from that moment the Huntsville soldiers were spoken of as the "yellowhammer company." The term quickly spread throughout the Confederate Army and all Alabama troops were referred to unofficially as the "Yellowhammers."
 
-Depending on how I fiddle with the formulas and data cleaning steps, I can also swing it so that Tennessee gets the Mockingbird.
-But *To Kill a Mockingbird* is set in Alabama, so it fits pretty well.
+(Depending on how I fiddle with the formulas and data cleaning steps, I can also swing it so that Tennessee gets the Mockingbird.
+But *To Kill a Mockingbird* is set in Alabama, so it fits pretty well.)
 
 
+
+
+### The Goldfinch States
+
+![A map of the states which have the Goldfinch as their state bird.](birdup/statepic_spinus_xsmall.png)
 
 
 
