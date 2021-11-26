@@ -6,7 +6,7 @@ has_children: false
 ---
 
 
-This BIRDUP scoring system is based on  [Youden's J statistic]([phi](https://en.wikipedia.org/wiki/Youden%27s_J_statistic)), also called informedness.
+This BIRDUP scoring system is based on  [Youden's J statistic](https://en.wikipedia.org/wiki/Youden%27s_J_statistic), also called informedness.
 It's essentially the difference between how common a bird is in a state and how common that bird is elsewhere in North America.
 
 Youden's J statistic is usually used to evaluate the performance of a diagnostic test.
