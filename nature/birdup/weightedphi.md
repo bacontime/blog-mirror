@@ -9,17 +9,7 @@ has_children: false
 This BIRDUP scoring system uses a modified version of the [phi coefficient](phi),
 but with a parameter tweaked to give slightly more weight to the uniqueness of a bird to a state.
 
-$$\gdef\nBird{🦃}
-\gdef\nState{🗽}
-\gdef\nTotal{N}
-\gdef\nJoint{📋}$$
-
-It uses observation records from the eBird database[^ebirdcitation].
-Each observation is for a specific species of bird in a specific state.
-- Let $N$ be the total number of observations in the data.
-- Let $\nBird$ be the total number of observations of a specific bird species or genus.
-- Let $\nState$ be the total number of observations taking place in a specific state.
-- Let $\nJoint$ be the the joint observation count: the total number of observations of that specific type of bird in that specific state.
+This scoring system uses observation records from the eBird database[^ebirdcitation].
 
 For top-scoring birds, the standard phi coefficient can be written as 
 
