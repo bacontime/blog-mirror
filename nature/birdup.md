@@ -216,4 +216,16 @@ But *To Kill a Mockingbird* is set in Alabama, so it fits pretty well.)
 
 
 
+<!--
+Endemic birds of USA mainland
+- Fish crow, Corvus ossifragus
+- Yellow-billed magpie, Pica nuttalli
+- Florida scrub-jay, Aphelocoma coerulescens 
+- Island scrub-jay, Aphelocoma insularis
+- Carolina chickadee, Poecile carolinensis
+- Brown-headed nuthatch, Sitta pusilla
+- Black rosy-finch, Leucosticte atrata
+- Brown-capped rosy-finch, Leucosticte australis
+- McKay's bunting, Plectrophenax hyperboreus
+-->
 
