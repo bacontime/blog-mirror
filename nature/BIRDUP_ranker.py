@@ -28,19 +28,29 @@ THIS_FOLDER = os.path.dirname(os.path.abspath(__file__))
 
 #%% Flags for fiddling with settings
 
-CUTOFF=0 # Ignore fluke entries with total bird count below this number.
+CUTOFF=1000 # Ignore fluke entries with total bird count below this number.
+STATECUTOFF=100 #Don't allow a top bird with fewer than this many joint observations.
 
-FLAG_ONLY_USE_USA_OBSERVATIONS = False
-FLAG_RESTRICT_TO_BBS_BIRDS = False
-FLAG_EXCLUDE_VERBOTEN_BIRDS = True
-FLAG_RESTRICT_TO_EBIRD_COMMONNAME_KEYBIRDS = True
+FLAG_ONLY_USE_USA_OBSERVATIONS = False #                             0
+FLAG_RESTRICT_TO_BBS_BIRDS = False #                                 0
+FLAG_EXCLUDE_VERBOTEN_BIRDS = False #                                0
+FLAG_RESTRICT_TO_EBIRD_COMMONNAME_KEYBIRDS = False #                 0
 
-FLAG_EXCLUDE_FAMILY_LABELLED_AS_GENUS = True 
-FLAG_EXCLUDE_AMBIGUOUS_GENUS = True # Lorem/Ipsum
-FLAG_EXCLUDE_AMBIGUOUS_SPECIES = False # Lorem ipsum/dolor
-FLAG_EXCLUDE_UNKNOWN_SPECIES = False # Lorem sp.
-FLAG_EXCLUDE_HYBRID_SPECIES = True # Lorem ipsum x dolor
-FLAG_ENFORCE_UNIQUENESS_ACROSS_ALL_NA = False #If true, canada state birds can't be USA state birds
+FLAG_EXCLUDE_VERBOTEN_BIRDS_FROM_TOP = True #                        1 
+FLAG_EXCLUDE_REALSTATEBIRDS_FROM_TOP = False #                       0
+FLAG_EXCLUDE_AMBIGU_SPECIES_FROM_TOP = True #                        1 
+
+FLAG_EXCLUDE_FAMILY_LABELLED_AS_GENUS = True #                       1
+FLAG_EXCLUDE_AMBIGUOUS_GENUS = True # Lorem/Ipsum                    1
+FLAG_EXCLUDE_AMBIGUOUS_SPECIES = True # Lorem ipsum/dolor            1
+FLAG_EXCLUDE_UNKNOWN_SPECIES = False # Lorem sp.                     0
+FLAG_EXCLUDE_HYBRID_SPECIES = True # Lorem ipsum x dolor             1
+FLAG_EXCLUDE_DOMESTIC_TYPE = True #Lorem ipsum (Domestic type)       1
+
+FLAG_ENFORCE_UNIQUENESS_ACROSS_ALL_NA = False #If true, canada state birds can't be USA state birds 0
+
+
+ALPHA_PARAM = 0.65 # For paramaterized phi coefficient 0.65
 
 #%% import data
 picklepath = os.path.join(THIS_FOLDER,'listofbirdcounters.pickle')
@@ -49,7 +59,7 @@ with open(picklepath, 'rb') as handle:
 
 #%% List of States
 
-statemap = {'US-FL': 'Florida', 'US-AL': 'Alabama', 'US-AR': 'Arkansas', 'US-AZ': 'Arizona', 'US-CT': 'Connecticut', 'US-DE': 'Delaware', 'US-GA': 'Georgia', 'US-IA': 'Iowa', 'US-IL': 'Illinois', 'US-IN': 'Indiana', 'US-KS': 'Kansas', 'US-KY': 'Kentucky', 'US-LA': 'Louisiana', 'US-MD': 'Maryland', 'US-MI': 'Michigan', 'US-MN': 'Minnesota', 'US-MO': 'Missouri', 'US-MS': 'Mississippi', 'US-NC': 'North Carolina', 'US-NE': 'Nebraska', 'US-NJ': 'New Jersey', 'US-NM': 'New Mexico', 'US-NY': 'New York', 'US-OH': 'Ohio', 'US-OK': 'Oklahoma', 'US-PA': 'Pennsylvania', 'US-SC': 'South Carolina', 'US-TN': 'Tennessee', 'US-TX': 'Texas', 'US-VA': 'Virginia', 'US-VT': 'Vermont', 'US-WI': 'Wisconsin', 'US-AK': 'Alaska', 'US-CA': 'California', 'US-OR': 'Oregon', 'US-WA': 'Washington', 'US-CO': 'Colorado', 'US-DC': 'District of Columbia', 'US-HI': 'Hawaii', 'US-ID': 'Idaho', 'US-MA': 'Massachusetts', 'US-ME': 'Maine', 'US-MT': 'Montana', 'US-ND': 'North Dakota', 'US-NH': 'New Hampshire', 'US-NV': 'Nevada', 'US-RI': 'Rhode Island', 'US-SD': 'South Dakota', 'US-UT': 'Utah', 'US-WV': 'West Virginia', 'US-WY': 'Wyoming'}
+statemap = {'US-AK': 'Alaska', 'US-AL': 'Alabama', 'US-AR': 'Arkansas', 'US-AZ': 'Arizona', 'US-CA': 'California', 'US-CO': 'Colorado', 'US-CT': 'Connecticut', 'US-DC': 'District of Columbia', 'US-DE': 'Delaware', 'US-FL': 'Florida', 'US-GA': 'Georgia', 'US-HI': 'Hawaii', 'US-IA': 'Iowa', 'US-ID': 'Idaho', 'US-IL': 'Illinois', 'US-IN': 'Indiana', 'US-KS': 'Kansas', 'US-KY': 'Kentucky', 'US-LA': 'Louisiana', 'US-MA': 'Massachusetts', 'US-MD': 'Maryland', 'US-ME': 'Maine', 'US-MI': 'Michigan', 'US-MN': 'Minnesota', 'US-MO': 'Missouri', 'US-MS': 'Mississippi', 'US-MT': 'Montana', 'US-NC': 'North Carolina', 'US-ND': 'North Dakota', 'US-NE': 'Nebraska', 'US-NH': 'New Hampshire', 'US-NJ': 'New Jersey', 'US-NM': 'New Mexico', 'US-NV': 'Nevada', 'US-NY': 'New York', 'US-OH': 'Ohio', 'US-OK': 'Oklahoma', 'US-OR': 'Oregon', 'US-PA': 'Pennsylvania', 'US-RI': 'Rhode Island', 'US-SC': 'South Carolina', 'US-SD': 'South Dakota', 'US-TN': 'Tennessee', 'US-TX': 'Texas', 'US-UT': 'Utah', 'US-VA': 'Virginia', 'US-VT': 'Vermont', 'US-WA': 'Washington', 'US-WI': 'Wisconsin', 'US-WV': 'West Virginia', 'US-WY': 'Wyoming'}
 
 
 #%% Forbidden bird list to exclude the non-native birds?
@@ -66,21 +76,70 @@ VERBOTEN_SPECIES = [
      'Streptopelia decaocto',
      'Zosterops japonicus',
      'Geopelia striata',
-     '',
-     '',
-     '',
-     '',
-     '',
+     'Paroaria coronata',
+     'Passer domesticus',
+     'Sturnus vulgaris',
+     'Eos bornea',
+     'Terek sandpiper',
+     'Tadorna tadorna',
+     'Perdix perdix',
+     'Parus major',
+     'Euplectes franciscanus',
+     'Myiopsitta monachus',
+     'Aratinga nenday',
+     'Carduelis carduelis',
+     'Agapornis personatus', #lovebird
+     'Agapornis roseicollis', #lovebird
+     'Muscicapa griseisticta',
+     'Calliope calliope',
+     'Sibirionetta formosa',
+     'Creagrus furcatus',
+     'Tarsiger cyanurus',
+     'Xenus cinereus',
+     'Fringilla montifringilla',
+     'Sibirionetta formosa',
+     'Passer montanus',
+     'Nomonyx dominicus',
+     'Amazona amazonica',
+     'Grus grus',
+     'Melanospiza bicolor',
+     'Myiarchus sagrae',
+     'Porphyrio poliocephalus',
+     'Gracula religiosa',
+     'Ara ararauna',
+     'Thectocercus acuticaudatus',
+     'Brotogeris versicolurus',
+     'Columba livia',
+     'Cygnus olor',
      '',
      '',
      ]
 
 # Some birds were list only by their family. These are the one's I've noticed:
-FAMILY_LABELLED_AS_GENUS = ['Laridae', 'Turdidae',]
+FAMILY_LABELLED_AS_GENUS = ['Laridae', 'Turdidae', 'Sterninae', 'Sulidae',
+                            'Larinae', 'Trochilidae', 'Threskiornithidae', 'Aves',
+                            'Cuculidae', 'Tyrannidae', 'Corvidae', 'Fringillidae',
+                            'Icteridae', 'Charadriidae', 'Ardeidae', 'Podicipedidae',
+                            'Strigiformes', '', '', '',
+                            '', '', '', '',
+                            '', '', '', '',
+                            '', '', '', '',]
         
 #'Calonectris diomedea',
-VERBOTEN_GENUS = ['Laridae',
-     'Egretta',
+VERBOTEN_GENUS = ['',
+     '',
+     '',
+     '',
+     '',
+     'Brotogeris',
+     'Thectocercus',
+     'Ara',
+     'Gracula',
+     'Amazona',
+     'Nomonyx',
+     'Sibirionetta',
+     'Fringilla',
+     'Xenus',
      'Phasianus',
      'Bubulcus',
      'Acridotheres',
@@ -89,18 +148,31 @@ VERBOTEN_GENUS = ['Laridae',
      'Cuculus',
      'Tetraogallus',
      'Streptopelia',
-     'Turdidae',
+     'Zosterops',
+     'Geopelia',
+     'Paroaria',
+     'Passer',
+     'Sturnus',
+     'Eos',
+     'Terek',
+     'Tadorna',
+     'Perdix',
+     'Parus',
+     'Euplectes',
+     'Myiopsitta',
+     'Aratinga',
+     'Carduelis',
+     'Agapornis',
+     'Muscicapa',
+     'Calliope',
+     'Creagrus',
+     'Tarsiger',
      '',
      '',
-     '',
-     '',
-     '',
-     '',
-     '',
-     '',
-     '',
-     '']
+     ]
 
+
+VERBOTEN_BIRDS = VERBOTEN_SPECIES+VERBOTEN_GENUS
 
 #%% BBS Bird Lists
 BBS_GENUS_LIST = ['Butorides', 'Nycticorax', 'Nyctanassa', 'Charadrius', 'Colinus', 'Columba', 'Zenaida', 'Coccyzus', 'Dryobates', 'Dryocopus', 'Melanerpes', 'Colaptes', 'Antrostomus', 'Chaetura', 'Tyrannus', 'Contopus', 'Empidonax', 'Cyanocitta', 'Corvus', 'Sturnus', 'Molothrus', 'Agelaius', 'Sturnella', 'Icterus', 'Quiscalus', 'Spinus', 'Spizella', 'Pipilo', 'Cardinalis', 'Passerina', 'Spiza', 'Piranga', 'Progne', 'Hirundo', 'Lanius', 'Vireo', 'Setophaga', 'Seiurus', 'Geothlypis', 'Icteria', 'Passer', 'Mimus', 'Dumetella', 'Toxostoma', 'Thryothorus', 'Baeolophus', 'Poecile', 'Polioptila', 'Hylocichla', 'Turdus', 'Sialia', 'Anas', 'Aix', 'Coragyps', 'Chordeiles', 'Myiarchus', 'Ammodramus', 'Petrochelidon', 'Stelgidopteryx', 'Mniotilta', 'Protonotaria', 'Sitta', 'Sayornis', 'Bubulcus', 'Archilochus', 'Eremophila', 'Cathartes', 'Buteo', 'Vermivora', 'Thryomanes', 'Megaceryle', 'Strix', 'Bubo', 'Falco', 'Egretta', 'Accipiter', 'Melospiza', 'Bombycilla', 'Helmitheros', 'Parkesia', 'Branta', 'Ardea', 'Haemorhous', 'Phalacrocorax', 'Scolopax', 'Troglodytes', 'Streptopelia', 'Chondestes', 'Meleagris', 'Limnothlypis', 'Tachycineta', 'Peucaea', 'Megascops', 'Podilymbus', 'Fulica', 'Riparia', 'Ixobrychus', 'Pandion', 'Larus', 'Lophodytes', 'Haliaeetus', 'Ictinia', 'Woodpecker', 'Actitis', 'Gallinula', 'Rallus', 'Columbina', 'Eudocimus', 'Elanoides', 'Ardeid', 'Anhinga', 'Dendrocygna', 'Mycteria', 'Circus', 'Tyto', 'Hydroprogne', 'Sternula', 'Rynchops', 'Pelecanus', 'Porphyrio', 'Tringa', 'Ammospiza', 'Cistothorus', 'Leucophaeus', 'Thalasseus', 'Sterna', 'Spatula', 'Haematopus', 'Catharus', 'Gelochelidon', 'Fregata', 'Laterallus', 'Himantopus', 'Aythya', 'Loxia', 'Gull', 'Coragyps / Cathartes', 'Plegadis', 'Perisoreus', 'Acanthis', 'Zonotrichia', 'Junco', 'Leiothlypis', 'Regulus', 'Ixoreus', 'Gallinago', 'Passerculus', 'Cardellina', 'Myadestes', 'Pinicola', 'Passerella', 'Lagopus', 'Aquila', 'Picoides', 'Carduelis', 'Spizelloides', 'Anser', 'Antigone', 'Falcipennis', 'Bucephala', 'Euphagus', 'Gavia', 'Certhia', 'Mareca', 'Bonasa', 'Cygnus', 'Podiceps', 'Surnia', 'Aegolius', 'Mergus', 'Pica', 'Porzana', 'Anthus', 'Chroicocephalus', 'Phalaropus', 'Sphyrapicus', 'Pluvialis', 'Melanitta', 'Calidris', 'Calcarius', 'Phylloscopus', 'Clangula', 'Bartramia', 'Asio', 'Stercorarius', 'Numenius', 'Histrionicus', 'Cinclus', 'Oenanthe', 'Rissa', 'Uria', 'Somateria', 'Brachyramphus', 'Cepphus', 'Dendragapus', 'Selasphorus', 'Glaucidium', 'Trochilid', 'Patagioenas', 'Limnodromus', 'Onychoprion', 'Tympanuchus', 'Fratercula', 'Synthliboramphus', 'Leucosticte', 'Plectrophenax', 'Tern', 'Alauda', 'Phasianus', 'Limosa', 'Motacilla', 'Arenaria', 'Fulmarus', 'Xema', 'Cyanecula', 'Cypseloides', 'Pheucticus', 'Botaurus', 'Carpodacus', 'Pooecetes', 'Calamospiza', 'Chlidonias', 'Centrocercus', 'Recurvirostra', 'Xanthocephalus', 'Centronyx', 'Perdix', 'Oxyura', 'Rhynchophanes', 'Dolichonyx', 'Salpinctes', 'Athene', 'Aechmophorus', 'Nucifraga', 'Coccothraustes', 'Coturnicops', 'Oporornis', 'Gymnorhinus', 'Amphispiza', 'Oreoscoptes', 'Psaltriparus', 'Aphelocoma', 'Callipepla', 'Melozone', 'Artemisiospiza', 'Aeronautes', 'Phalaenoptilus', 'Aimophila', 'Catherpes', 'Gymnogyps', 'Campylorhynchus', 'Auriparus', 'Geococcyx', 'Phainopepla', 'Calypte', 'Pyrocephalus', 'Parabuteo', 'Micrathene', 'Myioborus', 'Peucedramus', 'Psiloscops', 'Elanus', 'Myiodynastes', 'Camptostoma', 'Cynanthus', 'Cyrtonyx', 'Trogon', 'Lampornis', 'Buteogallus', 'Eugenes', 'Amazilia', 'Thryophilus', 'Pachyramphus', 'Alectoris', 'Caracara', 'Calothorax', 'Cerorhinca', 'Oreortyx', 'Chamaea', 'Pavo', 'Brotogeris', 'Aratinga', 'Amazona', 'Sula', 'Lonchura', 'Vidua', 'Aramus', 'Myiopsitta', 'Platalea', 'Cairina', 'Grus', 'Rostrhamus', 'Crotophaga', 'Acridotheres', 'Psittacula', 'Calonectris', 'Nycticorax / Nyctanassa', 'Melopsittacus', 'Alopochen', 'Pitangus', 'Rhodostethia', 'Morus', 'Alca', 'Puffinus', 'Hydrobates', 'Arremonops', 'Nyctidromus', 'Ortalis', 'Cyanocorax', 'Leptotila', 'Geranoaetus', 'Tachybaptus', 'Chloroceryle', 'Chondrohierax', 'Ptychoramphus']
@@ -129,9 +201,9 @@ REALSTATEBIRDS = {
     'US-KS': 'Sturnella neglecta',
     'US-KY': 'Cardinalis cardinalis',
     'US-LA': 'Pelecanus occidentalis',
-    'US-ME': 'Poecile UNSPECIFIED',
+    'US-ME': 'Poecile sp.',
     'US-MD': 'Icterus galbula',
-    'US-MA': 'Poecile atricapilla',
+    'US-MA': 'Poecile atricapillus', #atricapilla
     'US-MI': 'Turdus migratorius',
     'US-MN': 'Gavia immer',
     'US-MS': 'Mimus polyglottos',
@@ -139,7 +211,7 @@ REALSTATEBIRDS = {
     'US-MT': 'Sturnella neglecta',
     'US-NE': 'Sturnella neglecta',
     'US-NV': 'Sialia currucoides',
-    'US-NH': 'Carpodacus purpureus',
+    'US-NH': 'Haemorhous purpureus', #Carpodacus purpureus
     'US-NJ': 'Spinus tristis',
     'US-NM': 'Geococcyx californianus',
     'US-NY': 'Sialia sialis',
@@ -162,6 +234,10 @@ REALSTATEBIRDS = {
     'US-WI': 'Turdus migratorius',
     'US-WY': 'Sturnella neglecta',}
 
+REALSTATEBIRD_LIST = [bird.split(' ')[0] for bird in REALSTATEBIRDS.values()]+list(REALSTATEBIRDS.values())
+
+
+
 #And there are some iconic birds it would be nice to have.
 ICONICBIRDLIST = ['Cardinalis','Haliaeetus','Cyanocitta','Corvus',
                   'Selasphorus','Archilochus','Meleagris','Falco','Strix',]
@@ -182,7 +258,24 @@ Nannopterum Cormorant
 '''
 
 
-genus_commonname_map = {'Aethia' : 'Auklet' ,
+genus_commonname_map = {'': '',
+    '': '',
+    '': '',
+    '': '',
+    'Branta leucopsis': 'Barnacle Goose',
+    'Fringilla montifringilla': 'Brambling',
+    'Urile': 'Cormorant',
+    'Urile urile': 'Violet Shag',
+    'Spatula querquedula': 'Garganey',
+    'Alle alle': 'Dovekie',
+    'Agapornis': 'Lovebird',
+    'Strix': 'Wood Owl',
+    'Gavia': 'Loon',
+    'Ardenna': 'Shearwater',
+    'Alca': 'Razorbill',
+    'Puffinus': 'Shearwater',
+    'Aratinga': 'Conure',
+    'Aethia' : 'Auklet' ,
     'Mimus' : 'Mockingbird' ,
     'Passerina' : 'Bunting' ,
     'Auriparus' : 'Verdin' ,
@@ -304,15 +397,44 @@ genus_commonname_map = {'Aethia' : 'Auklet' ,
     'Euphagus' : 'Blackbird' ,
     'Spizelloides' : 'Winter Sparrow' ,
     'Fulica' : 'Coot' ,
-    '' : '' ,
-    '' : '' ,
-    '' : '' ,
+    'Anser' : 'Grey Goose' ,
+    'Meleagris' : 'Turkey' ,
+    'Pluvialis' : 'Plover' ,
+    'Rhynchophanes' : 'Longspur' ,
+    'Scolopax' : 'Woodcock' ,
+    'Accipiter' : 'Quail Hawk' ,
+    'Megascops' : 'Screech Owl' ,
+    'Calcarius' : 'Longspur' ,
+    'Oxyura' : 'Stiff-tailed Duck' ,
+    'Certhia' : 'Treecreeper' ,
+    'Calamospiza' : 'Lark Bunting' ,
+    'Gymnorhinus' : 'Pinyon Jay' ,
+    'Myiarchus' : 'Tyrant Flycatcher' ,
+    'Podiceps' : 'Grebe' ,
+    'Bonasa' : 'Ruffed Grouse' ,
+    'Oporornis' : 'Connecticut Warbler' ,
+    'Antrostomus' : 'Nightjar' ,
+    'Coccyzus' : 'Cuckoo' ,
+    'Bombycilla' : 'Waxwing' ,
+    'Vermivora' : 'Warbler' ,
+    'Polioptila' : 'Gnatcatcher' ,
+    'Cepphus' : 'Guillemot' ,
+    'Recurvirostra' : 'Avocet' ,
+    'Perdix' : 'Partridge' ,
+    'Cynanthus' : 'Hummingbird' ,
+    'Himatione sanguinea' : 'Apapane' ,
+    'Grus' : 'Crane' ,
+    'Euplectes' : 'Bishop' ,
+    'Carduelis' : 'Goldfinch' ,
+    'Rynchops' : 'Skimmer' ,
+    'Phainopepla' : 'Phainopepla' ,
+    'Aethia psittacula' : 'Parakeet auklet' ,
     '' : '' ,
     '' : '' ,
     '' : '' ,
     }
 
-
+#%% Wikipedia page redirects
 wikipedia_mapping = {'Aix':'https://en.wikipedia.org/wiki/Aix_(bird)',
                     'Pica':'https://en.wikipedia.org/wiki/Pica_(genus)',
                     'Cygnus':'https://en.wikipedia.org/wiki/Swan',
@@ -334,10 +456,10 @@ wikipedia_mapping = {'Aix':'https://en.wikipedia.org/wiki/Aix_(bird)',
                     'Icterus':'https://en.wikipedia.org/wiki/New_World_oriole',
                     'Rissa':'https://en.wikipedia.org/wiki/Kittiwake',
                     'Fulica':'https://en.wikipedia.org/wiki/Coot',
-                    '':'',
-                    '':'',
-                    '':'',
-                    '':'',
+                    'Grus':'https://en.wikipedia.org/wiki/Grus_(genus)',
+                    'Gavia':'https://en.wikipedia.org/wiki/Loon',
+                    'Strix':'https://en.wikipedia.org/wiki/Strix_(bird)',
+                    'Dryobates arizonae':'https://en.wikipedia.org/wiki/Arizona_woodpecker',
                     '':'',
                     '':'',
                     '':'',
@@ -345,6 +467,8 @@ wikipedia_mapping = {'Aix':'https://en.wikipedia.org/wiki/Aix_(bird)',
                     '':'',
                     '':'',}
 
+
+#%% BBS Common names
 
 BBS_commonname_map = {'Dendrocygna autumnalis': 'Black-bellied Whistling-Duck',
     'Dendrocygna bicolor': 'Fulvous Whistling-Duck',
@@ -1103,7 +1227,7 @@ BBS_commonname_map = {'Dendrocygna autumnalis': 'Black-bellied Whistling-Duck',
     'Passerina ciris': 'Painted Bunting',
     'Spiza americana': 'Dickcissel'}
 
-
+#BBS_commonname_map = dict() #TODO: Remove this later.
 
 #%% eBird Bird List common names
 eBird_commonname_map = {'Rhea americana': 'Greater Rhea', 'Crypturellus transfasciatus': 'Pale-browed Tinamou', 'Dendrocygna viduata': 'White-faced Whistling-Duck', 'Dendrocygna autumnalis': 'Black-bellied Whistling-Duck', 'Dendrocygna arborea': 'West Indian Whistling-Duck', 'Dendrocygna bicolor': 'Fulvous Whistling-Duck', 'Anser canagicus': 'Emperor Goose', 'Anser caerulescens': 'Snow Goose', 'Anser rossii': "Ross's Goose", 'Anser albifrons': 'Greater White-fronted Goose', 'Branta bernicla': 'Brant', 'Branta hutchinsii': 'Cackling Goose', 'Branta canadensis': 'Canada Goose', 'Cygnus olor': 'Mute Swan', 'Cygnus melancoryphus': 'Black-necked Swan', 'Cygnus buccinator': 'Trumpeter Swan', 'Cygnus columbianus': 'Tundra Swan', 'Coscoroba coscoroba': 'Coscoroba Swan', 'Oressochen jubatus': 'Orinoco Goose', 'Oressochen melanopterus': 'Andean Goose', 'Alopochen aegyptiaca': 'Egyptian Goose', 'Tadorna variegata': 'Paradise Shelduck', 'Tadorna tadorna': 'Common Shelduck', 'Cairina moschata': 'Muscovy Duck', 'Aix sponsa': 'Wood Duck', 'Hymenolaimus malacorhynchos': 'Blue Duck', 'Spatula discors': 'Blue-winged Teal', 'Spatula cyanoptera': 'Cinnamon Teal', 'Spatula clypeata': 'Northern Shoveler', 'Mareca strepera': 'Gadwall', 'Mareca penelope': 'Eurasian Wigeon', 'Mareca americana': 'American Wigeon', 'Anas platyrhynchos': 'Mallard', 'Anas diazi': 'Mexican Duck', 'Anas rubripes': 'American Black Duck', 'Anas fulvigula': 'Mottled Duck', 'Anas bahamensis': 'White-cheeked Pintail', 'Anas acuta': 'Northern Pintail', 'Anas georgica': 'Yellow-billed Pintail', 'Anas crecca': 'Green-winged Teal', 'Anas gracilis': 'Gray Teal', 'Netta peposaca': 'Rosy-billed Pochard', 'Aythya valisineria': 'Canvasback', 'Aythya americana': 'Redhead', 'Aythya collaris': 'Ring-necked Duck', 'Aythya fuligula': 'Tufted Duck', 'Aythya marila': 'Greater Scaup', 'Aythya affinis': 'Lesser Scaup', 'Polysticta stelleri': "Steller's Eider", 'Somateria fischeri': 'Spectacled Eider', 'Somateria spectabilis': 'King Eider', 'Somateria mollissima': 'Common Eider', 'Histrionicus histrionicus': 'Harlequin Duck', 'Melanitta perspicillata': 'Surf Scoter', 'Melanitta deglandi': 'White-winged Scoter', 'Melanitta americana': 'Black Scoter', 'Clangula hyemalis': 'Long-tailed Duck', 'Bucephala albeola': 'Bufflehead', 'Bucephala clangula': 'Common Goldeneye', 'Bucephala islandica': "Barrow's Goldeneye", 'Lophodytes cucullatus': 'Hooded Merganser', 'Mergus merganser': 'Common Merganser', 'Mergus serrator': 'Red-breasted Merganser', 'Heteronetta atricapilla': 'Black-headed Duck', 'Nomonyx dominicus': 'Masked Duck', 'Oxyura jamaicensis': 'Ruddy Duck', 'Ortalis vetula': 'Plain Chachalaca', 'Ortalis columbiana': 'Colombian Chachalaca', 'Pipile jacutinga': 'Black-fronted Piping-Guan', 'Crax fasciolata': 'Bare-faced Curassow', 'Oreortyx pictus': 'Mountain Quail', 'Colinus virginianus': 'Northern Bobwhite', 'Callipepla squamata': 'Scaled Quail', 'Callipepla californica': 'California Quail', 'Callipepla gambelii': "Gambel's Quail", 'Cyrtonyx montezumae': 'Montezuma Quail', 'Odontophorus melanonotus': 'Dark-backed Wood-Quail', 'Meleagris gallopavo': 'Wild Turkey', 'Bonasa umbellus': 'Ruffed Grouse', 'Centrocercus urophasianus': 'Greater Sage-Grouse', 'Centrocercus minimus': 'Gunnison Sage-Grouse', 'Dendragapus obscurus': 'Dusky Grouse', 'Dendragapus fuliginosus': 'Sooty Grouse', 'Tympanuchus phasianellus': 'Sharp-tailed Grouse', 'Tympanuchus cupido': 'Greater Prairie-Chicken', 'Tympanuchus pallidicinctus': 'Lesser Prairie-Chicken', 'Lagopus leucura': 'White-tailed Ptarmigan', 'Lagopus lagopus': 'Willow Ptarmigan', 'Lagopus muta': 'Rock Ptarmigan', 'Canachites canadensis': 'Spruce Grouse', 'Perdix perdix': 'Gray Partridge', 'Phasianus colchicus': 'Ring-necked Pheasant', 'Gallus sonneratii': 'Gray Junglefowl', 'Ortygornis gularis': 'Swamp Francolin', 'Coturnix coturnix': 'Common Quail', 'Alectoris chukar': 'Chukar', 'Phoenicopterus chilensis': 'Chilean Flamingo', 'Tachybaptus dominicus': 'Least Grebe', 'Podilymbus podiceps': 'Pied-billed Grebe', 'Podiceps auritus': 'Horned Grebe', 'Podiceps grisegena': 'Red-necked Grebe', 'Podiceps nigricollis': 'Eared Grebe', 'Podiceps occipitalis': 'Silvery Grebe', 'Aechmophorus occidentalis': 'Western Grebe', 'Aechmophorus clarkii': "Clark's Grebe", 'Columba livia': 'Rock Pigeon', 'Patagioenas leucocephala': 'White-crowned Pigeon', 'Patagioenas flavirostris': 'Red-billed Pigeon', 'Patagioenas fasciata': 'Band-tailed Pigeon', 'Streptopelia turtur': 'European Turtle-Dove', 'Streptopelia decaocto': 'Eurasian Collared-Dove', 'Streptopelia capicola': 'Ring-necked Dove', 'Streptopelia chinensis': 'Spotted Dove', 'Columbina inca': 'Inca Dove', 'Columbina passerina': 'Common Ground Dove', 'Columbina talpacoti': 'Ruddy Ground Dove', 'Columbina buckleyi': 'Ecuadorian Ground Dove', 'Geotrygon montana': 'Ruddy Quail-Dove', 'Leptotila verreauxi': 'White-tipped Dove', 'Zenaida meloda': 'West Peruvian Dove', 'Zenaida asiatica': 'White-winged Dove', 'Zenaida macroura': 'Mourning Dove', 'Hemiphaga novaeseelandiae': 'New Zealand Pigeon', 'Pterocles orientalis': 'Black-bellied Sandgrouse', 'Crotophaga ani': 'Smooth-billed Ani', 'Crotophaga sulcirostris': 'Groove-billed Ani', 'Morococcyx erythropygus': 'Lesser Ground-Cuckoo', 'Geococcyx californianus': 'Greater Roadrunner', 'Clamator jacobinus': 'Pied Cuckoo', 'Coccyzus americanus': 'Yellow-billed Cuckoo', 'Coccyzus minor': 'Mangrove Cuckoo', 'Coccyzus erythropthalmus': 'Black-billed Cuckoo', 'Eudynamys scolopaceus': 'Asian Koel', 'Eudynamys orientalis': 'Pacific Koel', 'Scythrops novaehollandiae': 'Channel-billed Cuckoo', 'Chrysococcyx lucidus': 'Shining Bronze-Cuckoo', 'Hierococcyx sparverioides': 'Large Hawk-Cuckoo', 'Cuculus canorus': 'Common Cuckoo', 'Cuculus optatus': 'Oriental Cuckoo', 'Chordeiles acutipennis': 'Lesser Nighthawk', 'Chordeiles minor': 'Common Nighthawk', 'Chordeiles gundlachii': 'Antillean Nighthawk', 'Nyctidromus albicollis': 'Common Pauraque', 'Phalaenoptilus nuttallii': 'Common Poorwill', 'Antrostomus carolinensis': "Chuck-will's-widow", 'Antrostomus vociferus': 'Eastern Whip-poor-will', 'Antrostomus arizonae': 'Mexican Whip-poor-will', 'Caprimulgus ruficollis': 'Red-necked Nightjar', 'Caprimulgus europaeus': 'Eurasian Nightjar', 'Nyctibius griseus': 'Common Potoo', 'Cypseloides niger': 'Black Swift', 'Chaetura pelagica': 'Chimney Swift', 'Chaetura vauxi': "Vaux's Swift", 'Apus melba': 'Alpine Swift', 'Apus apus': 'Common Swift', 'Apus unicolor': 'Plain Swift', 'Apus pallidus': 'Pallid Swift', 'Aeronautes saxatalis': 'White-throated Swift', 'Panyptila sanctihieronymi': 'Great Swallow-tailed Swift', 'Colibri serrirostris': 'White-vented Violetear', 'Colibri coruscans': 'Sparkling Violetear', 'Colibri delphinae': 'Brown Violetear', 'Colibri thalassinus': 'Mexican Violetear', 'Colibri cyanotus': 'Lesser Violetear', 'Sephanoides sephaniodes': 'Green-backed Firecrown', 'Ramphomicron microrhynchum': 'Purple-backed Thornbill', 'Coeligena torquata': 'Collared Inca', 'Patagona gigas': 'Giant Hummingbird', 'Eugenes fulgens': "Rivoli's Hummingbird", 'Heliomaster furcifer': 'Blue-tufted Starthroat', 'Lampornis clemenciae': 'Blue-throated Mountain-gem', 'Thaumastura cora': 'Peruvian Sheartail', 'Rhodopis vesper': 'Oasis Hummingbird', 'Calothorax lucifer': 'Lucifer Hummingbird', 'Archilochus colubris': 'Ruby-throated Hummingbird', 'Archilochus alexandri': 'Black-chinned Hummingbird', 'Calypte anna': "Anna's Hummingbird", 'Calypte costae': "Costa's Hummingbird", 'Selasphorus calliope': 'Calliope Hummingbird', 'Selasphorus rufus': 'Rufous Hummingbird', 'Selasphorus sasin': "Allen's Hummingbird", 'Selasphorus platycercus': 'Broad-tailed Hummingbird', 'Cynanthus latirostris/doubledayi': 'Broad-billed/Turquoise-crowned Hummingbird', 'Chlorostilbon lucidus': 'Glittering-bellied Emerald', 'Basilinna xantusii': "Xantus's Hummingbird", 'Leucolia violiceps': 'Violet-crowned Hummingbird', 'Saucerottia beryllina': 'Berylline Hummingbird', 'Saucerottia cyanifrons': 'Indigo-capped Hummingbird', 'Amazilia yucatanensis': 'Buff-bellied Hummingbird', 'Amazilia luciae': 'Honduran Emerald', 'Rallus obsoletus': "Ridgway's Rail", 'Rallus elegans': 'King Rail', 'Rallus crepitans': 'Clapper Rail', 'Rallus limicola': 'Virginia Rail', 'Porzana carolina': 'Sora', 'Gallinula galeata': 'Common Gallinule', 'Fulica americana': 'American Coot', 'Porphyrio martinica': 'Purple Gallinule', 'Porphyrio poliocephalus': 'Gray-headed Swamphen', 'Coturnicops noveboracensis': 'Yellow Rail', 'Laterallus jamaicensis': 'Black Rail', 'Aramus guarauna': 'Limpkin', 'Antigone canadensis': 'Sandhill Crane', 'Antigone antigone': 'Sarus Crane', 'Grus americana': 'Whooping Crane', 'Himantopus himantopus': 'Black-winged Stilt', 'Himantopus mexicanus': 'Black-necked Stilt', 'Recurvirostra americana': 'American Avocet', 'Haematopus finschi': 'South Island Oystercatcher', 'Haematopus palliatus': 'American Oystercatcher', 'Haematopus ater': 'Blackish Oystercatcher', 'Haematopus leucopodus': 'Magellanic Oystercatcher', 'Haematopus bachmani': 'Black Oystercatcher', 'Pluvialis squatarola': 'Black-bellied Plover', 'Pluvialis dominica': 'American Golden-Plover', 'Pluvialis fulva': 'Pacific Golden-Plover', 'Vanellus vanellus': 'Northern Lapwing', 'Vanellus chilensis': 'Southern Lapwing', 'Charadrius obscurus': 'Red-breasted Dotterel', 'Charadrius falklandicus': 'Two-banded Plover', 'Charadrius bicinctus': 'Double-banded Plover', 'Charadrius alexandrinus': 'Kentish Plover', 'Charadrius nivosus': 'Snowy Plover', 'Charadrius wilsonia': "Wilson's Plover", 'Charadrius semipalmatus': 'Semipalmated Plover', 'Charadrius melodus': 'Piping Plover', 'Charadrius vociferus': 'Killdeer', 'Charadrius montanus': 'Mountain Plover', 'Charadrius modestus': 'Rufous-chested Dotterel', 'Anarhynchus frontalis': 'Wrybill', 'Nycticryphes semicollaris': 'South American Painted-Snipe', 'Jacana spinosa': 'Northern Jacana', 'Bartramia longicauda': 'Upland Sandpiper', 'Numenius tahitiensis': 'Bristle-thighed Curlew', 'Numenius phaeopus': 'Whimbrel', 'Numenius americanus': 'Long-billed Curlew', 'Numenius arquata': 'Eurasian Curlew', 'Limosa lapponica': 'Bar-tailed Godwit', 'Limosa haemastica': 'Hudsonian Godwit', 'Limosa fedoa': 'Marbled Godwit', 'Arenaria interpres': 'Ruddy Turnstone', 'Arenaria melanocephala': 'Black Turnstone', 'Calidris canutus': 'Red Knot', 'Calidris virgata': 'Surfbird', 'Calidris himantopus': 'Stilt Sandpiper', 'Calidris ruficollis': 'Red-necked Stint', 'Calidris alba': 'Sanderling', 'Calidris alpina': 'Dunlin', 'Calidris ptilocnemis': 'Rock Sandpiper', 'Calidris maritima': 'Purple Sandpiper', 'Calidris bairdii': "Baird's Sandpiper", 'Calidris minutilla': 'Least Sandpiper', 'Calidris fuscicollis': 'White-rumped Sandpiper', 'Calidris subruficollis': 'Buff-breasted Sandpiper', 'Calidris melanotos': 'Pectoral Sandpiper', 'Calidris pusilla': 'Semipalmated Sandpiper', 'Calidris mauri': 'Western Sandpiper', 'Limnodromus griseus': 'Short-billed Dowitcher', 'Limnodromus scolopaceus': 'Long-billed Dowitcher', 'Scolopax rusticola': 'Eurasian Woodcock', 'Scolopax minor': 'American Woodcock', 'Gallinago delicata': "Wilson's Snipe", 'Phalaropus tricolor': "Wilson's Phalarope", 'Phalaropus lobatus': 'Red-necked Phalarope', 'Actitis macularius': 'Spotted Sandpiper', 'Tringa solitaria': 'Solitary Sandpiper', 'Tringa incana': 'Wandering Tattler', 'Tringa melanoleuca': 'Greater Yellowlegs', 'Tringa semipalmata': 'Willet', 'Tringa flavipes': 'Lesser Yellowlegs', 'Glareola maldivarum': 'Oriental Pratincole', 'Stercorarius pomarinus': 'Pomarine Jaeger', 'Stercorarius parasiticus': 'Parasitic Jaeger', 'Stercorarius longicaudus': 'Long-tailed Jaeger', 'Cepphus columba': 'Pigeon Guillemot', 'Brachyramphus marmoratus': 'Marbled Murrelet', 'Saundersilarus saundersi': "Saunders's Gull", 'Chroicocephalus philadelphia': "Bonaparte's Gull", 'Chroicocephalus novaehollandiae': 'Silver Gull', 'Hydrocoloeus minutus': 'Little Gull', 'Leucophaeus atricilla': 'Laughing Gull', 'Leucophaeus pipixcan': "Franklin's Gull", 'Ichthyaetus audouinii': "Audouin's Gull", 'Larus crassirostris': 'Black-tailed Gull', 'Larus heermanni': "Heermann's Gull", 'Larus canus/brachyrhynchus': 'Common/Short-billed Gull', 'Larus delawarensis': 'Ring-billed Gull', 'Larus occidentalis': 'Western Gull', 'Larus californicus': 'California Gull', 'Larus argentatus': 'Herring Gull', 'Larus glaucoides': 'Iceland Gull', 'Larus fuscus': 'Lesser Black-backed Gull', 'Larus glaucescens': 'Glaucous-winged Gull', 'Larus hyperboreus': 'Glaucous Gull', 'Larus marinus': 'Great Black-backed Gull', 'Onychoprion aleuticus': 'Aleutian Tern', 'Sternula antillarum': 'Least Tern', 'Gelochelidon nilotica': 'Gull-billed Tern', 'Hydroprogne caspia': 'Caspian Tern', 'Chlidonias niger': 'Black Tern', 'Chlidonias leucopterus': 'White-winged Tern', 'Sterna dougallii': 'Roseate Tern', 'Sterna hirundo': 'Common Tern', 'Sterna paradisaea': 'Arctic Tern', 'Sterna hirundinacea': 'South American Tern', 'Sterna forsteri': "Forster's Tern", 'Thalasseus maximus': 'Royal Tern', 'Thalasseus bergii': 'Great Crested Tern', 'Thalasseus sandvicensis': 'Sandwich Tern', 'Thalasseus elegans': 'Elegant Tern', 'Rynchops niger': 'Black Skimmer', 'Gavia stellata': 'Red-throated Loon', 'Gavia arctica': 'Arctic Loon', 'Gavia pacifica': 'Pacific Loon', 'Gavia immer': 'Common Loon', 'Gavia adamsii': 'Yellow-billed Loon', 'Puffinus mauretanicus': 'Balearic Shearwater', 'Ciconia nigra': 'Black Stork', 'Ciconia maguari': 'Maguari Stork', 'Ciconia ciconia': 'White Stork', 'Mycteria americana': 'Wood Stork', 'Fregata magnificens': 'Magnificent Frigatebird', 'Anhinga anhinga': 'Anhinga', 'Microcarbo melanoleucos': 'Little Pied Cormorant', 'Urile penicillatus': "Brandt's Cormorant", 'Urile pelagicus': 'Pelagic Cormorant', 'Phalacrocorax carbo': 'Great Cormorant', 'Nannopterum auritum': 'Double-crested Cormorant', 'Nannopterum brasilianum': 'Neotropic Cormorant', 'Pelecanus erythrorhynchos': 'American White Pelican', 'Pelecanus occidentalis': 'Brown Pelican', 'Pelecanus onocrotalus': 'Great White Pelican', 'Botaurus lentiginosus': 'American Bittern', 'Ixobrychus minutus': 'Little Bittern', 'Ixobrychus exilis': 'Least Bittern', 'Ardea herodias': 'Great Blue Heron', 'Ardea alba': 'Great Egret', 'Egretta thula': 'Snowy Egret', 'Egretta caerulea': 'Little Blue Heron', 'Egretta tricolor': 'Tricolored Heron', 'Egretta rufescens': 'Reddish Egret', 'Bubulcus ibis': 'Cattle Egret', 'Butorides virescens': 'Green Heron', 'Nycticorax nycticorax': 'Black-crowned Night-Heron', 'Nyctanassa violacea': 'Yellow-crowned Night-Heron', 'Eudocimus albus': 'White Ibis', 'Plegadis falcinellus': 'Glossy Ibis', 'Plegadis chihi': 'White-faced Ibis', 'Mesembrinibis cayennensis': 'Green Ibis', 'Platalea minor': 'Black-faced Spoonbill', 'Platalea ajaja': 'Roseate Spoonbill', 'Gymnogyps californianus': 'California Condor', 'Vultur gryphus': 'Andean Condor', 'Coragyps atratus': 'Black Vulture', 'Cathartes aura': 'Turkey Vulture', 'Pandion haliaetus': 'Osprey', 'Elanus caeruleus': 'Black-winged Kite', 'Elanus leucurus': 'White-tailed Kite', 'Neophron percnopterus': 'Egyptian Vulture', 'Chondrohierax uncinatus': 'Hook-billed Kite', 'Pernis apivorus': 'European Honey-buzzard', 'Pernis ptilorhynchus': 'Oriental Honey-buzzard', 'Elanoides forficatus': 'Swallow-tailed Kite', 'Circaetus gallicus': 'Short-toed Snake-Eagle', 'Aquila chrysaetos': 'Golden Eagle', 'Rostrhamus sociabilis': 'Snail Kite', 'Ictinia mississippiensis': 'Mississippi Kite', 'Ictinia plumbea': 'Plumbeous Kite', 'Butastur indicus': 'Gray-faced Buzzard', 'Circus hudsonius': 'Northern Harrier', 'Circus pygargus': "Montagu's Harrier", 'Accipiter soloensis': 'Chinese Sparrowhawk', 'Accipiter striatus': 'Sharp-shinned Hawk', 'Accipiter cooperii': "Cooper's Hawk", 'Accipiter gentilis': 'Northern Goshawk', 'Milvus milvus': 'Red Kite', 'Milvus migrans': 'Black Kite', 'Haliastur indus': 'Brahminy Kite', 'Haliaeetus leucocephalus': 'Bald Eagle', 'Buteogallus anthracinus': 'Common Black Hawk', 'Parabuteo unicinctus': "Harris's Hawk", 'Geranoaetus albicaudatus': 'White-tailed Hawk', 'Geranoaetus melanoleucus': 'Black-chested Buzzard-Eagle', 'Buteo plagiatus': 'Gray Hawk', 'Buteo lineatus': 'Red-shouldered Hawk', 'Buteo platypterus': 'Broad-winged Hawk', 'Buteo brachyurus': 'Short-tailed Hawk', 'Buteo albigula': 'White-throated Hawk', 'Buteo swainsoni': "Swainson's Hawk", 'Buteo albonotatus': 'Zone-tailed Hawk', 'Buteo jamaicensis': 'Red-tailed Hawk', 'Buteo lagopus': 'Rough-legged Hawk', 'Buteo regalis': 'Ferruginous Hawk', 'Tyto alba': 'Barn Owl', 'Otus scops/cyprius': 'Eurasian/Cyprus Scops-Owl', 'Psiloscops flammeolus': 'Flammulated Owl', 'Megascops trichopsis': 'Whiskered Screech-Owl', 'Megascops kennicottii': 'Western Screech-Owl', 'Megascops asio': 'Eastern Screech-Owl', 'Bubo virginianus': 'Great Horned Owl', 'Bubo scandiacus': 'Snowy Owl', 'Surnia ulula': 'Northern Hawk Owl', 'Glaucidium gnoma': 'Northern Pygmy-Owl', 'Glaucidium brasilianum': 'Ferruginous Pygmy-Owl', 'Athene cunicularia': 'Burrowing Owl', 'Strix occidentalis': 'Spotted Owl', 'Strix varia': 'Barred Owl', 'Asio otus': 'Long-eared Owl', 'Asio flammeus': 'Short-eared Owl', 'Aegolius acadicus': 'Northern Saw-whet Owl', 'Ninox novaeseelandiae': 'Morepork', 'Pharomachrus mocinno': 'Resplendent Quetzal', 'Trogon elegans': 'Elegant Trogon', 'Upupa epops': 'Eurasian Hoopoe', 'Anthracoceros coronatus': 'Malabar Pied-Hornbill', 'Aspatha gularis': 'Blue-throated Motmot', 'Momotus coeruliceps': 'Blue-capped Motmot', 'Momotus lessonii': "Lesson's Motmot", 'Eumomota superciliosa': 'Turquoise-browed Motmot', 'Alcedo atthis': 'Common Kingfisher', 'Halcyon pileata': 'Black-capped Kingfisher', 'Todiramphus sanctus': 'Sacred Kingfisher', 'Megaceryle torquata': 'Ringed Kingfisher', 'Megaceryle alcyon': 'Belted Kingfisher', 'Chloroceryle americana': 'Green Kingfisher', 'Merops ornatus': 'Rainbow Bee-eater', 'Merops apiaster': 'European Bee-eater', 'Coracias garrulus': 'European Roller', 'Coracias benghalensis': 'Indian Roller', 'Psilopogon haemacephalus': 'Coppersmith Barbet', 'Capito hypoleucus': 'White-mantled Barbet', 'Ramphastos sulfuratus': 'Keel-billed Toucan', 'Jynx torquilla': 'Eurasian Wryneck', 'Sphyrapicus thyroideus': "Williamson's Sapsucker", 'Sphyrapicus varius': 'Yellow-bellied Sapsucker', 'Sphyrapicus nuchalis': 'Red-naped Sapsucker', 'Sphyrapicus ruber': 'Red-breasted Sapsucker', 'Melanerpes candidus': 'White Woodpecker', 'Melanerpes lewis': "Lewis's Woodpecker", 'Melanerpes erythrocephalus': 'Red-headed Woodpecker', 'Melanerpes formicivorus': 'Acorn Woodpecker', 'Melanerpes uropygialis': 'Gila Woodpecker', 'Melanerpes aurifrons': 'Golden-fronted Woodpecker', 'Melanerpes carolinus': 'Red-bellied Woodpecker', 'Picoides dorsalis': 'American Three-toed Woodpecker', 'Picoides arcticus': 'Black-backed Woodpecker', 'Dryobates pubescens': 'Downy Woodpecker', 'Dryobates nuttallii': "Nuttall's Woodpecker", 'Dryobates scalaris': 'Ladder-backed Woodpecker', 'Dryobates borealis': 'Red-cockaded Woodpecker', 'Dryobates villosus': 'Hairy Woodpecker', 'Dryobates albolarvatus': 'White-headed Woodpecker', 'Dryobates arizonae': 'Arizona Woodpecker', 'Campephilus guatemalensis': 'Pale-billed Woodpecker', 'Picus viridis': 'Eurasian Green Woodpecker', 'Picus sharpei': 'Iberian Green Woodpecker', 'Dryocopus lineatus': 'Lineated Woodpecker', 'Dryocopus pileatus': 'Pileated Woodpecker', 'Dryocopus schulzii': 'Black-bodied Woodpecker', 'Colaptes auratus': 'Northern Flicker', 'Colaptes chrysoides': 'Gilded Flicker', 'Caracara plancus': 'Crested Caracara', 'Falco sparverius': 'American Kestrel', 'Falco eleonorae': "Eleonora's Falcon", 'Falco columbarius': 'Merlin', 'Falco novaeseelandiae': 'New Zealand Falcon', 'Falco femoralis': 'Aplomado Falcon', 'Falco deiroleucus': 'Orange-breasted Falcon', 'Falco peregrinus': 'Peregrine Falcon', 'Falco mexicanus': 'Prairie Falcon', 'Nestor meridionalis': 'New Zealand Kaka', 'Psilopsiagon aurifrons': 'Mountain Parakeet', 'Myiopsitta monachus': 'Monk Parakeet', 'Brotogeris versicolurus': 'White-winged Parakeet', 'Brotogeris chiriri': 'Yellow-chevroned Parakeet', 'Brotogeris jugularis': 'Orange-chinned Parakeet', 'Pionus menstruus': 'Blue-headed Parrot', 'Amazona viridigenalis': 'Red-crowned Parrot', 'Amazona auropalliata': 'Yellow-naped Parrot', 'Amazona aestiva': 'Turquoise-fronted Parrot', 'Rhynchopsitta terrisi': 'Maroon-fronted Parrot', 'Eupsittula pertinax': 'Brown-throated Parakeet', 'Aratinga nenday': 'Nanday Parakeet', 'Ara ararauna': 'Blue-and-yellow Macaw', 'Ara ambiguus': 'Great Green Macaw', 'Ara macao': 'Scarlet Macaw', 'Ara chloropterus': 'Red-and-green Macaw', 'Acanthisitta chloris': 'Rifleman', 'Pitta brachyura': 'Indian Pitta', 'Willisornis poecilinotus': 'Common Scale-backed Antbird', 'Pteroptochos castaneus': 'Chestnut-throated Huet-huet', 'Formicarius analis': 'Black-faced Antthrush', 'Lepidocolaptes souleyetii': 'Streak-headed Woodcreeper', 'Asthenes anthoides': 'Austral Canastero', 'Corapipo altera': 'White-ruffed Manakin', 'Carpornis melanocephala': 'Black-headed Berryeater', 'Phytotoma raimondii': 'Peruvian Plantcutter', 'Procnias nudicollis': 'Bare-throated Bellbird', 'Pachyramphus aglaiae': 'Rose-throated Becard', 'Mionectes olivaceus': 'Olive-striped Flycatcher', 'Mionectes oleagineus': 'Ochre-bellied Flycatcher', 'Camptostoma imberbe': 'Northern Beardless-Tyrannulet', 'Elaenia parvirostris': 'Small-billed Elaenia', 'Elaenia albiceps': 'White-crested Elaenia', 'Elaenia frantzii': 'Mountain Elaenia', 'Lathrotriccus griseipectus': 'Gray-breasted Flycatcher', 'Contopus cooperi': 'Olive-sided Flycatcher', 'Contopus pertinax': 'Greater Pewee', 'Contopus sordidulus': 'Western Wood-Pewee', 'Contopus virens': 'Eastern Wood-Pewee', 'Empidonax flaviventris': 'Yellow-bellied Flycatcher', 'Empidonax virescens': 'Acadian Flycatcher', 'Empidonax alnorum': 'Alder Flycatcher', 'Empidonax traillii': 'Willow Flycatcher', 'Empidonax minimus': 'Least Flycatcher', 'Empidonax hammondii': "Hammond's Flycatcher", 'Empidonax wrightii': 'Gray Flycatcher', 'Empidonax oberholseri': 'Dusky Flycatcher', 'Empidonax difficilis': 'Pacific-slope Flycatcher', 'Empidonax occidentalis': 'Cordilleran Flycatcher', 'Empidonax fulvifrons': 'Buff-breasted Flycatcher', 'Sayornis nigricans': 'Black Phoebe', 'Sayornis phoebe': 'Eastern Phoebe', 'Sayornis saya': "Say's Phoebe", 'Pyrocephalus rubinus': 'Vermilion Flycatcher', 'Lessonia rufa': 'Austral Negrito', 'Hymenops perspicillatus': 'Spectacled Tyrant', 'Muscisaxicola maculirostris': 'Spot-billed Ground-Tyrant', 'Muscisaxicola rufivertex': 'Rufous-naped Ground-Tyrant', 'Muscisaxicola albilora': 'White-browed Ground-Tyrant', 'Agriornis micropterus': 'Gray-bellied Shrike-Tyrant', 'Myiarchus tuberculifer': 'Dusky-capped Flycatcher', 'Myiarchus cinerascens': 'Ash-throated Flycatcher', 'Myiarchus crinitus': 'Great Crested Flycatcher', 'Myiarchus tyrannulus': 'Brown-crested Flycatcher', 'Pitangus sulphuratus': 'Great Kiskadee', 'Myiodynastes maculatus': 'Streaked Flycatcher', 'Myiodynastes luteiventris': 'Sulphur-bellied Flycatcher', 'Legatus leucophaius': 'Piratic Flycatcher', 'Tyrannus niveigularis': 'Snowy-throated Kingbird', 'Tyrannus melancholicus': 'Tropical Kingbird', 'Tyrannus couchii': "Couch's Kingbird", 'Tyrannus vociferans': "Cassin's Kingbird", 'Tyrannus crassirostris': 'Thick-billed Kingbird', 'Tyrannus verticalis': 'Western Kingbird', 'Tyrannus tyrannus': 'Eastern Kingbird', 'Tyrannus dominicensis': 'Gray Kingbird', 'Tyrannus forficatus': 'Scissor-tailed Flycatcher', 'Tyrannus savana': 'Fork-tailed Flycatcher', 'Prosthemadera novaeseelandiae': 'Tui', 'Anthornis melanura': 'New Zealand Bellbird', 'Pardalotus striatus': 'Striated Pardalote', 'Lalage tricolor': 'White-winged Triller', 'Mohoua albicilla': 'Whitehead', 'Cyclarhis gujanensis': 'Rufous-browed Peppershrike', 'Vireolanius pulchellus': 'Green Shrike-Vireo', 'Vireo atricapilla': 'Black-capped Vireo', 'Vireo griseus': 'White-eyed Vireo', 'Vireo pallens': 'Mangrove Vireo', 'Vireo bellii': "Bell's Vireo", 'Vireo vicinior': 'Gray Vireo', 'Vireo huttoni': "Hutton's Vireo", 'Vireo flavifrons': 'Yellow-throated Vireo', 'Vireo cassinii': "Cassin's Vireo", 'Vireo solitarius': 'Blue-headed Vireo', 'Vireo plumbeus': 'Plumbeous Vireo', 'Vireo philadelphicus': 'Philadelphia Vireo', 'Vireo gilvus': 'Warbling Vireo', 'Vireo leucophrys': 'Brown-capped Vireo', 'Vireo olivaceus': 'Red-eyed Vireo', 'Vireo flavoviridis': 'Yellow-green Vireo', 'Vireo altiloquus': 'Black-whiskered Vireo', 'Aegithina nigrolutea': 'White-tailed Iora', 'Rhipidura javanica': 'Malaysian Pied-Fantail', 'Rhipidura rufifrons': 'Rufous Fantail', 'Rhipidura albiscapa': 'Gray Fantail', 'Rhipidura fuliginosa': 'New Zealand Fantail', 'Terpsiphone paradisi': 'Indian Paradise-Flycatcher', 'Myiagra rubecula': 'Leaden Flycatcher', 'Lanius collurio': 'Red-backed Shrike', 'Lanius cristatus': 'Brown Shrike', 'Lanius schach': 'Long-tailed Shrike', 'Lanius ludovicianus': 'Loggerhead Shrike', 'Lanius borealis': 'Northern Shrike', 'Lanius meridionalis': 'Iberian Gray Shrike', 'Lanius minor': 'Lesser Gray Shrike', 'Lanius collaris': 'Southern Fiscal', 'Lanius senator': 'Woodchat Shrike', 'Perisoreus canadensis': 'Canada Jay', 'Psilorhinus morio': 'Brown Jay', 'Cyanocorax yncas': 'Green Jay', 'Cyanocorax melanocyaneus': 'Bushy-crested Jay', 'Gymnorhinus cyanocephalus': 'Pinyon Jay', 'Cyanocitta stelleri': "Steller's Jay", 'Cyanocitta cristata': 'Blue Jay', 'Aphelocoma coerulescens': 'Florida Scrub-Jay', 'Aphelocoma insularis': 'Island Scrub-Jay', 'Aphelocoma californica': 'California Scrub-Jay', 'Aphelocoma woodhouseii': "Woodhouse's Scrub-Jay", 'Aphelocoma wollweberi': 'Mexican Jay', 'Cyanopica cooki': 'Iberian Magpie', 'Cyanopica cyanus': 'Azure-winged Magpie', 'Dendrocitta leucogastra': 'White-bellied Treepie', 'Pica hudsonia': 'Black-billed Magpie', 'Pica nuttalli': 'Yellow-billed Magpie', 'Nucifraga columbiana': "Clark's Nutcracker", 'Pyrrhocorax pyrrhocorax': 'Red-billed Chough', 'Pyrrhocorax graculus': 'Yellow-billed Chough', 'Corvus brachyrhynchos': 'American Crow', 'Corvus ossifragus': 'Fish Crow', 'Corvus cryptoleucus': 'Chihuahuan Raven', 'Corvus corax': 'Common Raven', 'Petroica longipes': 'North Island Robin', 'Petroica australis': 'South Island Robin', 'Lophophanes cristatus': 'Crested Tit', 'Poecile lugubris': 'Sombre Tit', 'Poecile palustris': 'Marsh Tit', 'Poecile carolinensis': 'Carolina Chickadee', 'Poecile atricapillus': 'Black-capped Chickadee', 'Poecile gambeli': 'Mountain Chickadee', 'Poecile sclateri': 'Mexican Chickadee', 'Poecile rufescens': 'Chestnut-backed Chickadee', 'Poecile hudsonicus': 'Boreal Chickadee', 'Poecile cinctus': 'Gray-headed Chickadee', 'Cyanistes caeruleus': 'Eurasian Blue Tit', 'Baeolophus wollweberi': 'Bridled Titmouse', 'Baeolophus inornatus': 'Oak Titmouse', 'Baeolophus ridgwayi': 'Juniper Titmouse', 'Baeolophus bicolor': 'Tufted Titmouse', 'Baeolophus atricristatus': 'Black-crested Titmouse', 'Parus major': 'Great Tit', 'Auriparus flaviceps': 'Verdin', 'Eremophila alpestris': 'Horned Lark', 'Lullula arborea': 'Wood Lark', 'Alauda arvensis': 'Eurasian Skylark', 'Prinia maculosa': 'Karoo Prinia', 'Hippolais polyglotta': 'Melodious Warbler', 'Acrocephalus dumetorum': "Blyth's Reed Warbler", 'Acrocephalus scirpaceus': 'Eurasian Reed Warbler', 'Acrocephalus arundinaceus': 'Great Reed Warbler', 'Locustella luscinioides': "Savi's Warbler", 'Locustella naevia': 'Common Grasshopper-Warbler', 'Pygochelidon cyanoleuca': 'Blue-and-white Swallow', 'Orochelidon murina': 'Brown-bellied Swallow', 'Stelgidopteryx serripennis': 'Northern Rough-winged Swallow', 'Progne subis': 'Purple Martin', 'Progne chalybea': 'Gray-breasted Martin', 'Progne elegans': 'Southern Martin', 'Progne tapera': 'Brown-chested Martin', 'Tachycineta bicolor': 'Tree Swallow', 'Tachycineta albiventer': 'White-winged Swallow', 'Tachycineta thalassina': 'Violet-green Swallow', 'Riparia riparia': 'Bank Swallow', 'Hirundo rustica': 'Barn Swallow', 'Cecropis daurica': 'Red-rumped Swallow', 'Petrochelidon pyrrhonota': 'Cliff Swallow', 'Petrochelidon fulva': 'Cave Swallow', 'Delichon urbicum': 'Common House-Martin', 'Pycnonotus sinensis': 'Light-vented Bulbul', 'Pycnonotus xanthopygos': 'White-spectacled Bulbul', 'Pycnonotus xantholaemus': 'Yellow-throated Bulbul', 'Hypsipetes leucocephalus': 'Black Bulbul', 'Phylloscopus bonelli': "Western Bonelli's Warbler", 'Phylloscopus trochilus': 'Willow Warbler', 'Phylloscopus collybita': 'Common Chiffchaff', 'Phylloscopus ibericus': 'Iberian Chiffchaff', 'Phylloscopus borealis': 'Arctic Warbler', 'Phylloscopus occipitalis': 'Western Crowned Warbler', 'Horornis diphone': 'Japanese Bush Warbler', 'Psaltriparus minimus': 'Bushtit', 'Sylvia atricapilla': 'Eurasian Blackcap', 'Curruca melanocephala': 'Sardinian Warbler', 'Curruca undata': 'Dartford Warbler', 'Fulvetta vinipectus': 'White-browed Fulvetta', 'Chamaea fasciata': 'Wrentit', 'Zosterops virens': 'Cape White-eye', 'Dumetia atriceps': 'Dark-fronted Babbler', 'Trochalopteron erythrocephalum': 'Chestnut-crowned Laughingthrush', 'Heterophasia auricularis': 'White-eared Sibia', 'Pterorhinus delesserti': 'Wayanad Laughingthrush', 'Corthylio calendula': 'Ruby-crowned Kinglet', 'Regulus satrapa': 'Golden-crowned Kinglet', 'Regulus ignicapilla': 'Common Firecrest', 'Sitta castanea': 'Indian Nuthatch', 'Sitta canadensis': 'Red-breasted Nuthatch', 'Sitta carolinensis': 'White-breasted Nuthatch', 'Sitta pygmaea': 'Pygmy Nuthatch', 'Sitta pusilla': 'Brown-headed Nuthatch', 'Certhia americana': 'Brown Creeper', 'Certhia brachydactyla': 'Short-toed Treecreeper', 'Polioptila caerulea': 'Blue-gray Gnatcatcher', 'Polioptila melanura': 'Black-tailed Gnatcatcher', 'Polioptila californica': 'California Gnatcatcher', 'Salpinctes obsoletus': 'Rock Wren', 'Catherpes mexicanus': 'Canyon Wren', 'Troglodytes aedon': 'House Wren', 'Troglodytes pacificus': 'Pacific Wren', 'Troglodytes hiemalis': 'Winter Wren', 'Cistothorus stellaris': 'Sedge Wren', 'Cistothorus palustris': 'Marsh Wren', 'Thryothorus ludovicianus': 'Carolina Wren', 'Thryomanes bewickii': "Bewick's Wren", 'Campylorhynchus rufinucha': 'Rufous-naped Wren', 'Campylorhynchus brunneicapillus': 'Cactus Wren', 'Cinclus mexicanus': 'American Dipper', 'Sturnus vulgaris': 'European Starling', 'Sturnus unicolor': 'Spotless Starling', 'Acridotheres tristis': 'Common Myna', 'Lamprotornis superbus': 'Superb Starling', 'Dumetella carolinensis': 'Gray Catbird', 'Toxostoma curvirostre': 'Curve-billed Thrasher', 'Toxostoma rufum': 'Brown Thrasher', 'Toxostoma longirostre': 'Long-billed Thrasher', 'Toxostoma bendirei': "Bendire's Thrasher", 'Toxostoma redivivum': 'California Thrasher', 'Toxostoma lecontei': "LeConte's Thrasher", 'Toxostoma crissale': 'Crissal Thrasher', 'Oreoscoptes montanus': 'Sage Thrasher', 'Mimus triurus': 'White-banded Mockingbird', 'Mimus polyglottos': 'Northern Mockingbird', 'Sialia sialis': 'Eastern Bluebird', 'Sialia mexicana': 'Western Bluebird', 'Sialia currucoides': 'Mountain Bluebird', 'Myadestes townsendi': "Townsend's Solitaire", 'Ixoreus naevius': 'Varied Thrush', 'Catharus aurantiirostris': 'Orange-billed Nightingale-Thrush', 'Catharus fuscescens': 'Veery', 'Catharus minimus': 'Gray-cheeked Thrush', 'Catharus bicknelli': "Bicknell's Thrush", 'Catharus ustulatus': "Swainson's Thrush", 'Catharus guttatus': 'Hermit Thrush', 'Hylocichla mustelina': 'Wood Thrush', 'Turdus flavipes': 'Yellow-legged Thrush', 'Turdus grayi': 'Clay-colored Thrush', 'Turdus migratorius': 'American Robin', 'Turdus fuscater': 'Great Thrush', 'Muscicapa ferruginea': 'Ferruginous Flycatcher', 'Muscicapa muttui': 'Brown-breasted Flycatcher', 'Cercotrichas galactotes': 'Rufous-tailed Scrub-Robin', 'Copsychus fulicatus': 'Indian Robin', 'Copsychus saularis': 'Oriental Magpie-Robin', 'Erithacus rubecula': 'European Robin', 'Larvivora brunnea': 'Indian Blue Robin', 'Irania gutturalis': 'White-throated Robin', 'Luscinia luscinia': 'Thrush Nightingale', 'Luscinia svecica': 'Bluethroat', 'Ficedula hypoleuca': 'European Pied Flycatcher', 'Phoenicurus phoenicurus': 'Common Redstart', 'Phoenicurus ochruros': 'Black Redstart', 'Phoenicurus auroreus': 'Daurian Redstart', 'Monticola saxatilis': 'Rufous-tailed Rock-Thrush', 'Monticola solitarius': 'Blue Rock-Thrush', 'Saxicola rubicola': 'European Stonechat', 'Oenanthe oenanthe': 'Northern Wheatear', 'Bombycilla garrulus': 'Bohemian Waxwing', 'Bombycilla cedrorum': 'Cedar Waxwing', 'Phainopepla nitens': 'Phainopepla', 'Peucedramus taeniatus': 'Olive Warbler', 'Plocepasser mahali': 'White-browed Sparrow-Weaver', 'Lonchura punctulata': 'Scaly-breasted Munia', 'Prunella modularis': 'Dunnock', 'Passer domesticus': 'House Sparrow', 'Passer cinnamomeus': 'Russet Sparrow', 'Passer montanus': 'Eurasian Tree Sparrow', 'Motacilla cinerea': 'Gray Wagtail', 'Motacilla flava': 'Western Yellow Wagtail', 'Motacilla tschutschensis': 'Eastern Yellow Wagtail', 'Motacilla alba': 'White Wagtail', 'Anthus novaeseelandiae': 'Australasian Pipit', 'Anthus berthelotii': "Berthelot's Pipit", 'Anthus pratensis': 'Meadow Pipit', 'Anthus trivialis': 'Tree Pipit', 'Anthus petrosus': 'Rock Pipit', 'Anthus rubescens': 'American Pipit', 'Anthus spragueii': "Sprague's Pipit", 'Fringilla coelebs': 'Common Chaffinch', 'Chlorophonia cyanocephala': 'Golden-rumped Euphonia', 'Coccothraustes vespertinus': 'Evening Grosbeak', 'Pinicola enucleator': 'Pine Grosbeak', 'Leucosticte tephrocotis': 'Gray-crowned Rosy-Finch', 'Leucosticte atrata': 'Black Rosy-Finch', 'Leucosticte australis': 'Brown-capped Rosy-Finch', 'Haemorhous mexicanus': 'House Finch', 'Haemorhous purpureus': 'Purple Finch', 'Haemorhous cassinii': "Cassin's Finch", 'Acanthis flammea': 'Common Redpoll', 'Acanthis hornemanni': 'Hoary Redpoll', 'Loxia curvirostra': 'Red Crossbill', 'Loxia sinesciuris': 'Cassia Crossbill', 'Loxia leucoptera': 'White-winged Crossbill', 'Serinus serinus': 'European Serin', 'Spinus pinus': 'Pine Siskin', 'Spinus psaltria': 'Lesser Goldfinch', 'Spinus lawrencei': "Lawrence's Goldfinch", 'Spinus tristis': 'American Goldfinch', 'Calcarius lapponicus': 'Lapland Longspur', 'Calcarius ornatus': 'Chestnut-collared Longspur', 'Calcarius pictus': "Smith's Longspur", 'Rhynchophanes mccownii': 'Thick-billed Longspur', 'Plectrophenax nivalis': 'Snow Bunting', 'Emberiza cirlus': 'Cirl Bunting', 'Emberiza citrinella': 'Yellowhammer', 'Emberiza hortulana': 'Ortolan Bunting', 'Emberiza aureola': 'Yellow-breasted Bunting', 'Oreothraupis arremonops': 'Tanager Finch', 'Peucaea carpalis': 'Rufous-winged Sparrow', 'Peucaea cassinii': "Cassin's Sparrow", 'Peucaea aestivalis': "Bachman's Sparrow", 'Ammodramus savannarum': 'Grasshopper Sparrow', 'Arremonops rufivirgatus': 'Olive Sparrow', 'Amphispizopsis quinquestriata': 'Five-striped Sparrow', 'Spizella passerina': 'Chipping Sparrow', 'Spizella pallida': 'Clay-colored Sparrow', 'Spizella atrogularis': 'Black-chinned Sparrow', 'Spizella pusilla': 'Field Sparrow', 'Spizella breweri': "Brewer's Sparrow", 'Amphispiza bilineata': 'Black-throated Sparrow', 'Chondestes grammacus': 'Lark Sparrow', 'Calamospiza melanocorys': 'Lark Bunting', 'Spizelloides arborea': 'American Tree Sparrow', 'Passerella iliaca': 'Fox Sparrow', 'Junco hyemalis': 'Dark-eyed Junco', 'Junco phaeonotus': 'Yellow-eyed Junco', 'Zonotrichia capensis': 'Rufous-collared Sparrow', 'Zonotrichia leucophrys': 'White-crowned Sparrow', 'Zonotrichia atricapilla': 'Golden-crowned Sparrow', 'Zonotrichia querula': "Harris's Sparrow", 'Zonotrichia albicollis': 'White-throated Sparrow', 'Artemisiospiza nevadensis': 'Sagebrush Sparrow', 'Artemisiospiza belli': "Bell's Sparrow", 'Pooecetes gramineus': 'Vesper Sparrow', 'Ammospiza leconteii': "LeConte's Sparrow", 'Ammospiza maritima': 'Seaside Sparrow', 'Ammospiza nelsoni': "Nelson's Sparrow", 'Ammospiza caudacuta': 'Saltmarsh Sparrow', 'Passerculus sandwichensis': 'Savannah Sparrow', 'Centronyx bairdii': "Baird's Sparrow", 'Centronyx henslowii': "Henslow's Sparrow", 'Melospiza melodia': 'Song Sparrow', 'Melospiza lincolnii': "Lincoln's Sparrow", 'Melospiza georgiana': 'Swamp Sparrow', 'Melozone fusca': 'Canyon Towhee', 'Melozone aberti': "Abert's Towhee", 'Melozone crissalis': 'California Towhee', 'Melozone leucotis': 'White-eared Ground-Sparrow', 'Melozone biarcuata': 'White-faced Ground-Sparrow', 'Aimophila ruficeps': 'Rufous-crowned Sparrow', 'Pipilo chlorurus': 'Green-tailed Towhee', 'Pipilo maculatus': 'Spotted Towhee', 'Pipilo erythrophthalmus': 'Eastern Towhee', 'Atlapetes flaviceps': 'Yellow-headed Brushfinch', 'Nesospingus speculiferus': 'Puerto Rican Tanager', 'Icteria virens': 'Yellow-breasted Chat', 'Xanthocephalus xanthocephalus': 'Yellow-headed Blackbird', 'Dolichonyx oryzivorus': 'Bobolink', 'Sturnella neglecta': 'Western Meadowlark', 'Sturnella magna': 'Eastern Meadowlark', 'Psarocolius wagleri': 'Chestnut-headed Oropendola', 'Icterus portoricensis': 'Puerto Rican Oriole', 'Icterus spurius': 'Orchard Oriole', 'Icterus cucullatus': 'Hooded Oriole', 'Icterus bullockii': "Bullock's Oriole", 'Icterus gularis': 'Altamira Oriole', 'Icterus graduacauda': "Audubon's Oriole", 'Icterus galbula': 'Baltimore Oriole', 'Icterus abeillei': 'Black-backed Oriole', 'Icterus parisorum': "Scott's Oriole", 'Agelaius phoeniceus': 'Red-winged Blackbird', 'Agelaius tricolor': 'Tricolored Blackbird', 'Molothrus rufoaxillaris': 'Screaming Cowbird', 'Molothrus bonariensis': 'Shiny Cowbird', 'Molothrus aeneus': 'Bronzed Cowbird', 'Molothrus ater': 'Brown-headed Cowbird', 'Euphagus carolinus': 'Rusty Blackbird', 'Euphagus cyanocephalus': "Brewer's Blackbird", 'Quiscalus quiscula': 'Common Grackle', 'Quiscalus major': 'Boat-tailed Grackle', 'Quiscalus mexicanus': 'Great-tailed Grackle', 'Quiscalus nicaraguensis': 'Nicaraguan Grackle', 'Hypopyrrhus pyrohypogaster': 'Red-bellied Grackle', 'Xanthopsar flavus': 'Saffron-cowled Blackbird', 'Seiurus aurocapilla': 'Ovenbird', 'Helmitheros vermivorum': 'Worm-eating Warbler', 'Parkesia motacilla': 'Louisiana Waterthrush', 'Parkesia noveboracensis': 'Northern Waterthrush', 'Vermivora chrysoptera': 'Golden-winged Warbler', 'Vermivora cyanoptera': 'Blue-winged Warbler', 'Mniotilta varia': 'Black-and-white Warbler', 'Protonotaria citrea': 'Prothonotary Warbler', 'Limnothlypis swainsonii': "Swainson's Warbler", 'Oreothlypis superciliosa': 'Crescent-chested Warbler', 'Oreothlypis gutturalis': 'Flame-throated Warbler', 'Leiothlypis peregrina': 'Tennessee Warbler', 'Leiothlypis celata': 'Orange-crowned Warbler', 'Leiothlypis crissalis': 'Colima Warbler', 'Leiothlypis luciae': "Lucy's Warbler", 'Leiothlypis ruficapilla': 'Nashville Warbler', 'Leiothlypis virginiae': "Virginia's Warbler", 'Oporornis agilis': 'Connecticut Warbler', 'Geothlypis poliocephala': 'Gray-crowned Yellowthroat', 'Geothlypis aequinoctialis': 'Masked Yellowthroat', 'Geothlypis tolmiei': "MacGillivray's Warbler", 'Geothlypis philadelphia': 'Mourning Warbler', 'Geothlypis formosa': 'Kentucky Warbler', 'Geothlypis semiflava': 'Olive-crowned Yellowthroat', 'Geothlypis speciosa': 'Black-polled Yellowthroat', 'Geothlypis beldingi': "Belding's Yellowthroat", 'Geothlypis rostrata': 'Bahama Yellowthroat', 'Geothlypis flavovelata': 'Altamira Yellowthroat', 'Geothlypis trichas': 'Common Yellowthroat', 'Catharopeza bishopi': 'Whistling Warbler', 'Setophaga plumbea': 'Plumbeous Warbler', 'Setophaga angelae': 'Elfin-woods Warbler', 'Setophaga pharetra': 'Arrowhead Warbler', 'Setophaga citrina': 'Hooded Warbler', 'Setophaga ruticilla': 'American Redstart', 'Setophaga kirtlandii': "Kirtland's Warbler", 'Setophaga tigrina': 'Cape May Warbler', 'Setophaga cerulea': 'Cerulean Warbler', 'Setophaga americana': 'Northern Parula', 'Setophaga pitiayumi': 'Tropical Parula', 'Setophaga magnolia': 'Magnolia Warbler', 'Setophaga castanea': 'Bay-breasted Warbler', 'Setophaga fusca': 'Blackburnian Warbler', 'Setophaga petechia': 'Yellow Warbler', 'Setophaga pensylvanica': 'Chestnut-sided Warbler', 'Setophaga striata': 'Blackpoll Warbler', 'Setophaga caerulescens': 'Black-throated Blue Warbler', 'Setophaga palmarum': 'Palm Warbler', 'Setophaga pityophila': 'Olive-capped Warbler', 'Setophaga pinus': 'Pine Warbler', 'Setophaga coronata': 'Yellow-rumped Warbler', 'Setophaga dominica': 'Yellow-throated Warbler', 'Setophaga flavescens': 'Bahama Warbler', 'Setophaga vitellina': 'Vitelline Warbler', 'Setophaga discolor': 'Prairie Warbler', 'Setophaga adelaidae': "Adelaide's Warbler", 'Setophaga subita': 'Barbuda Warbler', 'Setophaga delicata': 'St. Lucia Warbler', 'Setophaga graciae': "Grace's Warbler", 'Setophaga nigrescens': 'Black-throated Gray Warbler', 'Setophaga townsendi': "Townsend's Warbler", 'Setophaga occidentalis': 'Hermit Warbler', 'Setophaga chrysoparia': 'Golden-cheeked Warbler', 'Setophaga virens': 'Black-throated Green Warbler', 'Basileuterus lachrymosus': 'Fan-tailed Warbler', 'Basileuterus rufifrons/delattrii': 'Rufous-capped/Chestnut-capped Warbler', 'Basileuterus melanogenys': 'Black-cheeked Warbler', 'Basileuterus belli': 'Golden-browed Warbler', 'Basileuterus culicivorus': 'Golden-crowned Warbler', 'Basileuterus melanotis': 'Costa Rican Warbler', 'Basileuterus tristriatus': 'Three-striped Warbler', 'Myiothlypis basilica': 'Santa Marta Warbler', 'Myiothlypis luteoviridis': 'Citrine Warbler', 'Myiothlypis leucophrys': 'White-striped Warbler', 'Myiothlypis flaveola': 'Flavescent Warbler', 'Myiothlypis leucoblephara': 'White-browed Warbler', 'Myiothlypis signata': 'Pale-legged Warbler', 'Myiothlypis nigrocristata': 'Black-crested Warbler', 'Myiothlypis fulvicauda': 'Buff-rumped Warbler', 'Myiothlypis rivularis': 'Riverbank Warbler', 'Myiothlypis bivittata': 'Two-banded Warbler', 'Myiothlypis chrysogaster': 'Golden-bellied Warbler', 'Myiothlypis cinereicollis': 'Gray-throated Warbler', 'Myiothlypis conspicillata': 'White-lored Warbler', 'Myiothlypis fraseri': 'Gray-and-gold Warbler', 'Myiothlypis coronata': 'Russet-crowned Warbler', 'Cardellina canadensis': 'Canada Warbler', 'Cardellina pusilla': "Wilson's Warbler", 'Cardellina rubrifrons': 'Red-faced Warbler', 'Cardellina rubra': 'Red Warbler', 'Cardellina versicolor': 'Pink-headed Warbler', 'Myioborus pictus': 'Painted Redstart', 'Myioborus miniatus': 'Slate-throated Redstart', 'Myioborus brunniceps': 'Brown-capped Redstart', 'Myioborus torquatus': 'Collared Redstart', 'Myioborus ornatus': 'Golden-fronted Redstart', 'Myioborus melanocephalus': 'Spectacled Redstart', 'Myioborus albifrons': 'White-fronted Redstart', 'Piranga flava': 'Hepatic Tanager', 'Piranga rubra': 'Summer Tanager', 'Piranga olivacea': 'Scarlet Tanager', 'Piranga ludoviciana': 'Western Tanager', 'Habia cristata': 'Crested Ant-Tanager', 'Rhodothraupis celaeno': 'Crimson-collared Grosbeak', 'Cardinalis cardinalis': 'Northern Cardinal', 'Cardinalis sinuatus': 'Pyrrhuloxia', 'Pheucticus ludovicianus': 'Rose-breasted Grosbeak', 'Pheucticus melanocephalus': 'Black-headed Grosbeak', 'Cyanocompsa parellina': 'Blue Bunting', 'Passerina caerulea': 'Blue Grosbeak', 'Passerina amoena': 'Lazuli Bunting', 'Passerina cyanea': 'Indigo Bunting', 'Passerina ciris': 'Painted Bunting', 'Spiza americana': 'Dickcissel', 'Bangsia melanochlamys': 'Black-and-gold Tanager', 'Bangsia edwardsi': 'Moss-backed Tanager', 'Bangsia aureocincta': 'Gold-ringed Tanager', 'Thraupis episcopus': 'Blue-gray Tanager', 'Stilpnia vitriolina': 'Scrub Tanager', 'Tangara chilensis': 'Paradise Tanager', 'Dacnis hartlaubi': 'Turquoise Dacnis', 'Cyanerpes cyaneus': 'Red-legged Honeycreeper', 'Rhopospina alaudina': 'Band-tailed Sierra Finch', 'Sicalis taczanowskii': 'Sulphur-throated Finch', 'Volatinia jacarina': 'Blue-black Grassquit', 'Sporophila lineola': 'Lined Seedeater', 'Sporophila morelleti': "Morelet's Seedeater", 'Rhodospingus cruentus': 'Crimson-breasted Finch'}
@@ -1152,8 +1276,17 @@ for species in species_count:
     elif FLAG_RESTRICT_TO_EBIRD_COMMONNAME_KEYBIRDS and species not in eBird_commonname_map.keys():
         flag_purge_this_bird = True
         
-    elif FLAG_EXCLUDE_FAMILY_LABELLED_AS_GENUS and genus in FAMILY_LABELLED_AS_GENUS: 
+    elif FLAG_EXCLUDE_FAMILY_LABELLED_AS_GENUS and 'inae sp' in species: #subfamily
         flag_purge_this_bird = True
+    elif FLAG_EXCLUDE_FAMILY_LABELLED_AS_GENUS and 'idae sp' in species: #family
+        flag_purge_this_bird = True
+    elif FLAG_EXCLUDE_FAMILY_LABELLED_AS_GENUS and 'formes sp' in species: #order
+        flag_purge_this_bird = True
+    elif FLAG_EXCLUDE_FAMILY_LABELLED_AS_GENUS and 'Aves' == genus: 
+        flag_purge_this_bird = True
+        print(species,n_species)
+    #elif FLAG_EXCLUDE_FAMILY_LABELLED_AS_GENUS and genus in FAMILY_LABELLED_AS_GENUS: 
+    #    flag_purge_this_bird = True
     
     elif FLAG_EXCLUDE_AMBIGUOUS_GENUS and '/' in genus: 
         flag_purge_this_bird = True
@@ -1163,9 +1296,11 @@ for species in species_count:
         flag_purge_this_bird = True
     elif FLAG_EXCLUDE_HYBRID_SPECIES and ' x ' in species: 
         flag_purge_this_bird = True
+    elif FLAG_EXCLUDE_DOMESTIC_TYPE and '(Domestic type)' in species: 
+        flag_purge_this_bird = True
         
     elif n_species < CUTOFF:
-        print("Too uncommon:",species,n_species)
+        #print("Too uncommon:",species,n_species)
         flag_purge_this_bird = True
     else:
         flag_purge_this_bird = False
@@ -1185,7 +1320,11 @@ for species in species_count:
             genus_state_count[(genus,state)] -= n_joint
             species_state_count[(species,state)] -= n_joint
            
-
+#Clean up remaining mess. Remove the 0s from dictionary.
+species_state_count = +species_state_count
+genus_state_count = +genus_state_count
+species_count = +species_count
+genus_count = +genus_count
 
 #%% Template Functions. They are written generically, 
 # so that I should be able to plug in whatever metric I want.
@@ -1206,7 +1345,7 @@ def calculate_genus_scores(metric):
         else:
             score = -9999
         results[(genus,state)] = (n_joint,score)
-    sorted_results = sorted(results.items(), key=lambda item: -item[1][1])
+    sorted_results = sorted(results.items(), key=lambda item: (-item[1][1],-item[1][0]))
     return sorted_results
 
 def calculate_species_scores(metric):
@@ -1221,33 +1360,43 @@ def calculate_species_scores(metric):
         if n_species > 0: 
             score = metric(n_joint,n_state,n_species)
         else:
-            score = -9999
+            score = -999999
         results[(species,state)] = (n_joint,score)
-    sorted_results = sorted(results.items(), key=lambda item: -item[1][1])
+    sorted_results = sorted(results.items(), key=lambda item: (-item[1][1],-item[1][0]))
     return sorted_results
 
 def subsort_by_state(birdscore):
     return sorted(birdscore, key=lambda item: item[0][1])
 
 
+#%% Functions for saving to Output Files
+
 
 def scoreitem_to_rowlist(item):
     n_joint=str(item[1][0])
-    score = "{:.4f}".format(item[1][1])
-    return '|'+item[0][0]+'|'+item[0][1]+'|'+n_joint+'|'+score+'|'
+    if item[1][1] < -1000:
+        return False
+    score = "{:.6f}".format(item[1][1])
+    #return '|'+item[0][0]+'|'+item[0][1]+'|'+n_joint+'|'+score+'|'
+    return item[0][0]+','+item[0][1]+','+n_joint+','+score
     
-def save_scorelist(filename,scorelist,extension=".md"):
+def save_scorelist(filename,scorelist,extension=".csv"):
     filepath = os.path.join(THIS_FOLDER,"BIRDUP",filename+extension)
     with open(filepath,'w') as birdfile:
-        birdfile.write('|Bird|State|Count|Score|\n|---|---|---|---|\n')
-        birdfile.write('\n'.join([scoreitem_to_rowlist(item) for item in scorelist]))
+        #birdfile.write('|Bird|State|Count|Score|\n|---|---|---|---|\n')
+        birdfile.write('Bird,State,Count,Score\n')
+        birdfile.write('\n'.join([scoreitem_to_rowlist(item) for item in scorelist if scoreitem_to_rowlist(item)]))
         birdfile.write('\n')
 
 def save_list(filename,scorelist,extension=".md"):
     filepath = os.path.join(THIS_FOLDER,"BIRDUP",filename+extension)
-    with open(filepath,'w') as birdfile:
+    with open(filepath,'w', encoding="utf-8") as birdfile:
         birdfile.write('\n'.join([str(item) for item in scorelist]))
         birdfile.write('\n')
+        
+        
+        
+#%% Functions for ranking and organizing the score lists.        
         
 def quick_top_birdscores(scorelist):
     "Find the top scoring (first appearing) bird for each state."
@@ -1255,6 +1404,8 @@ def quick_top_birdscores(scorelist):
     birdmapping = dict()
     for entry in scorelist:
         state = entry[0][1]
+        if state not in statemap.keys():
+            continue
         bird = entry[0][0]
         score = entry[1][1]
         if state not in birdmapping:
@@ -1304,6 +1455,25 @@ def unique_top_birdscores(scorelist):
         for entry in candidatebirds:
             bird = entry[0][0]
             state = entry[0][1] 
+            count = entry[1][0]
+            
+            if FLAG_EXCLUDE_AMBIGU_SPECIES_FROM_TOP and 'sp.' in bird:
+                duplicateFLAG = True #not actually a duplicate, but something to exclude
+                validscorelist.remove(entry)
+                continue
+            if FLAG_EXCLUDE_VERBOTEN_BIRDS_FROM_TOP and bird in VERBOTEN_BIRDS:
+                duplicateFLAG = True #not actually a duplicate, but something to exclude
+                validscorelist.remove(entry)
+                continue
+            if FLAG_EXCLUDE_REALSTATEBIRDS_FROM_TOP and bird in REALSTATEBIRD_LIST:
+                duplicateFLAG = True #not actually a duplicate, but something to exclude
+                validscorelist.remove(entry)
+                continue
+            if count < STATECUTOFF:
+                duplicateFLAG = True #not actually a duplicate, but something to exclude
+                validscorelist.remove(entry)
+                continue
+            
             do_I_care_FLAG = 'US-' in state or FLAG_ENFORCE_UNIQUENESS_ACROSS_ALL_NA 
             if bird in encounteredbirdset and do_I_care_FLAG:
                 duplicateFLAG = True
@@ -1311,8 +1481,12 @@ def unique_top_birdscores(scorelist):
             if do_I_care_FLAG:
                 encounteredbirdset.add(bird)
             
+            
     return sorted(candidatebirds, key=lambda item: item[0][1])
     
+
+#%% Functions for Evaluating how good a set of state birds is.
+
 def compare_to_REALSTATEBIRDS(top_birds):
     score = 0
     matches = []
@@ -1341,10 +1515,17 @@ def check_for_iconic_birds(top_birds):
                 #print(bird,state)
     return score
 
+
+
+
+#%% Functions for Preparing the markdown tables
+
 def find_example_of_genus(target_state,target_genus,species_scorelist):
     for entry in species_scorelist:
         state = entry[0][1]
         species = entry[0][0]
+        if FLAG_EXCLUDE_AMBIGU_SPECIES_FROM_TOP and 'sp.' in species:
+            continue
         genus = species.split(' ')[0]
         if state==target_state and genus==target_genus:
             if species:
@@ -1352,9 +1533,13 @@ def find_example_of_genus(target_state,target_genus,species_scorelist):
             else:
                 print("No species found",target_state,target_genus)
                 return target_genus
+    print("No species found",target_state,target_genus)
+    return target_genus
 
 def get_bird_wiki_url(bird):
     "Some bird genus names are simple enough to lead to disambiguation pages."
+    if ' sp.' in bird:
+        bird = bird.split(' ')[0]
     if bird in wikipedia_mapping:
         return wikipedia_mapping[bird]
     else:
@@ -1371,15 +1556,30 @@ def get_bird_commonname(bird):
     else:
         return ''
 
+def determine_asterisk(bird,state):
+    note = ''
+    if bird in REALSTATEBIRDS[state]:
+        note += '‡'
+    elif bird in REALSTATEBIRD_LIST:
+        note += '†'
+    if bird in VERBOTEN_BIRDS:
+        note += '*' #Worried up this borking up the markdown.
+    return note
+
+
 def format_list_as_markdown_table(top_birds, species_scorelist=None):
     markdown_row_list = []
     for entry in top_birds:
         state = entry[0][1]
         bird = entry[0][0]
-        score = entry[1][1]
+        count = str(entry[1][0])
+        score = "{:.4f}".format(entry[1][1])
+        
+        note = determine_asterisk(bird,state)
+        
         url = get_bird_wiki_url(bird)
         commonname = get_bird_commonname(bird)
-        rowstring = '| '+state+' | ['+bird+']('+url+') | '+commonname+' |'
+        rowstring = '| '+state+' | '+count+' | ['+bird+']('+url+')'+note+' | '+commonname+' |'
         if species_scorelist:
             species = find_example_of_genus(state,bird,species_scorelist)
             commonname_sp = get_bird_commonname(species)
@@ -1388,21 +1588,32 @@ def format_list_as_markdown_table(top_birds, species_scorelist=None):
         #rowstring = '| '+state+' | ['+bird+']('+url+') | '+str(score)+' |'
         markdown_row_list.append(rowstring)
         
-    header = ['| State | Bird | Common Name |','|---|---|---|']
+    header = ['| State | Count | Bird | Common Name |','|--:|---|---|---|']
     if species_scorelist:
         header[0]+=' Example Species | Common Name |'
         header[1]+='---|---|'
+   
+    if species_scorelist:
+        header = ['### Top Unique State Birds When Sorted by Genus','',]+header
+    else: 
+        header = ['### Top Unique State Birds When Sorted by Species','',]+header
         
     return header+markdown_row_list    
     
 def format_list_as_tables_per_state(scorelist, species_scorelist=None):
     MAX_ROWS_PER_STATE = 10    
     
+    titletext = "Top Species for "
+    if species_scorelist:
+        titletext = "Top Genera for "
+    
     markdown_row_list = []
     for state in statemap.keys():
         
-        markdown_row_list.append('## '+statemap[state])
-        header = ['| Score | Bird | Common Name |','|---|---|---|']
+        
+        
+        markdown_row_list.append('### '+titletext+statemap[state]+' ('+state+')\n')
+        header = ['| Score | Bird | Common Name | Count |','|---|---|---|---|']
         if species_scorelist:
             header[0]+=' Example Species | Common Name |'
             header[1]+='---|---|'
@@ -1416,9 +1627,14 @@ def format_list_as_tables_per_state(scorelist, species_scorelist=None):
                 num_rows += 1
                 bird = entry[0][0]
                 score = "{:.4f}".format(entry[1][1])
+                count = str(entry[1][0])
+                
+                note = determine_asterisk(bird,state)
+                    
                 url = get_bird_wiki_url(bird)
                 commonname = get_bird_commonname(bird)
-                rowstring = '| '+score+' | ['+bird+']('+url+') | '+commonname+' |'
+                rowstring = '| '+score+' | ['+bird+']('+url+')'+note+' | '+commonname+' | '+count+' |' 
+                
                 if species_scorelist:
                     species = find_example_of_genus(state,bird,species_scorelist)
                     commonname_sp = get_bird_commonname(species)
@@ -1437,16 +1653,35 @@ def format_list_as_tables_per_state(scorelist, species_scorelist=None):
 
 
 
+
+
+
+
+
+
+
+
+
+
+#%% Wrapper Function to call all of the above in the right order and combine the results.
+
+
 def do_the_works_gs(filename,metric):
     '''Calculate rankings using both species and Genus. 
     Species score is used in generating genus markdown table.'''
     print("Generating BIRDUP",filename)
     
     species_birdscore = calculate_species_scores(metric)
-    generate_output_lists(filename+'_species',species_birdscore)
+    sp_summary, sp_states = generate_output_lists(filename+'_species',species_birdscore)
                           
     genus_birdscore = calculate_genus_scores(metric)
-    generate_output_lists(filename+'_genus',genus_birdscore,species_birdscore)
+    gn_summary, gn_states = generate_output_lists(filename+'_genus',genus_birdscore,species_birdscore)
+    
+    combined_tables  = ["\n\n\n\n## Top Scoring Unique State Birds\n"]
+    combined_tables += ['\n\n']+gn_summary+['\n\n']+sp_summary+['\n\n\n\n']
+    combined_tables += ["\n\n\n\n## Scores for Bird Genera by State\n"]+gn_states
+    combined_tables += ["\n\n\n\n## Scores for Bird Species by State\n"]+sp_states
+    save_list(filename+'_markdownoutputcombined',combined_tables,extension=".md")
     
     
 def generate_output_lists(filename,birdscore,species_birdscore=None):
@@ -1456,20 +1691,22 @@ def generate_output_lists(filename,birdscore,species_birdscore=None):
     save_scorelist(filename+'_bystate',birdscore_bystate)
     
     top_birds = quick_top_birdscores(birdscore)
-    save_scorelist(filename+'_topbirds',top_birds)
+    #save_scorelist(filename+'_topbirds',top_birds)
     
     top_states = quick_top_statescores(birdscore)
-    save_scorelist(filename+'_topstates',top_states)
+    #save_scorelist(filename+'_topstates',top_states)
     
     unique_top_birds = unique_top_birdscores(birdscore)
-    save_scorelist(filename+'_uniquetopbirds',unique_top_birds)
+    #save_scorelist(filename+'_uniquetopbirds',unique_top_birds)
     print(compare_to_REALSTATEBIRDS(unique_top_birds))
     
-    markdown_unique_top_birds = format_list_as_markdown_table(unique_top_birds,species_birdscore)
-    save_list(filename+'_markdownsource',markdown_unique_top_birds,extension=".md")
+    mdutb_overview = format_list_as_markdown_table(unique_top_birds,species_birdscore)
+    #save_list(filename+'_markdownsource',mdutb_overview,extension=".md")
     
     state_tables = format_list_as_tables_per_state(birdscore,species_birdscore)
-    save_list(filename+'_markdownperstate',state_tables)
+    #save_list(filename+'_markdownperstate',state_tables,extension=".md")
+    
+    return mdutb_overview,state_tables
 
 #%% Various metrics
 
@@ -1496,7 +1733,7 @@ def YulePhi(n_joint,n_state,n_bird):
     #assert (altM*altI)**(1/2) - numer/denom < .01
     return numer/denom
 
-ALPHA_PARAM = 0.6
+
 #Get roadrunner for new mexicofor alpha in range 0.5 to 0.7
 def paramaterizedPhi(n_joint,n_state,n_bird):
     "YulePhi is geometric mean of marked.. and informed..; this uses some other weighting"
@@ -1557,13 +1794,18 @@ def birduptimeslog(n_joint,n_state,n_bird):
     "Tried to give a bit of a boost to common birds. Dissapoint results."
     return (n_joint/n_bird) * np.log(n_joint+1)
 
+def simplecount(n_joint,n_state,n_bird):
+    ""
+    return n_joint
+
 #%% Call all the functions. Determine all the birdest birds. Yeehaw!
 
-do_the_works_gs('WeightedInfoMark',paramaterizedPhi)
 
-
-do_the_works_gs('YulePhi',YulePhi)
 do_the_works_gs('Markedness',markedness)
+
+do_the_works_gs('WeightedInfoMark',paramaterizedPhi)
+do_the_works_gs('YulePhi',YulePhi)
+
 do_the_works_gs('Informedness',informedness)
 do_the_works_gs('normalizedTPR',normalizedTPR)
 do_the_works_gs('prevalance',naiveprevalence)
@@ -1574,6 +1816,8 @@ do_the_works_gs('cohenkappa',cohenkappa)
 do_the_works_gs('basicbirdup',basicbirdup)
 do_the_works_gs('birdupplusprevalence',birdupplusprevalence)
 do_the_works_gs('birduptimeslog',birduptimeslog)
+do_the_works_gs('simplecount',simplecount)
+
 
 #%% Iterate through parameterized phi, output the top birds at each step.
 #Yeah, I know I shouldn't be using a globalvar to change the value of a single fn's paramater.
