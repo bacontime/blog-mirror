@@ -54,6 +54,8 @@ In the tables below, `†` indicates that the bird genus is represented among ac
 Do note, however, that this particular metric causes all the weird fluke entries in this dataset to bubble to the surface. I've excluded species with fewer than 1000 observations - otherwise the passenger pigeon would show up in the top birds - but there are still probably invasive species that I didn't manage to trim out.
 <!--TODO: Add note about referring to the other data set.-->
 
+Still though, this score set taught me some interesting things. 
+For example, lovebirds score the highest for Arizona, and [the story behind that is rather interesting.](https://www.audubon.org/news/when-it-gets-too-hot-phoenixs-lovebirds-turn-air-conditioning)
 
 
 
