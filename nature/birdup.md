@@ -218,6 +218,10 @@ But *To Kill a Mockingbird* is set in Alabama, so it fits pretty well.)
 
 <!--
 Endemic birds of USA mainland
+- Gunnison sage-grouse, Centrocercus minimus
+- Greater prairie-chicken, Tympanuchus cupido
+- Lesser prairie-chicken, Tympanuchus pallidicinctus
+- Red-cockaded woodpecker, Dryobates borealis 
 - Fish crow, Corvus ossifragus
 - Yellow-billed magpie, Pica nuttalli
 - Florida scrub-jay, Aphelocoma coerulescens 
@@ -227,5 +231,9 @@ Endemic birds of USA mainland
 - Black rosy-finch, Leucosticte atrata
 - Brown-capped rosy-finch, Leucosticte australis
 - McKay's bunting, Plectrophenax hyperboreus
+- Bachman's sparrow, Peucaea aestivalis
+- Seaside sparrow, Ammospiza maritima
+- Saltmarsh sparrow, Ammospiza caudacuta 
+- Boat-tailed grackle, Quiscalus major
 -->
 
