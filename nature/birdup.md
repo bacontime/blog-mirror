@@ -151,7 +151,7 @@ But *To Kill a Mockingbird* is set in Alabama, so it fits pretty well.)
 
 ### The Chicken States
 
-![A map of the states which have the Robin as their state bird.](birdup/statepic_chicken_xsmall.png)
+![A map of the states which have the Chicken as their state bird.](birdup/statepic_chicken_xsmall.png)
 
 
 
