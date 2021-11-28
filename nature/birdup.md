@@ -149,7 +149,19 @@ But *To Kill a Mockingbird* is set in Alabama, so it fits pretty well.)
 
 
 
+### The Chicken States
 
+![A map of the states which have the Robin as their state bird.](birdup/statepic_chicken_xsmall.png)
+
+
+
+<!--Oh, what's this?
+
+> The Delaware Blue Hen, on the other hand, is not a recognized breed or strain. Rather, the term has evolved from a historical tradition, and refers to fighting gamecocks that gained famed during the Revolutionary War.
+
+Actually, there is history behind it, so...
+
+Well, that was an easy conflict to resolve.-->
 
 
 
