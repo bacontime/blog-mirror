@@ -133,9 +133,18 @@ But *To Kill a Mockingbird* is set in Alabama, so it fits pretty well.)
 
 
 
+
 ### The Goldfinch States
 
 ![A map of the states which have the Goldfinch as their state bird.](birdup/statepic_spinus_xsmall.png)
+
+
+
+
+
+### The Robin States
+
+![A map of the states which have the Robin as their state bird.](birdup/statepic_robin_xsmall.png)
 
 
 
