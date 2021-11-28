@@ -45,8 +45,9 @@ The dual of this measurement, called [informedness](informedness), swaps the rol
 {:toc}
 </details>
 
+---
 
-<details closed markdown="block">
+<details open markdown="block">
   <summary>
     Key
   </summary>
@@ -63,12 +64,14 @@ The dual of this measurement, called [informedness](informedness), swaps the rol
 [^ebirdcitation]: eBird Basic Dataset. Version: EBD_relSep-2021. Cornell Lab of Ornithology, Ithaca, New York. Sep 2021.
 
 
-Do note, however, that this particular metric causes all the weird fluke entries in this dataset to bubble to the surface. I've excluded species with fewer than 1000 observations - otherwise the passenger pigeon would show up in the top birds - but there are still probably invasive species that I didn't manage to trim out.
+Do note that this particular metric causes all the weird fluke entries in this dataset to bubble to the surface. I've excluded species with fewer than 1000 observations - otherwise the passenger pigeon would show up in the top birds - but there are still probably invasive species that I didn't manage to trim out.
 <!--TODO: Add note about referring to the other data set.-->
 
 Still though, this score-set taught me some interesting things. 
 For example, lovebirds score the highest for Arizona, as [a sizeable colony exists in Phoenix, dependent on AC units and decorative palm trees to survive.](https://www.audubon.org/news/when-it-gets-too-hot-phoenixs-lovebirds-turn-air-conditioning)
 And in the northeast, there's a [stable population of Monk Parakeets](https://www.youtube.com/watch?v=69hvxjaFXDg). 
+
+
 
 
 
@@ -88,117 +91,117 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 ### Top Unique State Birds When Sorted by Genus
 
-| State | Count | Bird | Common Name | Example Species | Common Name |
+| State | Score | Bird | Common Name | Example Species | Common Name |
 |--:|---|---|---|---|---|
-| AK | 5694 | [Phylloscopus](https://en.wikipedia.org/wiki/Phylloscopus) |  | [Phylloscopus borealis](https://en.wikipedia.org/wiki/Phylloscopus_borealis) | Arctic Warbler |
-| AL | 1504 | [Grus](https://en.wikipedia.org/wiki/Grus_(genus)) | Crane | [Grus americana](https://en.wikipedia.org/wiki/Grus_americana) | Whooping Crane |
-| AR | 4347 | [Antrostomus](https://en.wikipedia.org/wiki/Antrostomus) | Nightjar | [Antrostomus carolinensis](https://en.wikipedia.org/wiki/Antrostomus_carolinensis) | Chuck-will's-widow |
-| AZ | 5685 | [Amphispizopsis](https://en.wikipedia.org/wiki/Amphispizopsis) |  | [Amphispizopsis quinquestriata](https://en.wikipedia.org/wiki/Amphispizopsis_quinquestriata) | Five-striped Sparrow |
-| CA | 57649 | [Chamaea](https://en.wikipedia.org/wiki/Chamaea) | Wrentit | [Chamaea fasciata](https://en.wikipedia.org/wiki/Chamaea_fasciata) | Wrentit |
-| CO | 5484 | [Rhynchophanes](https://en.wikipedia.org/wiki/Rhynchophanes) | Longspur | [Rhynchophanes mccownii](https://en.wikipedia.org/wiki/Rhynchophanes_mccownii) | Thick-billed Longspur |
-| CT | 13080 | [Sternula](https://en.wikipedia.org/wiki/Sternula) |  | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
-| DC | 24475 | [Chaetura](https://en.wikipedia.org/wiki/Chaetura) | Swift | [Chaetura pelagica](https://en.wikipedia.org/wiki/Chaetura_pelagica) | Chimney Swift |
-| DE | 10447 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) |  | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
-| FL | 97493 | [Cairina](https://en.wikipedia.org/wiki/Cairina) |  | [Cairina moschata](https://en.wikipedia.org/wiki/Cairina_moschata) | Muscovy Duck |
-| GA | 4722 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
-| HI | 35689 | [Himatione](https://en.wikipedia.org/wiki/Himatione) |  | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
-| IA | 9534 | [Strix](https://en.wikipedia.org/wiki/Strix_(bird)) | Wood Owl | [Strix varia](https://en.wikipedia.org/wiki/Strix_varia) | Barred Owl |
-| ID | 118106 | [Pica](https://en.wikipedia.org/wiki/Pica_(genus)) | Magpie | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie |
-| IL | 18756 | [Centronyx](https://en.wikipedia.org/wiki/Centronyx) | Sparrow | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
-| IN | 1255 | [Oporornis](https://en.wikipedia.org/wiki/Oporornis) | Connecticut Warbler | [Oporornis agilis](https://en.wikipedia.org/wiki/Oporornis_agilis) | Connecticut Warbler |
-| KS | 36284 | [Spiza](https://en.wikipedia.org/wiki/Spiza) | Dickcissel | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
-| KY | 15628 | [Coccyzus](https://en.wikipedia.org/wiki/Coccyzus) | Cuckoo | [Coccyzus americanus](https://en.wikipedia.org/wiki/Coccyzus_americanus) | Yellow-billed Cuckoo |
-| LA | 27044 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
-| MA | 1036 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) |  | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
-| MD | 543555 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus)† | Carolina Wren |
-| ME | 127239 | [Somateria](https://en.wikipedia.org/wiki/Somateria) | Eider | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider |
-| MI | 236621 | [Cygnus](https://en.wikipedia.org/wiki/Swan) | Swan | [Cygnus olor](https://en.wikipedia.org/wiki/Cygnus_olor)* | Mute Swan |
-| MN | 459 | [Pagophila](https://en.wikipedia.org/wiki/Pagophila) | Ivory gull | [Pagophila eburnea](https://en.wikipedia.org/wiki/Pagophila_eburnea) | Ivory gull |
-| MO | 21081 | [Colinus](https://en.wikipedia.org/wiki/Colinus) | Bobwhite | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
-| MS | 3142 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) |  | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
-| MT | 24361 | [Nucifraga](https://en.wikipedia.org/wiki/Nucifraga) | Nutcracker | [Nucifraga columbiana](https://en.wikipedia.org/wiki/Nucifraga_columbiana) | Clark's Nutcracker |
-| NC | 6000 | [Pterodroma](https://en.wikipedia.org/wiki/Pterodroma) | Gadfly Petrel | [Pterodroma hasitata](https://en.wikipedia.org/wiki/Pterodroma_hasitata) | Black-capped petrel |
-| ND | 6539 | [Tympanuchus](https://en.wikipedia.org/wiki/Tympanuchus) | Prarie Chicken | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
-| NE | 2834 | [Calamospiza](https://en.wikipedia.org/wiki/Calamospiza)† | Lark Bunting | [Calamospiza melanocorys](https://en.wikipedia.org/wiki/Calamospiza_melanocorys)† | Lark Bunting |
-| NH | 546 | [Alle](https://en.wikipedia.org/wiki/Alle) |  | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
-| NJ | 68430 | [Haematopus](https://en.wikipedia.org/wiki/Haematopus) | Oystercatcher | [Haematopus palliatus](https://en.wikipedia.org/wiki/Haematopus_palliatus) | American Oystercatcher |
-| NM | 13673 | [Gymnorhinus](https://en.wikipedia.org/wiki/Gymnorhinus) | Pinyon Jay | [Gymnorhinus cyanocephalus](https://en.wikipedia.org/wiki/Gymnorhinus_cyanocephalus) | Pinyon Jay |
-| NV | 5324 | [Artemisiospiza](https://en.wikipedia.org/wiki/Artemisiospiza) | Sparrow | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
-| NY | 61677 | [Vermivora](https://en.wikipedia.org/wiki/Vermivora) | Warbler | [Vermivora cyanoptera](https://en.wikipedia.org/wiki/Vermivora_cyanoptera) | Blue-winged Warbler |
-| OH | 36537 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
-| OK | 15360 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes) |  | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
-| OR | 8746 | [Oreortyx](https://en.wikipedia.org/wiki/Oreortyx) |  | [Oreortyx pictus](https://en.wikipedia.org/wiki/Oreortyx_pictus) | Mountain Quail |
-| PA | 171036 | [Hylocichla](https://en.wikipedia.org/wiki/Hylocichla)† | Wood Thrush | [Hylocichla mustelina](https://en.wikipedia.org/wiki/Hylocichla_mustelina)† | Wood Thrush |
-| RI | 8422 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax) | Cormorant | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
-| SC | 40234 | [Mycteria](https://en.wikipedia.org/wiki/Mycteria) | Stork | [Mycteria americana](https://en.wikipedia.org/wiki/Mycteria_americana) | Wood Stork |
-| SD | 5213 | [Bartramia](https://en.wikipedia.org/wiki/Bartramia_(bird)) | Upland Sandpiper | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
-| TN | 22678 | [Icteria](https://en.wikipedia.org/wiki/Icteria) | Yellow-breasted Chat | [Icteria virens](https://en.wikipedia.org/wiki/Icteria_virens) | Yellow-breasted Chat |
-| TX | 54492 | [Geranoaetus](https://en.wikipedia.org/wiki/Geranoaetus) |  | [Geranoaetus albicaudatus](https://en.wikipedia.org/wiki/Geranoaetus_albicaudatus) | White-tailed Hawk |
-| UT | 2119 | [Psiloscops](https://en.wikipedia.org/wiki/Psiloscops) |  | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
-| VA | 18144 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
-| VT | 16963 | [Bonasa](https://en.wikipedia.org/wiki/Bonasa)† | Ruffed Grouse | [Bonasa umbellus](https://en.wikipedia.org/wiki/Bonasa_umbellus)† | Ruffed Grouse |
-| WA | 56517 | [Cerorhinca](https://en.wikipedia.org/wiki/Cerorhinca) | Rhinoceros Puffin | [Cerorhinca monocerata](https://en.wikipedia.org/wiki/Cerorhinca_monocerata) | Rhinoceros auklet |
-| WI | 231517 | [Antigone](https://en.wikipedia.org/wiki/Antigone_(bird)) | Crane | [Antigone canadensis](https://en.wikipedia.org/wiki/Antigone_canadensis) | Sandhill Crane |
-| WV | 37014 | [Dryocopus](https://en.wikipedia.org/wiki/Dryocopus) | Woodpecker | [Dryocopus pileatus](https://en.wikipedia.org/wiki/Dryocopus_pileatus) | Pileated Woodpecker |
-| WY | 2281 | [Centrocercus](https://en.wikipedia.org/wiki/Centrocercus) | Sage-grouse | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
+| AK | 0.9838 | [Phylloscopus](https://en.wikipedia.org/wiki/Phylloscopus) | Leaf warbler | [Phylloscopus borealis](https://en.wikipedia.org/wiki/Phylloscopus_borealis) | Arctic Warbler |
+| AL | 0.0558 | [Grus](https://en.wikipedia.org/wiki/Grus_(genus)) | Crane | [Grus americana](https://en.wikipedia.org/wiki/Grus_americana) | Whooping Crane |
+| AR | 0.0145 | [Antrostomus](https://en.wikipedia.org/wiki/Antrostomus) | Nightjar | [Antrostomus carolinensis](https://en.wikipedia.org/wiki/Antrostomus_carolinensis) | Chuck-will's-widow |
+| AZ | 0.8668 | [Amphispizopsis](https://en.wikipedia.org/wiki/Amphispizopsis) | Sparrow | [Amphispizopsis quinquestriata](https://en.wikipedia.org/wiki/Amphispizopsis_quinquestriata) | Five-striped Sparrow |
+| CA | 0.5596 | [Chamaea](https://en.wikipedia.org/wiki/Chamaea) | Wrentit | [Chamaea fasciata](https://en.wikipedia.org/wiki/Chamaea_fasciata) | Wrentit |
+| CO | 0.2734 | [Rhynchophanes](https://en.wikipedia.org/wiki/Rhynchophanes) | Longspur | [Rhynchophanes mccownii](https://en.wikipedia.org/wiki/Rhynchophanes_mccownii) | Thick-billed Longspur |
+| CT | 0.0198 | [Sternula](https://en.wikipedia.org/wiki/Sternula) | Small Tern | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
+| DC | 0.0069 | [Chaetura](https://en.wikipedia.org/wiki/Chaetura) | Swift | [Chaetura pelagica](https://en.wikipedia.org/wiki/Chaetura_pelagica) | Chimney Swift |
+| DE | 0.0331 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) | Sparrow | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
+| FL | 0.8956 | [Cairina](https://en.wikipedia.org/wiki/Cairina) | Muscovy duck | [Cairina moschata](https://en.wikipedia.org/wiki/Cairina_moschata) | Muscovy Duck |
+| GA | 0.0911 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| HI | 0.9980 | [Himatione](https://en.wikipedia.org/wiki/Himatione) | Honeycreeper | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
+| IA | 0.0078 | [Strix](https://en.wikipedia.org/wiki/Strix_(bird)) | Wood Owl | [Strix varia](https://en.wikipedia.org/wiki/Strix_varia) | Barred Owl |
+| ID | 0.0684 | [Pica](https://en.wikipedia.org/wiki/Pica_(genus)) | Magpie | [Pica hudsonia](https://en.wikipedia.org/wiki/Pica_hudsonia) | Black-billed Magpie |
+| IL | 0.1906 | [Centronyx](https://en.wikipedia.org/wiki/Centronyx) | Sparrow | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
+| IN | 0.0256 | [Oporornis](https://en.wikipedia.org/wiki/Oporornis) | Connecticut Warbler | [Oporornis agilis](https://en.wikipedia.org/wiki/Oporornis_agilis) | Connecticut Warbler |
+| KS | 0.0768 | [Spiza](https://en.wikipedia.org/wiki/Spiza) | Dickcissel | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
+| KY | 0.0090 | [Coccyzus](https://en.wikipedia.org/wiki/Coccyzus) | Cuckoo | [Coccyzus americanus](https://en.wikipedia.org/wiki/Coccyzus_americanus) | Yellow-billed Cuckoo |
+| LA | 0.0845 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
+| MA | 0.5509 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) | Petrel | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
+| MD | 0.0482 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus)† | Carolina Wren |
+| ME | 0.1955 | [Somateria](https://en.wikipedia.org/wiki/Somateria) | Eider | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider |
+| MI | 0.0841 | [Cygnus](https://en.wikipedia.org/wiki/Swan) | Swan | [Cygnus olor](https://en.wikipedia.org/wiki/Cygnus_olor)* | Mute Swan |
+| MN | 0.1064 | [Pagophila](https://en.wikipedia.org/wiki/Pagophila) | Ivory gull | [Pagophila eburnea](https://en.wikipedia.org/wiki/Pagophila_eburnea) | Ivory gull |
+| MO | 0.0497 | [Colinus](https://en.wikipedia.org/wiki/Colinus) | Bobwhite | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
+| MS | 0.0305 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) | Tern | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
+| MT | 0.1315 | [Nucifraga](https://en.wikipedia.org/wiki/Nucifraga) | Nutcracker | [Nucifraga columbiana](https://en.wikipedia.org/wiki/Nucifraga_columbiana) | Clark's Nutcracker |
+| NC | 0.4415 | [Pterodroma](https://en.wikipedia.org/wiki/Pterodroma) | Gadfly Petrel | [Pterodroma hasitata](https://en.wikipedia.org/wiki/Pterodroma_hasitata) | Black-capped petrel |
+| ND | 0.1106 | [Tympanuchus](https://en.wikipedia.org/wiki/Tympanuchus) | Prarie Chicken | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
+| NE | 0.0238 | [Calamospiza](https://en.wikipedia.org/wiki/Calamospiza)† | Lark Bunting | [Calamospiza melanocorys](https://en.wikipedia.org/wiki/Calamospiza_melanocorys)† | Lark Bunting |
+| NH | 0.0251 | [Alle](https://en.wikipedia.org/wiki/Alle) | Dovekie | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
+| NJ | 0.1155 | [Haematopus](https://en.wikipedia.org/wiki/Haematopus) | Oystercatcher | [Haematopus palliatus](https://en.wikipedia.org/wiki/Haematopus_palliatus) | American Oystercatcher |
+| NM | 0.2172 | [Gymnorhinus](https://en.wikipedia.org/wiki/Gymnorhinus) | Pinyon Jay | [Gymnorhinus cyanocephalus](https://en.wikipedia.org/wiki/Gymnorhinus_cyanocephalus) | Pinyon Jay |
+| NV | 0.1247 | [Artemisiospiza](https://en.wikipedia.org/wiki/Artemisiospiza) | Sparrow | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
+| NY | 0.0683 | [Vermivora](https://en.wikipedia.org/wiki/Vermivora) | Warbler | [Vermivora cyanoptera](https://en.wikipedia.org/wiki/Vermivora_cyanoptera) | Blue-winged Warbler |
+| OH | 0.0683 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
+| OK | 0.0229 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes) | Lark Sparrow | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
+| OR | 0.4317 | [Oreortyx](https://en.wikipedia.org/wiki/Oreortyx) | Mountain Quail | [Oreortyx pictus](https://en.wikipedia.org/wiki/Oreortyx_pictus) | Mountain Quail |
+| PA | 0.0880 | [Hylocichla](https://en.wikipedia.org/wiki/Hylocichla)† | Wood Thrush | [Hylocichla mustelina](https://en.wikipedia.org/wiki/Hylocichla_mustelina)† | Wood Thrush |
+| RI | 0.0584 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax) | Cormorant | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
+| SC | 0.0871 | [Mycteria](https://en.wikipedia.org/wiki/Mycteria) | Stork | [Mycteria americana](https://en.wikipedia.org/wiki/Mycteria_americana) | Wood Stork |
+| SD | 0.0381 | [Bartramia](https://en.wikipedia.org/wiki/Bartramia_(bird)) | Upland Sandpiper | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
+| TN | 0.0295 | [Icteria](https://en.wikipedia.org/wiki/Icteria) | Yellow-breasted Chat | [Icteria virens](https://en.wikipedia.org/wiki/Icteria_virens) | Yellow-breasted Chat |
+| TX | 0.8345 | [Geranoaetus](https://en.wikipedia.org/wiki/Geranoaetus) | Hawk | [Geranoaetus albicaudatus](https://en.wikipedia.org/wiki/Geranoaetus_albicaudatus) | White-tailed Hawk |
+| UT | 0.1868 | [Psiloscops](https://en.wikipedia.org/wiki/Psiloscops) | Flammulated owl | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
+| VA | 0.0570 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) | Warbler | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| VT | 0.0297 | [Bonasa](https://en.wikipedia.org/wiki/Bonasa)† | Ruffed Grouse | [Bonasa umbellus](https://en.wikipedia.org/wiki/Bonasa_umbellus)† | Ruffed Grouse |
+| WA | 0.5008 | [Cerorhinca](https://en.wikipedia.org/wiki/Cerorhinca) | Rhinoceros Puffin | [Cerorhinca monocerata](https://en.wikipedia.org/wiki/Cerorhinca_monocerata) | Rhinoceros auklet |
+| WI | 0.1415 | [Antigone](https://en.wikipedia.org/wiki/Antigone_(bird)) | Crane | [Antigone canadensis](https://en.wikipedia.org/wiki/Antigone_canadensis) | Sandhill Crane |
+| WV | 0.0079 | [Dryocopus](https://en.wikipedia.org/wiki/Dryocopus) | Woodpecker | [Dryocopus pileatus](https://en.wikipedia.org/wiki/Dryocopus_pileatus) | Pileated Woodpecker |
+| WY | 0.1964 | [Centrocercus](https://en.wikipedia.org/wiki/Centrocercus) | Sage-grouse | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
 
 
 
 ### Top Unique State Birds When Sorted by Species
 
-| State | Count | Bird | Common Name |
+| State | Score | Bird | Common Name |
 |--:|---|---|---|
-| AK | 12099 | [Urile urile](https://en.wikipedia.org/wiki/Urile_urile) | Violet Shag |
-| AL | 2905 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
-| AR | 19125 | [Tyrannus forficatus](https://en.wikipedia.org/wiki/Tyrannus_forficatus)† | Scissor-tailed Flycatcher |
-| AZ | 73068 | [Peucaea carpalis](https://en.wikipedia.org/wiki/Peucaea_carpalis) | Rufous-winged Sparrow |
-| CA | 17869 | [Pica nuttalli](https://en.wikipedia.org/wiki/Pica_nuttalli) | Yellow-billed Magpie |
-| CO | 9642 | [Leucosticte australis](https://en.wikipedia.org/wiki/Leucosticte_australis) | Brown-capped Rosy-Finch |
-| CT | 5067 | [Ammospiza caudacuta](https://en.wikipedia.org/wiki/Ammospiza_caudacuta) | Saltmarsh Sparrow |
-| DC | 26969 | [Corvus ossifragus](https://en.wikipedia.org/wiki/Corvus_ossifragus) | Fish Crow |
-| DE | 9067 | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
-| FL | 30709 | [Aphelocoma coerulescens](https://en.wikipedia.org/wiki/Aphelocoma_coerulescens) | Florida Scrub-Jay |
-| GA | 176715 | [Sitta pusilla](https://en.wikipedia.org/wiki/Sitta_pusilla) | Brown-headed Nuthatch |
-| HI | 35689 | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
-| IA | 24590 | [Melanerpes erythrocephalus](https://en.wikipedia.org/wiki/Melanerpes_erythrocephalus) | Red-headed Woodpecker |
-| ID | 2084 | [Loxia sinesciuris](https://en.wikipedia.org/wiki/Loxia_sinesciuris) | Cassia Crossbill |
-| IL | 18756 | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
-| IN | 949 | [Calcarius pictus](https://en.wikipedia.org/wiki/Calcarius_pictus) | Smith's Longspur |
-| KS | 43167 | [Zonotrichia querula](https://en.wikipedia.org/wiki/Zonotrichia_querula) | Harris's Sparrow |
-| KY | 8107 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
-| LA | 6306 | [Rallus elegans](https://en.wikipedia.org/wiki/Rallus_elegans) | King Rail |
-| MA | 1036 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
-| MD | 61388 | [Empidonax virescens](https://en.wikipedia.org/wiki/Empidonax_virescens) | Acadian Flycatcher |
-| ME | 17498 | [Fratercula arctica](https://en.wikipedia.org/wiki/Fratercula_arctica) | Atlantic puffin |
-| MI | 7644 | [Setophaga kirtlandii](https://en.wikipedia.org/wiki/Setophaga_kirtlandii) | Kirtland's Warbler |
-| MN | 69864 | [Cygnus buccinator](https://en.wikipedia.org/wiki/Cygnus_buccinator) | Trumpeter Swan |
-| MO | 18709 | [Geothlypis formosa](https://en.wikipedia.org/wiki/Geothlypis_formosa) | Kentucky Warbler |
-| MS | 3142 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
-| MT | 2510 | [Centronyx bairdii](https://en.wikipedia.org/wiki/Centronyx_bairdii) | Baird's Sparrow |
-| NC | 6000 | [Pterodroma hasitata](https://en.wikipedia.org/wiki/Pterodroma_hasitata) | Black-capped petrel |
-| ND | 6240 | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
-| NE | 19658 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
-| NH | 3457 | [Catharus bicknelli](https://en.wikipedia.org/wiki/Catharus_bicknelli) | Bicknell's Thrush |
-| NJ | 325 | [Tringa nebularia](https://en.wikipedia.org/wiki/Tringa_nebularia) | Common greenshank |
-| NM | 31338 | [Baeolophus ridgwayi](https://en.wikipedia.org/wiki/Baeolophus_ridgwayi) | Juniper Titmouse |
-| NV | 5068 | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
-| NY | 98677 | [Branta bernicla](https://en.wikipedia.org/wiki/Branta_bernicla) | Brant |
-| OH | 41766 | [Setophaga castanea](https://en.wikipedia.org/wiki/Setophaga_castanea) | Bay-breasted Warbler |
-| OK | 1693 | [Vireo atricapilla](https://en.wikipedia.org/wiki/Vireo_atricapilla) | Black-capped Vireo |
-| OR | 374161 | [Aphelocoma californica](https://en.wikipedia.org/wiki/Aphelocoma_californica) | California Scrub-Jay |
-| PA | 171036 | [Hylocichla mustelina](https://en.wikipedia.org/wiki/Hylocichla_mustelina)† | Wood Thrush |
-| RI | 8422 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
-| SC | 5091 | [Dryobates borealis](https://en.wikipedia.org/wiki/Dryobates_borealis) | Red-cockaded Woodpecker |
-| SD | 5213 | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
-| TN | 264148 | [Poecile carolinensis](https://en.wikipedia.org/wiki/Poecile_carolinensis) | Carolina Chickadee |
-| TX | 365712 | [Baeolophus atricristatus](https://en.wikipedia.org/wiki/Baeolophus_atricristatus) | Black-crested Titmouse |
-| UT | 2119 | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
-| VA | 245 | [Limosa limosa](https://en.wikipedia.org/wiki/Limosa_limosa) | Black-tailed godwit |
-| VT | 15915 | [Empidonax alnorum](https://en.wikipedia.org/wiki/Empidonax_alnorum) | Alder Flycatcher |
-| WA | 56517 | [Cerorhinca monocerata](https://en.wikipedia.org/wiki/Cerorhinca_monocerata) | Rhinoceros auklet |
-| WI | 3424 | [Tympanuchus cupido](https://en.wikipedia.org/wiki/Tympanuchus_cupido) | Greater Prairie-Chicken |
-| WV | 3557 | [Setophaga cerulea](https://en.wikipedia.org/wiki/Setophaga_cerulea) | Cerulean Warbler |
-| WY | 2281 | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
+| AK | 0.9934 | [Urile urile](https://en.wikipedia.org/wiki/Urile_urile) | Violet Shag |
+| AL | 0.0607 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| AR | 0.0372 | [Tyrannus forficatus](https://en.wikipedia.org/wiki/Tyrannus_forficatus)† | Scissor-tailed Flycatcher |
+| AZ | 0.9356 | [Peucaea carpalis](https://en.wikipedia.org/wiki/Peucaea_carpalis) | Rufous-winged Sparrow |
+| CA | 0.9850 | [Pica nuttalli](https://en.wikipedia.org/wiki/Pica_nuttalli) | Yellow-billed Magpie |
+| CO | 0.7192 | [Leucosticte australis](https://en.wikipedia.org/wiki/Leucosticte_australis) | Brown-capped Rosy-Finch |
+| CT | 0.0817 | [Ammospiza caudacuta](https://en.wikipedia.org/wiki/Ammospiza_caudacuta) | Saltmarsh Sparrow |
+| DC | 0.0112 | [Corvus ossifragus](https://en.wikipedia.org/wiki/Corvus_ossifragus) | Fish Crow |
+| DE | 0.0974 | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
+| FL | 0.9492 | [Aphelocoma coerulescens](https://en.wikipedia.org/wiki/Aphelocoma_coerulescens) | Florida Scrub-Jay |
+| GA | 0.2767 | [Sitta pusilla](https://en.wikipedia.org/wiki/Sitta_pusilla) | Brown-headed Nuthatch |
+| HI | 0.9980 | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
+| IA | 0.0218 | [Melanerpes erythrocephalus](https://en.wikipedia.org/wiki/Melanerpes_erythrocephalus) | Red-headed Woodpecker |
+| ID | 0.9937 | [Loxia sinesciuris](https://en.wikipedia.org/wiki/Loxia_sinesciuris) | Cassia Crossbill |
+| IL | 0.2270 | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
+| IN | 0.0700 | [Calcarius pictus](https://en.wikipedia.org/wiki/Calcarius_pictus) | Smith's Longspur |
+| KS | 0.2114 | [Zonotrichia querula](https://en.wikipedia.org/wiki/Zonotrichia_querula) | Harris's Sparrow |
+| KY | 0.0169 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
+| LA | 0.1051 | [Rallus elegans](https://en.wikipedia.org/wiki/Rallus_elegans) | King Rail |
+| MA | 0.5509 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
+| MD | 0.1034 | [Empidonax virescens](https://en.wikipedia.org/wiki/Empidonax_virescens) | Acadian Flycatcher |
+| ME | 0.5279 | [Fratercula arctica](https://en.wikipedia.org/wiki/Fratercula_arctica) | Atlantic puffin |
+| MI | 0.6333 | [Setophaga kirtlandii](https://en.wikipedia.org/wiki/Setophaga_kirtlandii) | Kirtland's Warbler |
+| MN | 0.1150 | [Cygnus buccinator](https://en.wikipedia.org/wiki/Cygnus_buccinator) | Trumpeter Swan |
+| MO | 0.0933 | [Geothlypis formosa](https://en.wikipedia.org/wiki/Geothlypis_formosa) | Kentucky Warbler |
+| MS | 0.0305 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
+| MT | 0.1975 | [Centronyx bairdii](https://en.wikipedia.org/wiki/Centronyx_bairdii) | Baird's Sparrow |
+| NC | 0.5993 | [Pterodroma hasitata](https://en.wikipedia.org/wiki/Pterodroma_hasitata) | Black-capped petrel |
+| ND | 0.1474 | [Tympanuchus phasianellus](https://en.wikipedia.org/wiki/Tympanuchus_phasianellus) | Sharp-tailed Grouse |
+| NE | 0.0422 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
+| NH | 0.2372 | [Catharus bicknelli](https://en.wikipedia.org/wiki/Catharus_bicknelli) | Bicknell's Thrush |
+| NJ | 0.2621 | [Tringa nebularia](https://en.wikipedia.org/wiki/Tringa_nebularia) | Common greenshank |
+| NM | 0.3686 | [Baeolophus ridgwayi](https://en.wikipedia.org/wiki/Baeolophus_ridgwayi) | Juniper Titmouse |
+| NV | 0.1529 | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
+| NY | 0.1862 | [Branta bernicla](https://en.wikipedia.org/wiki/Branta_bernicla) | Brant |
+| OH | 0.0827 | [Setophaga castanea](https://en.wikipedia.org/wiki/Setophaga_castanea) | Bay-breasted Warbler |
+| OK | 0.0864 | [Vireo atricapilla](https://en.wikipedia.org/wiki/Vireo_atricapilla) | Black-capped Vireo |
+| OR | 0.5643 | [Aphelocoma californica](https://en.wikipedia.org/wiki/Aphelocoma_californica) | California Scrub-Jay |
+| PA | 0.0880 | [Hylocichla mustelina](https://en.wikipedia.org/wiki/Hylocichla_mustelina)† | Wood Thrush |
+| RI | 0.0584 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
+| SC | 0.1377 | [Dryobates borealis](https://en.wikipedia.org/wiki/Dryobates_borealis) | Red-cockaded Woodpecker |
+| SD | 0.0381 | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
+| TN | 0.0408 | [Poecile carolinensis](https://en.wikipedia.org/wiki/Poecile_carolinensis) | Carolina Chickadee |
+| TX | 0.9187 | [Baeolophus atricristatus](https://en.wikipedia.org/wiki/Baeolophus_atricristatus) | Black-crested Titmouse |
+| UT | 0.1868 | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
+| VA | 0.1371 | [Limosa limosa](https://en.wikipedia.org/wiki/Limosa_limosa) | Black-tailed godwit |
+| VT | 0.0333 | [Empidonax alnorum](https://en.wikipedia.org/wiki/Empidonax_alnorum) | Alder Flycatcher |
+| WA | 0.5008 | [Cerorhinca monocerata](https://en.wikipedia.org/wiki/Cerorhinca_monocerata) | Rhinoceros auklet |
+| WI | 0.1848 | [Tympanuchus cupido](https://en.wikipedia.org/wiki/Tympanuchus_cupido) | Greater Prairie-Chicken |
+| WV | 0.0249 | [Setophaga cerulea](https://en.wikipedia.org/wiki/Setophaga_cerulea) | Cerulean Warbler |
+| WY | 0.1964 | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
 
 
 
@@ -210,19 +213,19 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 ## Scores for Bird Genera by State
 
-### Top Genera for Alaska (AK)
+### Top Genera for Alaska  (AK)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.9838 | [Phylloscopus](https://en.wikipedia.org/wiki/Phylloscopus) |  | 5694 | [Phylloscopus borealis](https://en.wikipedia.org/wiki/Phylloscopus_borealis) | Arctic Warbler |
+| 0.9838 | [Phylloscopus](https://en.wikipedia.org/wiki/Phylloscopus) | Leaf warbler | 5694 | [Phylloscopus borealis](https://en.wikipedia.org/wiki/Phylloscopus_borealis) | Arctic Warbler |
 | 0.9806 | [Aethia](https://en.wikipedia.org/wiki/Aethia) | Auklet | 30617 | [Aethia pusilla](https://en.wikipedia.org/wiki/Aethia_pusilla) | Least auklet |
 | 0.9741 | [Luscinia](https://en.wikipedia.org/wiki/Luscinia) |  | 3311 | [Luscinia svecica](https://en.wikipedia.org/wiki/Luscinia_svecica) | Bluethroat |
 | 0.9283 | [Polysticta](https://en.wikipedia.org/wiki/Polysticta) |  | 7277 | [Polysticta stelleri](https://en.wikipedia.org/wiki/Polysticta_stelleri) | Steller's Eider |
-| 0.8570 | [Motacilla](https://en.wikipedia.org/wiki/Motacilla) |  | 11596 | [Motacilla tschutschensis](https://en.wikipedia.org/wiki/Motacilla_tschutschensis) | Eastern Yellow Wagtail |
+| 0.8570 | [Motacilla](https://en.wikipedia.org/wiki/Motacilla) | Wagtail | 11596 | [Motacilla tschutschensis](https://en.wikipedia.org/wiki/Motacilla_tschutschensis) | Eastern Yellow Wagtail |
 | 0.5080 | [Fratercula](https://en.wikipedia.org/wiki/Fratercula) | Puffin | 48084 | [Fratercula corniculata](https://en.wikipedia.org/wiki/Fratercula_corniculata) | Horned puffin |
 | 0.5055 | [Fringilla](https://en.wikipedia.org/wiki/Fringilla)∀ |  | 2344 | [Fringilla montifringilla](https://en.wikipedia.org/wiki/Fringilla_montifringilla)∀ | Brambling |
-| 0.4898 | [Oenanthe](https://en.wikipedia.org/wiki/Oenanthe) |  | 5543 | [Oenanthe oenanthe](https://en.wikipedia.org/wiki/Oenanthe_oenanthe) | Northern Wheatear |
-| 0.4783 | [Lagopus](https://en.wikipedia.org/wiki/Lagopus)‡ |  | 20161 | [Lagopus muta](https://en.wikipedia.org/wiki/Lagopus_muta) | Rock Ptarmigan |
+| 0.4898 | [Oenanthe](https://en.wikipedia.org/wiki/Oenanthe) | wheatear | 5543 | [Oenanthe oenanthe](https://en.wikipedia.org/wiki/Oenanthe_oenanthe) | Northern Wheatear |
+| 0.4783 | [Lagopus](https://en.wikipedia.org/wiki/Lagopus)‡ | Ptarmigan | 20161 | [Lagopus muta](https://en.wikipedia.org/wiki/Lagopus_muta) | Rock Ptarmigan |
 | 0.3956 | [Rissa](https://en.wikipedia.org/wiki/Kittiwake) | Kittiwake | 60795 | [Rissa brevirostris](https://en.wikipedia.org/wiki/Rissa_brevirostris) | Red-legged kittiwake |
 
 
@@ -230,17 +233,17 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Alabama (AL)
+### Top Genera for Alabama  (AL)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0607 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 2905 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0607 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 2905 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
 | 0.0558 | [Grus](https://en.wikipedia.org/wiki/Grus_(genus)) | Crane | 1504 | [Grus americana](https://en.wikipedia.org/wiki/Grus_americana) | Whooping Crane |
 | 0.0311 | [Lonchura](https://en.wikipedia.org/wiki/Lonchura)* |  | 1693 | [Lonchura punctulata](https://en.wikipedia.org/wiki/Lonchura_punctulata)* | Scaly-breasted Munia |
-| 0.0257 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) |  | 2926 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
+| 0.0257 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) | Tern | 2926 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
 | 0.0227 | [Thalasseus](https://en.wikipedia.org/wiki/Thalasseus) | Crested Tern | 24522 | [Thalasseus sandvicensis](https://en.wikipedia.org/wiki/Thalasseus_sandvicensis) | Sandwich Tern |
 | 0.0219 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | 9976 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
-| 0.0163 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | 4757 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| 0.0163 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) | Warbler | 4757 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
 | 0.0149 | [Mimus](https://en.wikipedia.org/wiki/Mimus)† | Mockingbird | 130529 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos)† | Northern Mockingbird |
 | 0.0142 | [Icteria](https://en.wikipedia.org/wiki/Icteria) | Yellow-breasted Chat | 10981 | [Icteria virens](https://en.wikipedia.org/wiki/Icteria_virens) | Yellow-breasted Chat |
 | 0.0138 | [Toxostoma](https://en.wikipedia.org/wiki/Toxostoma)† | Thrasher | 59435 | [Toxostoma rufum](https://en.wikipedia.org/wiki/Toxostoma_rufum)† | Brown Thrasher |
@@ -250,7 +253,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Arkansas (AR)
+### Top Genera for Arkansas  (AR)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -263,19 +266,19 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0112 | [Coccyzus](https://en.wikipedia.org/wiki/Coccyzus) | Cuckoo | 17013 | [Coccyzus americanus](https://en.wikipedia.org/wiki/Coccyzus_americanus) | Yellow-billed Cuckoo |
 | 0.0095 | [Passerina](https://en.wikipedia.org/wiki/Passerina) | Bunting | 55044 | [Passerina cyanea](https://en.wikipedia.org/wiki/Passerina_cyanea) | Indigo Bunting |
 | 0.0080 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | 91280 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus)† | Carolina Wren |
-| 0.0076 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 541 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0076 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 541 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
 
 
 
 
 
 
-### Top Genera for Arizona (AZ)
+### Top Genera for Arizona  (AZ)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.9038 | [Agapornis](https://en.wikipedia.org/wiki/Agapornis)* | Lovebird | 23043 | [Agapornis roseicollis](https://en.wikipedia.org/wiki/Agapornis_roseicollis)* | Rosy-faced lovebird |
-| 0.8668 | [Amphispizopsis](https://en.wikipedia.org/wiki/Amphispizopsis) |  | 5685 | [Amphispizopsis quinquestriata](https://en.wikipedia.org/wiki/Amphispizopsis_quinquestriata) | Five-striped Sparrow |
+| 0.8668 | [Amphispizopsis](https://en.wikipedia.org/wiki/Amphispizopsis) | Sparrow | 5685 | [Amphispizopsis quinquestriata](https://en.wikipedia.org/wiki/Amphispizopsis_quinquestriata) | Five-striped Sparrow |
 | 0.7679 | [Eugenes](https://en.wikipedia.org/wiki/Eugenes) |  | 59354 | [Eugenes fulgens](https://en.wikipedia.org/wiki/Eugenes_fulgens) | Rivoli's Hummingbird |
 | 0.7563 | [Cyrtonyx](https://en.wikipedia.org/wiki/Cyrtonyx) |  | 13850 | [Cyrtonyx montezumae](https://en.wikipedia.org/wiki/Cyrtonyx_montezumae) | Montezuma Quail |
 | 0.7212 | [Phainopepla](https://en.wikipedia.org/wiki/Phainopepla) | Phainopepla | 200508 | [Phainopepla nitens](https://en.wikipedia.org/wiki/Phainopepla_nitens) | Phainopepla |
@@ -283,26 +286,26 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.6634 | [Euptilotis](https://en.wikipedia.org/wiki/Euptilotis)∀ |  | 1168 | [Euptilotis neoxenus](https://en.wikipedia.org/wiki/Euptilotis_neoxenus)∀ | Eared quetzal |
 | 0.6623 | [Cynanthus](https://en.wikipedia.org/wiki/Cynanthus) | Hummingbird | 169527 | [Cynanthus latirostris](https://en.wikipedia.org/wiki/Cynanthus_latirostris) | Broad-billed hummingbird |
 | 0.6260 | [Micrathene](https://en.wikipedia.org/wiki/Micrathene) |  | 13070 | [Micrathene whitneyi](https://en.wikipedia.org/wiki/Micrathene_whitneyi) | Elf owl |
-| 0.6087 | [Gymnogyps](https://en.wikipedia.org/wiki/Gymnogyps) |  | 5524 | [Gymnogyps californianus](https://en.wikipedia.org/wiki/Gymnogyps_californianus) | California Condor |
+| 0.6087 | [Gymnogyps](https://en.wikipedia.org/wiki/Gymnogyps) | California condor | 5524 | [Gymnogyps californianus](https://en.wikipedia.org/wiki/Gymnogyps_californianus) | California Condor |
 
 
 
 
 
 
-### Top Genera for California (CA)
+### Top Genera for California  (CA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.7176 | [Euplectes](https://en.wikipedia.org/wiki/Euplectes)* | Bishop | 1315 | [Euplectes franciscanus](https://en.wikipedia.org/wiki/Euplectes_franciscanus)* | Northern red bishop |
 | 0.5596 | [Chamaea](https://en.wikipedia.org/wiki/Chamaea) | Wrentit | 57649 | [Chamaea fasciata](https://en.wikipedia.org/wiki/Chamaea_fasciata) | Wrentit |
-| 0.4400 | [Oreortyx](https://en.wikipedia.org/wiki/Oreortyx) |  | 8665 | [Oreortyx pictus](https://en.wikipedia.org/wiki/Oreortyx_pictus) | Mountain Quail |
-| 0.3036 | [Elanus](https://en.wikipedia.org/wiki/Elanus) |  | 40693 | [Elanus leucurus](https://en.wikipedia.org/wiki/Elanus_leucurus) | White-tailed Kite |
+| 0.4400 | [Oreortyx](https://en.wikipedia.org/wiki/Oreortyx) | Mountain Quail | 8665 | [Oreortyx pictus](https://en.wikipedia.org/wiki/Oreortyx_pictus) | Mountain Quail |
+| 0.3036 | [Elanus](https://en.wikipedia.org/wiki/Elanus) | Kite | 40693 | [Elanus leucurus](https://en.wikipedia.org/wiki/Elanus_leucurus) | White-tailed Kite |
 | 0.2122 | [Ptychoramphus](https://en.wikipedia.org/wiki/Ptychoramphus) |  | 5326 | [Ptychoramphus aleuticus](https://en.wikipedia.org/wiki/Ptychoramphus_aleuticus) | Cassin's auklet |
 | 0.2079 | [Brotogeris](https://en.wikipedia.org/wiki/Brotogeris)* |  | 2407 | [Brotogeris chiriri](https://en.wikipedia.org/wiki/Brotogeris_chiriri)* | Yellow-chevroned Parakeet |
 | 0.1668 | [Artemisiospiza](https://en.wikipedia.org/wiki/Artemisiospiza) | Sparrow | 7516 | [Artemisiospiza belli](https://en.wikipedia.org/wiki/Artemisiospiza_belli) | Bell's Sparrow |
 | 0.1595 | [Melozone](https://en.wikipedia.org/wiki/Melozone) |  | 129054 | [Melozone crissalis](https://en.wikipedia.org/wiki/Melozone_crissalis) | California Towhee |
-| 0.1418 | [Gymnogyps](https://en.wikipedia.org/wiki/Gymnogyps) |  | 1354 | [Gymnogyps californianus](https://en.wikipedia.org/wiki/Gymnogyps_californianus) | California Condor |
+| 0.1418 | [Gymnogyps](https://en.wikipedia.org/wiki/Gymnogyps) | California condor | 1354 | [Gymnogyps californianus](https://en.wikipedia.org/wiki/Gymnogyps_californianus) | California Condor |
 | 0.1380 | [Psaltriparus](https://en.wikipedia.org/wiki/Psaltriparus) |  | 112390 | [Psaltriparus minimus](https://en.wikipedia.org/wiki/Psaltriparus_minimus) | Bushtit |
 
 
@@ -310,7 +313,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Colorado (CO)
+### Top Genera for Colorado  (CO)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -330,7 +333,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Connecticut (CT)
+### Top Genera for Connecticut  (CT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -338,10 +341,10 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0390 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax) | Cormorant | 7306 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
 | 0.0333 | [Haematopus](https://en.wikipedia.org/wiki/Haematopus) | Oystercatcher | 22502 | [Haematopus palliatus](https://en.wikipedia.org/wiki/Haematopus_palliatus) | American Oystercatcher |
 | 0.0286 | [Vermivora](https://en.wikipedia.org/wiki/Vermivora) | Warbler | 21206 | [Vermivora cyanoptera](https://en.wikipedia.org/wiki/Vermivora_cyanoptera) | Blue-winged Warbler |
-| 0.0286 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | 9088 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| 0.0286 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) | Warbler | 9088 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
 | 0.0209 | [Hylocichla](https://en.wikipedia.org/wiki/Hylocichla)† | Wood Thrush | 47578 | [Hylocichla mustelina](https://en.wikipedia.org/wiki/Hylocichla_mustelina)† | Wood Thrush |
-| 0.0198 | [Sternula](https://en.wikipedia.org/wiki/Sternula) |  | 13080 | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
-| 0.0194 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) |  | 8950 | [Ammospiza caudacuta](https://en.wikipedia.org/wiki/Ammospiza_caudacuta) | Saltmarsh Sparrow |
+| 0.0198 | [Sternula](https://en.wikipedia.org/wiki/Sternula) | Small Tern | 13080 | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
+| 0.0194 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) | Sparrow | 8950 | [Ammospiza caudacuta](https://en.wikipedia.org/wiki/Ammospiza_caudacuta) | Saltmarsh Sparrow |
 | 0.0170 | [Cygnus](https://en.wikipedia.org/wiki/Swan) | Swan | 64233 | [Cygnus olor](https://en.wikipedia.org/wiki/Cygnus_olor)* | Mute Swan |
 | 0.0168 | [Clangula](https://en.wikipedia.org/wiki/Clangula) |  | 17906 | [Clangula hyemalis](https://en.wikipedia.org/wiki/Clangula_hyemalis) | Long-tailed Duck |
 
@@ -350,7 +353,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for District of Columbia (DC)
+### Top Genera for District of Columbia  (DC)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -361,7 +364,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0027 | [Polioptila](https://en.wikipedia.org/wiki/Polioptila) | Gnatcatcher | 16764 | [Polioptila caerulea](https://en.wikipedia.org/wiki/Polioptila_caerulea) | Blue-gray Gnatcatcher |
 | 0.0026 | [Passer](https://en.wikipedia.org/wiki/Passer)* | True Sparrow | 42950 | [Passer domesticus](https://en.wikipedia.org/wiki/Passer_domesticus)* | House Sparrow |
 | 0.0026 | [Mimus](https://en.wikipedia.org/wiki/Mimus)† | Mockingbird | 30486 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos)† | Northern Mockingbird |
-| 0.0026 | [Xema](https://en.wikipedia.org/wiki/Xema) |  | 207 | [Xema sabini](https://en.wikipedia.org/wiki/Xema_sabini) | Sabine's gull |
+| 0.0026 | [Xema](https://en.wikipedia.org/wiki/Xema) | Xeme | 207 | [Xema sabini](https://en.wikipedia.org/wiki/Xema_sabini) | Sabine's gull |
 | 0.0024 | [Sturnus](https://en.wikipedia.org/wiki/Sturnus)* | Starling | 53975 | [Sturnus vulgaris](https://en.wikipedia.org/wiki/Sturnus_vulgaris)* | European Starling |
 | 0.0022 | [Dumetella](https://en.wikipedia.org/wiki/Dumetella) | Gray Catbird | 25165 | [Dumetella carolinensis](https://en.wikipedia.org/wiki/Dumetella_carolinensis) | Gray Catbird |
 
@@ -370,18 +373,18 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Delaware (DE)
+### Top Genera for Delaware  (DE)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0331 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) |  | 10447 | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
+| 0.0331 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) | Sparrow | 10447 | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
 | 0.0250 | [Recurvirostra](https://en.wikipedia.org/wiki/Recurvirostra) | Avocet | 16285 | [Recurvirostra americana](https://en.wikipedia.org/wiki/Recurvirostra_americana) | American Avocet |
 | 0.0196 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax) | Cormorant | 3537 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
-| 0.0192 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) |  | 45 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
+| 0.0192 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) | Petrel | 45 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
 | 0.0189 | [Leucophaeus](https://en.wikipedia.org/wiki/Leucophaeus) | Gull | 53108 | [Leucophaeus atricilla](https://en.wikipedia.org/wiki/Leucophaeus_atricilla) | Laughing Gull |
 | 0.0181 | [Limnodromus](https://en.wikipedia.org/wiki/Limnodromus) |  | 21701 | [Limnodromus griseus](https://en.wikipedia.org/wiki/Limnodromus_griseus) | Short-billed Dowitcher |
 | 0.0179 | [Sterna](https://en.wikipedia.org/wiki/Sterna) | Tern | 42296 | [Sterna forsteri](https://en.wikipedia.org/wiki/Sterna_forsteri) | Forster's Tern |
-| 0.0161 | [Alle](https://en.wikipedia.org/wiki/Alle) |  | 381 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
+| 0.0161 | [Alle](https://en.wikipedia.org/wiki/Alle) | Dovekie | 381 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
 | 0.0161 | [Morus](https://en.wikipedia.org/wiki/Gannet) | Gannet | 6969 | [Morus bassanus](https://en.wikipedia.org/wiki/Morus_bassanus) | Northern gannet |
 | 0.0154 | [Rallus](https://en.wikipedia.org/wiki/Rallus) |  | 14751 | [Rallus crepitans](https://en.wikipedia.org/wiki/Rallus_crepitans) | Clapper Rail |
 
@@ -390,31 +393,31 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Florida (FL)
+### Top Genera for Florida  (FL)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.9492 | [Melanospiza](https://en.wikipedia.org/wiki/Melanospiza)∀ |  | 1164 | [Melanospiza bicolor](https://en.wikipedia.org/wiki/Melanospiza_bicolor)∀ | Black-faced grassquit |
-| 0.9487 | [Gracula](https://en.wikipedia.org/wiki/Gracula)* |  | 2142 | [Gracula religiosa](https://en.wikipedia.org/wiki/Gracula_religiosa)* | Common Hill Myna |
+| 0.9487 | [Gracula](https://en.wikipedia.org/wiki/Gracula)* | Hill Myna | 2142 | [Gracula religiosa](https://en.wikipedia.org/wiki/Gracula_religiosa)* | Common Hill Myna |
 | 0.9384 | [Thectocercus](https://en.wikipedia.org/wiki/Thectocercus)∀ |  | 6770 | [Thectocercus acuticaudatus](https://en.wikipedia.org/wiki/Thectocercus_acuticaudatus)∀ |  |
 | 0.9345 | [Ara](https://en.wikipedia.org/wiki/Ara)∀ |  | 2611 | [Ara ararauna](https://en.wikipedia.org/wiki/Ara_ararauna)∀ | Blue-and-yellow Macaw |
 | 0.9340 | [Aratinga](https://en.wikipedia.org/wiki/Aratinga)* | Conure | 47057 | [Aratinga nenday](https://en.wikipedia.org/wiki/Aratinga_nenday)* | Nanday Parakeet |
-| 0.8956 | [Cairina](https://en.wikipedia.org/wiki/Cairina) |  | 97493 | [Cairina moschata](https://en.wikipedia.org/wiki/Cairina_moschata) | Muscovy Duck |
-| 0.8711 | [Aramus](https://en.wikipedia.org/wiki/Aramus) |  | 184399 | [Aramus guarauna](https://en.wikipedia.org/wiki/Aramus_guarauna) | Limpkin |
+| 0.8956 | [Cairina](https://en.wikipedia.org/wiki/Cairina) | Muscovy duck | 97493 | [Cairina moschata](https://en.wikipedia.org/wiki/Cairina_moschata) | Muscovy Duck |
+| 0.8711 | [Aramus](https://en.wikipedia.org/wiki/Aramus_(bird)) | Limpkin | 184399 | [Aramus guarauna](https://en.wikipedia.org/wiki/Aramus_guarauna) | Limpkin |
 | 0.8277 | [Pavo](https://en.wikipedia.org/wiki/Pavo)* |  | 9473 | [Pavo cristatus](https://en.wikipedia.org/wiki/Pavo_cristatus)* | Indian peafowl |
 | 0.7299 | [Rostrhamus](https://en.wikipedia.org/wiki/Rostrhamus) |  | 32354 | [Rostrhamus sociabilis](https://en.wikipedia.org/wiki/Rostrhamus_sociabilis) | Snail Kite |
-| 0.7011 | [Elanoides](https://en.wikipedia.org/wiki/Elanoides) |  | 111055 | [Elanoides forficatus](https://en.wikipedia.org/wiki/Elanoides_forficatus) | Swallow-tailed Kite |
+| 0.7011 | [Elanoides](https://en.wikipedia.org/wiki/Elanoides) | Swallow-tailed Kite | 111055 | [Elanoides forficatus](https://en.wikipedia.org/wiki/Elanoides_forficatus) | Swallow-tailed Kite |
 
 
 
 
 
 
-### Top Genera for Georgia (GA)
+### Top Genera for Georgia  (GA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0911 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 4722 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0911 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 4722 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
 | 0.0647 | [Vanellus](https://en.wikipedia.org/wiki/Vanellus)∀ |  | 167 | [Vanellus vanellus](https://en.wikipedia.org/wiki/Vanellus_vanellus)∀ | Northern Lapwing |
 | 0.0516 | [Mycteria](https://en.wikipedia.org/wiki/Mycteria) | Stork | 28067 | [Mycteria americana](https://en.wikipedia.org/wiki/Mycteria_americana) | Wood Stork |
 | 0.0426 | [Toxostoma](https://en.wikipedia.org/wiki/Toxostoma)‡ | Thrasher | 179633 | [Toxostoma rufum](https://en.wikipedia.org/wiki/Toxostoma_rufum)‡ | Brown Thrasher |
@@ -430,13 +433,13 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Hawaii (HI)
+### Top Genera for Hawaii  (HI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.9981 | [Zosterops](https://en.wikipedia.org/wiki/Zosterops)∀ | White-Eyes | 82840 | [Zosterops japonicus](https://en.wikipedia.org/wiki/Zosterops_japonicus)* | Warbling white-eye |
 | 0.9981 | [Geopelia](https://en.wikipedia.org/wiki/Geopelia)∀ |  | 78346 | [Geopelia striata](https://en.wikipedia.org/wiki/Geopelia_striata)* | Zebra dove |
-| 0.9980 | [Himatione](https://en.wikipedia.org/wiki/Himatione) |  | 35689 | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
+| 0.9980 | [Himatione](https://en.wikipedia.org/wiki/Himatione) | Honeycreeper | 35689 | [Himatione sanguinea](https://en.wikipedia.org/wiki/Himatione_sanguinea) | Apapane |
 | 0.9980 | [Chlorodrepanis](https://en.wikipedia.org/wiki/Chlorodrepanis) |  | 34136 | [Chlorodrepanis virens](https://en.wikipedia.org/wiki/Chlorodrepanis_virens) | Hawaii amakihi |
 | 0.9980 | [Paroaria](https://en.wikipedia.org/wiki/Paroaria)* |  | 56710 | [Paroaria capitata](https://en.wikipedia.org/wiki/Paroaria_capitata)* | Yellow-billed cardinal |
 | 0.9980 | [Copsychus](https://en.wikipedia.org/wiki/Copsychus)* |  | 18329 | [Copsychus malabaricus](https://en.wikipedia.org/wiki/Copsychus_malabaricus)* | White-rumped shama |
@@ -450,13 +453,13 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Iowa (IA)
+### Top Genera for Iowa  (IA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0325 | [Spiza](https://en.wikipedia.org/wiki/Spiza) | Dickcissel | 15850 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
 | 0.0290 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus)†* | Pheasant | 21293 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus)†* | Ring-necked Pheasant |
-| 0.0245 | [Rhodostethia](https://en.wikipedia.org/wiki/Rhodostethia) |  | 76 | [Rhodostethia rosea](https://en.wikipedia.org/wiki/Rhodostethia_rosea) | Ross's gull |
+| 0.0245 | [Rhodostethia](https://en.wikipedia.org/wiki/Rhodostethia) | Ross's gull | 76 | [Rhodostethia rosea](https://en.wikipedia.org/wiki/Rhodostethia_rosea) | Ross's gull |
 | 0.0181 | [Centronyx](https://en.wikipedia.org/wiki/Centronyx) | Sparrow | 1961 | [Centronyx henslowii](https://en.wikipedia.org/wiki/Centronyx_henslowii) | Henslow's Sparrow |
 | 0.0082 | [Perdix](https://en.wikipedia.org/wiki/Perdix)* | Partridge | 679 | [Perdix perdix](https://en.wikipedia.org/wiki/Perdix_perdix)* | Gray Partridge |
 | 0.0078 | [Strix](https://en.wikipedia.org/wiki/Strix_(bird)) | Wood Owl | 9534 | [Strix varia](https://en.wikipedia.org/wiki/Strix_varia) | Barred Owl |
@@ -470,7 +473,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Idaho (ID)
+### Top Genera for Idaho  (ID)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -481,7 +484,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0603 | [Perdix](https://en.wikipedia.org/wiki/Perdix)* | Partridge | 3493 | [Perdix perdix](https://en.wikipedia.org/wiki/Perdix_perdix)* | Gray Partridge |
 | 0.0517 | [Callipepla](https://en.wikipedia.org/wiki/Callipepla)† | Crested Quail | 53404 | [Callipepla californica](https://en.wikipedia.org/wiki/Callipepla_californica)† | California Quail |
 | 0.0471 | [Artemisiospiza](https://en.wikipedia.org/wiki/Artemisiospiza) | Sparrow | 2206 | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow |
-| 0.0467 | [Psiloscops](https://en.wikipedia.org/wiki/Psiloscops) |  | 575 | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
+| 0.0467 | [Psiloscops](https://en.wikipedia.org/wiki/Psiloscops) | Flammulated owl | 575 | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
 | 0.0391 | [Prunella](https://en.wikipedia.org/wiki/Prunella)∀ |  | 51 | [Prunella montanella](https://en.wikipedia.org/wiki/Prunella_montanella)∀ | Siberian accentor |
 | 0.0380 | [Nucifraga](https://en.wikipedia.org/wiki/Nucifraga) | Nutcracker | 7777 | [Nucifraga columbiana](https://en.wikipedia.org/wiki/Nucifraga_columbiana) | Clark's Nutcracker |
 
@@ -490,7 +493,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Illinois (IL)
+### Top Genera for Illinois  (IL)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -510,7 +513,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Indiana (IN)
+### Top Genera for Indiana  (IN)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -530,7 +533,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Kansas (KS)
+### Top Genera for Kansas  (KS)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -538,7 +541,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0580 | [Colinus](https://en.wikipedia.org/wiki/Colinus) | Bobwhite | 22554 | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
 | 0.0561 | [Bartramia](https://en.wikipedia.org/wiki/Bartramia_(bird)) | Upland Sandpiper | 8401 | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
 | 0.0418 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | 14481 | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
-| 0.0343 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes) |  | 24003 | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
+| 0.0343 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes) | Lark Sparrow | 24003 | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
 | 0.0337 | [Tympanuchus](https://en.wikipedia.org/wiki/Tympanuchus) | Prarie Chicken | 2429 | [Tympanuchus cupido](https://en.wikipedia.org/wiki/Tympanuchus_cupido) | Greater Prairie-Chicken |
 | 0.0326 | [Ammodramus](https://en.wikipedia.org/wiki/Ammodramus) |  | 12774 | [Ammodramus savannarum](https://en.wikipedia.org/wiki/Ammodramus_savannarum) | Grasshopper Sparrow |
 | 0.0257 | [Sturnella](https://en.wikipedia.org/wiki/Sturnella)‡ | Meadowlark | 92201 | [Sturnella magna](https://en.wikipedia.org/wiki/Sturnella_magna) | Eastern Meadowlark |
@@ -550,15 +553,15 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Kentucky (KY)
+### Top Genera for Kentucky  (KY)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0169 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | 8107 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
-| 0.0162 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 959 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0162 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 959 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
 | 0.0140 | [Colinus](https://en.wikipedia.org/wiki/Colinus) | Bobwhite | 6725 | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
 | 0.0136 | [Icteria](https://en.wikipedia.org/wiki/Icteria) | Yellow-breasted Chat | 10504 | [Icteria virens](https://en.wikipedia.org/wiki/Icteria_virens) | Yellow-breasted Chat |
-| 0.0114 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | 3656 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| 0.0114 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) | Warbler | 3656 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
 | 0.0090 | [Coccyzus](https://en.wikipedia.org/wiki/Coccyzus) | Cuckoo | 15628 | [Coccyzus americanus](https://en.wikipedia.org/wiki/Coccyzus_americanus) | Yellow-billed Cuckoo |
 | 0.0085 | [Coragyps](https://en.wikipedia.org/wiki/Coragyps) | Black Vulture | 35716 | [Coragyps atratus](https://en.wikipedia.org/wiki/Coragyps_atratus) | Black Vulture |
 | 0.0080 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | 98073 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus)† | Carolina Wren |
@@ -570,14 +573,14 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Louisiana (LA)
+### Top Genera for Louisiana  (LA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0845 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | 27044 | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
-| 0.0722 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 3553 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
-| 0.0664 | [Coturnicops](https://en.wikipedia.org/wiki/Coturnicops) |  | 942 | [Coturnicops noveboracensis](https://en.wikipedia.org/wiki/Coturnicops_noveboracensis) | Yellow Rail |
-| 0.0636 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) |  | 6719 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
+| 0.0722 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 3553 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0664 | [Coturnicops](https://en.wikipedia.org/wiki/Coturnicops) | Rail | 942 | [Coturnicops noveboracensis](https://en.wikipedia.org/wiki/Coturnicops_noveboracensis) | Yellow Rail |
+| 0.0636 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) | Tern | 6719 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
 | 0.0515 | [Platalea](https://en.wikipedia.org/wiki/Platalea) |  | 22937 | [Platalea ajaja](https://en.wikipedia.org/wiki/Platalea_ajaja) | Roseate Spoonbill |
 | 0.0495 | [Bubulcus](https://en.wikipedia.org/wiki/Bubulcus)* | Cattle Egret | 50157 | [Bubulcus ibis](https://en.wikipedia.org/wiki/Bubulcus_ibis)* | Cattle Egret |
 | 0.0483 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | 20585 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
@@ -590,16 +593,16 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Massachusetts (MA)
+### Top Genera for Massachusetts  (MA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.5509 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) |  | 1036 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
+| 0.5509 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) | Petrel | 1036 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
 | 0.3147 | [Calonectris](https://en.wikipedia.org/wiki/Calonectris) | Shearwater | 16342 | [Calonectris diomedea](https://en.wikipedia.org/wiki/Calonectris_diomedea) | Cory's shearwater |
 | 0.2586 | [Puffinus](https://en.wikipedia.org/wiki/Puffinus) | Shearwater | 13352 | [Puffinus puffinus](https://en.wikipedia.org/wiki/Puffinus_puffinus) | Manx shearwater |
 | 0.2579 | [Oceanites](https://en.wikipedia.org/wiki/Oceanites) | Storm Petrel | 17049 | [Oceanites oceanicus](https://en.wikipedia.org/wiki/Oceanites_oceanicus) | Wilson's storm-petrel |
 | 0.2391 | [Vanellus](https://en.wikipedia.org/wiki/Vanellus)∀ |  | 553 | [Vanellus vanellus](https://en.wikipedia.org/wiki/Vanellus_vanellus)∀ | Northern Lapwing |
-| 0.2283 | [Alle](https://en.wikipedia.org/wiki/Alle) |  | 4466 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
+| 0.2283 | [Alle](https://en.wikipedia.org/wiki/Alle) | Dovekie | 4466 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
 | 0.2090 | [Somateria](https://en.wikipedia.org/wiki/Somateria) | Eider | 147686 | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider |
 | 0.1909 | [Alca](https://en.wikipedia.org/wiki/Alca) | Razorbill | 19874 | [Alca torda](https://en.wikipedia.org/wiki/Alca_torda) | Razorbill |
 | 0.1782 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax) | Cormorant | 28983 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
@@ -610,19 +613,19 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Maryland (MD)
+### Top Genera for Maryland  (MD)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0482 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | 543555 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus)† | Carolina Wren |
 | 0.0453 | [Coragyps](https://en.wikipedia.org/wiki/Coragyps) | Black Vulture | 184681 | [Coragyps atratus](https://en.wikipedia.org/wiki/Coragyps_atratus) | Black Vulture |
-| 0.0391 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | 14340 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| 0.0391 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) | Warbler | 14340 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
 | 0.0338 | [Oceanites](https://en.wikipedia.org/wiki/Oceanites) | Storm Petrel | 3652 | [Oceanites oceanicus](https://en.wikipedia.org/wiki/Oceanites_oceanicus) | Wilson's storm-petrel |
 | 0.0330 | [Ammodramus](https://en.wikipedia.org/wiki/Ammodramus) |  | 19100 | [Ammodramus savannarum](https://en.wikipedia.org/wiki/Ammodramus_savannarum) | Grasshopper Sparrow |
 | 0.0328 | [Hylocichla](https://en.wikipedia.org/wiki/Hylocichla)† | Wood Thrush | 82855 | [Hylocichla mustelina](https://en.wikipedia.org/wiki/Hylocichla_mustelina)† | Wood Thrush |
 | 0.0315 | [Calonectris](https://en.wikipedia.org/wiki/Calonectris) | Shearwater | 2816 | [Calonectris diomedea](https://en.wikipedia.org/wiki/Calonectris_diomedea) | Cory's shearwater |
 | 0.0304 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | 20992 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
-| 0.0303 | [Alle](https://en.wikipedia.org/wiki/Alle) |  | 1004 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
+| 0.0303 | [Alle](https://en.wikipedia.org/wiki/Alle) | Dovekie | 1004 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
 | 0.0283 | [Coccyzus](https://en.wikipedia.org/wiki/Coccyzus) | Cuckoo | 60125 | [Coccyzus americanus](https://en.wikipedia.org/wiki/Coccyzus_americanus) | Yellow-billed Cuckoo |
 
 
@@ -630,7 +633,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Maine (ME)
+### Top Genera for Maine  (ME)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -640,7 +643,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.1498 | [Alca](https://en.wikipedia.org/wiki/Alca) | Razorbill | 14447 | [Alca torda](https://en.wikipedia.org/wiki/Alca_torda) | Razorbill |
 | 0.1297 | [Oceanites](https://en.wikipedia.org/wiki/Oceanites) | Storm Petrel | 8358 | [Oceanites oceanicus](https://en.wikipedia.org/wiki/Oceanites_oceanicus) | Wilson's storm-petrel |
 | 0.1228 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax) | Cormorant | 18634 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
-| 0.0907 | [Hydrobates](https://en.wikipedia.org/wiki/Hydrobates) |  | 7558 | [Hydrobates leucorhous](https://en.wikipedia.org/wiki/Hydrobates_leucorhous) | Leach's storm-petrel |
+| 0.0907 | [Hydrobates](https://en.wikipedia.org/wiki/Hydrobates) | Storm Petrel | 7558 | [Hydrobates leucorhous](https://en.wikipedia.org/wiki/Hydrobates_leucorhous) | Leach's storm-petrel |
 | 0.0682 | [Morus](https://en.wikipedia.org/wiki/Gannet) | Gannet | 25405 | [Morus bassanus](https://en.wikipedia.org/wiki/Morus_bassanus) | Northern gannet |
 | 0.0479 | [Puffinus](https://en.wikipedia.org/wiki/Puffinus) | Shearwater | 2786 | [Puffinus puffinus](https://en.wikipedia.org/wiki/Puffinus_puffinus) | Manx shearwater |
 | 0.0463 | [Clangula](https://en.wikipedia.org/wiki/Clangula) |  | 34160 | [Clangula hyemalis](https://en.wikipedia.org/wiki/Clangula_hyemalis) | Long-tailed Duck |
@@ -650,7 +653,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Michigan (MI)
+### Top Genera for Michigan  (MI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -670,7 +673,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Minnesota (MN)
+### Top Genera for Minnesota  (MN)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -678,7 +681,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0791 | [Tympanuchus](https://en.wikipedia.org/wiki/Tympanuchus) | Prarie Chicken | 5462 | [Tympanuchus cupido](https://en.wikipedia.org/wiki/Tympanuchus_cupido) | Greater Prairie-Chicken |
 | 0.0582 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus)†* | Pheasant | 46603 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus)†* | Ring-necked Pheasant |
 | 0.0533 | [Oporornis](https://en.wikipedia.org/wiki/Oporornis) | Connecticut Warbler | 2176 | [Oporornis agilis](https://en.wikipedia.org/wiki/Oporornis_agilis) | Connecticut Warbler |
-| 0.0454 | [Picoides](https://en.wikipedia.org/wiki/Picoides) |  | 6040 | [Picoides arcticus](https://en.wikipedia.org/wiki/Picoides_arcticus) | Black-backed Woodpecker |
+| 0.0454 | [Picoides](https://en.wikipedia.org/wiki/Picoides) | Woodpecker | 6040 | [Picoides arcticus](https://en.wikipedia.org/wiki/Picoides_arcticus) | Black-backed Woodpecker |
 | 0.0397 | [Pinicola](https://en.wikipedia.org/wiki/Pinicola) |  | 13668 | [Pinicola enucleator](https://en.wikipedia.org/wiki/Pinicola_enucleator) | Pine Grosbeak |
 | 0.0371 | [Perisoreus](https://en.wikipedia.org/wiki/Perisoreus) |  | 14026 | [Perisoreus canadensis](https://en.wikipedia.org/wiki/Perisoreus_canadensis) | Canada Jay |
 | 0.0321 | [Acanthis](https://en.wikipedia.org/wiki/Redpoll) | Redpoll | 32330 | [Acanthis hornemanni](https://en.wikipedia.org/wiki/Acanthis_hornemanni) | Hoary Redpoll |
@@ -690,7 +693,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Missouri (MO)
+### Top Genera for Missouri  (MO)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -710,16 +713,16 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Mississippi (MS)
+### Top Genera for Mississippi  (MS)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0354 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 1697 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
-| 0.0305 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) |  | 3142 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
+| 0.0354 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 1697 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0305 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) | Tern | 3142 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
 | 0.0234 | [Rynchops](https://en.wikipedia.org/wiki/Rynchops) | Skimmer | 8333 | [Rynchops niger](https://en.wikipedia.org/wiki/Rynchops_niger) | Black Skimmer |
 | 0.0196 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | 8279 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
 | 0.0174 | [Thalasseus](https://en.wikipedia.org/wiki/Thalasseus) | Crested Tern | 17938 | [Thalasseus maximus](https://en.wikipedia.org/wiki/Thalasseus_maximus) | Royal Tern |
-| 0.0169 | [Sternula](https://en.wikipedia.org/wiki/Sternula) |  | 7879 | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
+| 0.0169 | [Sternula](https://en.wikipedia.org/wiki/Sternula) | Small Tern | 7879 | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
 | 0.0166 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | 5820 | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
 | 0.0107 | [Pelecanus](https://en.wikipedia.org/wiki/Pelecanus)† | Pelican | 30763 | [Pelecanus occidentalis](https://en.wikipedia.org/wiki/Pelecanus_occidentalis)† | Brown Pelican |
 | 0.0104 | [Rallus](https://en.wikipedia.org/wiki/Rallus) |  | 9571 | [Rallus crepitans](https://en.wikipedia.org/wiki/Rallus_crepitans) | Clapper Rail |
@@ -730,7 +733,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Montana (MT)
+### Top Genera for Montana  (MT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -750,7 +753,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for North Carolina (NC)
+### Top Genera for North Carolina  (NC)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -758,9 +761,9 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.2431 | [Calonectris](https://en.wikipedia.org/wiki/Calonectris) | Shearwater | 12415 | [Calonectris diomedea](https://en.wikipedia.org/wiki/Calonectris_diomedea) | Cory's shearwater |
 | 0.1737 | [Puffinus](https://en.wikipedia.org/wiki/Puffinus) | Shearwater | 8919 | [Puffinus lherminieri](https://en.wikipedia.org/wiki/Puffinus_lherminieri) | Audubon's shearwater |
 | 0.1226 | [Oceanites](https://en.wikipedia.org/wiki/Oceanites) | Storm Petrel | 8420 | [Oceanites oceanicus](https://en.wikipedia.org/wiki/Oceanites_oceanicus) | Wilson's storm-petrel |
-| 0.1059 | [Onychoprion](https://en.wikipedia.org/wiki/Onychoprion) |  | 3740 | [Onychoprion anaethetus](https://en.wikipedia.org/wiki/Onychoprion_anaethetus) | Bridled tern |
-| 0.0745 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 4154 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
-| 0.0570 | [Hydrobates](https://en.wikipedia.org/wiki/Hydrobates) |  | 5691 | [Hydrobates castro](https://en.wikipedia.org/wiki/Hydrobates_castro) | Band-rumped storm-petrel |
+| 0.1059 | [Onychoprion](https://en.wikipedia.org/wiki/Onychoprion) | Brown-back Tern | 3740 | [Onychoprion anaethetus](https://en.wikipedia.org/wiki/Onychoprion_anaethetus) | Bridled tern |
+| 0.0745 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 4154 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0570 | [Hydrobates](https://en.wikipedia.org/wiki/Hydrobates) | Storm Petrel | 5691 | [Hydrobates castro](https://en.wikipedia.org/wiki/Hydrobates_castro) | Band-rumped storm-petrel |
 | 0.0473 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | 484010 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus)† | Carolina Wren |
 | 0.0439 | [Vanellus](https://en.wikipedia.org/wiki/Vanellus)∀ |  | 132 | [Vanellus vanellus](https://en.wikipedia.org/wiki/Vanellus_vanellus)∀ | Northern Lapwing |
 | 0.0413 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | 22210 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
@@ -770,7 +773,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for North Dakota (ND)
+### Top Genera for North Dakota  (ND)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -780,7 +783,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0352 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus)†* | Pheasant | 24049 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus)†* | Ring-necked Pheasant |
 | 0.0326 | [Xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus) | Yellow-headed Blackbird | 18180 | [Xanthocephalus xanthocephalus](https://en.wikipedia.org/wiki/Xanthocephalus_xanthocephalus) | Yellow-headed Blackbird |
 | 0.0303 | [Chlidonias](https://en.wikipedia.org/wiki/Chlidonias) |  | 9608 | [Chlidonias niger](https://en.wikipedia.org/wiki/Chlidonias_niger) | Black Tern |
-| 0.0280 | [Coturnicops](https://en.wikipedia.org/wiki/Coturnicops) |  | 385 | [Coturnicops noveboracensis](https://en.wikipedia.org/wiki/Coturnicops_noveboracensis) | Yellow Rail |
+| 0.0280 | [Coturnicops](https://en.wikipedia.org/wiki/Coturnicops) | Rail | 385 | [Coturnicops noveboracensis](https://en.wikipedia.org/wiki/Coturnicops_noveboracensis) | Yellow Rail |
 | 0.0259 | [Calcarius](https://en.wikipedia.org/wiki/Calcarius) | Longspur | 6966 | [Calcarius ornatus](https://en.wikipedia.org/wiki/Calcarius_ornatus) | Chestnut-collared Longspur |
 | 0.0239 | [Calamospiza](https://en.wikipedia.org/wiki/Calamospiza)† | Lark Bunting | 2739 | [Calamospiza melanocorys](https://en.wikipedia.org/wiki/Calamospiza_melanocorys)† | Lark Bunting |
 | 0.0234 | [Ammodramus](https://en.wikipedia.org/wiki/Ammodramus) |  | 8173 | [Ammodramus savannarum](https://en.wikipedia.org/wiki/Ammodramus_savannarum) | Grasshopper Sparrow |
@@ -790,7 +793,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Nebraska (NE)
+### Top Genera for Nebraska  (NE)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -801,56 +804,56 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0257 | [Phasianus](https://en.wikipedia.org/wiki/Phasianus)†* | Pheasant | 18728 | [Phasianus colchicus](https://en.wikipedia.org/wiki/Phasianus_colchicus)†* | Ring-necked Pheasant |
 | 0.0238 | [Calamospiza](https://en.wikipedia.org/wiki/Calamospiza)† | Lark Bunting | 2834 | [Calamospiza melanocorys](https://en.wikipedia.org/wiki/Calamospiza_melanocorys)† | Lark Bunting |
 | 0.0232 | [Ammodramus](https://en.wikipedia.org/wiki/Ammodramus) |  | 8437 | [Ammodramus savannarum](https://en.wikipedia.org/wiki/Ammodramus_savannarum) | Grasshopper Sparrow |
-| 0.0195 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes) |  | 13158 | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
+| 0.0195 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes) | Lark Sparrow | 13158 | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
 | 0.0155 | [Sturnella](https://en.wikipedia.org/wiki/Sturnella)‡ | Meadowlark | 52365 | [Sturnella neglecta](https://en.wikipedia.org/wiki/Sturnella_neglecta)‡ | Western Meadowlark |
-| 0.0125 | [Rhodostethia](https://en.wikipedia.org/wiki/Rhodostethia) |  | 43 | [Rhodostethia rosea](https://en.wikipedia.org/wiki/Rhodostethia_rosea) | Ross's gull |
+| 0.0125 | [Rhodostethia](https://en.wikipedia.org/wiki/Rhodostethia) | Ross's gull | 43 | [Rhodostethia rosea](https://en.wikipedia.org/wiki/Rhodostethia_rosea) | Ross's gull |
 
 
 
 
 
 
-### Top Genera for New Hampshire (NH)
+### Top Genera for New Hampshire  (NH)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0251 | [Alle](https://en.wikipedia.org/wiki/Alle) |  | 546 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
+| 0.0251 | [Alle](https://en.wikipedia.org/wiki/Alle) | Dovekie | 546 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
 | 0.0226 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax) | Cormorant | 4048 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
 | 0.0205 | [Somateria](https://en.wikipedia.org/wiki/Somateria) | Eider | 16704 | [Somateria mollissima](https://en.wikipedia.org/wiki/Somateria_mollissima) | Common Eider |
 | 0.0178 | [Oceanites](https://en.wikipedia.org/wiki/Oceanites) | Storm Petrel | 1443 | [Oceanites oceanicus](https://en.wikipedia.org/wiki/Oceanites_oceanicus) | Wilson's storm-petrel |
 | 0.0135 | [Alca](https://en.wikipedia.org/wiki/Alca) | Razorbill | 1811 | [Alca torda](https://en.wikipedia.org/wiki/Alca_torda) | Razorbill |
 | 0.0135 | [Bonasa](https://en.wikipedia.org/wiki/Bonasa)† | Ruffed Grouse | 8834 | [Bonasa umbellus](https://en.wikipedia.org/wiki/Bonasa_umbellus)† | Ruffed Grouse |
 | 0.0134 | [Seiurus](https://en.wikipedia.org/wiki/Seiurus) | Ovenbird | 34197 | [Seiurus aurocapilla](https://en.wikipedia.org/wiki/Seiurus_aurocapilla) | Ovenbird |
-| 0.0121 | [Canachites](https://en.wikipedia.org/wiki/Canachites) |  | 675 | [Canachites canadensis](https://en.wikipedia.org/wiki/Canachites_canadensis) | Spruce Grouse |
+| 0.0121 | [Canachites](https://en.wikipedia.org/wiki/Canachites) | Fool Hen | 675 | [Canachites canadensis](https://en.wikipedia.org/wiki/Canachites_canadensis) | Spruce Grouse |
 | 0.0120 | [Scolopax](https://en.wikipedia.org/wiki/Scolopax) | Woodcock | 5077 | [Scolopax minor](https://en.wikipedia.org/wiki/Scolopax_minor) | American Woodcock |
-| 0.0091 | [Picoides](https://en.wikipedia.org/wiki/Picoides) |  | 1578 | [Picoides arcticus](https://en.wikipedia.org/wiki/Picoides_arcticus) | Black-backed Woodpecker |
+| 0.0091 | [Picoides](https://en.wikipedia.org/wiki/Picoides) | Woodpecker | 1578 | [Picoides arcticus](https://en.wikipedia.org/wiki/Picoides_arcticus) | Black-backed Woodpecker |
 
 
 
 
 
 
-### Top Genera for New Jersey (NJ)
+### Top Genera for New Jersey  (NJ)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.2425 | [Vanellus](https://en.wikipedia.org/wiki/Vanellus)∀ |  | 552 | [Vanellus vanellus](https://en.wikipedia.org/wiki/Vanellus_vanellus)∀ | Northern Lapwing |
 | 0.1155 | [Haematopus](https://en.wikipedia.org/wiki/Haematopus) | Oystercatcher | 68430 | [Haematopus palliatus](https://en.wikipedia.org/wiki/Haematopus_palliatus) | American Oystercatcher |
 | 0.1034 | [Rynchops](https://en.wikipedia.org/wiki/Rynchops) | Skimmer | 40882 | [Rynchops niger](https://en.wikipedia.org/wiki/Rynchops_niger) | Black Skimmer |
-| 0.0979 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) |  | 11666 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
-| 0.0950 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) |  | 32951 | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
-| 0.0931 | [Alle](https://en.wikipedia.org/wiki/Alle) |  | 2087 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
+| 0.0979 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) | Tern | 11666 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
+| 0.0950 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) | Sparrow | 32951 | [Ammospiza maritima](https://en.wikipedia.org/wiki/Ammospiza_maritima) | Seaside Sparrow |
+| 0.0931 | [Alle](https://en.wikipedia.org/wiki/Alle) | Dovekie | 2087 | [Alle alle](https://en.wikipedia.org/wiki/Alle_alle) | Dovekie |
 | 0.0906 | [Morus](https://en.wikipedia.org/wiki/Gannet) | Gannet | 37469 | [Morus bassanus](https://en.wikipedia.org/wiki/Morus_bassanus) | Northern gannet |
-| 0.0731 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) |  | 181 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
+| 0.0731 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) | Petrel | 181 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
 | 0.0710 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax) | Cormorant | 13721 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
-| 0.0686 | [Sternula](https://en.wikipedia.org/wiki/Sternula) |  | 37555 | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
+| 0.0686 | [Sternula](https://en.wikipedia.org/wiki/Sternula) | Small Tern | 37555 | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
 
 
 
 
 
 
-### Top Genera for New Mexico (NM)
+### Top Genera for New Mexico  (NM)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -870,7 +873,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Nevada (NV)
+### Top Genera for Nevada  (NV)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -890,19 +893,19 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for New York (NY)
+### Top Genera for New York  (NY)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.2969 | [Carduelis](https://en.wikipedia.org/wiki/Carduelis)* | Goldfinch | 1971 | [Carduelis carduelis](https://en.wikipedia.org/wiki/Carduelis_carduelis)* | European Goldfinch |
-| 0.1048 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) |  | 286 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
+| 0.1048 | [Pelagodroma](https://en.wikipedia.org/wiki/Pelagodroma) | Petrel | 286 | [Pelagodroma marina](https://en.wikipedia.org/wiki/Pelagodroma_marina) | White-faced storm-petrel |
 | 0.0683 | [Vermivora](https://en.wikipedia.org/wiki/Vermivora) | Warbler | 61677 | [Vermivora cyanoptera](https://en.wikipedia.org/wiki/Vermivora_cyanoptera) | Blue-winged Warbler |
 | 0.0656 | [Phalacrocorax](https://en.wikipedia.org/wiki/Phalacrocorax) | Cormorant | 16757 | [Phalacrocorax carbo](https://en.wikipedia.org/wiki/Phalacrocorax_carbo) | Great Cormorant |
 | 0.0648 | [Clangula](https://en.wikipedia.org/wiki/Clangula) |  | 69918 | [Clangula hyemalis](https://en.wikipedia.org/wiki/Clangula_hyemalis) | Long-tailed Duck |
 | 0.0578 | [Haematopus](https://en.wikipedia.org/wiki/Haematopus) | Oystercatcher | 54113 | [Haematopus palliatus](https://en.wikipedia.org/wiki/Haematopus_palliatus) | American Oystercatcher |
 | 0.0548 | [Hylocichla](https://en.wikipedia.org/wiki/Hylocichla)† | Wood Thrush | 150414 | [Hylocichla mustelina](https://en.wikipedia.org/wiki/Hylocichla_mustelina)† | Wood Thrush |
 | 0.0527 | [Myiopsitta](https://en.wikipedia.org/wiki/Myiopsitta)* |  | 13166 | [Myiopsitta monachus](https://en.wikipedia.org/wiki/Myiopsitta_monachus)* | Monk Parakeet |
-| 0.0517 | [Rhodostethia](https://en.wikipedia.org/wiki/Rhodostethia) |  | 281 | [Rhodostethia rosea](https://en.wikipedia.org/wiki/Rhodostethia_rosea) | Ross's gull |
+| 0.0517 | [Rhodostethia](https://en.wikipedia.org/wiki/Rhodostethia) | Ross's gull | 281 | [Rhodostethia rosea](https://en.wikipedia.org/wiki/Rhodostethia_rosea) | Ross's gull |
 | 0.0510 | [Dumetella](https://en.wikipedia.org/wiki/Dumetella) | Gray Catbird | 598555 | [Dumetella carolinensis](https://en.wikipedia.org/wiki/Dumetella_carolinensis) | Gray Catbird |
 
 
@@ -910,7 +913,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Ohio (OH)
+### Top Genera for Ohio  (OH)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -930,7 +933,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Oklahoma (OK)
+### Top Genera for Oklahoma  (OK)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -939,7 +942,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0295 | [Spiza](https://en.wikipedia.org/wiki/Spiza) | Dickcissel | 14500 | [Spiza americana](https://en.wikipedia.org/wiki/Spiza_americana) | Dickcissel |
 | 0.0249 | [Bartramia](https://en.wikipedia.org/wiki/Bartramia_(bird)) | Upland Sandpiper | 3825 | [Bartramia longicauda](https://en.wikipedia.org/wiki/Bartramia_longicauda) | Upland Sandpiper |
 | 0.0242 | [Colinus](https://en.wikipedia.org/wiki/Colinus) | Bobwhite | 9753 | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
-| 0.0229 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes) |  | 15360 | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
+| 0.0229 | [Chondestes](https://en.wikipedia.org/wiki/Chondestes) | Lark Sparrow | 15360 | [Chondestes grammacus](https://en.wikipedia.org/wiki/Chondestes_grammacus) | Lark Sparrow |
 | 0.0119 | [Geococcyx](https://en.wikipedia.org/wiki/Geococcyx)† | Roadrunner | 5124 | [Geococcyx californianus](https://en.wikipedia.org/wiki/Geococcyx_californianus)† | Greater Roadrunner |
 | 0.0115 | [Tyrannus](https://en.wikipedia.org/wiki/Tyrannus)‡ | Kingbird/Flycatcher | 70179 | [Tyrannus forficatus](https://en.wikipedia.org/wiki/Tyrannus_forficatus)‡ | Scissor-tailed Flycatcher |
 | 0.0111 | [Aimophila](https://en.wikipedia.org/wiki/Aimophila) |  | 2308 | [Aimophila ruficeps](https://en.wikipedia.org/wiki/Aimophila_ruficeps) | Rufous-crowned Sparrow |
@@ -950,11 +953,11 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Oregon (OR)
+### Top Genera for Oregon  (OR)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.4317 | [Oreortyx](https://en.wikipedia.org/wiki/Oreortyx) |  | 8746 | [Oreortyx pictus](https://en.wikipedia.org/wiki/Oreortyx_pictus) | Mountain Quail |
+| 0.4317 | [Oreortyx](https://en.wikipedia.org/wiki/Oreortyx) | Mountain Quail | 8746 | [Oreortyx pictus](https://en.wikipedia.org/wiki/Oreortyx_pictus) | Mountain Quail |
 | 0.3604 | [Chamaea](https://en.wikipedia.org/wiki/Chamaea) | Wrentit | 38911 | [Chamaea fasciata](https://en.wikipedia.org/wiki/Chamaea_fasciata) | Wrentit |
 | 0.2881 | [Aphelocoma](https://en.wikipedia.org/wiki/Aphelocoma) | Scrub Jay | 374161 | [Aphelocoma californica](https://en.wikipedia.org/wiki/Aphelocoma_californica) | California Scrub-Jay |
 | 0.2327 | [Ptychoramphus](https://en.wikipedia.org/wiki/Ptychoramphus) |  | 6098 | [Ptychoramphus aleuticus](https://en.wikipedia.org/wiki/Ptychoramphus_aleuticus) | Cassin's auklet |
@@ -970,7 +973,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Pennsylvania (PA)
+### Top Genera for Pennsylvania  (PA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -979,7 +982,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0401 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | 557667 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus)† | Carolina Wren |
 | 0.0370 | [Seiurus](https://en.wikipedia.org/wiki/Seiurus) | Ovenbird | 127243 | [Seiurus aurocapilla](https://en.wikipedia.org/wiki/Seiurus_aurocapilla) | Ovenbird |
 | 0.0368 | [Baeolophus](https://en.wikipedia.org/wiki/Baeolophus) | Titmouse | 620147 | [Baeolophus bicolor](https://en.wikipedia.org/wiki/Baeolophus_bicolor) | Tufted Titmouse |
-| 0.0282 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | 14138 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| 0.0282 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) | Warbler | 14138 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
 | 0.0256 | [Chaetura](https://en.wikipedia.org/wiki/Chaetura) | Swift | 169324 | [Chaetura pelagica](https://en.wikipedia.org/wiki/Chaetura_pelagica) | Chimney Swift |
 | 0.0227 | [Sialia](https://en.wikipedia.org/wiki/Sialia)† | Bluebird | 323557 | [Sialia sialis](https://en.wikipedia.org/wiki/Sialia_sialis)† | Eastern Bluebird |
 | 0.0218 | [Cardinalis](https://en.wikipedia.org/wiki/Cardinalis)† | Cardinal | 947363 | [Cardinalis cardinalis](https://en.wikipedia.org/wiki/Cardinalis_cardinalis)† | Northern Cardinal |
@@ -990,7 +993,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Rhode Island (RI)
+### Top Genera for Rhode Island  (RI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -999,8 +1002,8 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0167 | [Histrionicus](https://en.wikipedia.org/wiki/Histrionicus) |  | 4628 | [Histrionicus histrionicus](https://en.wikipedia.org/wiki/Histrionicus_histrionicus) | Harlequin Duck |
 | 0.0163 | [Calonectris](https://en.wikipedia.org/wiki/Calonectris) | Shearwater | 907 | [Calonectris diomedea](https://en.wikipedia.org/wiki/Calonectris_diomedea) | Cory's shearwater |
 | 0.0138 | [Alca](https://en.wikipedia.org/wiki/Alca) | Razorbill | 1489 | [Alca torda](https://en.wikipedia.org/wiki/Alca_torda) | Razorbill |
-| 0.0122 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) |  | 4026 | [Ammospiza caudacuta](https://en.wikipedia.org/wiki/Ammospiza_caudacuta) | Saltmarsh Sparrow |
-| 0.0118 | [Sternula](https://en.wikipedia.org/wiki/Sternula) |  | 5667 | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
+| 0.0122 | [Ammospiza](https://en.wikipedia.org/wiki/Ammospiza) | Sparrow | 4026 | [Ammospiza caudacuta](https://en.wikipedia.org/wiki/Ammospiza_caudacuta) | Saltmarsh Sparrow |
+| 0.0118 | [Sternula](https://en.wikipedia.org/wiki/Sternula) | Small Tern | 5667 | [Sternula antillarum](https://en.wikipedia.org/wiki/Sternula_antillarum) | Least Tern |
 | 0.0109 | [Melanitta](https://en.wikipedia.org/wiki/Melanitta) | Scoter | 20964 | [Melanitta americana](https://en.wikipedia.org/wiki/Melanitta_americana) | Black Scoter |
 | 0.0102 | [Oceanites](https://en.wikipedia.org/wiki/Oceanites) | Storm Petrel | 771 | [Oceanites oceanicus](https://en.wikipedia.org/wiki/Oceanites_oceanicus) | Wilson's storm-petrel |
 | 0.0100 | [Morus](https://en.wikipedia.org/wiki/Gannet) | Gannet | 4047 | [Morus bassanus](https://en.wikipedia.org/wiki/Morus_bassanus) | Northern gannet |
@@ -1010,19 +1013,19 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for South Carolina (SC)
+### Top Genera for South Carolina  (SC)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0871 | [Mycteria](https://en.wikipedia.org/wiki/Mycteria) | Stork | 40234 | [Mycteria americana](https://en.wikipedia.org/wiki/Mycteria_americana) | Wood Stork |
-| 0.0598 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 3114 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0598 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 3114 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
 | 0.0587 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | 20288 | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
 | 0.0552 | [Anhinga](https://en.wikipedia.org/wiki/Anhinga) | Darter | 52941 | [Anhinga anhinga](https://en.wikipedia.org/wiki/Anhinga_anhinga) | Anhinga |
 | 0.0383 | [Rynchops](https://en.wikipedia.org/wiki/Rynchops) | Skimmer | 15485 | [Rynchops niger](https://en.wikipedia.org/wiki/Rynchops_niger) | Black Skimmer |
 | 0.0377 | [Rallus](https://en.wikipedia.org/wiki/Rallus) |  | 33849 | [Rallus crepitans](https://en.wikipedia.org/wiki/Rallus_crepitans) | Clapper Rail |
-| 0.0369 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) |  | 4480 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
+| 0.0369 | [Gelochelidon](https://en.wikipedia.org/wiki/Gelochelidon) | Tern | 4480 | [Gelochelidon nilotica](https://en.wikipedia.org/wiki/Gelochelidon_nilotica) | Gull-billed Tern |
 | 0.0359 | [Egretta](https://en.wikipedia.org/wiki/Egretta) | Egret | 195795 | [Egretta tricolor](https://en.wikipedia.org/wiki/Egretta_tricolor) | Tricolored Heron |
-| 0.0350 | [Elanoides](https://en.wikipedia.org/wiki/Elanoides) |  | 6901 | [Elanoides forficatus](https://en.wikipedia.org/wiki/Elanoides_forficatus) | Swallow-tailed Kite |
+| 0.0350 | [Elanoides](https://en.wikipedia.org/wiki/Elanoides) | Swallow-tailed Kite | 6901 | [Elanoides forficatus](https://en.wikipedia.org/wiki/Elanoides_forficatus) | Swallow-tailed Kite |
 | 0.0335 | [Thalasseus](https://en.wikipedia.org/wiki/Thalasseus) | Crested Tern | 38639 | [Thalasseus maximus](https://en.wikipedia.org/wiki/Thalasseus_maximus) | Royal Tern |
 
 
@@ -1030,7 +1033,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for South Dakota (SD)
+### Top Genera for South Dakota  (SD)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1050,16 +1053,16 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Tennessee (TN)
+### Top Genera for Tennessee  (TN)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0424 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 2385 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0424 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 2385 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
 | 0.0352 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | 16980 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
 | 0.0295 | [Icteria](https://en.wikipedia.org/wiki/Icteria) | Yellow-breasted Chat | 22678 | [Icteria virens](https://en.wikipedia.org/wiki/Icteria_virens) | Yellow-breasted Chat |
 | 0.0252 | [Colinus](https://en.wikipedia.org/wiki/Colinus) | Bobwhite | 12762 | [Colinus virginianus](https://en.wikipedia.org/wiki/Colinus_virginianus) | Northern Bobwhite |
 | 0.0249 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | 264394 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus)† | Carolina Wren |
-| 0.0246 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | 7863 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| 0.0246 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) | Warbler | 7863 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
 | 0.0218 | [Sialia](https://en.wikipedia.org/wiki/Sialia)† | Bluebird | 181103 | [Sialia sialis](https://en.wikipedia.org/wiki/Sialia_sialis)† | Eastern Bluebird |
 | 0.0197 | [Ictinia](https://en.wikipedia.org/wiki/Ictinia) | Mississippi Kite | 9261 | [Ictinia mississippiensis](https://en.wikipedia.org/wiki/Ictinia_mississippiensis) | Mississippi Kite |
 | 0.0196 | [Mimus](https://en.wikipedia.org/wiki/Mimus)‡ | Mockingbird | 199634 | [Mimus polyglottos](https://en.wikipedia.org/wiki/Mimus_polyglottos)‡ | Northern Mockingbird |
@@ -1070,11 +1073,11 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Texas (TX)
+### Top Genera for Texas  (TX)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.8345 | [Geranoaetus](https://en.wikipedia.org/wiki/Geranoaetus) |  | 54492 | [Geranoaetus albicaudatus](https://en.wikipedia.org/wiki/Geranoaetus_albicaudatus) | White-tailed Hawk |
+| 0.8345 | [Geranoaetus](https://en.wikipedia.org/wiki/Geranoaetus) | Hawk | 54492 | [Geranoaetus albicaudatus](https://en.wikipedia.org/wiki/Geranoaetus_albicaudatus) | White-tailed Hawk |
 | 0.7275 | [Arremonops](https://en.wikipedia.org/wiki/Arremonops) |  | 82550 | [Arremonops rufivirgatus](https://en.wikipedia.org/wiki/Arremonops_rufivirgatus) | Olive Sparrow |
 | 0.6729 | [Caracara](https://en.wikipedia.org/wiki/Caracara_(genus)) | Caracara | 249608 | [Caracara plancus](https://en.wikipedia.org/wiki/Caracara_plancus) | Crested Caracara |
 | 0.6548 | [Nyctidromus](https://en.wikipedia.org/wiki/Nyctidromus) |  | 31129 | [Nyctidromus albicollis](https://en.wikipedia.org/wiki/Nyctidromus_albicollis) | Common Pauraque |
@@ -1090,13 +1093,13 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Utah (UT)
+### Top Genera for Utah  (UT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.1930 | [Alectoris](https://en.wikipedia.org/wiki/Alectoris)* | Rock Partridge | 7064 | [Alectoris chukar](https://en.wikipedia.org/wiki/Alectoris_chukar)* | Chukar |
-| 0.1868 | [Psiloscops](https://en.wikipedia.org/wiki/Psiloscops) |  | 2119 | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
-| 0.1671 | [Gymnogyps](https://en.wikipedia.org/wiki/Gymnogyps) |  | 1515 | [Gymnogyps californianus](https://en.wikipedia.org/wiki/Gymnogyps_californianus) | California Condor |
+| 0.1868 | [Psiloscops](https://en.wikipedia.org/wiki/Psiloscops) | Flammulated owl | 2119 | [Psiloscops flammeolus](https://en.wikipedia.org/wiki/Psiloscops_flammeolus) | Flammulated Owl |
+| 0.1671 | [Gymnogyps](https://en.wikipedia.org/wiki/Gymnogyps) | California condor | 1515 | [Gymnogyps californianus](https://en.wikipedia.org/wiki/Gymnogyps_californianus) | California Condor |
 | 0.1244 | [Gymnorhinus](https://en.wikipedia.org/wiki/Gymnorhinus) | Pinyon Jay | 7974 | [Gymnorhinus cyanocephalus](https://en.wikipedia.org/wiki/Gymnorhinus_cyanocephalus) | Pinyon Jay |
 | 0.1187 | [Centrocercus](https://en.wikipedia.org/wiki/Centrocercus) | Sage-grouse | 1455 | [Centrocercus urophasianus](https://en.wikipedia.org/wiki/Centrocercus_urophasianus) | Greater Sage-Grouse |
 | 0.0968 | [Oreoscoptes](https://en.wikipedia.org/wiki/Oreoscoptes) | Sage Thrasher | 9559 | [Oreoscoptes montanus](https://en.wikipedia.org/wiki/Oreoscoptes_montanus) | Sage Thrasher |
@@ -1110,11 +1113,11 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Virginia (VA)
+### Top Genera for Virginia  (VA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0570 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | 18144 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| 0.0570 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) | Warbler | 18144 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
 | 0.0559 | [Thryothorus](https://en.wikipedia.org/wiki/Thryothorus)† | Carolina Wren | 597727 | [Thryothorus ludovicianus](https://en.wikipedia.org/wiki/Thryothorus_ludovicianus)† | Carolina Wren |
 | 0.0414 | [Coragyps](https://en.wikipedia.org/wiki/Coragyps) | Black Vulture | 174913 | [Coragyps atratus](https://en.wikipedia.org/wiki/Coragyps_atratus) | Black Vulture |
 | 0.0385 | [Protonotaria](https://en.wikipedia.org/wiki/Protonotaria) | Prothonotary warbler | 23888 | [Protonotaria citrea](https://en.wikipedia.org/wiki/Protonotaria_citrea) | Prothonotary Warbler |
@@ -1130,14 +1133,14 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Vermont (VT)
+### Top Genera for Vermont  (VT)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
 | 0.0297 | [Bonasa](https://en.wikipedia.org/wiki/Bonasa)† | Ruffed Grouse | 16963 | [Bonasa umbellus](https://en.wikipedia.org/wiki/Bonasa_umbellus)† | Ruffed Grouse |
 | 0.0243 | [Seiurus](https://en.wikipedia.org/wiki/Seiurus) | Ovenbird | 56705 | [Seiurus aurocapilla](https://en.wikipedia.org/wiki/Seiurus_aurocapilla) | Ovenbird |
 | 0.0216 | [Dolichonyx](https://en.wikipedia.org/wiki/Dolichonyx) |  | 18269 | [Dolichonyx oryzivorus](https://en.wikipedia.org/wiki/Dolichonyx_oryzivorus) | Bobolink |
-| 0.0198 | [Canachites](https://en.wikipedia.org/wiki/Canachites) |  | 1039 | [Canachites canadensis](https://en.wikipedia.org/wiki/Canachites_canadensis) | Spruce Grouse |
+| 0.0198 | [Canachites](https://en.wikipedia.org/wiki/Canachites) | Fool Hen | 1039 | [Canachites canadensis](https://en.wikipedia.org/wiki/Canachites_canadensis) | Spruce Grouse |
 | 0.0180 | [Scolopax](https://en.wikipedia.org/wiki/Scolopax) | Woodcock | 7351 | [Scolopax minor](https://en.wikipedia.org/wiki/Scolopax_minor) | American Woodcock |
 | 0.0152 | [Spizelloides](https://en.wikipedia.org/wiki/Spizelloides) | Winter Sparrow | 34849 | [Spizelloides arborea](https://en.wikipedia.org/wiki/Spizelloides_arborea) | American Tree Sparrow |
 | 0.0144 | [Acanthis](https://en.wikipedia.org/wiki/Redpoll) | Redpoll | 16066 | [Acanthis flammea](https://en.wikipedia.org/wiki/Acanthis_flammea) | Common Redpoll |
@@ -1150,7 +1153,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Washington (WA)
+### Top Genera for Washington  (WA)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1162,7 +1165,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.2227 | [Cepphus](https://en.wikipedia.org/wiki/Cepphus) | Guillemot | 92260 | [Cepphus columba](https://en.wikipedia.org/wiki/Cepphus_columba) | Pigeon Guillemot |
 | 0.2225 | [Brachyramphus](https://en.wikipedia.org/wiki/Brachyramphus) |  | 23655 | [Brachyramphus marmoratus](https://en.wikipedia.org/wiki/Brachyramphus_marmoratus) | Marbled Murrelet |
 | 0.2003 | [Phoebastria](https://en.wikipedia.org/wiki/Phoebastria) |  | 8337 | [Phoebastria nigripes](https://en.wikipedia.org/wiki/Phoebastria_nigripes) | Black-footed albatross |
-| 0.1925 | [Cypseloides](https://en.wikipedia.org/wiki/Cypseloides) |  | 5354 | [Cypseloides niger](https://en.wikipedia.org/wiki/Cypseloides_niger) | Black Swift |
+| 0.1925 | [Cypseloides](https://en.wikipedia.org/wiki/Cypseloides) | Swift | 5354 | [Cypseloides niger](https://en.wikipedia.org/wiki/Cypseloides_niger) | Black Swift |
 | 0.1891 | [Calypte](https://en.wikipedia.org/wiki/Calypte) | Hummingbird | 331274 | [Calypte anna](https://en.wikipedia.org/wiki/Calypte_anna) | Anna's Hummingbird |
 
 
@@ -1170,7 +1173,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Wisconsin (WI)
+### Top Genera for Wisconsin  (WI)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1190,12 +1193,12 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for West Virginia (WV)
+### Top Genera for West Virginia  (WV)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
-| 0.0157 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) |  | 850 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
-| 0.0128 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) |  | 3533 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
+| 0.0157 | [Limnothlypis](https://en.wikipedia.org/wiki/Limnothlypis) | Swainson's warbler | 850 | [Limnothlypis swainsonii](https://en.wikipedia.org/wiki/Limnothlypis_swainsonii) | Swainson's Warbler |
+| 0.0128 | [Helmitheros](https://en.wikipedia.org/wiki/Helmitheros) | Warbler | 3533 | [Helmitheros vermivorum](https://en.wikipedia.org/wiki/Helmitheros_vermivorum) | Worm-eating Warbler |
 | 0.0110 | [Hylocichla](https://en.wikipedia.org/wiki/Hylocichla)† | Wood Thrush | 20027 | [Hylocichla mustelina](https://en.wikipedia.org/wiki/Hylocichla_mustelina)† | Wood Thrush |
 | 0.0079 | [Dryocopus](https://en.wikipedia.org/wiki/Dryocopus) | Woodpecker | 37014 | [Dryocopus pileatus](https://en.wikipedia.org/wiki/Dryocopus_pileatus) | Pileated Woodpecker |
 | 0.0061 | [Coccyzus](https://en.wikipedia.org/wiki/Coccyzus) | Cuckoo | 10480 | [Coccyzus americanus](https://en.wikipedia.org/wiki/Coccyzus_americanus) | Yellow-billed Cuckoo |
@@ -1210,7 +1213,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Genera for Wyoming (WY)
+### Top Genera for Wyoming  (WY)
 
 | Score | Bird | Common Name | Count | Example Species | Common Name |
 |---|---|---|---|---|---|
@@ -1236,7 +1239,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 ## Scores for Bird Species by State
 
-### Top Species for Alaska (AK)
+### Top Species for Alaska  (AK)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1256,7 +1259,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Alabama (AL)
+### Top Species for Alabama  (AL)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1276,7 +1279,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Arkansas (AR)
+### Top Species for Arkansas  (AR)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1296,7 +1299,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Arizona (AZ)
+### Top Species for Arizona  (AZ)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1316,7 +1319,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for California (CA)
+### Top Species for California  (CA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1336,7 +1339,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Colorado (CO)
+### Top Species for Colorado  (CO)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1356,7 +1359,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Connecticut (CT)
+### Top Species for Connecticut  (CT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1376,7 +1379,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for District of Columbia (DC)
+### Top Species for District of Columbia  (DC)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1396,7 +1399,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Delaware (DE)
+### Top Species for Delaware  (DE)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1416,7 +1419,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Florida (FL)
+### Top Species for Florida  (FL)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1436,7 +1439,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Georgia (GA)
+### Top Species for Georgia  (GA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1456,7 +1459,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Hawaii (HI)
+### Top Species for Hawaii  (HI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1476,7 +1479,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Iowa (IA)
+### Top Species for Iowa  (IA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1496,7 +1499,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Idaho (ID)
+### Top Species for Idaho  (ID)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1516,7 +1519,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Illinois (IL)
+### Top Species for Illinois  (IL)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1536,7 +1539,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Indiana (IN)
+### Top Species for Indiana  (IN)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1556,7 +1559,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Kansas (KS)
+### Top Species for Kansas  (KS)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1576,7 +1579,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Kentucky (KY)
+### Top Species for Kentucky  (KY)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1596,7 +1599,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Louisiana (LA)
+### Top Species for Louisiana  (LA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1616,7 +1619,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Massachusetts (MA)
+### Top Species for Massachusetts  (MA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1636,7 +1639,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Maryland (MD)
+### Top Species for Maryland  (MD)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1656,7 +1659,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Maine (ME)
+### Top Species for Maine  (ME)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1676,7 +1679,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Michigan (MI)
+### Top Species for Michigan  (MI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1696,7 +1699,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Minnesota (MN)
+### Top Species for Minnesota  (MN)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1716,7 +1719,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Missouri (MO)
+### Top Species for Missouri  (MO)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1736,7 +1739,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Mississippi (MS)
+### Top Species for Mississippi  (MS)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1756,7 +1759,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Montana (MT)
+### Top Species for Montana  (MT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1776,7 +1779,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for North Carolina (NC)
+### Top Species for North Carolina  (NC)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1796,7 +1799,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for North Dakota (ND)
+### Top Species for North Dakota  (ND)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1816,7 +1819,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Nebraska (NE)
+### Top Species for Nebraska  (NE)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1836,7 +1839,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for New Hampshire (NH)
+### Top Species for New Hampshire  (NH)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1856,7 +1859,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for New Jersey (NJ)
+### Top Species for New Jersey  (NJ)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1876,7 +1879,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for New Mexico (NM)
+### Top Species for New Mexico  (NM)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1896,7 +1899,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Nevada (NV)
+### Top Species for Nevada  (NV)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1916,7 +1919,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for New York (NY)
+### Top Species for New York  (NY)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1936,7 +1939,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Ohio (OH)
+### Top Species for Ohio  (OH)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1956,7 +1959,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Oklahoma (OK)
+### Top Species for Oklahoma  (OK)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1976,7 +1979,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Oregon (OR)
+### Top Species for Oregon  (OR)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -1996,7 +1999,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Pennsylvania (PA)
+### Top Species for Pennsylvania  (PA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2016,7 +2019,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Rhode Island (RI)
+### Top Species for Rhode Island  (RI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2036,7 +2039,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for South Carolina (SC)
+### Top Species for South Carolina  (SC)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2056,7 +2059,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for South Dakota (SD)
+### Top Species for South Dakota  (SD)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2076,7 +2079,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Tennessee (TN)
+### Top Species for Tennessee  (TN)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2096,7 +2099,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Texas (TX)
+### Top Species for Texas  (TX)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2116,7 +2119,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Utah (UT)
+### Top Species for Utah  (UT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2136,7 +2139,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Virginia (VA)
+### Top Species for Virginia  (VA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2156,7 +2159,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Vermont (VT)
+### Top Species for Vermont  (VT)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2176,7 +2179,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Washington (WA)
+### Top Species for Washington  (WA)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2196,7 +2199,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Wisconsin (WI)
+### Top Species for Wisconsin  (WI)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2216,7 +2219,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for West Virginia (WV)
+### Top Species for West Virginia  (WV)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2236,7 +2239,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 
 
 
-### Top Species for Wyoming (WY)
+### Top Species for Wyoming  (WY)
 
 | Score | Bird | Common Name | Count |
 |---|---|---|---|
@@ -2250,6 +2253,7 @@ And in the northeast, there's a [stable population of Monk Parakeets](https://ww
 | 0.0525 | [Artemisiospiza nevadensis](https://en.wikipedia.org/wiki/Artemisiospiza_nevadensis) | Sagebrush Sparrow | 1788 |
 | 0.0524 | [Leucosticte tephrocotis](https://en.wikipedia.org/wiki/Leucosticte_tephrocotis) | Gray-crowned Rosy-Finch | 2596 |
 | 0.0499 | [Leucosticte sp.](https://en.wikipedia.org/wiki/Leucosticte) |  | 133 |
+
 
 
 
