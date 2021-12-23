@@ -15,3 +15,9 @@ nav_exclude: false
 
 [TensorFlow Playground](https://playground.tensorflow.org/)
 : Interactive visualization of an Neural Network as it learns.
+
+
+[North American Environmental Atlas](http://www.cec.org/north-american-environmental-atlas/)
+: Cec is NAFTA's environmental org. They have lots of interesting maps of the North American Environment.
+
+
