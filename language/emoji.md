@@ -19,6 +19,12 @@ For this page to display properly, you'll need to install the following font fil
 td:nth-child(2) {
   font-family: Noto Color Emoji;
 }
+td:nth-child(3) {
+  font-family: Twitter Color Emoji SVGinOT;
+}
+td:nth-child(3) {
+  font-family: OpenMoji-Color;
+}
 </style>
 
 ### face-affection
