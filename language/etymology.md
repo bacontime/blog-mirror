@@ -1,5 +1,6 @@
 ---
 title: Interesting Etymologies
+parent: Language
 ---
 
 
