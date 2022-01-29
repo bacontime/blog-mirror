@@ -25,7 +25,7 @@ td:nth-child(2) {
   padding: 0px;
 }
 td:nth-child(3) {
-  font-family: Twitter Color Emoji SVGinOT;
+  font-family: Twitter Color Emoji;
   font-size: 72px;
   padding: 0px;
 }
