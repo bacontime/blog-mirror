@@ -16,20 +16,23 @@ For this page to display properly, you'll need to install the following font fil
 ## Tables of Emojis
 
 <style>
+td {
+    vertical-align: middle;
+}
 td:nth-child(2) {
   font-family: Noto Color Emoji;
   font-size: 72px;
-  line-height: 0px;
+  padding: 0px;
 }
 td:nth-child(3) {
   font-family: Twitter Color Emoji SVGinOT;
   font-size: 72px;
-  line-height: 0px;
+  padding: 0px;
 }
 td:nth-child(4) {
   font-family: OpenMoji;
   font-size: 72px;
-  line-height: 0px;
+  padding: 0px;
 }
 </style>
 
