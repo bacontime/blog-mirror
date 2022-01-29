@@ -22,7 +22,7 @@ td:nth-child(2) {
 td:nth-child(3) {
   font-family: Twitter Color Emoji SVGinOT;
 }
-td:nth-child(3) {
+td:nth-child(4) {
   font-family: OpenMoji-Color;
 }
 </style>
