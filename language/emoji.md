@@ -29,6 +29,7 @@ td:nth-child(3) {
 
 ### face-affection
 
+
 | name | Twitter | Noto | Your Machine |
 |:-----|:-------:|:----:|:--:|
 | melting face | &#x1F60A; | &#x1F60A; | &#x1F60A; |
@@ -41,6 +42,8 @@ td:nth-child(3) {
 
 
 ### face-smiling
+
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | grinning face | 😀 | 😀 | 😀 |
@@ -58,6 +61,7 @@ td:nth-child(3) {
 | smiling face with halo | 😇 | 😇 | 😇 |
 
 ### face-affection
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | smiling face with hearts | 🥰 | 🥰 | 🥰 |
@@ -71,6 +75,7 @@ td:nth-child(3) {
 | smiling face with tear | 🥲 | 🥲 | 🥲 |
 
 ### face-tongue
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | face savoring food | 😋 | 😋 | 😋 |
@@ -81,6 +86,7 @@ td:nth-child(3) {
 | money-mouth face | 🤑 | 🤑 | 🤑 |
 
 ### face-hand
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | hugging face | 🤗 | 🤗 | 🤗 |
@@ -89,6 +95,7 @@ td:nth-child(3) {
 | thinking face | 🤔 | 🤔 | 🤔 |
 
 ### face-neutral-skeptical
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | zipper-mouth face | 🤐 | 🤐 | 🤐 |
@@ -105,6 +112,7 @@ td:nth-child(3) {
 | lying face | 🤥 | 🤥 | 🤥 |
 
 ### face-sleepy
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | relieved face | 😌 | 😌 | 😌 |
@@ -114,6 +122,7 @@ td:nth-child(3) {
 | sleeping face | 😴 | 😴 | 😴 |
 
 ### face-unwell
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | face with medical mask | 😷 | 😷 | 😷 |
@@ -130,6 +139,7 @@ td:nth-child(3) {
 | exploding head | 🤯 | 🤯 | 🤯 |
 
 ### face-hat
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | cowboy hat face | 🤠 | 🤠 | 🤠 |
@@ -137,6 +147,7 @@ td:nth-child(3) {
 | disguised face | 🥸 | 🥸 | 🥸 |
 
 ### face-glasses
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | smiling face with sunglasses | 😎 | 😎 | 😎 |
@@ -144,6 +155,7 @@ td:nth-child(3) {
 | face with monocle | 🧐 | 🧐 | 🧐 |
 
 ### face-concerned
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | confused face | 😕 | 😕 | 😕 |
@@ -172,6 +184,7 @@ td:nth-child(3) {
 | yawning face | 🥱 | 🥱 | 🥱 |
 
 ### face-negative
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | face with steam from nose | 😤 | 😤 | 😤 |
@@ -184,6 +197,7 @@ td:nth-child(3) {
 | skull and crossbones | ☠️ | ☠️ | ☠️ |
 
 ### face-costume
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | pile of poo | 💩 | 💩 | 💩 |
@@ -196,6 +210,7 @@ td:nth-child(3) {
 | robot | 🤖 | 🤖 | 🤖 |
 
 ### cat-face
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | grinning cat | 😺 | 😺 | 😺 |
@@ -209,6 +224,7 @@ td:nth-child(3) {
 | pouting cat | 😾 | 😾 | 😾 |
 
 ### monkey-face
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | see-no-evil monkey | 🙈 | 🙈 | 🙈 |
@@ -216,6 +232,7 @@ td:nth-child(3) {
 | speak-no-evil monkey | 🙊 | 🙊 | 🙊 |
 
 ### emotion
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | kiss mark | 💋 | 💋 | 💋 |
@@ -257,6 +274,7 @@ td:nth-child(3) {
 | zzz | 💤 | 💤 | 💤 |
 
 ### hand-fingers-open
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | waving hand | 👋 | 👋 | 👋 |
@@ -266,6 +284,7 @@ td:nth-child(3) {
 | vulcan salute | 🖖 | 🖖 | 🖖 |
 
 ### hand-fingers-partial
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | OK hand | 👌 | 👌 | 👌 |
@@ -278,6 +297,7 @@ td:nth-child(3) {
 | call me hand | 🤙 | 🤙 | 🤙 |
 
 ### hand-single-finger
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | backhand index pointing left | 👈 | 👈 | 👈 |
@@ -288,6 +308,7 @@ td:nth-child(3) {
 | index pointing up | ☝️ | ☝️ | ☝️ |
 
 ### hand-fingers-closed
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | thumbs up | 👍 | 👍 | 👍 |
@@ -298,6 +319,7 @@ td:nth-child(3) {
 | right-facing fist | 🤜 | 🤜 | 🤜 |
 
 ### hands
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | clapping hands | 👏 | 👏 | 👏 |
@@ -308,6 +330,7 @@ td:nth-child(3) {
 | folded hands | 🙏 | 🙏 | 🙏 |
 
 ### hand-prop
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | writing hand | ✍️ | ✍️ | ✍️ |
@@ -315,6 +338,7 @@ td:nth-child(3) {
 | selfie | 🤳 | 🤳 | 🤳 |
 
 ### body-parts
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | flexed biceps | 💪 | 💪 | 💪 |
@@ -336,6 +360,7 @@ td:nth-child(3) {
 | mouth | 👄 | 👄 | 👄 |
 
 ### person
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | baby | 👶 | 👶 | 👶 |
@@ -368,6 +393,7 @@ td:nth-child(3) {
 | old woman | 👵 | 👵 | 👵 |
 
 ### person-gesture
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | person frowning | 🙍 | 🙍 | 🙍 |
@@ -402,6 +428,7 @@ td:nth-child(3) {
 | woman shrugging | 🤷‍♀️ | 🤷‍♀️ | 🤷‍♀️ |
 
 ### person-role
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | health worker | 🧑‍⚕️ | 🧑‍⚕️ | 🧑‍⚕️ |
@@ -485,6 +512,7 @@ td:nth-child(3) {
 | person feeding baby | 🧑‍🍼 | 🧑‍🍼 | 🧑‍🍼 |
 
 ### person-fantasy
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | baby angel | 👼 | 👼 | 👼 |
@@ -520,6 +548,7 @@ td:nth-child(3) {
 | woman zombie | 🧟‍♀️ | 🧟‍♀️ | 🧟‍♀️ |
 
 ### person-activity
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | person getting massage | 💆 | 💆 | 💆 |
@@ -563,6 +592,7 @@ td:nth-child(3) {
 | woman climbing | 🧗‍♀️ | 🧗‍♀️ | 🧗‍♀️ |
 
 ### person-sport
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | person fencing | 🤺 | 🤺 | 🤺 |
@@ -610,6 +640,7 @@ td:nth-child(3) {
 | woman juggling | 🤹‍♀️ | 🤹‍♀️ | 🤹‍♀️ |
 
 ### person-resting
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | person in lotus position | 🧘 | 🧘 | 🧘 |
@@ -619,6 +650,7 @@ td:nth-child(3) {
 | person in bed | 🛌 | 🛌 | 🛌 |
 
 ### family
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | people holding hands | 🧑‍🤝‍🧑 | 🧑‍🤝‍🧑 | 🧑‍🤝‍🧑 |
@@ -661,6 +693,7 @@ td:nth-child(3) {
 | family: woman, girl, girl | 👩‍👧‍👧 | 👩‍👧‍👧 | 👩‍👧‍👧 |
 
 ### person-symbol
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | speaking head | 🗣️ | 🗣️ | 🗣️ |
@@ -670,6 +703,7 @@ td:nth-child(3) {
 | footprints | 👣 | 👣 | 👣 |
 
 ### animal-mammal
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | monkey face | 🐵 | 🐵 | 🐵 |
@@ -738,6 +772,7 @@ td:nth-child(3) {
 | paw prints | 🐾 | 🐾 | 🐾 |
 
 ### animal-bird
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | turkey | 🦃 | 🦃 | 🦃 |
@@ -760,11 +795,13 @@ td:nth-child(3) {
 | parrot | 🦜 | 🦜 | 🦜 |
 
 ### animal-amphibian
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | frog | 🐸 | 🐸 | 🐸 |
 
 ### animal-reptile
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | crocodile | 🐊 | 🐊 | 🐊 |
@@ -777,6 +814,7 @@ td:nth-child(3) {
 | T-Rex | 🦖 | 🦖 | 🦖 |
 
 ### animal-marine
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | spouting whale | 🐳 | 🐳 | 🐳 |
@@ -791,6 +829,7 @@ td:nth-child(3) {
 | spiral shell | 🐚 | 🐚 | 🐚 |
 
 ### animal-bug
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | snail | 🐌 | 🐌 | 🐌 |
@@ -811,6 +850,7 @@ td:nth-child(3) {
 | microbe | 🦠 | 🦠 | 🦠 |
 
 ### plant-flower
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | bouquet | 💐 | 💐 | 💐 |
@@ -825,6 +865,7 @@ td:nth-child(3) {
 | tulip | 🌷 | 🌷 | 🌷 |
 
 ### plant-other
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | seedling | 🌱 | 🌱 | 🌱 |
@@ -842,6 +883,7 @@ td:nth-child(3) {
 | leaf fluttering in wind | 🍃 | 🍃 | 🍃 |
 
 ### food-fruit
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | grapes | 🍇 | 🍇 | 🍇 |
@@ -865,6 +907,7 @@ td:nth-child(3) {
 | coconut | 🥥 | 🥥 | 🥥 |
 
 ### food-vegetable
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | avocado | 🥑 | 🥑 | 🥑 |
@@ -884,6 +927,7 @@ td:nth-child(3) {
 | chestnut | 🌰 | 🌰 | 🌰 |
 
 ### food-prepared
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | bread | 🍞 | 🍞 | 🍞 |
@@ -922,6 +966,7 @@ td:nth-child(3) {
 | canned food | 🥫 | 🥫 | 🥫 |
 
 ### food-asian
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | bento box | 🍱 | 🍱 | 🍱 |
@@ -943,6 +988,7 @@ td:nth-child(3) {
 | takeout box | 🥡 | 🥡 | 🥡 |
 
 ### food-marine
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | crab | 🦀 | 🦀 | 🦀 |
@@ -952,6 +998,7 @@ td:nth-child(3) {
 | oyster | 🦪 | 🦪 | 🦪 |
 
 ### food-sweet
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | soft ice cream | 🍦 | 🍦 | 🍦 |
@@ -970,6 +1017,7 @@ td:nth-child(3) {
 | honey pot | 🍯 | 🍯 | 🍯 |
 
 ### drink
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | baby bottle | 🍼 | 🍼 | 🍼 |
@@ -993,6 +1041,7 @@ td:nth-child(3) {
 | ice | 🧊 | 🧊 | 🧊 |
 
 ### dishware
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | chopsticks | 🥢 | 🥢 | 🥢 |
@@ -1003,6 +1052,7 @@ td:nth-child(3) {
 | amphora | 🏺 | 🏺 | 🏺 |
 
 ### place-map
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | globe showing Europe-Africa | 🌍 | 🌍 | 🌍 |
@@ -1014,6 +1064,7 @@ td:nth-child(3) {
 | compass | 🧭 | 🧭 | 🧭 |
 
 ### place-geographic
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | snow-capped mountain | 🏔️ | 🏔️ | 🏔️ |
@@ -1027,6 +1078,7 @@ td:nth-child(3) {
 | national park | 🏞️ | 🏞️ | 🏞️ |
 
 ### place-building
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | stadium | 🏟️ | 🏟️ | 🏟️ |
@@ -1058,6 +1110,7 @@ td:nth-child(3) {
 | Statue of Liberty | 🗽 | 🗽 | 🗽 |
 
 ### place-religious
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | church | ⛪ | ⛪ | ⛪ |
@@ -1068,6 +1121,7 @@ td:nth-child(3) {
 | kaaba | 🕋 | 🕋 | 🕋 |
 
 ### place-other
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | fountain | ⛲ | ⛲ | ⛲ |
@@ -1088,6 +1142,7 @@ td:nth-child(3) {
 | circus tent | 🎪 | 🎪 | 🎪 |
 
 ### transport-ground
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | locomotive | 🚂 | 🚂 | 🚂 |
@@ -1141,6 +1196,7 @@ td:nth-child(3) {
 | construction | 🚧 | 🚧 | 🚧 |
 
 ### transport-water
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | anchor | ⚓ | ⚓ | ⚓ |
@@ -1153,6 +1209,7 @@ td:nth-child(3) {
 | ship | 🚢 | 🚢 | 🚢 |
 
 ### transport-air
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | airplane | ✈️ | ✈️ | ✈️ |
@@ -1170,12 +1227,14 @@ td:nth-child(3) {
 | flying saucer | 🛸 | 🛸 | 🛸 |
 
 ### hotel
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | bellhop bell | 🛎️ | 🛎️ | 🛎️ |
 | luggage | 🧳 | 🧳 | 🧳 |
 
 ### time
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | hourglass done | ⌛ | ⌛ | ⌛ |
@@ -1211,6 +1270,7 @@ td:nth-child(3) {
 | eleven-thirty | 🕦 | 🕦 | 🕦 |
 
 ### sky & weather
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | new moon | 🌑 | 🌑 | 🌑 |
@@ -1262,6 +1322,7 @@ td:nth-child(3) {
 | water wave | 🌊 | 🌊 | 🌊 |
 
 ### event
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | jack-o-lantern | 🎃 | 🎃 | 🎃 |
@@ -1287,6 +1348,7 @@ td:nth-child(3) {
 | ticket | 🎫 | 🎫 | 🎫 |
 
 ### award-medal
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | military medal | 🎖️ | 🎖️ | 🎖️ |
@@ -1297,6 +1359,7 @@ td:nth-child(3) {
 | rd place medal | 🥉 | 🥉 | 🥉 |
 
 ### sport
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | soccer ball | ⚽ | ⚽ | ⚽ |
@@ -1328,6 +1391,7 @@ td:nth-child(3) {
 | curling stone | 🥌 | 🥌 | 🥌 |
 
 ### game
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | bullseye | 🎯 | 🎯 | 🎯 |
@@ -1355,6 +1419,7 @@ td:nth-child(3) {
 | flower playing cards | 🎴 | 🎴 | 🎴 |
 
 ### arts & crafts
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | performing arts | 🎭 | 🎭 | 🎭 |
@@ -1366,6 +1431,7 @@ td:nth-child(3) {
 | knot | 🪢 | 🪢 | 🪢 |
 
 ### clothing
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | glasses | 👓 | 👓 | 👓 |
@@ -1415,6 +1481,7 @@ td:nth-child(3) {
 | gem stone | 💎 | 💎 | 💎 |
 
 ### sound
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | muted speaker | 🔇 | 🔇 | 🔇 |
@@ -1428,6 +1495,7 @@ td:nth-child(3) {
 | bell with slash | 🔕 | 🔕 | 🔕 |
 
 ### music
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | musical score | 🎼 | 🎼 | 🎼 |
@@ -1441,6 +1509,7 @@ td:nth-child(3) {
 | radio | 📻 | 📻 | 📻 |
 
 ### musical-instrument
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | saxophone | 🎷 | 🎷 | 🎷 |
@@ -1454,6 +1523,7 @@ td:nth-child(3) {
 | long drum | 🪘 | 🪘 | 🪘 |
 
 ### phone
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | mobile phone | 📱 | 📱 | 📱 |
@@ -1464,6 +1534,7 @@ td:nth-child(3) {
 | fax machine | 📠 | 📠 | 📠 |
 
 ### computer
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | battery | 🔋 | 🔋 | 🔋 |
@@ -1481,6 +1552,7 @@ td:nth-child(3) {
 | abacus | 🧮 | 🧮 | 🧮 |
 
 ### light & video
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | movie camera | 🎥 | 🎥 | 🎥 |
@@ -1501,6 +1573,7 @@ td:nth-child(3) {
 | diya lamp | 🪔 | 🪔 | 🪔 |
 
 ### book-paper
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | notebook with decorative cover | 📔 | 📔 | 📔 |
@@ -1522,6 +1595,7 @@ td:nth-child(3) {
 | label | 🏷️ | 🏷️ | 🏷️ |
 
 ### money
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | money bag | 💰 | 💰 | 💰 |
@@ -1536,6 +1610,7 @@ td:nth-child(3) {
 | chart increasing with yen | 💹 | 💹 | 💹 |
 
 ### mail
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | envelope | ✉️ | ✉️ | ✉️ |
@@ -1553,6 +1628,7 @@ td:nth-child(3) {
 | ballot box with ballot | 🗳️ | 🗳️ | 🗳️ |
 
 ### writing
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | pencil | ✏️ | ✏️ | ✏️ |
@@ -1564,6 +1640,7 @@ td:nth-child(3) {
 | memo | 📝 | 📝 | 📝 |
 
 ### office
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | briefcase | 💼 | 💼 | 💼 |
@@ -1591,6 +1668,7 @@ td:nth-child(3) {
 | wastebasket | 🗑️ | 🗑️ | 🗑️ |
 
 ### lock
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | locked | 🔒 | 🔒 | 🔒 |
@@ -1601,6 +1679,7 @@ td:nth-child(3) {
 | old key | 🗝️ | 🗝️ | 🗝️ |
 
 ### tool
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | hammer | 🔨 | 🔨 | 🔨 |
@@ -1630,6 +1709,7 @@ td:nth-child(3) {
 | ladder | 🪜 | 🪜 | 🪜 |
 
 ### science
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | alembic | ⚗️ | ⚗️ | ⚗️ |
@@ -1641,6 +1721,7 @@ td:nth-child(3) {
 | satellite antenna | 📡 | 📡 | 📡 |
 
 ### medical
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | syringe | 💉 | 💉 | 💉 |
@@ -1650,6 +1731,7 @@ td:nth-child(3) {
 | stethoscope | 🩺 | 🩺 | 🩺 |
 
 ### household
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | door | 🚪 | 🚪 | 🚪 |
@@ -1678,6 +1760,7 @@ td:nth-child(3) {
 | shopping cart | 🛒 | 🛒 | 🛒 |
 
 ### other-object
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | cigarette | 🚬 | 🚬 | 🚬 |
@@ -1688,6 +1771,7 @@ td:nth-child(3) {
 | placard | 🪧 | 🪧 | 🪧 |
 
 ### transport-sign
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | ATM sign | 🏧 | 🏧 | 🏧 |
@@ -1705,6 +1789,7 @@ td:nth-child(3) {
 | left luggage | 🛅 | 🛅 | 🛅 |
 
 ### warning
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | warning | ⚠️ | ⚠️ | ⚠️ |
@@ -1722,6 +1807,7 @@ td:nth-child(3) {
 | biohazard | ☣️ | ☣️ | ☣️ |
 
 ### arrow
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | up arrow | ⬆️ | ⬆️ | ⬆️ |
@@ -1747,6 +1833,7 @@ td:nth-child(3) {
 | TOP arrow | 🔝 | 🔝 | 🔝 |
 
 ### religion
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | place of worship | 🛐 | 🛐 | 🛐 |
@@ -1763,6 +1850,7 @@ td:nth-child(3) {
 | dotted six-pointed star | 🔯 | 🔯 | 🔯 |
 
 ### zodiac
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | Aries | ♈ | ♈ | ♈ |
@@ -1780,6 +1868,7 @@ td:nth-child(3) {
 | Ophiuchus | ⛎ | ⛎ | ⛎ |
 
 ### av-symbol
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | shuffle tracks button | 🔀 | 🔀 | 🔀 |
@@ -1808,6 +1897,7 @@ td:nth-child(3) {
 | mobile phone off | 📴 | 📴 | 📴 |
 
 ### gender
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | female sign | ♀️ | ♀️ | ♀️ |
@@ -1815,6 +1905,7 @@ td:nth-child(3) {
 | transgender symbol | ⚧️ | ⚧️ | ⚧️ |
 
 ### math
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | multiply | ✖️ | ✖️ | ✖️ |
@@ -1824,6 +1915,7 @@ td:nth-child(3) {
 | infinity | ♾️ | ♾️ | ♾️ |
 
 ### punctuation
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | double exclamation mark | ‼️ | ‼️ | ‼️ |
@@ -1835,18 +1927,21 @@ td:nth-child(3) {
 | wavy dash | 〰️ | 〰️ | 〰️ |
 
 ### currency
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | currency exchange | 💱 | 💱 | 💱 |
 | heavy dollar sign | 💲 | 💲 | 💲 |
 
 ### other-symbol
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | medical symbol | ⚕️ | ⚕️ | ⚕️ |
 | recycling symbol | ♻️ | ♻️ | ♻️ |
 | fleur-de-lis | ⚜️ | ⚜️ | ⚜️ |
 | trident emblem | 🔱 | 🔱 | 🔱 |
+
 | name badge | 📛 | 📛 | 📛 |
 | Japanese symbol for beginner | 🔰 | 🔰 | 🔰 |
 | hollow red circle | ⭕ | ⭕ | ⭕ |
@@ -1866,6 +1961,7 @@ td:nth-child(3) {
 | trade mark | ™️ | ™️ | ™️ |
 
 ### keycap
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | keycap: # | #️⃣ | #️⃣ | #️⃣ |
@@ -1883,6 +1979,7 @@ td:nth-child(3) {
 | keycap: 10 | 🔟 | 🔟 | 🔟 |
 
 ### alphanum
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | input latin uppercase | 🔠 | 🔠 | 🔠 |
@@ -1926,6 +2023,7 @@ td:nth-child(3) {
 | Japanese “no vacancy” button | 🈵 | 🈵 | 🈵 |
 
 ### geometric
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | red circle | 🔴 | 🔴 | 🔴 |
@@ -1964,6 +2062,7 @@ td:nth-child(3) {
 | black square button | 🔲 | 🔲 | 🔲 |
 
 ### flag
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | chequered flag | 🏁 | 🏁 | 🏁 |
@@ -1976,6 +2075,7 @@ td:nth-child(3) {
 | pirate flag | 🏴‍☠️ | 🏴‍☠️ | 🏴‍☠️ |
 
 ### country-flag
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | flag: Ascension Island | 🇦🇨 | 🇦🇨 | 🇦🇨 |
@@ -2238,6 +2338,7 @@ td:nth-child(3) {
 | flag: Zimbabwe | 🇿🇼 | 🇿🇼 | 🇿🇼 |
 
 ### subdivision-flag
+
 | name | Tw | No | df |
 |:--|:-:|:-:|:-:|
 | flag: England | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 | 🏴󠁧󠁢󠁥󠁮󠁧󠁿 |
