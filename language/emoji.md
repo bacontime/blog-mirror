@@ -65,7 +65,6 @@ td:nth-child(5) {
   font-family: 'Noto Color Emoji';
   font-size: 72px;
   padding: 0px;
-  background: blue;
 }
 </style>
 
