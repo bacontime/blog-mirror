@@ -9,8 +9,8 @@ parent: Unicode Characters
 
 For this page to display properly, you'll need to install the following font files:
 - [Twitter Color Emoji SVGinOT Font](https://github.com/eosrei/twemoji-color-font/releases)
-- [Google's Noto Color Emoji Font](https://github.com/googlefonts/noto-emoji/tree/main/fonts)
-
+- [Google's Noto Color Emoji Font](https://github.com/googlefonts/noto-emoji/tree/main/fonts) (this one might only work on Windows 10)
+- [A version of the OpenMoji font from here.](https://github.com/mavit/openmoji/tree/nanoemoji/font)
 
 <!--https://github.com/hfg-gmuend/openmoji/pull/260-->
 <!--https://github.com/mavit/openmoji/tree/nanoemoji/font-->
