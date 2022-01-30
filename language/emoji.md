@@ -23,6 +23,9 @@ https://color.typekit.com/
 https://stackoverflow.com/questions/43828750/how-to-use-google-noto-color-emoji-front-from-cdn-via-css
 https://bugzilla.mozilla.org/show_bug.cgi?id=1454152
 
+Catmoji replaces all the twemoji smilies with cats.
+https://github.com/catmoji/catmoji-colr
+
 
 
 td:nth-child(2) {
@@ -49,42 +52,57 @@ td {
     vertical-align: middle;
 }
 @font-face {
-  font-family: 'Noto SVG';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/notosvg/NotoEmoji.otf);
+  font-family: 'Adobe EmojiOne';
+  src: url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneColor.woff2);
+}
+td:nth-child(2) {
+  font-family: 'Adobe EmojiOne';
+  font-size: 64px;
+  padding: 0px;
 }
 @font-face {
-  font-family: 'My Noto Color Emoji';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/noto/NotoColorEmoji.ttf);
+  font-family: 'Twemoji';
+  src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/TwemojiMozilla.woff);
+}
+td:nth-child(3) {
+  font-family: 'Twemoji';
+  font-size: 64px;
+  padding: 0px;
+}
+@font-face {
+  font-family: 'Noto SVG';
+  src: url(https://www.rmwinslow.com/posts/language/fonts/notosvg/NotoColorEmoji-SVG.woff);
 }
 td:nth-child(4) {
   font-family: 'Noto SVG';
   font-size: 64px;
   padding: 0px;
 }
+@font-face {
+  font-family: 'My Noto Color Emoji';
+  src: url(https://www.rmwinslow.com/posts/language/fonts/noto/NotoColorEmoji.ttf);
+}
 td:nth-child(5) {
   font-family: 'My Noto Color Emoji';
   font-size: 64px;
   padding: 0px;
 }
+@font-face {
+  font-family: 'catrinitytest';
+  src: url(https://www.rmwinslow.com/posts/language/fonts/catrinity/Catrinity.ttf);
+}
 </style>
 
-<td style="text-align: center;font-size: 72px;line-height: 0px;letter-spacing: 0.034em;font-weight: 100;font-style: normal;">😊</td>
-
-### face-affection
 
 
-| name | GN | Tw | OM |
-|:-----|:-------:|:----:|:--:|
-| melting face | &#x1F60A; | &#x1F60A; | &#x1F60A; |
-| melting face | hello | hello | &#x1F60A; |
-| melting face | &#x1F60A; | &#x1F60A; | &#x1F60A; |
-| melting face | &#x1F60A; | &#x1F60A; | &#x1F60A; |
-
-
-
-
-
-
+<div class='catrinitytest'>
+🃠 🃡 🃢 🃣 
+🃤 🃥 🃦 🃧 
+🃨 🃩 🃪 🃫 
+🃬 🃭 🃮 🃯 
+🃰 🃱 🃲 🃳 
+🃴 🃵
+</div>
 
 
 ### face-smiling
