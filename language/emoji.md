@@ -50,20 +50,20 @@ td {
 }
 @font-face {
   font-family: 'Noto SVG';
-  src: url(/fonts/notosvg/NotoColorEmoji-SVG.woff2) format('woff2');
+  src: url(https://www.rmwinslow.com/posts/language/fonts/notosvg/NotoEmoji.otf);
 }
 @font-face {
-  font-family: 'Noto Color Emoji';
-  src: url(/fonts/noto/NotoColorEmoji_WindowsCompatible.ttf) format('ttf');
+  font-family: 'My Noto Color Emoji';
+  src: url(https://www.rmwinslow.com/posts/language/fonts/noto/NotoColorEmoji.ttf);
 }
 td:nth-child(4) {
   font-family: 'Noto SVG';
-  font-size: 72px;
+  font-size: 64px;
   padding: 0px;
 }
 td:nth-child(5) {
-  font-family: 'Noto Color Emoji';
-  font-size: 72px;
+  font-family: 'My Noto Color Emoji';
+  font-size: 64px;
   padding: 0px;
 }
 </style>
