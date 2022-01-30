@@ -20,6 +20,7 @@ https://github.com/mavit/openmoji/tree/nanoemoji/font
 https://github.com/C1710/blobmoji
 https://helpx.adobe.com/fonts/using/ot-svg-color-fonts.html
 https://color.typekit.com/
+https://stackoverflow.com/questions/43828750/how-to-use-google-noto-color-emoji-front-from-cdn-via-css
 -->
 
 ## Tables of Emojis
