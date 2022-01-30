@@ -21,19 +21,10 @@ https://github.com/C1710/blobmoji
 https://helpx.adobe.com/fonts/using/ot-svg-color-fonts.html
 https://color.typekit.com/
 https://stackoverflow.com/questions/43828750/how-to-use-google-noto-color-emoji-front-from-cdn-via-css
--->
+https://bugzilla.mozilla.org/show_bug.cgi?id=1454152
 
-## Tables of Emojis
 
-<style>
-td {
-    vertical-align: middle;
-}
-@font-face {
-  font-family: 'thisisatest';
-  src: url(https://raw.githack.com/googlefonts/noto-emoji/main/fonts/NotoColorEmoji.ttf);
-}
-}
+
 td:nth-child(2) {
   font-family: EmojiOne Color;
   font-size: 72px;
@@ -49,8 +40,29 @@ td:nth-child(4) {
   font-size: 72px;
   padding: 0px;
 }
+-->
+
+## Tables of Emojis
+
+<style>
+td {
+    vertical-align: middle;
+}
+@font-face {
+  font-family: 'Noto SVG';
+  src: url(/fonts/notosvg/NotoColorEmoji-SVG.woff2) format('woff2');
+}
+@font-face {
+  font-family: 'Noto Color Emoji';
+  src: url(/fonts/noto/NotoColorEmoji_WindowsCompatible.ttf) format('ttf');
+}
+td:nth-child(4) {
+  font-family: 'Noto SVG';
+  font-size: 72px;
+  padding: 0px;
+}
 td:nth-child(5) {
-  font-family: thisisatest;
+  font-family: 'Noto Color Emoji';
   font-size: 72px;
   padding: 0px;
   background: blue;
