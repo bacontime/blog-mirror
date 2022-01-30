@@ -12,6 +12,8 @@ For this page to display properly, you'll need to install the following font fil
 - [Google's Noto Color Emoji Font](https://github.com/googlefonts/noto-emoji/tree/main/fonts)
 
 
+<!--https://github.com/hfg-gmuend/openmoji/pull/260-->
+<!--https://github.com/mavit/openmoji/tree/nanoemoji/font-->
 
 ## Tables of Emojis
 
@@ -30,7 +32,7 @@ td:nth-child(3) {
   padding: 0px;
 }
 td:nth-child(4) {
-  font-family: OpenMoji;
+  font-family: OpenMoji Color;
   font-size: 72px;
   padding: 0px;
 }
@@ -47,13 +49,6 @@ td:nth-child(4) {
 | melting face | hello | hello | &#x1F60A; |
 | melting face | &#x1F60A; | &#x1F60A; | &#x1F60A; |
 | melting face | &#x1F60A; | &#x1F60A; | &#x1F60A; |
-
-
-
-
-
-
-
 
 
 
@@ -131,12 +126,10 @@ td:nth-child(4) {
 | neutral face | &#x1F610; | &#x1F610; | &#x1F610; |
 | expressionless face | &#x1F611; | &#x1F611; | &#x1F611; |
 | face without mouth | &#x1F636; | &#x1F636; | &#x1F636; |
-| face in clouds | &#x1F636;&#x200D;&#x1F32B;&#xFE0F; | &#x1F636;&#x200D;&#x1F32B;&#xFE0F; | &#x1F636;&#x200D;&#x1F32B;&#xFE0F; |
 | smirking face | &#x1F60F; | &#x1F60F; | &#x1F60F; |
 | unamused face | &#x1F612; | &#x1F612; | &#x1F612; |
 | face with rolling eyes | &#x1F644; | &#x1F644; | &#x1F644; |
 | grimacing face | &#x1F62C; | &#x1F62C; | &#x1F62C; |
-| face exhaling | &#x1F62E;&#x200D;&#x1F4A8; | &#x1F62E;&#x200D;&#x1F4A8; | &#x1F62E;&#x200D;&#x1F4A8; |
 | lying face | &#x1F925; | &#x1F925; | &#x1F925; |
 
 ### face-sleepy
@@ -162,8 +155,7 @@ td:nth-child(4) {
 | hot face | &#x1F975; | &#x1F975; | &#x1F975; |
 | cold face | &#x1F976; | &#x1F976; | &#x1F976; |
 | woozy face | &#x1F974; | &#x1F974; | &#x1F974; |
-| knocked-out face | &#x1F635; | &#x1F635; | &#x1F635; |
-| face with spiral eyes | &#x1F635;&#x200D;&#x1F4AB; | &#x1F635;&#x200D;&#x1F4AB; | &#x1F635;&#x200D;&#x1F4AB; |
+| dizzy face | &#x1F635; | &#x1F635; | &#x1F635; |
 | exploding head | &#x1F92F; | &#x1F92F; | &#x1F92F; |
 
 ### face-hat
@@ -275,8 +267,6 @@ td:nth-child(4) {
 | heart decoration | &#x1F49F; | &#x1F49F; | &#x1F49F; |
 | heart exclamation | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; |
 | broken heart | &#x1F494; | &#x1F494; | &#x1F494; |
-| heart on fire | &#x2764;&#xFE0F;&#x200D;&#x1F525; | &#x2764;&#xFE0F;&#x200D;&#x1F525; | &#x2764;&#xFE0F;&#x200D;&#x1F525; |
-| mending heart | &#x2764;&#xFE0F;&#x200D;&#x1FA79; | &#x2764;&#xFE0F;&#x200D;&#x1FA79; | &#x2764;&#xFE0F;&#x200D;&#x1FA79; |
 | red heart | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; |
 | orange heart | &#x1F9E1; | &#x1F9E1; | &#x1F9E1; |
 | yellow heart | &#x1F49B; | &#x1F49B; | &#x1F49B; |
@@ -398,9 +388,7 @@ td:nth-child(4) {
 | person | &#x1F9D1; | &#x1F9D1; | &#x1F9D1; |
 | person: blond hair | &#x1F471; | &#x1F471; | &#x1F471; |
 | man | &#x1F468; | &#x1F468; | &#x1F468; |
-| person: beard | &#x1F9D4; | &#x1F9D4; | &#x1F9D4; |
-| man: beard | &#x1F9D4;&#x200D;&#x2642;&#xFE0F; | &#x1F9D4;&#x200D;&#x2642;&#xFE0F; | &#x1F9D4;&#x200D;&#x2642;&#xFE0F; |
-| woman: beard | &#x1F9D4;&#x200D;&#x2640;&#xFE0F; | &#x1F9D4;&#x200D;&#x2640;&#xFE0F; | &#x1F9D4;&#x200D;&#x2640;&#xFE0F; |
+| man: beard | &#x1F9D4; | &#x1F9D4; | &#x1F9D4; |
 | man: red hair | &#x1F468;&#x200D;&#x1F9B0; | &#x1F468;&#x200D;&#x1F9B0; | &#x1F468;&#x200D;&#x1F9B0; |
 | man: curly hair | &#x1F468;&#x200D;&#x1F9B1; | &#x1F468;&#x200D;&#x1F9B1; | &#x1F468;&#x200D;&#x1F9B1; |
 | man: white hair | &#x1F468;&#x200D;&#x1F9B3; | &#x1F468;&#x200D;&#x1F9B3; | &#x1F468;&#x200D;&#x1F9B3; |
@@ -1422,7 +1410,7 @@ td:nth-child(4) {
 
 | name | GN | Tw | OM |
 |:--|:-:|:-:|:-:|
-| bullseye | &#x1F3AF; | &#x1F3AF; | &#x1F3AF; |
+| direct hit | &#x1F3AF; | &#x1F3AF; | &#x1F3AF; |
 | yo-yo | &#x1FA80; | &#x1FA80; | &#x1FA80; |
 | kite | &#x1FA81; | &#x1FA81; | &#x1FA81; |
 | pool 8 ball | &#x1F3B1; | &#x1F3B1; | &#x1F3B1; |
@@ -1717,7 +1705,7 @@ td:nth-child(4) {
 | hammer and wrench | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; |
 | dagger | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; |
 | crossed swords | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; |
-| water pistol | &#x1F52B; | &#x1F52B; | &#x1F52B; |
+| pistol | &#x1F52B; | &#x1F52B; | &#x1F52B; |
 | boomerang | &#x1FA83; | &#x1FA83; | &#x1FA83; |
 | bow and arrow | &#x1F3F9; | &#x1F3F9; | &#x1F3F9; |
 | shield | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; |
@@ -1948,10 +1936,10 @@ td:nth-child(4) {
 |:--|:-:|:-:|:-:|
 | double exclamation mark | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; |
 | exclamation question mark | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; |
-| red question mark | &#x2753; | &#x2753; | &#x2753; |
+| question mark | &#x2753; | &#x2753; | &#x2753; |
 | white question mark | &#x2754; | &#x2754; | &#x2754; |
 | white exclamation mark | &#x2755; | &#x2755; | &#x2755; |
-| red exclamation mark | &#x2757; | &#x2757; | &#x2757; |
+| exclamation mark | &#x2757; | &#x2757; | &#x2757; |
 | wavy dash | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; |
 
 ### currency
@@ -2371,5 +2359,3 @@ td:nth-child(4) {
 | flag: England | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; |
 | flag: Scotland | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; |
 | flag: Wales | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; |
-
-
