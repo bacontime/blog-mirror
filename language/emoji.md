@@ -11,9 +11,14 @@ For this page to display properly, you'll need to install the following font fil
 - [Twitter Color Emoji SVGinOT Font](https://github.com/eosrei/twemoji-color-font/releases)
 - [Google's Noto Color Emoji Font](https://github.com/googlefonts/noto-emoji/tree/main/fonts) (this one might only work on Windows 10)
 - [A version of the OpenMoji font from here.](https://github.com/mavit/openmoji/tree/nanoemoji/font)
+- [Blobmoji?](https://github.com/C1710/blobmoji)
 
-<!--https://github.com/hfg-gmuend/openmoji/pull/260-->
-<!--https://github.com/mavit/openmoji/tree/nanoemoji/font-->
+
+<!--
+https://github.com/hfg-gmuend/openmoji/pull/260
+https://github.com/mavit/openmoji/tree/nanoemoji/font
+https://github.com/C1710/blobmoji
+-->
 
 ## Tables of Emojis
 
@@ -38,7 +43,7 @@ td:nth-child(4) {
 }
 @font-face {
   font-family: thisisatest;
-  src: url("C:\Users\RobertWinslow\Desktop\Fonts-backup\");
+  src: url("C:\Users\RobertWinslow\Desktop\Fonts-backup\NotoEmoji-Regular.ttf");
 }
 </style>
 
