@@ -36,6 +36,10 @@ td:nth-child(4) {
   font-size: 72px;
   padding: 0px;
 }
+@font-face {
+  font-family: thisisatest;
+  src: url("C:\Users\RobertWinslow\Desktop\Fonts-backup\");
+}
 </style>
 
 <td style="text-align: center;font-size: 72px;line-height: 0px;letter-spacing: 0.034em;font-weight: 100;font-style: normal;">😊</td>
