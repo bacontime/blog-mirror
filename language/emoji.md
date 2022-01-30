@@ -29,8 +29,9 @@ td {
     vertical-align: middle;
 }
 @font-face {
-  font-family: thisisatest;
-  src: url("C:\Users\RobertWinslow\Desktop\Fonts-backup\NotoEmoji-Regular.ttf");
+  font-family: 'thisisatest';
+  src: url(https://raw.githack.com/googlefonts/noto-emoji/main/fonts/NotoColorEmoji.ttf);
+}
 }
 td:nth-child(2) {
   font-family: EmojiOne Color;
@@ -51,6 +52,7 @@ td:nth-child(5) {
   font-family: thisisatest;
   font-size: 72px;
   padding: 0px;
+  background: blue;
 }
 </style>
 
@@ -97,7 +99,7 @@ td:nth-child(5) {
 |:-:|:-:|:-:|:-:|:-:
 | smiling face with hearts |  | &#x1F970; | &#x1F970; | &#x1F970; | 
 | smiling face with heart-eyes | &#x1F60D; | &#x1F60D; | &#x1F60D; | &#x1F60D; | 
-| star-struck | &#x1F929; | &#x1F929; | &#x1F929; | &#x1F929; | 
+| star-struck |  | &#x1F929; | &#x1F929; | &#x1F929; | 
 | face blowing a kiss | &#x1F618; | &#x1F618; | &#x1F618; | &#x1F618; | 
 | kissing face | &#x1F617; | &#x1F617; | &#x1F617; | &#x1F617; | 
 | smiling face | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | 
@@ -112,7 +114,7 @@ td:nth-child(5) {
 | face savoring food | &#x1F60B; | &#x1F60B; | &#x1F60B; | &#x1F60B; | 
 | face with tongue | &#x1F61B; | &#x1F61B; | &#x1F61B; | &#x1F61B; | 
 | winking face with tongue | &#x1F61C; | &#x1F61C; | &#x1F61C; | &#x1F61C; | 
-| zany face | &#x1F92A; | &#x1F92A; | &#x1F92A; | &#x1F92A; | 
+| zany face |  | &#x1F92A; | &#x1F92A; | &#x1F92A; | 
 | squinting face with tongue | &#x1F61D; | &#x1F61D; | &#x1F61D; | &#x1F61D; | 
 | money-mouth face | &#x1F911; | &#x1F911; | &#x1F911; | &#x1F911; | 
 
@@ -121,8 +123,8 @@ td:nth-child(5) {
 | name | EmojiOne | Twitter | OpenMoji |  |
 |:-:|:-:|:-:|:-:|:-:
 | hugging face | &#x1F917; | &#x1F917; | &#x1F917; | &#x1F917; | 
-| face with hand over mouth | &#x1F92D; | &#x1F92D; | &#x1F92D; | &#x1F92D; | 
-| shushing face | &#x1F92B; | &#x1F92B; | &#x1F92B; | &#x1F92B; | 
+| face with hand over mouth |  | &#x1F92D; | &#x1F92D; | &#x1F92D; | 
+| shushing face |  | &#x1F92B; | &#x1F92B; | &#x1F92B; | 
 | thinking face | &#x1F914; | &#x1F914; | &#x1F914; | &#x1F914; | 
 
 ### face-neutral-skeptical
@@ -130,7 +132,7 @@ td:nth-child(5) {
 | name | EmojiOne | Twitter | OpenMoji |  |
 |:-:|:-:|:-:|:-:|:-:
 | zipper-mouth face | &#x1F910; | &#x1F910; | &#x1F910; | &#x1F910; | 
-| face with raised eyebrow | &#x1F928; | &#x1F928; | &#x1F928; | &#x1F928; | 
+| face with raised eyebrow |  | &#x1F928; | &#x1F928; | &#x1F928; | 
 | neutral face | &#x1F610; | &#x1F610; | &#x1F610; | &#x1F610; | 
 | expressionless face | &#x1F611; | &#x1F611; | &#x1F611; | &#x1F611; | 
 | face without mouth | &#x1F636; | &#x1F636; | &#x1F636; | &#x1F636; | 
@@ -158,13 +160,13 @@ td:nth-child(5) {
 | face with thermometer | &#x1F912; | &#x1F912; | &#x1F912; | &#x1F912; | 
 | face with head-bandage | &#x1F915; | &#x1F915; | &#x1F915; | &#x1F915; | 
 | nauseated face | &#x1F922; | &#x1F922; | &#x1F922; | &#x1F922; | 
-| face vomiting | &#x1F92E; | &#x1F92E; | &#x1F92E; | &#x1F92E; | 
+| face vomiting |  | &#x1F92E; | &#x1F92E; | &#x1F92E; | 
 | sneezing face | &#x1F927; | &#x1F927; | &#x1F927; | &#x1F927; | 
 | hot face |  | &#x1F975; | &#x1F975; | &#x1F975; | 
 | cold face |  | &#x1F976; | &#x1F976; | &#x1F976; | 
 | woozy face |  | &#x1F974; | &#x1F974; | &#x1F974; | 
 | dizzy face | &#x1F635; | &#x1F635; | &#x1F635; | &#x1F635; | 
-| exploding head | &#x1F92F; | &#x1F92F; | &#x1F92F; | &#x1F92F; | 
+| exploding head |  | &#x1F92F; | &#x1F92F; | &#x1F92F; | 
 
 ### face-hat
 
@@ -180,7 +182,7 @@ td:nth-child(5) {
 |:-:|:-:|:-:|:-:|:-:
 | smiling face with sunglasses | &#x1F60E; | &#x1F60E; | &#x1F60E; | &#x1F60E; | 
 | nerd face | &#x1F913; | &#x1F913; | &#x1F913; | &#x1F913; | 
-| face with monocle | &#x1F9D0; | &#x1F9D0; | &#x1F9D0; | &#x1F9D0; | 
+| face with monocle |  | &#x1F9D0; | &#x1F9D0; | &#x1F9D0; | 
 
 ### face-concerned
 
@@ -218,7 +220,7 @@ td:nth-child(5) {
 | face with steam from nose | &#x1F624; | &#x1F624; | &#x1F624; | &#x1F624; | 
 | pouting face | &#x1F621; | &#x1F621; | &#x1F621; | &#x1F621; | 
 | angry face | &#x1F620; | &#x1F620; | &#x1F620; | &#x1F620; | 
-| face with symbols on mouth | &#x1F92C; | &#x1F92C; | &#x1F92C; | &#x1F92C; | 
+| face with symbols on mouth |  | &#x1F92C; | &#x1F92C; | &#x1F92C; | 
 | smiling face with horns | &#x1F608; | &#x1F608; | &#x1F608; | &#x1F608; | 
 | angry face with horns | &#x1F47F; | &#x1F47F; | &#x1F47F; | &#x1F47F; | 
 | skull | &#x1F480; | &#x1F480; | &#x1F480; | &#x1F480; | 
@@ -276,7 +278,7 @@ td:nth-child(5) {
 | heart exclamation | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | 
 | broken heart | &#x1F494; | &#x1F494; | &#x1F494; | &#x1F494; | 
 | red heart | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | 
-| orange heart | &#x1F9E1; | &#x1F9E1; | &#x1F9E1; | &#x1F9E1; | 
+| orange heart |  | &#x1F9E1; | &#x1F9E1; | &#x1F9E1; | 
 | yellow heart | &#x1F49B; | &#x1F49B; | &#x1F49B; | &#x1F49B; | 
 | green heart | &#x1F49A; | &#x1F49A; | &#x1F49A; | &#x1F49A; | 
 | blue heart | &#x1F499; | &#x1F499; | &#x1F499; | &#x1F499; | 
@@ -318,7 +320,7 @@ td:nth-child(5) {
 | pinching hand |  | &#x1F90F; | &#x1F90F; | &#x1F90F; | 
 | victory hand | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | 
 | crossed fingers | &#x1F91E; | &#x1F91E; | &#x1F91E; | &#x1F91E; | 
-| love-you gesture | &#x1F91F; | &#x1F91F; | &#x1F91F; | &#x1F91F; | 
+| love-you gesture |  | &#x1F91F; | &#x1F91F; | &#x1F91F; | 
 | sign of the horns | &#x1F918; | &#x1F918; | &#x1F918; | &#x1F918; | 
 | call me hand | &#x1F919; | &#x1F919; | &#x1F919; | &#x1F919; | 
 
@@ -351,7 +353,7 @@ td:nth-child(5) {
 | clapping hands | &#x1F44F; | &#x1F44F; | &#x1F44F; | &#x1F44F; | 
 | raising hands | &#x1F64C; | &#x1F64C; | &#x1F64C; | &#x1F64C; | 
 | open hands | &#x1F450; | &#x1F450; | &#x1F450; | &#x1F450; | 
-| palms up together | &#x1F932; | &#x1F932; | &#x1F932; | &#x1F932; | 
+| palms up together |  | &#x1F932; | &#x1F932; | &#x1F932; | 
 | handshake | &#x1F91D; | &#x1F91D; | &#x1F91D; | &#x1F91D; | 
 | folded hands | &#x1F64F; | &#x1F64F; | &#x1F64F; | &#x1F64F; | 
 
@@ -375,7 +377,7 @@ td:nth-child(5) {
 | ear | &#x1F442; | &#x1F442; | &#x1F442; | &#x1F442; | 
 | ear with hearing aid |  | &#x1F9BB; | &#x1F9BB; | &#x1F9BB; | 
 | nose | &#x1F443; | &#x1F443; | &#x1F443; | &#x1F443; | 
-| brain | &#x1F9E0; | &#x1F9E0; | &#x1F9E0; | &#x1F9E0; | 
+| brain |  | &#x1F9E0; | &#x1F9E0; | &#x1F9E0; | 
 | anatomical heart |  | &#x1FAC0; | &#x1FAC0; | &#x1FAC0; | 
 | lungs |  | &#x1FAC1; | &#x1FAC1; | &#x1FAC1; | 
 | tooth |  | &#x1F9B7; | &#x1F9B7; | &#x1F9B7; | 
@@ -390,13 +392,13 @@ td:nth-child(5) {
 | name | EmojiOne | Twitter | OpenMoji |  |
 |:-:|:-:|:-:|:-:|:-:
 | baby | &#x1F476; | &#x1F476; | &#x1F476; | &#x1F476; | 
-| child | &#x1F9D2; | &#x1F9D2; | &#x1F9D2; | &#x1F9D2; | 
+| child |  | &#x1F9D2; | &#x1F9D2; | &#x1F9D2; | 
 | boy | &#x1F466; | &#x1F466; | &#x1F466; | &#x1F466; | 
 | girl | &#x1F467; | &#x1F467; | &#x1F467; | &#x1F467; | 
-| person | &#x1F9D1; | &#x1F9D1; | &#x1F9D1; | &#x1F9D1; | 
+| person |  | &#x1F9D1; | &#x1F9D1; | &#x1F9D1; | 
 | person: blond hair | &#x1F471; | &#x1F471; | &#x1F471; | &#x1F471; | 
 | man | &#x1F468; | &#x1F468; | &#x1F468; | &#x1F468; | 
-| man: beard | &#x1F9D4; | &#x1F9D4; | &#x1F9D4; | &#x1F9D4; | 
+| man: beard |  | &#x1F9D4; | &#x1F9D4; | &#x1F9D4; | 
 | man: red hair |  | &#x1F468;&#x200D;&#x1F9B0; | &#x1F468;&#x200D;&#x1F9B0; | &#x1F468;&#x200D;&#x1F9B0; | 
 | man: curly hair |  | &#x1F468;&#x200D;&#x1F9B1; | &#x1F468;&#x200D;&#x1F9B1; | &#x1F468;&#x200D;&#x1F9B1; | 
 | man: white hair |  | &#x1F468;&#x200D;&#x1F9B3; | &#x1F468;&#x200D;&#x1F9B3; | &#x1F468;&#x200D;&#x1F9B3; | 
@@ -412,7 +414,7 @@ td:nth-child(5) {
 | person: bald |  | &#x1F9D1;&#x200D;&#x1F9B2; | &#x1F9D1;&#x200D;&#x1F9B2; | &#x1F9D1;&#x200D;&#x1F9B2; | 
 | woman: blond hair | &#x1F471;&#x200D;&#x2640;&#xFE0F; | &#x1F471;&#x200D;&#x2640;&#xFE0F; | &#x1F471;&#x200D;&#x2640;&#xFE0F; | &#x1F471;&#x200D;&#x2640;&#xFE0F; | 
 | man: blond hair | &#x1F471;&#x200D;&#x2642;&#xFE0F; | &#x1F471;&#x200D;&#x2642;&#xFE0F; | &#x1F471;&#x200D;&#x2642;&#xFE0F; | &#x1F471;&#x200D;&#x2642;&#xFE0F; | 
-| older person | &#x1F9D3; | &#x1F9D3; | &#x1F9D3; | &#x1F9D3; | 
+| older person |  | &#x1F9D3; | &#x1F9D3; | &#x1F9D3; | 
 | old man | &#x1F474; | &#x1F474; | &#x1F474; | &#x1F474; | 
 | old woman | &#x1F475; | &#x1F475; | &#x1F475; | &#x1F475; | 
 
@@ -522,7 +524,7 @@ td:nth-child(5) {
 | man wearing turban | &#x1F473;&#x200D;&#x2642;&#xFE0F; | &#x1F473;&#x200D;&#x2642;&#xFE0F; | &#x1F473;&#x200D;&#x2642;&#xFE0F; | &#x1F473;&#x200D;&#x2642;&#xFE0F; | 
 | woman wearing turban | &#x1F473;&#x200D;&#x2640;&#xFE0F; | &#x1F473;&#x200D;&#x2640;&#xFE0F; | &#x1F473;&#x200D;&#x2640;&#xFE0F; | &#x1F473;&#x200D;&#x2640;&#xFE0F; | 
 | person with skullcap | &#x1F472; | &#x1F472; | &#x1F472; | &#x1F472; | 
-| woman with headscarf | &#x1F9D5; | &#x1F9D5; | &#x1F9D5; | &#x1F9D5; | 
+| woman with headscarf |  | &#x1F9D5; | &#x1F9D5; | &#x1F9D5; | 
 | person in tuxedo | &#x1F935; | &#x1F935; | &#x1F935; | &#x1F935; | 
 | man in tuxedo |  | &#x1F935;&#x200D;&#x2642;&#xFE0F; | &#x1F935;&#x200D;&#x2642;&#xFE0F; | &#x1F935;&#x200D;&#x2642;&#xFE0F; | 
 | woman in tuxedo |  | &#x1F935;&#x200D;&#x2640;&#xFE0F; | &#x1F935;&#x200D;&#x2640;&#xFE0F; | &#x1F935;&#x200D;&#x2640;&#xFE0F; | 
@@ -530,7 +532,7 @@ td:nth-child(5) {
 | man with veil |  | &#x1F470;&#x200D;&#x2642;&#xFE0F; | &#x1F470;&#x200D;&#x2642;&#xFE0F; | &#x1F470;&#x200D;&#x2642;&#xFE0F; | 
 | woman with veil |  | &#x1F470;&#x200D;&#x2640;&#xFE0F; | &#x1F470;&#x200D;&#x2640;&#xFE0F; | &#x1F470;&#x200D;&#x2640;&#xFE0F; | 
 | pregnant woman | &#x1F930; | &#x1F930; | &#x1F930; | &#x1F930; | 
-| breast-feeding | &#x1F931; | &#x1F931; | &#x1F931; | &#x1F931; | 
+| breast-feeding |  | &#x1F931; | &#x1F931; | &#x1F931; | 
 | woman feeding baby |  | &#x1F469;&#x200D;&#x1F37C; | &#x1F469;&#x200D;&#x1F37C; | &#x1F469;&#x200D;&#x1F37C; | 
 | man feeding baby |  | &#x1F468;&#x200D;&#x1F37C; | &#x1F468;&#x200D;&#x1F37C; | &#x1F468;&#x200D;&#x1F37C; | 
 | person feeding baby |  | &#x1F9D1;&#x200D;&#x1F37C; | &#x1F9D1;&#x200D;&#x1F37C; | &#x1F9D1;&#x200D;&#x1F37C; | 
@@ -549,27 +551,27 @@ td:nth-child(5) {
 | supervillain |  | &#x1F9B9; | &#x1F9B9; | &#x1F9B9; | 
 | man supervillain |  | &#x1F9B9;&#x200D;&#x2642;&#xFE0F; | &#x1F9B9;&#x200D;&#x2642;&#xFE0F; | &#x1F9B9;&#x200D;&#x2642;&#xFE0F; | 
 | woman supervillain |  | &#x1F9B9;&#x200D;&#x2640;&#xFE0F; | &#x1F9B9;&#x200D;&#x2640;&#xFE0F; | &#x1F9B9;&#x200D;&#x2640;&#xFE0F; | 
-| mage | &#x1F9D9; | &#x1F9D9; | &#x1F9D9; | &#x1F9D9; | 
-| man mage | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | 
-| woman mage | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | 
-| fairy | &#x1F9DA; | &#x1F9DA; | &#x1F9DA; | &#x1F9DA; | 
-| man fairy | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | 
-| woman fairy | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | 
-| vampire | &#x1F9DB; | &#x1F9DB; | &#x1F9DB; | &#x1F9DB; | 
-| man vampire | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | 
-| woman vampire | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | 
-| merperson | &#x1F9DC; | &#x1F9DC; | &#x1F9DC; | &#x1F9DC; | 
-| merman | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | 
-| mermaid | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | 
-| elf | &#x1F9DD; | &#x1F9DD; | &#x1F9DD; | &#x1F9DD; | 
-| man elf | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | 
-| woman elf | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | 
-| genie | &#x1F9DE; | &#x1F9DE; | &#x1F9DE; | &#x1F9DE; | 
-| man genie | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | 
-| woman genie | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | 
-| zombie | &#x1F9DF; | &#x1F9DF; | &#x1F9DF; | &#x1F9DF; | 
-| man zombie | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | 
-| woman zombie | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | 
+| mage |  | &#x1F9D9; | &#x1F9D9; | &#x1F9D9; | 
+| man mage |  | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | 
+| woman mage |  | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | 
+| fairy |  | &#x1F9DA; | &#x1F9DA; | &#x1F9DA; | 
+| man fairy |  | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | 
+| woman fairy |  | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | 
+| vampire |  | &#x1F9DB; | &#x1F9DB; | &#x1F9DB; | 
+| man vampire |  | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | 
+| woman vampire |  | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | 
+| merperson |  | &#x1F9DC; | &#x1F9DC; | &#x1F9DC; | 
+| merman |  | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | 
+| mermaid |  | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | 
+| elf |  | &#x1F9DD; | &#x1F9DD; | &#x1F9DD; | 
+| man elf |  | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | 
+| woman elf |  | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | 
+| genie |  | &#x1F9DE; | &#x1F9DE; | &#x1F9DE; | 
+| man genie |  | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | 
+| woman genie |  | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | 
+| zombie |  | &#x1F9DF; | &#x1F9DF; | &#x1F9DF; | 
+| man zombie |  | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | 
+| woman zombie |  | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | 
 
 ### person-activity
 
@@ -608,12 +610,12 @@ td:nth-child(5) {
 | people with bunny ears | &#x1F46F; | &#x1F46F; | &#x1F46F; | &#x1F46F; | 
 | men with bunny ears | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | 
 | women with bunny ears | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | 
-| person in steamy room | &#x1F9D6; | &#x1F9D6; | &#x1F9D6; | &#x1F9D6; | 
-| man in steamy room | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | 
-| woman in steamy room | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | 
-| person climbing | &#x1F9D7; | &#x1F9D7; | &#x1F9D7; | &#x1F9D7; | 
-| man climbing | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | 
-| woman climbing | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | 
+| person in steamy room |  | &#x1F9D6; | &#x1F9D6; | &#x1F9D6; | 
+| man in steamy room |  | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | 
+| woman in steamy room |  | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | 
+| person climbing |  | &#x1F9D7; | &#x1F9D7; | &#x1F9D7; | 
+| man climbing |  | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | 
+| woman climbing |  | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | 
 
 ### person-sport
 
@@ -667,9 +669,9 @@ td:nth-child(5) {
 
 | name | EmojiOne | Twitter | OpenMoji |  |
 |:-:|:-:|:-:|:-:|:-:
-| person in lotus position | &#x1F9D8; | &#x1F9D8; | &#x1F9D8; | &#x1F9D8; | 
-| man in lotus position | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | 
-| woman in lotus position | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | 
+| person in lotus position |  | &#x1F9D8; | &#x1F9D8; | &#x1F9D8; | 
+| man in lotus position |  | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | 
+| woman in lotus position |  | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | 
 | person taking bath | &#x1F6C0; | &#x1F6C0; | &#x1F6C0; | &#x1F6C0; | 
 | person in bed | &#x1F6CC; | &#x1F6CC; | &#x1F6CC; | &#x1F6CC; | 
 
@@ -752,7 +754,7 @@ td:nth-child(5) {
 | horse face | &#x1F434; | &#x1F434; | &#x1F434; | &#x1F434; | 
 | horse | &#x1F40E; | &#x1F40E; | &#x1F40E; | &#x1F40E; | 
 | unicorn | &#x1F984; | &#x1F984; | &#x1F984; | &#x1F984; | 
-| zebra | &#x1F993; | &#x1F993; | &#x1F993; | &#x1F993; | 
+| zebra |  | &#x1F993; | &#x1F993; | &#x1F993; | 
 | deer | &#x1F98C; | &#x1F98C; | &#x1F98C; | &#x1F98C; | 
 | bison |  | &#x1F9AC; | &#x1F9AC; | &#x1F9AC; | 
 | cow face | &#x1F42E; | &#x1F42E; | &#x1F42E; | &#x1F42E; | 
@@ -769,7 +771,7 @@ td:nth-child(5) {
 | camel | &#x1F42A; | &#x1F42A; | &#x1F42A; | &#x1F42A; | 
 | two-hump camel | &#x1F42B; | &#x1F42B; | &#x1F42B; | &#x1F42B; | 
 | llama |  | &#x1F999; | &#x1F999; | &#x1F999; | 
-| giraffe | &#x1F992; | &#x1F992; | &#x1F992; | &#x1F992; | 
+| giraffe |  | &#x1F992; | &#x1F992; | &#x1F992; | 
 | elephant | &#x1F418; | &#x1F418; | &#x1F418; | &#x1F418; | 
 | mammoth |  | &#x1F9A3; | &#x1F9A3; | &#x1F9A3; | 
 | rhinoceros | &#x1F98F; | &#x1F98F; | &#x1F98F; | &#x1F98F; | 
@@ -782,7 +784,7 @@ td:nth-child(5) {
 | rabbit | &#x1F407; | &#x1F407; | &#x1F407; | &#x1F407; | 
 | chipmunk | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | 
 | beaver |  | &#x1F9AB; | &#x1F9AB; | &#x1F9AB; | 
-| hedgehog | &#x1F994; | &#x1F994; | &#x1F994; | &#x1F994; | 
+| hedgehog |  | &#x1F994; | &#x1F994; | &#x1F994; | 
 | bat | &#x1F987; | &#x1F987; | &#x1F987; | &#x1F987; | 
 | bear | &#x1F43B; | &#x1F43B; | &#x1F43B; | &#x1F43B; | 
 | polar bear |  | &#x1F43B;&#x200D;&#x2744;&#xFE0F; | &#x1F43B;&#x200D;&#x2744;&#xFE0F; | &#x1F43B;&#x200D;&#x2744;&#xFE0F; | 
@@ -834,8 +836,8 @@ td:nth-child(5) {
 | snake | &#x1F40D; | &#x1F40D; | &#x1F40D; | &#x1F40D; | 
 | dragon face | &#x1F432; | &#x1F432; | &#x1F432; | &#x1F432; | 
 | dragon | &#x1F409; | &#x1F409; | &#x1F409; | &#x1F409; | 
-| sauropod | &#x1F995; | &#x1F995; | &#x1F995; | &#x1F995; | 
-| T-Rex | &#x1F996; | &#x1F996; | &#x1F996; | &#x1F996; | 
+| sauropod |  | &#x1F995; | &#x1F995; | &#x1F995; | 
+| T-Rex |  | &#x1F996; | &#x1F996; | &#x1F996; | 
 
 ### animal-marine
 
@@ -863,7 +865,7 @@ td:nth-child(5) {
 | honeybee | &#x1F41D; | &#x1F41D; | &#x1F41D; | &#x1F41D; | 
 | beetle |  | &#x1FAB2; | &#x1FAB2; | &#x1FAB2; | 
 | lady beetle | &#x1F41E; | &#x1F41E; | &#x1F41E; | &#x1F41E; | 
-| cricket | &#x1F997; | &#x1F997; | &#x1F997; | &#x1F997; | 
+| cricket |  | &#x1F997; | &#x1F997; | &#x1F997; | 
 | cockroach |  | &#x1FAB3; | &#x1FAB3; | &#x1FAB3; | 
 | spider | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | 
 | spider web | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | 
@@ -928,7 +930,7 @@ td:nth-child(5) {
 | kiwi fruit | &#x1F95D; | &#x1F95D; | &#x1F95D; | &#x1F95D; | 
 | tomato | &#x1F345; | &#x1F345; | &#x1F345; | &#x1F345; | 
 | olive |  | &#x1FAD2; | &#x1FAD2; | &#x1FAD2; | 
-| coconut | &#x1F965; | &#x1F965; | &#x1F965; | &#x1F965; | 
+| coconut |  | &#x1F965; | &#x1F965; | &#x1F965; | 
 
 ### food-vegetable
 
@@ -943,7 +945,7 @@ td:nth-child(5) {
 | bell pepper |  | &#x1FAD1; | &#x1FAD1; | &#x1FAD1; | 
 | cucumber | &#x1F952; | &#x1F952; | &#x1F952; | &#x1F952; | 
 | leafy green |  | &#x1F96C; | &#x1F96C; | &#x1F96C; | 
-| broccoli | &#x1F966; | &#x1F966; | &#x1F966; | &#x1F966; | 
+| broccoli |  | &#x1F966; | &#x1F966; | &#x1F966; | 
 | garlic |  | &#x1F9C4; | &#x1F9C4; | &#x1F9C4; | 
 | onion |  | &#x1F9C5; | &#x1F9C5; | &#x1F9C5; | 
 | mushroom | &#x1F344; | &#x1F344; | &#x1F344; | &#x1F344; | 
@@ -958,20 +960,20 @@ td:nth-child(5) {
 | croissant | &#x1F950; | &#x1F950; | &#x1F950; | &#x1F950; | 
 | baguette bread | &#x1F956; | &#x1F956; | &#x1F956; | &#x1F956; | 
 | flatbread |  | &#x1FAD3; | &#x1FAD3; | &#x1FAD3; | 
-| pretzel | &#x1F968; | &#x1F968; | &#x1F968; | &#x1F968; | 
+| pretzel |  | &#x1F968; | &#x1F968; | &#x1F968; | 
 | bagel |  | &#x1F96F; | &#x1F96F; | &#x1F96F; | 
 | pancakes | &#x1F95E; | &#x1F95E; | &#x1F95E; | &#x1F95E; | 
 | waffle |  | &#x1F9C7; | &#x1F9C7; | &#x1F9C7; | 
 | cheese wedge | &#x1F9C0; | &#x1F9C0; | &#x1F9C0; | &#x1F9C0; | 
 | meat on bone | &#x1F356; | &#x1F356; | &#x1F356; | &#x1F356; | 
 | poultry leg | &#x1F357; | &#x1F357; | &#x1F357; | &#x1F357; | 
-| cut of meat | &#x1F969; | &#x1F969; | &#x1F969; | &#x1F969; | 
+| cut of meat |  | &#x1F969; | &#x1F969; | &#x1F969; | 
 | bacon | &#x1F953; | &#x1F953; | &#x1F953; | &#x1F953; | 
 | hamburger | &#x1F354; | &#x1F354; | &#x1F354; | &#x1F354; | 
 | french fries | &#x1F35F; | &#x1F35F; | &#x1F35F; | &#x1F35F; | 
 | pizza | &#x1F355; | &#x1F355; | &#x1F355; | &#x1F355; | 
 | hot dog | &#x1F32D; | &#x1F32D; | &#x1F32D; | &#x1F32D; | 
-| sandwich | &#x1F96A; | &#x1F96A; | &#x1F96A; | &#x1F96A; | 
+| sandwich |  | &#x1F96A; | &#x1F96A; | &#x1F96A; | 
 | taco | &#x1F32E; | &#x1F32E; | &#x1F32E; | &#x1F32E; | 
 | burrito | &#x1F32F; | &#x1F32F; | &#x1F32F; | &#x1F32F; | 
 | tamale |  | &#x1FAD4; | &#x1FAD4; | &#x1FAD4; | 
@@ -982,12 +984,12 @@ td:nth-child(5) {
 | shallow pan of food | &#x1F958; | &#x1F958; | &#x1F958; | &#x1F958; | 
 | pot of food | &#x1F372; | &#x1F372; | &#x1F372; | &#x1F372; | 
 | fondue |  | &#x1FAD5; | &#x1FAD5; | &#x1FAD5; | 
-| bowl with spoon | &#x1F963; | &#x1F963; | &#x1F963; | &#x1F963; | 
+| bowl with spoon |  | &#x1F963; | &#x1F963; | &#x1F963; | 
 | green salad | &#x1F957; | &#x1F957; | &#x1F957; | &#x1F957; | 
 | popcorn | &#x1F37F; | &#x1F37F; | &#x1F37F; | &#x1F37F; | 
 | butter |  | &#x1F9C8; | &#x1F9C8; | &#x1F9C8; | 
 | salt |  | &#x1F9C2; | &#x1F9C2; | &#x1F9C2; | 
-| canned food | &#x1F96B; | &#x1F96B; | &#x1F96B; | &#x1F96B; | 
+| canned food |  | &#x1F96B; | &#x1F96B; | &#x1F96B; | 
 
 ### food-asian
 
@@ -1007,9 +1009,9 @@ td:nth-child(5) {
 | fish cake with swirl | &#x1F365; | &#x1F365; | &#x1F365; | &#x1F365; | 
 | moon cake |  | &#x1F96E; | &#x1F96E; | &#x1F96E; | 
 | dango | &#x1F361; | &#x1F361; | &#x1F361; | &#x1F361; | 
-| dumpling | &#x1F95F; | &#x1F95F; | &#x1F95F; | &#x1F95F; | 
-| fortune cookie | &#x1F960; | &#x1F960; | &#x1F960; | &#x1F960; | 
-| takeout box | &#x1F961; | &#x1F961; | &#x1F961; | &#x1F961; | 
+| dumpling |  | &#x1F95F; | &#x1F95F; | &#x1F95F; | 
+| fortune cookie |  | &#x1F960; | &#x1F960; | &#x1F960; | 
+| takeout box |  | &#x1F961; | &#x1F961; | &#x1F961; | 
 
 ### food-marine
 
@@ -1033,7 +1035,7 @@ td:nth-child(5) {
 | birthday cake | &#x1F382; | &#x1F382; | &#x1F382; | &#x1F382; | 
 | shortcake | &#x1F370; | &#x1F370; | &#x1F370; | &#x1F370; | 
 | cupcake |  | &#x1F9C1; | &#x1F9C1; | &#x1F9C1; | 
-| pie | &#x1F967; | &#x1F967; | &#x1F967; | &#x1F967; | 
+| pie |  | &#x1F967; | &#x1F967; | &#x1F967; | 
 | chocolate bar | &#x1F36B; | &#x1F36B; | &#x1F36B; | &#x1F36B; | 
 | candy | &#x1F36C; | &#x1F36C; | &#x1F36C; | &#x1F36C; | 
 | lollipop | &#x1F36D; | &#x1F36D; | &#x1F36D; | &#x1F36D; | 
@@ -1058,7 +1060,7 @@ td:nth-child(5) {
 | clinking beer mugs | &#x1F37B; | &#x1F37B; | &#x1F37B; | &#x1F37B; | 
 | clinking glasses | &#x1F942; | &#x1F942; | &#x1F942; | &#x1F942; | 
 | tumbler glass | &#x1F943; | &#x1F943; | &#x1F943; | &#x1F943; | 
-| cup with straw | &#x1F964; | &#x1F964; | &#x1F964; | &#x1F964; | 
+| cup with straw |  | &#x1F964; | &#x1F964; | &#x1F964; | 
 | bubble tea |  | &#x1F9CB; | &#x1F9CB; | &#x1F9CB; | 
 | beverage box |  | &#x1F9C3; | &#x1F9C3; | &#x1F9C3; | 
 | mate |  | &#x1F9C9; | &#x1F9C9; | &#x1F9C9; | 
@@ -1068,7 +1070,7 @@ td:nth-child(5) {
 
 | name | EmojiOne | Twitter | OpenMoji |  |
 |:-:|:-:|:-:|:-:|:-:
-| chopsticks | &#x1F962; | &#x1F962; | &#x1F962; | &#x1F962; | 
+| chopsticks |  | &#x1F962; | &#x1F962; | &#x1F962; | 
 | fork and knife with plate | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | 
 | fork and knife | &#x1F374; | &#x1F374; | &#x1F374; | &#x1F374; | 
 | spoon | &#x1F944; | &#x1F944; | &#x1F944; | &#x1F944; | 
@@ -1248,7 +1250,7 @@ td:nth-child(5) {
 | aerial tramway | &#x1F6A1; | &#x1F6A1; | &#x1F6A1; | &#x1F6A1; | 
 | satellite | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | 
 | rocket | &#x1F680; | &#x1F680; | &#x1F680; | &#x1F680; | 
-| flying saucer | &#x1F6F8; | &#x1F6F8; | &#x1F6F8; | &#x1F6F8; | 
+| flying saucer |  | &#x1F6F8; | &#x1F6F8; | &#x1F6F8; | 
 
 ### hotel
 
@@ -1411,8 +1413,8 @@ td:nth-child(5) {
 | diving mask |  | &#x1F93F; | &#x1F93F; | &#x1F93F; | 
 | running shirt | &#x1F3BD; | &#x1F3BD; | &#x1F3BD; | &#x1F3BD; | 
 | skis | &#x1F3BF; | &#x1F3BF; | &#x1F3BF; | &#x1F3BF; | 
-| sled | &#x1F6F7; | &#x1F6F7; | &#x1F6F7; | &#x1F6F7; | 
-| curling stone | &#x1F94C; | &#x1F94C; | &#x1F94C; | &#x1F94C; | 
+| sled |  | &#x1F6F7; | &#x1F6F7; | &#x1F6F7; | 
+| curling stone |  | &#x1F94C; | &#x1F94C; | &#x1F94C; | 
 
 ### game
 
@@ -1466,10 +1468,10 @@ td:nth-child(5) {
 | necktie | &#x1F454; | &#x1F454; | &#x1F454; | &#x1F454; | 
 | t-shirt | &#x1F455; | &#x1F455; | &#x1F455; | &#x1F455; | 
 | jeans | &#x1F456; | &#x1F456; | &#x1F456; | &#x1F456; | 
-| scarf | &#x1F9E3; | &#x1F9E3; | &#x1F9E3; | &#x1F9E3; | 
-| gloves | &#x1F9E4; | &#x1F9E4; | &#x1F9E4; | &#x1F9E4; | 
-| coat | &#x1F9E5; | &#x1F9E5; | &#x1F9E5; | &#x1F9E5; | 
-| socks | &#x1F9E6; | &#x1F9E6; | &#x1F9E6; | &#x1F9E6; | 
+| scarf |  | &#x1F9E3; | &#x1F9E3; | &#x1F9E3; | 
+| gloves |  | &#x1F9E4; | &#x1F9E4; | &#x1F9E4; | 
+| coat |  | &#x1F9E5; | &#x1F9E5; | &#x1F9E5; | 
+| socks |  | &#x1F9E6; | &#x1F9E6; | &#x1F9E6; | 
 | dress | &#x1F457; | &#x1F457; | &#x1F457; | &#x1F457; | 
 | kimono | &#x1F458; | &#x1F458; | &#x1F458; | &#x1F458; | 
 | sari |  | &#x1F97B; | &#x1F97B; | &#x1F97B; | 
@@ -1496,7 +1498,7 @@ td:nth-child(5) {
 | woman’s hat | &#x1F452; | &#x1F452; | &#x1F452; | &#x1F452; | 
 | top hat | &#x1F3A9; | &#x1F3A9; | &#x1F3A9; | &#x1F3A9; | 
 | graduation cap | &#x1F393; | &#x1F393; | &#x1F393; | &#x1F393; | 
-| billed cap | &#x1F9E2; | &#x1F9E2; | &#x1F9E2; | &#x1F9E2; | 
+| billed cap |  | &#x1F9E2; | &#x1F9E2; | &#x1F9E2; | 
 | military helmet |  | &#x1FA96; | &#x1FA96; | &#x1FA96; | 
 | rescue worker’s helmet | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | 
 | prayer beads | &#x1F4FF; | &#x1F4FF; | &#x1F4FF; | &#x1F4FF; | 
@@ -2364,6 +2366,6 @@ td:nth-child(5) {
 
 | name | EmojiOne | Twitter | OpenMoji |  |
 |:-:|:-:|:-:|:-:|:-:
-| flag: England | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | 
-| flag: Scotland | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | 
-| flag: Wales | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | 
+| flag: England |  | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | 
+| flag: Scotland |  | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | 
+| flag: Wales |  | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | 
