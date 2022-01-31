@@ -67,6 +67,30 @@ NotoColorEmoji.ttf
 - Trying to convert this (bitmap?) font to woff yields broken results.
 
 
+
+EmojiOneColorAdobe.woff2
+- Works everywhere, but in windows/mac, it's only colorful in Firefox. 
+- That's fine. That's what I expected.
+
+TwemojiMozilla.ttf
+ - works great on all the browsers on windows. renders in color, even in chrome
+ - Also working on android
+ - great work mozilla team!
+ - doesn't work on mac os chrome or mac os Firefox. works fine on mac os safari. 
+
+OpenMoji-Color.COLRv0.ttf
+- Works everywhere I've tried it. Windows, Mac, android, ios
+- Wowzers, I wish I could have figured out how to get nanoemoji working.
+
+NotoSVGmiconv.woff2
+- Doesn't work at all, sadly.
+
+Blobmoji.ttf
+- Only working in chromium browsers...
+
+Catrinity.woff2
+- Color was borked by conversion. What tool did Adobe use to get a functional color woff2?
+
 -->
 
 ## Tables of Emojis
@@ -104,7 +128,7 @@ td:nth-child(4) {
 }
 @font-face {
   font-family: 'Noto SVG';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/notosvg/NotoSVGmiconv.woff2);
+  src: url(https://www.rmwinslow.com/posts/language/fonts/notosvg/NotoEmoji.otf);
 }
 td:nth-child(5) {
   font-family: 'Noto SVG';
@@ -122,7 +146,7 @@ td:nth-child(6) {
 }
 @font-face {
   font-family: 'catrinitytest';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/catrinity/Catrinity.woff2);
+  src: url(https://www.rmwinslow.com/posts/language/fonts/catrinity/Catrinity.ttf);
 }
 .catcard {
   font-family: 'catrinitytest';
