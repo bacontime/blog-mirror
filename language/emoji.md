@@ -122,7 +122,7 @@ td:nth-child(5) {
 }
 @font-face {
   font-family: 'catrinitytest';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/catrinity/Catrinity.ttf);
+  src: url(https://www.rmwinslow.com/posts/language/fonts/catrinity/Catrinity.woff2);
 }
 .catcard {
   font-family: 'catrinitytest';
