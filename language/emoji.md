@@ -87,6 +87,7 @@ NotoSVGmiconv.woff2
 
 Blobmoji.ttf
 - Only working in chromium browsers...
+- Also, I think it's sometimes misaligned?
 
 Catrinity.woff2
 - Color was borked by conversion. What tool did Adobe use to get a functional color woff2?
