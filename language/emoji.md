@@ -75,11 +75,13 @@ EmojiOneColorAdobe.woff2  🌟🌟
 TwemojiMozilla.ttf   🌟🌟🌟
  - works great on all the browsers on windows. renders in color, even in chrome
  - Also working on android
+ - And so svelte!
  - great work mozilla team!
  - doesn't work on mac os chrome or mac os Firefox. works fine on mac os safari. 
 
 OpenMoji-Color.COLRv0.ttf  🌟🌟🌟🌟
 - Works everywhere I've tried it. Windows, Mac, android, ios
+- reasonable size at only a bit over 2 MB. 
 - Wowzers, I wish I could have figured out how to get nanoemoji working.
 
 NotoSVGmiconv.woff2
@@ -97,7 +99,7 @@ NotoEmoji.otf (SVG)
 
 
 NotoColorEmoji-SVG.otf
-
+- So big!
 
 Catrinity.otf
 
