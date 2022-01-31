@@ -115,7 +115,7 @@ td:nth-child(5) {
   font-family: 'Noto Blob';
   src: url(https://www.rmwinslow.com/posts/language/fonts/notoblob/Blobmoji.ttf);
 }
-td:nth-child(5) {
+td:nth-child(6) {
   font-family: 'Noto Blob';
   font-size: 48px;
   padding: 0px;
