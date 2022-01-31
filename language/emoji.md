@@ -89,7 +89,7 @@ NotoSVGmiconv.woff2
 
 Blobmoji.ttf
 - Only working in chromium browsers...
-- Also, I think it's sometimes misaligned?
+- Also, I think it's sometimes misaligned? Actually, no. I think that might have been a markdown formatting error on my part.
 
 Catrinity.woff2
 - Color was borked by conversion. What tool did Adobe use to get a functional color woff2?!
@@ -190,7 +190,7 @@ td:nth-child(6) {
 ### animal-mammal
 
 | name | EmojiOne | Twitter | OpenMoji | Twitter (grunt) | Twitter (nano) |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | monkey face | &#x1F435; | &#x1F435; | &#x1F435; | &#x1F435; | &#x1F435; | 
 | monkey | &#x1F412; | &#x1F412; | &#x1F412; | &#x1F412; | &#x1F412; | 
 | gorilla | &#x1F98D; | &#x1F98D; | &#x1F98D; | &#x1F98D; | &#x1F98D; | 
@@ -259,7 +259,7 @@ td:nth-child(6) {
 ### animal-bird
 
 | name | EmojiOne | Twitter | OpenMoji | Twitter (grunt) | Twitter (nano) |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | turkey | &#x1F983; | &#x1F983; | &#x1F983; | &#x1F983; | &#x1F983; | 
 | chicken | &#x1F414; | &#x1F414; | &#x1F414; | &#x1F414; | &#x1F414; | 
 | rooster | &#x1F413; | &#x1F413; | &#x1F413; | &#x1F413; | &#x1F413; | 
@@ -282,13 +282,13 @@ td:nth-child(6) {
 ### animal-amphibian
 
 | name | EmojiOne | Twitter | OpenMoji | Twitter (grunt) | Twitter (nano) |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | frog | &#x1F438; | &#x1F438; | &#x1F438; | &#x1F438; | &#x1F438; | 
 
 ### animal-reptile
 
 | name | EmojiOne | Twitter | OpenMoji | Twitter (grunt) | Twitter (nano) |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | crocodile | &#x1F40A; | &#x1F40A; | &#x1F40A; | &#x1F40A; | &#x1F40A; | 
 | turtle | &#x1F422; | &#x1F422; | &#x1F422; | &#x1F422; | &#x1F422; | 
 | lizard | &#x1F98E; | &#x1F98E; | &#x1F98E; | &#x1F98E; | &#x1F98E; | 
@@ -301,7 +301,7 @@ td:nth-child(6) {
 ### animal-marine
 
 | name | EmojiOne | Twitter | OpenMoji | Twitter (grunt) | Twitter (nano) |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | spouting whale | &#x1F433; | &#x1F433; | &#x1F433; | &#x1F433; | &#x1F433; | 
 | whale | &#x1F40B; | &#x1F40B; | &#x1F40B; | &#x1F40B; | &#x1F40B; | 
 | dolphin | &#x1F42C; | &#x1F42C; | &#x1F42C; | &#x1F42C; | &#x1F42C; | 
@@ -316,7 +316,7 @@ td:nth-child(6) {
 ### animal-bug
 
 | name | EmojiOne | Twitter | OpenMoji | Twitter (grunt) | Twitter (nano) |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | snail | &#x1F40C; | &#x1F40C; | &#x1F40C; | &#x1F40C; | &#x1F40C; | 
 | butterfly | &#x1F98B; | &#x1F98B; | &#x1F98B; | &#x1F98B; | &#x1F98B; | 
 | bug | &#x1F41B; | &#x1F41B; | &#x1F41B; | &#x1F41B; | &#x1F41B; | 
@@ -337,7 +337,7 @@ td:nth-child(6) {
 ### plant-flower
 
 | name | EmojiOne | Twitter | OpenMoji | Twitter (grunt) | Twitter (nano) |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | bouquet | &#x1F490; | &#x1F490; | &#x1F490; | &#x1F490; | &#x1F490; | 
 | cherry blossom | &#x1F338; | &#x1F338; | &#x1F338; | &#x1F338; | &#x1F338; | 
 | white flower | &#x1F4AE; | &#x1F4AE; | &#x1F4AE; | &#x1F4AE; | &#x1F4AE; | 
@@ -352,7 +352,7 @@ td:nth-child(6) {
 ### plant-other
 
 | name | EmojiOne | Twitter | OpenMoji | Twitter (grunt) | Twitter (nano) |
-|:-:|:-:|:-:|:-:|:-:|
+|:-:|:-:|:-:|:-:|:-:|:-:|
 | seedling | &#x1F331; | &#x1F331; | &#x1F331; | &#x1F331; | &#x1F331; | 
 | potted plant |  | &#x1FAB4; | &#x1FAB4; | &#x1FAB4; | &#x1FAB4; | 
 | evergreen tree | &#x1F332; | &#x1F332; | &#x1F332; | &#x1F332; | &#x1F332; | 
