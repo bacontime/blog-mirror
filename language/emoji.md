@@ -133,6 +133,10 @@ Catmoji.ttf
 
 
 
+I've spent too much time on this, so I should give up on trying to get the grunt twemoji mozilla whatsit to compile on windows. 
+And just deal with the fact that I don't have a machine set up to handle this kind of task.
+Oh well. I should have been doing other things today anyways.
+
 
 -->
 
@@ -151,6 +155,7 @@ td:nth-child(2) {
   font-size: 48px;
   padding: 0px;
 }
+
 @font-face {
   font-family: 'Twemoji Fixed';
   src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/TwemojiMozillaBoundFix.ttf);
@@ -160,6 +165,7 @@ td:nth-child(3) {
   font-size: 48px;
   padding: 0px;
 }
+
 @font-face {
   font-family: 'OpenMoji Nano';
   src: url(https://www.rmwinslow.com/posts/language/fonts/openmoji/OpenMoji-Color.COLRv0.ttf);
@@ -169,6 +175,7 @@ td:nth-child(4) {
   font-size: 48px;
   padding: 0px;
 }
+
 @font-face {
   font-family: 'BlobMoji';
   src: url(https://www.rmwinslow.com/posts/language/fonts/notoblob/Blobmoji.ttf);
