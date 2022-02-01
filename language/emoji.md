@@ -174,7 +174,7 @@ td:nth-child(2) {
 
 @font-face {
   font-family: 'Twemoji Fixed';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/TwemojiMozillaBoundFix.ttf);
+  src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/catmoji.ttf);
 }
 td:nth-child(3) {
   font-family: 'Twemoji Fixed';
@@ -192,25 +192,6 @@ td:nth-child(4) {
   padding: 0px;
 }
 
-@font-face {
-  font-family: 'Twemoji No Flag';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/TwemojiMozillaNoFlag.ttf);
-}
-td:nth-child(5) {
-  font-family: 'Twemoji No Flag';
-  font-size: 48px;
-  padding: 0px;
-}
-
-@font-face {
-  font-family: 'Twemoji With a Few Notos';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/TwemojiSmallReplacement.ttf);
-}
-td:nth-child(6) {
-  font-family: 'Twemoji With a Few Notos';
-  font-size: 48px;
-  padding: 0px;
-}
 </style>
 
 
