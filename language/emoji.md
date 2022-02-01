@@ -121,12 +121,14 @@ TwemojiNanoemoji.ttf 🌟🌟
 Twemoji Mozilla BoundFix.ttf
 - generated from mozilla repo with tweaks to layerize.js
 - nope. Didn't fix it. In fact, it's even more broken.
+- I removed the spaces from the file name. That seems to have fixed it. 
+- works on macos too
 
 Catmoji.ttf
 - cats
 - https://github.com/catmoji/catmoji-colr
 - also made using grunt?
-- only works in chromium browsers?
+- but only works in chromium browsers?
 - I am a confusion.
 
 
@@ -168,11 +170,11 @@ td:nth-child(4) {
   padding: 0px;
 }
 @font-face {
-  font-family: 'Catmoji';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/Catmoji.ttf);
+  font-family: 'BlobMoji';
+  src: url(https://www.rmwinslow.com/posts/language/fonts/notoblob/Blobmoji.ttf);
 }
 td:nth-child(5) {
-  font-family: 'Catmoji';
+  font-family: 'Blobmoji';
   font-size: 48px;
   padding: 0px;
 }
