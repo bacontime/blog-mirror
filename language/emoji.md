@@ -220,7 +220,7 @@ td {
 }
 @font-face {
   font-family: 'Mozilla EmojiOne';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneMozilla.ttf), url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneColor.otf);
+  src: url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneMozilla.ttf), url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneColor.woff2);
 }
 td:nth-child(2) {
   font-family: 'Mozilla EmojiOne';
@@ -708,9 +708,7 @@ td:nth-child(4) {
 | woman dancing | &#x1F483; | &#x1F483; | &#x1F483; | 
 | man dancing | &#x1F57A; | &#x1F57A; | &#x1F57A; | 
 | person in suit levitating | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | 
-| people with bunny ears | &#x1F46F; | &#x1F46F; | &#x1F46F; | 
-| men with bunny ears | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | 
-| women with bunny ears | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | 
+| people with bunny ears | &#x1F46F; | &#x1F46F; | &#x1F46F; | 200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | 
 | person in steamy room |  | &#x1F9D6; | &#x1F9D6; | 
 | person climbing |  | &#x1F9D7; | &#x1F9D7; | 
 
