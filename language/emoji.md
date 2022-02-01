@@ -560,8 +560,8 @@ td:nth-child(6) {
 | person: white hair |  | &#x1F9D1;&#x200D;&#x1F9B3; | &#x1F9D1;&#x200D;&#x1F9B3; | 
 | woman: bald |  | &#x1F469;&#x200D;&#x1F9B2; | &#x1F469;&#x200D;&#x1F9B2; | 
 | person: bald |  | &#x1F9D1;&#x200D;&#x1F9B2; | &#x1F9D1;&#x200D;&#x1F9B2; | 
-| woman: blond hair | &#x1F471;&#x200D;&#x2640;&#xFE0F; | &#x1F471;&#x200D;&#x2640;&#xFE0F; | &#x1F471;&#x200D;&#x2640;&#xFE0F; | 
-| man: blond hair | &#x1F471;&#x200D;&#x2642;&#xFE0F; | &#x1F471;&#x200D;&#x2642;&#xFE0F; | &#x1F471;&#x200D;&#x2642;&#xFE0F; | 
+| woman: blond hair |  | &#x1F471;&#x200D;&#x2640;&#xFE0F; | &#x1F471;&#x200D;&#x2640;&#xFE0F; | 
+| man: blond hair |  | &#x1F471;&#x200D;&#x2642;&#xFE0F; | &#x1F471;&#x200D;&#x2642;&#xFE0F; | 
 | older person |  | &#x1F9D3; | &#x1F9D3; | 
 | old man | &#x1F474; | &#x1F474; | &#x1F474; | 
 | old woman | &#x1F475; | &#x1F475; | &#x1F475; | 
@@ -571,118 +571,51 @@ td:nth-child(6) {
 | name | EmojiOne | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | person frowning | &#x1F64D; | &#x1F64D; | &#x1F64D; | 
-| man frowning | &#x1F64D;&#x200D;&#x2642;&#xFE0F; | &#x1F64D;&#x200D;&#x2642;&#xFE0F; | &#x1F64D;&#x200D;&#x2642;&#xFE0F; | 
-| woman frowning | &#x1F64D;&#x200D;&#x2640;&#xFE0F; | &#x1F64D;&#x200D;&#x2640;&#xFE0F; | &#x1F64D;&#x200D;&#x2640;&#xFE0F; | 
 | person pouting | &#x1F64E; | &#x1F64E; | &#x1F64E; | 
-| man pouting | &#x1F64E;&#x200D;&#x2642;&#xFE0F; | &#x1F64E;&#x200D;&#x2642;&#xFE0F; | &#x1F64E;&#x200D;&#x2642;&#xFE0F; | 
-| woman pouting | &#x1F64E;&#x200D;&#x2640;&#xFE0F; | &#x1F64E;&#x200D;&#x2640;&#xFE0F; | &#x1F64E;&#x200D;&#x2640;&#xFE0F; | 
 | person gesturing NO | &#x1F645; | &#x1F645; | &#x1F645; | 
-| man gesturing NO | &#x1F645;&#x200D;&#x2642;&#xFE0F; | &#x1F645;&#x200D;&#x2642;&#xFE0F; | &#x1F645;&#x200D;&#x2642;&#xFE0F; | 
-| woman gesturing NO | &#x1F645;&#x200D;&#x2640;&#xFE0F; | &#x1F645;&#x200D;&#x2640;&#xFE0F; | &#x1F645;&#x200D;&#x2640;&#xFE0F; | 
 | person gesturing OK | &#x1F646; | &#x1F646; | &#x1F646; | 
-| man gesturing OK | &#x1F646;&#x200D;&#x2642;&#xFE0F; | &#x1F646;&#x200D;&#x2642;&#xFE0F; | &#x1F646;&#x200D;&#x2642;&#xFE0F; | 
-| woman gesturing OK | &#x1F646;&#x200D;&#x2640;&#xFE0F; | &#x1F646;&#x200D;&#x2640;&#xFE0F; | &#x1F646;&#x200D;&#x2640;&#xFE0F; | 
 | person tipping hand | &#x1F481; | &#x1F481; | &#x1F481; | 
-| man tipping hand | &#x1F481;&#x200D;&#x2642;&#xFE0F; | &#x1F481;&#x200D;&#x2642;&#xFE0F; | &#x1F481;&#x200D;&#x2642;&#xFE0F; | 
-| woman tipping hand | &#x1F481;&#x200D;&#x2640;&#xFE0F; | &#x1F481;&#x200D;&#x2640;&#xFE0F; | &#x1F481;&#x200D;&#x2640;&#xFE0F; | 
 | person raising hand | &#x1F64B; | &#x1F64B; | &#x1F64B; | 
-| man raising hand | &#x1F64B;&#x200D;&#x2642;&#xFE0F; | &#x1F64B;&#x200D;&#x2642;&#xFE0F; | &#x1F64B;&#x200D;&#x2642;&#xFE0F; | 
-| woman raising hand | &#x1F64B;&#x200D;&#x2640;&#xFE0F; | &#x1F64B;&#x200D;&#x2640;&#xFE0F; | &#x1F64B;&#x200D;&#x2640;&#xFE0F; | 
 | deaf person |  | &#x1F9CF; | &#x1F9CF; | 
-| deaf man |  | &#x1F9CF;&#x200D;&#x2642;&#xFE0F; | &#x1F9CF;&#x200D;&#x2642;&#xFE0F; | 
-| deaf woman |  | &#x1F9CF;&#x200D;&#x2640;&#xFE0F; | &#x1F9CF;&#x200D;&#x2640;&#xFE0F; | 
 | person bowing | &#x1F647; | &#x1F647; | &#x1F647; | 
-| man bowing | &#x1F647;&#x200D;&#x2642;&#xFE0F; | &#x1F647;&#x200D;&#x2642;&#xFE0F; | &#x1F647;&#x200D;&#x2642;&#xFE0F; | 
-| woman bowing | &#x1F647;&#x200D;&#x2640;&#xFE0F; | &#x1F647;&#x200D;&#x2640;&#xFE0F; | &#x1F647;&#x200D;&#x2640;&#xFE0F; | 
 | person facepalming | &#x1F926; | &#x1F926; | &#x1F926; | 
-| man facepalming | &#x1F926;&#x200D;&#x2642;&#xFE0F; | &#x1F926;&#x200D;&#x2642;&#xFE0F; | &#x1F926;&#x200D;&#x2642;&#xFE0F; | 
-| woman facepalming | &#x1F926;&#x200D;&#x2640;&#xFE0F; | &#x1F926;&#x200D;&#x2640;&#xFE0F; | &#x1F926;&#x200D;&#x2640;&#xFE0F; | 
 | person shrugging | &#x1F937; | &#x1F937; | &#x1F937; | 
-| man shrugging | &#x1F937;&#x200D;&#x2642;&#xFE0F; | &#x1F937;&#x200D;&#x2642;&#xFE0F; | &#x1F937;&#x200D;&#x2642;&#xFE0F; | 
-| woman shrugging | &#x1F937;&#x200D;&#x2640;&#xFE0F; | &#x1F937;&#x200D;&#x2640;&#xFE0F; | &#x1F937;&#x200D;&#x2640;&#xFE0F; | 
+
 
 ### person-role
 
 | name | EmojiOne | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | health worker |  | &#x1F9D1;&#x200D;&#x2695;&#xFE0F; | &#x1F9D1;&#x200D;&#x2695;&#xFE0F; | 
-| man health worker | &#x1F468;&#x200D;&#x2695;&#xFE0F; | &#x1F468;&#x200D;&#x2695;&#xFE0F; | &#x1F468;&#x200D;&#x2695;&#xFE0F; | 
-| woman health worker | &#x1F469;&#x200D;&#x2695;&#xFE0F; | &#x1F469;&#x200D;&#x2695;&#xFE0F; | &#x1F469;&#x200D;&#x2695;&#xFE0F; | 
 | student |  | &#x1F9D1;&#x200D;&#x1F393; | &#x1F9D1;&#x200D;&#x1F393; | 
-| man student | &#x1F468;&#x200D;&#x1F393; | &#x1F468;&#x200D;&#x1F393; | &#x1F468;&#x200D;&#x1F393; | 
-| woman student | &#x1F469;&#x200D;&#x1F393; | &#x1F469;&#x200D;&#x1F393; | &#x1F469;&#x200D;&#x1F393; | 
 | teacher |  | &#x1F9D1;&#x200D;&#x1F3EB; | &#x1F9D1;&#x200D;&#x1F3EB; | 
-| man teacher | &#x1F468;&#x200D;&#x1F3EB; | &#x1F468;&#x200D;&#x1F3EB; | &#x1F468;&#x200D;&#x1F3EB; | 
-| woman teacher | &#x1F469;&#x200D;&#x1F3EB; | &#x1F469;&#x200D;&#x1F3EB; | &#x1F469;&#x200D;&#x1F3EB; | 
 | judge |  | &#x1F9D1;&#x200D;&#x2696;&#xFE0F; | &#x1F9D1;&#x200D;&#x2696;&#xFE0F; | 
-| man judge | &#x1F468;&#x200D;&#x2696;&#xFE0F; | &#x1F468;&#x200D;&#x2696;&#xFE0F; | &#x1F468;&#x200D;&#x2696;&#xFE0F; | 
-| woman judge | &#x1F469;&#x200D;&#x2696;&#xFE0F; | &#x1F469;&#x200D;&#x2696;&#xFE0F; | &#x1F469;&#x200D;&#x2696;&#xFE0F; | 
 | farmer |  | &#x1F9D1;&#x200D;&#x1F33E; | &#x1F9D1;&#x200D;&#x1F33E; | 
-| man farmer | &#x1F468;&#x200D;&#x1F33E; | &#x1F468;&#x200D;&#x1F33E; | &#x1F468;&#x200D;&#x1F33E; | 
-| woman farmer | &#x1F469;&#x200D;&#x1F33E; | &#x1F469;&#x200D;&#x1F33E; | &#x1F469;&#x200D;&#x1F33E; | 
 | cook |  | &#x1F9D1;&#x200D;&#x1F373; | &#x1F9D1;&#x200D;&#x1F373; | 
-| man cook | &#x1F468;&#x200D;&#x1F373; | &#x1F468;&#x200D;&#x1F373; | &#x1F468;&#x200D;&#x1F373; | 
-| woman cook | &#x1F469;&#x200D;&#x1F373; | &#x1F469;&#x200D;&#x1F373; | &#x1F469;&#x200D;&#x1F373; | 
 | mechanic |  | &#x1F9D1;&#x200D;&#x1F527; | &#x1F9D1;&#x200D;&#x1F527; | 
-| man mechanic | &#x1F468;&#x200D;&#x1F527; | &#x1F468;&#x200D;&#x1F527; | &#x1F468;&#x200D;&#x1F527; | 
-| woman mechanic | &#x1F469;&#x200D;&#x1F527; | &#x1F469;&#x200D;&#x1F527; | &#x1F469;&#x200D;&#x1F527; | 
 | factory worker |  | &#x1F9D1;&#x200D;&#x1F3ED; | &#x1F9D1;&#x200D;&#x1F3ED; | 
-| man factory worker | &#x1F468;&#x200D;&#x1F3ED; | &#x1F468;&#x200D;&#x1F3ED; | &#x1F468;&#x200D;&#x1F3ED; | 
-| woman factory worker | &#x1F469;&#x200D;&#x1F3ED; | &#x1F469;&#x200D;&#x1F3ED; | &#x1F469;&#x200D;&#x1F3ED; | 
 | office worker |  | &#x1F9D1;&#x200D;&#x1F4BC; | &#x1F9D1;&#x200D;&#x1F4BC; | 
-| man office worker | &#x1F468;&#x200D;&#x1F4BC; | &#x1F468;&#x200D;&#x1F4BC; | &#x1F468;&#x200D;&#x1F4BC; | 
-| woman office worker | &#x1F469;&#x200D;&#x1F4BC; | &#x1F469;&#x200D;&#x1F4BC; | &#x1F469;&#x200D;&#x1F4BC; | 
 | scientist |  | &#x1F9D1;&#x200D;&#x1F52C; | &#x1F9D1;&#x200D;&#x1F52C; | 
-| man scientist | &#x1F468;&#x200D;&#x1F52C; | &#x1F468;&#x200D;&#x1F52C; | &#x1F468;&#x200D;&#x1F52C; | 
-| woman scientist | &#x1F469;&#x200D;&#x1F52C; | &#x1F469;&#x200D;&#x1F52C; | &#x1F469;&#x200D;&#x1F52C; | 
 | technologist |  | &#x1F9D1;&#x200D;&#x1F4BB; | &#x1F9D1;&#x200D;&#x1F4BB; | 
-| man technologist | &#x1F468;&#x200D;&#x1F4BB; | &#x1F468;&#x200D;&#x1F4BB; | &#x1F468;&#x200D;&#x1F4BB; | 
-| woman technologist | &#x1F469;&#x200D;&#x1F4BB; | &#x1F469;&#x200D;&#x1F4BB; | &#x1F469;&#x200D;&#x1F4BB; | 
 | singer |  | &#x1F9D1;&#x200D;&#x1F3A4; | &#x1F9D1;&#x200D;&#x1F3A4; | 
-| man singer | &#x1F468;&#x200D;&#x1F3A4; | &#x1F468;&#x200D;&#x1F3A4; | &#x1F468;&#x200D;&#x1F3A4; | 
-| woman singer | &#x1F469;&#x200D;&#x1F3A4; | &#x1F469;&#x200D;&#x1F3A4; | &#x1F469;&#x200D;&#x1F3A4; | 
 | artist |  | &#x1F9D1;&#x200D;&#x1F3A8; | &#x1F9D1;&#x200D;&#x1F3A8; | 
-| man artist | &#x1F468;&#x200D;&#x1F3A8; | &#x1F468;&#x200D;&#x1F3A8; | &#x1F468;&#x200D;&#x1F3A8; | 
-| woman artist | &#x1F469;&#x200D;&#x1F3A8; | &#x1F469;&#x200D;&#x1F3A8; | &#x1F469;&#x200D;&#x1F3A8; | 
 | pilot |  | &#x1F9D1;&#x200D;&#x2708;&#xFE0F; | &#x1F9D1;&#x200D;&#x2708;&#xFE0F; | 
-| man pilot | &#x1F468;&#x200D;&#x2708;&#xFE0F; | &#x1F468;&#x200D;&#x2708;&#xFE0F; | &#x1F468;&#x200D;&#x2708;&#xFE0F; | 
-| woman pilot | &#x1F469;&#x200D;&#x2708;&#xFE0F; | &#x1F469;&#x200D;&#x2708;&#xFE0F; | &#x1F469;&#x200D;&#x2708;&#xFE0F; | 
 | astronaut |  | &#x1F9D1;&#x200D;&#x1F680; | &#x1F9D1;&#x200D;&#x1F680; | 
-| man astronaut | &#x1F468;&#x200D;&#x1F680; | &#x1F468;&#x200D;&#x1F680; | &#x1F468;&#x200D;&#x1F680; | 
-| woman astronaut | &#x1F469;&#x200D;&#x1F680; | &#x1F469;&#x200D;&#x1F680; | &#x1F469;&#x200D;&#x1F680; | 
 | firefighter |  | &#x1F9D1;&#x200D;&#x1F692; | &#x1F9D1;&#x200D;&#x1F692; | 
-| man firefighter | &#x1F468;&#x200D;&#x1F692; | &#x1F468;&#x200D;&#x1F692; | &#x1F468;&#x200D;&#x1F692; | 
-| woman firefighter | &#x1F469;&#x200D;&#x1F692; | &#x1F469;&#x200D;&#x1F692; | &#x1F469;&#x200D;&#x1F692; | 
 | police officer | &#x1F46E; | &#x1F46E; | &#x1F46E; | 
-| man police officer | &#x1F46E;&#x200D;&#x2642;&#xFE0F; | &#x1F46E;&#x200D;&#x2642;&#xFE0F; | &#x1F46E;&#x200D;&#x2642;&#xFE0F; | 
-| woman police officer | &#x1F46E;&#x200D;&#x2640;&#xFE0F; | &#x1F46E;&#x200D;&#x2640;&#xFE0F; | &#x1F46E;&#x200D;&#x2640;&#xFE0F; | 
 | detective | &#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | 
-| man detective | &#x1F575;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x1F575;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x1F575;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | 
-| woman detective | &#x1F575;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x1F575;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x1F575;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | 
 | guard | &#x1F482; | &#x1F482; | &#x1F482; | 
-| man guard | &#x1F482;&#x200D;&#x2642;&#xFE0F; | &#x1F482;&#x200D;&#x2642;&#xFE0F; | &#x1F482;&#x200D;&#x2642;&#xFE0F; | 
-| woman guard | &#x1F482;&#x200D;&#x2640;&#xFE0F; | &#x1F482;&#x200D;&#x2640;&#xFE0F; | &#x1F482;&#x200D;&#x2640;&#xFE0F; | 
 | ninja |  | &#x1F977; | &#x1F977; | 
 | construction worker | &#x1F477; | &#x1F477; | &#x1F477; | 
-| man construction worker | &#x1F477;&#x200D;&#x2642;&#xFE0F; | &#x1F477;&#x200D;&#x2642;&#xFE0F; | &#x1F477;&#x200D;&#x2642;&#xFE0F; | 
-| woman construction worker | &#x1F477;&#x200D;&#x2640;&#xFE0F; | &#x1F477;&#x200D;&#x2640;&#xFE0F; | &#x1F477;&#x200D;&#x2640;&#xFE0F; | 
 | prince | &#x1F934; | &#x1F934; | &#x1F934; | 
 | princess | &#x1F478; | &#x1F478; | &#x1F478; | 
 | person wearing turban | &#x1F473; | &#x1F473; | &#x1F473; | 
-| man wearing turban | &#x1F473;&#x200D;&#x2642;&#xFE0F; | &#x1F473;&#x200D;&#x2642;&#xFE0F; | &#x1F473;&#x200D;&#x2642;&#xFE0F; | 
-| woman wearing turban | &#x1F473;&#x200D;&#x2640;&#xFE0F; | &#x1F473;&#x200D;&#x2640;&#xFE0F; | &#x1F473;&#x200D;&#x2640;&#xFE0F; | 
 | person with skullcap | &#x1F472; | &#x1F472; | &#x1F472; | 
 | woman with headscarf |  | &#x1F9D5; | &#x1F9D5; | 
 | person in tuxedo | &#x1F935; | &#x1F935; | &#x1F935; | 
-| man in tuxedo |  | &#x1F935;&#x200D;&#x2642;&#xFE0F; | &#x1F935;&#x200D;&#x2642;&#xFE0F; | 
-| woman in tuxedo |  | &#x1F935;&#x200D;&#x2640;&#xFE0F; | &#x1F935;&#x200D;&#x2640;&#xFE0F; | 
 | person with veil | &#x1F470; | &#x1F470; | &#x1F470; | 
-| man with veil |  | &#x1F470;&#x200D;&#x2642;&#xFE0F; | &#x1F470;&#x200D;&#x2642;&#xFE0F; | 
-| woman with veil |  | &#x1F470;&#x200D;&#x2640;&#xFE0F; | &#x1F470;&#x200D;&#x2640;&#xFE0F; | 
 | pregnant woman | &#x1F930; | &#x1F930; | &#x1F930; | 
 | breast-feeding |  | &#x1F931; | &#x1F931; | 
-| woman feeding baby |  | &#x1F469;&#x200D;&#x1F37C; | &#x1F469;&#x200D;&#x1F37C; | 
-| man feeding baby |  | &#x1F468;&#x200D;&#x1F37C; | &#x1F468;&#x200D;&#x1F37C; | 
 | person feeding baby |  | &#x1F9D1;&#x200D;&#x1F37C; | &#x1F9D1;&#x200D;&#x1F37C; | 
 
 ### person-fantasy
@@ -726,32 +659,14 @@ td:nth-child(6) {
 | name | EmojiOne | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | person getting massage | &#x1F486; | &#x1F486; | &#x1F486; | 
-| man getting massage | &#x1F486;&#x200D;&#x2642;&#xFE0F; | &#x1F486;&#x200D;&#x2642;&#xFE0F; | &#x1F486;&#x200D;&#x2642;&#xFE0F; | 
-| woman getting massage | &#x1F486;&#x200D;&#x2640;&#xFE0F; | &#x1F486;&#x200D;&#x2640;&#xFE0F; | &#x1F486;&#x200D;&#x2640;&#xFE0F; | 
 | person getting haircut | &#x1F487; | &#x1F487; | &#x1F487; | 
-| man getting haircut | &#x1F487;&#x200D;&#x2642;&#xFE0F; | &#x1F487;&#x200D;&#x2642;&#xFE0F; | &#x1F487;&#x200D;&#x2642;&#xFE0F; | 
-| woman getting haircut | &#x1F487;&#x200D;&#x2640;&#xFE0F; | &#x1F487;&#x200D;&#x2640;&#xFE0F; | &#x1F487;&#x200D;&#x2640;&#xFE0F; | 
 | person walking | &#x1F6B6; | &#x1F6B6; | &#x1F6B6; | 
-| man walking | &#x1F6B6;&#x200D;&#x2642;&#xFE0F; | &#x1F6B6;&#x200D;&#x2642;&#xFE0F; | &#x1F6B6;&#x200D;&#x2642;&#xFE0F; | 
-| woman walking | &#x1F6B6;&#x200D;&#x2640;&#xFE0F; | &#x1F6B6;&#x200D;&#x2640;&#xFE0F; | &#x1F6B6;&#x200D;&#x2640;&#xFE0F; | 
 | person standing |  | &#x1F9CD; | &#x1F9CD; | 
-| man standing |  | &#x1F9CD;&#x200D;&#x2642;&#xFE0F; | &#x1F9CD;&#x200D;&#x2642;&#xFE0F; | 
-| woman standing |  | &#x1F9CD;&#x200D;&#x2640;&#xFE0F; | &#x1F9CD;&#x200D;&#x2640;&#xFE0F; | 
 | person kneeling |  | &#x1F9CE; | &#x1F9CE; | 
-| man kneeling |  | &#x1F9CE;&#x200D;&#x2642;&#xFE0F; | &#x1F9CE;&#x200D;&#x2642;&#xFE0F; | 
-| woman kneeling |  | &#x1F9CE;&#x200D;&#x2640;&#xFE0F; | &#x1F9CE;&#x200D;&#x2640;&#xFE0F; | 
 | person with white cane |  | &#x1F9D1;&#x200D;&#x1F9AF; | &#x1F9D1;&#x200D;&#x1F9AF; | 
-| man with white cane |  | &#x1F468;&#x200D;&#x1F9AF; | &#x1F468;&#x200D;&#x1F9AF; | 
-| woman with white cane |  | &#x1F469;&#x200D;&#x1F9AF; | &#x1F469;&#x200D;&#x1F9AF; | 
 | person in motorized wheelchair |  | &#x1F9D1;&#x200D;&#x1F9BC; | &#x1F9D1;&#x200D;&#x1F9BC; | 
-| man in motorized wheelchair |  | &#x1F468;&#x200D;&#x1F9BC; | &#x1F468;&#x200D;&#x1F9BC; | 
-| woman in motorized wheelchair |  | &#x1F469;&#x200D;&#x1F9BC; | &#x1F469;&#x200D;&#x1F9BC; | 
 | person in manual wheelchair |  | &#x1F9D1;&#x200D;&#x1F9BD; | &#x1F9D1;&#x200D;&#x1F9BD; | 
-| man in manual wheelchair |  | &#x1F468;&#x200D;&#x1F9BD; | &#x1F468;&#x200D;&#x1F9BD; | 
-| woman in manual wheelchair |  | &#x1F469;&#x200D;&#x1F9BD; | &#x1F469;&#x200D;&#x1F9BD; | 
 | person running | &#x1F3C3; | &#x1F3C3; | &#x1F3C3; | 
-| man running | &#x1F3C3;&#x200D;&#x2642;&#xFE0F; | &#x1F3C3;&#x200D;&#x2642;&#xFE0F; | &#x1F3C3;&#x200D;&#x2642;&#xFE0F; | 
-| woman running | &#x1F3C3;&#x200D;&#x2640;&#xFE0F; | &#x1F3C3;&#x200D;&#x2640;&#xFE0F; | &#x1F3C3;&#x200D;&#x2640;&#xFE0F; | 
 | woman dancing | &#x1F483; | &#x1F483; | &#x1F483; | 
 | man dancing | &#x1F57A; | &#x1F57A; | &#x1F57A; | 
 | person in suit levitating | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | 
@@ -759,11 +674,8 @@ td:nth-child(6) {
 | men with bunny ears | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | 
 | women with bunny ears | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | 
 | person in steamy room |  | &#x1F9D6; | &#x1F9D6; | 
-| man in steamy room |  | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | 
-| woman in steamy room |  | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | 
 | person climbing |  | &#x1F9D7; | &#x1F9D7; | 
-| man climbing |  | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | 
-| woman climbing |  | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | 
+
 
 ### person-sport
 
@@ -774,52 +686,27 @@ td:nth-child(6) {
 | skier | &#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | 
 | snowboarder | &#x1F3C2; | &#x1F3C2; | &#x1F3C2; | 
 | person golfing | &#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | 
-| man golfing | &#x1F3CC;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x1F3CC;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x1F3CC;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | 
-| woman golfing | &#x1F3CC;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x1F3CC;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x1F3CC;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | 
 | person surfing | &#x1F3C4; | &#x1F3C4; | &#x1F3C4; | 
-| man surfing | &#x1F3C4;&#x200D;&#x2642;&#xFE0F; | &#x1F3C4;&#x200D;&#x2642;&#xFE0F; | &#x1F3C4;&#x200D;&#x2642;&#xFE0F; | 
-| woman surfing | &#x1F3C4;&#x200D;&#x2640;&#xFE0F; | &#x1F3C4;&#x200D;&#x2640;&#xFE0F; | &#x1F3C4;&#x200D;&#x2640;&#xFE0F; | 
 | person rowing boat | &#x1F6A3; | &#x1F6A3; | &#x1F6A3; | 
-| man rowing boat | &#x1F6A3;&#x200D;&#x2642;&#xFE0F; | &#x1F6A3;&#x200D;&#x2642;&#xFE0F; | &#x1F6A3;&#x200D;&#x2642;&#xFE0F; | 
-| woman rowing boat | &#x1F6A3;&#x200D;&#x2640;&#xFE0F; | &#x1F6A3;&#x200D;&#x2640;&#xFE0F; | &#x1F6A3;&#x200D;&#x2640;&#xFE0F; | 
 | person swimming | &#x1F3CA; | &#x1F3CA; | &#x1F3CA; | 
-| man swimming | &#x1F3CA;&#x200D;&#x2642;&#xFE0F; | &#x1F3CA;&#x200D;&#x2642;&#xFE0F; | &#x1F3CA;&#x200D;&#x2642;&#xFE0F; | 
-| woman swimming | &#x1F3CA;&#x200D;&#x2640;&#xFE0F; | &#x1F3CA;&#x200D;&#x2640;&#xFE0F; | &#x1F3CA;&#x200D;&#x2640;&#xFE0F; | 
 | person bouncing ball | &#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | 
-| man bouncing ball | &#x26F9;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x26F9;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x26F9;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | 
-| woman bouncing ball | &#x26F9;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x26F9;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x26F9;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | 
 | person lifting weights | &#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | 
-| man lifting weights | &#x1F3CB;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x1F3CB;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x1F3CB;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | 
-| woman lifting weights | &#x1F3CB;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x1F3CB;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x1F3CB;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | 
 | person biking | &#x1F6B4; | &#x1F6B4; | &#x1F6B4; | 
-| man biking | &#x1F6B4;&#x200D;&#x2642;&#xFE0F; | &#x1F6B4;&#x200D;&#x2642;&#xFE0F; | &#x1F6B4;&#x200D;&#x2642;&#xFE0F; | 
-| woman biking | &#x1F6B4;&#x200D;&#x2640;&#xFE0F; | &#x1F6B4;&#x200D;&#x2640;&#xFE0F; | &#x1F6B4;&#x200D;&#x2640;&#xFE0F; | 
 | person mountain biking | &#x1F6B5; | &#x1F6B5; | &#x1F6B5; | 
-| man mountain biking | &#x1F6B5;&#x200D;&#x2642;&#xFE0F; | &#x1F6B5;&#x200D;&#x2642;&#xFE0F; | &#x1F6B5;&#x200D;&#x2642;&#xFE0F; | 
-| woman mountain biking | &#x1F6B5;&#x200D;&#x2640;&#xFE0F; | &#x1F6B5;&#x200D;&#x2640;&#xFE0F; | &#x1F6B5;&#x200D;&#x2640;&#xFE0F; | 
 | person cartwheeling | &#x1F938; | &#x1F938; | &#x1F938; | 
-| man cartwheeling | &#x1F938;&#x200D;&#x2642;&#xFE0F; | &#x1F938;&#x200D;&#x2642;&#xFE0F; | &#x1F938;&#x200D;&#x2642;&#xFE0F; | 
-| woman cartwheeling | &#x1F938;&#x200D;&#x2640;&#xFE0F; | &#x1F938;&#x200D;&#x2640;&#xFE0F; | &#x1F938;&#x200D;&#x2640;&#xFE0F; | 
 | people wrestling | &#x1F93C; | &#x1F93C; | &#x1F93C; | 
 | men wrestling | &#x1F93C;&#x200D;&#x2642;&#xFE0F; | &#x1F93C;&#x200D;&#x2642;&#xFE0F; | &#x1F93C;&#x200D;&#x2642;&#xFE0F; | 
 | women wrestling | &#x1F93C;&#x200D;&#x2640;&#xFE0F; | &#x1F93C;&#x200D;&#x2640;&#xFE0F; | &#x1F93C;&#x200D;&#x2640;&#xFE0F; | 
 | person playing water polo | &#x1F93D; | &#x1F93D; | &#x1F93D; | 
-| man playing water polo | &#x1F93D;&#x200D;&#x2642;&#xFE0F; | &#x1F93D;&#x200D;&#x2642;&#xFE0F; | &#x1F93D;&#x200D;&#x2642;&#xFE0F; | 
-| woman playing water polo | &#x1F93D;&#x200D;&#x2640;&#xFE0F; | &#x1F93D;&#x200D;&#x2640;&#xFE0F; | &#x1F93D;&#x200D;&#x2640;&#xFE0F; | 
 | person playing handball | &#x1F93E; | &#x1F93E; | &#x1F93E; | 
-| man playing handball | &#x1F93E;&#x200D;&#x2642;&#xFE0F; | &#x1F93E;&#x200D;&#x2642;&#xFE0F; | &#x1F93E;&#x200D;&#x2642;&#xFE0F; | 
-| woman playing handball | &#x1F93E;&#x200D;&#x2640;&#xFE0F; | &#x1F93E;&#x200D;&#x2640;&#xFE0F; | &#x1F93E;&#x200D;&#x2640;&#xFE0F; | 
 | person juggling | &#x1F939; | &#x1F939; | &#x1F939; | 
-| man juggling | &#x1F939;&#x200D;&#x2642;&#xFE0F; | &#x1F939;&#x200D;&#x2642;&#xFE0F; | &#x1F939;&#x200D;&#x2642;&#xFE0F; | 
-| woman juggling | &#x1F939;&#x200D;&#x2640;&#xFE0F; | &#x1F939;&#x200D;&#x2640;&#xFE0F; | &#x1F939;&#x200D;&#x2640;&#xFE0F; | 
+
 
 ### person-resting
 
 | name | EmojiOne | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | person in lotus position |  | &#x1F9D8; | &#x1F9D8; | 
-| man in lotus position |  | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | 
-| woman in lotus position |  | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | 
 | person taking bath | &#x1F6C0; | &#x1F6C0; | &#x1F6C0; | 
 | person in bed | &#x1F6CC; | &#x1F6CC; | &#x1F6CC; | 
 
@@ -855,16 +742,16 @@ td:nth-child(6) {
 | family: woman, woman, girl, boy | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
 | family: woman, woman, boy, boy | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
 | family: woman, woman, girl, girl | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
-| family: man, boy | &#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466; | 
-| family: man, boy, boy | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| family: man, girl | &#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467; | 
-| family: man, girl, boy | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| family: man, girl, girl | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
-| family: woman, boy | &#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466; | 
-| family: woman, boy, boy | &#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| family: woman, girl | &#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467; | 
-| family: woman, girl, boy | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| family: woman, girl, girl | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+| family: man, boy |   | &#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466; | 
+| family: man, boy, boy |   | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| family: man, girl |   | &#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467; | 
+| family: man, girl, boy |   | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| family: man, girl, girl |   | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+| family: woman, boy |   | &#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466; | 
+| family: woman, boy, boy |   | &#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| family: woman, girl |   | &#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467; | 
+| family: woman, girl, boy |   | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| family: woman, girl, girl |   | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
 
 ### person-symbol
 
