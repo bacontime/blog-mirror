@@ -185,6 +185,10 @@ TwemojiSmallReplacement.ttf
 - When I open the svg files in inkscape, sure enough, the noto assets are much bigger.
 - It is worth noticing that the thumbnail for the svg files when view in MacOS is tiny and cornered as well. Not on windows though. It might be an operating system level misinterpretation.
 
+I really wanted to compile the blobmojis to a COLRv0 font, but the blobmoji svgs are just too wonky.
+It looks like Mozilla already made a COLRv0 version of the EmojiOne font though. 
+
+EmojiOneMozilla.ttf
 
 -->
 
@@ -196,7 +200,7 @@ td {
 }
 @font-face {
   font-family: 'Adobe EmojiOne';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneColorAdobe.woff2);
+  src: url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneMozilla.ttf);
 }
 td:nth-child(2) {
   font-family: 'Adobe EmojiOne';
