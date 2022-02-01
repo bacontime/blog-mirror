@@ -4,7 +4,8 @@ grand_parent: Language
 parent: Unicode Characters
 ---
 
-# Comparison Table for Open-Source Emoji Fonts
+# Comparison Table for a Few Open-Source Emoji Fonts
+
 
 
 <!--
@@ -174,7 +175,7 @@ td:nth-child(2) {
 
 @font-face {
   font-family: 'Twemoji Fixed';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/catmoji.ttf);
+  src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/TwemojiMozillaBoundFix.ttf);
 }
 td:nth-child(3) {
   font-family: 'Twemoji Fixed';
