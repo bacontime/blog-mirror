@@ -16,7 +16,6 @@ The fonts depicted below are:
 - [OpenMoji](https://openmoji.org/) is an emoji set designed primarily by students and staff at the Schwäbisch Gmünd University of Design. It's released under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. The main version of the font linked on the OpenMoji website is incredibly glitchy, and so the font loaded by this page [comes from a fork of the project's github repo](https://github.com/mavit/openmoji/tree/nanoemoji/font/glyf_colr_0).
 
 
-https://openmoji.org/
 
 There are several more open-source emoji sets out there, but none of the following are displayed on this page because of a lack of universally compatible font implementations (and also because the fonts that do exist are massive in size).
 These additional emoji sets are:
@@ -713,8 +712,6 @@ td:nth-child(4) {
 | person mountain biking | &#x1F6B5; | &#x1F6B5; | &#x1F6B5; | 
 | person cartwheeling | &#x1F938; | &#x1F938; | &#x1F938; | 
 | people wrestling | &#x1F93C; | &#x1F93C; | &#x1F93C; | 
-| men wrestling | &#x1F93C;&#x200D;&#x2642;&#xFE0F; | &#x1F93C;&#x200D;&#x2642;&#xFE0F; | &#x1F93C;&#x200D;&#x2642;&#xFE0F; | 
-| women wrestling | &#x1F93C;&#x200D;&#x2640;&#xFE0F; | &#x1F93C;&#x200D;&#x2640;&#xFE0F; | &#x1F93C;&#x200D;&#x2640;&#xFE0F; | 
 | person playing water polo | &#x1F93D; | &#x1F93D; | &#x1F93D; | 
 | person playing handball | &#x1F93E; | &#x1F93E; | &#x1F93E; | 
 | person juggling | &#x1F939; | &#x1F939; | &#x1F939; | 
