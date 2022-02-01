@@ -130,6 +130,7 @@ Catmoji.ttf
 - also made using grunt?
 - but only works in chromium browsers?
 - I am a confusion.
+- Ah, despite the repo name, the latest release version doesn't actually have colr glyphs. But the authors uploaded a colr version in one of the issues pages.
 
 
 
