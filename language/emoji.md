@@ -15,7 +15,7 @@ But all of the glyphs below are in the form of web fonts loaded by this page. An
 <summary> Click for more information about these fonts.</summary>
 
 EmojiOne
-: EmojiOne is an early set of emojis which hasn't been under development since Emoji version 4.0. It's published under the MiT license, and a closed-source successor is provided under the name [Joypixels](https://www.joypixels.com/emoji/flat). The assets for EmojiOne can be found in [this forked repo called EmojiTwo](https://github.com/EmojiTwo/emojitwo), and a COLRv0 version of the font [is provided by Mozilla](https://github.com/mozilla/twemoji-colr/releases/tag/v0.2.2).
+: EmojiOne is an early set of emojis which hasn't been under development since Emoji version 4.0. It's published under the MiT license, and a closed-source successor is provided under the name [Joypixels](https://www.joypixels.com/emoji/flat). The assets for EmojiOne can be found in [this forked repo called EmojiTwo](https://github.com/EmojiTwo/emojitwo), and a COLRv0 version of the font [is provided by Mozilla](https://github.com/mozilla/twemoji-colr/releases/tag/v0.2.2). A backup version of the font (which should only be relevant on Chrome for MacOS) is [provided by Adobe](https://github.com/adobe-fonts/emojione-color).
 
 [Twemoji](https://github.com/twitter/twemoji)
 : Twemoji is Twitter's emoji set, and [a font implementation is provided by Mozilla here](https://github.com/mozilla/twemoji-colr), released under the Apache License. The version of the font in this page is actually a slight modification from the one published on Mozilla's repo; I recompiled it to fix [an issue where the font wouldn't render in some browsers on MacOS](https://github.com/mozilla/twemoji-colr/issues/50).
@@ -220,7 +220,7 @@ td {
 }
 @font-face {
   font-family: 'Mozilla EmojiOne';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneMozilla.ttf);
+  src: url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneMozilla.ttf), url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiOneColor.otf);
 }
 td:nth-child(2) {
   font-family: 'Mozilla EmojiOne';
