@@ -8,13 +8,15 @@ parent: Unicode Characters
 
 The tables below depict a few different open-source emoji fonts.
 [A more complete comparison can be found here on the Unicode Consortium's website.](https://unicode.org/emoji/charts/full-emoji-list.html)
-But all of the glyphs below are in the form of web fonts loaded by this page.
+But all of the glyphs below are in the form of web fonts loaded by this page. And specifically, they are in the form of COLRv0 web fonts, which have near-universal support across platforms.
 
-The fonts depicted below are:
-- EmojiOne is an early set of emojis which hasn't been under development since Emoji version 4.0. It's published under the MiT license, and a closed-source successor is provided under the name [Joypixels](https://www.joypixels.com/emoji/flat). The assets for EmojiOne can be found in [this forked repo called EmojiTwo](https://github.com/EmojiTwo/emojitwo), but I've found that [the version of the font provided by Adobe](https://github.com/adobe-fonts/emojione-color) is slightly better made.
+
+<details markdown='block'>
+<summary> Click for more information about these fonts.</summary>
+- EmojiOne is an early set of emojis which hasn't been under development since Emoji version 4.0. It's published under the MiT license, and a closed-source successor is provided under the name [Joypixels](https://www.joypixels.com/emoji/flat). The assets for EmojiOne can be found in [this forked repo called EmojiTwo](https://github.com/EmojiTwo/emojitwo), The COLRv0 version of the font in this page [comes from Mozilla](https://github.com/mozilla/twemoji-colr/releases/tag/v0.2.2).
 - [Twemoji](https://github.com/twitter/twemoji) is Twitter's emoji set, and [a font implementation is provided by Mozilla here](https://github.com/mozilla/twemoji-colr), released under the Apache License. The version of the font in this page is actually a slight modification from the one published on Mozilla's repo; I recompiled it to fix [an issue where the font wouldn't render in some browsers on MacOS](https://github.com/mozilla/twemoji-colr/issues/50).
 - [OpenMoji](https://openmoji.org/) is an emoji set designed primarily by students and staff at the Schwäbisch Gmünd University of Design. It's released under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. The main version of the font linked on the OpenMoji website is incredibly glitchy, and so the font loaded by this page [comes from a fork of the project's github repo](https://github.com/mavit/openmoji/tree/nanoemoji/font/glyf_colr_0).
-
+</details>
 
 
 There are several more open-source emoji sets out there, but none of the following are displayed on this page because of a lack of universally compatible font implementations (and also because the fonts that do exist are massive in size).
@@ -25,7 +27,8 @@ These additional emoji sets are:
 
 
 
-<!--TODO: Link to a second version of the page with the full shebang. All the fonts, baybee.>
+<!--TODO: Link to a second version of the page with the full shebang. All the fonts, baybee.
+TODO: Recompile the EmojiOne from Mozilla but with a fixed layerize.js file-->
 
 
 The tables below cover most of the [emoji codepoints in version 13.0 of the standard](https://www.unicode.org/Public/emoji/13.0/emoji-test.txt), but I've left out most of the skin tone and gender variations (which comprise nearly half of the glyphs).
