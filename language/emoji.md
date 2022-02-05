@@ -244,7 +244,7 @@ td:nth-child(3) {
 
 @font-face {
   font-family: 'OpenMoji Nano';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/openmoji/OpenMoji-Color.COLRv0.ttf);
+  src: url(../../webfonts/emoji/OpenMojiCOLRv0.ttf);
 }
 td:nth-child(4) {
   font-family: 'OpenMoji Nano';
