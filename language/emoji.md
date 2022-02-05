@@ -14,20 +14,25 @@ But all of the glyphs below are in the form of web fonts loaded by this page. An
 <details markdown='block'>
 <summary> Click for more information about these fonts.</summary>
 
-EmojiOne
-: EmojiOne is an early set of emojis which hasn't been under development since Emoji version 4.0. It's published under the MiT license, and a closed-source successor is provided under the name [Joypixels](https://www.joypixels.com/emoji/flat). The assets for EmojiOne can be found in [this forked repo called EmojiTwo](https://github.com/EmojiTwo/emojitwo), and I've compiled the svg files into a font using [nanoemoji v0.8.1[(https://github.com/googlefonts/nanoemoji). <!--and a COLRv0 version of the font [is provided by Mozilla](https://github.com/mozilla/twemoji-colr/releases/tag/v0.2.2). The version of the font on this page doesn't render in Chrome or Firefox on MacOS. It should work pretty much everywhere else though.--> <!--A backup version of the font (which should only be relevant on Chrome for MacOS) is [provided by Adobe](https://github.com/adobe-fonts/emojione-color).-->
+I've built all three of these fonts using v0.8.1 of Google's [nanoemoji](https://github.com/googlefonts/nanoemoji) tool.
+    
+[EmojiTwo](https://github.com/EmojiTwo/emojitwo)
+: EmojiOne was an early set of emojis which hasn't been under development since Emoji version 4.0. A closed-source successor is provided under the name [Joypixels](https://www.joypixels.com/emoji/flat). There is also an open-source fork called [EmojiTwo](https://github.com/EmojiTwo/emojitwo), which is the source for the images used in the font on this page. The images are used under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license.
 
 [Twemoji](https://github.com/twitter/twemoji)
-: Twemoji is Twitter's emoji set, and [a font implementation is provided by Mozilla here](https://github.com/mozilla/twemoji-colr), released under the Apache License. The version of the font in this page is actually a slight modification from the one published on Mozilla's repo; I recompiled it to fix [an issue where the font wouldn't render in some browsers on MacOS](https://github.com/mozilla/twemoji-colr/issues/50).
-
+: Twemoji is Twitter's emoji set, and the images are used under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/) license. Mozilla provides a [similar font implementation here](https://github.com/mozilla/twemoji-colr), but Mozilla's version [fails to render properly](https://github.com/mozilla/twemoji-colr/issues/50) in Chrome or Firefox on MacOS.
 
 [OpenMoji](https://openmoji.org/)
-: OpenMoji is an emoji set designed primarily by students and staff at the Schwäbisch Gmünd University of Design. It's released under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. The main version of the font linked on the OpenMoji website is incredibly glitchy, and so the font loaded by this page [comes from a fork of the project's github repo](https://github.com/mavit/openmoji/tree/nanoemoji/font/glyf_colr_0).
+: OpenMoji is an emoji set designed primarily by students and staff at the Schwäbisch Gmünd University of Design. The images are used under the [CC BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) license. The main version of the font linked on the OpenMoji website is incredibly glitchy, and the version used on this page should hopefully work better. Also, thank you to contributor *mavit* for [demonstrating how to compile COLRv0 fonts using nanoemoji](https://github.com/hfg-gmuend/openmoji/pull/260).
 
-
+    
+    
 There are several more open-source emoji sets out there, but none of the following are displayed on this page because of a lack of widely compatible font implementations (and also because the fonts that do exist are massive in size).
 These additional emoji sets are:
-- [Noto Color Emoji by Google](https://github.com/googlefonts/noto-emoji). Google is working on a COLR version of the font, but it's COLRv1. And whereas COLRv0 works basically everywhere, COLRv1 works basically nowhere (except for the Chrome beta).
+    
+- [Noto Color Emoji by Google](https://github.com/googlefonts/noto-emoji). 
+    - Google is working on a COLR version of the font, but it's COLRv1. And whereas COLRv0 works basically everywhere, COLRv1 works basically nowhere (except for the Chrome beta).
+    - Noto Color Emoji can't be easily compiled to a COLRv0 font because COLRv0 doesn't support gradients. 
 - [Blobmoji](https://github.com/C1710/blobmoji), which keeps alive a much-beloved prior version of Google's Emoji set[.](https://github.com/C1710/blobmoji/blob/main/svg/emoji_u1f9a7.svg) 
 - [Catmoji](https://github.com/catmoji/catmoji-colr). It's Twemoji, but they made all the smilies into cats.
 
