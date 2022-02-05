@@ -223,21 +223,21 @@ td {
     vertical-align: middle;
 }
 @font-face {
-  font-family: 'Mozilla EmojiOne';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/emojione/EmojiTwoNanoCOLRv0.ttf);
+  font-family: 'EmojiTwo Nano';
+  src: url(webfonts/emoji/TwemojiCOLRv0.ttf);
 }
 td:nth-child(2) {
-  font-family: 'Mozilla EmojiOne';
+  font-family: 'EmojiTwo Nano';
   font-size: 48px;
   padding: 0px;
 }
 
 @font-face {
-  font-family: 'Twemoji Fixed';
-  src: url(https://www.rmwinslow.com/posts/language/fonts/twitter/TwemojiMozillaBoundFix.ttf);
+  font-family: 'Twemoji Nano';
+  src: url(webfonts/emoji/TwemojiCOLRv0.ttf);
 }
 td:nth-child(3) {
-  font-family: 'Twemoji Fixed';
+  font-family: 'Twemoji Nano';
   font-size: 48px;
   padding: 0px;
 }
