@@ -224,7 +224,7 @@ td {
 }
 @font-face {
   font-family: 'EmojiTwo Nano';
-  src: url(../../webfonts/emoji/TwemojiCOLRv0.ttf);
+  src: url(../../webfonts/emoji/EmojiTwoCOLRv0.ttf);
 }
 td:nth-child(2) {
   font-family: 'EmojiTwo Nano';
