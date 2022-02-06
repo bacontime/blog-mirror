@@ -264,2207 +264,2327 @@ td:nth-child(4) {
 
 
 
-## Smileys & Emotion
-
-
-### face-smiling
 
-| name | EmojiOne | Twemoji | OpenMoji |
+### Smileys & Emotion
+
+#### face-smiling
+
+| name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| grinning face | &#x1F600; | &#x1F600; | &#x1F600; | 
-| grinning face with big eyes | &#x1F603; | &#x1F603; | &#x1F603; | 
-| grinning face with smiling eyes | &#x1F604; | &#x1F604; | &#x1F604; | 
-| beaming face with smiling eyes | &#x1F601; | &#x1F601; | &#x1F601; | 
-| grinning squinting face | &#x1F606; | &#x1F606; | &#x1F606; | 
-| grinning face with sweat | &#x1F605; | &#x1F605; | &#x1F605; | 
-| rolling on the floor laughing | &#x1F923; | &#x1F923; | &#x1F923; | 
-| face with tears of joy | &#x1F602; | &#x1F602; | &#x1F602; | 
-| slightly smiling face | &#x1F642; | &#x1F642; | &#x1F642; | 
-| upside-down face | &#x1F643; | &#x1F643; | &#x1F643; | 
-| winking face | &#x1F609; | &#x1F609; | &#x1F609; | 
-| smiling face with smiling eyes | &#x1F60A; | &#x1F60A; | &#x1F60A; | 
-| smiling face with halo | &#x1F607; | &#x1F607; | &#x1F607; | 
+| <small>1F600</small><br>grinning face<br>&#x1F600; | &#x1F600; | &#x1F600; | &#x1F600; | 
+| <small>1F603</small><br>grinning face with big eyes<br>&#x1F603; | &#x1F603; | &#x1F603; | &#x1F603; | 
+| <small>1F604</small><br>grinning face with smiling eyes<br>&#x1F604; | &#x1F604; | &#x1F604; | &#x1F604; | 
+| <small>1F601</small><br>beaming face with smiling eyes<br>&#x1F601; | &#x1F601; | &#x1F601; | &#x1F601; | 
+| <small>1F606</small><br>grinning squinting face<br>&#x1F606; | &#x1F606; | &#x1F606; | &#x1F606; | 
+| <small>1F605</small><br>grinning face with sweat<br>&#x1F605; | &#x1F605; | &#x1F605; | &#x1F605; | 
+| <small>1F923</small><br>rolling on the floor laughing<br>&#x1F923; | &#x1F923; | &#x1F923; | &#x1F923; | 
+| <small>1F602</small><br>face with tears of joy<br>&#x1F602; | &#x1F602; | &#x1F602; | &#x1F602; | 
+| <small>1F642</small><br>slightly smiling face<br>&#x1F642; | &#x1F642; | &#x1F642; | &#x1F642; | 
+| <small>1F643</small><br>upside-down face<br>&#x1F643; | &#x1F643; | &#x1F643; | &#x1F643; | 
+| <small>1F609</small><br>winking face<br>&#x1F609; | &#x1F609; | &#x1F609; | &#x1F609; | 
+| <small>1F60A</small><br>smiling face with smiling eyes<br>&#x1F60A; | &#x1F60A; | &#x1F60A; | &#x1F60A; | 
+| <small>1F607</small><br>smiling face with halo<br>&#x1F607; | &#x1F607; | &#x1F607; | &#x1F607; | 
 
-### face-affection
+#### face-affection
 
-| name | EmojiOne | Twemoji | OpenMoji |
+| name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| smiling face with hearts |  | &#x1F970; | &#x1F970; | 
-| smiling face with heart-eyes | &#x1F60D; | &#x1F60D; | &#x1F60D; | 
-| star-struck |  | &#x1F929; | &#x1F929; | 
-| face blowing a kiss | &#x1F618; | &#x1F618; | &#x1F618; | 
-| kissing face | &#x1F617; | &#x1F617; | &#x1F617; | 
-| smiling face | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | 
-| kissing face with closed eyes | &#x1F61A; | &#x1F61A; | &#x1F61A; | 
-| kissing face with smiling eyes | &#x1F619; | &#x1F619; | &#x1F619; | 
-| smiling face with tear |  | &#x1F972; | &#x1F972; | 
-
-### face-tongue
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| face savoring food | &#x1F60B; | &#x1F60B; | &#x1F60B; | 
-| face with tongue | &#x1F61B; | &#x1F61B; | &#x1F61B; | 
-| winking face with tongue | &#x1F61C; | &#x1F61C; | &#x1F61C; | 
-| zany face |  | &#x1F92A; | &#x1F92A; | 
-| squinting face with tongue | &#x1F61D; | &#x1F61D; | &#x1F61D; | 
-| money-mouth face | &#x1F911; | &#x1F911; | &#x1F911; | 
-
-### face-hand
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| hugging face | &#x1F917; | &#x1F917; | &#x1F917; | 
-| face with hand over mouth |  | &#x1F92D; | &#x1F92D; | 
-| shushing face |  | &#x1F92B; | &#x1F92B; | 
-| thinking face | &#x1F914; | &#x1F914; | &#x1F914; | 
-
-### face-neutral-skeptical
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| zipper-mouth face | &#x1F910; | &#x1F910; | &#x1F910; | 
-| face with raised eyebrow |  | &#x1F928; | &#x1F928; | 
-| neutral face | &#x1F610; | &#x1F610; | &#x1F610; | 
-| expressionless face | &#x1F611; | &#x1F611; | &#x1F611; | 
-| face without mouth | &#x1F636; | &#x1F636; | &#x1F636; | 
-| smirking face | &#x1F60F; | &#x1F60F; | &#x1F60F; | 
-| unamused face | &#x1F612; | &#x1F612; | &#x1F612; | 
-| face with rolling eyes | &#x1F644; | &#x1F644; | &#x1F644; | 
-| grimacing face | &#x1F62C; | &#x1F62C; | &#x1F62C; | 
-| lying face | &#x1F925; | &#x1F925; | &#x1F925; | 
-
-### face-sleepy
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| relieved face | &#x1F60C; | &#x1F60C; | &#x1F60C; | 
-| pensive face | &#x1F614; | &#x1F614; | &#x1F614; | 
-| sleepy face | &#x1F62A; | &#x1F62A; | &#x1F62A; | 
-| drooling face | &#x1F924; | &#x1F924; | &#x1F924; | 
-| sleeping face | &#x1F634; | &#x1F634; | &#x1F634; | 
-
-### face-unwell
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| face with medical mask | &#x1F637; | &#x1F637; | &#x1F637; | 
-| face with thermometer | &#x1F912; | &#x1F912; | &#x1F912; | 
-| face with head-bandage | &#x1F915; | &#x1F915; | &#x1F915; | 
-| nauseated face | &#x1F922; | &#x1F922; | &#x1F922; | 
-| face vomiting |  | &#x1F92E; | &#x1F92E; | 
-| sneezing face | &#x1F927; | &#x1F927; | &#x1F927; | 
-| hot face |  | &#x1F975; | &#x1F975; | 
-| cold face |  | &#x1F976; | &#x1F976; | 
-| woozy face |  | &#x1F974; | &#x1F974; | 
-| dizzy face | &#x1F635; | &#x1F635; | &#x1F635; | 
-| exploding head |  | &#x1F92F; | &#x1F92F; | 
-
-### face-hat
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| cowboy hat face | &#x1F920; | &#x1F920; | &#x1F920; | 
-| partying face |  | &#x1F973; | &#x1F973; | 
-| disguised face |  | &#x1F978; | &#x1F978; | 
-
-### face-glasses
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| smiling face with sunglasses | &#x1F60E; | &#x1F60E; | &#x1F60E; | 
-| nerd face | &#x1F913; | &#x1F913; | &#x1F913; | 
-| face with monocle |  | &#x1F9D0; | &#x1F9D0; | 
-
-### face-concerned
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| confused face | &#x1F615; | &#x1F615; | &#x1F615; | 
-| worried face | &#x1F61F; | &#x1F61F; | &#x1F61F; | 
-| slightly frowning face | &#x1F641; | &#x1F641; | &#x1F641; | 
-| frowning face | &#x2639;&#xFE0F; | &#x2639;&#xFE0F; | &#x2639;&#xFE0F; | 
-| face with open mouth | &#x1F62E; | &#x1F62E; | &#x1F62E; | 
-| hushed face | &#x1F62F; | &#x1F62F; | &#x1F62F; | 
-| astonished face | &#x1F632; | &#x1F632; | &#x1F632; | 
-| flushed face | &#x1F633; | &#x1F633; | &#x1F633; | 
-| pleading face |  | &#x1F97A; | &#x1F97A; | 
-| frowning face with open mouth | &#x1F626; | &#x1F626; | &#x1F626; | 
-| anguished face | &#x1F627; | &#x1F627; | &#x1F627; | 
-| fearful face | &#x1F628; | &#x1F628; | &#x1F628; | 
-| anxious face with sweat | &#x1F630; | &#x1F630; | &#x1F630; | 
-| sad but relieved face | &#x1F625; | &#x1F625; | &#x1F625; | 
-| crying face | &#x1F622; | &#x1F622; | &#x1F622; | 
-| loudly crying face | &#x1F62D; | &#x1F62D; | &#x1F62D; | 
-| face screaming in fear | &#x1F631; | &#x1F631; | &#x1F631; | 
-| confounded face | &#x1F616; | &#x1F616; | &#x1F616; | 
-| persevering face | &#x1F623; | &#x1F623; | &#x1F623; | 
-| disappointed face | &#x1F61E; | &#x1F61E; | &#x1F61E; | 
-| downcast face with sweat | &#x1F613; | &#x1F613; | &#x1F613; | 
-| weary face | &#x1F629; | &#x1F629; | &#x1F629; | 
-| tired face | &#x1F62B; | &#x1F62B; | &#x1F62B; | 
-| yawning face |  | &#x1F971; | &#x1F971; | 
-
-### face-negative
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| face with steam from nose | &#x1F624; | &#x1F624; | &#x1F624; | 
-| pouting face | &#x1F621; | &#x1F621; | &#x1F621; | 
-| angry face | &#x1F620; | &#x1F620; | &#x1F620; | 
-| face with symbols on mouth |  | &#x1F92C; | &#x1F92C; | 
-| smiling face with horns | &#x1F608; | &#x1F608; | &#x1F608; | 
-| angry face with horns | &#x1F47F; | &#x1F47F; | &#x1F47F; | 
-| skull | &#x1F480; | &#x1F480; | &#x1F480; | 
-| skull and crossbones | &#x2620;&#xFE0F; | &#x2620;&#xFE0F; | &#x2620;&#xFE0F; | 
-
-### face-costume
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| pile of poo | &#x1F4A9; | &#x1F4A9; | &#x1F4A9; | 
-| clown face | &#x1F921; | &#x1F921; | &#x1F921; | 
-| ogre | &#x1F479; | &#x1F479; | &#x1F479; | 
-| goblin | &#x1F47A; | &#x1F47A; | &#x1F47A; | 
-| ghost | &#x1F47B; | &#x1F47B; | &#x1F47B; | 
-| alien | &#x1F47D; | &#x1F47D; | &#x1F47D; | 
-| alien monster | &#x1F47E; | &#x1F47E; | &#x1F47E; | 
-| robot | &#x1F916; | &#x1F916; | &#x1F916; | 
-
-### cat-face
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| grinning cat | &#x1F63A; | &#x1F63A; | &#x1F63A; | 
-| grinning cat with smiling eyes | &#x1F638; | &#x1F638; | &#x1F638; | 
-| cat with tears of joy | &#x1F639; | &#x1F639; | &#x1F639; | 
-| smiling cat with heart-eyes | &#x1F63B; | &#x1F63B; | &#x1F63B; | 
-| cat with wry smile | &#x1F63C; | &#x1F63C; | &#x1F63C; | 
-| kissing cat | &#x1F63D; | &#x1F63D; | &#x1F63D; | 
-| weary cat | &#x1F640; | &#x1F640; | &#x1F640; | 
-| crying cat | &#x1F63F; | &#x1F63F; | &#x1F63F; | 
-| pouting cat | &#x1F63E; | &#x1F63E; | &#x1F63E; | 
-
-### monkey-face
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| see-no-evil monkey | &#x1F648; | &#x1F648; | &#x1F648; | 
-| hear-no-evil monkey | &#x1F649; | &#x1F649; | &#x1F649; | 
-| speak-no-evil monkey | &#x1F64A; | &#x1F64A; | &#x1F64A; | 
-
-### emotion
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| kiss mark | &#x1F48B; | &#x1F48B; | &#x1F48B; | 
-| love letter | &#x1F48C; | &#x1F48C; | &#x1F48C; | 
-| heart with arrow | &#x1F498; | &#x1F498; | &#x1F498; | 
-| heart with ribbon | &#x1F49D; | &#x1F49D; | &#x1F49D; | 
-| sparkling heart | &#x1F496; | &#x1F496; | &#x1F496; | 
-| growing heart | &#x1F497; | &#x1F497; | &#x1F497; | 
-| beating heart | &#x1F493; | &#x1F493; | &#x1F493; | 
-| revolving hearts | &#x1F49E; | &#x1F49E; | &#x1F49E; | 
-| two hearts | &#x1F495; | &#x1F495; | &#x1F495; | 
-| heart decoration | &#x1F49F; | &#x1F49F; | &#x1F49F; | 
-| heart exclamation | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | 
-| broken heart | &#x1F494; | &#x1F494; | &#x1F494; | 
-| red heart | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | 
-| orange heart |  | &#x1F9E1; | &#x1F9E1; | 
-| yellow heart | &#x1F49B; | &#x1F49B; | &#x1F49B; | 
-| green heart | &#x1F49A; | &#x1F49A; | &#x1F49A; | 
-| blue heart | &#x1F499; | &#x1F499; | &#x1F499; | 
-| purple heart | &#x1F49C; | &#x1F49C; | &#x1F49C; | 
-| brown heart |  | &#x1F90E; | &#x1F90E; | 
-| black heart | &#x1F5A4; | &#x1F5A4; | &#x1F5A4; | 
-| white heart |  | &#x1F90D; | &#x1F90D; | 
-| hundred points | &#x1F4AF; | &#x1F4AF; | &#x1F4AF; | 
-| anger symbol | &#x1F4A2; | &#x1F4A2; | &#x1F4A2; | 
-| collision | &#x1F4A5; | &#x1F4A5; | &#x1F4A5; | 
-| dizzy | &#x1F4AB; | &#x1F4AB; | &#x1F4AB; | 
-| sweat droplets | &#x1F4A6; | &#x1F4A6; | &#x1F4A6; | 
-| dashing away | &#x1F4A8; | &#x1F4A8; | &#x1F4A8; | 
-| hole | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | 
-| bomb | &#x1F4A3; | &#x1F4A3; | &#x1F4A3; | 
-| speech balloon | &#x1F4AC; | &#x1F4AC; | &#x1F4AC; | 
-| eye in speech bubble | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | 
-| left speech bubble | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | 
-| right anger bubble | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | 
-| thought balloon | &#x1F4AD; | &#x1F4AD; | &#x1F4AD; | 
-| zzz | &#x1F4A4; | &#x1F4A4; | &#x1F4A4; | 
-
-## People & Body
-
-
-### hand-fingers-open
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| waving hand | &#x1F44B; | &#x1F44B; | &#x1F44B; | 
-| raised back of hand | &#x1F91A; | &#x1F91A; | &#x1F91A; | 
-| hand with fingers splayed | &#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | 
-| raised hand | &#x270B; | &#x270B; | &#x270B; | 
-| vulcan salute | &#x1F596; | &#x1F596; | &#x1F596; | 
-
-### hand-fingers-partial
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| OK hand | &#x1F44C; | &#x1F44C; | &#x1F44C; | 
-| pinched fingers |  | &#x1F90C; | &#x1F90C; | 
-| pinching hand |  | &#x1F90F; | &#x1F90F; | 
-| victory hand | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | 
-| crossed fingers | &#x1F91E; | &#x1F91E; | &#x1F91E; | 
-| love-you gesture |  | &#x1F91F; | &#x1F91F; | 
-| sign of the horns | &#x1F918; | &#x1F918; | &#x1F918; | 
-| call me hand | &#x1F919; | &#x1F919; | &#x1F919; | 
-
-### hand-single-finger
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| backhand index pointing left | &#x1F448; | &#x1F448; | &#x1F448; | 
-| backhand index pointing right | &#x1F449; | &#x1F449; | &#x1F449; | 
-| backhand index pointing up | &#x1F446; | &#x1F446; | &#x1F446; | 
-| middle finger | &#x1F595; | &#x1F595; | &#x1F595; | 
-| backhand index pointing down | &#x1F447; | &#x1F447; | &#x1F447; | 
-| index pointing up | &#x261D;&#xFE0F; | &#x261D;&#xFE0F; | &#x261D;&#xFE0F; | 
-
-### hand-fingers-closed
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| thumbs up | &#x1F44D; | &#x1F44D; | &#x1F44D; | 
-| thumbs down | &#x1F44E; | &#x1F44E; | &#x1F44E; | 
-| raised fist | &#x270A; | &#x270A; | &#x270A; | 
-| oncoming fist | &#x1F44A; | &#x1F44A; | &#x1F44A; | 
-| left-facing fist | &#x1F91B; | &#x1F91B; | &#x1F91B; | 
-| right-facing fist | &#x1F91C; | &#x1F91C; | &#x1F91C; | 
-
-### hands
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| clapping hands | &#x1F44F; | &#x1F44F; | &#x1F44F; | 
-| raising hands | &#x1F64C; | &#x1F64C; | &#x1F64C; | 
-| open hands | &#x1F450; | &#x1F450; | &#x1F450; | 
-| palms up together |  | &#x1F932; | &#x1F932; | 
-| handshake | &#x1F91D; | &#x1F91D; | &#x1F91D; | 
-| folded hands | &#x1F64F; | &#x1F64F; | &#x1F64F; | 
-
-### hand-prop
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| writing hand | &#x270D;&#xFE0F; | &#x270D;&#xFE0F; | &#x270D;&#xFE0F; | 
-| nail polish | &#x1F485; | &#x1F485; | &#x1F485; | 
-| selfie | &#x1F933; | &#x1F933; | &#x1F933; | 
-
-### body-parts
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| flexed biceps | &#x1F4AA; | &#x1F4AA; | &#x1F4AA; | 
-| mechanical arm |  | &#x1F9BE; | &#x1F9BE; | 
-| mechanical leg |  | &#x1F9BF; | &#x1F9BF; | 
-| leg |  | &#x1F9B5; | &#x1F9B5; | 
-| foot |  | &#x1F9B6; | &#x1F9B6; | 
-| ear | &#x1F442; | &#x1F442; | &#x1F442; | 
-| ear with hearing aid |  | &#x1F9BB; | &#x1F9BB; | 
-| nose | &#x1F443; | &#x1F443; | &#x1F443; | 
-| brain |  | &#x1F9E0; | &#x1F9E0; | 
-| anatomical heart |  | &#x1FAC0; | &#x1FAC0; | 
-| lungs |  | &#x1FAC1; | &#x1FAC1; | 
-| tooth |  | &#x1F9B7; | &#x1F9B7; | 
-| bone |  | &#x1F9B4; | &#x1F9B4; | 
-| eyes | &#x1F440; | &#x1F440; | &#x1F440; | 
-| eye | &#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | 
-| tongue | &#x1F445; | &#x1F445; | &#x1F445; | 
-| mouth | &#x1F444; | &#x1F444; | &#x1F444; | 
-
-### person
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| baby | &#x1F476; | &#x1F476; | &#x1F476; | 
-| child |  | &#x1F9D2; | &#x1F9D2; | 
-| boy | &#x1F466; | &#x1F466; | &#x1F466; | 
-| girl | &#x1F467; | &#x1F467; | &#x1F467; | 
-| person |  | &#x1F9D1; | &#x1F9D1; | 
-| person: blond hair | &#x1F471; | &#x1F471; | &#x1F471; | 
-| man | &#x1F468; | &#x1F468; | &#x1F468; | 
-| man: beard |  | &#x1F9D4; | &#x1F9D4; | 
-| man: red hair |  | &#x1F468;&#x200D;&#x1F9B0; | &#x1F468;&#x200D;&#x1F9B0; | 
-| man: curly hair |  | &#x1F468;&#x200D;&#x1F9B1; | &#x1F468;&#x200D;&#x1F9B1; | 
-| man: white hair |  | &#x1F468;&#x200D;&#x1F9B3; | &#x1F468;&#x200D;&#x1F9B3; | 
-| man: bald |  | &#x1F468;&#x200D;&#x1F9B2; | &#x1F468;&#x200D;&#x1F9B2; | 
-| woman | &#x1F469; | &#x1F469; | &#x1F469; | 
-| woman: red hair |  | &#x1F469;&#x200D;&#x1F9B0; | &#x1F469;&#x200D;&#x1F9B0; | 
-| person: red hair |  | &#x1F9D1;&#x200D;&#x1F9B0; | &#x1F9D1;&#x200D;&#x1F9B0; | 
-| woman: curly hair |  | &#x1F469;&#x200D;&#x1F9B1; | &#x1F469;&#x200D;&#x1F9B1; | 
-| person: curly hair |  | &#x1F9D1;&#x200D;&#x1F9B1; | &#x1F9D1;&#x200D;&#x1F9B1; | 
-| woman: white hair |  | &#x1F469;&#x200D;&#x1F9B3; | &#x1F469;&#x200D;&#x1F9B3; | 
-| person: white hair |  | &#x1F9D1;&#x200D;&#x1F9B3; | &#x1F9D1;&#x200D;&#x1F9B3; | 
-| woman: bald |  | &#x1F469;&#x200D;&#x1F9B2; | &#x1F469;&#x200D;&#x1F9B2; | 
-| person: bald |  | &#x1F9D1;&#x200D;&#x1F9B2; | &#x1F9D1;&#x200D;&#x1F9B2; | 
-| woman: blond hair |  | &#x1F471;&#x200D;&#x2640;&#xFE0F; | &#x1F471;&#x200D;&#x2640;&#xFE0F; | 
-| man: blond hair |  | &#x1F471;&#x200D;&#x2642;&#xFE0F; | &#x1F471;&#x200D;&#x2642;&#xFE0F; | 
-| older person |  | &#x1F9D3; | &#x1F9D3; | 
-| old man | &#x1F474; | &#x1F474; | &#x1F474; | 
-| old woman | &#x1F475; | &#x1F475; | &#x1F475; | 
-
-### person-gesture
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| person frowning | &#x1F64D; | &#x1F64D; | &#x1F64D; | 
-| person pouting | &#x1F64E; | &#x1F64E; | &#x1F64E; | 
-| person gesturing NO | &#x1F645; | &#x1F645; | &#x1F645; | 
-| person gesturing OK | &#x1F646; | &#x1F646; | &#x1F646; | 
-| person tipping hand | &#x1F481; | &#x1F481; | &#x1F481; | 
-| person raising hand | &#x1F64B; | &#x1F64B; | &#x1F64B; | 
-| deaf person |  | &#x1F9CF; | &#x1F9CF; | 
-| person bowing | &#x1F647; | &#x1F647; | &#x1F647; | 
-| person facepalming | &#x1F926; | &#x1F926; | &#x1F926; | 
-| person shrugging | &#x1F937; | &#x1F937; | &#x1F937; | 
-
-
-### person-role
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| health worker |  | &#x1F9D1;&#x200D;&#x2695;&#xFE0F; | &#x1F9D1;&#x200D;&#x2695;&#xFE0F; | 
-| student |  | &#x1F9D1;&#x200D;&#x1F393; | &#x1F9D1;&#x200D;&#x1F393; | 
-| teacher |  | &#x1F9D1;&#x200D;&#x1F3EB; | &#x1F9D1;&#x200D;&#x1F3EB; | 
-| judge |  | &#x1F9D1;&#x200D;&#x2696;&#xFE0F; | &#x1F9D1;&#x200D;&#x2696;&#xFE0F; | 
-| farmer |  | &#x1F9D1;&#x200D;&#x1F33E; | &#x1F9D1;&#x200D;&#x1F33E; | 
-| cook |  | &#x1F9D1;&#x200D;&#x1F373; | &#x1F9D1;&#x200D;&#x1F373; | 
-| mechanic |  | &#x1F9D1;&#x200D;&#x1F527; | &#x1F9D1;&#x200D;&#x1F527; | 
-| factory worker |  | &#x1F9D1;&#x200D;&#x1F3ED; | &#x1F9D1;&#x200D;&#x1F3ED; | 
-| office worker |  | &#x1F9D1;&#x200D;&#x1F4BC; | &#x1F9D1;&#x200D;&#x1F4BC; | 
-| scientist |  | &#x1F9D1;&#x200D;&#x1F52C; | &#x1F9D1;&#x200D;&#x1F52C; | 
-| technologist |  | &#x1F9D1;&#x200D;&#x1F4BB; | &#x1F9D1;&#x200D;&#x1F4BB; | 
-| singer |  | &#x1F9D1;&#x200D;&#x1F3A4; | &#x1F9D1;&#x200D;&#x1F3A4; | 
-| artist |  | &#x1F9D1;&#x200D;&#x1F3A8; | &#x1F9D1;&#x200D;&#x1F3A8; | 
-| pilot |  | &#x1F9D1;&#x200D;&#x2708;&#xFE0F; | &#x1F9D1;&#x200D;&#x2708;&#xFE0F; | 
-| astronaut |  | &#x1F9D1;&#x200D;&#x1F680; | &#x1F9D1;&#x200D;&#x1F680; | 
-| firefighter |  | &#x1F9D1;&#x200D;&#x1F692; | &#x1F9D1;&#x200D;&#x1F692; | 
-| police officer | &#x1F46E; | &#x1F46E; | &#x1F46E; | 
-| detective | &#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | 
-| guard | &#x1F482; | &#x1F482; | &#x1F482; | 
-| ninja |  | &#x1F977; | &#x1F977; | 
-| construction worker | &#x1F477; | &#x1F477; | &#x1F477; | 
-| prince | &#x1F934; | &#x1F934; | &#x1F934; | 
-| princess | &#x1F478; | &#x1F478; | &#x1F478; | 
-| person wearing turban | &#x1F473; | &#x1F473; | &#x1F473; | 
-| person with skullcap | &#x1F472; | &#x1F472; | &#x1F472; | 
-| woman with headscarf |  | &#x1F9D5; | &#x1F9D5; | 
-| person in tuxedo | &#x1F935; | &#x1F935; | &#x1F935; | 
-| person with veil | &#x1F470; | &#x1F470; | &#x1F470; | 
-| pregnant woman | &#x1F930; | &#x1F930; | &#x1F930; | 
-| breast-feeding |  | &#x1F931; | &#x1F931; | 
-| person feeding baby |  | &#x1F9D1;&#x200D;&#x1F37C; | &#x1F9D1;&#x200D;&#x1F37C; | 
-
-### person-fantasy
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| baby angel | &#x1F47C; | &#x1F47C; | &#x1F47C; | 
-| Santa Claus | &#x1F385; | &#x1F385; | &#x1F385; | 
-| Mrs. Claus | &#x1F936; | &#x1F936; | &#x1F936; | 
-| mx claus |  | &#x1F9D1;&#x200D;&#x1F384; | &#x1F9D1;&#x200D;&#x1F384; | 
-| superhero |  | &#x1F9B8; | &#x1F9B8; | 
-| man superhero |  | &#x1F9B8;&#x200D;&#x2642;&#xFE0F; | &#x1F9B8;&#x200D;&#x2642;&#xFE0F; | 
-| woman superhero |  | &#x1F9B8;&#x200D;&#x2640;&#xFE0F; | &#x1F9B8;&#x200D;&#x2640;&#xFE0F; | 
-| supervillain |  | &#x1F9B9; | &#x1F9B9; | 
-| man supervillain |  | &#x1F9B9;&#x200D;&#x2642;&#xFE0F; | &#x1F9B9;&#x200D;&#x2642;&#xFE0F; | 
-| woman supervillain |  | &#x1F9B9;&#x200D;&#x2640;&#xFE0F; | &#x1F9B9;&#x200D;&#x2640;&#xFE0F; | 
-| mage |  | &#x1F9D9; | &#x1F9D9; | 
-| man mage |  | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | 
-| woman mage |  | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | 
-| fairy |  | &#x1F9DA; | &#x1F9DA; | 
-| man fairy |  | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | 
-| woman fairy |  | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | 
-| vampire |  | &#x1F9DB; | &#x1F9DB; | 
-| man vampire |  | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | 
-| woman vampire |  | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | 
-| merperson |  | &#x1F9DC; | &#x1F9DC; | 
-| merman |  | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | 
-| mermaid |  | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | 
-| elf |  | &#x1F9DD; | &#x1F9DD; | 
-| man elf |  | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | 
-| woman elf |  | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | 
-| genie |  | &#x1F9DE; | &#x1F9DE; | 
-| man genie |  | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | 
-| woman genie |  | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | 
-| zombie |  | &#x1F9DF; | &#x1F9DF; | 
-| man zombie |  | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | 
-| woman zombie |  | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | 
-
-### person-activity
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| person getting massage | &#x1F486; | &#x1F486; | &#x1F486; | 
-| person getting haircut | &#x1F487; | &#x1F487; | &#x1F487; | 
-| person walking | &#x1F6B6; | &#x1F6B6; | &#x1F6B6; | 
-| person standing |  | &#x1F9CD; | &#x1F9CD; | 
-| person kneeling |  | &#x1F9CE; | &#x1F9CE; | 
-| person with white cane |  | &#x1F9D1;&#x200D;&#x1F9AF; | &#x1F9D1;&#x200D;&#x1F9AF; | 
-| person in motorized wheelchair |  | &#x1F9D1;&#x200D;&#x1F9BC; | &#x1F9D1;&#x200D;&#x1F9BC; | 
-| person in manual wheelchair |  | &#x1F9D1;&#x200D;&#x1F9BD; | &#x1F9D1;&#x200D;&#x1F9BD; | 
-| person running | &#x1F3C3; | &#x1F3C3; | &#x1F3C3; | 
-| woman dancing | &#x1F483; | &#x1F483; | &#x1F483; | 
-| man dancing | &#x1F57A; | &#x1F57A; | &#x1F57A; | 
-| person in suit levitating | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | 
-| people with bunny ears | &#x1F46F; | &#x1F46F; | &#x1F46F; | 200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | 
-| person in steamy room |  | &#x1F9D6; | &#x1F9D6; | 
-| person climbing |  | &#x1F9D7; | &#x1F9D7; | 
-
-
-### person-sport
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| person fencing | &#x1F93A; | &#x1F93A; | &#x1F93A; | 
-| horse racing | &#x1F3C7; | &#x1F3C7; | &#x1F3C7; | 
-| skier | &#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | 
-| snowboarder | &#x1F3C2; | &#x1F3C2; | &#x1F3C2; | 
-| person golfing | &#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | 
-| person surfing | &#x1F3C4; | &#x1F3C4; | &#x1F3C4; | 
-| person rowing boat | &#x1F6A3; | &#x1F6A3; | &#x1F6A3; | 
-| person swimming | &#x1F3CA; | &#x1F3CA; | &#x1F3CA; | 
-| person bouncing ball | &#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | 
-| person lifting weights | &#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | 
-| person biking | &#x1F6B4; | &#x1F6B4; | &#x1F6B4; | 
-| person mountain biking | &#x1F6B5; | &#x1F6B5; | &#x1F6B5; | 
-| person cartwheeling | &#x1F938; | &#x1F938; | &#x1F938; | 
-| people wrestling | &#x1F93C; | &#x1F93C; | &#x1F93C; | 
-| person playing water polo | &#x1F93D; | &#x1F93D; | &#x1F93D; | 
-| person playing handball | &#x1F93E; | &#x1F93E; | &#x1F93E; | 
-| person juggling | &#x1F939; | &#x1F939; | &#x1F939; | 
-
-
-### person-resting
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| person in lotus position |  | &#x1F9D8; | &#x1F9D8; | 
-| person taking bath | &#x1F6C0; | &#x1F6C0; | &#x1F6C0; | 
-| person in bed | &#x1F6CC; | &#x1F6CC; | &#x1F6CC; | 
-
-### family
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| people holding hands |  | &#x1F9D1;&#x200D;&#x1F91D;&#x200D;&#x1F9D1; | &#x1F9D1;&#x200D;&#x1F91D;&#x200D;&#x1F9D1; | 
-| women holding hands | &#x1F46D; | &#x1F46D; | &#x1F46D; | 
-| woman and man holding hands | &#x1F46B; | &#x1F46B; | &#x1F46B; | 
-| men holding hands | &#x1F46C; | &#x1F46C; | &#x1F46C; | 
-| kiss | &#x1F48F; | &#x1F48F; | &#x1F48F; | 
-| kiss: woman, man | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | 
-| kiss: man, man | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | 
-| kiss: woman, woman | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | 
-| couple with heart | &#x1F491; | &#x1F491; | &#x1F491; | 
-| couple with heart: woman, man | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | 
-| couple with heart: man, man | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | 
-| couple with heart: woman, woman | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | 
-| family | &#x1F46A; | &#x1F46A; | &#x1F46A; | 
-| family: man, woman, boy | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | 
-| family: man, woman, girl | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | 
-| family: man, woman, girl, boy | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| family: man, woman, boy, boy | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| family: man, woman, girl, girl | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
-| family: man, man, boy | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | 
-| family: man, man, girl | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | 
-| family: man, man, girl, boy | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| family: man, man, boy, boy | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| family: man, man, girl, girl | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
-| family: woman, woman, boy | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | 
-| family: woman, woman, girl | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | 
-| family: woman, woman, girl, boy | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| family: woman, woman, boy, boy | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| family: woman, woman, girl, girl | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
-| family: man, boy |   | &#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466; | 
-| family: man, boy, boy |   | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| family: man, girl |   | &#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467; | 
-| family: man, girl, boy |   | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| family: man, girl, girl |   | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
-| family: woman, boy |   | &#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466; | 
-| family: woman, boy, boy |   | &#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
-| family: woman, girl |   | &#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467; | 
-| family: woman, girl, boy |   | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
-| family: woman, girl, girl |   | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
-
-### person-symbol
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| speaking head | &#x1F5E3;&#xFE0F; | &#x1F5E3;&#xFE0F; | &#x1F5E3;&#xFE0F; | 
-| bust in silhouette | &#x1F464; | &#x1F464; | &#x1F464; | 
-| busts in silhouette | &#x1F465; | &#x1F465; | &#x1F465; | 
-| people hugging |  | &#x1FAC2; | &#x1FAC2; | 
-| footprints | &#x1F463; | &#x1F463; | &#x1F463; | 
-
-## Animals & Nature
-
-
-### animal-mammal
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| monkey face | &#x1F435; | &#x1F435; | &#x1F435; | 
-| monkey | &#x1F412; | &#x1F412; | &#x1F412; | 
-| gorilla | &#x1F98D; | &#x1F98D; | &#x1F98D; | 
-| orangutan |  | &#x1F9A7; | &#x1F9A7; | 
-| dog face | &#x1F436; | &#x1F436; | &#x1F436; | 
-| dog | &#x1F415; | &#x1F415; | &#x1F415; | 
-| guide dog |  | &#x1F9AE; | &#x1F9AE; | 
-| service dog |  | &#x1F415;&#x200D;&#x1F9BA; | &#x1F415;&#x200D;&#x1F9BA; | 
-| poodle | &#x1F429; | &#x1F429; | &#x1F429; | 
-| wolf | &#x1F43A; | &#x1F43A; | &#x1F43A; | 
-| fox | &#x1F98A; | &#x1F98A; | &#x1F98A; | 
-| raccoon |  | &#x1F99D; | &#x1F99D; | 
-| cat face | &#x1F431; | &#x1F431; | &#x1F431; | 
-| cat | &#x1F408; | &#x1F408; | &#x1F408; | 
-| black cat |  | &#x1F408;&#x200D;&#x2B1B; | &#x1F408;&#x200D;&#x2B1B; | 
-| lion | &#x1F981; | &#x1F981; | &#x1F981; | 
-| tiger face | &#x1F42F; | &#x1F42F; | &#x1F42F; | 
-| tiger | &#x1F405; | &#x1F405; | &#x1F405; | 
-| leopard | &#x1F406; | &#x1F406; | &#x1F406; | 
-| horse face | &#x1F434; | &#x1F434; | &#x1F434; | 
-| horse | &#x1F40E; | &#x1F40E; | &#x1F40E; | 
-| unicorn | &#x1F984; | &#x1F984; | &#x1F984; | 
-| zebra |  | &#x1F993; | &#x1F993; | 
-| deer | &#x1F98C; | &#x1F98C; | &#x1F98C; | 
-| bison |  | &#x1F9AC; | &#x1F9AC; | 
-| cow face | &#x1F42E; | &#x1F42E; | &#x1F42E; | 
-| ox | &#x1F402; | &#x1F402; | &#x1F402; | 
-| water buffalo | &#x1F403; | &#x1F403; | &#x1F403; | 
-| cow | &#x1F404; | &#x1F404; | &#x1F404; | 
-| pig face | &#x1F437; | &#x1F437; | &#x1F437; | 
-| pig | &#x1F416; | &#x1F416; | &#x1F416; | 
-| boar | &#x1F417; | &#x1F417; | &#x1F417; | 
-| pig nose | &#x1F43D; | &#x1F43D; | &#x1F43D; | 
-| ram | &#x1F40F; | &#x1F40F; | &#x1F40F; | 
-| ewe | &#x1F411; | &#x1F411; | &#x1F411; | 
-| goat | &#x1F410; | &#x1F410; | &#x1F410; | 
-| camel | &#x1F42A; | &#x1F42A; | &#x1F42A; | 
-| two-hump camel | &#x1F42B; | &#x1F42B; | &#x1F42B; | 
-| llama |  | &#x1F999; | &#x1F999; | 
-| giraffe |  | &#x1F992; | &#x1F992; | 
-| elephant | &#x1F418; | &#x1F418; | &#x1F418; | 
-| mammoth |  | &#x1F9A3; | &#x1F9A3; | 
-| rhinoceros | &#x1F98F; | &#x1F98F; | &#x1F98F; | 
-| hippopotamus |  | &#x1F99B; | &#x1F99B; | 
-| mouse face | &#x1F42D; | &#x1F42D; | &#x1F42D; | 
-| mouse | &#x1F401; | &#x1F401; | &#x1F401; | 
-| rat | &#x1F400; | &#x1F400; | &#x1F400; | 
-| hamster | &#x1F439; | &#x1F439; | &#x1F439; | 
-| rabbit face | &#x1F430; | &#x1F430; | &#x1F430; | 
-| rabbit | &#x1F407; | &#x1F407; | &#x1F407; | 
-| chipmunk | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | 
-| beaver |  | &#x1F9AB; | &#x1F9AB; | 
-| hedgehog |  | &#x1F994; | &#x1F994; | 
-| bat | &#x1F987; | &#x1F987; | &#x1F987; | 
-| bear | &#x1F43B; | &#x1F43B; | &#x1F43B; | 
-| polar bear |  | &#x1F43B;&#x200D;&#x2744;&#xFE0F; | &#x1F43B;&#x200D;&#x2744;&#xFE0F; | 
-| koala | &#x1F428; | &#x1F428; | &#x1F428; | 
-| panda | &#x1F43C; | &#x1F43C; | &#x1F43C; | 
-| sloth |  | &#x1F9A5; | &#x1F9A5; | 
-| otter |  | &#x1F9A6; | &#x1F9A6; | 
-| skunk |  | &#x1F9A8; | &#x1F9A8; | 
-| kangaroo |  | &#x1F998; | &#x1F998; | 
-| badger |  | &#x1F9A1; | &#x1F9A1; | 
-| paw prints | &#x1F43E; | &#x1F43E; | &#x1F43E; | 
-
-### animal-bird
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| turkey | &#x1F983; | &#x1F983; | &#x1F983; | 
-| chicken | &#x1F414; | &#x1F414; | &#x1F414; | 
-| rooster | &#x1F413; | &#x1F413; | &#x1F413; | 
-| hatching chick | &#x1F423; | &#x1F423; | &#x1F423; | 
-| baby chick | &#x1F424; | &#x1F424; | &#x1F424; | 
-| front-facing baby chick | &#x1F425; | &#x1F425; | &#x1F425; | 
-| bird | &#x1F426; | &#x1F426; | &#x1F426; | 
-| penguin | &#x1F427; | &#x1F427; | &#x1F427; | 
-| dove | &#x1F54A;&#xFE0F; | &#x1F54A;&#xFE0F; | &#x1F54A;&#xFE0F; | 
-| eagle | &#x1F985; | &#x1F985; | &#x1F985; | 
-| duck | &#x1F986; | &#x1F986; | &#x1F986; | 
-| swan |  | &#x1F9A2; | &#x1F9A2; | 
-| owl | &#x1F989; | &#x1F989; | &#x1F989; | 
-| dodo |  | &#x1F9A4; | &#x1F9A4; | 
-| feather |  | &#x1FAB6; | &#x1FAB6; | 
-| flamingo |  | &#x1F9A9; | &#x1F9A9; | 
-| peacock |  | &#x1F99A; | &#x1F99A; | 
-| parrot |  | &#x1F99C; | &#x1F99C; | 
-
-### animal-amphibian
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| frog | &#x1F438; | &#x1F438; | &#x1F438; | 
-
-### animal-reptile
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| crocodile | &#x1F40A; | &#x1F40A; | &#x1F40A; | 
-| turtle | &#x1F422; | &#x1F422; | &#x1F422; | 
-| lizard | &#x1F98E; | &#x1F98E; | &#x1F98E; | 
-| snake | &#x1F40D; | &#x1F40D; | &#x1F40D; | 
-| dragon face | &#x1F432; | &#x1F432; | &#x1F432; | 
-| dragon | &#x1F409; | &#x1F409; | &#x1F409; | 
-| sauropod |  | &#x1F995; | &#x1F995; | 
-| T-Rex |  | &#x1F996; | &#x1F996; | 
-
-### animal-marine
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| spouting whale | &#x1F433; | &#x1F433; | &#x1F433; | 
-| whale | &#x1F40B; | &#x1F40B; | &#x1F40B; | 
-| dolphin | &#x1F42C; | &#x1F42C; | &#x1F42C; | 
-| seal |  | &#x1F9AD; | &#x1F9AD; | 
-| fish | &#x1F41F; | &#x1F41F; | &#x1F41F; | 
-| tropical fish | &#x1F420; | &#x1F420; | &#x1F420; | 
-| blowfish | &#x1F421; | &#x1F421; | &#x1F421; | 
-| shark | &#x1F988; | &#x1F988; | &#x1F988; | 
-| octopus | &#x1F419; | &#x1F419; | &#x1F419; | 
-| spiral shell | &#x1F41A; | &#x1F41A; | &#x1F41A; | 
-
-### animal-bug
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| snail | &#x1F40C; | &#x1F40C; | &#x1F40C; | 
-| butterfly | &#x1F98B; | &#x1F98B; | &#x1F98B; | 
-| bug | &#x1F41B; | &#x1F41B; | &#x1F41B; | 
-| ant | &#x1F41C; | &#x1F41C; | &#x1F41C; | 
-| honeybee | &#x1F41D; | &#x1F41D; | &#x1F41D; | 
-| beetle |  | &#x1FAB2; | &#x1FAB2; | 
-| lady beetle | &#x1F41E; | &#x1F41E; | &#x1F41E; | 
-| cricket |  | &#x1F997; | &#x1F997; | 
-| cockroach |  | &#x1FAB3; | &#x1FAB3; | 
-| spider | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | 
-| spider web | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | 
-| scorpion | &#x1F982; | &#x1F982; | &#x1F982; | 
-| mosquito |  | &#x1F99F; | &#x1F99F; | 
-| fly |  | &#x1FAB0; | &#x1FAB0; | 
-| worm |  | &#x1FAB1; | &#x1FAB1; | 
-| microbe |  | &#x1F9A0; | &#x1F9A0; | 
-
-### plant-flower
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| bouquet | &#x1F490; | &#x1F490; | &#x1F490; | 
-| cherry blossom | &#x1F338; | &#x1F338; | &#x1F338; | 
-| white flower | &#x1F4AE; | &#x1F4AE; | &#x1F4AE; | 
-| rosette | &#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | 
-| rose | &#x1F339; | &#x1F339; | &#x1F339; | 
-| wilted flower | &#x1F940; | &#x1F940; | &#x1F940; | 
-| hibiscus | &#x1F33A; | &#x1F33A; | &#x1F33A; | 
-| sunflower | &#x1F33B; | &#x1F33B; | &#x1F33B; | 
-| blossom | &#x1F33C; | &#x1F33C; | &#x1F33C; | 
-| tulip | &#x1F337; | &#x1F337; | &#x1F337; | 
-
-### plant-other
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| seedling | &#x1F331; | &#x1F331; | &#x1F331; | 
-| potted plant |  | &#x1FAB4; | &#x1FAB4; | 
-| evergreen tree | &#x1F332; | &#x1F332; | &#x1F332; | 
-| deciduous tree | &#x1F333; | &#x1F333; | &#x1F333; | 
-| palm tree | &#x1F334; | &#x1F334; | &#x1F334; | 
-| cactus | &#x1F335; | &#x1F335; | &#x1F335; | 
-| sheaf of rice | &#x1F33E; | &#x1F33E; | &#x1F33E; | 
-| herb | &#x1F33F; | &#x1F33F; | &#x1F33F; | 
-| shamrock | &#x2618;&#xFE0F; | &#x2618;&#xFE0F; | &#x2618;&#xFE0F; | 
-| four leaf clover | &#x1F340; | &#x1F340; | &#x1F340; | 
-| maple leaf | &#x1F341; | &#x1F341; | &#x1F341; | 
-| fallen leaf | &#x1F342; | &#x1F342; | &#x1F342; | 
-| leaf fluttering in wind | &#x1F343; | &#x1F343; | &#x1F343; | 
-
-## Food & Drink
-
-
-### food-fruit
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| grapes | &#x1F347; | &#x1F347; | &#x1F347; | 
-| melon | &#x1F348; | &#x1F348; | &#x1F348; | 
-| watermelon | &#x1F349; | &#x1F349; | &#x1F349; | 
-| tangerine | &#x1F34A; | &#x1F34A; | &#x1F34A; | 
-| lemon | &#x1F34B; | &#x1F34B; | &#x1F34B; | 
-| banana | &#x1F34C; | &#x1F34C; | &#x1F34C; | 
-| pineapple | &#x1F34D; | &#x1F34D; | &#x1F34D; | 
-| mango |  | &#x1F96D; | &#x1F96D; | 
-| red apple | &#x1F34E; | &#x1F34E; | &#x1F34E; | 
-| green apple | &#x1F34F; | &#x1F34F; | &#x1F34F; | 
-| pear | &#x1F350; | &#x1F350; | &#x1F350; | 
-| peach | &#x1F351; | &#x1F351; | &#x1F351; | 
-| cherries | &#x1F352; | &#x1F352; | &#x1F352; | 
-| strawberry | &#x1F353; | &#x1F353; | &#x1F353; | 
-| blueberries |  | &#x1FAD0; | &#x1FAD0; | 
-| kiwi fruit | &#x1F95D; | &#x1F95D; | &#x1F95D; | 
-| tomato | &#x1F345; | &#x1F345; | &#x1F345; | 
-| olive |  | &#x1FAD2; | &#x1FAD2; | 
-| coconut |  | &#x1F965; | &#x1F965; | 
-
-### food-vegetable
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| avocado | &#x1F951; | &#x1F951; | &#x1F951; | 
-| eggplant | &#x1F346; | &#x1F346; | &#x1F346; | 
-| potato | &#x1F954; | &#x1F954; | &#x1F954; | 
-| carrot | &#x1F955; | &#x1F955; | &#x1F955; | 
-| ear of corn | &#x1F33D; | &#x1F33D; | &#x1F33D; | 
-| hot pepper | &#x1F336;&#xFE0F; | &#x1F336;&#xFE0F; | &#x1F336;&#xFE0F; | 
-| bell pepper |  | &#x1FAD1; | &#x1FAD1; | 
-| cucumber | &#x1F952; | &#x1F952; | &#x1F952; | 
-| leafy green |  | &#x1F96C; | &#x1F96C; | 
-| broccoli |  | &#x1F966; | &#x1F966; | 
-| garlic |  | &#x1F9C4; | &#x1F9C4; | 
-| onion |  | &#x1F9C5; | &#x1F9C5; | 
-| mushroom | &#x1F344; | &#x1F344; | &#x1F344; | 
-| peanuts | &#x1F95C; | &#x1F95C; | &#x1F95C; | 
-| chestnut | &#x1F330; | &#x1F330; | &#x1F330; | 
-
-### food-prepared
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| bread | &#x1F35E; | &#x1F35E; | &#x1F35E; | 
-| croissant | &#x1F950; | &#x1F950; | &#x1F950; | 
-| baguette bread | &#x1F956; | &#x1F956; | &#x1F956; | 
-| flatbread |  | &#x1FAD3; | &#x1FAD3; | 
-| pretzel |  | &#x1F968; | &#x1F968; | 
-| bagel |  | &#x1F96F; | &#x1F96F; | 
-| pancakes | &#x1F95E; | &#x1F95E; | &#x1F95E; | 
-| waffle |  | &#x1F9C7; | &#x1F9C7; | 
-| cheese wedge | &#x1F9C0; | &#x1F9C0; | &#x1F9C0; | 
-| meat on bone | &#x1F356; | &#x1F356; | &#x1F356; | 
-| poultry leg | &#x1F357; | &#x1F357; | &#x1F357; | 
-| cut of meat |  | &#x1F969; | &#x1F969; | 
-| bacon | &#x1F953; | &#x1F953; | &#x1F953; | 
-| hamburger | &#x1F354; | &#x1F354; | &#x1F354; | 
-| french fries | &#x1F35F; | &#x1F35F; | &#x1F35F; | 
-| pizza | &#x1F355; | &#x1F355; | &#x1F355; | 
-| hot dog | &#x1F32D; | &#x1F32D; | &#x1F32D; | 
-| sandwich |  | &#x1F96A; | &#x1F96A; | 
-| taco | &#x1F32E; | &#x1F32E; | &#x1F32E; | 
-| burrito | &#x1F32F; | &#x1F32F; | &#x1F32F; | 
-| tamale |  | &#x1FAD4; | &#x1FAD4; | 
-| stuffed flatbread | &#x1F959; | &#x1F959; | &#x1F959; | 
-| falafel |  | &#x1F9C6; | &#x1F9C6; | 
-| egg | &#x1F95A; | &#x1F95A; | &#x1F95A; | 
-| cooking | &#x1F373; | &#x1F373; | &#x1F373; | 
-| shallow pan of food | &#x1F958; | &#x1F958; | &#x1F958; | 
-| pot of food | &#x1F372; | &#x1F372; | &#x1F372; | 
-| fondue |  | &#x1FAD5; | &#x1FAD5; | 
-| bowl with spoon |  | &#x1F963; | &#x1F963; | 
-| green salad | &#x1F957; | &#x1F957; | &#x1F957; | 
-| popcorn | &#x1F37F; | &#x1F37F; | &#x1F37F; | 
-| butter |  | &#x1F9C8; | &#x1F9C8; | 
-| salt |  | &#x1F9C2; | &#x1F9C2; | 
-| canned food |  | &#x1F96B; | &#x1F96B; | 
-
-### food-asian
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| bento box | &#x1F371; | &#x1F371; | &#x1F371; | 
-| rice cracker | &#x1F358; | &#x1F358; | &#x1F358; | 
-| rice ball | &#x1F359; | &#x1F359; | &#x1F359; | 
-| cooked rice | &#x1F35A; | &#x1F35A; | &#x1F35A; | 
-| curry rice | &#x1F35B; | &#x1F35B; | &#x1F35B; | 
-| steaming bowl | &#x1F35C; | &#x1F35C; | &#x1F35C; | 
-| spaghetti | &#x1F35D; | &#x1F35D; | &#x1F35D; | 
-| roasted sweet potato | &#x1F360; | &#x1F360; | &#x1F360; | 
-| oden | &#x1F362; | &#x1F362; | &#x1F362; | 
-| sushi | &#x1F363; | &#x1F363; | &#x1F363; | 
-| fried shrimp | &#x1F364; | &#x1F364; | &#x1F364; | 
-| fish cake with swirl | &#x1F365; | &#x1F365; | &#x1F365; | 
-| moon cake |  | &#x1F96E; | &#x1F96E; | 
-| dango | &#x1F361; | &#x1F361; | &#x1F361; | 
-| dumpling |  | &#x1F95F; | &#x1F95F; | 
-| fortune cookie |  | &#x1F960; | &#x1F960; | 
-| takeout box |  | &#x1F961; | &#x1F961; | 
-
-### food-marine
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| crab | &#x1F980; | &#x1F980; | &#x1F980; | 
-| lobster |  | &#x1F99E; | &#x1F99E; | 
-| shrimp | &#x1F990; | &#x1F990; | &#x1F990; | 
-| squid | &#x1F991; | &#x1F991; | &#x1F991; | 
-| oyster |  | &#x1F9AA; | &#x1F9AA; | 
-
-### food-sweet
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| soft ice cream | &#x1F366; | &#x1F366; | &#x1F366; | 
-| shaved ice | &#x1F367; | &#x1F367; | &#x1F367; | 
-| ice cream | &#x1F368; | &#x1F368; | &#x1F368; | 
-| doughnut | &#x1F369; | &#x1F369; | &#x1F369; | 
-| cookie | &#x1F36A; | &#x1F36A; | &#x1F36A; | 
-| birthday cake | &#x1F382; | &#x1F382; | &#x1F382; | 
-| shortcake | &#x1F370; | &#x1F370; | &#x1F370; | 
-| cupcake |  | &#x1F9C1; | &#x1F9C1; | 
-| pie |  | &#x1F967; | &#x1F967; | 
-| chocolate bar | &#x1F36B; | &#x1F36B; | &#x1F36B; | 
-| candy | &#x1F36C; | &#x1F36C; | &#x1F36C; | 
-| lollipop | &#x1F36D; | &#x1F36D; | &#x1F36D; | 
-| custard | &#x1F36E; | &#x1F36E; | &#x1F36E; | 
-| honey pot | &#x1F36F; | &#x1F36F; | &#x1F36F; | 
-
-### drink
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| baby bottle | &#x1F37C; | &#x1F37C; | &#x1F37C; | 
-| glass of milk | &#x1F95B; | &#x1F95B; | &#x1F95B; | 
-| hot beverage | &#x2615; | &#x2615; | &#x2615; | 
-| teapot |  | &#x1FAD6; | &#x1FAD6; | 
-| teacup without handle | &#x1F375; | &#x1F375; | &#x1F375; | 
-| sake | &#x1F376; | &#x1F376; | &#x1F376; | 
-| bottle with popping cork | &#x1F37E; | &#x1F37E; | &#x1F37E; | 
-| wine glass | &#x1F377; | &#x1F377; | &#x1F377; | 
-| cocktail glass | &#x1F378; | &#x1F378; | &#x1F378; | 
-| tropical drink | &#x1F379; | &#x1F379; | &#x1F379; | 
-| beer mug | &#x1F37A; | &#x1F37A; | &#x1F37A; | 
-| clinking beer mugs | &#x1F37B; | &#x1F37B; | &#x1F37B; | 
-| clinking glasses | &#x1F942; | &#x1F942; | &#x1F942; | 
-| tumbler glass | &#x1F943; | &#x1F943; | &#x1F943; | 
-| cup with straw |  | &#x1F964; | &#x1F964; | 
-| bubble tea |  | &#x1F9CB; | &#x1F9CB; | 
-| beverage box |  | &#x1F9C3; | &#x1F9C3; | 
-| mate |  | &#x1F9C9; | &#x1F9C9; | 
-| ice |  | &#x1F9CA; | &#x1F9CA; | 
-
-### dishware
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| chopsticks |  | &#x1F962; | &#x1F962; | 
-| fork and knife with plate | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | 
-| fork and knife | &#x1F374; | &#x1F374; | &#x1F374; | 
-| spoon | &#x1F944; | &#x1F944; | &#x1F944; | 
-| kitchen knife | &#x1F52A; | &#x1F52A; | &#x1F52A; | 
-| amphora | &#x1F3FA; | &#x1F3FA; | &#x1F3FA; | 
-
-## Travel & Places
-
-
-### place-map
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| globe showing Europe-Africa | &#x1F30D; | &#x1F30D; | &#x1F30D; | 
-| globe showing Americas | &#x1F30E; | &#x1F30E; | &#x1F30E; | 
-| globe showing Asia-Australia | &#x1F30F; | &#x1F30F; | &#x1F30F; | 
-| globe with meridians | &#x1F310; | &#x1F310; | &#x1F310; | 
-| world map | &#x1F5FA;&#xFE0F; | &#x1F5FA;&#xFE0F; | &#x1F5FA;&#xFE0F; | 
-| map of Japan | &#x1F5FE; | &#x1F5FE; | &#x1F5FE; | 
-| compass |  | &#x1F9ED; | &#x1F9ED; | 
-
-### place-geographic
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| snow-capped mountain | &#x1F3D4;&#xFE0F; | &#x1F3D4;&#xFE0F; | &#x1F3D4;&#xFE0F; | 
-| mountain | &#x26F0;&#xFE0F; | &#x26F0;&#xFE0F; | &#x26F0;&#xFE0F; | 
-| volcano | &#x1F30B; | &#x1F30B; | &#x1F30B; | 
-| mount fuji | &#x1F5FB; | &#x1F5FB; | &#x1F5FB; | 
-| camping | &#x1F3D5;&#xFE0F; | &#x1F3D5;&#xFE0F; | &#x1F3D5;&#xFE0F; | 
-| beach with umbrella | &#x1F3D6;&#xFE0F; | &#x1F3D6;&#xFE0F; | &#x1F3D6;&#xFE0F; | 
-| desert | &#x1F3DC;&#xFE0F; | &#x1F3DC;&#xFE0F; | &#x1F3DC;&#xFE0F; | 
-| desert island | &#x1F3DD;&#xFE0F; | &#x1F3DD;&#xFE0F; | &#x1F3DD;&#xFE0F; | 
-| national park | &#x1F3DE;&#xFE0F; | &#x1F3DE;&#xFE0F; | &#x1F3DE;&#xFE0F; | 
-
-### place-building
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| stadium | &#x1F3DF;&#xFE0F; | &#x1F3DF;&#xFE0F; | &#x1F3DF;&#xFE0F; | 
-| classical building | &#x1F3DB;&#xFE0F; | &#x1F3DB;&#xFE0F; | &#x1F3DB;&#xFE0F; | 
-| building construction | &#x1F3D7;&#xFE0F; | &#x1F3D7;&#xFE0F; | &#x1F3D7;&#xFE0F; | 
-| brick |  | &#x1F9F1; | &#x1F9F1; | 
-| rock |  | &#x1FAA8; | &#x1FAA8; | 
-| wood |  | &#x1FAB5; | &#x1FAB5; | 
-| hut |  | &#x1F6D6; | &#x1F6D6; | 
-| houses | &#x1F3D8;&#xFE0F; | &#x1F3D8;&#xFE0F; | &#x1F3D8;&#xFE0F; | 
-| derelict house | &#x1F3DA;&#xFE0F; | &#x1F3DA;&#xFE0F; | &#x1F3DA;&#xFE0F; | 
-| house | &#x1F3E0; | &#x1F3E0; | &#x1F3E0; | 
-| house with garden | &#x1F3E1; | &#x1F3E1; | &#x1F3E1; | 
-| office building | &#x1F3E2; | &#x1F3E2; | &#x1F3E2; | 
-| Japanese post office | &#x1F3E3; | &#x1F3E3; | &#x1F3E3; | 
-| post office | &#x1F3E4; | &#x1F3E4; | &#x1F3E4; | 
-| hospital | &#x1F3E5; | &#x1F3E5; | &#x1F3E5; | 
-| bank | &#x1F3E6; | &#x1F3E6; | &#x1F3E6; | 
-| hotel | &#x1F3E8; | &#x1F3E8; | &#x1F3E8; | 
-| love hotel | &#x1F3E9; | &#x1F3E9; | &#x1F3E9; | 
-| convenience store | &#x1F3EA; | &#x1F3EA; | &#x1F3EA; | 
-| school | &#x1F3EB; | &#x1F3EB; | &#x1F3EB; | 
-| department store | &#x1F3EC; | &#x1F3EC; | &#x1F3EC; | 
-| factory | &#x1F3ED; | &#x1F3ED; | &#x1F3ED; | 
-| Japanese castle | &#x1F3EF; | &#x1F3EF; | &#x1F3EF; | 
-| castle | &#x1F3F0; | &#x1F3F0; | &#x1F3F0; | 
-| wedding | &#x1F492; | &#x1F492; | &#x1F492; | 
-| Tokyo tower | &#x1F5FC; | &#x1F5FC; | &#x1F5FC; | 
-| Statue of Liberty | &#x1F5FD; | &#x1F5FD; | &#x1F5FD; | 
-
-### place-religious
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| church | &#x26EA; | &#x26EA; | &#x26EA; | 
-| mosque | &#x1F54C; | &#x1F54C; | &#x1F54C; | 
-| hindu temple |  | &#x1F6D5; | &#x1F6D5; | 
-| synagogue | &#x1F54D; | &#x1F54D; | &#x1F54D; | 
-| shinto shrine | &#x26E9;&#xFE0F; | &#x26E9;&#xFE0F; | &#x26E9;&#xFE0F; | 
-| kaaba | &#x1F54B; | &#x1F54B; | &#x1F54B; | 
-
-### place-other
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| fountain | &#x26F2; | &#x26F2; | &#x26F2; | 
-| tent | &#x26FA; | &#x26FA; | &#x26FA; | 
-| foggy | &#x1F301; | &#x1F301; | &#x1F301; | 
-| night with stars | &#x1F303; | &#x1F303; | &#x1F303; | 
-| cityscape | &#x1F3D9;&#xFE0F; | &#x1F3D9;&#xFE0F; | &#x1F3D9;&#xFE0F; | 
-| sunrise over mountains | &#x1F304; | &#x1F304; | &#x1F304; | 
-| sunrise | &#x1F305; | &#x1F305; | &#x1F305; | 
-| cityscape at dusk | &#x1F306; | &#x1F306; | &#x1F306; | 
-| sunset | &#x1F307; | &#x1F307; | &#x1F307; | 
-| bridge at night | &#x1F309; | &#x1F309; | &#x1F309; | 
-| hot springs | &#x2668;&#xFE0F; | &#x2668;&#xFE0F; | &#x2668;&#xFE0F; | 
-| carousel horse | &#x1F3A0; | &#x1F3A0; | &#x1F3A0; | 
-| ferris wheel | &#x1F3A1; | &#x1F3A1; | &#x1F3A1; | 
-| roller coaster | &#x1F3A2; | &#x1F3A2; | &#x1F3A2; | 
-| barber pole | &#x1F488; | &#x1F488; | &#x1F488; | 
-| circus tent | &#x1F3AA; | &#x1F3AA; | &#x1F3AA; | 
-
-### transport-ground
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| locomotive | &#x1F682; | &#x1F682; | &#x1F682; | 
-| railway car | &#x1F683; | &#x1F683; | &#x1F683; | 
-| high-speed train | &#x1F684; | &#x1F684; | &#x1F684; | 
-| bullet train | &#x1F685; | &#x1F685; | &#x1F685; | 
-| train | &#x1F686; | &#x1F686; | &#x1F686; | 
-| metro | &#x1F687; | &#x1F687; | &#x1F687; | 
-| light rail | &#x1F688; | &#x1F688; | &#x1F688; | 
-| station | &#x1F689; | &#x1F689; | &#x1F689; | 
-| tram | &#x1F68A; | &#x1F68A; | &#x1F68A; | 
-| monorail | &#x1F69D; | &#x1F69D; | &#x1F69D; | 
-| mountain railway | &#x1F69E; | &#x1F69E; | &#x1F69E; | 
-| tram car | &#x1F68B; | &#x1F68B; | &#x1F68B; | 
-| bus | &#x1F68C; | &#x1F68C; | &#x1F68C; | 
-| oncoming bus | &#x1F68D; | &#x1F68D; | &#x1F68D; | 
-| trolleybus | &#x1F68E; | &#x1F68E; | &#x1F68E; | 
-| minibus | &#x1F690; | &#x1F690; | &#x1F690; | 
-| ambulance | &#x1F691; | &#x1F691; | &#x1F691; | 
-| fire engine | &#x1F692; | &#x1F692; | &#x1F692; | 
-| police car | &#x1F693; | &#x1F693; | &#x1F693; | 
-| oncoming police car | &#x1F694; | &#x1F694; | &#x1F694; | 
-| taxi | &#x1F695; | &#x1F695; | &#x1F695; | 
-| oncoming taxi | &#x1F696; | &#x1F696; | &#x1F696; | 
-| automobile | &#x1F697; | &#x1F697; | &#x1F697; | 
-| oncoming automobile | &#x1F698; | &#x1F698; | &#x1F698; | 
-| sport utility vehicle | &#x1F699; | &#x1F699; | &#x1F699; | 
-| pickup truck |  | &#x1F6FB; | &#x1F6FB; | 
-| delivery truck | &#x1F69A; | &#x1F69A; | &#x1F69A; | 
-| articulated lorry | &#x1F69B; | &#x1F69B; | &#x1F69B; | 
-| tractor | &#x1F69C; | &#x1F69C; | &#x1F69C; | 
-| racing car | &#x1F3CE;&#xFE0F; | &#x1F3CE;&#xFE0F; | &#x1F3CE;&#xFE0F; | 
-| motorcycle | &#x1F3CD;&#xFE0F; | &#x1F3CD;&#xFE0F; | &#x1F3CD;&#xFE0F; | 
-| motor scooter | &#x1F6F5; | &#x1F6F5; | &#x1F6F5; | 
-| manual wheelchair |  | &#x1F9BD; | &#x1F9BD; | 
-| motorized wheelchair |  | &#x1F9BC; | &#x1F9BC; | 
-| auto rickshaw |  | &#x1F6FA; | &#x1F6FA; | 
-| bicycle | &#x1F6B2; | &#x1F6B2; | &#x1F6B2; | 
-| kick scooter | &#x1F6F4; | &#x1F6F4; | &#x1F6F4; | 
-| skateboard |  | &#x1F6F9; | &#x1F6F9; | 
-| roller skate |  | &#x1F6FC; | &#x1F6FC; | 
-| bus stop | &#x1F68F; | &#x1F68F; | &#x1F68F; | 
-| motorway | &#x1F6E3;&#xFE0F; | &#x1F6E3;&#xFE0F; | &#x1F6E3;&#xFE0F; | 
-| railway track | &#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | 
-| oil drum | &#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | 
-| fuel pump | &#x26FD; | &#x26FD; | &#x26FD; | 
-| police car light | &#x1F6A8; | &#x1F6A8; | &#x1F6A8; | 
-| horizontal traffic light | &#x1F6A5; | &#x1F6A5; | &#x1F6A5; | 
-| vertical traffic light | &#x1F6A6; | &#x1F6A6; | &#x1F6A6; | 
-| stop sign | &#x1F6D1; | &#x1F6D1; | &#x1F6D1; | 
-| construction | &#x1F6A7; | &#x1F6A7; | &#x1F6A7; | 
-
-### transport-water
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| anchor | &#x2693; | &#x2693; | &#x2693; | 
-| sailboat | &#x26F5; | &#x26F5; | &#x26F5; | 
-| canoe | &#x1F6F6; | &#x1F6F6; | &#x1F6F6; | 
-| speedboat | &#x1F6A4; | &#x1F6A4; | &#x1F6A4; | 
-| passenger ship | &#x1F6F3;&#xFE0F; | &#x1F6F3;&#xFE0F; | &#x1F6F3;&#xFE0F; | 
-| ferry | &#x26F4;&#xFE0F; | &#x26F4;&#xFE0F; | &#x26F4;&#xFE0F; | 
-| motor boat | &#x1F6E5;&#xFE0F; | &#x1F6E5;&#xFE0F; | &#x1F6E5;&#xFE0F; | 
-| ship | &#x1F6A2; | &#x1F6A2; | &#x1F6A2; | 
-
-### transport-air
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| airplane | &#x2708;&#xFE0F; | &#x2708;&#xFE0F; | &#x2708;&#xFE0F; | 
-| small airplane | &#x1F6E9;&#xFE0F; | &#x1F6E9;&#xFE0F; | &#x1F6E9;&#xFE0F; | 
-| airplane departure | &#x1F6EB; | &#x1F6EB; | &#x1F6EB; | 
-| airplane arrival | &#x1F6EC; | &#x1F6EC; | &#x1F6EC; | 
-| parachute |  | &#x1FA82; | &#x1FA82; | 
-| seat | &#x1F4BA; | &#x1F4BA; | &#x1F4BA; | 
-| helicopter | &#x1F681; | &#x1F681; | &#x1F681; | 
-| suspension railway | &#x1F69F; | &#x1F69F; | &#x1F69F; | 
-| mountain cableway | &#x1F6A0; | &#x1F6A0; | &#x1F6A0; | 
-| aerial tramway | &#x1F6A1; | &#x1F6A1; | &#x1F6A1; | 
-| satellite | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | 
-| rocket | &#x1F680; | &#x1F680; | &#x1F680; | 
-| flying saucer |  | &#x1F6F8; | &#x1F6F8; | 
-
-### hotel
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| bellhop bell | &#x1F6CE;&#xFE0F; | &#x1F6CE;&#xFE0F; | &#x1F6CE;&#xFE0F; | 
-| luggage |  | &#x1F9F3; | &#x1F9F3; | 
-
-### time
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| hourglass done | &#x231B; | &#x231B; | &#x231B; | 
-| hourglass not done | &#x23F3; | &#x23F3; | &#x23F3; | 
-| watch | &#x231A; | &#x231A; | &#x231A; | 
-| alarm clock | &#x23F0; | &#x23F0; | &#x23F0; | 
-| stopwatch | &#x23F1;&#xFE0F; | &#x23F1;&#xFE0F; | &#x23F1;&#xFE0F; | 
-| timer clock | &#x23F2;&#xFE0F; | &#x23F2;&#xFE0F; | &#x23F2;&#xFE0F; | 
-| mantelpiece clock | &#x1F570;&#xFE0F; | &#x1F570;&#xFE0F; | &#x1F570;&#xFE0F; | 
-| twelve o’clock | &#x1F55B; | &#x1F55B; | &#x1F55B; | 
-| twelve-thirty | &#x1F567; | &#x1F567; | &#x1F567; | 
-| one o’clock | &#x1F550; | &#x1F550; | &#x1F550; | 
-| one-thirty | &#x1F55C; | &#x1F55C; | &#x1F55C; | 
-| two o’clock | &#x1F551; | &#x1F551; | &#x1F551; | 
-| two-thirty | &#x1F55D; | &#x1F55D; | &#x1F55D; | 
-| three o’clock | &#x1F552; | &#x1F552; | &#x1F552; | 
-| three-thirty | &#x1F55E; | &#x1F55E; | &#x1F55E; | 
-| four o’clock | &#x1F553; | &#x1F553; | &#x1F553; | 
-| four-thirty | &#x1F55F; | &#x1F55F; | &#x1F55F; | 
-| five o’clock | &#x1F554; | &#x1F554; | &#x1F554; | 
-| five-thirty | &#x1F560; | &#x1F560; | &#x1F560; | 
-| six o’clock | &#x1F555; | &#x1F555; | &#x1F555; | 
-| six-thirty | &#x1F561; | &#x1F561; | &#x1F561; | 
-| seven o’clock | &#x1F556; | &#x1F556; | &#x1F556; | 
-| seven-thirty | &#x1F562; | &#x1F562; | &#x1F562; | 
-| eight o’clock | &#x1F557; | &#x1F557; | &#x1F557; | 
-| eight-thirty | &#x1F563; | &#x1F563; | &#x1F563; | 
-| nine o’clock | &#x1F558; | &#x1F558; | &#x1F558; | 
-| nine-thirty | &#x1F564; | &#x1F564; | &#x1F564; | 
-| ten o’clock | &#x1F559; | &#x1F559; | &#x1F559; | 
-| ten-thirty | &#x1F565; | &#x1F565; | &#x1F565; | 
-| eleven o’clock | &#x1F55A; | &#x1F55A; | &#x1F55A; | 
-| eleven-thirty | &#x1F566; | &#x1F566; | &#x1F566; | 
-
-### sky & weather
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| new moon | &#x1F311; | &#x1F311; | &#x1F311; | 
-| waxing crescent moon | &#x1F312; | &#x1F312; | &#x1F312; | 
-| first quarter moon | &#x1F313; | &#x1F313; | &#x1F313; | 
-| waxing gibbous moon | &#x1F314; | &#x1F314; | &#x1F314; | 
-| full moon | &#x1F315; | &#x1F315; | &#x1F315; | 
-| waning gibbous moon | &#x1F316; | &#x1F316; | &#x1F316; | 
-| last quarter moon | &#x1F317; | &#x1F317; | &#x1F317; | 
-| waning crescent moon | &#x1F318; | &#x1F318; | &#x1F318; | 
-| crescent moon | &#x1F319; | &#x1F319; | &#x1F319; | 
-| new moon face | &#x1F31A; | &#x1F31A; | &#x1F31A; | 
-| first quarter moon face | &#x1F31B; | &#x1F31B; | &#x1F31B; | 
-| last quarter moon face | &#x1F31C; | &#x1F31C; | &#x1F31C; | 
-| thermometer | &#x1F321;&#xFE0F; | &#x1F321;&#xFE0F; | &#x1F321;&#xFE0F; | 
-| sun | &#x2600;&#xFE0F; | &#x2600;&#xFE0F; | &#x2600;&#xFE0F; | 
-| full moon face | &#x1F31D; | &#x1F31D; | &#x1F31D; | 
-| sun with face | &#x1F31E; | &#x1F31E; | &#x1F31E; | 
-| ringed planet |  | &#x1FA90; | &#x1FA90; | 
-| star | &#x2B50; | &#x2B50; | &#x2B50; | 
-| glowing star | &#x1F31F; | &#x1F31F; | &#x1F31F; | 
-| shooting star | &#x1F320; | &#x1F320; | &#x1F320; | 
-| milky way | &#x1F30C; | &#x1F30C; | &#x1F30C; | 
-| cloud | &#x2601;&#xFE0F; | &#x2601;&#xFE0F; | &#x2601;&#xFE0F; | 
-| sun behind cloud | &#x26C5; | &#x26C5; | &#x26C5; | 
-| cloud with lightning and rain | &#x26C8;&#xFE0F; | &#x26C8;&#xFE0F; | &#x26C8;&#xFE0F; | 
-| sun behind small cloud | &#x1F324;&#xFE0F; | &#x1F324;&#xFE0F; | &#x1F324;&#xFE0F; | 
-| sun behind large cloud | &#x1F325;&#xFE0F; | &#x1F325;&#xFE0F; | &#x1F325;&#xFE0F; | 
-| sun behind rain cloud | &#x1F326;&#xFE0F; | &#x1F326;&#xFE0F; | &#x1F326;&#xFE0F; | 
-| cloud with rain | &#x1F327;&#xFE0F; | &#x1F327;&#xFE0F; | &#x1F327;&#xFE0F; | 
-| cloud with snow | &#x1F328;&#xFE0F; | &#x1F328;&#xFE0F; | &#x1F328;&#xFE0F; | 
-| cloud with lightning | &#x1F329;&#xFE0F; | &#x1F329;&#xFE0F; | &#x1F329;&#xFE0F; | 
-| tornado | &#x1F32A;&#xFE0F; | &#x1F32A;&#xFE0F; | &#x1F32A;&#xFE0F; | 
-| fog | &#x1F32B;&#xFE0F; | &#x1F32B;&#xFE0F; | &#x1F32B;&#xFE0F; | 
-| wind face | &#x1F32C;&#xFE0F; | &#x1F32C;&#xFE0F; | &#x1F32C;&#xFE0F; | 
-| cyclone | &#x1F300; | &#x1F300; | &#x1F300; | 
-| rainbow | &#x1F308; | &#x1F308; | &#x1F308; | 
-| closed umbrella | &#x1F302; | &#x1F302; | &#x1F302; | 
-| umbrella | &#x2602;&#xFE0F; | &#x2602;&#xFE0F; | &#x2602;&#xFE0F; | 
-| umbrella with rain drops | &#x2614; | &#x2614; | &#x2614; | 
-| umbrella on ground | &#x26F1;&#xFE0F; | &#x26F1;&#xFE0F; | &#x26F1;&#xFE0F; | 
-| high voltage | &#x26A1; | &#x26A1; | &#x26A1; | 
-| snowflake | &#x2744;&#xFE0F; | &#x2744;&#xFE0F; | &#x2744;&#xFE0F; | 
-| snowman | &#x2603;&#xFE0F; | &#x2603;&#xFE0F; | &#x2603;&#xFE0F; | 
-| snowman without snow | &#x26C4; | &#x26C4; | &#x26C4; | 
-| comet | &#x2604;&#xFE0F; | &#x2604;&#xFE0F; | &#x2604;&#xFE0F; | 
-| fire | &#x1F525; | &#x1F525; | &#x1F525; | 
-| droplet | &#x1F4A7; | &#x1F4A7; | &#x1F4A7; | 
-| water wave | &#x1F30A; | &#x1F30A; | &#x1F30A; | 
-
-## Activities
-
-
-### event
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| jack-o-lantern | &#x1F383; | &#x1F383; | &#x1F383; | 
-| Christmas tree | &#x1F384; | &#x1F384; | &#x1F384; | 
-| fireworks | &#x1F386; | &#x1F386; | &#x1F386; | 
-| sparkler | &#x1F387; | &#x1F387; | &#x1F387; | 
-| firecracker |  | &#x1F9E8; | &#x1F9E8; | 
-| sparkles | &#x2728; | &#x2728; | &#x2728; | 
-| balloon | &#x1F388; | &#x1F388; | &#x1F388; | 
-| party popper | &#x1F389; | &#x1F389; | &#x1F389; | 
-| confetti ball | &#x1F38A; | &#x1F38A; | &#x1F38A; | 
-| tanabata tree | &#x1F38B; | &#x1F38B; | &#x1F38B; | 
-| pine decoration | &#x1F38D; | &#x1F38D; | &#x1F38D; | 
-| Japanese dolls | &#x1F38E; | &#x1F38E; | &#x1F38E; | 
-| carp streamer | &#x1F38F; | &#x1F38F; | &#x1F38F; | 
-| wind chime | &#x1F390; | &#x1F390; | &#x1F390; | 
-| moon viewing ceremony | &#x1F391; | &#x1F391; | &#x1F391; | 
-| red envelope |  | &#x1F9E7; | &#x1F9E7; | 
-| ribbon | &#x1F380; | &#x1F380; | &#x1F380; | 
-| wrapped gift | &#x1F381; | &#x1F381; | &#x1F381; | 
-| reminder ribbon | &#x1F397;&#xFE0F; | &#x1F397;&#xFE0F; | &#x1F397;&#xFE0F; | 
-| admission tickets | &#x1F39F;&#xFE0F; | &#x1F39F;&#xFE0F; | &#x1F39F;&#xFE0F; | 
-| ticket | &#x1F3AB; | &#x1F3AB; | &#x1F3AB; | 
-
-### award-medal
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| military medal | &#x1F396;&#xFE0F; | &#x1F396;&#xFE0F; | &#x1F396;&#xFE0F; | 
-| trophy | &#x1F3C6; | &#x1F3C6; | &#x1F3C6; | 
-| sports medal | &#x1F3C5; | &#x1F3C5; | &#x1F3C5; | 
-| st place medal | &#x1F947; | &#x1F947; | &#x1F947; | 
-| nd place medal | &#x1F948; | &#x1F948; | &#x1F948; | 
-| rd place medal | &#x1F949; | &#x1F949; | &#x1F949; | 
-
-### sport
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| soccer ball | &#x26BD; | &#x26BD; | &#x26BD; | 
-| baseball | &#x26BE; | &#x26BE; | &#x26BE; | 
-| softball |  | &#x1F94E; | &#x1F94E; | 
-| basketball | &#x1F3C0; | &#x1F3C0; | &#x1F3C0; | 
-| volleyball | &#x1F3D0; | &#x1F3D0; | &#x1F3D0; | 
-| american football | &#x1F3C8; | &#x1F3C8; | &#x1F3C8; | 
-| rugby football | &#x1F3C9; | &#x1F3C9; | &#x1F3C9; | 
-| tennis | &#x1F3BE; | &#x1F3BE; | &#x1F3BE; | 
-| flying disc |  | &#x1F94F; | &#x1F94F; | 
-| bowling | &#x1F3B3; | &#x1F3B3; | &#x1F3B3; | 
-| cricket game | &#x1F3CF; | &#x1F3CF; | &#x1F3CF; | 
-| field hockey | &#x1F3D1; | &#x1F3D1; | &#x1F3D1; | 
-| ice hockey | &#x1F3D2; | &#x1F3D2; | &#x1F3D2; | 
-| lacrosse |  | &#x1F94D; | &#x1F94D; | 
-| ping pong | &#x1F3D3; | &#x1F3D3; | &#x1F3D3; | 
-| badminton | &#x1F3F8; | &#x1F3F8; | &#x1F3F8; | 
-| boxing glove | &#x1F94A; | &#x1F94A; | &#x1F94A; | 
-| martial arts uniform | &#x1F94B; | &#x1F94B; | &#x1F94B; | 
-| goal net | &#x1F945; | &#x1F945; | &#x1F945; | 
-| flag in hole | &#x26F3; | &#x26F3; | &#x26F3; | 
-| ice skate | &#x26F8;&#xFE0F; | &#x26F8;&#xFE0F; | &#x26F8;&#xFE0F; | 
-| fishing pole | &#x1F3A3; | &#x1F3A3; | &#x1F3A3; | 
-| diving mask |  | &#x1F93F; | &#x1F93F; | 
-| running shirt | &#x1F3BD; | &#x1F3BD; | &#x1F3BD; | 
-| skis | &#x1F3BF; | &#x1F3BF; | &#x1F3BF; | 
-| sled |  | &#x1F6F7; | &#x1F6F7; | 
-| curling stone |  | &#x1F94C; | &#x1F94C; | 
-
-### game
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| direct hit | &#x1F3AF; | &#x1F3AF; | &#x1F3AF; | 
-| yo-yo |  | &#x1FA80; | &#x1FA80; | 
-| kite |  | &#x1FA81; | &#x1FA81; | 
-| pool 8 ball | &#x1F3B1; | &#x1F3B1; | &#x1F3B1; | 
-| crystal ball | &#x1F52E; | &#x1F52E; | &#x1F52E; | 
-| magic wand |  | &#x1FA84; | &#x1FA84; | 
-| nazar amulet |  | &#x1F9FF; | &#x1F9FF; | 
-| video game | &#x1F3AE; | &#x1F3AE; | &#x1F3AE; | 
-| joystick | &#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | 
-| slot machine | &#x1F3B0; | &#x1F3B0; | &#x1F3B0; | 
-| game die | &#x1F3B2; | &#x1F3B2; | &#x1F3B2; | 
-| puzzle piece |  | &#x1F9E9; | &#x1F9E9; | 
-| teddy bear |  | &#x1F9F8; | &#x1F9F8; | 
-| piñata |  | &#x1FA85; | &#x1FA85; | 
-| nesting dolls |  | &#x1FA86; | &#x1FA86; | 
-| spade suit | &#x2660;&#xFE0F; | &#x2660;&#xFE0F; | &#x2660;&#xFE0F; | 
-| heart suit | &#x2665;&#xFE0F; | &#x2665;&#xFE0F; | &#x2665;&#xFE0F; | 
-| diamond suit | &#x2666;&#xFE0F; | &#x2666;&#xFE0F; | &#x2666;&#xFE0F; | 
-| club suit | &#x2663;&#xFE0F; | &#x2663;&#xFE0F; | &#x2663;&#xFE0F; | 
-| chess pawn |  | &#x265F;&#xFE0F; | &#x265F;&#xFE0F; | 
-| joker | &#x1F0CF; | &#x1F0CF; | &#x1F0CF; | 
-| mahjong red dragon | &#x1F004; | &#x1F004; | &#x1F004; | 
-| flower playing cards | &#x1F3B4; | &#x1F3B4; | &#x1F3B4; | 
-
-### arts & crafts
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| performing arts | &#x1F3AD; | &#x1F3AD; | &#x1F3AD; | 
-| framed picture | &#x1F5BC;&#xFE0F; | &#x1F5BC;&#xFE0F; | &#x1F5BC;&#xFE0F; | 
-| artist palette | &#x1F3A8; | &#x1F3A8; | &#x1F3A8; | 
-| thread |  | &#x1F9F5; | &#x1F9F5; | 
-| sewing needle |  | &#x1FAA1; | &#x1FAA1; | 
-| yarn |  | &#x1F9F6; | &#x1F9F6; | 
-| knot |  | &#x1FAA2; | &#x1FAA2; | 
-
-## Objects
-
-
-### clothing
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| glasses | &#x1F453; | &#x1F453; | &#x1F453; | 
-| sunglasses | &#x1F576;&#xFE0F; | &#x1F576;&#xFE0F; | &#x1F576;&#xFE0F; | 
-| goggles |  | &#x1F97D; | &#x1F97D; | 
-| lab coat |  | &#x1F97C; | &#x1F97C; | 
-| safety vest |  | &#x1F9BA; | &#x1F9BA; | 
-| necktie | &#x1F454; | &#x1F454; | &#x1F454; | 
-| t-shirt | &#x1F455; | &#x1F455; | &#x1F455; | 
-| jeans | &#x1F456; | &#x1F456; | &#x1F456; | 
-| scarf |  | &#x1F9E3; | &#x1F9E3; | 
-| gloves |  | &#x1F9E4; | &#x1F9E4; | 
-| coat |  | &#x1F9E5; | &#x1F9E5; | 
-| socks |  | &#x1F9E6; | &#x1F9E6; | 
-| dress | &#x1F457; | &#x1F457; | &#x1F457; | 
-| kimono | &#x1F458; | &#x1F458; | &#x1F458; | 
-| sari |  | &#x1F97B; | &#x1F97B; | 
-| one-piece swimsuit |  | &#x1FA71; | &#x1FA71; | 
-| briefs |  | &#x1FA72; | &#x1FA72; | 
-| shorts |  | &#x1FA73; | &#x1FA73; | 
-| bikini | &#x1F459; | &#x1F459; | &#x1F459; | 
-| woman’s clothes | &#x1F45A; | &#x1F45A; | &#x1F45A; | 
-| purse | &#x1F45B; | &#x1F45B; | &#x1F45B; | 
-| handbag | &#x1F45C; | &#x1F45C; | &#x1F45C; | 
-| clutch bag | &#x1F45D; | &#x1F45D; | &#x1F45D; | 
-| shopping bags | &#x1F6CD;&#xFE0F; | &#x1F6CD;&#xFE0F; | &#x1F6CD;&#xFE0F; | 
-| backpack | &#x1F392; | &#x1F392; | &#x1F392; | 
-| thong sandal |  | &#x1FA74; | &#x1FA74; | 
-| man’s shoe | &#x1F45E; | &#x1F45E; | &#x1F45E; | 
-| running shoe | &#x1F45F; | &#x1F45F; | &#x1F45F; | 
-| hiking boot |  | &#x1F97E; | &#x1F97E; | 
-| flat shoe |  | &#x1F97F; | &#x1F97F; | 
-| high-heeled shoe | &#x1F460; | &#x1F460; | &#x1F460; | 
-| woman’s sandal | &#x1F461; | &#x1F461; | &#x1F461; | 
-| ballet shoes |  | &#x1FA70; | &#x1FA70; | 
-| woman’s boot | &#x1F462; | &#x1F462; | &#x1F462; | 
-| crown | &#x1F451; | &#x1F451; | &#x1F451; | 
-| woman’s hat | &#x1F452; | &#x1F452; | &#x1F452; | 
-| top hat | &#x1F3A9; | &#x1F3A9; | &#x1F3A9; | 
-| graduation cap | &#x1F393; | &#x1F393; | &#x1F393; | 
-| billed cap |  | &#x1F9E2; | &#x1F9E2; | 
-| military helmet |  | &#x1FA96; | &#x1FA96; | 
-| rescue worker’s helmet | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | 
-| prayer beads | &#x1F4FF; | &#x1F4FF; | &#x1F4FF; | 
-| lipstick | &#x1F484; | &#x1F484; | &#x1F484; | 
-| ring | &#x1F48D; | &#x1F48D; | &#x1F48D; | 
-| gem stone | &#x1F48E; | &#x1F48E; | &#x1F48E; | 
-
-### sound
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| muted speaker | &#x1F507; | &#x1F507; | &#x1F507; | 
-| speaker low volume | &#x1F508; | &#x1F508; | &#x1F508; | 
-| speaker medium volume | &#x1F509; | &#x1F509; | &#x1F509; | 
-| speaker high volume | &#x1F50A; | &#x1F50A; | &#x1F50A; | 
-| loudspeaker | &#x1F4E2; | &#x1F4E2; | &#x1F4E2; | 
-| megaphone | &#x1F4E3; | &#x1F4E3; | &#x1F4E3; | 
-| postal horn | &#x1F4EF; | &#x1F4EF; | &#x1F4EF; | 
-| bell | &#x1F514; | &#x1F514; | &#x1F514; | 
-| bell with slash | &#x1F515; | &#x1F515; | &#x1F515; | 
-
-### music
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| musical score | &#x1F3BC; | &#x1F3BC; | &#x1F3BC; | 
-| musical note | &#x1F3B5; | &#x1F3B5; | &#x1F3B5; | 
-| musical notes | &#x1F3B6; | &#x1F3B6; | &#x1F3B6; | 
-| studio microphone | &#x1F399;&#xFE0F; | &#x1F399;&#xFE0F; | &#x1F399;&#xFE0F; | 
-| level slider | &#x1F39A;&#xFE0F; | &#x1F39A;&#xFE0F; | &#x1F39A;&#xFE0F; | 
-| control knobs | &#x1F39B;&#xFE0F; | &#x1F39B;&#xFE0F; | &#x1F39B;&#xFE0F; | 
-| microphone | &#x1F3A4; | &#x1F3A4; | &#x1F3A4; | 
-| headphone | &#x1F3A7; | &#x1F3A7; | &#x1F3A7; | 
-| radio | &#x1F4FB; | &#x1F4FB; | &#x1F4FB; | 
-
-### musical-instrument
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| saxophone | &#x1F3B7; | &#x1F3B7; | &#x1F3B7; | 
-| accordion |  | &#x1FA97; | &#x1FA97; | 
-| guitar | &#x1F3B8; | &#x1F3B8; | &#x1F3B8; | 
-| musical keyboard | &#x1F3B9; | &#x1F3B9; | &#x1F3B9; | 
-| trumpet | &#x1F3BA; | &#x1F3BA; | &#x1F3BA; | 
-| violin | &#x1F3BB; | &#x1F3BB; | &#x1F3BB; | 
-| banjo |  | &#x1FA95; | &#x1FA95; | 
-| drum | &#x1F941; | &#x1F941; | &#x1F941; | 
-| long drum |  | &#x1FA98; | &#x1FA98; | 
-
-### phone
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| mobile phone | &#x1F4F1; | &#x1F4F1; | &#x1F4F1; | 
-| mobile phone with arrow | &#x1F4F2; | &#x1F4F2; | &#x1F4F2; | 
-| telephone | &#x260E;&#xFE0F; | &#x260E;&#xFE0F; | &#x260E;&#xFE0F; | 
-| telephone receiver | &#x1F4DE; | &#x1F4DE; | &#x1F4DE; | 
-| pager | &#x1F4DF; | &#x1F4DF; | &#x1F4DF; | 
-| fax machine | &#x1F4E0; | &#x1F4E0; | &#x1F4E0; | 
-
-### computer
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| battery | &#x1F50B; | &#x1F50B; | &#x1F50B; | 
-| electric plug | &#x1F50C; | &#x1F50C; | &#x1F50C; | 
-| laptop | &#x1F4BB; | &#x1F4BB; | &#x1F4BB; | 
-| desktop computer | &#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | 
-| printer | &#x1F5A8;&#xFE0F; | &#x1F5A8;&#xFE0F; | &#x1F5A8;&#xFE0F; | 
-| keyboard | &#x2328;&#xFE0F; | &#x2328;&#xFE0F; | &#x2328;&#xFE0F; | 
-| computer mouse | &#x1F5B1;&#xFE0F; | &#x1F5B1;&#xFE0F; | &#x1F5B1;&#xFE0F; | 
-| trackball | &#x1F5B2;&#xFE0F; | &#x1F5B2;&#xFE0F; | &#x1F5B2;&#xFE0F; | 
-| computer disk | &#x1F4BD; | &#x1F4BD; | &#x1F4BD; | 
-| floppy disk | &#x1F4BE; | &#x1F4BE; | &#x1F4BE; | 
-| optical disk | &#x1F4BF; | &#x1F4BF; | &#x1F4BF; | 
-| dvd | &#x1F4C0; | &#x1F4C0; | &#x1F4C0; | 
-| abacus |  | &#x1F9EE; | &#x1F9EE; | 
-
-### light & video
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| movie camera | &#x1F3A5; | &#x1F3A5; | &#x1F3A5; | 
-| film frames | &#x1F39E;&#xFE0F; | &#x1F39E;&#xFE0F; | &#x1F39E;&#xFE0F; | 
-| film projector | &#x1F4FD;&#xFE0F; | &#x1F4FD;&#xFE0F; | &#x1F4FD;&#xFE0F; | 
-| clapper board | &#x1F3AC; | &#x1F3AC; | &#x1F3AC; | 
-| television | &#x1F4FA; | &#x1F4FA; | &#x1F4FA; | 
-| camera | &#x1F4F7; | &#x1F4F7; | &#x1F4F7; | 
-| camera with flash | &#x1F4F8; | &#x1F4F8; | &#x1F4F8; | 
-| video camera | &#x1F4F9; | &#x1F4F9; | &#x1F4F9; | 
-| videocassette | &#x1F4FC; | &#x1F4FC; | &#x1F4FC; | 
-| magnifying glass tilted left | &#x1F50D; | &#x1F50D; | &#x1F50D; | 
-| magnifying glass tilted right | &#x1F50E; | &#x1F50E; | &#x1F50E; | 
-| candle | &#x1F56F;&#xFE0F; | &#x1F56F;&#xFE0F; | &#x1F56F;&#xFE0F; | 
-| light bulb | &#x1F4A1; | &#x1F4A1; | &#x1F4A1; | 
-| flashlight | &#x1F526; | &#x1F526; | &#x1F526; | 
-| red paper lantern | &#x1F3EE; | &#x1F3EE; | &#x1F3EE; | 
-| diya lamp |  | &#x1FA94; | &#x1FA94; | 
-
-### book-paper
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| notebook with decorative cover | &#x1F4D4; | &#x1F4D4; | &#x1F4D4; | 
-| closed book | &#x1F4D5; | &#x1F4D5; | &#x1F4D5; | 
-| open book | &#x1F4D6; | &#x1F4D6; | &#x1F4D6; | 
-| green book | &#x1F4D7; | &#x1F4D7; | &#x1F4D7; | 
-| blue book | &#x1F4D8; | &#x1F4D8; | &#x1F4D8; | 
-| orange book | &#x1F4D9; | &#x1F4D9; | &#x1F4D9; | 
-| books | &#x1F4DA; | &#x1F4DA; | &#x1F4DA; | 
-| notebook | &#x1F4D3; | &#x1F4D3; | &#x1F4D3; | 
-| ledger | &#x1F4D2; | &#x1F4D2; | &#x1F4D2; | 
-| page with curl | &#x1F4C3; | &#x1F4C3; | &#x1F4C3; | 
-| scroll | &#x1F4DC; | &#x1F4DC; | &#x1F4DC; | 
-| page facing up | &#x1F4C4; | &#x1F4C4; | &#x1F4C4; | 
-| newspaper | &#x1F4F0; | &#x1F4F0; | &#x1F4F0; | 
-| rolled-up newspaper | &#x1F5DE;&#xFE0F; | &#x1F5DE;&#xFE0F; | &#x1F5DE;&#xFE0F; | 
-| bookmark tabs | &#x1F4D1; | &#x1F4D1; | &#x1F4D1; | 
-| bookmark | &#x1F516; | &#x1F516; | &#x1F516; | 
-| label | &#x1F3F7;&#xFE0F; | &#x1F3F7;&#xFE0F; | &#x1F3F7;&#xFE0F; | 
-
-### money
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| money bag | &#x1F4B0; | &#x1F4B0; | &#x1F4B0; | 
-| coin |  | &#x1FA99; | &#x1FA99; | 
-| yen banknote | &#x1F4B4; | &#x1F4B4; | &#x1F4B4; | 
-| dollar banknote | &#x1F4B5; | &#x1F4B5; | &#x1F4B5; | 
-| euro banknote | &#x1F4B6; | &#x1F4B6; | &#x1F4B6; | 
-| pound banknote | &#x1F4B7; | &#x1F4B7; | &#x1F4B7; | 
-| money with wings | &#x1F4B8; | &#x1F4B8; | &#x1F4B8; | 
-| credit card | &#x1F4B3; | &#x1F4B3; | &#x1F4B3; | 
-| receipt |  | &#x1F9FE; | &#x1F9FE; | 
-| chart increasing with yen | &#x1F4B9; | &#x1F4B9; | &#x1F4B9; | 
-
-### mail
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| envelope | &#x2709;&#xFE0F; | &#x2709;&#xFE0F; | &#x2709;&#xFE0F; | 
-| e-mail | &#x1F4E7; | &#x1F4E7; | &#x1F4E7; | 
-| incoming envelope | &#x1F4E8; | &#x1F4E8; | &#x1F4E8; | 
-| envelope with arrow | &#x1F4E9; | &#x1F4E9; | &#x1F4E9; | 
-| outbox tray | &#x1F4E4; | &#x1F4E4; | &#x1F4E4; | 
-| inbox tray | &#x1F4E5; | &#x1F4E5; | &#x1F4E5; | 
-| package | &#x1F4E6; | &#x1F4E6; | &#x1F4E6; | 
-| closed mailbox with raised flag | &#x1F4EB; | &#x1F4EB; | &#x1F4EB; | 
-| closed mailbox with lowered flag | &#x1F4EA; | &#x1F4EA; | &#x1F4EA; | 
-| open mailbox with raised flag | &#x1F4EC; | &#x1F4EC; | &#x1F4EC; | 
-| open mailbox with lowered flag | &#x1F4ED; | &#x1F4ED; | &#x1F4ED; | 
-| postbox | &#x1F4EE; | &#x1F4EE; | &#x1F4EE; | 
-| ballot box with ballot | &#x1F5F3;&#xFE0F; | &#x1F5F3;&#xFE0F; | &#x1F5F3;&#xFE0F; | 
-
-### writing
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| pencil | &#x270F;&#xFE0F; | &#x270F;&#xFE0F; | &#x270F;&#xFE0F; | 
-| black nib | &#x2712;&#xFE0F; | &#x2712;&#xFE0F; | &#x2712;&#xFE0F; | 
-| fountain pen | &#x1F58B;&#xFE0F; | &#x1F58B;&#xFE0F; | &#x1F58B;&#xFE0F; | 
-| pen | &#x1F58A;&#xFE0F; | &#x1F58A;&#xFE0F; | &#x1F58A;&#xFE0F; | 
-| paintbrush | &#x1F58C;&#xFE0F; | &#x1F58C;&#xFE0F; | &#x1F58C;&#xFE0F; | 
-| crayon | &#x1F58D;&#xFE0F; | &#x1F58D;&#xFE0F; | &#x1F58D;&#xFE0F; | 
-| memo | &#x1F4DD; | &#x1F4DD; | &#x1F4DD; | 
-
-### office
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| briefcase | &#x1F4BC; | &#x1F4BC; | &#x1F4BC; | 
-| file folder | &#x1F4C1; | &#x1F4C1; | &#x1F4C1; | 
-| open file folder | &#x1F4C2; | &#x1F4C2; | &#x1F4C2; | 
-| card index dividers | &#x1F5C2;&#xFE0F; | &#x1F5C2;&#xFE0F; | &#x1F5C2;&#xFE0F; | 
-| calendar | &#x1F4C5; | &#x1F4C5; | &#x1F4C5; | 
-| tear-off calendar | &#x1F4C6; | &#x1F4C6; | &#x1F4C6; | 
-| spiral notepad | &#x1F5D2;&#xFE0F; | &#x1F5D2;&#xFE0F; | &#x1F5D2;&#xFE0F; | 
-| spiral calendar | &#x1F5D3;&#xFE0F; | &#x1F5D3;&#xFE0F; | &#x1F5D3;&#xFE0F; | 
-| card index | &#x1F4C7; | &#x1F4C7; | &#x1F4C7; | 
-| chart increasing | &#x1F4C8; | &#x1F4C8; | &#x1F4C8; | 
-| chart decreasing | &#x1F4C9; | &#x1F4C9; | &#x1F4C9; | 
-| bar chart | &#x1F4CA; | &#x1F4CA; | &#x1F4CA; | 
-| clipboard | &#x1F4CB; | &#x1F4CB; | &#x1F4CB; | 
-| pushpin | &#x1F4CC; | &#x1F4CC; | &#x1F4CC; | 
-| round pushpin | &#x1F4CD; | &#x1F4CD; | &#x1F4CD; | 
-| paperclip | &#x1F4CE; | &#x1F4CE; | &#x1F4CE; | 
-| linked paperclips | &#x1F587;&#xFE0F; | &#x1F587;&#xFE0F; | &#x1F587;&#xFE0F; | 
-| straight ruler | &#x1F4CF; | &#x1F4CF; | &#x1F4CF; | 
-| triangular ruler | &#x1F4D0; | &#x1F4D0; | &#x1F4D0; | 
-| scissors | &#x2702;&#xFE0F; | &#x2702;&#xFE0F; | &#x2702;&#xFE0F; | 
-| card file box | &#x1F5C3;&#xFE0F; | &#x1F5C3;&#xFE0F; | &#x1F5C3;&#xFE0F; | 
-| file cabinet | &#x1F5C4;&#xFE0F; | &#x1F5C4;&#xFE0F; | &#x1F5C4;&#xFE0F; | 
-| wastebasket | &#x1F5D1;&#xFE0F; | &#x1F5D1;&#xFE0F; | &#x1F5D1;&#xFE0F; | 
-
-### lock
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| locked | &#x1F512; | &#x1F512; | &#x1F512; | 
-| unlocked | &#x1F513; | &#x1F513; | &#x1F513; | 
-| locked with pen | &#x1F50F; | &#x1F50F; | &#x1F50F; | 
-| locked with key | &#x1F510; | &#x1F510; | &#x1F510; | 
-| key | &#x1F511; | &#x1F511; | &#x1F511; | 
-| old key | &#x1F5DD;&#xFE0F; | &#x1F5DD;&#xFE0F; | &#x1F5DD;&#xFE0F; | 
-
-### tool
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| hammer | &#x1F528; | &#x1F528; | &#x1F528; | 
-| axe |  | &#x1FA93; | &#x1FA93; | 
-| pick | &#x26CF;&#xFE0F; | &#x26CF;&#xFE0F; | &#x26CF;&#xFE0F; | 
-| hammer and pick | &#x2692;&#xFE0F; | &#x2692;&#xFE0F; | &#x2692;&#xFE0F; | 
-| hammer and wrench | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | 
-| dagger | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | 
-| crossed swords | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | 
-| pistol | &#x1F52B; | &#x1F52B; | &#x1F52B; | 
-| boomerang |  | &#x1FA83; | &#x1FA83; | 
-| bow and arrow | &#x1F3F9; | &#x1F3F9; | &#x1F3F9; | 
-| shield | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | 
-| carpentry saw |  | &#x1FA9A; | &#x1FA9A; | 
-| wrench | &#x1F527; | &#x1F527; | &#x1F527; | 
-| screwdriver |  | &#x1FA9B; | &#x1FA9B; | 
-| nut and bolt | &#x1F529; | &#x1F529; | &#x1F529; | 
-| gear | &#x2699;&#xFE0F; | &#x2699;&#xFE0F; | &#x2699;&#xFE0F; | 
-| clamp | &#x1F5DC;&#xFE0F; | &#x1F5DC;&#xFE0F; | &#x1F5DC;&#xFE0F; | 
-| balance scale | &#x2696;&#xFE0F; | &#x2696;&#xFE0F; | &#x2696;&#xFE0F; | 
-| white cane |  | &#x1F9AF; | &#x1F9AF; | 
-| link | &#x1F517; | &#x1F517; | &#x1F517; | 
-| chains | &#x26D3;&#xFE0F; | &#x26D3;&#xFE0F; | &#x26D3;&#xFE0F; | 
-| hook |  | &#x1FA9D; | &#x1FA9D; | 
-| toolbox |  | &#x1F9F0; | &#x1F9F0; | 
-| magnet |  | &#x1F9F2; | &#x1F9F2; | 
-| ladder |  | &#x1FA9C; | &#x1FA9C; | 
-
-### science
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| alembic | &#x2697;&#xFE0F; | &#x2697;&#xFE0F; | &#x2697;&#xFE0F; | 
-| test tube |  | &#x1F9EA; | &#x1F9EA; | 
-| petri dish |  | &#x1F9EB; | &#x1F9EB; | 
-| dna |  | &#x1F9EC; | &#x1F9EC; | 
-| microscope | &#x1F52C; | &#x1F52C; | &#x1F52C; | 
-| telescope | &#x1F52D; | &#x1F52D; | &#x1F52D; | 
-| satellite antenna | &#x1F4E1; | &#x1F4E1; | &#x1F4E1; | 
-
-### medical
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| syringe | &#x1F489; | &#x1F489; | &#x1F489; | 
-| drop of blood |  | &#x1FA78; | &#x1FA78; | 
-| pill | &#x1F48A; | &#x1F48A; | &#x1F48A; | 
-| adhesive bandage |  | &#x1FA79; | &#x1FA79; | 
-| stethoscope |  | &#x1FA7A; | &#x1FA7A; | 
-
-### household
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| door | &#x1F6AA; | &#x1F6AA; | &#x1F6AA; | 
-| elevator |  | &#x1F6D7; | &#x1F6D7; | 
-| mirror |  | &#x1FA9E; | &#x1FA9E; | 
-| window |  | &#x1FA9F; | &#x1FA9F; | 
-| bed | &#x1F6CF;&#xFE0F; | &#x1F6CF;&#xFE0F; | &#x1F6CF;&#xFE0F; | 
-| couch and lamp | &#x1F6CB;&#xFE0F; | &#x1F6CB;&#xFE0F; | &#x1F6CB;&#xFE0F; | 
-| chair |  | &#x1FA91; | &#x1FA91; | 
-| toilet | &#x1F6BD; | &#x1F6BD; | &#x1F6BD; | 
-| plunger |  | &#x1FAA0; | &#x1FAA0; | 
-| shower | &#x1F6BF; | &#x1F6BF; | &#x1F6BF; | 
-| bathtub | &#x1F6C1; | &#x1F6C1; | &#x1F6C1; | 
-| mouse trap |  | &#x1FAA4; | &#x1FAA4; | 
-| razor |  | &#x1FA92; | &#x1FA92; | 
-| lotion bottle |  | &#x1F9F4; | &#x1F9F4; | 
-| safety pin |  | &#x1F9F7; | &#x1F9F7; | 
-| broom |  | &#x1F9F9; | &#x1F9F9; | 
-| basket |  | &#x1F9FA; | &#x1F9FA; | 
-| roll of paper |  | &#x1F9FB; | &#x1F9FB; | 
-| bucket |  | &#x1FAA3; | &#x1FAA3; | 
-| soap |  | &#x1F9FC; | &#x1F9FC; | 
-| toothbrush |  | &#x1FAA5; | &#x1FAA5; | 
-| sponge |  | &#x1F9FD; | &#x1F9FD; | 
-| fire extinguisher |  | &#x1F9EF; | &#x1F9EF; | 
-| shopping cart | &#x1F6D2; | &#x1F6D2; | &#x1F6D2; | 
-
-### other-object
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| cigarette | &#x1F6AC; | &#x1F6AC; | &#x1F6AC; | 
-| coffin | &#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | 
-| headstone |  | &#x1FAA6; | &#x1FAA6; | 
-| funeral urn | &#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | 
-| moai | &#x1F5FF; | &#x1F5FF; | &#x1F5FF; | 
-| placard |  | &#x1FAA7; | &#x1FAA7; | 
-
-## Symbols
-
-
-### transport-sign
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| ATM sign | &#x1F3E7; | &#x1F3E7; | &#x1F3E7; | 
-| litter in bin sign | &#x1F6AE; | &#x1F6AE; | &#x1F6AE; | 
-| potable water | &#x1F6B0; | &#x1F6B0; | &#x1F6B0; | 
-| wheelchair symbol | &#x267F; | &#x267F; | &#x267F; | 
-| men’s room | &#x1F6B9; | &#x1F6B9; | &#x1F6B9; | 
-| women’s room | &#x1F6BA; | &#x1F6BA; | &#x1F6BA; | 
-| restroom | &#x1F6BB; | &#x1F6BB; | &#x1F6BB; | 
-| baby symbol | &#x1F6BC; | &#x1F6BC; | &#x1F6BC; | 
-| water closet | &#x1F6BE; | &#x1F6BE; | &#x1F6BE; | 
-| passport control | &#x1F6C2; | &#x1F6C2; | &#x1F6C2; | 
-| customs | &#x1F6C3; | &#x1F6C3; | &#x1F6C3; | 
-| baggage claim | &#x1F6C4; | &#x1F6C4; | &#x1F6C4; | 
-| left luggage | &#x1F6C5; | &#x1F6C5; | &#x1F6C5; | 
-
-### warning
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| warning | &#x26A0;&#xFE0F; | &#x26A0;&#xFE0F; | &#x26A0;&#xFE0F; | 
-| children crossing | &#x1F6B8; | &#x1F6B8; | &#x1F6B8; | 
-| no entry | &#x26D4; | &#x26D4; | &#x26D4; | 
-| prohibited | &#x1F6AB; | &#x1F6AB; | &#x1F6AB; | 
-| no bicycles | &#x1F6B3; | &#x1F6B3; | &#x1F6B3; | 
-| no smoking | &#x1F6AD; | &#x1F6AD; | &#x1F6AD; | 
-| no littering | &#x1F6AF; | &#x1F6AF; | &#x1F6AF; | 
-| non-potable water | &#x1F6B1; | &#x1F6B1; | &#x1F6B1; | 
-| no pedestrians | &#x1F6B7; | &#x1F6B7; | &#x1F6B7; | 
-| no mobile phones | &#x1F4F5; | &#x1F4F5; | &#x1F4F5; | 
-| no one under eighteen | &#x1F51E; | &#x1F51E; | &#x1F51E; | 
-| radioactive | &#x2622;&#xFE0F; | &#x2622;&#xFE0F; | &#x2622;&#xFE0F; | 
-| biohazard | &#x2623;&#xFE0F; | &#x2623;&#xFE0F; | &#x2623;&#xFE0F; | 
-
-### arrow
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| up arrow | &#x2B06;&#xFE0F; | &#x2B06;&#xFE0F; | &#x2B06;&#xFE0F; | 
-| up-right arrow | &#x2197;&#xFE0F; | &#x2197;&#xFE0F; | &#x2197;&#xFE0F; | 
-| right arrow | &#x27A1;&#xFE0F; | &#x27A1;&#xFE0F; | &#x27A1;&#xFE0F; | 
-| down-right arrow | &#x2198;&#xFE0F; | &#x2198;&#xFE0F; | &#x2198;&#xFE0F; | 
-| down arrow | &#x2B07;&#xFE0F; | &#x2B07;&#xFE0F; | &#x2B07;&#xFE0F; | 
-| down-left arrow | &#x2199;&#xFE0F; | &#x2199;&#xFE0F; | &#x2199;&#xFE0F; | 
-| left arrow | &#x2B05;&#xFE0F; | &#x2B05;&#xFE0F; | &#x2B05;&#xFE0F; | 
-| up-left arrow | &#x2196;&#xFE0F; | &#x2196;&#xFE0F; | &#x2196;&#xFE0F; | 
-| up-down arrow | &#x2195;&#xFE0F; | &#x2195;&#xFE0F; | &#x2195;&#xFE0F; | 
-| left-right arrow | &#x2194;&#xFE0F; | &#x2194;&#xFE0F; | &#x2194;&#xFE0F; | 
-| right arrow curving left | &#x21A9;&#xFE0F; | &#x21A9;&#xFE0F; | &#x21A9;&#xFE0F; | 
-| left arrow curving right | &#x21AA;&#xFE0F; | &#x21AA;&#xFE0F; | &#x21AA;&#xFE0F; | 
-| right arrow curving up | &#x2934;&#xFE0F; | &#x2934;&#xFE0F; | &#x2934;&#xFE0F; | 
-| right arrow curving down | &#x2935;&#xFE0F; | &#x2935;&#xFE0F; | &#x2935;&#xFE0F; | 
-| clockwise vertical arrows | &#x1F503; | &#x1F503; | &#x1F503; | 
-| counterclockwise arrows button | &#x1F504; | &#x1F504; | &#x1F504; | 
-| BACK arrow | &#x1F519; | &#x1F519; | &#x1F519; | 
-| END arrow | &#x1F51A; | &#x1F51A; | &#x1F51A; | 
-| ON! arrow | &#x1F51B; | &#x1F51B; | &#x1F51B; | 
-| SOON arrow | &#x1F51C; | &#x1F51C; | &#x1F51C; | 
-| TOP arrow | &#x1F51D; | &#x1F51D; | &#x1F51D; | 
-
-### religion
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| place of worship | &#x1F6D0; | &#x1F6D0; | &#x1F6D0; | 
-| atom symbol | &#x269B;&#xFE0F; | &#x269B;&#xFE0F; | &#x269B;&#xFE0F; | 
-| om | &#x1F549;&#xFE0F; | &#x1F549;&#xFE0F; | &#x1F549;&#xFE0F; | 
-| star of David | &#x2721;&#xFE0F; | &#x2721;&#xFE0F; | &#x2721;&#xFE0F; | 
-| wheel of dharma | &#x2638;&#xFE0F; | &#x2638;&#xFE0F; | &#x2638;&#xFE0F; | 
-| yin yang | &#x262F;&#xFE0F; | &#x262F;&#xFE0F; | &#x262F;&#xFE0F; | 
-| latin cross | &#x271D;&#xFE0F; | &#x271D;&#xFE0F; | &#x271D;&#xFE0F; | 
-| orthodox cross | &#x2626;&#xFE0F; | &#x2626;&#xFE0F; | &#x2626;&#xFE0F; | 
-| star and crescent | &#x262A;&#xFE0F; | &#x262A;&#xFE0F; | &#x262A;&#xFE0F; | 
-| peace symbol | &#x262E;&#xFE0F; | &#x262E;&#xFE0F; | &#x262E;&#xFE0F; | 
-| menorah | &#x1F54E; | &#x1F54E; | &#x1F54E; | 
-| dotted six-pointed star | &#x1F52F; | &#x1F52F; | &#x1F52F; | 
-
-### zodiac
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| Aries | &#x2648; | &#x2648; | &#x2648; | 
-| Taurus | &#x2649; | &#x2649; | &#x2649; | 
-| Gemini | &#x264A; | &#x264A; | &#x264A; | 
-| Cancer | &#x264B; | &#x264B; | &#x264B; | 
-| Leo | &#x264C; | &#x264C; | &#x264C; | 
-| Virgo | &#x264D; | &#x264D; | &#x264D; | 
-| Libra | &#x264E; | &#x264E; | &#x264E; | 
-| Scorpio | &#x264F; | &#x264F; | &#x264F; | 
-| Sagittarius | &#x2650; | &#x2650; | &#x2650; | 
-| Capricorn | &#x2651; | &#x2651; | &#x2651; | 
-| Aquarius | &#x2652; | &#x2652; | &#x2652; | 
-| Pisces | &#x2653; | &#x2653; | &#x2653; | 
-| Ophiuchus | &#x26CE; | &#x26CE; | &#x26CE; | 
-
-### av-symbol
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| shuffle tracks button | &#x1F500; | &#x1F500; | &#x1F500; | 
-| repeat button | &#x1F501; | &#x1F501; | &#x1F501; | 
-| repeat single button | &#x1F502; | &#x1F502; | &#x1F502; | 
-| play button | &#x25B6;&#xFE0F; | &#x25B6;&#xFE0F; | &#x25B6;&#xFE0F; | 
-| fast-forward button | &#x23E9; | &#x23E9; | &#x23E9; | 
-| next track button | &#x23ED;&#xFE0F; | &#x23ED;&#xFE0F; | &#x23ED;&#xFE0F; | 
-| play or pause button | &#x23EF;&#xFE0F; | &#x23EF;&#xFE0F; | &#x23EF;&#xFE0F; | 
-| reverse button | &#x25C0;&#xFE0F; | &#x25C0;&#xFE0F; | &#x25C0;&#xFE0F; | 
-| fast reverse button | &#x23EA; | &#x23EA; | &#x23EA; | 
-| last track button | &#x23EE;&#xFE0F; | &#x23EE;&#xFE0F; | &#x23EE;&#xFE0F; | 
-| upwards button | &#x1F53C; | &#x1F53C; | &#x1F53C; | 
-| fast up button | &#x23EB; | &#x23EB; | &#x23EB; | 
-| downwards button | &#x1F53D; | &#x1F53D; | &#x1F53D; | 
-| fast down button | &#x23EC; | &#x23EC; | &#x23EC; | 
-| pause button | &#x23F8;&#xFE0F; | &#x23F8;&#xFE0F; | &#x23F8;&#xFE0F; | 
-| stop button | &#x23F9;&#xFE0F; | &#x23F9;&#xFE0F; | &#x23F9;&#xFE0F; | 
-| record button | &#x23FA;&#xFE0F; | &#x23FA;&#xFE0F; | &#x23FA;&#xFE0F; | 
-| eject button | &#x23CF;&#xFE0F; | &#x23CF;&#xFE0F; | &#x23CF;&#xFE0F; | 
-| cinema | &#x1F3A6; | &#x1F3A6; | &#x1F3A6; | 
-| dim button | &#x1F505; | &#x1F505; | &#x1F505; | 
-| bright button | &#x1F506; | &#x1F506; | &#x1F506; | 
-| antenna bars | &#x1F4F6; | &#x1F4F6; | &#x1F4F6; | 
-| vibration mode | &#x1F4F3; | &#x1F4F3; | &#x1F4F3; | 
-| mobile phone off | &#x1F4F4; | &#x1F4F4; | &#x1F4F4; | 
-
-### gender
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| female sign | &#x2640;&#xFE0F; | &#x2640;&#xFE0F; | &#x2640;&#xFE0F; | 
-| male sign | &#x2642;&#xFE0F; | &#x2642;&#xFE0F; | &#x2642;&#xFE0F; | 
-| transgender symbol |  | &#x26A7;&#xFE0F; | &#x26A7;&#xFE0F; | 
-
-### math
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| multiply | &#x2716;&#xFE0F; | &#x2716;&#xFE0F; | &#x2716;&#xFE0F; | 
-| plus | &#x2795; | &#x2795; | &#x2795; | 
-| minus | &#x2796; | &#x2796; | &#x2796; | 
-| divide | &#x2797; | &#x2797; | &#x2797; | 
-| infinity |  | &#x267E;&#xFE0F; | &#x267E;&#xFE0F; | 
-
-### punctuation
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| double exclamation mark | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | 
-| exclamation question mark | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | 
-| question mark | &#x2753; | &#x2753; | &#x2753; | 
-| white question mark | &#x2754; | &#x2754; | &#x2754; | 
-| white exclamation mark | &#x2755; | &#x2755; | &#x2755; | 
-| exclamation mark | &#x2757; | &#x2757; | &#x2757; | 
-| wavy dash | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | 
-
-### currency
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| currency exchange | &#x1F4B1; | &#x1F4B1; | &#x1F4B1; | 
-| heavy dollar sign | &#x1F4B2; | &#x1F4B2; | &#x1F4B2; | 
-
-### other-symbol
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| medical symbol | &#x2695;&#xFE0F; | &#x2695;&#xFE0F; | &#x2695;&#xFE0F; | 
-| recycling symbol | &#x267B;&#xFE0F; | &#x267B;&#xFE0F; | &#x267B;&#xFE0F; | 
-| fleur-de-lis | &#x269C;&#xFE0F; | &#x269C;&#xFE0F; | &#x269C;&#xFE0F; | 
-| trident emblem | &#x1F531; | &#x1F531; | &#x1F531; | 
-| name badge | &#x1F4DB; | &#x1F4DB; | &#x1F4DB; | 
-| Japanese symbol for beginner | &#x1F530; | &#x1F530; | &#x1F530; | 
-| hollow red circle | &#x2B55; | &#x2B55; | &#x2B55; | 
-| check mark button | &#x2705; | &#x2705; | &#x2705; | 
-| check box with check | &#x2611;&#xFE0F; | &#x2611;&#xFE0F; | &#x2611;&#xFE0F; | 
-| check mark | &#x2714;&#xFE0F; | &#x2714;&#xFE0F; | &#x2714;&#xFE0F; | 
-| cross mark | &#x274C; | &#x274C; | &#x274C; | 
-| cross mark button | &#x274E; | &#x274E; | &#x274E; | 
-| curly loop | &#x27B0; | &#x27B0; | &#x27B0; | 
-| double curly loop | &#x27BF; | &#x27BF; | &#x27BF; | 
-| part alternation mark | &#x303D;&#xFE0F; | &#x303D;&#xFE0F; | &#x303D;&#xFE0F; | 
-| eight-spoked asterisk | &#x2733;&#xFE0F; | &#x2733;&#xFE0F; | &#x2733;&#xFE0F; | 
-| eight-pointed star | &#x2734;&#xFE0F; | &#x2734;&#xFE0F; | &#x2734;&#xFE0F; | 
-| sparkle | &#x2747;&#xFE0F; | &#x2747;&#xFE0F; | &#x2747;&#xFE0F; | 
-| copyright | &#x00A9;&#xFE0F; | &#x00A9;&#xFE0F; | &#x00A9;&#xFE0F; | 
-| registered | &#x00AE;&#xFE0F; | &#x00AE;&#xFE0F; | &#x00AE;&#xFE0F; | 
-| trade mark | &#x2122;&#xFE0F; | &#x2122;&#xFE0F; | &#x2122;&#xFE0F; | 
-
-### keycap
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| keycap: # | &#x0023;&#xFE0F;&#x20E3; | &#x0023;&#xFE0F;&#x20E3; | &#x0023;&#xFE0F;&#x20E3; | 
-| keycap: * | &#x002A;&#xFE0F;&#x20E3; | &#x002A;&#xFE0F;&#x20E3; | &#x002A;&#xFE0F;&#x20E3; | 
-| keycap: 0 | &#x0030;&#xFE0F;&#x20E3; | &#x0030;&#xFE0F;&#x20E3; | &#x0030;&#xFE0F;&#x20E3; | 
-| keycap: 1 | &#x0031;&#xFE0F;&#x20E3; | &#x0031;&#xFE0F;&#x20E3; | &#x0031;&#xFE0F;&#x20E3; | 
-| keycap: 2 | &#x0032;&#xFE0F;&#x20E3; | &#x0032;&#xFE0F;&#x20E3; | &#x0032;&#xFE0F;&#x20E3; | 
-| keycap: 3 | &#x0033;&#xFE0F;&#x20E3; | &#x0033;&#xFE0F;&#x20E3; | &#x0033;&#xFE0F;&#x20E3; | 
-| keycap: 4 | &#x0034;&#xFE0F;&#x20E3; | &#x0034;&#xFE0F;&#x20E3; | &#x0034;&#xFE0F;&#x20E3; | 
-| keycap: 5 | &#x0035;&#xFE0F;&#x20E3; | &#x0035;&#xFE0F;&#x20E3; | &#x0035;&#xFE0F;&#x20E3; | 
-| keycap: 6 | &#x0036;&#xFE0F;&#x20E3; | &#x0036;&#xFE0F;&#x20E3; | &#x0036;&#xFE0F;&#x20E3; | 
-| keycap: 7 | &#x0037;&#xFE0F;&#x20E3; | &#x0037;&#xFE0F;&#x20E3; | &#x0037;&#xFE0F;&#x20E3; | 
-| keycap: 8 | &#x0038;&#xFE0F;&#x20E3; | &#x0038;&#xFE0F;&#x20E3; | &#x0038;&#xFE0F;&#x20E3; | 
-| keycap: 9 | &#x0039;&#xFE0F;&#x20E3; | &#x0039;&#xFE0F;&#x20E3; | &#x0039;&#xFE0F;&#x20E3; | 
-| keycap: 10 | &#x1F51F; | &#x1F51F; | &#x1F51F; | 
-
-### alphanum
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| input latin uppercase | &#x1F520; | &#x1F520; | &#x1F520; | 
-| input latin lowercase | &#x1F521; | &#x1F521; | &#x1F521; | 
-| input numbers | &#x1F522; | &#x1F522; | &#x1F522; | 
-| input symbols | &#x1F523; | &#x1F523; | &#x1F523; | 
-| input latin letters | &#x1F524; | &#x1F524; | &#x1F524; | 
-| A button (blood type) | &#x1F170;&#xFE0F; | &#x1F170;&#xFE0F; | &#x1F170;&#xFE0F; | 
-| AB button (blood type) | &#x1F18E; | &#x1F18E; | &#x1F18E; | 
-| B button (blood type) | &#x1F171;&#xFE0F; | &#x1F171;&#xFE0F; | &#x1F171;&#xFE0F; | 
-| CL button | &#x1F191; | &#x1F191; | &#x1F191; | 
-| COOL button | &#x1F192; | &#x1F192; | &#x1F192; | 
-| FREE button | &#x1F193; | &#x1F193; | &#x1F193; | 
-| information | &#x2139;&#xFE0F; | &#x2139;&#xFE0F; | &#x2139;&#xFE0F; | 
-| ID button | &#x1F194; | &#x1F194; | &#x1F194; | 
-| circled M | &#x24C2;&#xFE0F; | &#x24C2;&#xFE0F; | &#x24C2;&#xFE0F; | 
-| NEW button | &#x1F195; | &#x1F195; | &#x1F195; | 
-| NG button | &#x1F196; | &#x1F196; | &#x1F196; | 
-| O button (blood type) | &#x1F17E;&#xFE0F; | &#x1F17E;&#xFE0F; | &#x1F17E;&#xFE0F; | 
-| OK button | &#x1F197; | &#x1F197; | &#x1F197; | 
-| P button | &#x1F17F;&#xFE0F; | &#x1F17F;&#xFE0F; | &#x1F17F;&#xFE0F; | 
-| SOS button | &#x1F198; | &#x1F198; | &#x1F198; | 
-| UP! button | &#x1F199; | &#x1F199; | &#x1F199; | 
-| VS button | &#x1F19A; | &#x1F19A; | &#x1F19A; | 
-| Japanese “here” button | &#x1F201; | &#x1F201; | &#x1F201; | 
-| Japanese “service charge” button | &#x1F202;&#xFE0F; | &#x1F202;&#xFE0F; | &#x1F202;&#xFE0F; | 
-| Japanese “monthly amount” button | &#x1F237;&#xFE0F; | &#x1F237;&#xFE0F; | &#x1F237;&#xFE0F; | 
-| Japanese “not free of charge” button | &#x1F236; | &#x1F236; | &#x1F236; | 
-| Japanese “reserved” button | &#x1F22F; | &#x1F22F; | &#x1F22F; | 
-| Japanese “bargain” button | &#x1F250; | &#x1F250; | &#x1F250; | 
-| Japanese “discount” button | &#x1F239; | &#x1F239; | &#x1F239; | 
-| Japanese “free of charge” button | &#x1F21A; | &#x1F21A; | &#x1F21A; | 
-| Japanese “prohibited” button | &#x1F232; | &#x1F232; | &#x1F232; | 
-| Japanese “acceptable” button | &#x1F251; | &#x1F251; | &#x1F251; | 
-| Japanese “application” button | &#x1F238; | &#x1F238; | &#x1F238; | 
-| Japanese “passing grade” button | &#x1F234; | &#x1F234; | &#x1F234; | 
-| Japanese “vacancy” button | &#x1F233; | &#x1F233; | &#x1F233; | 
-| Japanese “congratulations” button | &#x3297;&#xFE0F; | &#x3297;&#xFE0F; | &#x3297;&#xFE0F; | 
-| Japanese “secret” button | &#x3299;&#xFE0F; | &#x3299;&#xFE0F; | &#x3299;&#xFE0F; | 
-| Japanese “open for business” button | &#x1F23A; | &#x1F23A; | &#x1F23A; | 
-| Japanese “no vacancy” button | &#x1F235; | &#x1F235; | &#x1F235; | 
-
-### geometric
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| red circle | &#x1F534; | &#x1F534; | &#x1F534; | 
-| orange circle |  | &#x1F7E0; | &#x1F7E0; | 
-| yellow circle |  | &#x1F7E1; | &#x1F7E1; | 
-| green circle |  | &#x1F7E2; | &#x1F7E2; | 
-| blue circle | &#x1F535; | &#x1F535; | &#x1F535; | 
-| purple circle |  | &#x1F7E3; | &#x1F7E3; | 
-| brown circle |  | &#x1F7E4; | &#x1F7E4; | 
-| black circle | &#x26AB; | &#x26AB; | &#x26AB; | 
-| white circle | &#x26AA; | &#x26AA; | &#x26AA; | 
-| red square |  | &#x1F7E5; | &#x1F7E5; | 
-| orange square |  | &#x1F7E7; | &#x1F7E7; | 
-| yellow square |  | &#x1F7E8; | &#x1F7E8; | 
-| green square |  | &#x1F7E9; | &#x1F7E9; | 
-| blue square |  | &#x1F7E6; | &#x1F7E6; | 
-| purple square |  | &#x1F7EA; | &#x1F7EA; | 
-| brown square |  | &#x1F7EB; | &#x1F7EB; | 
-| black large square | &#x2B1B; | &#x2B1B; | &#x2B1B; | 
-| white large square | &#x2B1C; | &#x2B1C; | &#x2B1C; | 
-| black medium square | &#x25FC;&#xFE0F; | &#x25FC;&#xFE0F; | &#x25FC;&#xFE0F; | 
-| white medium square | &#x25FB;&#xFE0F; | &#x25FB;&#xFE0F; | &#x25FB;&#xFE0F; | 
-| black medium-small square | &#x25FE; | &#x25FE; | &#x25FE; | 
-| white medium-small square | &#x25FD; | &#x25FD; | &#x25FD; | 
-| black small square | &#x25AA;&#xFE0F; | &#x25AA;&#xFE0F; | &#x25AA;&#xFE0F; | 
-| white small square | &#x25AB;&#xFE0F; | &#x25AB;&#xFE0F; | &#x25AB;&#xFE0F; | 
-| large orange diamond | &#x1F536; | &#x1F536; | &#x1F536; | 
-| large blue diamond | &#x1F537; | &#x1F537; | &#x1F537; | 
-| small orange diamond | &#x1F538; | &#x1F538; | &#x1F538; | 
-| small blue diamond | &#x1F539; | &#x1F539; | &#x1F539; | 
-| red triangle pointed up | &#x1F53A; | &#x1F53A; | &#x1F53A; | 
-| red triangle pointed down | &#x1F53B; | &#x1F53B; | &#x1F53B; | 
-| diamond with a dot | &#x1F4A0; | &#x1F4A0; | &#x1F4A0; | 
-| radio button | &#x1F518; | &#x1F518; | &#x1F518; | 
-| white square button | &#x1F533; | &#x1F533; | &#x1F533; | 
-| black square button | &#x1F532; | &#x1F532; | &#x1F532; | 
-
-## Flags
-
-
-### flag
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| chequered flag | &#x1F3C1; | &#x1F3C1; | &#x1F3C1; | 
-| triangular flag | &#x1F6A9; | &#x1F6A9; | &#x1F6A9; | 
-| crossed flags | &#x1F38C; | &#x1F38C; | &#x1F38C; | 
-| black flag | &#x1F3F4; | &#x1F3F4; | &#x1F3F4; | 
-| white flag | &#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | 
-| rainbow flag | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | 
-| transgender flag |  | &#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; | &#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; | 
-| pirate flag |  | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | 
-
-### country-flag
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| flag: Ascension Island | &#x1F1E6;&#x1F1E8; | &#x1F1E6;&#x1F1E8; | &#x1F1E6;&#x1F1E8; | 
-| flag: Andorra | &#x1F1E6;&#x1F1E9; | &#x1F1E6;&#x1F1E9; | &#x1F1E6;&#x1F1E9; | 
-| flag: United Arab Emirates | &#x1F1E6;&#x1F1EA; | &#x1F1E6;&#x1F1EA; | &#x1F1E6;&#x1F1EA; | 
-| flag: Afghanistan | &#x1F1E6;&#x1F1EB; | &#x1F1E6;&#x1F1EB; | &#x1F1E6;&#x1F1EB; | 
-| flag: Antigua & Barbuda | &#x1F1E6;&#x1F1EC; | &#x1F1E6;&#x1F1EC; | &#x1F1E6;&#x1F1EC; | 
-| flag: Anguilla | &#x1F1E6;&#x1F1EE; | &#x1F1E6;&#x1F1EE; | &#x1F1E6;&#x1F1EE; | 
-| flag: Albania | &#x1F1E6;&#x1F1F1; | &#x1F1E6;&#x1F1F1; | &#x1F1E6;&#x1F1F1; | 
-| flag: Armenia | &#x1F1E6;&#x1F1F2; | &#x1F1E6;&#x1F1F2; | &#x1F1E6;&#x1F1F2; | 
-| flag: Angola | &#x1F1E6;&#x1F1F4; | &#x1F1E6;&#x1F1F4; | &#x1F1E6;&#x1F1F4; | 
-| flag: Antarctica | &#x1F1E6;&#x1F1F6; | &#x1F1E6;&#x1F1F6; | &#x1F1E6;&#x1F1F6; | 
-| flag: Argentina | &#x1F1E6;&#x1F1F7; | &#x1F1E6;&#x1F1F7; | &#x1F1E6;&#x1F1F7; | 
-| flag: American Samoa | &#x1F1E6;&#x1F1F8; | &#x1F1E6;&#x1F1F8; | &#x1F1E6;&#x1F1F8; | 
-| flag: Austria | &#x1F1E6;&#x1F1F9; | &#x1F1E6;&#x1F1F9; | &#x1F1E6;&#x1F1F9; | 
-| flag: Australia | &#x1F1E6;&#x1F1FA; | &#x1F1E6;&#x1F1FA; | &#x1F1E6;&#x1F1FA; | 
-| flag: Aruba | &#x1F1E6;&#x1F1FC; | &#x1F1E6;&#x1F1FC; | &#x1F1E6;&#x1F1FC; | 
-| flag: Åland Islands | &#x1F1E6;&#x1F1FD; | &#x1F1E6;&#x1F1FD; | &#x1F1E6;&#x1F1FD; | 
-| flag: Azerbaijan | &#x1F1E6;&#x1F1FF; | &#x1F1E6;&#x1F1FF; | &#x1F1E6;&#x1F1FF; | 
-| flag: Bosnia & Herzegovina | &#x1F1E7;&#x1F1E6; | &#x1F1E7;&#x1F1E6; | &#x1F1E7;&#x1F1E6; | 
-| flag: Barbados | &#x1F1E7;&#x1F1E7; | &#x1F1E7;&#x1F1E7; | &#x1F1E7;&#x1F1E7; | 
-| flag: Bangladesh | &#x1F1E7;&#x1F1E9; | &#x1F1E7;&#x1F1E9; | &#x1F1E7;&#x1F1E9; | 
-| flag: Belgium | &#x1F1E7;&#x1F1EA; | &#x1F1E7;&#x1F1EA; | &#x1F1E7;&#x1F1EA; | 
-| flag: Burkina Faso | &#x1F1E7;&#x1F1EB; | &#x1F1E7;&#x1F1EB; | &#x1F1E7;&#x1F1EB; | 
-| flag: Bulgaria | &#x1F1E7;&#x1F1EC; | &#x1F1E7;&#x1F1EC; | &#x1F1E7;&#x1F1EC; | 
-| flag: Bahrain | &#x1F1E7;&#x1F1ED; | &#x1F1E7;&#x1F1ED; | &#x1F1E7;&#x1F1ED; | 
-| flag: Burundi | &#x1F1E7;&#x1F1EE; | &#x1F1E7;&#x1F1EE; | &#x1F1E7;&#x1F1EE; | 
-| flag: Benin | &#x1F1E7;&#x1F1EF; | &#x1F1E7;&#x1F1EF; | &#x1F1E7;&#x1F1EF; | 
-| flag: St. Barthélemy | &#x1F1E7;&#x1F1F1; | &#x1F1E7;&#x1F1F1; | &#x1F1E7;&#x1F1F1; | 
-| flag: Bermuda | &#x1F1E7;&#x1F1F2; | &#x1F1E7;&#x1F1F2; | &#x1F1E7;&#x1F1F2; | 
-| flag: Brunei | &#x1F1E7;&#x1F1F3; | &#x1F1E7;&#x1F1F3; | &#x1F1E7;&#x1F1F3; | 
-| flag: Bolivia | &#x1F1E7;&#x1F1F4; | &#x1F1E7;&#x1F1F4; | &#x1F1E7;&#x1F1F4; | 
-| flag: Caribbean Netherlands | &#x1F1E7;&#x1F1F6; | &#x1F1E7;&#x1F1F6; | &#x1F1E7;&#x1F1F6; | 
-| flag: Brazil | &#x1F1E7;&#x1F1F7; | &#x1F1E7;&#x1F1F7; | &#x1F1E7;&#x1F1F7; | 
-| flag: Bahamas | &#x1F1E7;&#x1F1F8; | &#x1F1E7;&#x1F1F8; | &#x1F1E7;&#x1F1F8; | 
-| flag: Bhutan | &#x1F1E7;&#x1F1F9; | &#x1F1E7;&#x1F1F9; | &#x1F1E7;&#x1F1F9; | 
-| flag: Bouvet Island | &#x1F1E7;&#x1F1FB; | &#x1F1E7;&#x1F1FB; | &#x1F1E7;&#x1F1FB; | 
-| flag: Botswana | &#x1F1E7;&#x1F1FC; | &#x1F1E7;&#x1F1FC; | &#x1F1E7;&#x1F1FC; | 
-| flag: Belarus | &#x1F1E7;&#x1F1FE; | &#x1F1E7;&#x1F1FE; | &#x1F1E7;&#x1F1FE; | 
-| flag: Belize | &#x1F1E7;&#x1F1FF; | &#x1F1E7;&#x1F1FF; | &#x1F1E7;&#x1F1FF; | 
-| flag: Canada | &#x1F1E8;&#x1F1E6; | &#x1F1E8;&#x1F1E6; | &#x1F1E8;&#x1F1E6; | 
-| flag: Cocos (Keeling) Islands | &#x1F1E8;&#x1F1E8; | &#x1F1E8;&#x1F1E8; | &#x1F1E8;&#x1F1E8; | 
-| flag: Congo - Kinshasa | &#x1F1E8;&#x1F1E9; | &#x1F1E8;&#x1F1E9; | &#x1F1E8;&#x1F1E9; | 
-| flag: Central African Republic | &#x1F1E8;&#x1F1EB; | &#x1F1E8;&#x1F1EB; | &#x1F1E8;&#x1F1EB; | 
-| flag: Congo - Brazzaville | &#x1F1E8;&#x1F1EC; | &#x1F1E8;&#x1F1EC; | &#x1F1E8;&#x1F1EC; | 
-| flag: Switzerland | &#x1F1E8;&#x1F1ED; | &#x1F1E8;&#x1F1ED; | &#x1F1E8;&#x1F1ED; | 
-| flag: Côte d’Ivoire | &#x1F1E8;&#x1F1EE; | &#x1F1E8;&#x1F1EE; | &#x1F1E8;&#x1F1EE; | 
-| flag: Cook Islands | &#x1F1E8;&#x1F1F0; | &#x1F1E8;&#x1F1F0; | &#x1F1E8;&#x1F1F0; | 
-| flag: Chile | &#x1F1E8;&#x1F1F1; | &#x1F1E8;&#x1F1F1; | &#x1F1E8;&#x1F1F1; | 
-| flag: Cameroon | &#x1F1E8;&#x1F1F2; | &#x1F1E8;&#x1F1F2; | &#x1F1E8;&#x1F1F2; | 
-| flag: China | &#x1F1E8;&#x1F1F3; | &#x1F1E8;&#x1F1F3; | &#x1F1E8;&#x1F1F3; | 
-| flag: Colombia | &#x1F1E8;&#x1F1F4; | &#x1F1E8;&#x1F1F4; | &#x1F1E8;&#x1F1F4; | 
-| flag: Clipperton Island | &#x1F1E8;&#x1F1F5; | &#x1F1E8;&#x1F1F5; | &#x1F1E8;&#x1F1F5; | 
-| flag: Costa Rica | &#x1F1E8;&#x1F1F7; | &#x1F1E8;&#x1F1F7; | &#x1F1E8;&#x1F1F7; | 
-| flag: Cuba | &#x1F1E8;&#x1F1FA; | &#x1F1E8;&#x1F1FA; | &#x1F1E8;&#x1F1FA; | 
-| flag: Cape Verde | &#x1F1E8;&#x1F1FB; | &#x1F1E8;&#x1F1FB; | &#x1F1E8;&#x1F1FB; | 
-| flag: Curaçao | &#x1F1E8;&#x1F1FC; | &#x1F1E8;&#x1F1FC; | &#x1F1E8;&#x1F1FC; | 
-| flag: Christmas Island | &#x1F1E8;&#x1F1FD; | &#x1F1E8;&#x1F1FD; | &#x1F1E8;&#x1F1FD; | 
-| flag: Cyprus | &#x1F1E8;&#x1F1FE; | &#x1F1E8;&#x1F1FE; | &#x1F1E8;&#x1F1FE; | 
-| flag: Czechia | &#x1F1E8;&#x1F1FF; | &#x1F1E8;&#x1F1FF; | &#x1F1E8;&#x1F1FF; | 
-| flag: Germany | &#x1F1E9;&#x1F1EA; | &#x1F1E9;&#x1F1EA; | &#x1F1E9;&#x1F1EA; | 
-| flag: Diego Garcia | &#x1F1E9;&#x1F1EC; | &#x1F1E9;&#x1F1EC; | &#x1F1E9;&#x1F1EC; | 
-| flag: Djibouti | &#x1F1E9;&#x1F1EF; | &#x1F1E9;&#x1F1EF; | &#x1F1E9;&#x1F1EF; | 
-| flag: Denmark | &#x1F1E9;&#x1F1F0; | &#x1F1E9;&#x1F1F0; | &#x1F1E9;&#x1F1F0; | 
-| flag: Dominica | &#x1F1E9;&#x1F1F2; | &#x1F1E9;&#x1F1F2; | &#x1F1E9;&#x1F1F2; | 
-| flag: Dominican Republic | &#x1F1E9;&#x1F1F4; | &#x1F1E9;&#x1F1F4; | &#x1F1E9;&#x1F1F4; | 
-| flag: Algeria | &#x1F1E9;&#x1F1FF; | &#x1F1E9;&#x1F1FF; | &#x1F1E9;&#x1F1FF; | 
-| flag: Ceuta & Melilla | &#x1F1EA;&#x1F1E6; | &#x1F1EA;&#x1F1E6; | &#x1F1EA;&#x1F1E6; | 
-| flag: Ecuador | &#x1F1EA;&#x1F1E8; | &#x1F1EA;&#x1F1E8; | &#x1F1EA;&#x1F1E8; | 
-| flag: Estonia | &#x1F1EA;&#x1F1EA; | &#x1F1EA;&#x1F1EA; | &#x1F1EA;&#x1F1EA; | 
-| flag: Egypt | &#x1F1EA;&#x1F1EC; | &#x1F1EA;&#x1F1EC; | &#x1F1EA;&#x1F1EC; | 
-| flag: Western Sahara | &#x1F1EA;&#x1F1ED; | &#x1F1EA;&#x1F1ED; | &#x1F1EA;&#x1F1ED; | 
-| flag: Eritrea | &#x1F1EA;&#x1F1F7; | &#x1F1EA;&#x1F1F7; | &#x1F1EA;&#x1F1F7; | 
-| flag: Spain | &#x1F1EA;&#x1F1F8; | &#x1F1EA;&#x1F1F8; | &#x1F1EA;&#x1F1F8; | 
-| flag: Ethiopia | &#x1F1EA;&#x1F1F9; | &#x1F1EA;&#x1F1F9; | &#x1F1EA;&#x1F1F9; | 
-| flag: European Union | &#x1F1EA;&#x1F1FA; | &#x1F1EA;&#x1F1FA; | &#x1F1EA;&#x1F1FA; | 
-| flag: Finland | &#x1F1EB;&#x1F1EE; | &#x1F1EB;&#x1F1EE; | &#x1F1EB;&#x1F1EE; | 
-| flag: Fiji | &#x1F1EB;&#x1F1EF; | &#x1F1EB;&#x1F1EF; | &#x1F1EB;&#x1F1EF; | 
-| flag: Falkland Islands | &#x1F1EB;&#x1F1F0; | &#x1F1EB;&#x1F1F0; | &#x1F1EB;&#x1F1F0; | 
-| flag: Micronesia | &#x1F1EB;&#x1F1F2; | &#x1F1EB;&#x1F1F2; | &#x1F1EB;&#x1F1F2; | 
-| flag: Faroe Islands | &#x1F1EB;&#x1F1F4; | &#x1F1EB;&#x1F1F4; | &#x1F1EB;&#x1F1F4; | 
-| flag: France | &#x1F1EB;&#x1F1F7; | &#x1F1EB;&#x1F1F7; | &#x1F1EB;&#x1F1F7; | 
-| flag: Gabon | &#x1F1EC;&#x1F1E6; | &#x1F1EC;&#x1F1E6; | &#x1F1EC;&#x1F1E6; | 
-| flag: United Kingdom | &#x1F1EC;&#x1F1E7; | &#x1F1EC;&#x1F1E7; | &#x1F1EC;&#x1F1E7; | 
-| flag: Grenada | &#x1F1EC;&#x1F1E9; | &#x1F1EC;&#x1F1E9; | &#x1F1EC;&#x1F1E9; | 
-| flag: Georgia | &#x1F1EC;&#x1F1EA; | &#x1F1EC;&#x1F1EA; | &#x1F1EC;&#x1F1EA; | 
-| flag: French Guiana | &#x1F1EC;&#x1F1EB; | &#x1F1EC;&#x1F1EB; | &#x1F1EC;&#x1F1EB; | 
-| flag: Guernsey | &#x1F1EC;&#x1F1EC; | &#x1F1EC;&#x1F1EC; | &#x1F1EC;&#x1F1EC; | 
-| flag: Ghana | &#x1F1EC;&#x1F1ED; | &#x1F1EC;&#x1F1ED; | &#x1F1EC;&#x1F1ED; | 
-| flag: Gibraltar | &#x1F1EC;&#x1F1EE; | &#x1F1EC;&#x1F1EE; | &#x1F1EC;&#x1F1EE; | 
-| flag: Greenland | &#x1F1EC;&#x1F1F1; | &#x1F1EC;&#x1F1F1; | &#x1F1EC;&#x1F1F1; | 
-| flag: Gambia | &#x1F1EC;&#x1F1F2; | &#x1F1EC;&#x1F1F2; | &#x1F1EC;&#x1F1F2; | 
-| flag: Guinea | &#x1F1EC;&#x1F1F3; | &#x1F1EC;&#x1F1F3; | &#x1F1EC;&#x1F1F3; | 
-| flag: Guadeloupe | &#x1F1EC;&#x1F1F5; | &#x1F1EC;&#x1F1F5; | &#x1F1EC;&#x1F1F5; | 
-| flag: Equatorial Guinea | &#x1F1EC;&#x1F1F6; | &#x1F1EC;&#x1F1F6; | &#x1F1EC;&#x1F1F6; | 
-| flag: Greece | &#x1F1EC;&#x1F1F7; | &#x1F1EC;&#x1F1F7; | &#x1F1EC;&#x1F1F7; | 
-| flag: South Georgia & South Sandwich Islands | &#x1F1EC;&#x1F1F8; | &#x1F1EC;&#x1F1F8; | &#x1F1EC;&#x1F1F8; | 
-| flag: Guatemala | &#x1F1EC;&#x1F1F9; | &#x1F1EC;&#x1F1F9; | &#x1F1EC;&#x1F1F9; | 
-| flag: Guam | &#x1F1EC;&#x1F1FA; | &#x1F1EC;&#x1F1FA; | &#x1F1EC;&#x1F1FA; | 
-| flag: Guinea-Bissau | &#x1F1EC;&#x1F1FC; | &#x1F1EC;&#x1F1FC; | &#x1F1EC;&#x1F1FC; | 
-| flag: Guyana | &#x1F1EC;&#x1F1FE; | &#x1F1EC;&#x1F1FE; | &#x1F1EC;&#x1F1FE; | 
-| flag: Hong Kong SAR China | &#x1F1ED;&#x1F1F0; | &#x1F1ED;&#x1F1F0; | &#x1F1ED;&#x1F1F0; | 
-| flag: Heard & McDonald Islands | &#x1F1ED;&#x1F1F2; | &#x1F1ED;&#x1F1F2; | &#x1F1ED;&#x1F1F2; | 
-| flag: Honduras | &#x1F1ED;&#x1F1F3; | &#x1F1ED;&#x1F1F3; | &#x1F1ED;&#x1F1F3; | 
-| flag: Croatia | &#x1F1ED;&#x1F1F7; | &#x1F1ED;&#x1F1F7; | &#x1F1ED;&#x1F1F7; | 
-| flag: Haiti | &#x1F1ED;&#x1F1F9; | &#x1F1ED;&#x1F1F9; | &#x1F1ED;&#x1F1F9; | 
-| flag: Hungary | &#x1F1ED;&#x1F1FA; | &#x1F1ED;&#x1F1FA; | &#x1F1ED;&#x1F1FA; | 
-| flag: Canary Islands | &#x1F1EE;&#x1F1E8; | &#x1F1EE;&#x1F1E8; | &#x1F1EE;&#x1F1E8; | 
-| flag: Indonesia | &#x1F1EE;&#x1F1E9; | &#x1F1EE;&#x1F1E9; | &#x1F1EE;&#x1F1E9; | 
-| flag: Ireland | &#x1F1EE;&#x1F1EA; | &#x1F1EE;&#x1F1EA; | &#x1F1EE;&#x1F1EA; | 
-| flag: Israel | &#x1F1EE;&#x1F1F1; | &#x1F1EE;&#x1F1F1; | &#x1F1EE;&#x1F1F1; | 
-| flag: Isle of Man | &#x1F1EE;&#x1F1F2; | &#x1F1EE;&#x1F1F2; | &#x1F1EE;&#x1F1F2; | 
-| flag: India | &#x1F1EE;&#x1F1F3; | &#x1F1EE;&#x1F1F3; | &#x1F1EE;&#x1F1F3; | 
-| flag: British Indian Ocean Territory | &#x1F1EE;&#x1F1F4; | &#x1F1EE;&#x1F1F4; | &#x1F1EE;&#x1F1F4; | 
-| flag: Iraq | &#x1F1EE;&#x1F1F6; | &#x1F1EE;&#x1F1F6; | &#x1F1EE;&#x1F1F6; | 
-| flag: Iran | &#x1F1EE;&#x1F1F7; | &#x1F1EE;&#x1F1F7; | &#x1F1EE;&#x1F1F7; | 
-| flag: Iceland | &#x1F1EE;&#x1F1F8; | &#x1F1EE;&#x1F1F8; | &#x1F1EE;&#x1F1F8; | 
-| flag: Italy | &#x1F1EE;&#x1F1F9; | &#x1F1EE;&#x1F1F9; | &#x1F1EE;&#x1F1F9; | 
-| flag: Jersey | &#x1F1EF;&#x1F1EA; | &#x1F1EF;&#x1F1EA; | &#x1F1EF;&#x1F1EA; | 
-| flag: Jamaica | &#x1F1EF;&#x1F1F2; | &#x1F1EF;&#x1F1F2; | &#x1F1EF;&#x1F1F2; | 
-| flag: Jordan | &#x1F1EF;&#x1F1F4; | &#x1F1EF;&#x1F1F4; | &#x1F1EF;&#x1F1F4; | 
-| flag: Japan | &#x1F1EF;&#x1F1F5; | &#x1F1EF;&#x1F1F5; | &#x1F1EF;&#x1F1F5; | 
-| flag: Kenya | &#x1F1F0;&#x1F1EA; | &#x1F1F0;&#x1F1EA; | &#x1F1F0;&#x1F1EA; | 
-| flag: Kyrgyzstan | &#x1F1F0;&#x1F1EC; | &#x1F1F0;&#x1F1EC; | &#x1F1F0;&#x1F1EC; | 
-| flag: Cambodia | &#x1F1F0;&#x1F1ED; | &#x1F1F0;&#x1F1ED; | &#x1F1F0;&#x1F1ED; | 
-| flag: Kiribati | &#x1F1F0;&#x1F1EE; | &#x1F1F0;&#x1F1EE; | &#x1F1F0;&#x1F1EE; | 
-| flag: Comoros | &#x1F1F0;&#x1F1F2; | &#x1F1F0;&#x1F1F2; | &#x1F1F0;&#x1F1F2; | 
-| flag: St. Kitts & Nevis | &#x1F1F0;&#x1F1F3; | &#x1F1F0;&#x1F1F3; | &#x1F1F0;&#x1F1F3; | 
-| flag: North Korea | &#x1F1F0;&#x1F1F5; | &#x1F1F0;&#x1F1F5; | &#x1F1F0;&#x1F1F5; | 
-| flag: South Korea | &#x1F1F0;&#x1F1F7; | &#x1F1F0;&#x1F1F7; | &#x1F1F0;&#x1F1F7; | 
-| flag: Kuwait | &#x1F1F0;&#x1F1FC; | &#x1F1F0;&#x1F1FC; | &#x1F1F0;&#x1F1FC; | 
-| flag: Cayman Islands | &#x1F1F0;&#x1F1FE; | &#x1F1F0;&#x1F1FE; | &#x1F1F0;&#x1F1FE; | 
-| flag: Kazakhstan | &#x1F1F0;&#x1F1FF; | &#x1F1F0;&#x1F1FF; | &#x1F1F0;&#x1F1FF; | 
-| flag: Laos | &#x1F1F1;&#x1F1E6; | &#x1F1F1;&#x1F1E6; | &#x1F1F1;&#x1F1E6; | 
-| flag: Lebanon | &#x1F1F1;&#x1F1E7; | &#x1F1F1;&#x1F1E7; | &#x1F1F1;&#x1F1E7; | 
-| flag: St. Lucia | &#x1F1F1;&#x1F1E8; | &#x1F1F1;&#x1F1E8; | &#x1F1F1;&#x1F1E8; | 
-| flag: Liechtenstein | &#x1F1F1;&#x1F1EE; | &#x1F1F1;&#x1F1EE; | &#x1F1F1;&#x1F1EE; | 
-| flag: Sri Lanka | &#x1F1F1;&#x1F1F0; | &#x1F1F1;&#x1F1F0; | &#x1F1F1;&#x1F1F0; | 
-| flag: Liberia | &#x1F1F1;&#x1F1F7; | &#x1F1F1;&#x1F1F7; | &#x1F1F1;&#x1F1F7; | 
-| flag: Lesotho | &#x1F1F1;&#x1F1F8; | &#x1F1F1;&#x1F1F8; | &#x1F1F1;&#x1F1F8; | 
-| flag: Lithuania | &#x1F1F1;&#x1F1F9; | &#x1F1F1;&#x1F1F9; | &#x1F1F1;&#x1F1F9; | 
-| flag: Luxembourg | &#x1F1F1;&#x1F1FA; | &#x1F1F1;&#x1F1FA; | &#x1F1F1;&#x1F1FA; | 
-| flag: Latvia | &#x1F1F1;&#x1F1FB; | &#x1F1F1;&#x1F1FB; | &#x1F1F1;&#x1F1FB; | 
-| flag: Libya | &#x1F1F1;&#x1F1FE; | &#x1F1F1;&#x1F1FE; | &#x1F1F1;&#x1F1FE; | 
-| flag: Morocco | &#x1F1F2;&#x1F1E6; | &#x1F1F2;&#x1F1E6; | &#x1F1F2;&#x1F1E6; | 
-| flag: Monaco | &#x1F1F2;&#x1F1E8; | &#x1F1F2;&#x1F1E8; | &#x1F1F2;&#x1F1E8; | 
-| flag: Moldova | &#x1F1F2;&#x1F1E9; | &#x1F1F2;&#x1F1E9; | &#x1F1F2;&#x1F1E9; | 
-| flag: Montenegro | &#x1F1F2;&#x1F1EA; | &#x1F1F2;&#x1F1EA; | &#x1F1F2;&#x1F1EA; | 
-| flag: St. Martin | &#x1F1F2;&#x1F1EB; | &#x1F1F2;&#x1F1EB; | &#x1F1F2;&#x1F1EB; | 
-| flag: Madagascar | &#x1F1F2;&#x1F1EC; | &#x1F1F2;&#x1F1EC; | &#x1F1F2;&#x1F1EC; | 
-| flag: Marshall Islands | &#x1F1F2;&#x1F1ED; | &#x1F1F2;&#x1F1ED; | &#x1F1F2;&#x1F1ED; | 
-| flag: North Macedonia | &#x1F1F2;&#x1F1F0; | &#x1F1F2;&#x1F1F0; | &#x1F1F2;&#x1F1F0; | 
-| flag: Mali | &#x1F1F2;&#x1F1F1; | &#x1F1F2;&#x1F1F1; | &#x1F1F2;&#x1F1F1; | 
-| flag: Myanmar (Burma) | &#x1F1F2;&#x1F1F2; | &#x1F1F2;&#x1F1F2; | &#x1F1F2;&#x1F1F2; | 
-| flag: Mongolia | &#x1F1F2;&#x1F1F3; | &#x1F1F2;&#x1F1F3; | &#x1F1F2;&#x1F1F3; | 
-| flag: Macao SAR China | &#x1F1F2;&#x1F1F4; | &#x1F1F2;&#x1F1F4; | &#x1F1F2;&#x1F1F4; | 
-| flag: Northern Mariana Islands | &#x1F1F2;&#x1F1F5; | &#x1F1F2;&#x1F1F5; | &#x1F1F2;&#x1F1F5; | 
-| flag: Martinique | &#x1F1F2;&#x1F1F6; | &#x1F1F2;&#x1F1F6; | &#x1F1F2;&#x1F1F6; | 
-| flag: Mauritania | &#x1F1F2;&#x1F1F7; | &#x1F1F2;&#x1F1F7; | &#x1F1F2;&#x1F1F7; | 
-| flag: Montserrat | &#x1F1F2;&#x1F1F8; | &#x1F1F2;&#x1F1F8; | &#x1F1F2;&#x1F1F8; | 
-| flag: Malta | &#x1F1F2;&#x1F1F9; | &#x1F1F2;&#x1F1F9; | &#x1F1F2;&#x1F1F9; | 
-| flag: Mauritius | &#x1F1F2;&#x1F1FA; | &#x1F1F2;&#x1F1FA; | &#x1F1F2;&#x1F1FA; | 
-| flag: Maldives | &#x1F1F2;&#x1F1FB; | &#x1F1F2;&#x1F1FB; | &#x1F1F2;&#x1F1FB; | 
-| flag: Malawi | &#x1F1F2;&#x1F1FC; | &#x1F1F2;&#x1F1FC; | &#x1F1F2;&#x1F1FC; | 
-| flag: Mexico | &#x1F1F2;&#x1F1FD; | &#x1F1F2;&#x1F1FD; | &#x1F1F2;&#x1F1FD; | 
-| flag: Malaysia | &#x1F1F2;&#x1F1FE; | &#x1F1F2;&#x1F1FE; | &#x1F1F2;&#x1F1FE; | 
-| flag: Mozambique | &#x1F1F2;&#x1F1FF; | &#x1F1F2;&#x1F1FF; | &#x1F1F2;&#x1F1FF; | 
-| flag: Namibia | &#x1F1F3;&#x1F1E6; | &#x1F1F3;&#x1F1E6; | &#x1F1F3;&#x1F1E6; | 
-| flag: New Caledonia | &#x1F1F3;&#x1F1E8; | &#x1F1F3;&#x1F1E8; | &#x1F1F3;&#x1F1E8; | 
-| flag: Niger | &#x1F1F3;&#x1F1EA; | &#x1F1F3;&#x1F1EA; | &#x1F1F3;&#x1F1EA; | 
-| flag: Norfolk Island | &#x1F1F3;&#x1F1EB; | &#x1F1F3;&#x1F1EB; | &#x1F1F3;&#x1F1EB; | 
-| flag: Nigeria | &#x1F1F3;&#x1F1EC; | &#x1F1F3;&#x1F1EC; | &#x1F1F3;&#x1F1EC; | 
-| flag: Nicaragua | &#x1F1F3;&#x1F1EE; | &#x1F1F3;&#x1F1EE; | &#x1F1F3;&#x1F1EE; | 
-| flag: Netherlands | &#x1F1F3;&#x1F1F1; | &#x1F1F3;&#x1F1F1; | &#x1F1F3;&#x1F1F1; | 
-| flag: Norway | &#x1F1F3;&#x1F1F4; | &#x1F1F3;&#x1F1F4; | &#x1F1F3;&#x1F1F4; | 
-| flag: Nepal | &#x1F1F3;&#x1F1F5; | &#x1F1F3;&#x1F1F5; | &#x1F1F3;&#x1F1F5; | 
-| flag: Nauru | &#x1F1F3;&#x1F1F7; | &#x1F1F3;&#x1F1F7; | &#x1F1F3;&#x1F1F7; | 
-| flag: Niue | &#x1F1F3;&#x1F1FA; | &#x1F1F3;&#x1F1FA; | &#x1F1F3;&#x1F1FA; | 
-| flag: New Zealand | &#x1F1F3;&#x1F1FF; | &#x1F1F3;&#x1F1FF; | &#x1F1F3;&#x1F1FF; | 
-| flag: Oman | &#x1F1F4;&#x1F1F2; | &#x1F1F4;&#x1F1F2; | &#x1F1F4;&#x1F1F2; | 
-| flag: Panama | &#x1F1F5;&#x1F1E6; | &#x1F1F5;&#x1F1E6; | &#x1F1F5;&#x1F1E6; | 
-| flag: Peru | &#x1F1F5;&#x1F1EA; | &#x1F1F5;&#x1F1EA; | &#x1F1F5;&#x1F1EA; | 
-| flag: French Polynesia | &#x1F1F5;&#x1F1EB; | &#x1F1F5;&#x1F1EB; | &#x1F1F5;&#x1F1EB; | 
-| flag: Papua New Guinea | &#x1F1F5;&#x1F1EC; | &#x1F1F5;&#x1F1EC; | &#x1F1F5;&#x1F1EC; | 
-| flag: Philippines | &#x1F1F5;&#x1F1ED; | &#x1F1F5;&#x1F1ED; | &#x1F1F5;&#x1F1ED; | 
-| flag: Pakistan | &#x1F1F5;&#x1F1F0; | &#x1F1F5;&#x1F1F0; | &#x1F1F5;&#x1F1F0; | 
-| flag: Poland | &#x1F1F5;&#x1F1F1; | &#x1F1F5;&#x1F1F1; | &#x1F1F5;&#x1F1F1; | 
-| flag: St. Pierre & Miquelon | &#x1F1F5;&#x1F1F2; | &#x1F1F5;&#x1F1F2; | &#x1F1F5;&#x1F1F2; | 
-| flag: Pitcairn Islands | &#x1F1F5;&#x1F1F3; | &#x1F1F5;&#x1F1F3; | &#x1F1F5;&#x1F1F3; | 
-| flag: Puerto Rico | &#x1F1F5;&#x1F1F7; | &#x1F1F5;&#x1F1F7; | &#x1F1F5;&#x1F1F7; | 
-| flag: Palestinian Territories | &#x1F1F5;&#x1F1F8; | &#x1F1F5;&#x1F1F8; | &#x1F1F5;&#x1F1F8; | 
-| flag: Portugal | &#x1F1F5;&#x1F1F9; | &#x1F1F5;&#x1F1F9; | &#x1F1F5;&#x1F1F9; | 
-| flag: Palau | &#x1F1F5;&#x1F1FC; | &#x1F1F5;&#x1F1FC; | &#x1F1F5;&#x1F1FC; | 
-| flag: Paraguay | &#x1F1F5;&#x1F1FE; | &#x1F1F5;&#x1F1FE; | &#x1F1F5;&#x1F1FE; | 
-| flag: Qatar | &#x1F1F6;&#x1F1E6; | &#x1F1F6;&#x1F1E6; | &#x1F1F6;&#x1F1E6; | 
-| flag: Réunion | &#x1F1F7;&#x1F1EA; | &#x1F1F7;&#x1F1EA; | &#x1F1F7;&#x1F1EA; | 
-| flag: Romania | &#x1F1F7;&#x1F1F4; | &#x1F1F7;&#x1F1F4; | &#x1F1F7;&#x1F1F4; | 
-| flag: Serbia | &#x1F1F7;&#x1F1F8; | &#x1F1F7;&#x1F1F8; | &#x1F1F7;&#x1F1F8; | 
-| flag: Russia | &#x1F1F7;&#x1F1FA; | &#x1F1F7;&#x1F1FA; | &#x1F1F7;&#x1F1FA; | 
-| flag: Rwanda | &#x1F1F7;&#x1F1FC; | &#x1F1F7;&#x1F1FC; | &#x1F1F7;&#x1F1FC; | 
-| flag: Saudi Arabia | &#x1F1F8;&#x1F1E6; | &#x1F1F8;&#x1F1E6; | &#x1F1F8;&#x1F1E6; | 
-| flag: Solomon Islands | &#x1F1F8;&#x1F1E7; | &#x1F1F8;&#x1F1E7; | &#x1F1F8;&#x1F1E7; | 
-| flag: Seychelles | &#x1F1F8;&#x1F1E8; | &#x1F1F8;&#x1F1E8; | &#x1F1F8;&#x1F1E8; | 
-| flag: Sudan | &#x1F1F8;&#x1F1E9; | &#x1F1F8;&#x1F1E9; | &#x1F1F8;&#x1F1E9; | 
-| flag: Sweden | &#x1F1F8;&#x1F1EA; | &#x1F1F8;&#x1F1EA; | &#x1F1F8;&#x1F1EA; | 
-| flag: Singapore | &#x1F1F8;&#x1F1EC; | &#x1F1F8;&#x1F1EC; | &#x1F1F8;&#x1F1EC; | 
-| flag: St. Helena | &#x1F1F8;&#x1F1ED; | &#x1F1F8;&#x1F1ED; | &#x1F1F8;&#x1F1ED; | 
-| flag: Slovenia | &#x1F1F8;&#x1F1EE; | &#x1F1F8;&#x1F1EE; | &#x1F1F8;&#x1F1EE; | 
-| flag: Svalbard & Jan Mayen | &#x1F1F8;&#x1F1EF; | &#x1F1F8;&#x1F1EF; | &#x1F1F8;&#x1F1EF; | 
-| flag: Slovakia | &#x1F1F8;&#x1F1F0; | &#x1F1F8;&#x1F1F0; | &#x1F1F8;&#x1F1F0; | 
-| flag: Sierra Leone | &#x1F1F8;&#x1F1F1; | &#x1F1F8;&#x1F1F1; | &#x1F1F8;&#x1F1F1; | 
-| flag: San Marino | &#x1F1F8;&#x1F1F2; | &#x1F1F8;&#x1F1F2; | &#x1F1F8;&#x1F1F2; | 
-| flag: Senegal | &#x1F1F8;&#x1F1F3; | &#x1F1F8;&#x1F1F3; | &#x1F1F8;&#x1F1F3; | 
-| flag: Somalia | &#x1F1F8;&#x1F1F4; | &#x1F1F8;&#x1F1F4; | &#x1F1F8;&#x1F1F4; | 
-| flag: Suriname | &#x1F1F8;&#x1F1F7; | &#x1F1F8;&#x1F1F7; | &#x1F1F8;&#x1F1F7; | 
-| flag: South Sudan | &#x1F1F8;&#x1F1F8; | &#x1F1F8;&#x1F1F8; | &#x1F1F8;&#x1F1F8; | 
-| flag: São Tomé & Príncipe | &#x1F1F8;&#x1F1F9; | &#x1F1F8;&#x1F1F9; | &#x1F1F8;&#x1F1F9; | 
-| flag: El Salvador | &#x1F1F8;&#x1F1FB; | &#x1F1F8;&#x1F1FB; | &#x1F1F8;&#x1F1FB; | 
-| flag: Sint Maarten | &#x1F1F8;&#x1F1FD; | &#x1F1F8;&#x1F1FD; | &#x1F1F8;&#x1F1FD; | 
-| flag: Syria | &#x1F1F8;&#x1F1FE; | &#x1F1F8;&#x1F1FE; | &#x1F1F8;&#x1F1FE; | 
-| flag: Eswatini | &#x1F1F8;&#x1F1FF; | &#x1F1F8;&#x1F1FF; | &#x1F1F8;&#x1F1FF; | 
-| flag: Tristan da Cunha | &#x1F1F9;&#x1F1E6; | &#x1F1F9;&#x1F1E6; | &#x1F1F9;&#x1F1E6; | 
-| flag: Turks & Caicos Islands | &#x1F1F9;&#x1F1E8; | &#x1F1F9;&#x1F1E8; | &#x1F1F9;&#x1F1E8; | 
-| flag: Chad | &#x1F1F9;&#x1F1E9; | &#x1F1F9;&#x1F1E9; | &#x1F1F9;&#x1F1E9; | 
-| flag: French Southern Territories | &#x1F1F9;&#x1F1EB; | &#x1F1F9;&#x1F1EB; | &#x1F1F9;&#x1F1EB; | 
-| flag: Togo | &#x1F1F9;&#x1F1EC; | &#x1F1F9;&#x1F1EC; | &#x1F1F9;&#x1F1EC; | 
-| flag: Thailand | &#x1F1F9;&#x1F1ED; | &#x1F1F9;&#x1F1ED; | &#x1F1F9;&#x1F1ED; | 
-| flag: Tajikistan | &#x1F1F9;&#x1F1EF; | &#x1F1F9;&#x1F1EF; | &#x1F1F9;&#x1F1EF; | 
-| flag: Tokelau | &#x1F1F9;&#x1F1F0; | &#x1F1F9;&#x1F1F0; | &#x1F1F9;&#x1F1F0; | 
-| flag: Timor-Leste | &#x1F1F9;&#x1F1F1; | &#x1F1F9;&#x1F1F1; | &#x1F1F9;&#x1F1F1; | 
-| flag: Turkmenistan | &#x1F1F9;&#x1F1F2; | &#x1F1F9;&#x1F1F2; | &#x1F1F9;&#x1F1F2; | 
-| flag: Tunisia | &#x1F1F9;&#x1F1F3; | &#x1F1F9;&#x1F1F3; | &#x1F1F9;&#x1F1F3; | 
-| flag: Tonga | &#x1F1F9;&#x1F1F4; | &#x1F1F9;&#x1F1F4; | &#x1F1F9;&#x1F1F4; | 
-| flag: Turkey | &#x1F1F9;&#x1F1F7; | &#x1F1F9;&#x1F1F7; | &#x1F1F9;&#x1F1F7; | 
-| flag: Trinidad & Tobago | &#x1F1F9;&#x1F1F9; | &#x1F1F9;&#x1F1F9; | &#x1F1F9;&#x1F1F9; | 
-| flag: Tuvalu | &#x1F1F9;&#x1F1FB; | &#x1F1F9;&#x1F1FB; | &#x1F1F9;&#x1F1FB; | 
-| flag: Taiwan | &#x1F1F9;&#x1F1FC; | &#x1F1F9;&#x1F1FC; | &#x1F1F9;&#x1F1FC; | 
-| flag: Tanzania | &#x1F1F9;&#x1F1FF; | &#x1F1F9;&#x1F1FF; | &#x1F1F9;&#x1F1FF; | 
-| flag: Ukraine | &#x1F1FA;&#x1F1E6; | &#x1F1FA;&#x1F1E6; | &#x1F1FA;&#x1F1E6; | 
-| flag: Uganda | &#x1F1FA;&#x1F1EC; | &#x1F1FA;&#x1F1EC; | &#x1F1FA;&#x1F1EC; | 
-| flag: U.S. Outlying Islands | &#x1F1FA;&#x1F1F2; | &#x1F1FA;&#x1F1F2; | &#x1F1FA;&#x1F1F2; | 
-| flag: United Nations |  | &#x1F1FA;&#x1F1F3; | &#x1F1FA;&#x1F1F3; | 
-| flag: United States | &#x1F1FA;&#x1F1F8; | &#x1F1FA;&#x1F1F8; | &#x1F1FA;&#x1F1F8; | 
-| flag: Uruguay | &#x1F1FA;&#x1F1FE; | &#x1F1FA;&#x1F1FE; | &#x1F1FA;&#x1F1FE; | 
-| flag: Uzbekistan | &#x1F1FA;&#x1F1FF; | &#x1F1FA;&#x1F1FF; | &#x1F1FA;&#x1F1FF; | 
-| flag: Vatican City | &#x1F1FB;&#x1F1E6; | &#x1F1FB;&#x1F1E6; | &#x1F1FB;&#x1F1E6; | 
-| flag: St. Vincent & Grenadines | &#x1F1FB;&#x1F1E8; | &#x1F1FB;&#x1F1E8; | &#x1F1FB;&#x1F1E8; | 
-| flag: Venezuela | &#x1F1FB;&#x1F1EA; | &#x1F1FB;&#x1F1EA; | &#x1F1FB;&#x1F1EA; | 
-| flag: British Virgin Islands | &#x1F1FB;&#x1F1EC; | &#x1F1FB;&#x1F1EC; | &#x1F1FB;&#x1F1EC; | 
-| flag: U.S. Virgin Islands | &#x1F1FB;&#x1F1EE; | &#x1F1FB;&#x1F1EE; | &#x1F1FB;&#x1F1EE; | 
-| flag: Vietnam | &#x1F1FB;&#x1F1F3; | &#x1F1FB;&#x1F1F3; | &#x1F1FB;&#x1F1F3; | 
-| flag: Vanuatu | &#x1F1FB;&#x1F1FA; | &#x1F1FB;&#x1F1FA; | &#x1F1FB;&#x1F1FA; | 
-| flag: Wallis & Futuna | &#x1F1FC;&#x1F1EB; | &#x1F1FC;&#x1F1EB; | &#x1F1FC;&#x1F1EB; | 
-| flag: Samoa | &#x1F1FC;&#x1F1F8; | &#x1F1FC;&#x1F1F8; | &#x1F1FC;&#x1F1F8; | 
-| flag: Kosovo | &#x1F1FD;&#x1F1F0; | &#x1F1FD;&#x1F1F0; | &#x1F1FD;&#x1F1F0; | 
-| flag: Yemen | &#x1F1FE;&#x1F1EA; | &#x1F1FE;&#x1F1EA; | &#x1F1FE;&#x1F1EA; | 
-| flag: Mayotte | &#x1F1FE;&#x1F1F9; | &#x1F1FE;&#x1F1F9; | &#x1F1FE;&#x1F1F9; | 
-| flag: South Africa | &#x1F1FF;&#x1F1E6; | &#x1F1FF;&#x1F1E6; | &#x1F1FF;&#x1F1E6; | 
-| flag: Zambia | &#x1F1FF;&#x1F1F2; | &#x1F1FF;&#x1F1F2; | &#x1F1FF;&#x1F1F2; | 
-| flag: Zimbabwe | &#x1F1FF;&#x1F1FC; | &#x1F1FF;&#x1F1FC; | &#x1F1FF;&#x1F1FC; | 
-
-### subdivision-flag
-
-| name | EmojiOne | Twemoji | OpenMoji |
-|:-:|:-:|:-:|:-:|
-| flag: England |  | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | 
-| flag: Scotland |  | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | 
-| flag: Wales |  | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | 
+| <small>1F970</small><br>smiling face with hearts<br>&#x1F970; | &#x1F970; | &#x1F970; | &#x1F970; | 
+| <small>1F60D</small><br>smiling face with heart-eyes<br>&#x1F60D; | &#x1F60D; | &#x1F60D; | &#x1F60D; | 
+| <small>1F929</small><br>star-struck<br>&#x1F929; |  | &#x1F929; | &#x1F929; | 
+| <small>1F618</small><br>face blowing a kiss<br>&#x1F618; | &#x1F618; | &#x1F618; | &#x1F618; | 
+| <small>1F617</small><br>kissing face<br>&#x1F617; | &#x1F617; | &#x1F617; | &#x1F617; | 
+| <small>263A FE0F</small><br>smiling face<br>&#x263A;&#xFE0F; | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | &#x263A;&#xFE0F; | 
+| <small>1F61A</small><br>kissing face with closed eyes<br>&#x1F61A; | &#x1F61A; | &#x1F61A; | &#x1F61A; | 
+| <small>1F619</small><br>kissing face with smiling eyes<br>&#x1F619; | &#x1F619; | &#x1F619; | &#x1F619; | 
+| <small>1F972</small><br>smiling face with tear<br>&#x1F972; |  | &#x1F972; | &#x1F972; | 
+
+#### face-tongue
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F60B</small><br>face savoring food<br>&#x1F60B; | &#x1F60B; | &#x1F60B; | &#x1F60B; | 
+| <small>1F61B</small><br>face with tongue<br>&#x1F61B; | &#x1F61B; | &#x1F61B; | &#x1F61B; | 
+| <small>1F61C</small><br>winking face with tongue<br>&#x1F61C; | &#x1F61C; | &#x1F61C; | &#x1F61C; | 
+| <small>1F92A</small><br>zany face<br>&#x1F92A; |  | &#x1F92A; | &#x1F92A; | 
+| <small>1F61D</small><br>squinting face with tongue<br>&#x1F61D; | &#x1F61D; | &#x1F61D; | &#x1F61D; | 
+| <small>1F911</small><br>money-mouth face<br>&#x1F911; | &#x1F911; | &#x1F911; | &#x1F911; | 
+
+#### face-hand
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F917</small><br>hugging face<br>&#x1F917; | &#x1F917; | &#x1F917; | &#x1F917; | 
+| <small>1F92D</small><br>face with hand over mouth<br>&#x1F92D; |  | &#x1F92D; | &#x1F92D; | 
+| <small>1F92B</small><br>shushing face<br>&#x1F92B; |  | &#x1F92B; | &#x1F92B; | 
+| <small>1F914</small><br>thinking face<br>&#x1F914; | &#x1F914; | &#x1F914; | &#x1F914; | 
+
+#### face-neutral-skeptical
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F910</small><br>zipper-mouth face<br>&#x1F910; | &#x1F910; | &#x1F910; | &#x1F910; | 
+| <small>1F928</small><br>face with raised eyebrow<br>&#x1F928; |  | &#x1F928; | &#x1F928; | 
+| <small>1F610</small><br>neutral face<br>&#x1F610; | &#x1F610; | &#x1F610; | &#x1F610; | 
+| <small>1F611</small><br>expressionless face<br>&#x1F611; | &#x1F611; | &#x1F611; | &#x1F611; | 
+| <small>1F636</small><br>face without mouth<br>&#x1F636; | &#x1F636; | &#x1F636; | &#x1F636; | 
+| <small>1F60F</small><br>smirking face<br>&#x1F60F; | &#x1F60F; | &#x1F60F; | &#x1F60F; | 
+| <small>1F612</small><br>unamused face<br>&#x1F612; | &#x1F612; | &#x1F612; | &#x1F612; | 
+| <small>1F644</small><br>face with rolling eyes<br>&#x1F644; | &#x1F644; | &#x1F644; | &#x1F644; | 
+| <small>1F62C</small><br>grimacing face<br>&#x1F62C; | &#x1F62C; | &#x1F62C; | &#x1F62C; | 
+| <small>1F925</small><br>lying face<br>&#x1F925; | &#x1F925; | &#x1F925; | &#x1F925; | 
+
+#### face-sleepy
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F60C</small><br>relieved face<br>&#x1F60C; | &#x1F60C; | &#x1F60C; | &#x1F60C; | 
+| <small>1F614</small><br>pensive face<br>&#x1F614; | &#x1F614; | &#x1F614; | &#x1F614; | 
+| <small>1F62A</small><br>sleepy face<br>&#x1F62A; | &#x1F62A; | &#x1F62A; | &#x1F62A; | 
+| <small>1F924</small><br>drooling face<br>&#x1F924; | &#x1F924; | &#x1F924; | &#x1F924; | 
+| <small>1F634</small><br>sleeping face<br>&#x1F634; | &#x1F634; | &#x1F634; | &#x1F634; | 
+
+#### face-unwell
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F637</small><br>face with medical mask<br>&#x1F637; | &#x1F637; | &#x1F637; | &#x1F637; | 
+| <small>1F912</small><br>face with thermometer<br>&#x1F912; | &#x1F912; | &#x1F912; | &#x1F912; | 
+| <small>1F915</small><br>face with head-bandage<br>&#x1F915; | &#x1F915; | &#x1F915; | &#x1F915; | 
+| <small>1F922</small><br>nauseated face<br>&#x1F922; | &#x1F922; | &#x1F922; | &#x1F922; | 
+| <small>1F92E</small><br>face vomiting<br>&#x1F92E; |  | &#x1F92E; | &#x1F92E; | 
+| <small>1F927</small><br>sneezing face<br>&#x1F927; | &#x1F927; | &#x1F927; | &#x1F927; | 
+| <small>1F975</small><br>hot face<br>&#x1F975; |  | &#x1F975; | &#x1F975; | 
+| <small>1F976</small><br>cold face<br>&#x1F976; |  | &#x1F976; | &#x1F976; | 
+| <small>1F974</small><br>woozy face<br>&#x1F974; |  | &#x1F974; | &#x1F974; | 
+| <small>1F635</small><br>dizzy face<br>&#x1F635; | &#x1F635; | &#x1F635; | &#x1F635; | 
+| <small>1F92F</small><br>exploding head<br>&#x1F92F; |  | &#x1F92F; | &#x1F92F; | 
+
+#### face-hat
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F920</small><br>cowboy hat face<br>&#x1F920; | &#x1F920; | &#x1F920; | &#x1F920; | 
+| <small>1F973</small><br>partying face<br>&#x1F973; |  | &#x1F973; | &#x1F973; | 
+| <small>1F978</small><br>disguised face<br>&#x1F978; |  | &#x1F978; | &#x1F978; | 
+
+#### face-glasses
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F60E</small><br>smiling face with sunglasses<br>&#x1F60E; | &#x1F60E; | &#x1F60E; | &#x1F60E; | 
+| <small>1F913</small><br>nerd face<br>&#x1F913; | &#x1F913; | &#x1F913; | &#x1F913; | 
+| <small>1F9D0</small><br>face with monocle<br>&#x1F9D0; |  | &#x1F9D0; | &#x1F9D0; | 
+
+#### face-concerned
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F615</small><br>confused face<br>&#x1F615; | &#x1F615; | &#x1F615; | &#x1F615; | 
+| <small>1F61F</small><br>worried face<br>&#x1F61F; | &#x1F61F; | &#x1F61F; | &#x1F61F; | 
+| <small>1F641</small><br>slightly frowning face<br>&#x1F641; | &#x1F641; | &#x1F641; | &#x1F641; | 
+| <small>2639 FE0F</small><br>frowning face<br>&#x2639;&#xFE0F; | &#x2639;&#xFE0F; | &#x2639;&#xFE0F; | &#x2639;&#xFE0F; | 
+| <small>1F62E</small><br>face with open mouth<br>&#x1F62E; | &#x1F62E; | &#x1F62E; | &#x1F62E; | 
+| <small>1F62F</small><br>hushed face<br>&#x1F62F; | &#x1F62F; | &#x1F62F; | &#x1F62F; | 
+| <small>1F632</small><br>astonished face<br>&#x1F632; | &#x1F632; | &#x1F632; | &#x1F632; | 
+| <small>1F633</small><br>flushed face<br>&#x1F633; | &#x1F633; | &#x1F633; | &#x1F633; | 
+| <small>1F97A</small><br>pleading face<br>&#x1F97A; | &#x1F97A; | &#x1F97A; | &#x1F97A; | 
+| <small>1F626</small><br>frowning face with open mouth<br>&#x1F626; | &#x1F626; | &#x1F626; | &#x1F626; | 
+| <small>1F627</small><br>anguished face<br>&#x1F627; | &#x1F627; | &#x1F627; | &#x1F627; | 
+| <small>1F628</small><br>fearful face<br>&#x1F628; | &#x1F628; | &#x1F628; | &#x1F628; | 
+| <small>1F630</small><br>anxious face with sweat<br>&#x1F630; | &#x1F630; | &#x1F630; | &#x1F630; | 
+| <small>1F625</small><br>sad but relieved face<br>&#x1F625; | &#x1F625; | &#x1F625; | &#x1F625; | 
+| <small>1F622</small><br>crying face<br>&#x1F622; | &#x1F622; | &#x1F622; | &#x1F622; | 
+| <small>1F62D</small><br>loudly crying face<br>&#x1F62D; | &#x1F62D; | &#x1F62D; | &#x1F62D; | 
+| <small>1F631</small><br>face screaming in fear<br>&#x1F631; | &#x1F631; | &#x1F631; | &#x1F631; | 
+| <small>1F616</small><br>confounded face<br>&#x1F616; | &#x1F616; | &#x1F616; | &#x1F616; | 
+| <small>1F623</small><br>persevering face<br>&#x1F623; | &#x1F623; | &#x1F623; | &#x1F623; | 
+| <small>1F61E</small><br>disappointed face<br>&#x1F61E; | &#x1F61E; | &#x1F61E; | &#x1F61E; | 
+| <small>1F613</small><br>downcast face with sweat<br>&#x1F613; | &#x1F613; | &#x1F613; | &#x1F613; | 
+| <small>1F629</small><br>weary face<br>&#x1F629; | &#x1F629; | &#x1F629; | &#x1F629; | 
+| <small>1F62B</small><br>tired face<br>&#x1F62B; | &#x1F62B; | &#x1F62B; | &#x1F62B; | 
+| <small>1F971</small><br>yawning face<br>&#x1F971; |  | &#x1F971; | &#x1F971; | 
+
+#### face-negative
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F624</small><br>face with steam from nose<br>&#x1F624; | &#x1F624; | &#x1F624; | &#x1F624; | 
+| <small>1F621</small><br>pouting face<br>&#x1F621; | &#x1F621; | &#x1F621; | &#x1F621; | 
+| <small>1F620</small><br>angry face<br>&#x1F620; | &#x1F620; | &#x1F620; | &#x1F620; | 
+| <small>1F92C</small><br>face with symbols on mouth<br>&#x1F92C; |  | &#x1F92C; | &#x1F92C; | 
+| <small>1F608</small><br>smiling face with horns<br>&#x1F608; | &#x1F608; | &#x1F608; | &#x1F608; | 
+| <small>1F47F</small><br>angry face with horns<br>&#x1F47F; | &#x1F47F; | &#x1F47F; | &#x1F47F; | 
+| <small>1F480</small><br>skull<br>&#x1F480; | &#x1F480; | &#x1F480; | &#x1F480; | 
+| <small>2620 FE0F</small><br>skull and crossbones<br>&#x2620;&#xFE0F; | &#x2620;&#xFE0F; | &#x2620;&#xFE0F; | &#x2620;&#xFE0F; | 
+
+#### face-costume
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F4A9</small><br>pile of poo<br>&#x1F4A9; | &#x1F4A9; | &#x1F4A9; | &#x1F4A9; | 
+| <small>1F921</small><br>clown face<br>&#x1F921; | &#x1F921; | &#x1F921; | &#x1F921; | 
+| <small>1F479</small><br>ogre<br>&#x1F479; | &#x1F479; | &#x1F479; | &#x1F479; | 
+| <small>1F47A</small><br>goblin<br>&#x1F47A; | &#x1F47A; | &#x1F47A; | &#x1F47A; | 
+| <small>1F47B</small><br>ghost<br>&#x1F47B; | &#x1F47B; | &#x1F47B; | &#x1F47B; | 
+| <small>1F47D</small><br>alien<br>&#x1F47D; | &#x1F47D; | &#x1F47D; | &#x1F47D; | 
+| <small>1F47E</small><br>alien monster<br>&#x1F47E; | &#x1F47E; | &#x1F47E; | &#x1F47E; | 
+| <small>1F916</small><br>robot<br>&#x1F916; | &#x1F916; | &#x1F916; | &#x1F916; | 
+
+#### cat-face
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F63A</small><br>grinning cat<br>&#x1F63A; | &#x1F63A; | &#x1F63A; | &#x1F63A; | 
+| <small>1F638</small><br>grinning cat with smiling eyes<br>&#x1F638; | &#x1F638; | &#x1F638; | &#x1F638; | 
+| <small>1F639</small><br>cat with tears of joy<br>&#x1F639; | &#x1F639; | &#x1F639; | &#x1F639; | 
+| <small>1F63B</small><br>smiling cat with heart-eyes<br>&#x1F63B; | &#x1F63B; | &#x1F63B; | &#x1F63B; | 
+| <small>1F63C</small><br>cat with wry smile<br>&#x1F63C; | &#x1F63C; | &#x1F63C; | &#x1F63C; | 
+| <small>1F63D</small><br>kissing cat<br>&#x1F63D; | &#x1F63D; | &#x1F63D; | &#x1F63D; | 
+| <small>1F640</small><br>weary cat<br>&#x1F640; | &#x1F640; | &#x1F640; | &#x1F640; | 
+| <small>1F63F</small><br>crying cat<br>&#x1F63F; | &#x1F63F; | &#x1F63F; | &#x1F63F; | 
+| <small>1F63E</small><br>pouting cat<br>&#x1F63E; | &#x1F63E; | &#x1F63E; | &#x1F63E; | 
+
+#### monkey-face
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F648</small><br>see-no-evil monkey<br>&#x1F648; | &#x1F648; | &#x1F648; | &#x1F648; | 
+| <small>1F649</small><br>hear-no-evil monkey<br>&#x1F649; | &#x1F649; | &#x1F649; | &#x1F649; | 
+| <small>1F64A</small><br>speak-no-evil monkey<br>&#x1F64A; | &#x1F64A; | &#x1F64A; | &#x1F64A; | 
+
+#### emotion
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F48B</small><br>kiss mark<br>&#x1F48B; | &#x1F48B; | &#x1F48B; | &#x1F48B; | 
+| <small>1F48C</small><br>love letter<br>&#x1F48C; | &#x1F48C; | &#x1F48C; | &#x1F48C; | 
+| <small>1F498</small><br>heart with arrow<br>&#x1F498; | &#x1F498; | &#x1F498; | &#x1F498; | 
+| <small>1F49D</small><br>heart with ribbon<br>&#x1F49D; | &#x1F49D; | &#x1F49D; | &#x1F49D; | 
+| <small>1F496</small><br>sparkling heart<br>&#x1F496; | &#x1F496; | &#x1F496; | &#x1F496; | 
+| <small>1F497</small><br>growing heart<br>&#x1F497; | &#x1F497; | &#x1F497; | &#x1F497; | 
+| <small>1F493</small><br>beating heart<br>&#x1F493; | &#x1F493; | &#x1F493; | &#x1F493; | 
+| <small>1F49E</small><br>revolving hearts<br>&#x1F49E; | &#x1F49E; | &#x1F49E; | &#x1F49E; | 
+| <small>1F495</small><br>two hearts<br>&#x1F495; | &#x1F495; | &#x1F495; | &#x1F495; | 
+| <small>1F49F</small><br>heart decoration<br>&#x1F49F; | &#x1F49F; | &#x1F49F; | &#x1F49F; | 
+| <small>2763 FE0F</small><br>heart exclamation<br>&#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | 
+| <small>1F494</small><br>broken heart<br>&#x1F494; | &#x1F494; | &#x1F494; | &#x1F494; | 
+| <small>2764 FE0F</small><br>red heart<br>&#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | 
+| <small>1F9E1</small><br>orange heart<br>&#x1F9E1; |  | &#x1F9E1; | &#x1F9E1; | 
+| <small>1F49B</small><br>yellow heart<br>&#x1F49B; | &#x1F49B; | &#x1F49B; | &#x1F49B; | 
+| <small>1F49A</small><br>green heart<br>&#x1F49A; | &#x1F49A; | &#x1F49A; | &#x1F49A; | 
+| <small>1F499</small><br>blue heart<br>&#x1F499; | &#x1F499; | &#x1F499; | &#x1F499; | 
+| <small>1F49C</small><br>purple heart<br>&#x1F49C; | &#x1F49C; | &#x1F49C; | &#x1F49C; | 
+| <small>1F90E</small><br>brown heart<br>&#x1F90E; |  | &#x1F90E; | &#x1F90E; | 
+| <small>1F5A4</small><br>black heart<br>&#x1F5A4; | &#x1F5A4; | &#x1F5A4; | &#x1F5A4; | 
+| <small>1F90D</small><br>white heart<br>&#x1F90D; |  | &#x1F90D; | &#x1F90D; | 
+| <small>1F4AF</small><br>hundred points<br>&#x1F4AF; | &#x1F4AF; | &#x1F4AF; | &#x1F4AF; | 
+| <small>1F4A2</small><br>anger symbol<br>&#x1F4A2; | &#x1F4A2; | &#x1F4A2; | &#x1F4A2; | 
+| <small>1F4A5</small><br>collision<br>&#x1F4A5; | &#x1F4A5; | &#x1F4A5; | &#x1F4A5; | 
+| <small>1F4AB</small><br>dizzy<br>&#x1F4AB; | &#x1F4AB; | &#x1F4AB; | &#x1F4AB; | 
+| <small>1F4A6</small><br>sweat droplets<br>&#x1F4A6; | &#x1F4A6; | &#x1F4A6; | &#x1F4A6; | 
+| <small>1F4A8</small><br>dashing away<br>&#x1F4A8; | &#x1F4A8; | &#x1F4A8; | &#x1F4A8; | 
+| <small>1F573 FE0F</small><br>hole<br>&#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | 
+| <small>1F4A3</small><br>bomb<br>&#x1F4A3; | &#x1F4A3; | &#x1F4A3; | &#x1F4A3; | 
+| <small>1F4AC</small><br>speech balloon<br>&#x1F4AC; | &#x1F4AC; | &#x1F4AC; | &#x1F4AC; | 
+| <small>1F441 FE0F 200D 1F5E8 FE0F</small><br>eye in speech bubble<br>&#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | 
+| <small>1F5E8 FE0F</small><br>left speech bubble<br>&#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | 
+| <small>1F5EF FE0F</small><br>right anger bubble<br>&#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | 
+| <small>1F4AD</small><br>thought balloon<br>&#x1F4AD; | &#x1F4AD; | &#x1F4AD; | &#x1F4AD; | 
+| <small>1F4A4</small><br>zzz<br>&#x1F4A4; | &#x1F4A4; | &#x1F4A4; | &#x1F4A4; | 
+
+
+### People & Body
+
+#### hand-fingers-open
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F44B</small><br>waving hand<br>&#x1F44B; | &#x1F44B; | &#x1F44B; | &#x1F44B; | 
+| <small>1F91A</small><br>raised back of hand<br>&#x1F91A; | &#x1F91A; | &#x1F91A; | &#x1F91A; | 
+| <small>1F590 FE0F</small><br>hand with fingers splayed<br>&#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | 
+| <small>270B</small><br>raised hand<br>&#x270B; | &#x270B; | &#x270B; | &#x270B; | 
+| <small>1F596</small><br>vulcan salute<br>&#x1F596; | &#x1F596; | &#x1F596; | &#x1F596; | 
+
+#### hand-fingers-partial
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F44C</small><br>OK hand<br>&#x1F44C; | &#x1F44C; | &#x1F44C; | &#x1F44C; | 
+| <small>1F90C</small><br>pinched fingers<br>&#x1F90C; |  | &#x1F90C; | &#x1F90C; | 
+| <small>1F90F</small><br>pinching hand<br>&#x1F90F; |  | &#x1F90F; | &#x1F90F; | 
+| <small>270C FE0F</small><br>victory hand<br>&#x270C;&#xFE0F; | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | 
+| <small>1F91E</small><br>crossed fingers<br>&#x1F91E; | &#x1F91E; | &#x1F91E; | &#x1F91E; | 
+| <small>1F91F</small><br>love-you gesture<br>&#x1F91F; |  | &#x1F91F; | &#x1F91F; | 
+| <small>1F918</small><br>sign of the horns<br>&#x1F918; | &#x1F918; | &#x1F918; | &#x1F918; | 
+| <small>1F919</small><br>call me hand<br>&#x1F919; | &#x1F919; | &#x1F919; | &#x1F919; | 
+
+#### hand-single-finger
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F448</small><br>backhand index pointing left<br>&#x1F448; | &#x1F448; | &#x1F448; | &#x1F448; | 
+| <small>1F449</small><br>backhand index pointing right<br>&#x1F449; | &#x1F449; | &#x1F449; | &#x1F449; | 
+| <small>1F446</small><br>backhand index pointing up<br>&#x1F446; | &#x1F446; | &#x1F446; | &#x1F446; | 
+| <small>1F595</small><br>middle finger<br>&#x1F595; | &#x1F595; | &#x1F595; | &#x1F595; | 
+| <small>1F447</small><br>backhand index pointing down<br>&#x1F447; | &#x1F447; | &#x1F447; | &#x1F447; | 
+| <small>261D FE0F</small><br>index pointing up<br>&#x261D;&#xFE0F; | &#x261D;&#xFE0F; | &#x261D;&#xFE0F; | &#x261D;&#xFE0F; | 
+
+#### hand-fingers-closed
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F44D</small><br>thumbs up<br>&#x1F44D; | &#x1F44D; | &#x1F44D; | &#x1F44D; | 
+| <small>1F44E</small><br>thumbs down<br>&#x1F44E; | &#x1F44E; | &#x1F44E; | &#x1F44E; | 
+| <small>270A</small><br>raised fist<br>&#x270A; | &#x270A; | &#x270A; | &#x270A; | 
+| <small>1F44A</small><br>oncoming fist<br>&#x1F44A; | &#x1F44A; | &#x1F44A; | &#x1F44A; | 
+| <small>1F91B</small><br>left-facing fist<br>&#x1F91B; | &#x1F91B; | &#x1F91B; | &#x1F91B; | 
+| <small>1F91C</small><br>right-facing fist<br>&#x1F91C; | &#x1F91C; | &#x1F91C; | &#x1F91C; | 
+
+#### hands
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F44F</small><br>clapping hands<br>&#x1F44F; | &#x1F44F; | &#x1F44F; | &#x1F44F; | 
+| <small>1F64C</small><br>raising hands<br>&#x1F64C; | &#x1F64C; | &#x1F64C; | &#x1F64C; | 
+| <small>1F450</small><br>open hands<br>&#x1F450; | &#x1F450; | &#x1F450; | &#x1F450; | 
+| <small>1F932</small><br>palms up together<br>&#x1F932; |  | &#x1F932; | &#x1F932; | 
+| <small>1F91D</small><br>handshake<br>&#x1F91D; | &#x1F91D; | &#x1F91D; | &#x1F91D; | 
+| <small>1F64F</small><br>folded hands<br>&#x1F64F; | &#x1F64F; | &#x1F64F; | &#x1F64F; | 
+
+#### hand-prop
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>270D FE0F</small><br>writing hand<br>&#x270D;&#xFE0F; | &#x270D;&#xFE0F; | &#x270D;&#xFE0F; | &#x270D;&#xFE0F; | 
+| <small>1F485</small><br>nail polish<br>&#x1F485; | &#x1F485; | &#x1F485; | &#x1F485; | 
+| <small>1F933</small><br>selfie<br>&#x1F933; | &#x1F933; | &#x1F933; | &#x1F933; | 
+
+#### body-parts
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F4AA</small><br>flexed biceps<br>&#x1F4AA; | &#x1F4AA; | &#x1F4AA; | &#x1F4AA; | 
+| <small>1F9BE</small><br>mechanical arm<br>&#x1F9BE; |  | &#x1F9BE; | &#x1F9BE; | 
+| <small>1F9BF</small><br>mechanical leg<br>&#x1F9BF; |  | &#x1F9BF; | &#x1F9BF; | 
+| <small>1F9B5</small><br>leg<br>&#x1F9B5; |  | &#x1F9B5; | &#x1F9B5; | 
+| <small>1F9B6</small><br>foot<br>&#x1F9B6; |  | &#x1F9B6; | &#x1F9B6; | 
+| <small>1F442</small><br>ear<br>&#x1F442; | &#x1F442; | &#x1F442; | &#x1F442; | 
+| <small>1F9BB</small><br>ear with hearing aid<br>&#x1F9BB; |  | &#x1F9BB; | &#x1F9BB; | 
+| <small>1F443</small><br>nose<br>&#x1F443; | &#x1F443; | &#x1F443; | &#x1F443; | 
+| <small>1F9E0</small><br>brain<br>&#x1F9E0; |  | &#x1F9E0; | &#x1F9E0; | 
+| <small>1FAC0</small><br>anatomical heart<br>&#x1FAC0; |  | &#x1FAC0; | &#x1FAC0; | 
+| <small>1FAC1</small><br>lungs<br>&#x1FAC1; |  | &#x1FAC1; | &#x1FAC1; | 
+| <small>1F9B7</small><br>tooth<br>&#x1F9B7; |  | &#x1F9B7; | &#x1F9B7; | 
+| <small>1F9B4</small><br>bone<br>&#x1F9B4; |  | &#x1F9B4; | &#x1F9B4; | 
+| <small>1F440</small><br>eyes<br>&#x1F440; | &#x1F440; | &#x1F440; | &#x1F440; | 
+| <small>1F441 FE0F</small><br>eye<br>&#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | 
+| <small>1F445</small><br>tongue<br>&#x1F445; | &#x1F445; | &#x1F445; | &#x1F445; | 
+| <small>1F444</small><br>mouth<br>&#x1F444; | &#x1F444; | &#x1F444; | &#x1F444; | 
+
+#### person
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F476</small><br>baby<br>&#x1F476; | &#x1F476; | &#x1F476; | &#x1F476; | 
+| <small>1F9D2</small><br>child<br>&#x1F9D2; |  | &#x1F9D2; | &#x1F9D2; | 
+| <small>1F466</small><br>boy<br>&#x1F466; | &#x1F466; | &#x1F466; | &#x1F466; | 
+| <small>1F467</small><br>girl<br>&#x1F467; | &#x1F467; | &#x1F467; | &#x1F467; | 
+| <small>1F9D1</small><br>person<br>&#x1F9D1; |  | &#x1F9D1; | &#x1F9D1; | 
+| <small>1F471</small><br>person: blond hair<br>&#x1F471; | &#x1F471; | &#x1F471; | &#x1F471; | 
+| <small>1F468</small><br>man<br>&#x1F468; | &#x1F468; | &#x1F468; | &#x1F468; | 
+| <small>1F9D4</small><br>man: beard<br>&#x1F9D4; |  | &#x1F9D4; | &#x1F9D4; | 
+| <small>1F468 200D 1F9B0</small><br>man: red hair<br>&#x1F468;&#x200D;&#x1F9B0; |  | &#x1F468;&#x200D;&#x1F9B0; | &#x1F468;&#x200D;&#x1F9B0; | 
+| <small>1F468 200D 1F9B1</small><br>man: curly hair<br>&#x1F468;&#x200D;&#x1F9B1; |  | &#x1F468;&#x200D;&#x1F9B1; | &#x1F468;&#x200D;&#x1F9B1; | 
+| <small>1F468 200D 1F9B3</small><br>man: white hair<br>&#x1F468;&#x200D;&#x1F9B3; |  | &#x1F468;&#x200D;&#x1F9B3; | &#x1F468;&#x200D;&#x1F9B3; | 
+| <small>1F468 200D 1F9B2</small><br>man: bald<br>&#x1F468;&#x200D;&#x1F9B2; |  | &#x1F468;&#x200D;&#x1F9B2; | &#x1F468;&#x200D;&#x1F9B2; | 
+| <small>1F469</small><br>woman<br>&#x1F469; | &#x1F469; | &#x1F469; | &#x1F469; | 
+| <small>1F469 200D 1F9B0</small><br>woman: red hair<br>&#x1F469;&#x200D;&#x1F9B0; |  | &#x1F469;&#x200D;&#x1F9B0; | &#x1F469;&#x200D;&#x1F9B0; | 
+| <small>1F9D1 200D 1F9B0</small><br>person: red hair<br>&#x1F9D1;&#x200D;&#x1F9B0; |  | &#x1F9D1;&#x200D;&#x1F9B0; | &#x1F9D1;&#x200D;&#x1F9B0; | 
+| <small>1F469 200D 1F9B1</small><br>woman: curly hair<br>&#x1F469;&#x200D;&#x1F9B1; |  | &#x1F469;&#x200D;&#x1F9B1; | &#x1F469;&#x200D;&#x1F9B1; | 
+| <small>1F9D1 200D 1F9B1</small><br>person: curly hair<br>&#x1F9D1;&#x200D;&#x1F9B1; |  | &#x1F9D1;&#x200D;&#x1F9B1; | &#x1F9D1;&#x200D;&#x1F9B1; | 
+| <small>1F469 200D 1F9B3</small><br>woman: white hair<br>&#x1F469;&#x200D;&#x1F9B3; |  | &#x1F469;&#x200D;&#x1F9B3; | &#x1F469;&#x200D;&#x1F9B3; | 
+| <small>1F9D1 200D 1F9B3</small><br>person: white hair<br>&#x1F9D1;&#x200D;&#x1F9B3; |  | &#x1F9D1;&#x200D;&#x1F9B3; | &#x1F9D1;&#x200D;&#x1F9B3; | 
+| <small>1F469 200D 1F9B2</small><br>woman: bald<br>&#x1F469;&#x200D;&#x1F9B2; |  | &#x1F469;&#x200D;&#x1F9B2; | &#x1F469;&#x200D;&#x1F9B2; | 
+| <small>1F9D1 200D 1F9B2</small><br>person: bald<br>&#x1F9D1;&#x200D;&#x1F9B2; |  | &#x1F9D1;&#x200D;&#x1F9B2; | &#x1F9D1;&#x200D;&#x1F9B2; | 
+| <small>1F471 200D 2640 FE0F</small><br>woman: blond hair<br>&#x1F471;&#x200D;&#x2640;&#xFE0F; |  | &#x1F471;&#x200D;&#x2640;&#xFE0F; | &#x1F471;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F471 200D 2642 FE0F</small><br>man: blond hair<br>&#x1F471;&#x200D;&#x2642;&#xFE0F; |  | &#x1F471;&#x200D;&#x2642;&#xFE0F; | &#x1F471;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9D3</small><br>older person<br>&#x1F9D3; |  | &#x1F9D3; | &#x1F9D3; | 
+| <small>1F474</small><br>old man<br>&#x1F474; | &#x1F474; | &#x1F474; | &#x1F474; | 
+| <small>1F475</small><br>old woman<br>&#x1F475; | &#x1F475; | &#x1F475; | &#x1F475; | 
+
+#### person-gesture
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F64D</small><br>person frowning<br>&#x1F64D; | &#x1F64D; | &#x1F64D; | &#x1F64D; | 
+| <small>1F64D 200D 2642 FE0F</small><br>man frowning<br>&#x1F64D;&#x200D;&#x2642;&#xFE0F; |  | &#x1F64D;&#x200D;&#x2642;&#xFE0F; | &#x1F64D;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F64D 200D 2640 FE0F</small><br>woman frowning<br>&#x1F64D;&#x200D;&#x2640;&#xFE0F; |  | &#x1F64D;&#x200D;&#x2640;&#xFE0F; | &#x1F64D;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F64E</small><br>person pouting<br>&#x1F64E; | &#x1F64E; | &#x1F64E; | &#x1F64E; | 
+| <small>1F64E 200D 2642 FE0F</small><br>man pouting<br>&#x1F64E;&#x200D;&#x2642;&#xFE0F; |  | &#x1F64E;&#x200D;&#x2642;&#xFE0F; | &#x1F64E;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F64E 200D 2640 FE0F</small><br>woman pouting<br>&#x1F64E;&#x200D;&#x2640;&#xFE0F; |  | &#x1F64E;&#x200D;&#x2640;&#xFE0F; | &#x1F64E;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F645</small><br>person gesturing NO<br>&#x1F645; | &#x1F645; | &#x1F645; | &#x1F645; | 
+| <small>1F645 200D 2642 FE0F</small><br>man gesturing NO<br>&#x1F645;&#x200D;&#x2642;&#xFE0F; |  | &#x1F645;&#x200D;&#x2642;&#xFE0F; | &#x1F645;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F645 200D 2640 FE0F</small><br>woman gesturing NO<br>&#x1F645;&#x200D;&#x2640;&#xFE0F; |  | &#x1F645;&#x200D;&#x2640;&#xFE0F; | &#x1F645;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F646</small><br>person gesturing OK<br>&#x1F646; | &#x1F646; | &#x1F646; | &#x1F646; | 
+| <small>1F646 200D 2642 FE0F</small><br>man gesturing OK<br>&#x1F646;&#x200D;&#x2642;&#xFE0F; |  | &#x1F646;&#x200D;&#x2642;&#xFE0F; | &#x1F646;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F646 200D 2640 FE0F</small><br>woman gesturing OK<br>&#x1F646;&#x200D;&#x2640;&#xFE0F; |  | &#x1F646;&#x200D;&#x2640;&#xFE0F; | &#x1F646;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F481</small><br>person tipping hand<br>&#x1F481; | &#x1F481; | &#x1F481; | &#x1F481; | 
+| <small>1F481 200D 2642 FE0F</small><br>man tipping hand<br>&#x1F481;&#x200D;&#x2642;&#xFE0F; |  | &#x1F481;&#x200D;&#x2642;&#xFE0F; | &#x1F481;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F481 200D 2640 FE0F</small><br>woman tipping hand<br>&#x1F481;&#x200D;&#x2640;&#xFE0F; |  | &#x1F481;&#x200D;&#x2640;&#xFE0F; | &#x1F481;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F64B</small><br>person raising hand<br>&#x1F64B; | &#x1F64B; | &#x1F64B; | &#x1F64B; | 
+| <small>1F64B 200D 2642 FE0F</small><br>man raising hand<br>&#x1F64B;&#x200D;&#x2642;&#xFE0F; |  | &#x1F64B;&#x200D;&#x2642;&#xFE0F; | &#x1F64B;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F64B 200D 2640 FE0F</small><br>woman raising hand<br>&#x1F64B;&#x200D;&#x2640;&#xFE0F; |  | &#x1F64B;&#x200D;&#x2640;&#xFE0F; | &#x1F64B;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9CF</small><br>deaf person<br>&#x1F9CF; |  | &#x1F9CF; | &#x1F9CF; | 
+| <small>1F9CF 200D 2642 FE0F</small><br>deaf man<br>&#x1F9CF;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9CF;&#x200D;&#x2642;&#xFE0F; | &#x1F9CF;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9CF 200D 2640 FE0F</small><br>deaf woman<br>&#x1F9CF;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9CF;&#x200D;&#x2640;&#xFE0F; | &#x1F9CF;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F647</small><br>person bowing<br>&#x1F647; | &#x1F647; | &#x1F647; | &#x1F647; | 
+| <small>1F647 200D 2642 FE0F</small><br>man bowing<br>&#x1F647;&#x200D;&#x2642;&#xFE0F; |  | &#x1F647;&#x200D;&#x2642;&#xFE0F; | &#x1F647;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F647 200D 2640 FE0F</small><br>woman bowing<br>&#x1F647;&#x200D;&#x2640;&#xFE0F; |  | &#x1F647;&#x200D;&#x2640;&#xFE0F; | &#x1F647;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F926</small><br>person facepalming<br>&#x1F926; | &#x1F926; | &#x1F926; | &#x1F926; | 
+| <small>1F926 200D 2642 FE0F</small><br>man facepalming<br>&#x1F926;&#x200D;&#x2642;&#xFE0F; |  | &#x1F926;&#x200D;&#x2642;&#xFE0F; | &#x1F926;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F926 200D 2640 FE0F</small><br>woman facepalming<br>&#x1F926;&#x200D;&#x2640;&#xFE0F; |  | &#x1F926;&#x200D;&#x2640;&#xFE0F; | &#x1F926;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F937</small><br>person shrugging<br>&#x1F937; | &#x1F937; | &#x1F937; | &#x1F937; | 
+| <small>1F937 200D 2642 FE0F</small><br>man shrugging<br>&#x1F937;&#x200D;&#x2642;&#xFE0F; |  | &#x1F937;&#x200D;&#x2642;&#xFE0F; | &#x1F937;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F937 200D 2640 FE0F</small><br>woman shrugging<br>&#x1F937;&#x200D;&#x2640;&#xFE0F; |  | &#x1F937;&#x200D;&#x2640;&#xFE0F; | &#x1F937;&#x200D;&#x2640;&#xFE0F; | 
+
+#### person-role
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F9D1 200D 2695 FE0F</small><br>health worker<br>&#x1F9D1;&#x200D;&#x2695;&#xFE0F; |  | &#x1F9D1;&#x200D;&#x2695;&#xFE0F; | &#x1F9D1;&#x200D;&#x2695;&#xFE0F; | 
+| <small>1F468 200D 2695 FE0F</small><br>man health worker<br>&#x1F468;&#x200D;&#x2695;&#xFE0F; |  | &#x1F468;&#x200D;&#x2695;&#xFE0F; | &#x1F468;&#x200D;&#x2695;&#xFE0F; | 
+| <small>1F469 200D 2695 FE0F</small><br>woman health worker<br>&#x1F469;&#x200D;&#x2695;&#xFE0F; |  | &#x1F469;&#x200D;&#x2695;&#xFE0F; | &#x1F469;&#x200D;&#x2695;&#xFE0F; | 
+| <small>1F9D1 200D 1F393</small><br>student<br>&#x1F9D1;&#x200D;&#x1F393; |  | &#x1F9D1;&#x200D;&#x1F393; | &#x1F9D1;&#x200D;&#x1F393; | 
+| <small>1F468 200D 1F393</small><br>man student<br>&#x1F468;&#x200D;&#x1F393; |  | &#x1F468;&#x200D;&#x1F393; | &#x1F468;&#x200D;&#x1F393; | 
+| <small>1F469 200D 1F393</small><br>woman student<br>&#x1F469;&#x200D;&#x1F393; |  | &#x1F469;&#x200D;&#x1F393; | &#x1F469;&#x200D;&#x1F393; | 
+| <small>1F9D1 200D 1F3EB</small><br>teacher<br>&#x1F9D1;&#x200D;&#x1F3EB; |  | &#x1F9D1;&#x200D;&#x1F3EB; | &#x1F9D1;&#x200D;&#x1F3EB; | 
+| <small>1F468 200D 1F3EB</small><br>man teacher<br>&#x1F468;&#x200D;&#x1F3EB; |  | &#x1F468;&#x200D;&#x1F3EB; | &#x1F468;&#x200D;&#x1F3EB; | 
+| <small>1F469 200D 1F3EB</small><br>woman teacher<br>&#x1F469;&#x200D;&#x1F3EB; |  | &#x1F469;&#x200D;&#x1F3EB; | &#x1F469;&#x200D;&#x1F3EB; | 
+| <small>1F9D1 200D 2696 FE0F</small><br>judge<br>&#x1F9D1;&#x200D;&#x2696;&#xFE0F; |  | &#x1F9D1;&#x200D;&#x2696;&#xFE0F; | &#x1F9D1;&#x200D;&#x2696;&#xFE0F; | 
+| <small>1F468 200D 2696 FE0F</small><br>man judge<br>&#x1F468;&#x200D;&#x2696;&#xFE0F; |  | &#x1F468;&#x200D;&#x2696;&#xFE0F; | &#x1F468;&#x200D;&#x2696;&#xFE0F; | 
+| <small>1F469 200D 2696 FE0F</small><br>woman judge<br>&#x1F469;&#x200D;&#x2696;&#xFE0F; |  | &#x1F469;&#x200D;&#x2696;&#xFE0F; | &#x1F469;&#x200D;&#x2696;&#xFE0F; | 
+| <small>1F9D1 200D 1F33E</small><br>farmer<br>&#x1F9D1;&#x200D;&#x1F33E; |  | &#x1F9D1;&#x200D;&#x1F33E; | &#x1F9D1;&#x200D;&#x1F33E; | 
+| <small>1F468 200D 1F33E</small><br>man farmer<br>&#x1F468;&#x200D;&#x1F33E; |  | &#x1F468;&#x200D;&#x1F33E; | &#x1F468;&#x200D;&#x1F33E; | 
+| <small>1F469 200D 1F33E</small><br>woman farmer<br>&#x1F469;&#x200D;&#x1F33E; |  | &#x1F469;&#x200D;&#x1F33E; | &#x1F469;&#x200D;&#x1F33E; | 
+| <small>1F9D1 200D 1F373</small><br>cook<br>&#x1F9D1;&#x200D;&#x1F373; |  | &#x1F9D1;&#x200D;&#x1F373; | &#x1F9D1;&#x200D;&#x1F373; | 
+| <small>1F468 200D 1F373</small><br>man cook<br>&#x1F468;&#x200D;&#x1F373; |  | &#x1F468;&#x200D;&#x1F373; | &#x1F468;&#x200D;&#x1F373; | 
+| <small>1F469 200D 1F373</small><br>woman cook<br>&#x1F469;&#x200D;&#x1F373; |  | &#x1F469;&#x200D;&#x1F373; | &#x1F469;&#x200D;&#x1F373; | 
+| <small>1F9D1 200D 1F527</small><br>mechanic<br>&#x1F9D1;&#x200D;&#x1F527; |  | &#x1F9D1;&#x200D;&#x1F527; | &#x1F9D1;&#x200D;&#x1F527; | 
+| <small>1F468 200D 1F527</small><br>man mechanic<br>&#x1F468;&#x200D;&#x1F527; |  | &#x1F468;&#x200D;&#x1F527; | &#x1F468;&#x200D;&#x1F527; | 
+| <small>1F469 200D 1F527</small><br>woman mechanic<br>&#x1F469;&#x200D;&#x1F527; |  | &#x1F469;&#x200D;&#x1F527; | &#x1F469;&#x200D;&#x1F527; | 
+| <small>1F9D1 200D 1F3ED</small><br>factory worker<br>&#x1F9D1;&#x200D;&#x1F3ED; |  | &#x1F9D1;&#x200D;&#x1F3ED; | &#x1F9D1;&#x200D;&#x1F3ED; | 
+| <small>1F468 200D 1F3ED</small><br>man factory worker<br>&#x1F468;&#x200D;&#x1F3ED; |  | &#x1F468;&#x200D;&#x1F3ED; | &#x1F468;&#x200D;&#x1F3ED; | 
+| <small>1F469 200D 1F3ED</small><br>woman factory worker<br>&#x1F469;&#x200D;&#x1F3ED; |  | &#x1F469;&#x200D;&#x1F3ED; | &#x1F469;&#x200D;&#x1F3ED; | 
+| <small>1F9D1 200D 1F4BC</small><br>office worker<br>&#x1F9D1;&#x200D;&#x1F4BC; |  | &#x1F9D1;&#x200D;&#x1F4BC; | &#x1F9D1;&#x200D;&#x1F4BC; | 
+| <small>1F468 200D 1F4BC</small><br>man office worker<br>&#x1F468;&#x200D;&#x1F4BC; |  | &#x1F468;&#x200D;&#x1F4BC; | &#x1F468;&#x200D;&#x1F4BC; | 
+| <small>1F469 200D 1F4BC</small><br>woman office worker<br>&#x1F469;&#x200D;&#x1F4BC; |  | &#x1F469;&#x200D;&#x1F4BC; | &#x1F469;&#x200D;&#x1F4BC; | 
+| <small>1F9D1 200D 1F52C</small><br>scientist<br>&#x1F9D1;&#x200D;&#x1F52C; |  | &#x1F9D1;&#x200D;&#x1F52C; | &#x1F9D1;&#x200D;&#x1F52C; | 
+| <small>1F468 200D 1F52C</small><br>man scientist<br>&#x1F468;&#x200D;&#x1F52C; |  | &#x1F468;&#x200D;&#x1F52C; | &#x1F468;&#x200D;&#x1F52C; | 
+| <small>1F469 200D 1F52C</small><br>woman scientist<br>&#x1F469;&#x200D;&#x1F52C; |  | &#x1F469;&#x200D;&#x1F52C; | &#x1F469;&#x200D;&#x1F52C; | 
+| <small>1F9D1 200D 1F4BB</small><br>technologist<br>&#x1F9D1;&#x200D;&#x1F4BB; |  | &#x1F9D1;&#x200D;&#x1F4BB; | &#x1F9D1;&#x200D;&#x1F4BB; | 
+| <small>1F468 200D 1F4BB</small><br>man technologist<br>&#x1F468;&#x200D;&#x1F4BB; |  | &#x1F468;&#x200D;&#x1F4BB; | &#x1F468;&#x200D;&#x1F4BB; | 
+| <small>1F469 200D 1F4BB</small><br>woman technologist<br>&#x1F469;&#x200D;&#x1F4BB; |  | &#x1F469;&#x200D;&#x1F4BB; | &#x1F469;&#x200D;&#x1F4BB; | 
+| <small>1F9D1 200D 1F3A4</small><br>singer<br>&#x1F9D1;&#x200D;&#x1F3A4; |  | &#x1F9D1;&#x200D;&#x1F3A4; | &#x1F9D1;&#x200D;&#x1F3A4; | 
+| <small>1F468 200D 1F3A4</small><br>man singer<br>&#x1F468;&#x200D;&#x1F3A4; |  | &#x1F468;&#x200D;&#x1F3A4; | &#x1F468;&#x200D;&#x1F3A4; | 
+| <small>1F469 200D 1F3A4</small><br>woman singer<br>&#x1F469;&#x200D;&#x1F3A4; |  | &#x1F469;&#x200D;&#x1F3A4; | &#x1F469;&#x200D;&#x1F3A4; | 
+| <small>1F9D1 200D 1F3A8</small><br>artist<br>&#x1F9D1;&#x200D;&#x1F3A8; |  | &#x1F9D1;&#x200D;&#x1F3A8; | &#x1F9D1;&#x200D;&#x1F3A8; | 
+| <small>1F468 200D 1F3A8</small><br>man artist<br>&#x1F468;&#x200D;&#x1F3A8; |  | &#x1F468;&#x200D;&#x1F3A8; | &#x1F468;&#x200D;&#x1F3A8; | 
+| <small>1F469 200D 1F3A8</small><br>woman artist<br>&#x1F469;&#x200D;&#x1F3A8; |  | &#x1F469;&#x200D;&#x1F3A8; | &#x1F469;&#x200D;&#x1F3A8; | 
+| <small>1F9D1 200D 2708 FE0F</small><br>pilot<br>&#x1F9D1;&#x200D;&#x2708;&#xFE0F; |  | &#x1F9D1;&#x200D;&#x2708;&#xFE0F; | &#x1F9D1;&#x200D;&#x2708;&#xFE0F; | 
+| <small>1F468 200D 2708 FE0F</small><br>man pilot<br>&#x1F468;&#x200D;&#x2708;&#xFE0F; |  | &#x1F468;&#x200D;&#x2708;&#xFE0F; | &#x1F468;&#x200D;&#x2708;&#xFE0F; | 
+| <small>1F469 200D 2708 FE0F</small><br>woman pilot<br>&#x1F469;&#x200D;&#x2708;&#xFE0F; |  | &#x1F469;&#x200D;&#x2708;&#xFE0F; | &#x1F469;&#x200D;&#x2708;&#xFE0F; | 
+| <small>1F9D1 200D 1F680</small><br>astronaut<br>&#x1F9D1;&#x200D;&#x1F680; |  | &#x1F9D1;&#x200D;&#x1F680; | &#x1F9D1;&#x200D;&#x1F680; | 
+| <small>1F468 200D 1F680</small><br>man astronaut<br>&#x1F468;&#x200D;&#x1F680; |  | &#x1F468;&#x200D;&#x1F680; | &#x1F468;&#x200D;&#x1F680; | 
+| <small>1F469 200D 1F680</small><br>woman astronaut<br>&#x1F469;&#x200D;&#x1F680; |  | &#x1F469;&#x200D;&#x1F680; | &#x1F469;&#x200D;&#x1F680; | 
+| <small>1F9D1 200D 1F692</small><br>firefighter<br>&#x1F9D1;&#x200D;&#x1F692; |  | &#x1F9D1;&#x200D;&#x1F692; | &#x1F9D1;&#x200D;&#x1F692; | 
+| <small>1F468 200D 1F692</small><br>man firefighter<br>&#x1F468;&#x200D;&#x1F692; |  | &#x1F468;&#x200D;&#x1F692; | &#x1F468;&#x200D;&#x1F692; | 
+| <small>1F469 200D 1F692</small><br>woman firefighter<br>&#x1F469;&#x200D;&#x1F692; |  | &#x1F469;&#x200D;&#x1F692; | &#x1F469;&#x200D;&#x1F692; | 
+| <small>1F46E</small><br>police officer<br>&#x1F46E; | &#x1F46E; | &#x1F46E; | &#x1F46E; | 
+| <small>1F46E 200D 2642 FE0F</small><br>man police officer<br>&#x1F46E;&#x200D;&#x2642;&#xFE0F; |  | &#x1F46E;&#x200D;&#x2642;&#xFE0F; | &#x1F46E;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F46E 200D 2640 FE0F</small><br>woman police officer<br>&#x1F46E;&#x200D;&#x2640;&#xFE0F; |  | &#x1F46E;&#x200D;&#x2640;&#xFE0F; | &#x1F46E;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F575 FE0F</small><br>detective<br>&#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | &#x1F575;&#xFE0F; | 
+| <small>1F575 FE0F 200D 2642 FE0F</small><br>man detective<br>&#x1F575;&#xFE0F;&#x200D;&#x2642;&#xFE0F; |  | &#x1F575;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x1F575;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F575 FE0F 200D 2640 FE0F</small><br>woman detective<br>&#x1F575;&#xFE0F;&#x200D;&#x2640;&#xFE0F; |  | &#x1F575;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x1F575;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F482</small><br>guard<br>&#x1F482; | &#x1F482; | &#x1F482; | &#x1F482; | 
+| <small>1F482 200D 2642 FE0F</small><br>man guard<br>&#x1F482;&#x200D;&#x2642;&#xFE0F; |  | &#x1F482;&#x200D;&#x2642;&#xFE0F; | &#x1F482;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F482 200D 2640 FE0F</small><br>woman guard<br>&#x1F482;&#x200D;&#x2640;&#xFE0F; |  | &#x1F482;&#x200D;&#x2640;&#xFE0F; | &#x1F482;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F977</small><br>ninja<br>&#x1F977; |  | &#x1F977; | &#x1F977; | 
+| <small>1F477</small><br>construction worker<br>&#x1F477; | &#x1F477; | &#x1F477; | &#x1F477; | 
+| <small>1F477 200D 2642 FE0F</small><br>man construction worker<br>&#x1F477;&#x200D;&#x2642;&#xFE0F; |  | &#x1F477;&#x200D;&#x2642;&#xFE0F; | &#x1F477;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F477 200D 2640 FE0F</small><br>woman construction worker<br>&#x1F477;&#x200D;&#x2640;&#xFE0F; |  | &#x1F477;&#x200D;&#x2640;&#xFE0F; | &#x1F477;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F934</small><br>prince<br>&#x1F934; | &#x1F934; | &#x1F934; | &#x1F934; | 
+| <small>1F478</small><br>princess<br>&#x1F478; | &#x1F478; | &#x1F478; | &#x1F478; | 
+| <small>1F473</small><br>person wearing turban<br>&#x1F473; | &#x1F473; | &#x1F473; | &#x1F473; | 
+| <small>1F473 200D 2642 FE0F</small><br>man wearing turban<br>&#x1F473;&#x200D;&#x2642;&#xFE0F; |  | &#x1F473;&#x200D;&#x2642;&#xFE0F; | &#x1F473;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F473 200D 2640 FE0F</small><br>woman wearing turban<br>&#x1F473;&#x200D;&#x2640;&#xFE0F; |  | &#x1F473;&#x200D;&#x2640;&#xFE0F; | &#x1F473;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F472</small><br>person with skullcap<br>&#x1F472; | &#x1F472; | &#x1F472; | &#x1F472; | 
+| <small>1F9D5</small><br>woman with headscarf<br>&#x1F9D5; |  | &#x1F9D5; | &#x1F9D5; | 
+| <small>1F935</small><br>person in tuxedo<br>&#x1F935; | &#x1F935; | &#x1F935; | &#x1F935; | 
+| <small>1F935 200D 2642 FE0F</small><br>man in tuxedo<br>&#x1F935;&#x200D;&#x2642;&#xFE0F; |  | &#x1F935;&#x200D;&#x2642;&#xFE0F; | &#x1F935;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F935 200D 2640 FE0F</small><br>woman in tuxedo<br>&#x1F935;&#x200D;&#x2640;&#xFE0F; |  | &#x1F935;&#x200D;&#x2640;&#xFE0F; | &#x1F935;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F470</small><br>person with veil<br>&#x1F470; | &#x1F470; | &#x1F470; | &#x1F470; | 
+| <small>1F470 200D 2642 FE0F</small><br>man with veil<br>&#x1F470;&#x200D;&#x2642;&#xFE0F; |  | &#x1F470;&#x200D;&#x2642;&#xFE0F; | &#x1F470;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F470 200D 2640 FE0F</small><br>woman with veil<br>&#x1F470;&#x200D;&#x2640;&#xFE0F; |  | &#x1F470;&#x200D;&#x2640;&#xFE0F; | &#x1F470;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F930</small><br>pregnant woman<br>&#x1F930; | &#x1F930; | &#x1F930; | &#x1F930; | 
+| <small>1F931</small><br>breast-feeding<br>&#x1F931; |  | &#x1F931; | &#x1F931; | 
+| <small>1F469 200D 1F37C</small><br>woman feeding baby<br>&#x1F469;&#x200D;&#x1F37C; |  | &#x1F469;&#x200D;&#x1F37C; | &#x1F469;&#x200D;&#x1F37C; | 
+| <small>1F468 200D 1F37C</small><br>man feeding baby<br>&#x1F468;&#x200D;&#x1F37C; |  | &#x1F468;&#x200D;&#x1F37C; | &#x1F468;&#x200D;&#x1F37C; | 
+| <small>1F9D1 200D 1F37C</small><br>person feeding baby<br>&#x1F9D1;&#x200D;&#x1F37C; |  | &#x1F9D1;&#x200D;&#x1F37C; | &#x1F9D1;&#x200D;&#x1F37C; | 
+
+#### person-fantasy
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F47C</small><br>baby angel<br>&#x1F47C; | &#x1F47C; | &#x1F47C; | &#x1F47C; | 
+| <small>1F385</small><br>Santa Claus<br>&#x1F385; | &#x1F385; | &#x1F385; | &#x1F385; | 
+| <small>1F936</small><br>Mrs. Claus<br>&#x1F936; | &#x1F936; | &#x1F936; | &#x1F936; | 
+| <small>1F9D1 200D 1F384</small><br>mx claus<br>&#x1F9D1;&#x200D;&#x1F384; |  | &#x1F9D1;&#x200D;&#x1F384; | &#x1F9D1;&#x200D;&#x1F384; | 
+| <small>1F9B8</small><br>superhero<br>&#x1F9B8; |  | &#x1F9B8; | &#x1F9B8; | 
+| <small>1F9B8 200D 2642 FE0F</small><br>man superhero<br>&#x1F9B8;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9B8;&#x200D;&#x2642;&#xFE0F; | &#x1F9B8;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9B8 200D 2640 FE0F</small><br>woman superhero<br>&#x1F9B8;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9B8;&#x200D;&#x2640;&#xFE0F; | &#x1F9B8;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9B9</small><br>supervillain<br>&#x1F9B9; |  | &#x1F9B9; | &#x1F9B9; | 
+| <small>1F9B9 200D 2642 FE0F</small><br>man supervillain<br>&#x1F9B9;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9B9;&#x200D;&#x2642;&#xFE0F; | &#x1F9B9;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9B9 200D 2640 FE0F</small><br>woman supervillain<br>&#x1F9B9;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9B9;&#x200D;&#x2640;&#xFE0F; | &#x1F9B9;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9D9</small><br>mage<br>&#x1F9D9; |  | &#x1F9D9; | &#x1F9D9; | 
+| <small>1F9D9 200D 2642 FE0F</small><br>man mage<br>&#x1F9D9;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | &#x1F9D9;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9D9 200D 2640 FE0F</small><br>woman mage<br>&#x1F9D9;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | &#x1F9D9;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9DA</small><br>fairy<br>&#x1F9DA; |  | &#x1F9DA; | &#x1F9DA; | 
+| <small>1F9DA 200D 2642 FE0F</small><br>man fairy<br>&#x1F9DA;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | &#x1F9DA;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9DA 200D 2640 FE0F</small><br>woman fairy<br>&#x1F9DA;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | &#x1F9DA;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9DB</small><br>vampire<br>&#x1F9DB; |  | &#x1F9DB; | &#x1F9DB; | 
+| <small>1F9DB 200D 2642 FE0F</small><br>man vampire<br>&#x1F9DB;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | &#x1F9DB;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9DB 200D 2640 FE0F</small><br>woman vampire<br>&#x1F9DB;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | &#x1F9DB;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9DC</small><br>merperson<br>&#x1F9DC; |  | &#x1F9DC; | &#x1F9DC; | 
+| <small>1F9DC 200D 2642 FE0F</small><br>merman<br>&#x1F9DC;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | &#x1F9DC;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9DC 200D 2640 FE0F</small><br>mermaid<br>&#x1F9DC;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | &#x1F9DC;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9DD</small><br>elf<br>&#x1F9DD; |  | &#x1F9DD; | &#x1F9DD; | 
+| <small>1F9DD 200D 2642 FE0F</small><br>man elf<br>&#x1F9DD;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | &#x1F9DD;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9DD 200D 2640 FE0F</small><br>woman elf<br>&#x1F9DD;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | &#x1F9DD;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9DE</small><br>genie<br>&#x1F9DE; |  | &#x1F9DE; | &#x1F9DE; | 
+| <small>1F9DE 200D 2642 FE0F</small><br>man genie<br>&#x1F9DE;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | &#x1F9DE;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9DE 200D 2640 FE0F</small><br>woman genie<br>&#x1F9DE;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | &#x1F9DE;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9DF</small><br>zombie<br>&#x1F9DF; |  | &#x1F9DF; | &#x1F9DF; | 
+| <small>1F9DF 200D 2642 FE0F</small><br>man zombie<br>&#x1F9DF;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9DF 200D 2640 FE0F</small><br>woman zombie<br>&#x1F9DF;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | 
+
+#### person-activity
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F486</small><br>person getting massage<br>&#x1F486; | &#x1F486; | &#x1F486; | &#x1F486; | 
+| <small>1F486 200D 2642 FE0F</small><br>man getting massage<br>&#x1F486;&#x200D;&#x2642;&#xFE0F; |  | &#x1F486;&#x200D;&#x2642;&#xFE0F; | &#x1F486;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F486 200D 2640 FE0F</small><br>woman getting massage<br>&#x1F486;&#x200D;&#x2640;&#xFE0F; |  | &#x1F486;&#x200D;&#x2640;&#xFE0F; | &#x1F486;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F487</small><br>person getting haircut<br>&#x1F487; | &#x1F487; | &#x1F487; | &#x1F487; | 
+| <small>1F487 200D 2642 FE0F</small><br>man getting haircut<br>&#x1F487;&#x200D;&#x2642;&#xFE0F; |  | &#x1F487;&#x200D;&#x2642;&#xFE0F; | &#x1F487;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F487 200D 2640 FE0F</small><br>woman getting haircut<br>&#x1F487;&#x200D;&#x2640;&#xFE0F; |  | &#x1F487;&#x200D;&#x2640;&#xFE0F; | &#x1F487;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F6B6</small><br>person walking<br>&#x1F6B6; | &#x1F6B6; | &#x1F6B6; | &#x1F6B6; | 
+| <small>1F6B6 200D 2642 FE0F</small><br>man walking<br>&#x1F6B6;&#x200D;&#x2642;&#xFE0F; |  | &#x1F6B6;&#x200D;&#x2642;&#xFE0F; | &#x1F6B6;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F6B6 200D 2640 FE0F</small><br>woman walking<br>&#x1F6B6;&#x200D;&#x2640;&#xFE0F; |  | &#x1F6B6;&#x200D;&#x2640;&#xFE0F; | &#x1F6B6;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9CD</small><br>person standing<br>&#x1F9CD; |  | &#x1F9CD; | &#x1F9CD; | 
+| <small>1F9CD 200D 2642 FE0F</small><br>man standing<br>&#x1F9CD;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9CD;&#x200D;&#x2642;&#xFE0F; | &#x1F9CD;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9CD 200D 2640 FE0F</small><br>woman standing<br>&#x1F9CD;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9CD;&#x200D;&#x2640;&#xFE0F; | &#x1F9CD;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9CE</small><br>person kneeling<br>&#x1F9CE; |  | &#x1F9CE; | &#x1F9CE; | 
+| <small>1F9CE 200D 2642 FE0F</small><br>man kneeling<br>&#x1F9CE;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9CE;&#x200D;&#x2642;&#xFE0F; | &#x1F9CE;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9CE 200D 2640 FE0F</small><br>woman kneeling<br>&#x1F9CE;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9CE;&#x200D;&#x2640;&#xFE0F; | &#x1F9CE;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9D1 200D 1F9AF</small><br>person with white cane<br>&#x1F9D1;&#x200D;&#x1F9AF; |  | &#x1F9D1;&#x200D;&#x1F9AF; | &#x1F9D1;&#x200D;&#x1F9AF; | 
+| <small>1F468 200D 1F9AF</small><br>man with white cane<br>&#x1F468;&#x200D;&#x1F9AF; |  | &#x1F468;&#x200D;&#x1F9AF; | &#x1F468;&#x200D;&#x1F9AF; | 
+| <small>1F469 200D 1F9AF</small><br>woman with white cane<br>&#x1F469;&#x200D;&#x1F9AF; |  | &#x1F469;&#x200D;&#x1F9AF; | &#x1F469;&#x200D;&#x1F9AF; | 
+| <small>1F9D1 200D 1F9BC</small><br>person in motorized wheelchair<br>&#x1F9D1;&#x200D;&#x1F9BC; |  | &#x1F9D1;&#x200D;&#x1F9BC; | &#x1F9D1;&#x200D;&#x1F9BC; | 
+| <small>1F468 200D 1F9BC</small><br>man in motorized wheelchair<br>&#x1F468;&#x200D;&#x1F9BC; |  | &#x1F468;&#x200D;&#x1F9BC; | &#x1F468;&#x200D;&#x1F9BC; | 
+| <small>1F469 200D 1F9BC</small><br>woman in motorized wheelchair<br>&#x1F469;&#x200D;&#x1F9BC; |  | &#x1F469;&#x200D;&#x1F9BC; | &#x1F469;&#x200D;&#x1F9BC; | 
+| <small>1F9D1 200D 1F9BD</small><br>person in manual wheelchair<br>&#x1F9D1;&#x200D;&#x1F9BD; |  | &#x1F9D1;&#x200D;&#x1F9BD; | &#x1F9D1;&#x200D;&#x1F9BD; | 
+| <small>1F468 200D 1F9BD</small><br>man in manual wheelchair<br>&#x1F468;&#x200D;&#x1F9BD; |  | &#x1F468;&#x200D;&#x1F9BD; | &#x1F468;&#x200D;&#x1F9BD; | 
+| <small>1F469 200D 1F9BD</small><br>woman in manual wheelchair<br>&#x1F469;&#x200D;&#x1F9BD; |  | &#x1F469;&#x200D;&#x1F9BD; | &#x1F469;&#x200D;&#x1F9BD; | 
+| <small>1F3C3</small><br>person running<br>&#x1F3C3; | &#x1F3C3; | &#x1F3C3; | &#x1F3C3; | 
+| <small>1F3C3 200D 2642 FE0F</small><br>man running<br>&#x1F3C3;&#x200D;&#x2642;&#xFE0F; |  | &#x1F3C3;&#x200D;&#x2642;&#xFE0F; | &#x1F3C3;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F3C3 200D 2640 FE0F</small><br>woman running<br>&#x1F3C3;&#x200D;&#x2640;&#xFE0F; |  | &#x1F3C3;&#x200D;&#x2640;&#xFE0F; | &#x1F3C3;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F483</small><br>woman dancing<br>&#x1F483; | &#x1F483; | &#x1F483; | &#x1F483; | 
+| <small>1F57A</small><br>man dancing<br>&#x1F57A; | &#x1F57A; | &#x1F57A; | &#x1F57A; | 
+| <small>1F574 FE0F</small><br>person in suit levitating<br>&#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | &#x1F574;&#xFE0F; | 
+| <small>1F46F</small><br>people with bunny ears<br>&#x1F46F; | &#x1F46F; | &#x1F46F; | &#x1F46F; | 
+| <small>1F46F 200D 2642 FE0F</small><br>men with bunny ears<br>&#x1F46F;&#x200D;&#x2642;&#xFE0F; |  | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | &#x1F46F;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F46F 200D 2640 FE0F</small><br>women with bunny ears<br>&#x1F46F;&#x200D;&#x2640;&#xFE0F; |  | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | &#x1F46F;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9D6</small><br>person in steamy room<br>&#x1F9D6; |  | &#x1F9D6; | &#x1F9D6; | 
+| <small>1F9D6 200D 2642 FE0F</small><br>man in steamy room<br>&#x1F9D6;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | &#x1F9D6;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9D6 200D 2640 FE0F</small><br>woman in steamy room<br>&#x1F9D6;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | &#x1F9D6;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9D7</small><br>person climbing<br>&#x1F9D7; |  | &#x1F9D7; | &#x1F9D7; | 
+| <small>1F9D7 200D 2642 FE0F</small><br>man climbing<br>&#x1F9D7;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | &#x1F9D7;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9D7 200D 2640 FE0F</small><br>woman climbing<br>&#x1F9D7;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | &#x1F9D7;&#x200D;&#x2640;&#xFE0F; | 
+
+#### person-sport
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F93A</small><br>person fencing<br>&#x1F93A; | &#x1F93A; | &#x1F93A; | &#x1F93A; | 
+| <small>1F3C7</small><br>horse racing<br>&#x1F3C7; | &#x1F3C7; | &#x1F3C7; | &#x1F3C7; | 
+| <small>26F7 FE0F</small><br>skier<br>&#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | &#x26F7;&#xFE0F; | 
+| <small>1F3C2</small><br>snowboarder<br>&#x1F3C2; | &#x1F3C2; | &#x1F3C2; | &#x1F3C2; | 
+| <small>1F3CC FE0F</small><br>person golfing<br>&#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | &#x1F3CC;&#xFE0F; | 
+| <small>1F3CC FE0F 200D 2642 FE0F</small><br>man golfing<br>&#x1F3CC;&#xFE0F;&#x200D;&#x2642;&#xFE0F; |  | &#x1F3CC;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x1F3CC;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F3CC FE0F 200D 2640 FE0F</small><br>woman golfing<br>&#x1F3CC;&#xFE0F;&#x200D;&#x2640;&#xFE0F; |  | &#x1F3CC;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x1F3CC;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F3C4</small><br>person surfing<br>&#x1F3C4; | &#x1F3C4; | &#x1F3C4; | &#x1F3C4; | 
+| <small>1F3C4 200D 2642 FE0F</small><br>man surfing<br>&#x1F3C4;&#x200D;&#x2642;&#xFE0F; |  | &#x1F3C4;&#x200D;&#x2642;&#xFE0F; | &#x1F3C4;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F3C4 200D 2640 FE0F</small><br>woman surfing<br>&#x1F3C4;&#x200D;&#x2640;&#xFE0F; |  | &#x1F3C4;&#x200D;&#x2640;&#xFE0F; | &#x1F3C4;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F6A3</small><br>person rowing boat<br>&#x1F6A3; | &#x1F6A3; | &#x1F6A3; | &#x1F6A3; | 
+| <small>1F6A3 200D 2642 FE0F</small><br>man rowing boat<br>&#x1F6A3;&#x200D;&#x2642;&#xFE0F; |  | &#x1F6A3;&#x200D;&#x2642;&#xFE0F; | &#x1F6A3;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F6A3 200D 2640 FE0F</small><br>woman rowing boat<br>&#x1F6A3;&#x200D;&#x2640;&#xFE0F; |  | &#x1F6A3;&#x200D;&#x2640;&#xFE0F; | &#x1F6A3;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F3CA</small><br>person swimming<br>&#x1F3CA; | &#x1F3CA; | &#x1F3CA; | &#x1F3CA; | 
+| <small>1F3CA 200D 2642 FE0F</small><br>man swimming<br>&#x1F3CA;&#x200D;&#x2642;&#xFE0F; |  | &#x1F3CA;&#x200D;&#x2642;&#xFE0F; | &#x1F3CA;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F3CA 200D 2640 FE0F</small><br>woman swimming<br>&#x1F3CA;&#x200D;&#x2640;&#xFE0F; |  | &#x1F3CA;&#x200D;&#x2640;&#xFE0F; | &#x1F3CA;&#x200D;&#x2640;&#xFE0F; | 
+| <small>26F9 FE0F</small><br>person bouncing ball<br>&#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | &#x26F9;&#xFE0F; | 
+| <small>26F9 FE0F 200D 2642 FE0F</small><br>man bouncing ball<br>&#x26F9;&#xFE0F;&#x200D;&#x2642;&#xFE0F; |  | &#x26F9;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x26F9;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | 
+| <small>26F9 FE0F 200D 2640 FE0F</small><br>woman bouncing ball<br>&#x26F9;&#xFE0F;&#x200D;&#x2640;&#xFE0F; |  | &#x26F9;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x26F9;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F3CB FE0F</small><br>person lifting weights<br>&#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | &#x1F3CB;&#xFE0F; | 
+| <small>1F3CB FE0F 200D 2642 FE0F</small><br>man lifting weights<br>&#x1F3CB;&#xFE0F;&#x200D;&#x2642;&#xFE0F; |  | &#x1F3CB;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | &#x1F3CB;&#xFE0F;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F3CB FE0F 200D 2640 FE0F</small><br>woman lifting weights<br>&#x1F3CB;&#xFE0F;&#x200D;&#x2640;&#xFE0F; |  | &#x1F3CB;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | &#x1F3CB;&#xFE0F;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F6B4</small><br>person biking<br>&#x1F6B4; | &#x1F6B4; | &#x1F6B4; | &#x1F6B4; | 
+| <small>1F6B4 200D 2642 FE0F</small><br>man biking<br>&#x1F6B4;&#x200D;&#x2642;&#xFE0F; |  | &#x1F6B4;&#x200D;&#x2642;&#xFE0F; | &#x1F6B4;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F6B4 200D 2640 FE0F</small><br>woman biking<br>&#x1F6B4;&#x200D;&#x2640;&#xFE0F; |  | &#x1F6B4;&#x200D;&#x2640;&#xFE0F; | &#x1F6B4;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F6B5</small><br>person mountain biking<br>&#x1F6B5; | &#x1F6B5; | &#x1F6B5; | &#x1F6B5; | 
+| <small>1F6B5 200D 2642 FE0F</small><br>man mountain biking<br>&#x1F6B5;&#x200D;&#x2642;&#xFE0F; |  | &#x1F6B5;&#x200D;&#x2642;&#xFE0F; | &#x1F6B5;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F6B5 200D 2640 FE0F</small><br>woman mountain biking<br>&#x1F6B5;&#x200D;&#x2640;&#xFE0F; |  | &#x1F6B5;&#x200D;&#x2640;&#xFE0F; | &#x1F6B5;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F938</small><br>person cartwheeling<br>&#x1F938; | &#x1F938; | &#x1F938; | &#x1F938; | 
+| <small>1F938 200D 2642 FE0F</small><br>man cartwheeling<br>&#x1F938;&#x200D;&#x2642;&#xFE0F; |  | &#x1F938;&#x200D;&#x2642;&#xFE0F; | &#x1F938;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F938 200D 2640 FE0F</small><br>woman cartwheeling<br>&#x1F938;&#x200D;&#x2640;&#xFE0F; |  | &#x1F938;&#x200D;&#x2640;&#xFE0F; | &#x1F938;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F93C</small><br>people wrestling<br>&#x1F93C; | &#x1F93C; | &#x1F93C; | &#x1F93C; | 
+| <small>1F93C 200D 2642 FE0F</small><br>men wrestling<br>&#x1F93C;&#x200D;&#x2642;&#xFE0F; |  | &#x1F93C;&#x200D;&#x2642;&#xFE0F; | &#x1F93C;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F93C 200D 2640 FE0F</small><br>women wrestling<br>&#x1F93C;&#x200D;&#x2640;&#xFE0F; |  | &#x1F93C;&#x200D;&#x2640;&#xFE0F; | &#x1F93C;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F93D</small><br>person playing water polo<br>&#x1F93D; | &#x1F93D; | &#x1F93D; | &#x1F93D; | 
+| <small>1F93D 200D 2642 FE0F</small><br>man playing water polo<br>&#x1F93D;&#x200D;&#x2642;&#xFE0F; |  | &#x1F93D;&#x200D;&#x2642;&#xFE0F; | &#x1F93D;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F93D 200D 2640 FE0F</small><br>woman playing water polo<br>&#x1F93D;&#x200D;&#x2640;&#xFE0F; |  | &#x1F93D;&#x200D;&#x2640;&#xFE0F; | &#x1F93D;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F93E</small><br>person playing handball<br>&#x1F93E; | &#x1F93E; | &#x1F93E; | &#x1F93E; | 
+| <small>1F93E 200D 2642 FE0F</small><br>man playing handball<br>&#x1F93E;&#x200D;&#x2642;&#xFE0F; |  | &#x1F93E;&#x200D;&#x2642;&#xFE0F; | &#x1F93E;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F93E 200D 2640 FE0F</small><br>woman playing handball<br>&#x1F93E;&#x200D;&#x2640;&#xFE0F; |  | &#x1F93E;&#x200D;&#x2640;&#xFE0F; | &#x1F93E;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F939</small><br>person juggling<br>&#x1F939; | &#x1F939; | &#x1F939; | &#x1F939; | 
+| <small>1F939 200D 2642 FE0F</small><br>man juggling<br>&#x1F939;&#x200D;&#x2642;&#xFE0F; |  | &#x1F939;&#x200D;&#x2642;&#xFE0F; | &#x1F939;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F939 200D 2640 FE0F</small><br>woman juggling<br>&#x1F939;&#x200D;&#x2640;&#xFE0F; |  | &#x1F939;&#x200D;&#x2640;&#xFE0F; | &#x1F939;&#x200D;&#x2640;&#xFE0F; | 
+
+#### person-resting
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F9D8</small><br>person in lotus position<br>&#x1F9D8; |  | &#x1F9D8; | &#x1F9D8; | 
+| <small>1F9D8 200D 2642 FE0F</small><br>man in lotus position<br>&#x1F9D8;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | &#x1F9D8;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9D8 200D 2640 FE0F</small><br>woman in lotus position<br>&#x1F9D8;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | &#x1F9D8;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F6C0</small><br>person taking bath<br>&#x1F6C0; | &#x1F6C0; | &#x1F6C0; | &#x1F6C0; | 
+| <small>1F6CC</small><br>person in bed<br>&#x1F6CC; | &#x1F6CC; | &#x1F6CC; | &#x1F6CC; | 
+
+#### family
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F9D1 200D 1F91D 200D 1F9D1</small><br>people holding hands<br>&#x1F9D1;&#x200D;&#x1F91D;&#x200D;&#x1F9D1; |  | &#x1F9D1;&#x200D;&#x1F91D;&#x200D;&#x1F9D1; | &#x1F9D1;&#x200D;&#x1F91D;&#x200D;&#x1F9D1; | 
+| <small>1F46D</small><br>women holding hands<br>&#x1F46D; | &#x1F46D; | &#x1F46D; | &#x1F46D; | 
+| <small>1F46B</small><br>woman and man holding hands<br>&#x1F46B; | &#x1F46B; | &#x1F46B; | &#x1F46B; | 
+| <small>1F46C</small><br>men holding hands<br>&#x1F46C; | &#x1F46C; | &#x1F46C; | &#x1F46C; | 
+| <small>1F48F</small><br>kiss<br>&#x1F48F; | &#x1F48F; | &#x1F48F; | &#x1F48F; | 
+| <small>1F469 200D 2764 FE0F 200D 1F48B 200D 1F468</small><br>kiss: woman, man<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; |  | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | 
+| <small>1F468 200D 2764 FE0F 200D 1F48B 200D 1F468</small><br>kiss: man, man<br>&#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F468; | 
+| <small>1F469 200D 2764 FE0F 200D 1F48B 200D 1F469</small><br>kiss: woman, woman<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F48B;&#x200D;&#x1F469; | 
+| <small>1F491</small><br>couple with heart<br>&#x1F491; | &#x1F491; | &#x1F491; | &#x1F491; | 
+| <small>1F469 200D 2764 FE0F 200D 1F468</small><br>couple with heart: woman, man<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; |  | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | 
+| <small>1F468 200D 2764 FE0F 200D 1F468</small><br>couple with heart: man, man<br>&#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | &#x1F468;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F468; | 
+| <small>1F469 200D 2764 FE0F 200D 1F469</small><br>couple with heart: woman, woman<br>&#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | &#x1F469;&#x200D;&#x2764;&#xFE0F;&#x200D;&#x1F469; | 
+| <small>1F46A</small><br>family<br>&#x1F46A; | &#x1F46A; | &#x1F46A; | &#x1F46A; | 
+| <small>1F468 200D 1F469 200D 1F466</small><br>family: man, woman, boy<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F469 200D 1F467</small><br>family: man, woman, girl<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467; | 
+| <small>1F468 200D 1F469 200D 1F467 200D 1F466</small><br>family: man, woman, girl, boy<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F469 200D 1F466 200D 1F466</small><br>family: man, woman, boy, boy<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F469 200D 1F467 200D 1F467</small><br>family: man, woman, girl, girl<br>&#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+| <small>1F468 200D 1F468 200D 1F466</small><br>family: man, man, boy<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F468 200D 1F467</small><br>family: man, man, girl<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467; | 
+| <small>1F468 200D 1F468 200D 1F467 200D 1F466</small><br>family: man, man, girl, boy<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F468 200D 1F466 200D 1F466</small><br>family: man, man, boy, boy<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F468 200D 1F467 200D 1F467</small><br>family: man, man, girl, girl<br>&#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+| <small>1F469 200D 1F469 200D 1F466</small><br>family: woman, woman, boy<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466; | 
+| <small>1F469 200D 1F469 200D 1F467</small><br>family: woman, woman, girl<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467; | 
+| <small>1F469 200D 1F469 200D 1F467 200D 1F466</small><br>family: woman, woman, girl, boy<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| <small>1F469 200D 1F469 200D 1F466 200D 1F466</small><br>family: woman, woman, boy, boy<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| <small>1F469 200D 1F469 200D 1F467 200D 1F467</small><br>family: woman, woman, girl, girl<br>&#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+| <small>1F468 200D 1F466</small><br>family: man, boy<br>&#x1F468;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F466 200D 1F466</small><br>family: man, boy, boy<br>&#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F467</small><br>family: man, girl<br>&#x1F468;&#x200D;&#x1F467; |  | &#x1F468;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467; | 
+| <small>1F468 200D 1F467 200D 1F466</small><br>family: man, girl, boy<br>&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; |  | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| <small>1F468 200D 1F467 200D 1F467</small><br>family: man, girl, girl<br>&#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; |  | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F468;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+| <small>1F469 200D 1F466</small><br>family: woman, boy<br>&#x1F469;&#x200D;&#x1F466; |  | &#x1F469;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466; | 
+| <small>1F469 200D 1F466 200D 1F466</small><br>family: woman, boy, boy<br>&#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; |  | &#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F466;&#x200D;&#x1F466; | 
+| <small>1F469 200D 1F467</small><br>family: woman, girl<br>&#x1F469;&#x200D;&#x1F467; |  | &#x1F469;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467; | 
+| <small>1F469 200D 1F467 200D 1F466</small><br>family: woman, girl, boy<br>&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; |  | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F466; | 
+| <small>1F469 200D 1F467 200D 1F467</small><br>family: woman, girl, girl<br>&#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; |  | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | &#x1F469;&#x200D;&#x1F467;&#x200D;&#x1F467; | 
+
+#### person-symbol
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F5E3 FE0F</small><br>speaking head<br>&#x1F5E3;&#xFE0F; | &#x1F5E3;&#xFE0F; | &#x1F5E3;&#xFE0F; | &#x1F5E3;&#xFE0F; | 
+| <small>1F464</small><br>bust in silhouette<br>&#x1F464; | &#x1F464; | &#x1F464; | &#x1F464; | 
+| <small>1F465</small><br>busts in silhouette<br>&#x1F465; | &#x1F465; | &#x1F465; | &#x1F465; | 
+| <small>1FAC2</small><br>people hugging<br>&#x1FAC2; |  | &#x1FAC2; | &#x1FAC2; | 
+| <small>1F463</small><br>footprints<br>&#x1F463; | &#x1F463; | &#x1F463; | &#x1F463; | 
+
+
+### Animals & Nature
+
+#### animal-mammal
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F435</small><br>monkey face<br>&#x1F435; | &#x1F435; | &#x1F435; | &#x1F435; | 
+| <small>1F412</small><br>monkey<br>&#x1F412; | &#x1F412; | &#x1F412; | &#x1F412; | 
+| <small>1F98D</small><br>gorilla<br>&#x1F98D; | &#x1F98D; | &#x1F98D; | &#x1F98D; | 
+| <small>1F9A7</small><br>orangutan<br>&#x1F9A7; |  | &#x1F9A7; | &#x1F9A7; | 
+| <small>1F436</small><br>dog face<br>&#x1F436; | &#x1F436; | &#x1F436; | &#x1F436; | 
+| <small>1F415</small><br>dog<br>&#x1F415; | &#x1F415; | &#x1F415; | &#x1F415; | 
+| <small>1F9AE</small><br>guide dog<br>&#x1F9AE; |  | &#x1F9AE; | &#x1F9AE; | 
+| <small>1F415 200D 1F9BA</small><br>service dog<br>&#x1F415;&#x200D;&#x1F9BA; |  | &#x1F415;&#x200D;&#x1F9BA; | &#x1F415;&#x200D;&#x1F9BA; | 
+| <small>1F429</small><br>poodle<br>&#x1F429; | &#x1F429; | &#x1F429; | &#x1F429; | 
+| <small>1F43A</small><br>wolf<br>&#x1F43A; | &#x1F43A; | &#x1F43A; | &#x1F43A; | 
+| <small>1F98A</small><br>fox<br>&#x1F98A; | &#x1F98A; | &#x1F98A; | &#x1F98A; | 
+| <small>1F99D</small><br>raccoon<br>&#x1F99D; |  | &#x1F99D; | &#x1F99D; | 
+| <small>1F431</small><br>cat face<br>&#x1F431; | &#x1F431; | &#x1F431; | &#x1F431; | 
+| <small>1F408</small><br>cat<br>&#x1F408; | &#x1F408; | &#x1F408; | &#x1F408; | 
+| <small>1F408 200D 2B1B</small><br>black cat<br>&#x1F408;&#x200D;&#x2B1B; |  | &#x1F408;&#x200D;&#x2B1B; | &#x1F408;&#x200D;&#x2B1B; | 
+| <small>1F981</small><br>lion<br>&#x1F981; | &#x1F981; | &#x1F981; | &#x1F981; | 
+| <small>1F42F</small><br>tiger face<br>&#x1F42F; | &#x1F42F; | &#x1F42F; | &#x1F42F; | 
+| <small>1F405</small><br>tiger<br>&#x1F405; | &#x1F405; | &#x1F405; | &#x1F405; | 
+| <small>1F406</small><br>leopard<br>&#x1F406; | &#x1F406; | &#x1F406; | &#x1F406; | 
+| <small>1F434</small><br>horse face<br>&#x1F434; | &#x1F434; | &#x1F434; | &#x1F434; | 
+| <small>1F40E</small><br>horse<br>&#x1F40E; | &#x1F40E; | &#x1F40E; | &#x1F40E; | 
+| <small>1F984</small><br>unicorn<br>&#x1F984; | &#x1F984; | &#x1F984; | &#x1F984; | 
+| <small>1F993</small><br>zebra<br>&#x1F993; |  | &#x1F993; | &#x1F993; | 
+| <small>1F98C</small><br>deer<br>&#x1F98C; | &#x1F98C; | &#x1F98C; | &#x1F98C; | 
+| <small>1F9AC</small><br>bison<br>&#x1F9AC; |  | &#x1F9AC; | &#x1F9AC; | 
+| <small>1F42E</small><br>cow face<br>&#x1F42E; | &#x1F42E; | &#x1F42E; | &#x1F42E; | 
+| <small>1F402</small><br>ox<br>&#x1F402; | &#x1F402; | &#x1F402; | &#x1F402; | 
+| <small>1F403</small><br>water buffalo<br>&#x1F403; | &#x1F403; | &#x1F403; | &#x1F403; | 
+| <small>1F404</small><br>cow<br>&#x1F404; | &#x1F404; | &#x1F404; | &#x1F404; | 
+| <small>1F437</small><br>pig face<br>&#x1F437; | &#x1F437; | &#x1F437; | &#x1F437; | 
+| <small>1F416</small><br>pig<br>&#x1F416; | &#x1F416; | &#x1F416; | &#x1F416; | 
+| <small>1F417</small><br>boar<br>&#x1F417; | &#x1F417; | &#x1F417; | &#x1F417; | 
+| <small>1F43D</small><br>pig nose<br>&#x1F43D; | &#x1F43D; | &#x1F43D; | &#x1F43D; | 
+| <small>1F40F</small><br>ram<br>&#x1F40F; | &#x1F40F; | &#x1F40F; | &#x1F40F; | 
+| <small>1F411</small><br>ewe<br>&#x1F411; | &#x1F411; | &#x1F411; | &#x1F411; | 
+| <small>1F410</small><br>goat<br>&#x1F410; | &#x1F410; | &#x1F410; | &#x1F410; | 
+| <small>1F42A</small><br>camel<br>&#x1F42A; | &#x1F42A; | &#x1F42A; | &#x1F42A; | 
+| <small>1F42B</small><br>two-hump camel<br>&#x1F42B; | &#x1F42B; | &#x1F42B; | &#x1F42B; | 
+| <small>1F999</small><br>llama<br>&#x1F999; |  | &#x1F999; | &#x1F999; | 
+| <small>1F992</small><br>giraffe<br>&#x1F992; |  | &#x1F992; | &#x1F992; | 
+| <small>1F418</small><br>elephant<br>&#x1F418; | &#x1F418; | &#x1F418; | &#x1F418; | 
+| <small>1F9A3</small><br>mammoth<br>&#x1F9A3; |  | &#x1F9A3; | &#x1F9A3; | 
+| <small>1F98F</small><br>rhinoceros<br>&#x1F98F; | &#x1F98F; | &#x1F98F; | &#x1F98F; | 
+| <small>1F99B</small><br>hippopotamus<br>&#x1F99B; |  | &#x1F99B; | &#x1F99B; | 
+| <small>1F42D</small><br>mouse face<br>&#x1F42D; | &#x1F42D; | &#x1F42D; | &#x1F42D; | 
+| <small>1F401</small><br>mouse<br>&#x1F401; | &#x1F401; | &#x1F401; | &#x1F401; | 
+| <small>1F400</small><br>rat<br>&#x1F400; | &#x1F400; | &#x1F400; | &#x1F400; | 
+| <small>1F439</small><br>hamster<br>&#x1F439; | &#x1F439; | &#x1F439; | &#x1F439; | 
+| <small>1F430</small><br>rabbit face<br>&#x1F430; | &#x1F430; | &#x1F430; | &#x1F430; | 
+| <small>1F407</small><br>rabbit<br>&#x1F407; | &#x1F407; | &#x1F407; | &#x1F407; | 
+| <small>1F43F FE0F</small><br>chipmunk<br>&#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | &#x1F43F;&#xFE0F; | 
+| <small>1F9AB</small><br>beaver<br>&#x1F9AB; |  | &#x1F9AB; | &#x1F9AB; | 
+| <small>1F994</small><br>hedgehog<br>&#x1F994; |  | &#x1F994; | &#x1F994; | 
+| <small>1F987</small><br>bat<br>&#x1F987; | &#x1F987; | &#x1F987; | &#x1F987; | 
+| <small>1F43B</small><br>bear<br>&#x1F43B; | &#x1F43B; | &#x1F43B; | &#x1F43B; | 
+| <small>1F43B 200D 2744 FE0F</small><br>polar bear<br>&#x1F43B;&#x200D;&#x2744;&#xFE0F; |  | &#x1F43B;&#x200D;&#x2744;&#xFE0F; | &#x1F43B;&#x200D;&#x2744;&#xFE0F; | 
+| <small>1F428</small><br>koala<br>&#x1F428; | &#x1F428; | &#x1F428; | &#x1F428; | 
+| <small>1F43C</small><br>panda<br>&#x1F43C; | &#x1F43C; | &#x1F43C; | &#x1F43C; | 
+| <small>1F9A5</small><br>sloth<br>&#x1F9A5; |  | &#x1F9A5; | &#x1F9A5; | 
+| <small>1F9A6</small><br>otter<br>&#x1F9A6; |  | &#x1F9A6; | &#x1F9A6; | 
+| <small>1F9A8</small><br>skunk<br>&#x1F9A8; |  | &#x1F9A8; | &#x1F9A8; | 
+| <small>1F998</small><br>kangaroo<br>&#x1F998; |  | &#x1F998; | &#x1F998; | 
+| <small>1F9A1</small><br>badger<br>&#x1F9A1; |  | &#x1F9A1; | &#x1F9A1; | 
+| <small>1F43E</small><br>paw prints<br>&#x1F43E; | &#x1F43E; | &#x1F43E; | &#x1F43E; | 
+
+#### animal-bird
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F983</small><br>turkey<br>&#x1F983; | &#x1F983; | &#x1F983; | &#x1F983; | 
+| <small>1F414</small><br>chicken<br>&#x1F414; | &#x1F414; | &#x1F414; | &#x1F414; | 
+| <small>1F413</small><br>rooster<br>&#x1F413; | &#x1F413; | &#x1F413; | &#x1F413; | 
+| <small>1F423</small><br>hatching chick<br>&#x1F423; | &#x1F423; | &#x1F423; | &#x1F423; | 
+| <small>1F424</small><br>baby chick<br>&#x1F424; | &#x1F424; | &#x1F424; | &#x1F424; | 
+| <small>1F425</small><br>front-facing baby chick<br>&#x1F425; | &#x1F425; | &#x1F425; | &#x1F425; | 
+| <small>1F426</small><br>bird<br>&#x1F426; | &#x1F426; | &#x1F426; | &#x1F426; | 
+| <small>1F427</small><br>penguin<br>&#x1F427; | &#x1F427; | &#x1F427; | &#x1F427; | 
+| <small>1F54A FE0F</small><br>dove<br>&#x1F54A;&#xFE0F; | &#x1F54A;&#xFE0F; | &#x1F54A;&#xFE0F; | &#x1F54A;&#xFE0F; | 
+| <small>1F985</small><br>eagle<br>&#x1F985; | &#x1F985; | &#x1F985; | &#x1F985; | 
+| <small>1F986</small><br>duck<br>&#x1F986; | &#x1F986; | &#x1F986; | &#x1F986; | 
+| <small>1F9A2</small><br>swan<br>&#x1F9A2; |  | &#x1F9A2; | &#x1F9A2; | 
+| <small>1F989</small><br>owl<br>&#x1F989; | &#x1F989; | &#x1F989; | &#x1F989; | 
+| <small>1F9A4</small><br>dodo<br>&#x1F9A4; |  | &#x1F9A4; | &#x1F9A4; | 
+| <small>1FAB6</small><br>feather<br>&#x1FAB6; |  | &#x1FAB6; | &#x1FAB6; | 
+| <small>1F9A9</small><br>flamingo<br>&#x1F9A9; |  | &#x1F9A9; | &#x1F9A9; | 
+| <small>1F99A</small><br>peacock<br>&#x1F99A; |  | &#x1F99A; | &#x1F99A; | 
+| <small>1F99C</small><br>parrot<br>&#x1F99C; |  | &#x1F99C; | &#x1F99C; | 
+
+#### animal-amphibian
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F438</small><br>frog<br>&#x1F438; | &#x1F438; | &#x1F438; | &#x1F438; | 
+
+#### animal-reptile
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F40A</small><br>crocodile<br>&#x1F40A; | &#x1F40A; | &#x1F40A; | &#x1F40A; | 
+| <small>1F422</small><br>turtle<br>&#x1F422; | &#x1F422; | &#x1F422; | &#x1F422; | 
+| <small>1F98E</small><br>lizard<br>&#x1F98E; | &#x1F98E; | &#x1F98E; | &#x1F98E; | 
+| <small>1F40D</small><br>snake<br>&#x1F40D; | &#x1F40D; | &#x1F40D; | &#x1F40D; | 
+| <small>1F432</small><br>dragon face<br>&#x1F432; | &#x1F432; | &#x1F432; | &#x1F432; | 
+| <small>1F409</small><br>dragon<br>&#x1F409; | &#x1F409; | &#x1F409; | &#x1F409; | 
+| <small>1F995</small><br>sauropod<br>&#x1F995; |  | &#x1F995; | &#x1F995; | 
+| <small>1F996</small><br>T-Rex<br>&#x1F996; |  | &#x1F996; | &#x1F996; | 
+
+#### animal-marine
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F433</small><br>spouting whale<br>&#x1F433; | &#x1F433; | &#x1F433; | &#x1F433; | 
+| <small>1F40B</small><br>whale<br>&#x1F40B; | &#x1F40B; | &#x1F40B; | &#x1F40B; | 
+| <small>1F42C</small><br>dolphin<br>&#x1F42C; | &#x1F42C; | &#x1F42C; | &#x1F42C; | 
+| <small>1F9AD</small><br>seal<br>&#x1F9AD; |  | &#x1F9AD; | &#x1F9AD; | 
+| <small>1F41F</small><br>fish<br>&#x1F41F; | &#x1F41F; | &#x1F41F; | &#x1F41F; | 
+| <small>1F420</small><br>tropical fish<br>&#x1F420; | &#x1F420; | &#x1F420; | &#x1F420; | 
+| <small>1F421</small><br>blowfish<br>&#x1F421; | &#x1F421; | &#x1F421; | &#x1F421; | 
+| <small>1F988</small><br>shark<br>&#x1F988; | &#x1F988; | &#x1F988; | &#x1F988; | 
+| <small>1F419</small><br>octopus<br>&#x1F419; | &#x1F419; | &#x1F419; | &#x1F419; | 
+| <small>1F41A</small><br>spiral shell<br>&#x1F41A; | &#x1F41A; | &#x1F41A; | &#x1F41A; | 
+
+#### animal-bug
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F40C</small><br>snail<br>&#x1F40C; | &#x1F40C; | &#x1F40C; | &#x1F40C; | 
+| <small>1F98B</small><br>butterfly<br>&#x1F98B; | &#x1F98B; | &#x1F98B; | &#x1F98B; | 
+| <small>1F41B</small><br>bug<br>&#x1F41B; | &#x1F41B; | &#x1F41B; | &#x1F41B; | 
+| <small>1F41C</small><br>ant<br>&#x1F41C; | &#x1F41C; | &#x1F41C; | &#x1F41C; | 
+| <small>1F41D</small><br>honeybee<br>&#x1F41D; | &#x1F41D; | &#x1F41D; | &#x1F41D; | 
+| <small>1FAB2</small><br>beetle<br>&#x1FAB2; |  | &#x1FAB2; | &#x1FAB2; | 
+| <small>1F41E</small><br>lady beetle<br>&#x1F41E; | &#x1F41E; | &#x1F41E; | &#x1F41E; | 
+| <small>1F997</small><br>cricket<br>&#x1F997; |  | &#x1F997; | &#x1F997; | 
+| <small>1FAB3</small><br>cockroach<br>&#x1FAB3; |  | &#x1FAB3; | &#x1FAB3; | 
+| <small>1F577 FE0F</small><br>spider<br>&#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | &#x1F577;&#xFE0F; | 
+| <small>1F578 FE0F</small><br>spider web<br>&#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | &#x1F578;&#xFE0F; | 
+| <small>1F982</small><br>scorpion<br>&#x1F982; | &#x1F982; | &#x1F982; | &#x1F982; | 
+| <small>1F99F</small><br>mosquito<br>&#x1F99F; |  | &#x1F99F; | &#x1F99F; | 
+| <small>1FAB0</small><br>fly<br>&#x1FAB0; |  | &#x1FAB0; | &#x1FAB0; | 
+| <small>1FAB1</small><br>worm<br>&#x1FAB1; |  | &#x1FAB1; | &#x1FAB1; | 
+| <small>1F9A0</small><br>microbe<br>&#x1F9A0; |  | &#x1F9A0; | &#x1F9A0; | 
+
+#### plant-flower
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F490</small><br>bouquet<br>&#x1F490; | &#x1F490; | &#x1F490; | &#x1F490; | 
+| <small>1F338</small><br>cherry blossom<br>&#x1F338; | &#x1F338; | &#x1F338; | &#x1F338; | 
+| <small>1F4AE</small><br>white flower<br>&#x1F4AE; | &#x1F4AE; | &#x1F4AE; | &#x1F4AE; | 
+| <small>1F3F5 FE0F</small><br>rosette<br>&#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | 
+| <small>1F339</small><br>rose<br>&#x1F339; | &#x1F339; | &#x1F339; | &#x1F339; | 
+| <small>1F940</small><br>wilted flower<br>&#x1F940; | &#x1F940; | &#x1F940; | &#x1F940; | 
+| <small>1F33A</small><br>hibiscus<br>&#x1F33A; | &#x1F33A; | &#x1F33A; | &#x1F33A; | 
+| <small>1F33B</small><br>sunflower<br>&#x1F33B; | &#x1F33B; | &#x1F33B; | &#x1F33B; | 
+| <small>1F33C</small><br>blossom<br>&#x1F33C; | &#x1F33C; | &#x1F33C; | &#x1F33C; | 
+| <small>1F337</small><br>tulip<br>&#x1F337; | &#x1F337; | &#x1F337; | &#x1F337; | 
+
+#### plant-other
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F331</small><br>seedling<br>&#x1F331; | &#x1F331; | &#x1F331; | &#x1F331; | 
+| <small>1FAB4</small><br>potted plant<br>&#x1FAB4; |  | &#x1FAB4; | &#x1FAB4; | 
+| <small>1F332</small><br>evergreen tree<br>&#x1F332; | &#x1F332; | &#x1F332; | &#x1F332; | 
+| <small>1F333</small><br>deciduous tree<br>&#x1F333; | &#x1F333; | &#x1F333; | &#x1F333; | 
+| <small>1F334</small><br>palm tree<br>&#x1F334; | &#x1F334; | &#x1F334; | &#x1F334; | 
+| <small>1F335</small><br>cactus<br>&#x1F335; | &#x1F335; | &#x1F335; | &#x1F335; | 
+| <small>1F33E</small><br>sheaf of rice<br>&#x1F33E; | &#x1F33E; | &#x1F33E; | &#x1F33E; | 
+| <small>1F33F</small><br>herb<br>&#x1F33F; | &#x1F33F; | &#x1F33F; | &#x1F33F; | 
+| <small>2618 FE0F</small><br>shamrock<br>&#x2618;&#xFE0F; | &#x2618;&#xFE0F; | &#x2618;&#xFE0F; | &#x2618;&#xFE0F; | 
+| <small>1F340</small><br>four leaf clover<br>&#x1F340; | &#x1F340; | &#x1F340; | &#x1F340; | 
+| <small>1F341</small><br>maple leaf<br>&#x1F341; | &#x1F341; | &#x1F341; | &#x1F341; | 
+| <small>1F342</small><br>fallen leaf<br>&#x1F342; | &#x1F342; | &#x1F342; | &#x1F342; | 
+| <small>1F343</small><br>leaf fluttering in wind<br>&#x1F343; | &#x1F343; | &#x1F343; | &#x1F343; | 
+
+
+### Food & Drink
+
+#### food-fruit
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F347</small><br>grapes<br>&#x1F347; | &#x1F347; | &#x1F347; | &#x1F347; | 
+| <small>1F348</small><br>melon<br>&#x1F348; | &#x1F348; | &#x1F348; | &#x1F348; | 
+| <small>1F349</small><br>watermelon<br>&#x1F349; | &#x1F349; | &#x1F349; | &#x1F349; | 
+| <small>1F34A</small><br>tangerine<br>&#x1F34A; | &#x1F34A; | &#x1F34A; | &#x1F34A; | 
+| <small>1F34B</small><br>lemon<br>&#x1F34B; | &#x1F34B; | &#x1F34B; | &#x1F34B; | 
+| <small>1F34C</small><br>banana<br>&#x1F34C; | &#x1F34C; | &#x1F34C; | &#x1F34C; | 
+| <small>1F34D</small><br>pineapple<br>&#x1F34D; | &#x1F34D; | &#x1F34D; | &#x1F34D; | 
+| <small>1F96D</small><br>mango<br>&#x1F96D; |  | &#x1F96D; | &#x1F96D; | 
+| <small>1F34E</small><br>red apple<br>&#x1F34E; | &#x1F34E; | &#x1F34E; | &#x1F34E; | 
+| <small>1F34F</small><br>green apple<br>&#x1F34F; | &#x1F34F; | &#x1F34F; | &#x1F34F; | 
+| <small>1F350</small><br>pear<br>&#x1F350; | &#x1F350; | &#x1F350; | &#x1F350; | 
+| <small>1F351</small><br>peach<br>&#x1F351; | &#x1F351; | &#x1F351; | &#x1F351; | 
+| <small>1F352</small><br>cherries<br>&#x1F352; | &#x1F352; | &#x1F352; | &#x1F352; | 
+| <small>1F353</small><br>strawberry<br>&#x1F353; | &#x1F353; | &#x1F353; | &#x1F353; | 
+| <small>1FAD0</small><br>blueberries<br>&#x1FAD0; |  | &#x1FAD0; | &#x1FAD0; | 
+| <small>1F95D</small><br>kiwi fruit<br>&#x1F95D; | &#x1F95D; | &#x1F95D; | &#x1F95D; | 
+| <small>1F345</small><br>tomato<br>&#x1F345; | &#x1F345; | &#x1F345; | &#x1F345; | 
+| <small>1FAD2</small><br>olive<br>&#x1FAD2; |  | &#x1FAD2; | &#x1FAD2; | 
+| <small>1F965</small><br>coconut<br>&#x1F965; |  | &#x1F965; | &#x1F965; | 
+
+#### food-vegetable
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F951</small><br>avocado<br>&#x1F951; | &#x1F951; | &#x1F951; | &#x1F951; | 
+| <small>1F346</small><br>eggplant<br>&#x1F346; | &#x1F346; | &#x1F346; | &#x1F346; | 
+| <small>1F954</small><br>potato<br>&#x1F954; | &#x1F954; | &#x1F954; | &#x1F954; | 
+| <small>1F955</small><br>carrot<br>&#x1F955; | &#x1F955; | &#x1F955; | &#x1F955; | 
+| <small>1F33D</small><br>ear of corn<br>&#x1F33D; | &#x1F33D; | &#x1F33D; | &#x1F33D; | 
+| <small>1F336 FE0F</small><br>hot pepper<br>&#x1F336;&#xFE0F; | &#x1F336;&#xFE0F; | &#x1F336;&#xFE0F; | &#x1F336;&#xFE0F; | 
+| <small>1FAD1</small><br>bell pepper<br>&#x1FAD1; |  | &#x1FAD1; | &#x1FAD1; | 
+| <small>1F952</small><br>cucumber<br>&#x1F952; | &#x1F952; | &#x1F952; | &#x1F952; | 
+| <small>1F96C</small><br>leafy green<br>&#x1F96C; |  | &#x1F96C; | &#x1F96C; | 
+| <small>1F966</small><br>broccoli<br>&#x1F966; |  | &#x1F966; | &#x1F966; | 
+| <small>1F9C4</small><br>garlic<br>&#x1F9C4; |  | &#x1F9C4; | &#x1F9C4; | 
+| <small>1F9C5</small><br>onion<br>&#x1F9C5; |  | &#x1F9C5; | &#x1F9C5; | 
+| <small>1F344</small><br>mushroom<br>&#x1F344; | &#x1F344; | &#x1F344; | &#x1F344; | 
+| <small>1F95C</small><br>peanuts<br>&#x1F95C; | &#x1F95C; | &#x1F95C; | &#x1F95C; | 
+| <small>1F330</small><br>chestnut<br>&#x1F330; | &#x1F330; | &#x1F330; | &#x1F330; | 
+
+#### food-prepared
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F35E</small><br>bread<br>&#x1F35E; | &#x1F35E; | &#x1F35E; | &#x1F35E; | 
+| <small>1F950</small><br>croissant<br>&#x1F950; | &#x1F950; | &#x1F950; | &#x1F950; | 
+| <small>1F956</small><br>baguette bread<br>&#x1F956; | &#x1F956; | &#x1F956; | &#x1F956; | 
+| <small>1FAD3</small><br>flatbread<br>&#x1FAD3; |  | &#x1FAD3; | &#x1FAD3; | 
+| <small>1F968</small><br>pretzel<br>&#x1F968; |  | &#x1F968; | &#x1F968; | 
+| <small>1F96F</small><br>bagel<br>&#x1F96F; |  | &#x1F96F; | &#x1F96F; | 
+| <small>1F95E</small><br>pancakes<br>&#x1F95E; | &#x1F95E; | &#x1F95E; | &#x1F95E; | 
+| <small>1F9C7</small><br>waffle<br>&#x1F9C7; |  | &#x1F9C7; | &#x1F9C7; | 
+| <small>1F9C0</small><br>cheese wedge<br>&#x1F9C0; | &#x1F9C0; | &#x1F9C0; | &#x1F9C0; | 
+| <small>1F356</small><br>meat on bone<br>&#x1F356; | &#x1F356; | &#x1F356; | &#x1F356; | 
+| <small>1F357</small><br>poultry leg<br>&#x1F357; | &#x1F357; | &#x1F357; | &#x1F357; | 
+| <small>1F969</small><br>cut of meat<br>&#x1F969; |  | &#x1F969; | &#x1F969; | 
+| <small>1F953</small><br>bacon<br>&#x1F953; | &#x1F953; | &#x1F953; | &#x1F953; | 
+| <small>1F354</small><br>hamburger<br>&#x1F354; | &#x1F354; | &#x1F354; | &#x1F354; | 
+| <small>1F35F</small><br>french fries<br>&#x1F35F; | &#x1F35F; | &#x1F35F; | &#x1F35F; | 
+| <small>1F355</small><br>pizza<br>&#x1F355; | &#x1F355; | &#x1F355; | &#x1F355; | 
+| <small>1F32D</small><br>hot dog<br>&#x1F32D; | &#x1F32D; | &#x1F32D; | &#x1F32D; | 
+| <small>1F96A</small><br>sandwich<br>&#x1F96A; |  | &#x1F96A; | &#x1F96A; | 
+| <small>1F32E</small><br>taco<br>&#x1F32E; | &#x1F32E; | &#x1F32E; | &#x1F32E; | 
+| <small>1F32F</small><br>burrito<br>&#x1F32F; | &#x1F32F; | &#x1F32F; | &#x1F32F; | 
+| <small>1FAD4</small><br>tamale<br>&#x1FAD4; |  | &#x1FAD4; | &#x1FAD4; | 
+| <small>1F959</small><br>stuffed flatbread<br>&#x1F959; | &#x1F959; | &#x1F959; | &#x1F959; | 
+| <small>1F9C6</small><br>falafel<br>&#x1F9C6; |  | &#x1F9C6; | &#x1F9C6; | 
+| <small>1F95A</small><br>egg<br>&#x1F95A; | &#x1F95A; | &#x1F95A; | &#x1F95A; | 
+| <small>1F373</small><br>cooking<br>&#x1F373; | &#x1F373; | &#x1F373; | &#x1F373; | 
+| <small>1F958</small><br>shallow pan of food<br>&#x1F958; | &#x1F958; | &#x1F958; | &#x1F958; | 
+| <small>1F372</small><br>pot of food<br>&#x1F372; | &#x1F372; | &#x1F372; | &#x1F372; | 
+| <small>1FAD5</small><br>fondue<br>&#x1FAD5; |  | &#x1FAD5; | &#x1FAD5; | 
+| <small>1F963</small><br>bowl with spoon<br>&#x1F963; |  | &#x1F963; | &#x1F963; | 
+| <small>1F957</small><br>green salad<br>&#x1F957; | &#x1F957; | &#x1F957; | &#x1F957; | 
+| <small>1F37F</small><br>popcorn<br>&#x1F37F; | &#x1F37F; | &#x1F37F; | &#x1F37F; | 
+| <small>1F9C8</small><br>butter<br>&#x1F9C8; |  | &#x1F9C8; | &#x1F9C8; | 
+| <small>1F9C2</small><br>salt<br>&#x1F9C2; |  | &#x1F9C2; | &#x1F9C2; | 
+| <small>1F96B</small><br>canned food<br>&#x1F96B; |  | &#x1F96B; | &#x1F96B; | 
+
+#### food-asian
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F371</small><br>bento box<br>&#x1F371; | &#x1F371; | &#x1F371; | &#x1F371; | 
+| <small>1F358</small><br>rice cracker<br>&#x1F358; | &#x1F358; | &#x1F358; | &#x1F358; | 
+| <small>1F359</small><br>rice ball<br>&#x1F359; | &#x1F359; | &#x1F359; | &#x1F359; | 
+| <small>1F35A</small><br>cooked rice<br>&#x1F35A; | &#x1F35A; | &#x1F35A; | &#x1F35A; | 
+| <small>1F35B</small><br>curry rice<br>&#x1F35B; | &#x1F35B; | &#x1F35B; | &#x1F35B; | 
+| <small>1F35C</small><br>steaming bowl<br>&#x1F35C; | &#x1F35C; | &#x1F35C; | &#x1F35C; | 
+| <small>1F35D</small><br>spaghetti<br>&#x1F35D; | &#x1F35D; | &#x1F35D; | &#x1F35D; | 
+| <small>1F360</small><br>roasted sweet potato<br>&#x1F360; | &#x1F360; | &#x1F360; | &#x1F360; | 
+| <small>1F362</small><br>oden<br>&#x1F362; | &#x1F362; | &#x1F362; | &#x1F362; | 
+| <small>1F363</small><br>sushi<br>&#x1F363; | &#x1F363; | &#x1F363; | &#x1F363; | 
+| <small>1F364</small><br>fried shrimp<br>&#x1F364; | &#x1F364; | &#x1F364; | &#x1F364; | 
+| <small>1F365</small><br>fish cake with swirl<br>&#x1F365; | &#x1F365; | &#x1F365; | &#x1F365; | 
+| <small>1F96E</small><br>moon cake<br>&#x1F96E; |  | &#x1F96E; | &#x1F96E; | 
+| <small>1F361</small><br>dango<br>&#x1F361; | &#x1F361; | &#x1F361; | &#x1F361; | 
+| <small>1F95F</small><br>dumpling<br>&#x1F95F; |  | &#x1F95F; | &#x1F95F; | 
+| <small>1F960</small><br>fortune cookie<br>&#x1F960; |  | &#x1F960; | &#x1F960; | 
+| <small>1F961</small><br>takeout box<br>&#x1F961; |  | &#x1F961; | &#x1F961; | 
+
+#### food-marine
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F980</small><br>crab<br>&#x1F980; | &#x1F980; | &#x1F980; | &#x1F980; | 
+| <small>1F99E</small><br>lobster<br>&#x1F99E; |  | &#x1F99E; | &#x1F99E; | 
+| <small>1F990</small><br>shrimp<br>&#x1F990; | &#x1F990; | &#x1F990; | &#x1F990; | 
+| <small>1F991</small><br>squid<br>&#x1F991; | &#x1F991; | &#x1F991; | &#x1F991; | 
+| <small>1F9AA</small><br>oyster<br>&#x1F9AA; |  | &#x1F9AA; | &#x1F9AA; | 
+
+#### food-sweet
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F366</small><br>soft ice cream<br>&#x1F366; | &#x1F366; | &#x1F366; | &#x1F366; | 
+| <small>1F367</small><br>shaved ice<br>&#x1F367; | &#x1F367; | &#x1F367; | &#x1F367; | 
+| <small>1F368</small><br>ice cream<br>&#x1F368; | &#x1F368; | &#x1F368; | &#x1F368; | 
+| <small>1F369</small><br>doughnut<br>&#x1F369; | &#x1F369; | &#x1F369; | &#x1F369; | 
+| <small>1F36A</small><br>cookie<br>&#x1F36A; | &#x1F36A; | &#x1F36A; | &#x1F36A; | 
+| <small>1F382</small><br>birthday cake<br>&#x1F382; | &#x1F382; | &#x1F382; | &#x1F382; | 
+| <small>1F370</small><br>shortcake<br>&#x1F370; | &#x1F370; | &#x1F370; | &#x1F370; | 
+| <small>1F9C1</small><br>cupcake<br>&#x1F9C1; |  | &#x1F9C1; | &#x1F9C1; | 
+| <small>1F967</small><br>pie<br>&#x1F967; |  | &#x1F967; | &#x1F967; | 
+| <small>1F36B</small><br>chocolate bar<br>&#x1F36B; | &#x1F36B; | &#x1F36B; | &#x1F36B; | 
+| <small>1F36C</small><br>candy<br>&#x1F36C; | &#x1F36C; | &#x1F36C; | &#x1F36C; | 
+| <small>1F36D</small><br>lollipop<br>&#x1F36D; | &#x1F36D; | &#x1F36D; | &#x1F36D; | 
+| <small>1F36E</small><br>custard<br>&#x1F36E; | &#x1F36E; | &#x1F36E; | &#x1F36E; | 
+| <small>1F36F</small><br>honey pot<br>&#x1F36F; | &#x1F36F; | &#x1F36F; | &#x1F36F; | 
+
+#### drink
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F37C</small><br>baby bottle<br>&#x1F37C; | &#x1F37C; | &#x1F37C; | &#x1F37C; | 
+| <small>1F95B</small><br>glass of milk<br>&#x1F95B; | &#x1F95B; | &#x1F95B; | &#x1F95B; | 
+| <small>2615</small><br>hot beverage<br>&#x2615; | &#x2615; | &#x2615; | &#x2615; | 
+| <small>1FAD6</small><br>teapot<br>&#x1FAD6; |  | &#x1FAD6; | &#x1FAD6; | 
+| <small>1F375</small><br>teacup without handle<br>&#x1F375; | &#x1F375; | &#x1F375; | &#x1F375; | 
+| <small>1F376</small><br>sake<br>&#x1F376; | &#x1F376; | &#x1F376; | &#x1F376; | 
+| <small>1F37E</small><br>bottle with popping cork<br>&#x1F37E; | &#x1F37E; | &#x1F37E; | &#x1F37E; | 
+| <small>1F377</small><br>wine glass<br>&#x1F377; | &#x1F377; | &#x1F377; | &#x1F377; | 
+| <small>1F378</small><br>cocktail glass<br>&#x1F378; | &#x1F378; | &#x1F378; | &#x1F378; | 
+| <small>1F379</small><br>tropical drink<br>&#x1F379; | &#x1F379; | &#x1F379; | &#x1F379; | 
+| <small>1F37A</small><br>beer mug<br>&#x1F37A; | &#x1F37A; | &#x1F37A; | &#x1F37A; | 
+| <small>1F37B</small><br>clinking beer mugs<br>&#x1F37B; | &#x1F37B; | &#x1F37B; | &#x1F37B; | 
+| <small>1F942</small><br>clinking glasses<br>&#x1F942; | &#x1F942; | &#x1F942; | &#x1F942; | 
+| <small>1F943</small><br>tumbler glass<br>&#x1F943; | &#x1F943; | &#x1F943; | &#x1F943; | 
+| <small>1F964</small><br>cup with straw<br>&#x1F964; |  | &#x1F964; | &#x1F964; | 
+| <small>1F9CB</small><br>bubble tea<br>&#x1F9CB; |  | &#x1F9CB; | &#x1F9CB; | 
+| <small>1F9C3</small><br>beverage box<br>&#x1F9C3; |  | &#x1F9C3; | &#x1F9C3; | 
+| <small>1F9C9</small><br>mate<br>&#x1F9C9; |  | &#x1F9C9; | &#x1F9C9; | 
+| <small>1F9CA</small><br>ice<br>&#x1F9CA; |  | &#x1F9CA; | &#x1F9CA; | 
+
+#### dishware
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F962</small><br>chopsticks<br>&#x1F962; |  | &#x1F962; | &#x1F962; | 
+| <small>1F37D FE0F</small><br>fork and knife with plate<br>&#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | &#x1F37D;&#xFE0F; | 
+| <small>1F374</small><br>fork and knife<br>&#x1F374; | &#x1F374; | &#x1F374; | &#x1F374; | 
+| <small>1F944</small><br>spoon<br>&#x1F944; | &#x1F944; | &#x1F944; | &#x1F944; | 
+| <small>1F52A</small><br>kitchen knife<br>&#x1F52A; | &#x1F52A; | &#x1F52A; | &#x1F52A; | 
+| <small>1F3FA</small><br>amphora<br>&#x1F3FA; | &#x1F3FA; | &#x1F3FA; | &#x1F3FA; | 
+
+
+### Travel & Places
+
+#### place-map
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F30D</small><br>globe showing Europe-Africa<br>&#x1F30D; | &#x1F30D; | &#x1F30D; | &#x1F30D; | 
+| <small>1F30E</small><br>globe showing Americas<br>&#x1F30E; | &#x1F30E; | &#x1F30E; | &#x1F30E; | 
+| <small>1F30F</small><br>globe showing Asia-Australia<br>&#x1F30F; | &#x1F30F; | &#x1F30F; | &#x1F30F; | 
+| <small>1F310</small><br>globe with meridians<br>&#x1F310; | &#x1F310; | &#x1F310; | &#x1F310; | 
+| <small>1F5FA FE0F</small><br>world map<br>&#x1F5FA;&#xFE0F; | &#x1F5FA;&#xFE0F; | &#x1F5FA;&#xFE0F; | &#x1F5FA;&#xFE0F; | 
+| <small>1F5FE</small><br>map of Japan<br>&#x1F5FE; | &#x1F5FE; | &#x1F5FE; | &#x1F5FE; | 
+| <small>1F9ED</small><br>compass<br>&#x1F9ED; |  | &#x1F9ED; | &#x1F9ED; | 
+
+#### place-geographic
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3D4 FE0F</small><br>snow-capped mountain<br>&#x1F3D4;&#xFE0F; | &#x1F3D4;&#xFE0F; | &#x1F3D4;&#xFE0F; | &#x1F3D4;&#xFE0F; | 
+| <small>26F0 FE0F</small><br>mountain<br>&#x26F0;&#xFE0F; | &#x26F0;&#xFE0F; | &#x26F0;&#xFE0F; | &#x26F0;&#xFE0F; | 
+| <small>1F30B</small><br>volcano<br>&#x1F30B; | &#x1F30B; | &#x1F30B; | &#x1F30B; | 
+| <small>1F5FB</small><br>mount fuji<br>&#x1F5FB; | &#x1F5FB; | &#x1F5FB; | &#x1F5FB; | 
+| <small>1F3D5 FE0F</small><br>camping<br>&#x1F3D5;&#xFE0F; | &#x1F3D5;&#xFE0F; | &#x1F3D5;&#xFE0F; | &#x1F3D5;&#xFE0F; | 
+| <small>1F3D6 FE0F</small><br>beach with umbrella<br>&#x1F3D6;&#xFE0F; | &#x1F3D6;&#xFE0F; | &#x1F3D6;&#xFE0F; | &#x1F3D6;&#xFE0F; | 
+| <small>1F3DC FE0F</small><br>desert<br>&#x1F3DC;&#xFE0F; | &#x1F3DC;&#xFE0F; | &#x1F3DC;&#xFE0F; | &#x1F3DC;&#xFE0F; | 
+| <small>1F3DD FE0F</small><br>desert island<br>&#x1F3DD;&#xFE0F; | &#x1F3DD;&#xFE0F; | &#x1F3DD;&#xFE0F; | &#x1F3DD;&#xFE0F; | 
+| <small>1F3DE FE0F</small><br>national park<br>&#x1F3DE;&#xFE0F; | &#x1F3DE;&#xFE0F; | &#x1F3DE;&#xFE0F; | &#x1F3DE;&#xFE0F; | 
+
+#### place-building
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3DF FE0F</small><br>stadium<br>&#x1F3DF;&#xFE0F; | &#x1F3DF;&#xFE0F; | &#x1F3DF;&#xFE0F; | &#x1F3DF;&#xFE0F; | 
+| <small>1F3DB FE0F</small><br>classical building<br>&#x1F3DB;&#xFE0F; | &#x1F3DB;&#xFE0F; | &#x1F3DB;&#xFE0F; | &#x1F3DB;&#xFE0F; | 
+| <small>1F3D7 FE0F</small><br>building construction<br>&#x1F3D7;&#xFE0F; | &#x1F3D7;&#xFE0F; | &#x1F3D7;&#xFE0F; | &#x1F3D7;&#xFE0F; | 
+| <small>1F9F1</small><br>brick<br>&#x1F9F1; |  | &#x1F9F1; | &#x1F9F1; | 
+| <small>1FAA8</small><br>rock<br>&#x1FAA8; |  | &#x1FAA8; | &#x1FAA8; | 
+| <small>1FAB5</small><br>wood<br>&#x1FAB5; |  | &#x1FAB5; | &#x1FAB5; | 
+| <small>1F6D6</small><br>hut<br>&#x1F6D6; |  | &#x1F6D6; | &#x1F6D6; | 
+| <small>1F3D8 FE0F</small><br>houses<br>&#x1F3D8;&#xFE0F; | &#x1F3D8;&#xFE0F; | &#x1F3D8;&#xFE0F; | &#x1F3D8;&#xFE0F; | 
+| <small>1F3DA FE0F</small><br>derelict house<br>&#x1F3DA;&#xFE0F; | &#x1F3DA;&#xFE0F; | &#x1F3DA;&#xFE0F; | &#x1F3DA;&#xFE0F; | 
+| <small>1F3E0</small><br>house<br>&#x1F3E0; | &#x1F3E0; | &#x1F3E0; | &#x1F3E0; | 
+| <small>1F3E1</small><br>house with garden<br>&#x1F3E1; | &#x1F3E1; | &#x1F3E1; | &#x1F3E1; | 
+| <small>1F3E2</small><br>office building<br>&#x1F3E2; | &#x1F3E2; | &#x1F3E2; | &#x1F3E2; | 
+| <small>1F3E3</small><br>Japanese post office<br>&#x1F3E3; | &#x1F3E3; | &#x1F3E3; | &#x1F3E3; | 
+| <small>1F3E4</small><br>post office<br>&#x1F3E4; | &#x1F3E4; | &#x1F3E4; | &#x1F3E4; | 
+| <small>1F3E5</small><br>hospital<br>&#x1F3E5; | &#x1F3E5; | &#x1F3E5; | &#x1F3E5; | 
+| <small>1F3E6</small><br>bank<br>&#x1F3E6; | &#x1F3E6; | &#x1F3E6; | &#x1F3E6; | 
+| <small>1F3E8</small><br>hotel<br>&#x1F3E8; | &#x1F3E8; | &#x1F3E8; | &#x1F3E8; | 
+| <small>1F3E9</small><br>love hotel<br>&#x1F3E9; | &#x1F3E9; | &#x1F3E9; | &#x1F3E9; | 
+| <small>1F3EA</small><br>convenience store<br>&#x1F3EA; | &#x1F3EA; | &#x1F3EA; | &#x1F3EA; | 
+| <small>1F3EB</small><br>school<br>&#x1F3EB; | &#x1F3EB; | &#x1F3EB; | &#x1F3EB; | 
+| <small>1F3EC</small><br>department store<br>&#x1F3EC; | &#x1F3EC; | &#x1F3EC; | &#x1F3EC; | 
+| <small>1F3ED</small><br>factory<br>&#x1F3ED; | &#x1F3ED; | &#x1F3ED; | &#x1F3ED; | 
+| <small>1F3EF</small><br>Japanese castle<br>&#x1F3EF; | &#x1F3EF; | &#x1F3EF; | &#x1F3EF; | 
+| <small>1F3F0</small><br>castle<br>&#x1F3F0; | &#x1F3F0; | &#x1F3F0; | &#x1F3F0; | 
+| <small>1F492</small><br>wedding<br>&#x1F492; | &#x1F492; | &#x1F492; | &#x1F492; | 
+| <small>1F5FC</small><br>Tokyo tower<br>&#x1F5FC; | &#x1F5FC; | &#x1F5FC; | &#x1F5FC; | 
+| <small>1F5FD</small><br>Statue of Liberty<br>&#x1F5FD; | &#x1F5FD; | &#x1F5FD; | &#x1F5FD; | 
+
+#### place-religious
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>26EA</small><br>church<br>&#x26EA; | &#x26EA; | &#x26EA; | &#x26EA; | 
+| <small>1F54C</small><br>mosque<br>&#x1F54C; | &#x1F54C; | &#x1F54C; | &#x1F54C; | 
+| <small>1F6D5</small><br>hindu temple<br>&#x1F6D5; |  | &#x1F6D5; | &#x1F6D5; | 
+| <small>1F54D</small><br>synagogue<br>&#x1F54D; | &#x1F54D; | &#x1F54D; | &#x1F54D; | 
+| <small>26E9 FE0F</small><br>shinto shrine<br>&#x26E9;&#xFE0F; | &#x26E9;&#xFE0F; | &#x26E9;&#xFE0F; | &#x26E9;&#xFE0F; | 
+| <small>1F54B</small><br>kaaba<br>&#x1F54B; | &#x1F54B; | &#x1F54B; | &#x1F54B; | 
+
+#### place-other
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>26F2</small><br>fountain<br>&#x26F2; | &#x26F2; | &#x26F2; | &#x26F2; | 
+| <small>26FA</small><br>tent<br>&#x26FA; | &#x26FA; | &#x26FA; | &#x26FA; | 
+| <small>1F301</small><br>foggy<br>&#x1F301; | &#x1F301; | &#x1F301; | &#x1F301; | 
+| <small>1F303</small><br>night with stars<br>&#x1F303; | &#x1F303; | &#x1F303; | &#x1F303; | 
+| <small>1F3D9 FE0F</small><br>cityscape<br>&#x1F3D9;&#xFE0F; | &#x1F3D9;&#xFE0F; | &#x1F3D9;&#xFE0F; | &#x1F3D9;&#xFE0F; | 
+| <small>1F304</small><br>sunrise over mountains<br>&#x1F304; | &#x1F304; | &#x1F304; | &#x1F304; | 
+| <small>1F305</small><br>sunrise<br>&#x1F305; | &#x1F305; | &#x1F305; | &#x1F305; | 
+| <small>1F306</small><br>cityscape at dusk<br>&#x1F306; | &#x1F306; | &#x1F306; | &#x1F306; | 
+| <small>1F307</small><br>sunset<br>&#x1F307; | &#x1F307; | &#x1F307; | &#x1F307; | 
+| <small>1F309</small><br>bridge at night<br>&#x1F309; | &#x1F309; | &#x1F309; | &#x1F309; | 
+| <small>2668 FE0F</small><br>hot springs<br>&#x2668;&#xFE0F; | &#x2668;&#xFE0F; | &#x2668;&#xFE0F; | &#x2668;&#xFE0F; | 
+| <small>1F3A0</small><br>carousel horse<br>&#x1F3A0; | &#x1F3A0; | &#x1F3A0; | &#x1F3A0; | 
+| <small>1F3A1</small><br>ferris wheel<br>&#x1F3A1; | &#x1F3A1; | &#x1F3A1; | &#x1F3A1; | 
+| <small>1F3A2</small><br>roller coaster<br>&#x1F3A2; | &#x1F3A2; | &#x1F3A2; | &#x1F3A2; | 
+| <small>1F488</small><br>barber pole<br>&#x1F488; | &#x1F488; | &#x1F488; | &#x1F488; | 
+| <small>1F3AA</small><br>circus tent<br>&#x1F3AA; | &#x1F3AA; | &#x1F3AA; | &#x1F3AA; | 
+
+#### transport-ground
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F682</small><br>locomotive<br>&#x1F682; | &#x1F682; | &#x1F682; | &#x1F682; | 
+| <small>1F683</small><br>railway car<br>&#x1F683; | &#x1F683; | &#x1F683; | &#x1F683; | 
+| <small>1F684</small><br>high-speed train<br>&#x1F684; | &#x1F684; | &#x1F684; | &#x1F684; | 
+| <small>1F685</small><br>bullet train<br>&#x1F685; | &#x1F685; | &#x1F685; | &#x1F685; | 
+| <small>1F686</small><br>train<br>&#x1F686; | &#x1F686; | &#x1F686; | &#x1F686; | 
+| <small>1F687</small><br>metro<br>&#x1F687; | &#x1F687; | &#x1F687; | &#x1F687; | 
+| <small>1F688</small><br>light rail<br>&#x1F688; | &#x1F688; | &#x1F688; | &#x1F688; | 
+| <small>1F689</small><br>station<br>&#x1F689; | &#x1F689; | &#x1F689; | &#x1F689; | 
+| <small>1F68A</small><br>tram<br>&#x1F68A; | &#x1F68A; | &#x1F68A; | &#x1F68A; | 
+| <small>1F69D</small><br>monorail<br>&#x1F69D; | &#x1F69D; | &#x1F69D; | &#x1F69D; | 
+| <small>1F69E</small><br>mountain railway<br>&#x1F69E; | &#x1F69E; | &#x1F69E; | &#x1F69E; | 
+| <small>1F68B</small><br>tram car<br>&#x1F68B; | &#x1F68B; | &#x1F68B; | &#x1F68B; | 
+| <small>1F68C</small><br>bus<br>&#x1F68C; | &#x1F68C; | &#x1F68C; | &#x1F68C; | 
+| <small>1F68D</small><br>oncoming bus<br>&#x1F68D; | &#x1F68D; | &#x1F68D; | &#x1F68D; | 
+| <small>1F68E</small><br>trolleybus<br>&#x1F68E; | &#x1F68E; | &#x1F68E; | &#x1F68E; | 
+| <small>1F690</small><br>minibus<br>&#x1F690; | &#x1F690; | &#x1F690; | &#x1F690; | 
+| <small>1F691</small><br>ambulance<br>&#x1F691; | &#x1F691; | &#x1F691; | &#x1F691; | 
+| <small>1F692</small><br>fire engine<br>&#x1F692; | &#x1F692; | &#x1F692; | &#x1F692; | 
+| <small>1F693</small><br>police car<br>&#x1F693; | &#x1F693; | &#x1F693; | &#x1F693; | 
+| <small>1F694</small><br>oncoming police car<br>&#x1F694; | &#x1F694; | &#x1F694; | &#x1F694; | 
+| <small>1F695</small><br>taxi<br>&#x1F695; | &#x1F695; | &#x1F695; | &#x1F695; | 
+| <small>1F696</small><br>oncoming taxi<br>&#x1F696; | &#x1F696; | &#x1F696; | &#x1F696; | 
+| <small>1F697</small><br>automobile<br>&#x1F697; | &#x1F697; | &#x1F697; | &#x1F697; | 
+| <small>1F698</small><br>oncoming automobile<br>&#x1F698; | &#x1F698; | &#x1F698; | &#x1F698; | 
+| <small>1F699</small><br>sport utility vehicle<br>&#x1F699; | &#x1F699; | &#x1F699; | &#x1F699; | 
+| <small>1F6FB</small><br>pickup truck<br>&#x1F6FB; |  | &#x1F6FB; | &#x1F6FB; | 
+| <small>1F69A</small><br>delivery truck<br>&#x1F69A; | &#x1F69A; | &#x1F69A; | &#x1F69A; | 
+| <small>1F69B</small><br>articulated lorry<br>&#x1F69B; | &#x1F69B; | &#x1F69B; | &#x1F69B; | 
+| <small>1F69C</small><br>tractor<br>&#x1F69C; | &#x1F69C; | &#x1F69C; | &#x1F69C; | 
+| <small>1F3CE FE0F</small><br>racing car<br>&#x1F3CE;&#xFE0F; | &#x1F3CE;&#xFE0F; | &#x1F3CE;&#xFE0F; | &#x1F3CE;&#xFE0F; | 
+| <small>1F3CD FE0F</small><br>motorcycle<br>&#x1F3CD;&#xFE0F; | &#x1F3CD;&#xFE0F; | &#x1F3CD;&#xFE0F; | &#x1F3CD;&#xFE0F; | 
+| <small>1F6F5</small><br>motor scooter<br>&#x1F6F5; | &#x1F6F5; | &#x1F6F5; | &#x1F6F5; | 
+| <small>1F9BD</small><br>manual wheelchair<br>&#x1F9BD; |  | &#x1F9BD; | &#x1F9BD; | 
+| <small>1F9BC</small><br>motorized wheelchair<br>&#x1F9BC; |  | &#x1F9BC; | &#x1F9BC; | 
+| <small>1F6FA</small><br>auto rickshaw<br>&#x1F6FA; |  | &#x1F6FA; | &#x1F6FA; | 
+| <small>1F6B2</small><br>bicycle<br>&#x1F6B2; | &#x1F6B2; | &#x1F6B2; | &#x1F6B2; | 
+| <small>1F6F4</small><br>kick scooter<br>&#x1F6F4; | &#x1F6F4; | &#x1F6F4; | &#x1F6F4; | 
+| <small>1F6F9</small><br>skateboard<br>&#x1F6F9; |  | &#x1F6F9; | &#x1F6F9; | 
+| <small>1F6FC</small><br>roller skate<br>&#x1F6FC; |  | &#x1F6FC; | &#x1F6FC; | 
+| <small>1F68F</small><br>bus stop<br>&#x1F68F; | &#x1F68F; | &#x1F68F; | &#x1F68F; | 
+| <small>1F6E3 FE0F</small><br>motorway<br>&#x1F6E3;&#xFE0F; | &#x1F6E3;&#xFE0F; | &#x1F6E3;&#xFE0F; | &#x1F6E3;&#xFE0F; | 
+| <small>1F6E4 FE0F</small><br>railway track<br>&#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | 
+| <small>1F6E2 FE0F</small><br>oil drum<br>&#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | 
+| <small>26FD</small><br>fuel pump<br>&#x26FD; | &#x26FD; | &#x26FD; | &#x26FD; | 
+| <small>1F6A8</small><br>police car light<br>&#x1F6A8; | &#x1F6A8; | &#x1F6A8; | &#x1F6A8; | 
+| <small>1F6A5</small><br>horizontal traffic light<br>&#x1F6A5; | &#x1F6A5; | &#x1F6A5; | &#x1F6A5; | 
+| <small>1F6A6</small><br>vertical traffic light<br>&#x1F6A6; | &#x1F6A6; | &#x1F6A6; | &#x1F6A6; | 
+| <small>1F6D1</small><br>stop sign<br>&#x1F6D1; | &#x1F6D1; | &#x1F6D1; | &#x1F6D1; | 
+| <small>1F6A7</small><br>construction<br>&#x1F6A7; | &#x1F6A7; | &#x1F6A7; | &#x1F6A7; | 
+
+#### transport-water
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>2693</small><br>anchor<br>&#x2693; | &#x2693; | &#x2693; | &#x2693; | 
+| <small>26F5</small><br>sailboat<br>&#x26F5; | &#x26F5; | &#x26F5; | &#x26F5; | 
+| <small>1F6F6</small><br>canoe<br>&#x1F6F6; | &#x1F6F6; | &#x1F6F6; | &#x1F6F6; | 
+| <small>1F6A4</small><br>speedboat<br>&#x1F6A4; | &#x1F6A4; | &#x1F6A4; | &#x1F6A4; | 
+| <small>1F6F3 FE0F</small><br>passenger ship<br>&#x1F6F3;&#xFE0F; | &#x1F6F3;&#xFE0F; | &#x1F6F3;&#xFE0F; | &#x1F6F3;&#xFE0F; | 
+| <small>26F4 FE0F</small><br>ferry<br>&#x26F4;&#xFE0F; | &#x26F4;&#xFE0F; | &#x26F4;&#xFE0F; | &#x26F4;&#xFE0F; | 
+| <small>1F6E5 FE0F</small><br>motor boat<br>&#x1F6E5;&#xFE0F; | &#x1F6E5;&#xFE0F; | &#x1F6E5;&#xFE0F; | &#x1F6E5;&#xFE0F; | 
+| <small>1F6A2</small><br>ship<br>&#x1F6A2; | &#x1F6A2; | &#x1F6A2; | &#x1F6A2; | 
+
+#### transport-air
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>2708 FE0F</small><br>airplane<br>&#x2708;&#xFE0F; | &#x2708;&#xFE0F; | &#x2708;&#xFE0F; | &#x2708;&#xFE0F; | 
+| <small>1F6E9 FE0F</small><br>small airplane<br>&#x1F6E9;&#xFE0F; | &#x1F6E9;&#xFE0F; | &#x1F6E9;&#xFE0F; | &#x1F6E9;&#xFE0F; | 
+| <small>1F6EB</small><br>airplane departure<br>&#x1F6EB; | &#x1F6EB; | &#x1F6EB; | &#x1F6EB; | 
+| <small>1F6EC</small><br>airplane arrival<br>&#x1F6EC; | &#x1F6EC; | &#x1F6EC; | &#x1F6EC; | 
+| <small>1FA82</small><br>parachute<br>&#x1FA82; |  | &#x1FA82; | &#x1FA82; | 
+| <small>1F4BA</small><br>seat<br>&#x1F4BA; | &#x1F4BA; | &#x1F4BA; | &#x1F4BA; | 
+| <small>1F681</small><br>helicopter<br>&#x1F681; | &#x1F681; | &#x1F681; | &#x1F681; | 
+| <small>1F69F</small><br>suspension railway<br>&#x1F69F; | &#x1F69F; | &#x1F69F; | &#x1F69F; | 
+| <small>1F6A0</small><br>mountain cableway<br>&#x1F6A0; | &#x1F6A0; | &#x1F6A0; | &#x1F6A0; | 
+| <small>1F6A1</small><br>aerial tramway<br>&#x1F6A1; | &#x1F6A1; | &#x1F6A1; | &#x1F6A1; | 
+| <small>1F6F0 FE0F</small><br>satellite<br>&#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | &#x1F6F0;&#xFE0F; | 
+| <small>1F680</small><br>rocket<br>&#x1F680; | &#x1F680; | &#x1F680; | &#x1F680; | 
+| <small>1F6F8</small><br>flying saucer<br>&#x1F6F8; |  | &#x1F6F8; | &#x1F6F8; | 
+
+#### hotel
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F6CE FE0F</small><br>bellhop bell<br>&#x1F6CE;&#xFE0F; | &#x1F6CE;&#xFE0F; | &#x1F6CE;&#xFE0F; | &#x1F6CE;&#xFE0F; | 
+| <small>1F9F3</small><br>luggage<br>&#x1F9F3; |  | &#x1F9F3; | &#x1F9F3; | 
+
+#### time
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>231B</small><br>hourglass done<br>&#x231B; | &#x231B; | &#x231B; | &#x231B; | 
+| <small>23F3</small><br>hourglass not done<br>&#x23F3; | &#x23F3; | &#x23F3; | &#x23F3; | 
+| <small>231A</small><br>watch<br>&#x231A; | &#x231A; | &#x231A; | &#x231A; | 
+| <small>23F0</small><br>alarm clock<br>&#x23F0; | &#x23F0; | &#x23F0; | &#x23F0; | 
+| <small>23F1 FE0F</small><br>stopwatch<br>&#x23F1;&#xFE0F; | &#x23F1;&#xFE0F; | &#x23F1;&#xFE0F; | &#x23F1;&#xFE0F; | 
+| <small>23F2 FE0F</small><br>timer clock<br>&#x23F2;&#xFE0F; | &#x23F2;&#xFE0F; | &#x23F2;&#xFE0F; | &#x23F2;&#xFE0F; | 
+| <small>1F570 FE0F</small><br>mantelpiece clock<br>&#x1F570;&#xFE0F; | &#x1F570;&#xFE0F; | &#x1F570;&#xFE0F; | &#x1F570;&#xFE0F; | 
+| <small>1F55B</small><br>twelve o’clock<br>&#x1F55B; | &#x1F55B; | &#x1F55B; | &#x1F55B; | 
+| <small>1F567</small><br>twelve-thirty<br>&#x1F567; | &#x1F567; | &#x1F567; | &#x1F567; | 
+| <small>1F550</small><br>one o’clock<br>&#x1F550; | &#x1F550; | &#x1F550; | &#x1F550; | 
+| <small>1F55C</small><br>one-thirty<br>&#x1F55C; | &#x1F55C; | &#x1F55C; | &#x1F55C; | 
+| <small>1F551</small><br>two o’clock<br>&#x1F551; | &#x1F551; | &#x1F551; | &#x1F551; | 
+| <small>1F55D</small><br>two-thirty<br>&#x1F55D; | &#x1F55D; | &#x1F55D; | &#x1F55D; | 
+| <small>1F552</small><br>three o’clock<br>&#x1F552; | &#x1F552; | &#x1F552; | &#x1F552; | 
+| <small>1F55E</small><br>three-thirty<br>&#x1F55E; | &#x1F55E; | &#x1F55E; | &#x1F55E; | 
+| <small>1F553</small><br>four o’clock<br>&#x1F553; | &#x1F553; | &#x1F553; | &#x1F553; | 
+| <small>1F55F</small><br>four-thirty<br>&#x1F55F; | &#x1F55F; | &#x1F55F; | &#x1F55F; | 
+| <small>1F554</small><br>five o’clock<br>&#x1F554; | &#x1F554; | &#x1F554; | &#x1F554; | 
+| <small>1F560</small><br>five-thirty<br>&#x1F560; | &#x1F560; | &#x1F560; | &#x1F560; | 
+| <small>1F555</small><br>six o’clock<br>&#x1F555; | &#x1F555; | &#x1F555; | &#x1F555; | 
+| <small>1F561</small><br>six-thirty<br>&#x1F561; | &#x1F561; | &#x1F561; | &#x1F561; | 
+| <small>1F556</small><br>seven o’clock<br>&#x1F556; | &#x1F556; | &#x1F556; | &#x1F556; | 
+| <small>1F562</small><br>seven-thirty<br>&#x1F562; | &#x1F562; | &#x1F562; | &#x1F562; | 
+| <small>1F557</small><br>eight o’clock<br>&#x1F557; | &#x1F557; | &#x1F557; | &#x1F557; | 
+| <small>1F563</small><br>eight-thirty<br>&#x1F563; | &#x1F563; | &#x1F563; | &#x1F563; | 
+| <small>1F558</small><br>nine o’clock<br>&#x1F558; | &#x1F558; | &#x1F558; | &#x1F558; | 
+| <small>1F564</small><br>nine-thirty<br>&#x1F564; | &#x1F564; | &#x1F564; | &#x1F564; | 
+| <small>1F559</small><br>ten o’clock<br>&#x1F559; | &#x1F559; | &#x1F559; | &#x1F559; | 
+| <small>1F565</small><br>ten-thirty<br>&#x1F565; | &#x1F565; | &#x1F565; | &#x1F565; | 
+| <small>1F55A</small><br>eleven o’clock<br>&#x1F55A; | &#x1F55A; | &#x1F55A; | &#x1F55A; | 
+| <small>1F566</small><br>eleven-thirty<br>&#x1F566; | &#x1F566; | &#x1F566; | &#x1F566; | 
+
+#### sky & weather
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F311</small><br>new moon<br>&#x1F311; | &#x1F311; | &#x1F311; | &#x1F311; | 
+| <small>1F312</small><br>waxing crescent moon<br>&#x1F312; | &#x1F312; | &#x1F312; | &#x1F312; | 
+| <small>1F313</small><br>first quarter moon<br>&#x1F313; | &#x1F313; | &#x1F313; | &#x1F313; | 
+| <small>1F314</small><br>waxing gibbous moon<br>&#x1F314; | &#x1F314; | &#x1F314; | &#x1F314; | 
+| <small>1F315</small><br>full moon<br>&#x1F315; | &#x1F315; | &#x1F315; | &#x1F315; | 
+| <small>1F316</small><br>waning gibbous moon<br>&#x1F316; | &#x1F316; | &#x1F316; | &#x1F316; | 
+| <small>1F317</small><br>last quarter moon<br>&#x1F317; | &#x1F317; | &#x1F317; | &#x1F317; | 
+| <small>1F318</small><br>waning crescent moon<br>&#x1F318; | &#x1F318; | &#x1F318; | &#x1F318; | 
+| <small>1F319</small><br>crescent moon<br>&#x1F319; | &#x1F319; | &#x1F319; | &#x1F319; | 
+| <small>1F31A</small><br>new moon face<br>&#x1F31A; | &#x1F31A; | &#x1F31A; | &#x1F31A; | 
+| <small>1F31B</small><br>first quarter moon face<br>&#x1F31B; | &#x1F31B; | &#x1F31B; | &#x1F31B; | 
+| <small>1F31C</small><br>last quarter moon face<br>&#x1F31C; | &#x1F31C; | &#x1F31C; | &#x1F31C; | 
+| <small>1F321 FE0F</small><br>thermometer<br>&#x1F321;&#xFE0F; | &#x1F321;&#xFE0F; | &#x1F321;&#xFE0F; | &#x1F321;&#xFE0F; | 
+| <small>2600 FE0F</small><br>sun<br>&#x2600;&#xFE0F; | &#x2600;&#xFE0F; | &#x2600;&#xFE0F; | &#x2600;&#xFE0F; | 
+| <small>1F31D</small><br>full moon face<br>&#x1F31D; | &#x1F31D; | &#x1F31D; | &#x1F31D; | 
+| <small>1F31E</small><br>sun with face<br>&#x1F31E; | &#x1F31E; | &#x1F31E; | &#x1F31E; | 
+| <small>1FA90</small><br>ringed planet<br>&#x1FA90; |  | &#x1FA90; | &#x1FA90; | 
+| <small>2B50</small><br>star<br>&#x2B50; | &#x2B50; | &#x2B50; | &#x2B50; | 
+| <small>1F31F</small><br>glowing star<br>&#x1F31F; | &#x1F31F; | &#x1F31F; | &#x1F31F; | 
+| <small>1F320</small><br>shooting star<br>&#x1F320; | &#x1F320; | &#x1F320; | &#x1F320; | 
+| <small>1F30C</small><br>milky way<br>&#x1F30C; | &#x1F30C; | &#x1F30C; | &#x1F30C; | 
+| <small>2601 FE0F</small><br>cloud<br>&#x2601;&#xFE0F; | &#x2601;&#xFE0F; | &#x2601;&#xFE0F; | &#x2601;&#xFE0F; | 
+| <small>26C5</small><br>sun behind cloud<br>&#x26C5; | &#x26C5; | &#x26C5; | &#x26C5; | 
+| <small>26C8 FE0F</small><br>cloud with lightning and rain<br>&#x26C8;&#xFE0F; | &#x26C8;&#xFE0F; | &#x26C8;&#xFE0F; | &#x26C8;&#xFE0F; | 
+| <small>1F324 FE0F</small><br>sun behind small cloud<br>&#x1F324;&#xFE0F; | &#x1F324;&#xFE0F; | &#x1F324;&#xFE0F; | &#x1F324;&#xFE0F; | 
+| <small>1F325 FE0F</small><br>sun behind large cloud<br>&#x1F325;&#xFE0F; | &#x1F325;&#xFE0F; | &#x1F325;&#xFE0F; | &#x1F325;&#xFE0F; | 
+| <small>1F326 FE0F</small><br>sun behind rain cloud<br>&#x1F326;&#xFE0F; | &#x1F326;&#xFE0F; | &#x1F326;&#xFE0F; | &#x1F326;&#xFE0F; | 
+| <small>1F327 FE0F</small><br>cloud with rain<br>&#x1F327;&#xFE0F; | &#x1F327;&#xFE0F; | &#x1F327;&#xFE0F; | &#x1F327;&#xFE0F; | 
+| <small>1F328 FE0F</small><br>cloud with snow<br>&#x1F328;&#xFE0F; | &#x1F328;&#xFE0F; | &#x1F328;&#xFE0F; | &#x1F328;&#xFE0F; | 
+| <small>1F329 FE0F</small><br>cloud with lightning<br>&#x1F329;&#xFE0F; | &#x1F329;&#xFE0F; | &#x1F329;&#xFE0F; | &#x1F329;&#xFE0F; | 
+| <small>1F32A FE0F</small><br>tornado<br>&#x1F32A;&#xFE0F; | &#x1F32A;&#xFE0F; | &#x1F32A;&#xFE0F; | &#x1F32A;&#xFE0F; | 
+| <small>1F32B FE0F</small><br>fog<br>&#x1F32B;&#xFE0F; | &#x1F32B;&#xFE0F; | &#x1F32B;&#xFE0F; | &#x1F32B;&#xFE0F; | 
+| <small>1F32C FE0F</small><br>wind face<br>&#x1F32C;&#xFE0F; | &#x1F32C;&#xFE0F; | &#x1F32C;&#xFE0F; | &#x1F32C;&#xFE0F; | 
+| <small>1F300</small><br>cyclone<br>&#x1F300; | &#x1F300; | &#x1F300; | &#x1F300; | 
+| <small>1F308</small><br>rainbow<br>&#x1F308; | &#x1F308; | &#x1F308; | &#x1F308; | 
+| <small>1F302</small><br>closed umbrella<br>&#x1F302; | &#x1F302; | &#x1F302; | &#x1F302; | 
+| <small>2602 FE0F</small><br>umbrella<br>&#x2602;&#xFE0F; | &#x2602;&#xFE0F; | &#x2602;&#xFE0F; | &#x2602;&#xFE0F; | 
+| <small>2614</small><br>umbrella with rain drops<br>&#x2614; | &#x2614; | &#x2614; | &#x2614; | 
+| <small>26F1 FE0F</small><br>umbrella on ground<br>&#x26F1;&#xFE0F; | &#x26F1;&#xFE0F; | &#x26F1;&#xFE0F; | &#x26F1;&#xFE0F; | 
+| <small>26A1</small><br>high voltage<br>&#x26A1; | &#x26A1; | &#x26A1; | &#x26A1; | 
+| <small>2744 FE0F</small><br>snowflake<br>&#x2744;&#xFE0F; | &#x2744;&#xFE0F; | &#x2744;&#xFE0F; | &#x2744;&#xFE0F; | 
+| <small>2603 FE0F</small><br>snowman<br>&#x2603;&#xFE0F; | &#x2603;&#xFE0F; | &#x2603;&#xFE0F; | &#x2603;&#xFE0F; | 
+| <small>26C4</small><br>snowman without snow<br>&#x26C4; | &#x26C4; | &#x26C4; | &#x26C4; | 
+| <small>2604 FE0F</small><br>comet<br>&#x2604;&#xFE0F; | &#x2604;&#xFE0F; | &#x2604;&#xFE0F; | &#x2604;&#xFE0F; | 
+| <small>1F525</small><br>fire<br>&#x1F525; | &#x1F525; | &#x1F525; | &#x1F525; | 
+| <small>1F4A7</small><br>droplet<br>&#x1F4A7; | &#x1F4A7; | &#x1F4A7; | &#x1F4A7; | 
+| <small>1F30A</small><br>water wave<br>&#x1F30A; | &#x1F30A; | &#x1F30A; | &#x1F30A; | 
+
+
+### Activities
+
+#### event
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F383</small><br>jack-o-lantern<br>&#x1F383; | &#x1F383; | &#x1F383; | &#x1F383; | 
+| <small>1F384</small><br>Christmas tree<br>&#x1F384; | &#x1F384; | &#x1F384; | &#x1F384; | 
+| <small>1F386</small><br>fireworks<br>&#x1F386; | &#x1F386; | &#x1F386; | &#x1F386; | 
+| <small>1F387</small><br>sparkler<br>&#x1F387; | &#x1F387; | &#x1F387; | &#x1F387; | 
+| <small>1F9E8</small><br>firecracker<br>&#x1F9E8; |  | &#x1F9E8; | &#x1F9E8; | 
+| <small>2728</small><br>sparkles<br>&#x2728; | &#x2728; | &#x2728; | &#x2728; | 
+| <small>1F388</small><br>balloon<br>&#x1F388; | &#x1F388; | &#x1F388; | &#x1F388; | 
+| <small>1F389</small><br>party popper<br>&#x1F389; | &#x1F389; | &#x1F389; | &#x1F389; | 
+| <small>1F38A</small><br>confetti ball<br>&#x1F38A; | &#x1F38A; | &#x1F38A; | &#x1F38A; | 
+| <small>1F38B</small><br>tanabata tree<br>&#x1F38B; | &#x1F38B; | &#x1F38B; | &#x1F38B; | 
+| <small>1F38D</small><br>pine decoration<br>&#x1F38D; | &#x1F38D; | &#x1F38D; | &#x1F38D; | 
+| <small>1F38E</small><br>Japanese dolls<br>&#x1F38E; | &#x1F38E; | &#x1F38E; | &#x1F38E; | 
+| <small>1F38F</small><br>carp streamer<br>&#x1F38F; | &#x1F38F; | &#x1F38F; | &#x1F38F; | 
+| <small>1F390</small><br>wind chime<br>&#x1F390; | &#x1F390; | &#x1F390; | &#x1F390; | 
+| <small>1F391</small><br>moon viewing ceremony<br>&#x1F391; | &#x1F391; | &#x1F391; | &#x1F391; | 
+| <small>1F9E7</small><br>red envelope<br>&#x1F9E7; |  | &#x1F9E7; | &#x1F9E7; | 
+| <small>1F380</small><br>ribbon<br>&#x1F380; | &#x1F380; | &#x1F380; | &#x1F380; | 
+| <small>1F381</small><br>wrapped gift<br>&#x1F381; | &#x1F381; | &#x1F381; | &#x1F381; | 
+| <small>1F397 FE0F</small><br>reminder ribbon<br>&#x1F397;&#xFE0F; | &#x1F397;&#xFE0F; | &#x1F397;&#xFE0F; | &#x1F397;&#xFE0F; | 
+| <small>1F39F FE0F</small><br>admission tickets<br>&#x1F39F;&#xFE0F; | &#x1F39F;&#xFE0F; | &#x1F39F;&#xFE0F; | &#x1F39F;&#xFE0F; | 
+| <small>1F3AB</small><br>ticket<br>&#x1F3AB; | &#x1F3AB; | &#x1F3AB; | &#x1F3AB; | 
+
+#### award-medal
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F396 FE0F</small><br>military medal<br>&#x1F396;&#xFE0F; | &#x1F396;&#xFE0F; | &#x1F396;&#xFE0F; | &#x1F396;&#xFE0F; | 
+| <small>1F3C6</small><br>trophy<br>&#x1F3C6; | &#x1F3C6; | &#x1F3C6; | &#x1F3C6; | 
+| <small>1F3C5</small><br>sports medal<br>&#x1F3C5; | &#x1F3C5; | &#x1F3C5; | &#x1F3C5; | 
+| <small>1F947</small><br>st place medal<br>&#x1F947; | &#x1F947; | &#x1F947; | &#x1F947; | 
+| <small>1F948</small><br>nd place medal<br>&#x1F948; | &#x1F948; | &#x1F948; | &#x1F948; | 
+| <small>1F949</small><br>rd place medal<br>&#x1F949; | &#x1F949; | &#x1F949; | &#x1F949; | 
+
+#### sport
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>26BD</small><br>soccer ball<br>&#x26BD; | &#x26BD; | &#x26BD; | &#x26BD; | 
+| <small>26BE</small><br>baseball<br>&#x26BE; | &#x26BE; | &#x26BE; | &#x26BE; | 
+| <small>1F94E</small><br>softball<br>&#x1F94E; |  | &#x1F94E; | &#x1F94E; | 
+| <small>1F3C0</small><br>basketball<br>&#x1F3C0; | &#x1F3C0; | &#x1F3C0; | &#x1F3C0; | 
+| <small>1F3D0</small><br>volleyball<br>&#x1F3D0; | &#x1F3D0; | &#x1F3D0; | &#x1F3D0; | 
+| <small>1F3C8</small><br>american football<br>&#x1F3C8; | &#x1F3C8; | &#x1F3C8; | &#x1F3C8; | 
+| <small>1F3C9</small><br>rugby football<br>&#x1F3C9; | &#x1F3C9; | &#x1F3C9; | &#x1F3C9; | 
+| <small>1F3BE</small><br>tennis<br>&#x1F3BE; | &#x1F3BE; | &#x1F3BE; | &#x1F3BE; | 
+| <small>1F94F</small><br>flying disc<br>&#x1F94F; |  | &#x1F94F; | &#x1F94F; | 
+| <small>1F3B3</small><br>bowling<br>&#x1F3B3; | &#x1F3B3; | &#x1F3B3; | &#x1F3B3; | 
+| <small>1F3CF</small><br>cricket game<br>&#x1F3CF; | &#x1F3CF; | &#x1F3CF; | &#x1F3CF; | 
+| <small>1F3D1</small><br>field hockey<br>&#x1F3D1; | &#x1F3D1; | &#x1F3D1; | &#x1F3D1; | 
+| <small>1F3D2</small><br>ice hockey<br>&#x1F3D2; | &#x1F3D2; | &#x1F3D2; | &#x1F3D2; | 
+| <small>1F94D</small><br>lacrosse<br>&#x1F94D; |  | &#x1F94D; | &#x1F94D; | 
+| <small>1F3D3</small><br>ping pong<br>&#x1F3D3; | &#x1F3D3; | &#x1F3D3; | &#x1F3D3; | 
+| <small>1F3F8</small><br>badminton<br>&#x1F3F8; | &#x1F3F8; | &#x1F3F8; | &#x1F3F8; | 
+| <small>1F94A</small><br>boxing glove<br>&#x1F94A; | &#x1F94A; | &#x1F94A; | &#x1F94A; | 
+| <small>1F94B</small><br>martial arts uniform<br>&#x1F94B; | &#x1F94B; | &#x1F94B; | &#x1F94B; | 
+| <small>1F945</small><br>goal net<br>&#x1F945; | &#x1F945; | &#x1F945; | &#x1F945; | 
+| <small>26F3</small><br>flag in hole<br>&#x26F3; | &#x26F3; | &#x26F3; | &#x26F3; | 
+| <small>26F8 FE0F</small><br>ice skate<br>&#x26F8;&#xFE0F; | &#x26F8;&#xFE0F; | &#x26F8;&#xFE0F; | &#x26F8;&#xFE0F; | 
+| <small>1F3A3</small><br>fishing pole<br>&#x1F3A3; | &#x1F3A3; | &#x1F3A3; | &#x1F3A3; | 
+| <small>1F93F</small><br>diving mask<br>&#x1F93F; |  | &#x1F93F; | &#x1F93F; | 
+| <small>1F3BD</small><br>running shirt<br>&#x1F3BD; | &#x1F3BD; | &#x1F3BD; | &#x1F3BD; | 
+| <small>1F3BF</small><br>skis<br>&#x1F3BF; | &#x1F3BF; | &#x1F3BF; | &#x1F3BF; | 
+| <small>1F6F7</small><br>sled<br>&#x1F6F7; |  | &#x1F6F7; | &#x1F6F7; | 
+| <small>1F94C</small><br>curling stone<br>&#x1F94C; |  | &#x1F94C; | &#x1F94C; | 
+
+#### game
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3AF</small><br>direct hit<br>&#x1F3AF; | &#x1F3AF; | &#x1F3AF; | &#x1F3AF; | 
+| <small>1FA80</small><br>yo-yo<br>&#x1FA80; |  | &#x1FA80; | &#x1FA80; | 
+| <small>1FA81</small><br>kite<br>&#x1FA81; |  | &#x1FA81; | &#x1FA81; | 
+| <small>1F3B1</small><br>pool 8 ball<br>&#x1F3B1; | &#x1F3B1; | &#x1F3B1; | &#x1F3B1; | 
+| <small>1F52E</small><br>crystal ball<br>&#x1F52E; | &#x1F52E; | &#x1F52E; | &#x1F52E; | 
+| <small>1FA84</small><br>magic wand<br>&#x1FA84; |  | &#x1FA84; | &#x1FA84; | 
+| <small>1F9FF</small><br>nazar amulet<br>&#x1F9FF; |  | &#x1F9FF; | &#x1F9FF; | 
+| <small>1F3AE</small><br>video game<br>&#x1F3AE; | &#x1F3AE; | &#x1F3AE; | &#x1F3AE; | 
+| <small>1F579 FE0F</small><br>joystick<br>&#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | 
+| <small>1F3B0</small><br>slot machine<br>&#x1F3B0; | &#x1F3B0; | &#x1F3B0; | &#x1F3B0; | 
+| <small>1F3B2</small><br>game die<br>&#x1F3B2; | &#x1F3B2; | &#x1F3B2; | &#x1F3B2; | 
+| <small>1F9E9</small><br>puzzle piece<br>&#x1F9E9; |  | &#x1F9E9; | &#x1F9E9; | 
+| <small>1F9F8</small><br>teddy bear<br>&#x1F9F8; |  | &#x1F9F8; | &#x1F9F8; | 
+| <small>1FA85</small><br>piñata<br>&#x1FA85; |  | &#x1FA85; | &#x1FA85; | 
+| <small>1FA86</small><br>nesting dolls<br>&#x1FA86; |  | &#x1FA86; | &#x1FA86; | 
+| <small>2660 FE0F</small><br>spade suit<br>&#x2660;&#xFE0F; | &#x2660;&#xFE0F; | &#x2660;&#xFE0F; | &#x2660;&#xFE0F; | 
+| <small>2665 FE0F</small><br>heart suit<br>&#x2665;&#xFE0F; | &#x2665;&#xFE0F; | &#x2665;&#xFE0F; | &#x2665;&#xFE0F; | 
+| <small>2666 FE0F</small><br>diamond suit<br>&#x2666;&#xFE0F; | &#x2666;&#xFE0F; | &#x2666;&#xFE0F; | &#x2666;&#xFE0F; | 
+| <small>2663 FE0F</small><br>club suit<br>&#x2663;&#xFE0F; | &#x2663;&#xFE0F; | &#x2663;&#xFE0F; | &#x2663;&#xFE0F; | 
+| <small>265F FE0F</small><br>chess pawn<br>&#x265F;&#xFE0F; |  | &#x265F;&#xFE0F; | &#x265F;&#xFE0F; | 
+| <small>1F0CF</small><br>joker<br>&#x1F0CF; | &#x1F0CF; | &#x1F0CF; | &#x1F0CF; | 
+| <small>1F004</small><br>mahjong red dragon<br>&#x1F004; | &#x1F004; | &#x1F004; | &#x1F004; | 
+| <small>1F3B4</small><br>flower playing cards<br>&#x1F3B4; | &#x1F3B4; | &#x1F3B4; | &#x1F3B4; | 
+
+#### arts & crafts
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3AD</small><br>performing arts<br>&#x1F3AD; | &#x1F3AD; | &#x1F3AD; | &#x1F3AD; | 
+| <small>1F5BC FE0F</small><br>framed picture<br>&#x1F5BC;&#xFE0F; | &#x1F5BC;&#xFE0F; | &#x1F5BC;&#xFE0F; | &#x1F5BC;&#xFE0F; | 
+| <small>1F3A8</small><br>artist palette<br>&#x1F3A8; | &#x1F3A8; | &#x1F3A8; | &#x1F3A8; | 
+| <small>1F9F5</small><br>thread<br>&#x1F9F5; |  | &#x1F9F5; | &#x1F9F5; | 
+| <small>1FAA1</small><br>sewing needle<br>&#x1FAA1; |  | &#x1FAA1; | &#x1FAA1; | 
+| <small>1F9F6</small><br>yarn<br>&#x1F9F6; |  | &#x1F9F6; | &#x1F9F6; | 
+| <small>1FAA2</small><br>knot<br>&#x1FAA2; |  | &#x1FAA2; | &#x1FAA2; | 
+
+
+### Objects
+
+#### clothing
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F453</small><br>glasses<br>&#x1F453; | &#x1F453; | &#x1F453; | &#x1F453; | 
+| <small>1F576 FE0F</small><br>sunglasses<br>&#x1F576;&#xFE0F; | &#x1F576;&#xFE0F; | &#x1F576;&#xFE0F; | &#x1F576;&#xFE0F; | 
+| <small>1F97D</small><br>goggles<br>&#x1F97D; |  | &#x1F97D; | &#x1F97D; | 
+| <small>1F97C</small><br>lab coat<br>&#x1F97C; |  | &#x1F97C; | &#x1F97C; | 
+| <small>1F9BA</small><br>safety vest<br>&#x1F9BA; |  | &#x1F9BA; | &#x1F9BA; | 
+| <small>1F454</small><br>necktie<br>&#x1F454; | &#x1F454; | &#x1F454; | &#x1F454; | 
+| <small>1F455</small><br>t-shirt<br>&#x1F455; | &#x1F455; | &#x1F455; | &#x1F455; | 
+| <small>1F456</small><br>jeans<br>&#x1F456; | &#x1F456; | &#x1F456; | &#x1F456; | 
+| <small>1F9E3</small><br>scarf<br>&#x1F9E3; |  | &#x1F9E3; | &#x1F9E3; | 
+| <small>1F9E4</small><br>gloves<br>&#x1F9E4; |  | &#x1F9E4; | &#x1F9E4; | 
+| <small>1F9E5</small><br>coat<br>&#x1F9E5; |  | &#x1F9E5; | &#x1F9E5; | 
+| <small>1F9E6</small><br>socks<br>&#x1F9E6; |  | &#x1F9E6; | &#x1F9E6; | 
+| <small>1F457</small><br>dress<br>&#x1F457; | &#x1F457; | &#x1F457; | &#x1F457; | 
+| <small>1F458</small><br>kimono<br>&#x1F458; | &#x1F458; | &#x1F458; | &#x1F458; | 
+| <small>1F97B</small><br>sari<br>&#x1F97B; |  | &#x1F97B; | &#x1F97B; | 
+| <small>1FA71</small><br>one-piece swimsuit<br>&#x1FA71; |  | &#x1FA71; | &#x1FA71; | 
+| <small>1FA72</small><br>briefs<br>&#x1FA72; |  | &#x1FA72; | &#x1FA72; | 
+| <small>1FA73</small><br>shorts<br>&#x1FA73; |  | &#x1FA73; | &#x1FA73; | 
+| <small>1F459</small><br>bikini<br>&#x1F459; | &#x1F459; | &#x1F459; | &#x1F459; | 
+| <small>1F45A</small><br>woman’s clothes<br>&#x1F45A; | &#x1F45A; | &#x1F45A; | &#x1F45A; | 
+| <small>1F45B</small><br>purse<br>&#x1F45B; | &#x1F45B; | &#x1F45B; | &#x1F45B; | 
+| <small>1F45C</small><br>handbag<br>&#x1F45C; | &#x1F45C; | &#x1F45C; | &#x1F45C; | 
+| <small>1F45D</small><br>clutch bag<br>&#x1F45D; | &#x1F45D; | &#x1F45D; | &#x1F45D; | 
+| <small>1F6CD FE0F</small><br>shopping bags<br>&#x1F6CD;&#xFE0F; | &#x1F6CD;&#xFE0F; | &#x1F6CD;&#xFE0F; | &#x1F6CD;&#xFE0F; | 
+| <small>1F392</small><br>backpack<br>&#x1F392; | &#x1F392; | &#x1F392; | &#x1F392; | 
+| <small>1FA74</small><br>thong sandal<br>&#x1FA74; |  | &#x1FA74; | &#x1FA74; | 
+| <small>1F45E</small><br>man’s shoe<br>&#x1F45E; | &#x1F45E; | &#x1F45E; | &#x1F45E; | 
+| <small>1F45F</small><br>running shoe<br>&#x1F45F; | &#x1F45F; | &#x1F45F; | &#x1F45F; | 
+| <small>1F97E</small><br>hiking boot<br>&#x1F97E; |  | &#x1F97E; | &#x1F97E; | 
+| <small>1F97F</small><br>flat shoe<br>&#x1F97F; |  | &#x1F97F; | &#x1F97F; | 
+| <small>1F460</small><br>high-heeled shoe<br>&#x1F460; | &#x1F460; | &#x1F460; | &#x1F460; | 
+| <small>1F461</small><br>woman’s sandal<br>&#x1F461; | &#x1F461; | &#x1F461; | &#x1F461; | 
+| <small>1FA70</small><br>ballet shoes<br>&#x1FA70; |  | &#x1FA70; | &#x1FA70; | 
+| <small>1F462</small><br>woman’s boot<br>&#x1F462; | &#x1F462; | &#x1F462; | &#x1F462; | 
+| <small>1F451</small><br>crown<br>&#x1F451; | &#x1F451; | &#x1F451; | &#x1F451; | 
+| <small>1F452</small><br>woman’s hat<br>&#x1F452; | &#x1F452; | &#x1F452; | &#x1F452; | 
+| <small>1F3A9</small><br>top hat<br>&#x1F3A9; | &#x1F3A9; | &#x1F3A9; | &#x1F3A9; | 
+| <small>1F393</small><br>graduation cap<br>&#x1F393; | &#x1F393; | &#x1F393; | &#x1F393; | 
+| <small>1F9E2</small><br>billed cap<br>&#x1F9E2; |  | &#x1F9E2; | &#x1F9E2; | 
+| <small>1FA96</small><br>military helmet<br>&#x1FA96; |  | &#x1FA96; | &#x1FA96; | 
+| <small>26D1 FE0F</small><br>rescue worker’s helmet<br>&#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | &#x26D1;&#xFE0F; | 
+| <small>1F4FF</small><br>prayer beads<br>&#x1F4FF; | &#x1F4FF; | &#x1F4FF; | &#x1F4FF; | 
+| <small>1F484</small><br>lipstick<br>&#x1F484; | &#x1F484; | &#x1F484; | &#x1F484; | 
+| <small>1F48D</small><br>ring<br>&#x1F48D; | &#x1F48D; | &#x1F48D; | &#x1F48D; | 
+| <small>1F48E</small><br>gem stone<br>&#x1F48E; | &#x1F48E; | &#x1F48E; | &#x1F48E; | 
+
+#### sound
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F507</small><br>muted speaker<br>&#x1F507; | &#x1F507; | &#x1F507; | &#x1F507; | 
+| <small>1F508</small><br>speaker low volume<br>&#x1F508; | &#x1F508; | &#x1F508; | &#x1F508; | 
+| <small>1F509</small><br>speaker medium volume<br>&#x1F509; | &#x1F509; | &#x1F509; | &#x1F509; | 
+| <small>1F50A</small><br>speaker high volume<br>&#x1F50A; | &#x1F50A; | &#x1F50A; | &#x1F50A; | 
+| <small>1F4E2</small><br>loudspeaker<br>&#x1F4E2; | &#x1F4E2; | &#x1F4E2; | &#x1F4E2; | 
+| <small>1F4E3</small><br>megaphone<br>&#x1F4E3; | &#x1F4E3; | &#x1F4E3; | &#x1F4E3; | 
+| <small>1F4EF</small><br>postal horn<br>&#x1F4EF; | &#x1F4EF; | &#x1F4EF; | &#x1F4EF; | 
+| <small>1F514</small><br>bell<br>&#x1F514; | &#x1F514; | &#x1F514; | &#x1F514; | 
+| <small>1F515</small><br>bell with slash<br>&#x1F515; | &#x1F515; | &#x1F515; | &#x1F515; | 
+
+#### music
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3BC</small><br>musical score<br>&#x1F3BC; | &#x1F3BC; | &#x1F3BC; | &#x1F3BC; | 
+| <small>1F3B5</small><br>musical note<br>&#x1F3B5; | &#x1F3B5; | &#x1F3B5; | &#x1F3B5; | 
+| <small>1F3B6</small><br>musical notes<br>&#x1F3B6; | &#x1F3B6; | &#x1F3B6; | &#x1F3B6; | 
+| <small>1F399 FE0F</small><br>studio microphone<br>&#x1F399;&#xFE0F; | &#x1F399;&#xFE0F; | &#x1F399;&#xFE0F; | &#x1F399;&#xFE0F; | 
+| <small>1F39A FE0F</small><br>level slider<br>&#x1F39A;&#xFE0F; | &#x1F39A;&#xFE0F; | &#x1F39A;&#xFE0F; | &#x1F39A;&#xFE0F; | 
+| <small>1F39B FE0F</small><br>control knobs<br>&#x1F39B;&#xFE0F; | &#x1F39B;&#xFE0F; | &#x1F39B;&#xFE0F; | &#x1F39B;&#xFE0F; | 
+| <small>1F3A4</small><br>microphone<br>&#x1F3A4; | &#x1F3A4; | &#x1F3A4; | &#x1F3A4; | 
+| <small>1F3A7</small><br>headphone<br>&#x1F3A7; | &#x1F3A7; | &#x1F3A7; | &#x1F3A7; | 
+| <small>1F4FB</small><br>radio<br>&#x1F4FB; | &#x1F4FB; | &#x1F4FB; | &#x1F4FB; | 
+
+#### musical-instrument
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3B7</small><br>saxophone<br>&#x1F3B7; | &#x1F3B7; | &#x1F3B7; | &#x1F3B7; | 
+| <small>1FA97</small><br>accordion<br>&#x1FA97; |  | &#x1FA97; | &#x1FA97; | 
+| <small>1F3B8</small><br>guitar<br>&#x1F3B8; | &#x1F3B8; | &#x1F3B8; | &#x1F3B8; | 
+| <small>1F3B9</small><br>musical keyboard<br>&#x1F3B9; | &#x1F3B9; | &#x1F3B9; | &#x1F3B9; | 
+| <small>1F3BA</small><br>trumpet<br>&#x1F3BA; | &#x1F3BA; | &#x1F3BA; | &#x1F3BA; | 
+| <small>1F3BB</small><br>violin<br>&#x1F3BB; | &#x1F3BB; | &#x1F3BB; | &#x1F3BB; | 
+| <small>1FA95</small><br>banjo<br>&#x1FA95; |  | &#x1FA95; | &#x1FA95; | 
+| <small>1F941</small><br>drum<br>&#x1F941; | &#x1F941; | &#x1F941; | &#x1F941; | 
+| <small>1FA98</small><br>long drum<br>&#x1FA98; |  | &#x1FA98; | &#x1FA98; | 
+
+#### phone
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F4F1</small><br>mobile phone<br>&#x1F4F1; | &#x1F4F1; | &#x1F4F1; | &#x1F4F1; | 
+| <small>1F4F2</small><br>mobile phone with arrow<br>&#x1F4F2; | &#x1F4F2; | &#x1F4F2; | &#x1F4F2; | 
+| <small>260E FE0F</small><br>telephone<br>&#x260E;&#xFE0F; | &#x260E;&#xFE0F; | &#x260E;&#xFE0F; | &#x260E;&#xFE0F; | 
+| <small>1F4DE</small><br>telephone receiver<br>&#x1F4DE; | &#x1F4DE; | &#x1F4DE; | &#x1F4DE; | 
+| <small>1F4DF</small><br>pager<br>&#x1F4DF; | &#x1F4DF; | &#x1F4DF; | &#x1F4DF; | 
+| <small>1F4E0</small><br>fax machine<br>&#x1F4E0; | &#x1F4E0; | &#x1F4E0; | &#x1F4E0; | 
+
+#### computer
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F50B</small><br>battery<br>&#x1F50B; | &#x1F50B; | &#x1F50B; | &#x1F50B; | 
+| <small>1F50C</small><br>electric plug<br>&#x1F50C; | &#x1F50C; | &#x1F50C; | &#x1F50C; | 
+| <small>1F4BB</small><br>laptop<br>&#x1F4BB; | &#x1F4BB; | &#x1F4BB; | &#x1F4BB; | 
+| <small>1F5A5 FE0F</small><br>desktop computer<br>&#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | 
+| <small>1F5A8 FE0F</small><br>printer<br>&#x1F5A8;&#xFE0F; | &#x1F5A8;&#xFE0F; | &#x1F5A8;&#xFE0F; | &#x1F5A8;&#xFE0F; | 
+| <small>2328 FE0F</small><br>keyboard<br>&#x2328;&#xFE0F; | &#x2328;&#xFE0F; | &#x2328;&#xFE0F; | &#x2328;&#xFE0F; | 
+| <small>1F5B1 FE0F</small><br>computer mouse<br>&#x1F5B1;&#xFE0F; | &#x1F5B1;&#xFE0F; | &#x1F5B1;&#xFE0F; | &#x1F5B1;&#xFE0F; | 
+| <small>1F5B2 FE0F</small><br>trackball<br>&#x1F5B2;&#xFE0F; | &#x1F5B2;&#xFE0F; | &#x1F5B2;&#xFE0F; | &#x1F5B2;&#xFE0F; | 
+| <small>1F4BD</small><br>computer disk<br>&#x1F4BD; | &#x1F4BD; | &#x1F4BD; | &#x1F4BD; | 
+| <small>1F4BE</small><br>floppy disk<br>&#x1F4BE; | &#x1F4BE; | &#x1F4BE; | &#x1F4BE; | 
+| <small>1F4BF</small><br>optical disk<br>&#x1F4BF; | &#x1F4BF; | &#x1F4BF; | &#x1F4BF; | 
+| <small>1F4C0</small><br>dvd<br>&#x1F4C0; | &#x1F4C0; | &#x1F4C0; | &#x1F4C0; | 
+| <small>1F9EE</small><br>abacus<br>&#x1F9EE; |  | &#x1F9EE; | &#x1F9EE; | 
+
+#### light & video
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3A5</small><br>movie camera<br>&#x1F3A5; | &#x1F3A5; | &#x1F3A5; | &#x1F3A5; | 
+| <small>1F39E FE0F</small><br>film frames<br>&#x1F39E;&#xFE0F; | &#x1F39E;&#xFE0F; | &#x1F39E;&#xFE0F; | &#x1F39E;&#xFE0F; | 
+| <small>1F4FD FE0F</small><br>film projector<br>&#x1F4FD;&#xFE0F; | &#x1F4FD;&#xFE0F; | &#x1F4FD;&#xFE0F; | &#x1F4FD;&#xFE0F; | 
+| <small>1F3AC</small><br>clapper board<br>&#x1F3AC; | &#x1F3AC; | &#x1F3AC; | &#x1F3AC; | 
+| <small>1F4FA</small><br>television<br>&#x1F4FA; | &#x1F4FA; | &#x1F4FA; | &#x1F4FA; | 
+| <small>1F4F7</small><br>camera<br>&#x1F4F7; | &#x1F4F7; | &#x1F4F7; | &#x1F4F7; | 
+| <small>1F4F8</small><br>camera with flash<br>&#x1F4F8; | &#x1F4F8; | &#x1F4F8; | &#x1F4F8; | 
+| <small>1F4F9</small><br>video camera<br>&#x1F4F9; | &#x1F4F9; | &#x1F4F9; | &#x1F4F9; | 
+| <small>1F4FC</small><br>videocassette<br>&#x1F4FC; | &#x1F4FC; | &#x1F4FC; | &#x1F4FC; | 
+| <small>1F50D</small><br>magnifying glass tilted left<br>&#x1F50D; | &#x1F50D; | &#x1F50D; | &#x1F50D; | 
+| <small>1F50E</small><br>magnifying glass tilted right<br>&#x1F50E; | &#x1F50E; | &#x1F50E; | &#x1F50E; | 
+| <small>1F56F FE0F</small><br>candle<br>&#x1F56F;&#xFE0F; | &#x1F56F;&#xFE0F; | &#x1F56F;&#xFE0F; | &#x1F56F;&#xFE0F; | 
+| <small>1F4A1</small><br>light bulb<br>&#x1F4A1; | &#x1F4A1; | &#x1F4A1; | &#x1F4A1; | 
+| <small>1F526</small><br>flashlight<br>&#x1F526; | &#x1F526; | &#x1F526; | &#x1F526; | 
+| <small>1F3EE</small><br>red paper lantern<br>&#x1F3EE; | &#x1F3EE; | &#x1F3EE; | &#x1F3EE; | 
+| <small>1FA94</small><br>diya lamp<br>&#x1FA94; |  | &#x1FA94; | &#x1FA94; | 
+
+#### book-paper
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F4D4</small><br>notebook with decorative cover<br>&#x1F4D4; | &#x1F4D4; | &#x1F4D4; | &#x1F4D4; | 
+| <small>1F4D5</small><br>closed book<br>&#x1F4D5; | &#x1F4D5; | &#x1F4D5; | &#x1F4D5; | 
+| <small>1F4D6</small><br>open book<br>&#x1F4D6; | &#x1F4D6; | &#x1F4D6; | &#x1F4D6; | 
+| <small>1F4D7</small><br>green book<br>&#x1F4D7; | &#x1F4D7; | &#x1F4D7; | &#x1F4D7; | 
+| <small>1F4D8</small><br>blue book<br>&#x1F4D8; | &#x1F4D8; | &#x1F4D8; | &#x1F4D8; | 
+| <small>1F4D9</small><br>orange book<br>&#x1F4D9; | &#x1F4D9; | &#x1F4D9; | &#x1F4D9; | 
+| <small>1F4DA</small><br>books<br>&#x1F4DA; | &#x1F4DA; | &#x1F4DA; | &#x1F4DA; | 
+| <small>1F4D3</small><br>notebook<br>&#x1F4D3; | &#x1F4D3; | &#x1F4D3; | &#x1F4D3; | 
+| <small>1F4D2</small><br>ledger<br>&#x1F4D2; | &#x1F4D2; | &#x1F4D2; | &#x1F4D2; | 
+| <small>1F4C3</small><br>page with curl<br>&#x1F4C3; | &#x1F4C3; | &#x1F4C3; | &#x1F4C3; | 
+| <small>1F4DC</small><br>scroll<br>&#x1F4DC; | &#x1F4DC; | &#x1F4DC; | &#x1F4DC; | 
+| <small>1F4C4</small><br>page facing up<br>&#x1F4C4; | &#x1F4C4; | &#x1F4C4; | &#x1F4C4; | 
+| <small>1F4F0</small><br>newspaper<br>&#x1F4F0; | &#x1F4F0; | &#x1F4F0; | &#x1F4F0; | 
+| <small>1F5DE FE0F</small><br>rolled-up newspaper<br>&#x1F5DE;&#xFE0F; | &#x1F5DE;&#xFE0F; | &#x1F5DE;&#xFE0F; | &#x1F5DE;&#xFE0F; | 
+| <small>1F4D1</small><br>bookmark tabs<br>&#x1F4D1; | &#x1F4D1; | &#x1F4D1; | &#x1F4D1; | 
+| <small>1F516</small><br>bookmark<br>&#x1F516; | &#x1F516; | &#x1F516; | &#x1F516; | 
+| <small>1F3F7 FE0F</small><br>label<br>&#x1F3F7;&#xFE0F; | &#x1F3F7;&#xFE0F; | &#x1F3F7;&#xFE0F; | &#x1F3F7;&#xFE0F; | 
+
+#### money
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F4B0</small><br>money bag<br>&#x1F4B0; | &#x1F4B0; | &#x1F4B0; | &#x1F4B0; | 
+| <small>1FA99</small><br>coin<br>&#x1FA99; |  | &#x1FA99; | &#x1FA99; | 
+| <small>1F4B4</small><br>yen banknote<br>&#x1F4B4; | &#x1F4B4; | &#x1F4B4; | &#x1F4B4; | 
+| <small>1F4B5</small><br>dollar banknote<br>&#x1F4B5; | &#x1F4B5; | &#x1F4B5; | &#x1F4B5; | 
+| <small>1F4B6</small><br>euro banknote<br>&#x1F4B6; | &#x1F4B6; | &#x1F4B6; | &#x1F4B6; | 
+| <small>1F4B7</small><br>pound banknote<br>&#x1F4B7; | &#x1F4B7; | &#x1F4B7; | &#x1F4B7; | 
+| <small>1F4B8</small><br>money with wings<br>&#x1F4B8; | &#x1F4B8; | &#x1F4B8; | &#x1F4B8; | 
+| <small>1F4B3</small><br>credit card<br>&#x1F4B3; | &#x1F4B3; | &#x1F4B3; | &#x1F4B3; | 
+| <small>1F9FE</small><br>receipt<br>&#x1F9FE; |  | &#x1F9FE; | &#x1F9FE; | 
+| <small>1F4B9</small><br>chart increasing with yen<br>&#x1F4B9; | &#x1F4B9; | &#x1F4B9; | &#x1F4B9; | 
+
+#### mail
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>2709 FE0F</small><br>envelope<br>&#x2709;&#xFE0F; | &#x2709;&#xFE0F; | &#x2709;&#xFE0F; | &#x2709;&#xFE0F; | 
+| <small>1F4E7</small><br>e-mail<br>&#x1F4E7; | &#x1F4E7; | &#x1F4E7; | &#x1F4E7; | 
+| <small>1F4E8</small><br>incoming envelope<br>&#x1F4E8; | &#x1F4E8; | &#x1F4E8; | &#x1F4E8; | 
+| <small>1F4E9</small><br>envelope with arrow<br>&#x1F4E9; | &#x1F4E9; | &#x1F4E9; | &#x1F4E9; | 
+| <small>1F4E4</small><br>outbox tray<br>&#x1F4E4; | &#x1F4E4; | &#x1F4E4; | &#x1F4E4; | 
+| <small>1F4E5</small><br>inbox tray<br>&#x1F4E5; | &#x1F4E5; | &#x1F4E5; | &#x1F4E5; | 
+| <small>1F4E6</small><br>package<br>&#x1F4E6; | &#x1F4E6; | &#x1F4E6; | &#x1F4E6; | 
+| <small>1F4EB</small><br>closed mailbox with raised flag<br>&#x1F4EB; | &#x1F4EB; | &#x1F4EB; | &#x1F4EB; | 
+| <small>1F4EA</small><br>closed mailbox with lowered flag<br>&#x1F4EA; | &#x1F4EA; | &#x1F4EA; | &#x1F4EA; | 
+| <small>1F4EC</small><br>open mailbox with raised flag<br>&#x1F4EC; | &#x1F4EC; | &#x1F4EC; | &#x1F4EC; | 
+| <small>1F4ED</small><br>open mailbox with lowered flag<br>&#x1F4ED; | &#x1F4ED; | &#x1F4ED; | &#x1F4ED; | 
+| <small>1F4EE</small><br>postbox<br>&#x1F4EE; | &#x1F4EE; | &#x1F4EE; | &#x1F4EE; | 
+| <small>1F5F3 FE0F</small><br>ballot box with ballot<br>&#x1F5F3;&#xFE0F; | &#x1F5F3;&#xFE0F; | &#x1F5F3;&#xFE0F; | &#x1F5F3;&#xFE0F; | 
+
+#### writing
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>270F FE0F</small><br>pencil<br>&#x270F;&#xFE0F; | &#x270F;&#xFE0F; | &#x270F;&#xFE0F; | &#x270F;&#xFE0F; | 
+| <small>2712 FE0F</small><br>black nib<br>&#x2712;&#xFE0F; | &#x2712;&#xFE0F; | &#x2712;&#xFE0F; | &#x2712;&#xFE0F; | 
+| <small>1F58B FE0F</small><br>fountain pen<br>&#x1F58B;&#xFE0F; | &#x1F58B;&#xFE0F; | &#x1F58B;&#xFE0F; | &#x1F58B;&#xFE0F; | 
+| <small>1F58A FE0F</small><br>pen<br>&#x1F58A;&#xFE0F; | &#x1F58A;&#xFE0F; | &#x1F58A;&#xFE0F; | &#x1F58A;&#xFE0F; | 
+| <small>1F58C FE0F</small><br>paintbrush<br>&#x1F58C;&#xFE0F; | &#x1F58C;&#xFE0F; | &#x1F58C;&#xFE0F; | &#x1F58C;&#xFE0F; | 
+| <small>1F58D FE0F</small><br>crayon<br>&#x1F58D;&#xFE0F; | &#x1F58D;&#xFE0F; | &#x1F58D;&#xFE0F; | &#x1F58D;&#xFE0F; | 
+| <small>1F4DD</small><br>memo<br>&#x1F4DD; | &#x1F4DD; | &#x1F4DD; | &#x1F4DD; | 
+
+#### office
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F4BC</small><br>briefcase<br>&#x1F4BC; | &#x1F4BC; | &#x1F4BC; | &#x1F4BC; | 
+| <small>1F4C1</small><br>file folder<br>&#x1F4C1; | &#x1F4C1; | &#x1F4C1; | &#x1F4C1; | 
+| <small>1F4C2</small><br>open file folder<br>&#x1F4C2; | &#x1F4C2; | &#x1F4C2; | &#x1F4C2; | 
+| <small>1F5C2 FE0F</small><br>card index dividers<br>&#x1F5C2;&#xFE0F; | &#x1F5C2;&#xFE0F; | &#x1F5C2;&#xFE0F; | &#x1F5C2;&#xFE0F; | 
+| <small>1F4C5</small><br>calendar<br>&#x1F4C5; | &#x1F4C5; | &#x1F4C5; | &#x1F4C5; | 
+| <small>1F4C6</small><br>tear-off calendar<br>&#x1F4C6; | &#x1F4C6; | &#x1F4C6; | &#x1F4C6; | 
+| <small>1F5D2 FE0F</small><br>spiral notepad<br>&#x1F5D2;&#xFE0F; | &#x1F5D2;&#xFE0F; | &#x1F5D2;&#xFE0F; | &#x1F5D2;&#xFE0F; | 
+| <small>1F5D3 FE0F</small><br>spiral calendar<br>&#x1F5D3;&#xFE0F; | &#x1F5D3;&#xFE0F; | &#x1F5D3;&#xFE0F; | &#x1F5D3;&#xFE0F; | 
+| <small>1F4C7</small><br>card index<br>&#x1F4C7; | &#x1F4C7; | &#x1F4C7; | &#x1F4C7; | 
+| <small>1F4C8</small><br>chart increasing<br>&#x1F4C8; | &#x1F4C8; | &#x1F4C8; | &#x1F4C8; | 
+| <small>1F4C9</small><br>chart decreasing<br>&#x1F4C9; | &#x1F4C9; | &#x1F4C9; | &#x1F4C9; | 
+| <small>1F4CA</small><br>bar chart<br>&#x1F4CA; | &#x1F4CA; | &#x1F4CA; | &#x1F4CA; | 
+| <small>1F4CB</small><br>clipboard<br>&#x1F4CB; | &#x1F4CB; | &#x1F4CB; | &#x1F4CB; | 
+| <small>1F4CC</small><br>pushpin<br>&#x1F4CC; | &#x1F4CC; | &#x1F4CC; | &#x1F4CC; | 
+| <small>1F4CD</small><br>round pushpin<br>&#x1F4CD; | &#x1F4CD; | &#x1F4CD; | &#x1F4CD; | 
+| <small>1F4CE</small><br>paperclip<br>&#x1F4CE; | &#x1F4CE; | &#x1F4CE; | &#x1F4CE; | 
+| <small>1F587 FE0F</small><br>linked paperclips<br>&#x1F587;&#xFE0F; | &#x1F587;&#xFE0F; | &#x1F587;&#xFE0F; | &#x1F587;&#xFE0F; | 
+| <small>1F4CF</small><br>straight ruler<br>&#x1F4CF; | &#x1F4CF; | &#x1F4CF; | &#x1F4CF; | 
+| <small>1F4D0</small><br>triangular ruler<br>&#x1F4D0; | &#x1F4D0; | &#x1F4D0; | &#x1F4D0; | 
+| <small>2702 FE0F</small><br>scissors<br>&#x2702;&#xFE0F; | &#x2702;&#xFE0F; | &#x2702;&#xFE0F; | &#x2702;&#xFE0F; | 
+| <small>1F5C3 FE0F</small><br>card file box<br>&#x1F5C3;&#xFE0F; | &#x1F5C3;&#xFE0F; | &#x1F5C3;&#xFE0F; | &#x1F5C3;&#xFE0F; | 
+| <small>1F5C4 FE0F</small><br>file cabinet<br>&#x1F5C4;&#xFE0F; | &#x1F5C4;&#xFE0F; | &#x1F5C4;&#xFE0F; | &#x1F5C4;&#xFE0F; | 
+| <small>1F5D1 FE0F</small><br>wastebasket<br>&#x1F5D1;&#xFE0F; | &#x1F5D1;&#xFE0F; | &#x1F5D1;&#xFE0F; | &#x1F5D1;&#xFE0F; | 
+
+#### lock
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F512</small><br>locked<br>&#x1F512; | &#x1F512; | &#x1F512; | &#x1F512; | 
+| <small>1F513</small><br>unlocked<br>&#x1F513; | &#x1F513; | &#x1F513; | &#x1F513; | 
+| <small>1F50F</small><br>locked with pen<br>&#x1F50F; | &#x1F50F; | &#x1F50F; | &#x1F50F; | 
+| <small>1F510</small><br>locked with key<br>&#x1F510; | &#x1F510; | &#x1F510; | &#x1F510; | 
+| <small>1F511</small><br>key<br>&#x1F511; | &#x1F511; | &#x1F511; | &#x1F511; | 
+| <small>1F5DD FE0F</small><br>old key<br>&#x1F5DD;&#xFE0F; | &#x1F5DD;&#xFE0F; | &#x1F5DD;&#xFE0F; | &#x1F5DD;&#xFE0F; | 
+
+#### tool
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F528</small><br>hammer<br>&#x1F528; | &#x1F528; | &#x1F528; | &#x1F528; | 
+| <small>1FA93</small><br>axe<br>&#x1FA93; |  | &#x1FA93; | &#x1FA93; | 
+| <small>26CF FE0F</small><br>pick<br>&#x26CF;&#xFE0F; | &#x26CF;&#xFE0F; | &#x26CF;&#xFE0F; | &#x26CF;&#xFE0F; | 
+| <small>2692 FE0F</small><br>hammer and pick<br>&#x2692;&#xFE0F; | &#x2692;&#xFE0F; | &#x2692;&#xFE0F; | &#x2692;&#xFE0F; | 
+| <small>1F6E0 FE0F</small><br>hammer and wrench<br>&#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | 
+| <small>1F5E1 FE0F</small><br>dagger<br>&#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | 
+| <small>2694 FE0F</small><br>crossed swords<br>&#x2694;&#xFE0F; | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | 
+| <small>1F52B</small><br>pistol<br>&#x1F52B; | &#x1F52B; | &#x1F52B; | &#x1F52B; | 
+| <small>1FA83</small><br>boomerang<br>&#x1FA83; |  | &#x1FA83; | &#x1FA83; | 
+| <small>1F3F9</small><br>bow and arrow<br>&#x1F3F9; | &#x1F3F9; | &#x1F3F9; | &#x1F3F9; | 
+| <small>1F6E1 FE0F</small><br>shield<br>&#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | 
+| <small>1FA9A</small><br>carpentry saw<br>&#x1FA9A; |  | &#x1FA9A; | &#x1FA9A; | 
+| <small>1F527</small><br>wrench<br>&#x1F527; | &#x1F527; | &#x1F527; | &#x1F527; | 
+| <small>1FA9B</small><br>screwdriver<br>&#x1FA9B; |  | &#x1FA9B; | &#x1FA9B; | 
+| <small>1F529</small><br>nut and bolt<br>&#x1F529; | &#x1F529; | &#x1F529; | &#x1F529; | 
+| <small>2699 FE0F</small><br>gear<br>&#x2699;&#xFE0F; | &#x2699;&#xFE0F; | &#x2699;&#xFE0F; | &#x2699;&#xFE0F; | 
+| <small>1F5DC FE0F</small><br>clamp<br>&#x1F5DC;&#xFE0F; | &#x1F5DC;&#xFE0F; | &#x1F5DC;&#xFE0F; | &#x1F5DC;&#xFE0F; | 
+| <small>2696 FE0F</small><br>balance scale<br>&#x2696;&#xFE0F; | &#x2696;&#xFE0F; | &#x2696;&#xFE0F; | &#x2696;&#xFE0F; | 
+| <small>1F9AF</small><br>white cane<br>&#x1F9AF; |  | &#x1F9AF; | &#x1F9AF; | 
+| <small>1F517</small><br>link<br>&#x1F517; | &#x1F517; | &#x1F517; | &#x1F517; | 
+| <small>26D3 FE0F</small><br>chains<br>&#x26D3;&#xFE0F; | &#x26D3;&#xFE0F; | &#x26D3;&#xFE0F; | &#x26D3;&#xFE0F; | 
+| <small>1FA9D</small><br>hook<br>&#x1FA9D; |  | &#x1FA9D; | &#x1FA9D; | 
+| <small>1F9F0</small><br>toolbox<br>&#x1F9F0; |  | &#x1F9F0; | &#x1F9F0; | 
+| <small>1F9F2</small><br>magnet<br>&#x1F9F2; |  | &#x1F9F2; | &#x1F9F2; | 
+| <small>1FA9C</small><br>ladder<br>&#x1FA9C; |  | &#x1FA9C; | &#x1FA9C; | 
+
+#### science
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>2697 FE0F</small><br>alembic<br>&#x2697;&#xFE0F; | &#x2697;&#xFE0F; | &#x2697;&#xFE0F; | &#x2697;&#xFE0F; | 
+| <small>1F9EA</small><br>test tube<br>&#x1F9EA; |  | &#x1F9EA; | &#x1F9EA; | 
+| <small>1F9EB</small><br>petri dish<br>&#x1F9EB; |  | &#x1F9EB; | &#x1F9EB; | 
+| <small>1F9EC</small><br>dna<br>&#x1F9EC; |  | &#x1F9EC; | &#x1F9EC; | 
+| <small>1F52C</small><br>microscope<br>&#x1F52C; | &#x1F52C; | &#x1F52C; | &#x1F52C; | 
+| <small>1F52D</small><br>telescope<br>&#x1F52D; | &#x1F52D; | &#x1F52D; | &#x1F52D; | 
+| <small>1F4E1</small><br>satellite antenna<br>&#x1F4E1; | &#x1F4E1; | &#x1F4E1; | &#x1F4E1; | 
+
+#### medical
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F489</small><br>syringe<br>&#x1F489; | &#x1F489; | &#x1F489; | &#x1F489; | 
+| <small>1FA78</small><br>drop of blood<br>&#x1FA78; |  | &#x1FA78; | &#x1FA78; | 
+| <small>1F48A</small><br>pill<br>&#x1F48A; | &#x1F48A; | &#x1F48A; | &#x1F48A; | 
+| <small>1FA79</small><br>adhesive bandage<br>&#x1FA79; |  | &#x1FA79; | &#x1FA79; | 
+| <small>1FA7A</small><br>stethoscope<br>&#x1FA7A; |  | &#x1FA7A; | &#x1FA7A; | 
+
+#### household
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F6AA</small><br>door<br>&#x1F6AA; | &#x1F6AA; | &#x1F6AA; | &#x1F6AA; | 
+| <small>1F6D7</small><br>elevator<br>&#x1F6D7; |  | &#x1F6D7; | &#x1F6D7; | 
+| <small>1FA9E</small><br>mirror<br>&#x1FA9E; |  | &#x1FA9E; | &#x1FA9E; | 
+| <small>1FA9F</small><br>window<br>&#x1FA9F; |  | &#x1FA9F; | &#x1FA9F; | 
+| <small>1F6CF FE0F</small><br>bed<br>&#x1F6CF;&#xFE0F; | &#x1F6CF;&#xFE0F; | &#x1F6CF;&#xFE0F; | &#x1F6CF;&#xFE0F; | 
+| <small>1F6CB FE0F</small><br>couch and lamp<br>&#x1F6CB;&#xFE0F; | &#x1F6CB;&#xFE0F; | &#x1F6CB;&#xFE0F; | &#x1F6CB;&#xFE0F; | 
+| <small>1FA91</small><br>chair<br>&#x1FA91; |  | &#x1FA91; | &#x1FA91; | 
+| <small>1F6BD</small><br>toilet<br>&#x1F6BD; | &#x1F6BD; | &#x1F6BD; | &#x1F6BD; | 
+| <small>1FAA0</small><br>plunger<br>&#x1FAA0; |  | &#x1FAA0; | &#x1FAA0; | 
+| <small>1F6BF</small><br>shower<br>&#x1F6BF; | &#x1F6BF; | &#x1F6BF; | &#x1F6BF; | 
+| <small>1F6C1</small><br>bathtub<br>&#x1F6C1; | &#x1F6C1; | &#x1F6C1; | &#x1F6C1; | 
+| <small>1FAA4</small><br>mouse trap<br>&#x1FAA4; |  | &#x1FAA4; | &#x1FAA4; | 
+| <small>1FA92</small><br>razor<br>&#x1FA92; |  | &#x1FA92; | &#x1FA92; | 
+| <small>1F9F4</small><br>lotion bottle<br>&#x1F9F4; |  | &#x1F9F4; | &#x1F9F4; | 
+| <small>1F9F7</small><br>safety pin<br>&#x1F9F7; |  | &#x1F9F7; | &#x1F9F7; | 
+| <small>1F9F9</small><br>broom<br>&#x1F9F9; |  | &#x1F9F9; | &#x1F9F9; | 
+| <small>1F9FA</small><br>basket<br>&#x1F9FA; |  | &#x1F9FA; | &#x1F9FA; | 
+| <small>1F9FB</small><br>roll of paper<br>&#x1F9FB; |  | &#x1F9FB; | &#x1F9FB; | 
+| <small>1FAA3</small><br>bucket<br>&#x1FAA3; |  | &#x1FAA3; | &#x1FAA3; | 
+| <small>1F9FC</small><br>soap<br>&#x1F9FC; |  | &#x1F9FC; | &#x1F9FC; | 
+| <small>1FAA5</small><br>toothbrush<br>&#x1FAA5; |  | &#x1FAA5; | &#x1FAA5; | 
+| <small>1F9FD</small><br>sponge<br>&#x1F9FD; |  | &#x1F9FD; | &#x1F9FD; | 
+| <small>1F9EF</small><br>fire extinguisher<br>&#x1F9EF; |  | &#x1F9EF; | &#x1F9EF; | 
+| <small>1F6D2</small><br>shopping cart<br>&#x1F6D2; | &#x1F6D2; | &#x1F6D2; | &#x1F6D2; | 
+
+#### other-object
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F6AC</small><br>cigarette<br>&#x1F6AC; | &#x1F6AC; | &#x1F6AC; | &#x1F6AC; | 
+| <small>26B0 FE0F</small><br>coffin<br>&#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | 
+| <small>1FAA6</small><br>headstone<br>&#x1FAA6; |  | &#x1FAA6; | &#x1FAA6; | 
+| <small>26B1 FE0F</small><br>funeral urn<br>&#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | 
+| <small>1F5FF</small><br>moai<br>&#x1F5FF; | &#x1F5FF; | &#x1F5FF; | &#x1F5FF; | 
+| <small>1FAA7</small><br>placard<br>&#x1FAA7; |  | &#x1FAA7; | &#x1FAA7; | 
+
+
+### Symbols
+
+#### transport-sign
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3E7</small><br>ATM sign<br>&#x1F3E7; | &#x1F3E7; | &#x1F3E7; | &#x1F3E7; | 
+| <small>1F6AE</small><br>litter in bin sign<br>&#x1F6AE; | &#x1F6AE; | &#x1F6AE; | &#x1F6AE; | 
+| <small>1F6B0</small><br>potable water<br>&#x1F6B0; | &#x1F6B0; | &#x1F6B0; | &#x1F6B0; | 
+| <small>267F</small><br>wheelchair symbol<br>&#x267F; | &#x267F; | &#x267F; | &#x267F; | 
+| <small>1F6B9</small><br>men’s room<br>&#x1F6B9; | &#x1F6B9; | &#x1F6B9; | &#x1F6B9; | 
+| <small>1F6BA</small><br>women’s room<br>&#x1F6BA; | &#x1F6BA; | &#x1F6BA; | &#x1F6BA; | 
+| <small>1F6BB</small><br>restroom<br>&#x1F6BB; | &#x1F6BB; | &#x1F6BB; | &#x1F6BB; | 
+| <small>1F6BC</small><br>baby symbol<br>&#x1F6BC; | &#x1F6BC; | &#x1F6BC; | &#x1F6BC; | 
+| <small>1F6BE</small><br>water closet<br>&#x1F6BE; | &#x1F6BE; | &#x1F6BE; | &#x1F6BE; | 
+| <small>1F6C2</small><br>passport control<br>&#x1F6C2; | &#x1F6C2; | &#x1F6C2; | &#x1F6C2; | 
+| <small>1F6C3</small><br>customs<br>&#x1F6C3; | &#x1F6C3; | &#x1F6C3; | &#x1F6C3; | 
+| <small>1F6C4</small><br>baggage claim<br>&#x1F6C4; | &#x1F6C4; | &#x1F6C4; | &#x1F6C4; | 
+| <small>1F6C5</small><br>left luggage<br>&#x1F6C5; | &#x1F6C5; | &#x1F6C5; | &#x1F6C5; | 
+
+#### warning
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>26A0 FE0F</small><br>warning<br>&#x26A0;&#xFE0F; | &#x26A0;&#xFE0F; | &#x26A0;&#xFE0F; | &#x26A0;&#xFE0F; | 
+| <small>1F6B8</small><br>children crossing<br>&#x1F6B8; | &#x1F6B8; | &#x1F6B8; | &#x1F6B8; | 
+| <small>26D4</small><br>no entry<br>&#x26D4; | &#x26D4; | &#x26D4; | &#x26D4; | 
+| <small>1F6AB</small><br>prohibited<br>&#x1F6AB; | &#x1F6AB; | &#x1F6AB; | &#x1F6AB; | 
+| <small>1F6B3</small><br>no bicycles<br>&#x1F6B3; | &#x1F6B3; | &#x1F6B3; | &#x1F6B3; | 
+| <small>1F6AD</small><br>no smoking<br>&#x1F6AD; | &#x1F6AD; | &#x1F6AD; | &#x1F6AD; | 
+| <small>1F6AF</small><br>no littering<br>&#x1F6AF; | &#x1F6AF; | &#x1F6AF; | &#x1F6AF; | 
+| <small>1F6B1</small><br>non-potable water<br>&#x1F6B1; | &#x1F6B1; | &#x1F6B1; | &#x1F6B1; | 
+| <small>1F6B7</small><br>no pedestrians<br>&#x1F6B7; | &#x1F6B7; | &#x1F6B7; | &#x1F6B7; | 
+| <small>1F4F5</small><br>no mobile phones<br>&#x1F4F5; | &#x1F4F5; | &#x1F4F5; | &#x1F4F5; | 
+| <small>1F51E</small><br>no one under eighteen<br>&#x1F51E; | &#x1F51E; | &#x1F51E; | &#x1F51E; | 
+| <small>2622 FE0F</small><br>radioactive<br>&#x2622;&#xFE0F; | &#x2622;&#xFE0F; | &#x2622;&#xFE0F; | &#x2622;&#xFE0F; | 
+| <small>2623 FE0F</small><br>biohazard<br>&#x2623;&#xFE0F; | &#x2623;&#xFE0F; | &#x2623;&#xFE0F; | &#x2623;&#xFE0F; | 
+
+#### arrow
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>2B06 FE0F</small><br>up arrow<br>&#x2B06;&#xFE0F; | &#x2B06;&#xFE0F; | &#x2B06;&#xFE0F; | &#x2B06;&#xFE0F; | 
+| <small>2197 FE0F</small><br>up-right arrow<br>&#x2197;&#xFE0F; | &#x2197;&#xFE0F; | &#x2197;&#xFE0F; | &#x2197;&#xFE0F; | 
+| <small>27A1 FE0F</small><br>right arrow<br>&#x27A1;&#xFE0F; | &#x27A1;&#xFE0F; | &#x27A1;&#xFE0F; | &#x27A1;&#xFE0F; | 
+| <small>2198 FE0F</small><br>down-right arrow<br>&#x2198;&#xFE0F; | &#x2198;&#xFE0F; | &#x2198;&#xFE0F; | &#x2198;&#xFE0F; | 
+| <small>2B07 FE0F</small><br>down arrow<br>&#x2B07;&#xFE0F; | &#x2B07;&#xFE0F; | &#x2B07;&#xFE0F; | &#x2B07;&#xFE0F; | 
+| <small>2199 FE0F</small><br>down-left arrow<br>&#x2199;&#xFE0F; | &#x2199;&#xFE0F; | &#x2199;&#xFE0F; | &#x2199;&#xFE0F; | 
+| <small>2B05 FE0F</small><br>left arrow<br>&#x2B05;&#xFE0F; | &#x2B05;&#xFE0F; | &#x2B05;&#xFE0F; | &#x2B05;&#xFE0F; | 
+| <small>2196 FE0F</small><br>up-left arrow<br>&#x2196;&#xFE0F; | &#x2196;&#xFE0F; | &#x2196;&#xFE0F; | &#x2196;&#xFE0F; | 
+| <small>2195 FE0F</small><br>up-down arrow<br>&#x2195;&#xFE0F; | &#x2195;&#xFE0F; | &#x2195;&#xFE0F; | &#x2195;&#xFE0F; | 
+| <small>2194 FE0F</small><br>left-right arrow<br>&#x2194;&#xFE0F; | &#x2194;&#xFE0F; | &#x2194;&#xFE0F; | &#x2194;&#xFE0F; | 
+| <small>21A9 FE0F</small><br>right arrow curving left<br>&#x21A9;&#xFE0F; | &#x21A9;&#xFE0F; | &#x21A9;&#xFE0F; | &#x21A9;&#xFE0F; | 
+| <small>21AA FE0F</small><br>left arrow curving right<br>&#x21AA;&#xFE0F; | &#x21AA;&#xFE0F; | &#x21AA;&#xFE0F; | &#x21AA;&#xFE0F; | 
+| <small>2934 FE0F</small><br>right arrow curving up<br>&#x2934;&#xFE0F; | &#x2934;&#xFE0F; | &#x2934;&#xFE0F; | &#x2934;&#xFE0F; | 
+| <small>2935 FE0F</small><br>right arrow curving down<br>&#x2935;&#xFE0F; | &#x2935;&#xFE0F; | &#x2935;&#xFE0F; | &#x2935;&#xFE0F; | 
+| <small>1F503</small><br>clockwise vertical arrows<br>&#x1F503; | &#x1F503; | &#x1F503; | &#x1F503; | 
+| <small>1F504</small><br>counterclockwise arrows button<br>&#x1F504; | &#x1F504; | &#x1F504; | &#x1F504; | 
+| <small>1F519</small><br>BACK arrow<br>&#x1F519; | &#x1F519; | &#x1F519; | &#x1F519; | 
+| <small>1F51A</small><br>END arrow<br>&#x1F51A; | &#x1F51A; | &#x1F51A; | &#x1F51A; | 
+| <small>1F51B</small><br>ON! arrow<br>&#x1F51B; | &#x1F51B; | &#x1F51B; | &#x1F51B; | 
+| <small>1F51C</small><br>SOON arrow<br>&#x1F51C; | &#x1F51C; | &#x1F51C; | &#x1F51C; | 
+| <small>1F51D</small><br>TOP arrow<br>&#x1F51D; | &#x1F51D; | &#x1F51D; | &#x1F51D; | 
+
+#### religion
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F6D0</small><br>place of worship<br>&#x1F6D0; | &#x1F6D0; | &#x1F6D0; | &#x1F6D0; | 
+| <small>269B FE0F</small><br>atom symbol<br>&#x269B;&#xFE0F; | &#x269B;&#xFE0F; | &#x269B;&#xFE0F; | &#x269B;&#xFE0F; | 
+| <small>1F549 FE0F</small><br>om<br>&#x1F549;&#xFE0F; | &#x1F549;&#xFE0F; | &#x1F549;&#xFE0F; | &#x1F549;&#xFE0F; | 
+| <small>2721 FE0F</small><br>star of David<br>&#x2721;&#xFE0F; | &#x2721;&#xFE0F; | &#x2721;&#xFE0F; | &#x2721;&#xFE0F; | 
+| <small>2638 FE0F</small><br>wheel of dharma<br>&#x2638;&#xFE0F; | &#x2638;&#xFE0F; | &#x2638;&#xFE0F; | &#x2638;&#xFE0F; | 
+| <small>262F FE0F</small><br>yin yang<br>&#x262F;&#xFE0F; | &#x262F;&#xFE0F; | &#x262F;&#xFE0F; | &#x262F;&#xFE0F; | 
+| <small>271D FE0F</small><br>latin cross<br>&#x271D;&#xFE0F; | &#x271D;&#xFE0F; | &#x271D;&#xFE0F; | &#x271D;&#xFE0F; | 
+| <small>2626 FE0F</small><br>orthodox cross<br>&#x2626;&#xFE0F; | &#x2626;&#xFE0F; | &#x2626;&#xFE0F; | &#x2626;&#xFE0F; | 
+| <small>262A FE0F</small><br>star and crescent<br>&#x262A;&#xFE0F; | &#x262A;&#xFE0F; | &#x262A;&#xFE0F; | &#x262A;&#xFE0F; | 
+| <small>262E FE0F</small><br>peace symbol<br>&#x262E;&#xFE0F; | &#x262E;&#xFE0F; | &#x262E;&#xFE0F; | &#x262E;&#xFE0F; | 
+| <small>1F54E</small><br>menorah<br>&#x1F54E; | &#x1F54E; | &#x1F54E; | &#x1F54E; | 
+| <small>1F52F</small><br>dotted six-pointed star<br>&#x1F52F; | &#x1F52F; | &#x1F52F; | &#x1F52F; | 
+
+#### zodiac
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>2648</small><br>Aries<br>&#x2648; | &#x2648; | &#x2648; | &#x2648; | 
+| <small>2649</small><br>Taurus<br>&#x2649; | &#x2649; | &#x2649; | &#x2649; | 
+| <small>264A</small><br>Gemini<br>&#x264A; | &#x264A; | &#x264A; | &#x264A; | 
+| <small>264B</small><br>Cancer<br>&#x264B; | &#x264B; | &#x264B; | &#x264B; | 
+| <small>264C</small><br>Leo<br>&#x264C; | &#x264C; | &#x264C; | &#x264C; | 
+| <small>264D</small><br>Virgo<br>&#x264D; | &#x264D; | &#x264D; | &#x264D; | 
+| <small>264E</small><br>Libra<br>&#x264E; | &#x264E; | &#x264E; | &#x264E; | 
+| <small>264F</small><br>Scorpio<br>&#x264F; | &#x264F; | &#x264F; | &#x264F; | 
+| <small>2650</small><br>Sagittarius<br>&#x2650; | &#x2650; | &#x2650; | &#x2650; | 
+| <small>2651</small><br>Capricorn<br>&#x2651; | &#x2651; | &#x2651; | &#x2651; | 
+| <small>2652</small><br>Aquarius<br>&#x2652; | &#x2652; | &#x2652; | &#x2652; | 
+| <small>2653</small><br>Pisces<br>&#x2653; | &#x2653; | &#x2653; | &#x2653; | 
+| <small>26CE</small><br>Ophiuchus<br>&#x26CE; | &#x26CE; | &#x26CE; | &#x26CE; | 
+
+#### av-symbol
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F500</small><br>shuffle tracks button<br>&#x1F500; | &#x1F500; | &#x1F500; | &#x1F500; | 
+| <small>1F501</small><br>repeat button<br>&#x1F501; | &#x1F501; | &#x1F501; | &#x1F501; | 
+| <small>1F502</small><br>repeat single button<br>&#x1F502; | &#x1F502; | &#x1F502; | &#x1F502; | 
+| <small>25B6 FE0F</small><br>play button<br>&#x25B6;&#xFE0F; | &#x25B6;&#xFE0F; | &#x25B6;&#xFE0F; | &#x25B6;&#xFE0F; | 
+| <small>23E9</small><br>fast-forward button<br>&#x23E9; | &#x23E9; | &#x23E9; | &#x23E9; | 
+| <small>23ED FE0F</small><br>next track button<br>&#x23ED;&#xFE0F; | &#x23ED;&#xFE0F; | &#x23ED;&#xFE0F; | &#x23ED;&#xFE0F; | 
+| <small>23EF FE0F</small><br>play or pause button<br>&#x23EF;&#xFE0F; | &#x23EF;&#xFE0F; | &#x23EF;&#xFE0F; | &#x23EF;&#xFE0F; | 
+| <small>25C0 FE0F</small><br>reverse button<br>&#x25C0;&#xFE0F; | &#x25C0;&#xFE0F; | &#x25C0;&#xFE0F; | &#x25C0;&#xFE0F; | 
+| <small>23EA</small><br>fast reverse button<br>&#x23EA; | &#x23EA; | &#x23EA; | &#x23EA; | 
+| <small>23EE FE0F</small><br>last track button<br>&#x23EE;&#xFE0F; | &#x23EE;&#xFE0F; | &#x23EE;&#xFE0F; | &#x23EE;&#xFE0F; | 
+| <small>1F53C</small><br>upwards button<br>&#x1F53C; | &#x1F53C; | &#x1F53C; | &#x1F53C; | 
+| <small>23EB</small><br>fast up button<br>&#x23EB; | &#x23EB; | &#x23EB; | &#x23EB; | 
+| <small>1F53D</small><br>downwards button<br>&#x1F53D; | &#x1F53D; | &#x1F53D; | &#x1F53D; | 
+| <small>23EC</small><br>fast down button<br>&#x23EC; | &#x23EC; | &#x23EC; | &#x23EC; | 
+| <small>23F8 FE0F</small><br>pause button<br>&#x23F8;&#xFE0F; | &#x23F8;&#xFE0F; | &#x23F8;&#xFE0F; | &#x23F8;&#xFE0F; | 
+| <small>23F9 FE0F</small><br>stop button<br>&#x23F9;&#xFE0F; | &#x23F9;&#xFE0F; | &#x23F9;&#xFE0F; | &#x23F9;&#xFE0F; | 
+| <small>23FA FE0F</small><br>record button<br>&#x23FA;&#xFE0F; | &#x23FA;&#xFE0F; | &#x23FA;&#xFE0F; | &#x23FA;&#xFE0F; | 
+| <small>23CF FE0F</small><br>eject button<br>&#x23CF;&#xFE0F; | &#x23CF;&#xFE0F; | &#x23CF;&#xFE0F; | &#x23CF;&#xFE0F; | 
+| <small>1F3A6</small><br>cinema<br>&#x1F3A6; | &#x1F3A6; | &#x1F3A6; | &#x1F3A6; | 
+| <small>1F505</small><br>dim button<br>&#x1F505; | &#x1F505; | &#x1F505; | &#x1F505; | 
+| <small>1F506</small><br>bright button<br>&#x1F506; | &#x1F506; | &#x1F506; | &#x1F506; | 
+| <small>1F4F6</small><br>antenna bars<br>&#x1F4F6; | &#x1F4F6; | &#x1F4F6; | &#x1F4F6; | 
+| <small>1F4F3</small><br>vibration mode<br>&#x1F4F3; | &#x1F4F3; | &#x1F4F3; | &#x1F4F3; | 
+| <small>1F4F4</small><br>mobile phone off<br>&#x1F4F4; | &#x1F4F4; | &#x1F4F4; | &#x1F4F4; | 
+
+#### gender
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>2640 FE0F</small><br>female sign<br>&#x2640;&#xFE0F; | &#x2640;&#xFE0F; | &#x2640;&#xFE0F; | &#x2640;&#xFE0F; | 
+| <small>2642 FE0F</small><br>male sign<br>&#x2642;&#xFE0F; | &#x2642;&#xFE0F; | &#x2642;&#xFE0F; | &#x2642;&#xFE0F; | 
+| <small>26A7 FE0F</small><br>transgender symbol<br>&#x26A7;&#xFE0F; |  | &#x26A7;&#xFE0F; | &#x26A7;&#xFE0F; | 
+
+#### math
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>2716 FE0F</small><br>multiply<br>&#x2716;&#xFE0F; | &#x2716;&#xFE0F; | &#x2716;&#xFE0F; | &#x2716;&#xFE0F; | 
+| <small>2795</small><br>plus<br>&#x2795; | &#x2795; | &#x2795; | &#x2795; | 
+| <small>2796</small><br>minus<br>&#x2796; | &#x2796; | &#x2796; | &#x2796; | 
+| <small>2797</small><br>divide<br>&#x2797; | &#x2797; | &#x2797; | &#x2797; | 
+| <small>267E FE0F</small><br>infinity<br>&#x267E;&#xFE0F; |  | &#x267E;&#xFE0F; | &#x267E;&#xFE0F; | 
+
+#### punctuation
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>203C FE0F</small><br>double exclamation mark<br>&#x203C;&#xFE0F; | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | 
+| <small>2049 FE0F</small><br>exclamation question mark<br>&#x2049;&#xFE0F; | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | 
+| <small>2753</small><br>question mark<br>&#x2753; | &#x2753; | &#x2753; | &#x2753; | 
+| <small>2754</small><br>white question mark<br>&#x2754; | &#x2754; | &#x2754; | &#x2754; | 
+| <small>2755</small><br>white exclamation mark<br>&#x2755; | &#x2755; | &#x2755; | &#x2755; | 
+| <small>2757</small><br>exclamation mark<br>&#x2757; | &#x2757; | &#x2757; | &#x2757; | 
+| <small>3030 FE0F</small><br>wavy dash<br>&#x3030;&#xFE0F; | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | 
+
+#### currency
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F4B1</small><br>currency exchange<br>&#x1F4B1; | &#x1F4B1; | &#x1F4B1; | &#x1F4B1; | 
+| <small>1F4B2</small><br>heavy dollar sign<br>&#x1F4B2; | &#x1F4B2; | &#x1F4B2; | &#x1F4B2; | 
+
+#### other-symbol
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>2695 FE0F</small><br>medical symbol<br>&#x2695;&#xFE0F; | &#x2695;&#xFE0F; | &#x2695;&#xFE0F; | &#x2695;&#xFE0F; | 
+| <small>267B FE0F</small><br>recycling symbol<br>&#x267B;&#xFE0F; | &#x267B;&#xFE0F; | &#x267B;&#xFE0F; | &#x267B;&#xFE0F; | 
+| <small>269C FE0F</small><br>fleur-de-lis<br>&#x269C;&#xFE0F; | &#x269C;&#xFE0F; | &#x269C;&#xFE0F; | &#x269C;&#xFE0F; | 
+| <small>1F531</small><br>trident emblem<br>&#x1F531; | &#x1F531; | &#x1F531; | &#x1F531; | 
+| <small>1F4DB</small><br>name badge<br>&#x1F4DB; | &#x1F4DB; | &#x1F4DB; | &#x1F4DB; | 
+| <small>1F530</small><br>Japanese symbol for beginner<br>&#x1F530; | &#x1F530; | &#x1F530; | &#x1F530; | 
+| <small>2B55</small><br>hollow red circle<br>&#x2B55; | &#x2B55; | &#x2B55; | &#x2B55; | 
+| <small>2705</small><br>check mark button<br>&#x2705; | &#x2705; | &#x2705; | &#x2705; | 
+| <small>2611 FE0F</small><br>check box with check<br>&#x2611;&#xFE0F; | &#x2611;&#xFE0F; | &#x2611;&#xFE0F; | &#x2611;&#xFE0F; | 
+| <small>2714 FE0F</small><br>check mark<br>&#x2714;&#xFE0F; | &#x2714;&#xFE0F; | &#x2714;&#xFE0F; | &#x2714;&#xFE0F; | 
+| <small>274C</small><br>cross mark<br>&#x274C; | &#x274C; | &#x274C; | &#x274C; | 
+| <small>274E</small><br>cross mark button<br>&#x274E; | &#x274E; | &#x274E; | &#x274E; | 
+| <small>27B0</small><br>curly loop<br>&#x27B0; | &#x27B0; | &#x27B0; | &#x27B0; | 
+| <small>27BF</small><br>double curly loop<br>&#x27BF; | &#x27BF; | &#x27BF; | &#x27BF; | 
+| <small>303D FE0F</small><br>part alternation mark<br>&#x303D;&#xFE0F; | &#x303D;&#xFE0F; | &#x303D;&#xFE0F; | &#x303D;&#xFE0F; | 
+| <small>2733 FE0F</small><br>eight-spoked asterisk<br>&#x2733;&#xFE0F; | &#x2733;&#xFE0F; | &#x2733;&#xFE0F; | &#x2733;&#xFE0F; | 
+| <small>2734 FE0F</small><br>eight-pointed star<br>&#x2734;&#xFE0F; | &#x2734;&#xFE0F; | &#x2734;&#xFE0F; | &#x2734;&#xFE0F; | 
+| <small>2747 FE0F</small><br>sparkle<br>&#x2747;&#xFE0F; | &#x2747;&#xFE0F; | &#x2747;&#xFE0F; | &#x2747;&#xFE0F; | 
+| <small>00A9 FE0F</small><br>copyright<br>&#x00A9;&#xFE0F; | &#x00A9;&#xFE0F; | &#x00A9;&#xFE0F; | &#x00A9;&#xFE0F; | 
+| <small>00AE FE0F</small><br>registered<br>&#x00AE;&#xFE0F; | &#x00AE;&#xFE0F; | &#x00AE;&#xFE0F; | &#x00AE;&#xFE0F; | 
+| <small>2122 FE0F</small><br>trade mark<br>&#x2122;&#xFE0F; | &#x2122;&#xFE0F; | &#x2122;&#xFE0F; | &#x2122;&#xFE0F; | 
+
+#### keycap
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>0023 FE0F 20E3</small><br>keycap: #<br>&#x0023;&#xFE0F;&#x20E3; | &#x0023;&#xFE0F;&#x20E3; | &#x0023;&#xFE0F;&#x20E3; | &#x0023;&#xFE0F;&#x20E3; | 
+| <small>002A FE0F 20E3</small><br>keycap: *<br>&#x002A;&#xFE0F;&#x20E3; | &#x002A;&#xFE0F;&#x20E3; | &#x002A;&#xFE0F;&#x20E3; | &#x002A;&#xFE0F;&#x20E3; | 
+| <small>0030 FE0F 20E3</small><br>keycap: 0<br>&#x0030;&#xFE0F;&#x20E3; | &#x0030;&#xFE0F;&#x20E3; | &#x0030;&#xFE0F;&#x20E3; | &#x0030;&#xFE0F;&#x20E3; | 
+| <small>0031 FE0F 20E3</small><br>keycap: 1<br>&#x0031;&#xFE0F;&#x20E3; | &#x0031;&#xFE0F;&#x20E3; | &#x0031;&#xFE0F;&#x20E3; | &#x0031;&#xFE0F;&#x20E3; | 
+| <small>0032 FE0F 20E3</small><br>keycap: 2<br>&#x0032;&#xFE0F;&#x20E3; | &#x0032;&#xFE0F;&#x20E3; | &#x0032;&#xFE0F;&#x20E3; | &#x0032;&#xFE0F;&#x20E3; | 
+| <small>0033 FE0F 20E3</small><br>keycap: 3<br>&#x0033;&#xFE0F;&#x20E3; | &#x0033;&#xFE0F;&#x20E3; | &#x0033;&#xFE0F;&#x20E3; | &#x0033;&#xFE0F;&#x20E3; | 
+| <small>0034 FE0F 20E3</small><br>keycap: 4<br>&#x0034;&#xFE0F;&#x20E3; | &#x0034;&#xFE0F;&#x20E3; | &#x0034;&#xFE0F;&#x20E3; | &#x0034;&#xFE0F;&#x20E3; | 
+| <small>0035 FE0F 20E3</small><br>keycap: 5<br>&#x0035;&#xFE0F;&#x20E3; | &#x0035;&#xFE0F;&#x20E3; | &#x0035;&#xFE0F;&#x20E3; | &#x0035;&#xFE0F;&#x20E3; | 
+| <small>0036 FE0F 20E3</small><br>keycap: 6<br>&#x0036;&#xFE0F;&#x20E3; | &#x0036;&#xFE0F;&#x20E3; | &#x0036;&#xFE0F;&#x20E3; | &#x0036;&#xFE0F;&#x20E3; | 
+| <small>0037 FE0F 20E3</small><br>keycap: 7<br>&#x0037;&#xFE0F;&#x20E3; | &#x0037;&#xFE0F;&#x20E3; | &#x0037;&#xFE0F;&#x20E3; | &#x0037;&#xFE0F;&#x20E3; | 
+| <small>0038 FE0F 20E3</small><br>keycap: 8<br>&#x0038;&#xFE0F;&#x20E3; | &#x0038;&#xFE0F;&#x20E3; | &#x0038;&#xFE0F;&#x20E3; | &#x0038;&#xFE0F;&#x20E3; | 
+| <small>0039 FE0F 20E3</small><br>keycap: 9<br>&#x0039;&#xFE0F;&#x20E3; | &#x0039;&#xFE0F;&#x20E3; | &#x0039;&#xFE0F;&#x20E3; | &#x0039;&#xFE0F;&#x20E3; | 
+| <small>1F51F</small><br>keycap: 10<br>&#x1F51F; | &#x1F51F; | &#x1F51F; | &#x1F51F; | 
+
+#### alphanum
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F520</small><br>input latin uppercase<br>&#x1F520; | &#x1F520; | &#x1F520; | &#x1F520; | 
+| <small>1F521</small><br>input latin lowercase<br>&#x1F521; | &#x1F521; | &#x1F521; | &#x1F521; | 
+| <small>1F522</small><br>input numbers<br>&#x1F522; | &#x1F522; | &#x1F522; | &#x1F522; | 
+| <small>1F523</small><br>input symbols<br>&#x1F523; | &#x1F523; | &#x1F523; | &#x1F523; | 
+| <small>1F524</small><br>input latin letters<br>&#x1F524; | &#x1F524; | &#x1F524; | &#x1F524; | 
+| <small>1F170 FE0F</small><br>A button (blood type)<br>&#x1F170;&#xFE0F; | &#x1F170;&#xFE0F; | &#x1F170;&#xFE0F; | &#x1F170;&#xFE0F; | 
+| <small>1F18E</small><br>AB button (blood type)<br>&#x1F18E; | &#x1F18E; | &#x1F18E; | &#x1F18E; | 
+| <small>1F171 FE0F</small><br>B button (blood type)<br>&#x1F171;&#xFE0F; | &#x1F171;&#xFE0F; | &#x1F171;&#xFE0F; | &#x1F171;&#xFE0F; | 
+| <small>1F191</small><br>CL button<br>&#x1F191; | &#x1F191; | &#x1F191; | &#x1F191; | 
+| <small>1F192</small><br>COOL button<br>&#x1F192; | &#x1F192; | &#x1F192; | &#x1F192; | 
+| <small>1F193</small><br>FREE button<br>&#x1F193; | &#x1F193; | &#x1F193; | &#x1F193; | 
+| <small>2139 FE0F</small><br>information<br>&#x2139;&#xFE0F; | &#x2139;&#xFE0F; | &#x2139;&#xFE0F; | &#x2139;&#xFE0F; | 
+| <small>1F194</small><br>ID button<br>&#x1F194; | &#x1F194; | &#x1F194; | &#x1F194; | 
+| <small>24C2 FE0F</small><br>circled M<br>&#x24C2;&#xFE0F; | &#x24C2;&#xFE0F; | &#x24C2;&#xFE0F; | &#x24C2;&#xFE0F; | 
+| <small>1F195</small><br>NEW button<br>&#x1F195; | &#x1F195; | &#x1F195; | &#x1F195; | 
+| <small>1F196</small><br>NG button<br>&#x1F196; | &#x1F196; | &#x1F196; | &#x1F196; | 
+| <small>1F17E FE0F</small><br>O button (blood type)<br>&#x1F17E;&#xFE0F; | &#x1F17E;&#xFE0F; | &#x1F17E;&#xFE0F; | &#x1F17E;&#xFE0F; | 
+| <small>1F197</small><br>OK button<br>&#x1F197; | &#x1F197; | &#x1F197; | &#x1F197; | 
+| <small>1F17F FE0F</small><br>P button<br>&#x1F17F;&#xFE0F; | &#x1F17F;&#xFE0F; | &#x1F17F;&#xFE0F; | &#x1F17F;&#xFE0F; | 
+| <small>1F198</small><br>SOS button<br>&#x1F198; | &#x1F198; | &#x1F198; | &#x1F198; | 
+| <small>1F199</small><br>UP! button<br>&#x1F199; | &#x1F199; | &#x1F199; | &#x1F199; | 
+| <small>1F19A</small><br>VS button<br>&#x1F19A; | &#x1F19A; | &#x1F19A; | &#x1F19A; | 
+| <small>1F201</small><br>Japanese “here” button<br>&#x1F201; | &#x1F201; | &#x1F201; | &#x1F201; | 
+| <small>1F202 FE0F</small><br>Japanese “service charge” button<br>&#x1F202;&#xFE0F; | &#x1F202;&#xFE0F; | &#x1F202;&#xFE0F; | &#x1F202;&#xFE0F; | 
+| <small>1F237 FE0F</small><br>Japanese “monthly amount” button<br>&#x1F237;&#xFE0F; | &#x1F237;&#xFE0F; | &#x1F237;&#xFE0F; | &#x1F237;&#xFE0F; | 
+| <small>1F236</small><br>Japanese “not free of charge” button<br>&#x1F236; | &#x1F236; | &#x1F236; | &#x1F236; | 
+| <small>1F22F</small><br>Japanese “reserved” button<br>&#x1F22F; | &#x1F22F; | &#x1F22F; | &#x1F22F; | 
+| <small>1F250</small><br>Japanese “bargain” button<br>&#x1F250; | &#x1F250; | &#x1F250; | &#x1F250; | 
+| <small>1F239</small><br>Japanese “discount” button<br>&#x1F239; | &#x1F239; | &#x1F239; | &#x1F239; | 
+| <small>1F21A</small><br>Japanese “free of charge” button<br>&#x1F21A; | &#x1F21A; | &#x1F21A; | &#x1F21A; | 
+| <small>1F232</small><br>Japanese “prohibited” button<br>&#x1F232; | &#x1F232; | &#x1F232; | &#x1F232; | 
+| <small>1F251</small><br>Japanese “acceptable” button<br>&#x1F251; | &#x1F251; | &#x1F251; | &#x1F251; | 
+| <small>1F238</small><br>Japanese “application” button<br>&#x1F238; | &#x1F238; | &#x1F238; | &#x1F238; | 
+| <small>1F234</small><br>Japanese “passing grade” button<br>&#x1F234; | &#x1F234; | &#x1F234; | &#x1F234; | 
+| <small>1F233</small><br>Japanese “vacancy” button<br>&#x1F233; | &#x1F233; | &#x1F233; | &#x1F233; | 
+| <small>3297 FE0F</small><br>Japanese “congratulations” button<br>&#x3297;&#xFE0F; | &#x3297;&#xFE0F; | &#x3297;&#xFE0F; | &#x3297;&#xFE0F; | 
+| <small>3299 FE0F</small><br>Japanese “secret” button<br>&#x3299;&#xFE0F; | &#x3299;&#xFE0F; | &#x3299;&#xFE0F; | &#x3299;&#xFE0F; | 
+| <small>1F23A</small><br>Japanese “open for business” button<br>&#x1F23A; | &#x1F23A; | &#x1F23A; | &#x1F23A; | 
+| <small>1F235</small><br>Japanese “no vacancy” button<br>&#x1F235; | &#x1F235; | &#x1F235; | &#x1F235; | 
+
+#### geometric
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F534</small><br>red circle<br>&#x1F534; | &#x1F534; | &#x1F534; | &#x1F534; | 
+| <small>1F7E0</small><br>orange circle<br>&#x1F7E0; | &#x1F7E0; | &#x1F7E0; | &#x1F7E0; | 
+| <small>1F7E1</small><br>yellow circle<br>&#x1F7E1; | &#x1F7E1; | &#x1F7E1; | &#x1F7E1; | 
+| <small>1F7E2</small><br>green circle<br>&#x1F7E2; | &#x1F7E2; | &#x1F7E2; | &#x1F7E2; | 
+| <small>1F535</small><br>blue circle<br>&#x1F535; | &#x1F535; | &#x1F535; | &#x1F535; | 
+| <small>1F7E3</small><br>purple circle<br>&#x1F7E3; | &#x1F7E3; | &#x1F7E3; | &#x1F7E3; | 
+| <small>1F7E4</small><br>brown circle<br>&#x1F7E4; | &#x1F7E4; | &#x1F7E4; | &#x1F7E4; | 
+| <small>26AB</small><br>black circle<br>&#x26AB; | &#x26AB; | &#x26AB; | &#x26AB; | 
+| <small>26AA</small><br>white circle<br>&#x26AA; | &#x26AA; | &#x26AA; | &#x26AA; | 
+| <small>1F7E5</small><br>red square<br>&#x1F7E5; | &#x1F7E5; | &#x1F7E5; | &#x1F7E5; | 
+| <small>1F7E7</small><br>orange square<br>&#x1F7E7; | &#x1F7E7; | &#x1F7E7; | &#x1F7E7; | 
+| <small>1F7E8</small><br>yellow square<br>&#x1F7E8; | &#x1F7E8; | &#x1F7E8; | &#x1F7E8; | 
+| <small>1F7E9</small><br>green square<br>&#x1F7E9; | &#x1F7E9; | &#x1F7E9; | &#x1F7E9; | 
+| <small>1F7E6</small><br>blue square<br>&#x1F7E6; | &#x1F7E6; | &#x1F7E6; | &#x1F7E6; | 
+| <small>1F7EA</small><br>purple square<br>&#x1F7EA; | &#x1F7EA; | &#x1F7EA; | &#x1F7EA; | 
+| <small>1F7EB</small><br>brown square<br>&#x1F7EB; | &#x1F7EB; | &#x1F7EB; | &#x1F7EB; | 
+| <small>2B1B</small><br>black large square<br>&#x2B1B; | &#x2B1B; | &#x2B1B; | &#x2B1B; | 
+| <small>2B1C</small><br>white large square<br>&#x2B1C; | &#x2B1C; | &#x2B1C; | &#x2B1C; | 
+| <small>25FC FE0F</small><br>black medium square<br>&#x25FC;&#xFE0F; | &#x25FC;&#xFE0F; | &#x25FC;&#xFE0F; | &#x25FC;&#xFE0F; | 
+| <small>25FB FE0F</small><br>white medium square<br>&#x25FB;&#xFE0F; | &#x25FB;&#xFE0F; | &#x25FB;&#xFE0F; | &#x25FB;&#xFE0F; | 
+| <small>25FE</small><br>black medium-small square<br>&#x25FE; | &#x25FE; | &#x25FE; | &#x25FE; | 
+| <small>25FD</small><br>white medium-small square<br>&#x25FD; | &#x25FD; | &#x25FD; | &#x25FD; | 
+| <small>25AA FE0F</small><br>black small square<br>&#x25AA;&#xFE0F; | &#x25AA;&#xFE0F; | &#x25AA;&#xFE0F; | &#x25AA;&#xFE0F; | 
+| <small>25AB FE0F</small><br>white small square<br>&#x25AB;&#xFE0F; | &#x25AB;&#xFE0F; | &#x25AB;&#xFE0F; | &#x25AB;&#xFE0F; | 
+| <small>1F536</small><br>large orange diamond<br>&#x1F536; | &#x1F536; | &#x1F536; | &#x1F536; | 
+| <small>1F537</small><br>large blue diamond<br>&#x1F537; | &#x1F537; | &#x1F537; | &#x1F537; | 
+| <small>1F538</small><br>small orange diamond<br>&#x1F538; | &#x1F538; | &#x1F538; | &#x1F538; | 
+| <small>1F539</small><br>small blue diamond<br>&#x1F539; | &#x1F539; | &#x1F539; | &#x1F539; | 
+| <small>1F53A</small><br>red triangle pointed up<br>&#x1F53A; | &#x1F53A; | &#x1F53A; | &#x1F53A; | 
+| <small>1F53B</small><br>red triangle pointed down<br>&#x1F53B; | &#x1F53B; | &#x1F53B; | &#x1F53B; | 
+| <small>1F4A0</small><br>diamond with a dot<br>&#x1F4A0; | &#x1F4A0; | &#x1F4A0; | &#x1F4A0; | 
+| <small>1F518</small><br>radio button<br>&#x1F518; | &#x1F518; | &#x1F518; | &#x1F518; | 
+| <small>1F533</small><br>white square button<br>&#x1F533; | &#x1F533; | &#x1F533; | &#x1F533; | 
+| <small>1F532</small><br>black square button<br>&#x1F532; | &#x1F532; | &#x1F532; | &#x1F532; | 
+
+
+### Flags
+
+#### flag
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3C1</small><br>chequered flag<br>&#x1F3C1; | &#x1F3C1; | &#x1F3C1; | &#x1F3C1; | 
+| <small>1F6A9</small><br>triangular flag<br>&#x1F6A9; | &#x1F6A9; | &#x1F6A9; | &#x1F6A9; | 
+| <small>1F38C</small><br>crossed flags<br>&#x1F38C; | &#x1F38C; | &#x1F38C; | &#x1F38C; | 
+| <small>1F3F4</small><br>black flag<br>&#x1F3F4; | &#x1F3F4; | &#x1F3F4; | &#x1F3F4; | 
+| <small>1F3F3 FE0F</small><br>white flag<br>&#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | &#x1F3F3;&#xFE0F; | 
+| <small>1F3F3 FE0F 200D 1F308</small><br>rainbow flag<br>&#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | &#x1F3F3;&#xFE0F;&#x200D;&#x1F308; | 
+| <small>1F3F3 FE0F 200D 26A7 FE0F</small><br>transgender flag<br>&#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; |  | &#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; | &#x1F3F3;&#xFE0F;&#x200D;&#x26A7;&#xFE0F; | 
+| <small>1F3F4 200D 2620 FE0F</small><br>pirate flag<br>&#x1F3F4;&#x200D;&#x2620;&#xFE0F; | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | &#x1F3F4;&#x200D;&#x2620;&#xFE0F; | 
+
+#### country-flag
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F1E6 1F1E8</small><br>flag: Ascension Island<br>&#x1F1E6;&#x1F1E8; | &#x1F1E6;&#x1F1E8; | &#x1F1E6;&#x1F1E8; | &#x1F1E6;&#x1F1E8; | 
+| <small>1F1E6 1F1E9</small><br>flag: Andorra<br>&#x1F1E6;&#x1F1E9; | &#x1F1E6;&#x1F1E9; | &#x1F1E6;&#x1F1E9; | &#x1F1E6;&#x1F1E9; | 
+| <small>1F1E6 1F1EA</small><br>flag: United Arab Emirates<br>&#x1F1E6;&#x1F1EA; | &#x1F1E6;&#x1F1EA; | &#x1F1E6;&#x1F1EA; | &#x1F1E6;&#x1F1EA; | 
+| <small>1F1E6 1F1EB</small><br>flag: Afghanistan<br>&#x1F1E6;&#x1F1EB; | &#x1F1E6;&#x1F1EB; | &#x1F1E6;&#x1F1EB; | &#x1F1E6;&#x1F1EB; | 
+| <small>1F1E6 1F1EC</small><br>flag: Antigua & Barbuda<br>&#x1F1E6;&#x1F1EC; | &#x1F1E6;&#x1F1EC; | &#x1F1E6;&#x1F1EC; | &#x1F1E6;&#x1F1EC; | 
+| <small>1F1E6 1F1EE</small><br>flag: Anguilla<br>&#x1F1E6;&#x1F1EE; | &#x1F1E6;&#x1F1EE; | &#x1F1E6;&#x1F1EE; | &#x1F1E6;&#x1F1EE; | 
+| <small>1F1E6 1F1F1</small><br>flag: Albania<br>&#x1F1E6;&#x1F1F1; | &#x1F1E6;&#x1F1F1; | &#x1F1E6;&#x1F1F1; | &#x1F1E6;&#x1F1F1; | 
+| <small>1F1E6 1F1F2</small><br>flag: Armenia<br>&#x1F1E6;&#x1F1F2; | &#x1F1E6;&#x1F1F2; | &#x1F1E6;&#x1F1F2; | &#x1F1E6;&#x1F1F2; | 
+| <small>1F1E6 1F1F4</small><br>flag: Angola<br>&#x1F1E6;&#x1F1F4; | &#x1F1E6;&#x1F1F4; | &#x1F1E6;&#x1F1F4; | &#x1F1E6;&#x1F1F4; | 
+| <small>1F1E6 1F1F6</small><br>flag: Antarctica<br>&#x1F1E6;&#x1F1F6; | &#x1F1E6;&#x1F1F6; | &#x1F1E6;&#x1F1F6; | &#x1F1E6;&#x1F1F6; | 
+| <small>1F1E6 1F1F7</small><br>flag: Argentina<br>&#x1F1E6;&#x1F1F7; | &#x1F1E6;&#x1F1F7; | &#x1F1E6;&#x1F1F7; | &#x1F1E6;&#x1F1F7; | 
+| <small>1F1E6 1F1F8</small><br>flag: American Samoa<br>&#x1F1E6;&#x1F1F8; | &#x1F1E6;&#x1F1F8; | &#x1F1E6;&#x1F1F8; | &#x1F1E6;&#x1F1F8; | 
+| <small>1F1E6 1F1F9</small><br>flag: Austria<br>&#x1F1E6;&#x1F1F9; | &#x1F1E6;&#x1F1F9; | &#x1F1E6;&#x1F1F9; | &#x1F1E6;&#x1F1F9; | 
+| <small>1F1E6 1F1FA</small><br>flag: Australia<br>&#x1F1E6;&#x1F1FA; | &#x1F1E6;&#x1F1FA; | &#x1F1E6;&#x1F1FA; | &#x1F1E6;&#x1F1FA; | 
+| <small>1F1E6 1F1FC</small><br>flag: Aruba<br>&#x1F1E6;&#x1F1FC; | &#x1F1E6;&#x1F1FC; | &#x1F1E6;&#x1F1FC; | &#x1F1E6;&#x1F1FC; | 
+| <small>1F1E6 1F1FD</small><br>flag: Åland Islands<br>&#x1F1E6;&#x1F1FD; | &#x1F1E6;&#x1F1FD; | &#x1F1E6;&#x1F1FD; | &#x1F1E6;&#x1F1FD; | 
+| <small>1F1E6 1F1FF</small><br>flag: Azerbaijan<br>&#x1F1E6;&#x1F1FF; | &#x1F1E6;&#x1F1FF; | &#x1F1E6;&#x1F1FF; | &#x1F1E6;&#x1F1FF; | 
+| <small>1F1E7 1F1E6</small><br>flag: Bosnia & Herzegovina<br>&#x1F1E7;&#x1F1E6; | &#x1F1E7;&#x1F1E6; | &#x1F1E7;&#x1F1E6; | &#x1F1E7;&#x1F1E6; | 
+| <small>1F1E7 1F1E7</small><br>flag: Barbados<br>&#x1F1E7;&#x1F1E7; | &#x1F1E7;&#x1F1E7; | &#x1F1E7;&#x1F1E7; | &#x1F1E7;&#x1F1E7; | 
+| <small>1F1E7 1F1E9</small><br>flag: Bangladesh<br>&#x1F1E7;&#x1F1E9; | &#x1F1E7;&#x1F1E9; | &#x1F1E7;&#x1F1E9; | &#x1F1E7;&#x1F1E9; | 
+| <small>1F1E7 1F1EA</small><br>flag: Belgium<br>&#x1F1E7;&#x1F1EA; | &#x1F1E7;&#x1F1EA; | &#x1F1E7;&#x1F1EA; | &#x1F1E7;&#x1F1EA; | 
+| <small>1F1E7 1F1EB</small><br>flag: Burkina Faso<br>&#x1F1E7;&#x1F1EB; | &#x1F1E7;&#x1F1EB; | &#x1F1E7;&#x1F1EB; | &#x1F1E7;&#x1F1EB; | 
+| <small>1F1E7 1F1EC</small><br>flag: Bulgaria<br>&#x1F1E7;&#x1F1EC; | &#x1F1E7;&#x1F1EC; | &#x1F1E7;&#x1F1EC; | &#x1F1E7;&#x1F1EC; | 
+| <small>1F1E7 1F1ED</small><br>flag: Bahrain<br>&#x1F1E7;&#x1F1ED; | &#x1F1E7;&#x1F1ED; | &#x1F1E7;&#x1F1ED; | &#x1F1E7;&#x1F1ED; | 
+| <small>1F1E7 1F1EE</small><br>flag: Burundi<br>&#x1F1E7;&#x1F1EE; | &#x1F1E7;&#x1F1EE; | &#x1F1E7;&#x1F1EE; | &#x1F1E7;&#x1F1EE; | 
+| <small>1F1E7 1F1EF</small><br>flag: Benin<br>&#x1F1E7;&#x1F1EF; | &#x1F1E7;&#x1F1EF; | &#x1F1E7;&#x1F1EF; | &#x1F1E7;&#x1F1EF; | 
+| <small>1F1E7 1F1F1</small><br>flag: St. Barthélemy<br>&#x1F1E7;&#x1F1F1; | &#x1F1E7;&#x1F1F1; | &#x1F1E7;&#x1F1F1; | &#x1F1E7;&#x1F1F1; | 
+| <small>1F1E7 1F1F2</small><br>flag: Bermuda<br>&#x1F1E7;&#x1F1F2; | &#x1F1E7;&#x1F1F2; | &#x1F1E7;&#x1F1F2; | &#x1F1E7;&#x1F1F2; | 
+| <small>1F1E7 1F1F3</small><br>flag: Brunei<br>&#x1F1E7;&#x1F1F3; | &#x1F1E7;&#x1F1F3; | &#x1F1E7;&#x1F1F3; | &#x1F1E7;&#x1F1F3; | 
+| <small>1F1E7 1F1F4</small><br>flag: Bolivia<br>&#x1F1E7;&#x1F1F4; | &#x1F1E7;&#x1F1F4; | &#x1F1E7;&#x1F1F4; | &#x1F1E7;&#x1F1F4; | 
+| <small>1F1E7 1F1F6</small><br>flag: Caribbean Netherlands<br>&#x1F1E7;&#x1F1F6; | &#x1F1E7;&#x1F1F6; | &#x1F1E7;&#x1F1F6; | &#x1F1E7;&#x1F1F6; | 
+| <small>1F1E7 1F1F7</small><br>flag: Brazil<br>&#x1F1E7;&#x1F1F7; | &#x1F1E7;&#x1F1F7; | &#x1F1E7;&#x1F1F7; | &#x1F1E7;&#x1F1F7; | 
+| <small>1F1E7 1F1F8</small><br>flag: Bahamas<br>&#x1F1E7;&#x1F1F8; | &#x1F1E7;&#x1F1F8; | &#x1F1E7;&#x1F1F8; | &#x1F1E7;&#x1F1F8; | 
+| <small>1F1E7 1F1F9</small><br>flag: Bhutan<br>&#x1F1E7;&#x1F1F9; | &#x1F1E7;&#x1F1F9; | &#x1F1E7;&#x1F1F9; | &#x1F1E7;&#x1F1F9; | 
+| <small>1F1E7 1F1FB</small><br>flag: Bouvet Island<br>&#x1F1E7;&#x1F1FB; | &#x1F1E7;&#x1F1FB; | &#x1F1E7;&#x1F1FB; | &#x1F1E7;&#x1F1FB; | 
+| <small>1F1E7 1F1FC</small><br>flag: Botswana<br>&#x1F1E7;&#x1F1FC; | &#x1F1E7;&#x1F1FC; | &#x1F1E7;&#x1F1FC; | &#x1F1E7;&#x1F1FC; | 
+| <small>1F1E7 1F1FE</small><br>flag: Belarus<br>&#x1F1E7;&#x1F1FE; | &#x1F1E7;&#x1F1FE; | &#x1F1E7;&#x1F1FE; | &#x1F1E7;&#x1F1FE; | 
+| <small>1F1E7 1F1FF</small><br>flag: Belize<br>&#x1F1E7;&#x1F1FF; | &#x1F1E7;&#x1F1FF; | &#x1F1E7;&#x1F1FF; | &#x1F1E7;&#x1F1FF; | 
+| <small>1F1E8 1F1E6</small><br>flag: Canada<br>&#x1F1E8;&#x1F1E6; | &#x1F1E8;&#x1F1E6; | &#x1F1E8;&#x1F1E6; | &#x1F1E8;&#x1F1E6; | 
+| <small>1F1E8 1F1E8</small><br>flag: Cocos (Keeling) Islands<br>&#x1F1E8;&#x1F1E8; | &#x1F1E8;&#x1F1E8; | &#x1F1E8;&#x1F1E8; | &#x1F1E8;&#x1F1E8; | 
+| <small>1F1E8 1F1E9</small><br>flag: Congo - Kinshasa<br>&#x1F1E8;&#x1F1E9; | &#x1F1E8;&#x1F1E9; | &#x1F1E8;&#x1F1E9; | &#x1F1E8;&#x1F1E9; | 
+| <small>1F1E8 1F1EB</small><br>flag: Central African Republic<br>&#x1F1E8;&#x1F1EB; | &#x1F1E8;&#x1F1EB; | &#x1F1E8;&#x1F1EB; | &#x1F1E8;&#x1F1EB; | 
+| <small>1F1E8 1F1EC</small><br>flag: Congo - Brazzaville<br>&#x1F1E8;&#x1F1EC; | &#x1F1E8;&#x1F1EC; | &#x1F1E8;&#x1F1EC; | &#x1F1E8;&#x1F1EC; | 
+| <small>1F1E8 1F1ED</small><br>flag: Switzerland<br>&#x1F1E8;&#x1F1ED; | &#x1F1E8;&#x1F1ED; | &#x1F1E8;&#x1F1ED; | &#x1F1E8;&#x1F1ED; | 
+| <small>1F1E8 1F1EE</small><br>flag: Côte d’Ivoire<br>&#x1F1E8;&#x1F1EE; | &#x1F1E8;&#x1F1EE; | &#x1F1E8;&#x1F1EE; | &#x1F1E8;&#x1F1EE; | 
+| <small>1F1E8 1F1F0</small><br>flag: Cook Islands<br>&#x1F1E8;&#x1F1F0; | &#x1F1E8;&#x1F1F0; | &#x1F1E8;&#x1F1F0; | &#x1F1E8;&#x1F1F0; | 
+| <small>1F1E8 1F1F1</small><br>flag: Chile<br>&#x1F1E8;&#x1F1F1; | &#x1F1E8;&#x1F1F1; | &#x1F1E8;&#x1F1F1; | &#x1F1E8;&#x1F1F1; | 
+| <small>1F1E8 1F1F2</small><br>flag: Cameroon<br>&#x1F1E8;&#x1F1F2; | &#x1F1E8;&#x1F1F2; | &#x1F1E8;&#x1F1F2; | &#x1F1E8;&#x1F1F2; | 
+| <small>1F1E8 1F1F3</small><br>flag: China<br>&#x1F1E8;&#x1F1F3; | &#x1F1E8;&#x1F1F3; | &#x1F1E8;&#x1F1F3; | &#x1F1E8;&#x1F1F3; | 
+| <small>1F1E8 1F1F4</small><br>flag: Colombia<br>&#x1F1E8;&#x1F1F4; | &#x1F1E8;&#x1F1F4; | &#x1F1E8;&#x1F1F4; | &#x1F1E8;&#x1F1F4; | 
+| <small>1F1E8 1F1F5</small><br>flag: Clipperton Island<br>&#x1F1E8;&#x1F1F5; | &#x1F1E8;&#x1F1F5; | &#x1F1E8;&#x1F1F5; | &#x1F1E8;&#x1F1F5; | 
+| <small>1F1E8 1F1F7</small><br>flag: Costa Rica<br>&#x1F1E8;&#x1F1F7; | &#x1F1E8;&#x1F1F7; | &#x1F1E8;&#x1F1F7; | &#x1F1E8;&#x1F1F7; | 
+| <small>1F1E8 1F1FA</small><br>flag: Cuba<br>&#x1F1E8;&#x1F1FA; | &#x1F1E8;&#x1F1FA; | &#x1F1E8;&#x1F1FA; | &#x1F1E8;&#x1F1FA; | 
+| <small>1F1E8 1F1FB</small><br>flag: Cape Verde<br>&#x1F1E8;&#x1F1FB; | &#x1F1E8;&#x1F1FB; | &#x1F1E8;&#x1F1FB; | &#x1F1E8;&#x1F1FB; | 
+| <small>1F1E8 1F1FC</small><br>flag: Curaçao<br>&#x1F1E8;&#x1F1FC; | &#x1F1E8;&#x1F1FC; | &#x1F1E8;&#x1F1FC; | &#x1F1E8;&#x1F1FC; | 
+| <small>1F1E8 1F1FD</small><br>flag: Christmas Island<br>&#x1F1E8;&#x1F1FD; | &#x1F1E8;&#x1F1FD; | &#x1F1E8;&#x1F1FD; | &#x1F1E8;&#x1F1FD; | 
+| <small>1F1E8 1F1FE</small><br>flag: Cyprus<br>&#x1F1E8;&#x1F1FE; | &#x1F1E8;&#x1F1FE; | &#x1F1E8;&#x1F1FE; | &#x1F1E8;&#x1F1FE; | 
+| <small>1F1E8 1F1FF</small><br>flag: Czechia<br>&#x1F1E8;&#x1F1FF; | &#x1F1E8;&#x1F1FF; | &#x1F1E8;&#x1F1FF; | &#x1F1E8;&#x1F1FF; | 
+| <small>1F1E9 1F1EA</small><br>flag: Germany<br>&#x1F1E9;&#x1F1EA; | &#x1F1E9;&#x1F1EA; | &#x1F1E9;&#x1F1EA; | &#x1F1E9;&#x1F1EA; | 
+| <small>1F1E9 1F1EC</small><br>flag: Diego Garcia<br>&#x1F1E9;&#x1F1EC; | &#x1F1E9;&#x1F1EC; | &#x1F1E9;&#x1F1EC; | &#x1F1E9;&#x1F1EC; | 
+| <small>1F1E9 1F1EF</small><br>flag: Djibouti<br>&#x1F1E9;&#x1F1EF; | &#x1F1E9;&#x1F1EF; | &#x1F1E9;&#x1F1EF; | &#x1F1E9;&#x1F1EF; | 
+| <small>1F1E9 1F1F0</small><br>flag: Denmark<br>&#x1F1E9;&#x1F1F0; | &#x1F1E9;&#x1F1F0; | &#x1F1E9;&#x1F1F0; | &#x1F1E9;&#x1F1F0; | 
+| <small>1F1E9 1F1F2</small><br>flag: Dominica<br>&#x1F1E9;&#x1F1F2; | &#x1F1E9;&#x1F1F2; | &#x1F1E9;&#x1F1F2; | &#x1F1E9;&#x1F1F2; | 
+| <small>1F1E9 1F1F4</small><br>flag: Dominican Republic<br>&#x1F1E9;&#x1F1F4; | &#x1F1E9;&#x1F1F4; | &#x1F1E9;&#x1F1F4; | &#x1F1E9;&#x1F1F4; | 
+| <small>1F1E9 1F1FF</small><br>flag: Algeria<br>&#x1F1E9;&#x1F1FF; | &#x1F1E9;&#x1F1FF; | &#x1F1E9;&#x1F1FF; | &#x1F1E9;&#x1F1FF; | 
+| <small>1F1EA 1F1E6</small><br>flag: Ceuta & Melilla<br>&#x1F1EA;&#x1F1E6; | &#x1F1EA;&#x1F1E6; | &#x1F1EA;&#x1F1E6; | &#x1F1EA;&#x1F1E6; | 
+| <small>1F1EA 1F1E8</small><br>flag: Ecuador<br>&#x1F1EA;&#x1F1E8; | &#x1F1EA;&#x1F1E8; | &#x1F1EA;&#x1F1E8; | &#x1F1EA;&#x1F1E8; | 
+| <small>1F1EA 1F1EA</small><br>flag: Estonia<br>&#x1F1EA;&#x1F1EA; | &#x1F1EA;&#x1F1EA; | &#x1F1EA;&#x1F1EA; | &#x1F1EA;&#x1F1EA; | 
+| <small>1F1EA 1F1EC</small><br>flag: Egypt<br>&#x1F1EA;&#x1F1EC; | &#x1F1EA;&#x1F1EC; | &#x1F1EA;&#x1F1EC; | &#x1F1EA;&#x1F1EC; | 
+| <small>1F1EA 1F1ED</small><br>flag: Western Sahara<br>&#x1F1EA;&#x1F1ED; | &#x1F1EA;&#x1F1ED; | &#x1F1EA;&#x1F1ED; | &#x1F1EA;&#x1F1ED; | 
+| <small>1F1EA 1F1F7</small><br>flag: Eritrea<br>&#x1F1EA;&#x1F1F7; | &#x1F1EA;&#x1F1F7; | &#x1F1EA;&#x1F1F7; | &#x1F1EA;&#x1F1F7; | 
+| <small>1F1EA 1F1F8</small><br>flag: Spain<br>&#x1F1EA;&#x1F1F8; | &#x1F1EA;&#x1F1F8; | &#x1F1EA;&#x1F1F8; | &#x1F1EA;&#x1F1F8; | 
+| <small>1F1EA 1F1F9</small><br>flag: Ethiopia<br>&#x1F1EA;&#x1F1F9; | &#x1F1EA;&#x1F1F9; | &#x1F1EA;&#x1F1F9; | &#x1F1EA;&#x1F1F9; | 
+| <small>1F1EA 1F1FA</small><br>flag: European Union<br>&#x1F1EA;&#x1F1FA; | &#x1F1EA;&#x1F1FA; | &#x1F1EA;&#x1F1FA; | &#x1F1EA;&#x1F1FA; | 
+| <small>1F1EB 1F1EE</small><br>flag: Finland<br>&#x1F1EB;&#x1F1EE; | &#x1F1EB;&#x1F1EE; | &#x1F1EB;&#x1F1EE; | &#x1F1EB;&#x1F1EE; | 
+| <small>1F1EB 1F1EF</small><br>flag: Fiji<br>&#x1F1EB;&#x1F1EF; | &#x1F1EB;&#x1F1EF; | &#x1F1EB;&#x1F1EF; | &#x1F1EB;&#x1F1EF; | 
+| <small>1F1EB 1F1F0</small><br>flag: Falkland Islands<br>&#x1F1EB;&#x1F1F0; | &#x1F1EB;&#x1F1F0; | &#x1F1EB;&#x1F1F0; | &#x1F1EB;&#x1F1F0; | 
+| <small>1F1EB 1F1F2</small><br>flag: Micronesia<br>&#x1F1EB;&#x1F1F2; | &#x1F1EB;&#x1F1F2; | &#x1F1EB;&#x1F1F2; | &#x1F1EB;&#x1F1F2; | 
+| <small>1F1EB 1F1F4</small><br>flag: Faroe Islands<br>&#x1F1EB;&#x1F1F4; | &#x1F1EB;&#x1F1F4; | &#x1F1EB;&#x1F1F4; | &#x1F1EB;&#x1F1F4; | 
+| <small>1F1EB 1F1F7</small><br>flag: France<br>&#x1F1EB;&#x1F1F7; | &#x1F1EB;&#x1F1F7; | &#x1F1EB;&#x1F1F7; | &#x1F1EB;&#x1F1F7; | 
+| <small>1F1EC 1F1E6</small><br>flag: Gabon<br>&#x1F1EC;&#x1F1E6; | &#x1F1EC;&#x1F1E6; | &#x1F1EC;&#x1F1E6; | &#x1F1EC;&#x1F1E6; | 
+| <small>1F1EC 1F1E7</small><br>flag: United Kingdom<br>&#x1F1EC;&#x1F1E7; | &#x1F1EC;&#x1F1E7; | &#x1F1EC;&#x1F1E7; | &#x1F1EC;&#x1F1E7; | 
+| <small>1F1EC 1F1E9</small><br>flag: Grenada<br>&#x1F1EC;&#x1F1E9; | &#x1F1EC;&#x1F1E9; | &#x1F1EC;&#x1F1E9; | &#x1F1EC;&#x1F1E9; | 
+| <small>1F1EC 1F1EA</small><br>flag: Georgia<br>&#x1F1EC;&#x1F1EA; | &#x1F1EC;&#x1F1EA; | &#x1F1EC;&#x1F1EA; | &#x1F1EC;&#x1F1EA; | 
+| <small>1F1EC 1F1EB</small><br>flag: French Guiana<br>&#x1F1EC;&#x1F1EB; | &#x1F1EC;&#x1F1EB; | &#x1F1EC;&#x1F1EB; | &#x1F1EC;&#x1F1EB; | 
+| <small>1F1EC 1F1EC</small><br>flag: Guernsey<br>&#x1F1EC;&#x1F1EC; | &#x1F1EC;&#x1F1EC; | &#x1F1EC;&#x1F1EC; | &#x1F1EC;&#x1F1EC; | 
+| <small>1F1EC 1F1ED</small><br>flag: Ghana<br>&#x1F1EC;&#x1F1ED; | &#x1F1EC;&#x1F1ED; | &#x1F1EC;&#x1F1ED; | &#x1F1EC;&#x1F1ED; | 
+| <small>1F1EC 1F1EE</small><br>flag: Gibraltar<br>&#x1F1EC;&#x1F1EE; | &#x1F1EC;&#x1F1EE; | &#x1F1EC;&#x1F1EE; | &#x1F1EC;&#x1F1EE; | 
+| <small>1F1EC 1F1F1</small><br>flag: Greenland<br>&#x1F1EC;&#x1F1F1; | &#x1F1EC;&#x1F1F1; | &#x1F1EC;&#x1F1F1; | &#x1F1EC;&#x1F1F1; | 
+| <small>1F1EC 1F1F2</small><br>flag: Gambia<br>&#x1F1EC;&#x1F1F2; | &#x1F1EC;&#x1F1F2; | &#x1F1EC;&#x1F1F2; | &#x1F1EC;&#x1F1F2; | 
+| <small>1F1EC 1F1F3</small><br>flag: Guinea<br>&#x1F1EC;&#x1F1F3; | &#x1F1EC;&#x1F1F3; | &#x1F1EC;&#x1F1F3; | &#x1F1EC;&#x1F1F3; | 
+| <small>1F1EC 1F1F5</small><br>flag: Guadeloupe<br>&#x1F1EC;&#x1F1F5; | &#x1F1EC;&#x1F1F5; | &#x1F1EC;&#x1F1F5; | &#x1F1EC;&#x1F1F5; | 
+| <small>1F1EC 1F1F6</small><br>flag: Equatorial Guinea<br>&#x1F1EC;&#x1F1F6; | &#x1F1EC;&#x1F1F6; | &#x1F1EC;&#x1F1F6; | &#x1F1EC;&#x1F1F6; | 
+| <small>1F1EC 1F1F7</small><br>flag: Greece<br>&#x1F1EC;&#x1F1F7; | &#x1F1EC;&#x1F1F7; | &#x1F1EC;&#x1F1F7; | &#x1F1EC;&#x1F1F7; | 
+| <small>1F1EC 1F1F8</small><br>flag: South Georgia & South Sandwich Islands<br>&#x1F1EC;&#x1F1F8; | &#x1F1EC;&#x1F1F8; | &#x1F1EC;&#x1F1F8; | &#x1F1EC;&#x1F1F8; | 
+| <small>1F1EC 1F1F9</small><br>flag: Guatemala<br>&#x1F1EC;&#x1F1F9; | &#x1F1EC;&#x1F1F9; | &#x1F1EC;&#x1F1F9; | &#x1F1EC;&#x1F1F9; | 
+| <small>1F1EC 1F1FA</small><br>flag: Guam<br>&#x1F1EC;&#x1F1FA; | &#x1F1EC;&#x1F1FA; | &#x1F1EC;&#x1F1FA; | &#x1F1EC;&#x1F1FA; | 
+| <small>1F1EC 1F1FC</small><br>flag: Guinea-Bissau<br>&#x1F1EC;&#x1F1FC; | &#x1F1EC;&#x1F1FC; | &#x1F1EC;&#x1F1FC; | &#x1F1EC;&#x1F1FC; | 
+| <small>1F1EC 1F1FE</small><br>flag: Guyana<br>&#x1F1EC;&#x1F1FE; | &#x1F1EC;&#x1F1FE; | &#x1F1EC;&#x1F1FE; | &#x1F1EC;&#x1F1FE; | 
+| <small>1F1ED 1F1F0</small><br>flag: Hong Kong SAR China<br>&#x1F1ED;&#x1F1F0; | &#x1F1ED;&#x1F1F0; | &#x1F1ED;&#x1F1F0; | &#x1F1ED;&#x1F1F0; | 
+| <small>1F1ED 1F1F2</small><br>flag: Heard & McDonald Islands<br>&#x1F1ED;&#x1F1F2; | &#x1F1ED;&#x1F1F2; | &#x1F1ED;&#x1F1F2; | &#x1F1ED;&#x1F1F2; | 
+| <small>1F1ED 1F1F3</small><br>flag: Honduras<br>&#x1F1ED;&#x1F1F3; | &#x1F1ED;&#x1F1F3; | &#x1F1ED;&#x1F1F3; | &#x1F1ED;&#x1F1F3; | 
+| <small>1F1ED 1F1F7</small><br>flag: Croatia<br>&#x1F1ED;&#x1F1F7; | &#x1F1ED;&#x1F1F7; | &#x1F1ED;&#x1F1F7; | &#x1F1ED;&#x1F1F7; | 
+| <small>1F1ED 1F1F9</small><br>flag: Haiti<br>&#x1F1ED;&#x1F1F9; | &#x1F1ED;&#x1F1F9; | &#x1F1ED;&#x1F1F9; | &#x1F1ED;&#x1F1F9; | 
+| <small>1F1ED 1F1FA</small><br>flag: Hungary<br>&#x1F1ED;&#x1F1FA; | &#x1F1ED;&#x1F1FA; | &#x1F1ED;&#x1F1FA; | &#x1F1ED;&#x1F1FA; | 
+| <small>1F1EE 1F1E8</small><br>flag: Canary Islands<br>&#x1F1EE;&#x1F1E8; | &#x1F1EE;&#x1F1E8; | &#x1F1EE;&#x1F1E8; | &#x1F1EE;&#x1F1E8; | 
+| <small>1F1EE 1F1E9</small><br>flag: Indonesia<br>&#x1F1EE;&#x1F1E9; | &#x1F1EE;&#x1F1E9; | &#x1F1EE;&#x1F1E9; | &#x1F1EE;&#x1F1E9; | 
+| <small>1F1EE 1F1EA</small><br>flag: Ireland<br>&#x1F1EE;&#x1F1EA; | &#x1F1EE;&#x1F1EA; | &#x1F1EE;&#x1F1EA; | &#x1F1EE;&#x1F1EA; | 
+| <small>1F1EE 1F1F1</small><br>flag: Israel<br>&#x1F1EE;&#x1F1F1; | &#x1F1EE;&#x1F1F1; | &#x1F1EE;&#x1F1F1; | &#x1F1EE;&#x1F1F1; | 
+| <small>1F1EE 1F1F2</small><br>flag: Isle of Man<br>&#x1F1EE;&#x1F1F2; | &#x1F1EE;&#x1F1F2; | &#x1F1EE;&#x1F1F2; | &#x1F1EE;&#x1F1F2; | 
+| <small>1F1EE 1F1F3</small><br>flag: India<br>&#x1F1EE;&#x1F1F3; | &#x1F1EE;&#x1F1F3; | &#x1F1EE;&#x1F1F3; | &#x1F1EE;&#x1F1F3; | 
+| <small>1F1EE 1F1F4</small><br>flag: British Indian Ocean Territory<br>&#x1F1EE;&#x1F1F4; | &#x1F1EE;&#x1F1F4; | &#x1F1EE;&#x1F1F4; | &#x1F1EE;&#x1F1F4; | 
+| <small>1F1EE 1F1F6</small><br>flag: Iraq<br>&#x1F1EE;&#x1F1F6; | &#x1F1EE;&#x1F1F6; | &#x1F1EE;&#x1F1F6; | &#x1F1EE;&#x1F1F6; | 
+| <small>1F1EE 1F1F7</small><br>flag: Iran<br>&#x1F1EE;&#x1F1F7; | &#x1F1EE;&#x1F1F7; | &#x1F1EE;&#x1F1F7; | &#x1F1EE;&#x1F1F7; | 
+| <small>1F1EE 1F1F8</small><br>flag: Iceland<br>&#x1F1EE;&#x1F1F8; | &#x1F1EE;&#x1F1F8; | &#x1F1EE;&#x1F1F8; | &#x1F1EE;&#x1F1F8; | 
+| <small>1F1EE 1F1F9</small><br>flag: Italy<br>&#x1F1EE;&#x1F1F9; | &#x1F1EE;&#x1F1F9; | &#x1F1EE;&#x1F1F9; | &#x1F1EE;&#x1F1F9; | 
+| <small>1F1EF 1F1EA</small><br>flag: Jersey<br>&#x1F1EF;&#x1F1EA; | &#x1F1EF;&#x1F1EA; | &#x1F1EF;&#x1F1EA; | &#x1F1EF;&#x1F1EA; | 
+| <small>1F1EF 1F1F2</small><br>flag: Jamaica<br>&#x1F1EF;&#x1F1F2; | &#x1F1EF;&#x1F1F2; | &#x1F1EF;&#x1F1F2; | &#x1F1EF;&#x1F1F2; | 
+| <small>1F1EF 1F1F4</small><br>flag: Jordan<br>&#x1F1EF;&#x1F1F4; | &#x1F1EF;&#x1F1F4; | &#x1F1EF;&#x1F1F4; | &#x1F1EF;&#x1F1F4; | 
+| <small>1F1EF 1F1F5</small><br>flag: Japan<br>&#x1F1EF;&#x1F1F5; | &#x1F1EF;&#x1F1F5; | &#x1F1EF;&#x1F1F5; | &#x1F1EF;&#x1F1F5; | 
+| <small>1F1F0 1F1EA</small><br>flag: Kenya<br>&#x1F1F0;&#x1F1EA; | &#x1F1F0;&#x1F1EA; | &#x1F1F0;&#x1F1EA; | &#x1F1F0;&#x1F1EA; | 
+| <small>1F1F0 1F1EC</small><br>flag: Kyrgyzstan<br>&#x1F1F0;&#x1F1EC; | &#x1F1F0;&#x1F1EC; | &#x1F1F0;&#x1F1EC; | &#x1F1F0;&#x1F1EC; | 
+| <small>1F1F0 1F1ED</small><br>flag: Cambodia<br>&#x1F1F0;&#x1F1ED; | &#x1F1F0;&#x1F1ED; | &#x1F1F0;&#x1F1ED; | &#x1F1F0;&#x1F1ED; | 
+| <small>1F1F0 1F1EE</small><br>flag: Kiribati<br>&#x1F1F0;&#x1F1EE; | &#x1F1F0;&#x1F1EE; | &#x1F1F0;&#x1F1EE; | &#x1F1F0;&#x1F1EE; | 
+| <small>1F1F0 1F1F2</small><br>flag: Comoros<br>&#x1F1F0;&#x1F1F2; | &#x1F1F0;&#x1F1F2; | &#x1F1F0;&#x1F1F2; | &#x1F1F0;&#x1F1F2; | 
+| <small>1F1F0 1F1F3</small><br>flag: St. Kitts & Nevis<br>&#x1F1F0;&#x1F1F3; | &#x1F1F0;&#x1F1F3; | &#x1F1F0;&#x1F1F3; | &#x1F1F0;&#x1F1F3; | 
+| <small>1F1F0 1F1F5</small><br>flag: North Korea<br>&#x1F1F0;&#x1F1F5; | &#x1F1F0;&#x1F1F5; | &#x1F1F0;&#x1F1F5; | &#x1F1F0;&#x1F1F5; | 
+| <small>1F1F0 1F1F7</small><br>flag: South Korea<br>&#x1F1F0;&#x1F1F7; | &#x1F1F0;&#x1F1F7; | &#x1F1F0;&#x1F1F7; | &#x1F1F0;&#x1F1F7; | 
+| <small>1F1F0 1F1FC</small><br>flag: Kuwait<br>&#x1F1F0;&#x1F1FC; | &#x1F1F0;&#x1F1FC; | &#x1F1F0;&#x1F1FC; | &#x1F1F0;&#x1F1FC; | 
+| <small>1F1F0 1F1FE</small><br>flag: Cayman Islands<br>&#x1F1F0;&#x1F1FE; | &#x1F1F0;&#x1F1FE; | &#x1F1F0;&#x1F1FE; | &#x1F1F0;&#x1F1FE; | 
+| <small>1F1F0 1F1FF</small><br>flag: Kazakhstan<br>&#x1F1F0;&#x1F1FF; | &#x1F1F0;&#x1F1FF; | &#x1F1F0;&#x1F1FF; | &#x1F1F0;&#x1F1FF; | 
+| <small>1F1F1 1F1E6</small><br>flag: Laos<br>&#x1F1F1;&#x1F1E6; | &#x1F1F1;&#x1F1E6; | &#x1F1F1;&#x1F1E6; | &#x1F1F1;&#x1F1E6; | 
+| <small>1F1F1 1F1E7</small><br>flag: Lebanon<br>&#x1F1F1;&#x1F1E7; | &#x1F1F1;&#x1F1E7; | &#x1F1F1;&#x1F1E7; | &#x1F1F1;&#x1F1E7; | 
+| <small>1F1F1 1F1E8</small><br>flag: St. Lucia<br>&#x1F1F1;&#x1F1E8; | &#x1F1F1;&#x1F1E8; | &#x1F1F1;&#x1F1E8; | &#x1F1F1;&#x1F1E8; | 
+| <small>1F1F1 1F1EE</small><br>flag: Liechtenstein<br>&#x1F1F1;&#x1F1EE; | &#x1F1F1;&#x1F1EE; | &#x1F1F1;&#x1F1EE; | &#x1F1F1;&#x1F1EE; | 
+| <small>1F1F1 1F1F0</small><br>flag: Sri Lanka<br>&#x1F1F1;&#x1F1F0; | &#x1F1F1;&#x1F1F0; | &#x1F1F1;&#x1F1F0; | &#x1F1F1;&#x1F1F0; | 
+| <small>1F1F1 1F1F7</small><br>flag: Liberia<br>&#x1F1F1;&#x1F1F7; | &#x1F1F1;&#x1F1F7; | &#x1F1F1;&#x1F1F7; | &#x1F1F1;&#x1F1F7; | 
+| <small>1F1F1 1F1F8</small><br>flag: Lesotho<br>&#x1F1F1;&#x1F1F8; | &#x1F1F1;&#x1F1F8; | &#x1F1F1;&#x1F1F8; | &#x1F1F1;&#x1F1F8; | 
+| <small>1F1F1 1F1F9</small><br>flag: Lithuania<br>&#x1F1F1;&#x1F1F9; | &#x1F1F1;&#x1F1F9; | &#x1F1F1;&#x1F1F9; | &#x1F1F1;&#x1F1F9; | 
+| <small>1F1F1 1F1FA</small><br>flag: Luxembourg<br>&#x1F1F1;&#x1F1FA; | &#x1F1F1;&#x1F1FA; | &#x1F1F1;&#x1F1FA; | &#x1F1F1;&#x1F1FA; | 
+| <small>1F1F1 1F1FB</small><br>flag: Latvia<br>&#x1F1F1;&#x1F1FB; | &#x1F1F1;&#x1F1FB; | &#x1F1F1;&#x1F1FB; | &#x1F1F1;&#x1F1FB; | 
+| <small>1F1F1 1F1FE</small><br>flag: Libya<br>&#x1F1F1;&#x1F1FE; | &#x1F1F1;&#x1F1FE; | &#x1F1F1;&#x1F1FE; | &#x1F1F1;&#x1F1FE; | 
+| <small>1F1F2 1F1E6</small><br>flag: Morocco<br>&#x1F1F2;&#x1F1E6; | &#x1F1F2;&#x1F1E6; | &#x1F1F2;&#x1F1E6; | &#x1F1F2;&#x1F1E6; | 
+| <small>1F1F2 1F1E8</small><br>flag: Monaco<br>&#x1F1F2;&#x1F1E8; | &#x1F1F2;&#x1F1E8; | &#x1F1F2;&#x1F1E8; | &#x1F1F2;&#x1F1E8; | 
+| <small>1F1F2 1F1E9</small><br>flag: Moldova<br>&#x1F1F2;&#x1F1E9; | &#x1F1F2;&#x1F1E9; | &#x1F1F2;&#x1F1E9; | &#x1F1F2;&#x1F1E9; | 
+| <small>1F1F2 1F1EA</small><br>flag: Montenegro<br>&#x1F1F2;&#x1F1EA; | &#x1F1F2;&#x1F1EA; | &#x1F1F2;&#x1F1EA; | &#x1F1F2;&#x1F1EA; | 
+| <small>1F1F2 1F1EB</small><br>flag: St. Martin<br>&#x1F1F2;&#x1F1EB; | &#x1F1F2;&#x1F1EB; | &#x1F1F2;&#x1F1EB; | &#x1F1F2;&#x1F1EB; | 
+| <small>1F1F2 1F1EC</small><br>flag: Madagascar<br>&#x1F1F2;&#x1F1EC; | &#x1F1F2;&#x1F1EC; | &#x1F1F2;&#x1F1EC; | &#x1F1F2;&#x1F1EC; | 
+| <small>1F1F2 1F1ED</small><br>flag: Marshall Islands<br>&#x1F1F2;&#x1F1ED; | &#x1F1F2;&#x1F1ED; | &#x1F1F2;&#x1F1ED; | &#x1F1F2;&#x1F1ED; | 
+| <small>1F1F2 1F1F0</small><br>flag: North Macedonia<br>&#x1F1F2;&#x1F1F0; | &#x1F1F2;&#x1F1F0; | &#x1F1F2;&#x1F1F0; | &#x1F1F2;&#x1F1F0; | 
+| <small>1F1F2 1F1F1</small><br>flag: Mali<br>&#x1F1F2;&#x1F1F1; | &#x1F1F2;&#x1F1F1; | &#x1F1F2;&#x1F1F1; | &#x1F1F2;&#x1F1F1; | 
+| <small>1F1F2 1F1F2</small><br>flag: Myanmar (Burma)<br>&#x1F1F2;&#x1F1F2; | &#x1F1F2;&#x1F1F2; | &#x1F1F2;&#x1F1F2; | &#x1F1F2;&#x1F1F2; | 
+| <small>1F1F2 1F1F3</small><br>flag: Mongolia<br>&#x1F1F2;&#x1F1F3; | &#x1F1F2;&#x1F1F3; | &#x1F1F2;&#x1F1F3; | &#x1F1F2;&#x1F1F3; | 
+| <small>1F1F2 1F1F4</small><br>flag: Macao SAR China<br>&#x1F1F2;&#x1F1F4; | &#x1F1F2;&#x1F1F4; | &#x1F1F2;&#x1F1F4; | &#x1F1F2;&#x1F1F4; | 
+| <small>1F1F2 1F1F5</small><br>flag: Northern Mariana Islands<br>&#x1F1F2;&#x1F1F5; | &#x1F1F2;&#x1F1F5; | &#x1F1F2;&#x1F1F5; | &#x1F1F2;&#x1F1F5; | 
+| <small>1F1F2 1F1F6</small><br>flag: Martinique<br>&#x1F1F2;&#x1F1F6; | &#x1F1F2;&#x1F1F6; | &#x1F1F2;&#x1F1F6; | &#x1F1F2;&#x1F1F6; | 
+| <small>1F1F2 1F1F7</small><br>flag: Mauritania<br>&#x1F1F2;&#x1F1F7; | &#x1F1F2;&#x1F1F7; | &#x1F1F2;&#x1F1F7; | &#x1F1F2;&#x1F1F7; | 
+| <small>1F1F2 1F1F8</small><br>flag: Montserrat<br>&#x1F1F2;&#x1F1F8; | &#x1F1F2;&#x1F1F8; | &#x1F1F2;&#x1F1F8; | &#x1F1F2;&#x1F1F8; | 
+| <small>1F1F2 1F1F9</small><br>flag: Malta<br>&#x1F1F2;&#x1F1F9; | &#x1F1F2;&#x1F1F9; | &#x1F1F2;&#x1F1F9; | &#x1F1F2;&#x1F1F9; | 
+| <small>1F1F2 1F1FA</small><br>flag: Mauritius<br>&#x1F1F2;&#x1F1FA; | &#x1F1F2;&#x1F1FA; | &#x1F1F2;&#x1F1FA; | &#x1F1F2;&#x1F1FA; | 
+| <small>1F1F2 1F1FB</small><br>flag: Maldives<br>&#x1F1F2;&#x1F1FB; | &#x1F1F2;&#x1F1FB; | &#x1F1F2;&#x1F1FB; | &#x1F1F2;&#x1F1FB; | 
+| <small>1F1F2 1F1FC</small><br>flag: Malawi<br>&#x1F1F2;&#x1F1FC; | &#x1F1F2;&#x1F1FC; | &#x1F1F2;&#x1F1FC; | &#x1F1F2;&#x1F1FC; | 
+| <small>1F1F2 1F1FD</small><br>flag: Mexico<br>&#x1F1F2;&#x1F1FD; | &#x1F1F2;&#x1F1FD; | &#x1F1F2;&#x1F1FD; | &#x1F1F2;&#x1F1FD; | 
+| <small>1F1F2 1F1FE</small><br>flag: Malaysia<br>&#x1F1F2;&#x1F1FE; | &#x1F1F2;&#x1F1FE; | &#x1F1F2;&#x1F1FE; | &#x1F1F2;&#x1F1FE; | 
+| <small>1F1F2 1F1FF</small><br>flag: Mozambique<br>&#x1F1F2;&#x1F1FF; | &#x1F1F2;&#x1F1FF; | &#x1F1F2;&#x1F1FF; | &#x1F1F2;&#x1F1FF; | 
+| <small>1F1F3 1F1E6</small><br>flag: Namibia<br>&#x1F1F3;&#x1F1E6; | &#x1F1F3;&#x1F1E6; | &#x1F1F3;&#x1F1E6; | &#x1F1F3;&#x1F1E6; | 
+| <small>1F1F3 1F1E8</small><br>flag: New Caledonia<br>&#x1F1F3;&#x1F1E8; | &#x1F1F3;&#x1F1E8; | &#x1F1F3;&#x1F1E8; | &#x1F1F3;&#x1F1E8; | 
+| <small>1F1F3 1F1EA</small><br>flag: Niger<br>&#x1F1F3;&#x1F1EA; | &#x1F1F3;&#x1F1EA; | &#x1F1F3;&#x1F1EA; | &#x1F1F3;&#x1F1EA; | 
+| <small>1F1F3 1F1EB</small><br>flag: Norfolk Island<br>&#x1F1F3;&#x1F1EB; | &#x1F1F3;&#x1F1EB; | &#x1F1F3;&#x1F1EB; | &#x1F1F3;&#x1F1EB; | 
+| <small>1F1F3 1F1EC</small><br>flag: Nigeria<br>&#x1F1F3;&#x1F1EC; | &#x1F1F3;&#x1F1EC; | &#x1F1F3;&#x1F1EC; | &#x1F1F3;&#x1F1EC; | 
+| <small>1F1F3 1F1EE</small><br>flag: Nicaragua<br>&#x1F1F3;&#x1F1EE; | &#x1F1F3;&#x1F1EE; | &#x1F1F3;&#x1F1EE; | &#x1F1F3;&#x1F1EE; | 
+| <small>1F1F3 1F1F1</small><br>flag: Netherlands<br>&#x1F1F3;&#x1F1F1; | &#x1F1F3;&#x1F1F1; | &#x1F1F3;&#x1F1F1; | &#x1F1F3;&#x1F1F1; | 
+| <small>1F1F3 1F1F4</small><br>flag: Norway<br>&#x1F1F3;&#x1F1F4; | &#x1F1F3;&#x1F1F4; | &#x1F1F3;&#x1F1F4; | &#x1F1F3;&#x1F1F4; | 
+| <small>1F1F3 1F1F5</small><br>flag: Nepal<br>&#x1F1F3;&#x1F1F5; | &#x1F1F3;&#x1F1F5; | &#x1F1F3;&#x1F1F5; | &#x1F1F3;&#x1F1F5; | 
+| <small>1F1F3 1F1F7</small><br>flag: Nauru<br>&#x1F1F3;&#x1F1F7; | &#x1F1F3;&#x1F1F7; | &#x1F1F3;&#x1F1F7; | &#x1F1F3;&#x1F1F7; | 
+| <small>1F1F3 1F1FA</small><br>flag: Niue<br>&#x1F1F3;&#x1F1FA; | &#x1F1F3;&#x1F1FA; | &#x1F1F3;&#x1F1FA; | &#x1F1F3;&#x1F1FA; | 
+| <small>1F1F3 1F1FF</small><br>flag: New Zealand<br>&#x1F1F3;&#x1F1FF; | &#x1F1F3;&#x1F1FF; | &#x1F1F3;&#x1F1FF; | &#x1F1F3;&#x1F1FF; | 
+| <small>1F1F4 1F1F2</small><br>flag: Oman<br>&#x1F1F4;&#x1F1F2; | &#x1F1F4;&#x1F1F2; | &#x1F1F4;&#x1F1F2; | &#x1F1F4;&#x1F1F2; | 
+| <small>1F1F5 1F1E6</small><br>flag: Panama<br>&#x1F1F5;&#x1F1E6; | &#x1F1F5;&#x1F1E6; | &#x1F1F5;&#x1F1E6; | &#x1F1F5;&#x1F1E6; | 
+| <small>1F1F5 1F1EA</small><br>flag: Peru<br>&#x1F1F5;&#x1F1EA; | &#x1F1F5;&#x1F1EA; | &#x1F1F5;&#x1F1EA; | &#x1F1F5;&#x1F1EA; | 
+| <small>1F1F5 1F1EB</small><br>flag: French Polynesia<br>&#x1F1F5;&#x1F1EB; | &#x1F1F5;&#x1F1EB; | &#x1F1F5;&#x1F1EB; | &#x1F1F5;&#x1F1EB; | 
+| <small>1F1F5 1F1EC</small><br>flag: Papua New Guinea<br>&#x1F1F5;&#x1F1EC; | &#x1F1F5;&#x1F1EC; | &#x1F1F5;&#x1F1EC; | &#x1F1F5;&#x1F1EC; | 
+| <small>1F1F5 1F1ED</small><br>flag: Philippines<br>&#x1F1F5;&#x1F1ED; | &#x1F1F5;&#x1F1ED; | &#x1F1F5;&#x1F1ED; | &#x1F1F5;&#x1F1ED; | 
+| <small>1F1F5 1F1F0</small><br>flag: Pakistan<br>&#x1F1F5;&#x1F1F0; | &#x1F1F5;&#x1F1F0; | &#x1F1F5;&#x1F1F0; | &#x1F1F5;&#x1F1F0; | 
+| <small>1F1F5 1F1F1</small><br>flag: Poland<br>&#x1F1F5;&#x1F1F1; | &#x1F1F5;&#x1F1F1; | &#x1F1F5;&#x1F1F1; | &#x1F1F5;&#x1F1F1; | 
+| <small>1F1F5 1F1F2</small><br>flag: St. Pierre & Miquelon<br>&#x1F1F5;&#x1F1F2; | &#x1F1F5;&#x1F1F2; | &#x1F1F5;&#x1F1F2; | &#x1F1F5;&#x1F1F2; | 
+| <small>1F1F5 1F1F3</small><br>flag: Pitcairn Islands<br>&#x1F1F5;&#x1F1F3; | &#x1F1F5;&#x1F1F3; | &#x1F1F5;&#x1F1F3; | &#x1F1F5;&#x1F1F3; | 
+| <small>1F1F5 1F1F7</small><br>flag: Puerto Rico<br>&#x1F1F5;&#x1F1F7; | &#x1F1F5;&#x1F1F7; | &#x1F1F5;&#x1F1F7; | &#x1F1F5;&#x1F1F7; | 
+| <small>1F1F5 1F1F8</small><br>flag: Palestinian Territories<br>&#x1F1F5;&#x1F1F8; | &#x1F1F5;&#x1F1F8; | &#x1F1F5;&#x1F1F8; | &#x1F1F5;&#x1F1F8; | 
+| <small>1F1F5 1F1F9</small><br>flag: Portugal<br>&#x1F1F5;&#x1F1F9; | &#x1F1F5;&#x1F1F9; | &#x1F1F5;&#x1F1F9; | &#x1F1F5;&#x1F1F9; | 
+| <small>1F1F5 1F1FC</small><br>flag: Palau<br>&#x1F1F5;&#x1F1FC; | &#x1F1F5;&#x1F1FC; | &#x1F1F5;&#x1F1FC; | &#x1F1F5;&#x1F1FC; | 
+| <small>1F1F5 1F1FE</small><br>flag: Paraguay<br>&#x1F1F5;&#x1F1FE; | &#x1F1F5;&#x1F1FE; | &#x1F1F5;&#x1F1FE; | &#x1F1F5;&#x1F1FE; | 
+| <small>1F1F6 1F1E6</small><br>flag: Qatar<br>&#x1F1F6;&#x1F1E6; | &#x1F1F6;&#x1F1E6; | &#x1F1F6;&#x1F1E6; | &#x1F1F6;&#x1F1E6; | 
+| <small>1F1F7 1F1EA</small><br>flag: Réunion<br>&#x1F1F7;&#x1F1EA; | &#x1F1F7;&#x1F1EA; | &#x1F1F7;&#x1F1EA; | &#x1F1F7;&#x1F1EA; | 
+| <small>1F1F7 1F1F4</small><br>flag: Romania<br>&#x1F1F7;&#x1F1F4; | &#x1F1F7;&#x1F1F4; | &#x1F1F7;&#x1F1F4; | &#x1F1F7;&#x1F1F4; | 
+| <small>1F1F7 1F1F8</small><br>flag: Serbia<br>&#x1F1F7;&#x1F1F8; | &#x1F1F7;&#x1F1F8; | &#x1F1F7;&#x1F1F8; | &#x1F1F7;&#x1F1F8; | 
+| <small>1F1F7 1F1FA</small><br>flag: Russia<br>&#x1F1F7;&#x1F1FA; | &#x1F1F7;&#x1F1FA; | &#x1F1F7;&#x1F1FA; | &#x1F1F7;&#x1F1FA; | 
+| <small>1F1F7 1F1FC</small><br>flag: Rwanda<br>&#x1F1F7;&#x1F1FC; | &#x1F1F7;&#x1F1FC; | &#x1F1F7;&#x1F1FC; | &#x1F1F7;&#x1F1FC; | 
+| <small>1F1F8 1F1E6</small><br>flag: Saudi Arabia<br>&#x1F1F8;&#x1F1E6; | &#x1F1F8;&#x1F1E6; | &#x1F1F8;&#x1F1E6; | &#x1F1F8;&#x1F1E6; | 
+| <small>1F1F8 1F1E7</small><br>flag: Solomon Islands<br>&#x1F1F8;&#x1F1E7; | &#x1F1F8;&#x1F1E7; | &#x1F1F8;&#x1F1E7; | &#x1F1F8;&#x1F1E7; | 
+| <small>1F1F8 1F1E8</small><br>flag: Seychelles<br>&#x1F1F8;&#x1F1E8; | &#x1F1F8;&#x1F1E8; | &#x1F1F8;&#x1F1E8; | &#x1F1F8;&#x1F1E8; | 
+| <small>1F1F8 1F1E9</small><br>flag: Sudan<br>&#x1F1F8;&#x1F1E9; | &#x1F1F8;&#x1F1E9; | &#x1F1F8;&#x1F1E9; | &#x1F1F8;&#x1F1E9; | 
+| <small>1F1F8 1F1EA</small><br>flag: Sweden<br>&#x1F1F8;&#x1F1EA; | &#x1F1F8;&#x1F1EA; | &#x1F1F8;&#x1F1EA; | &#x1F1F8;&#x1F1EA; | 
+| <small>1F1F8 1F1EC</small><br>flag: Singapore<br>&#x1F1F8;&#x1F1EC; | &#x1F1F8;&#x1F1EC; | &#x1F1F8;&#x1F1EC; | &#x1F1F8;&#x1F1EC; | 
+| <small>1F1F8 1F1ED</small><br>flag: St. Helena<br>&#x1F1F8;&#x1F1ED; | &#x1F1F8;&#x1F1ED; | &#x1F1F8;&#x1F1ED; | &#x1F1F8;&#x1F1ED; | 
+| <small>1F1F8 1F1EE</small><br>flag: Slovenia<br>&#x1F1F8;&#x1F1EE; | &#x1F1F8;&#x1F1EE; | &#x1F1F8;&#x1F1EE; | &#x1F1F8;&#x1F1EE; | 
+| <small>1F1F8 1F1EF</small><br>flag: Svalbard & Jan Mayen<br>&#x1F1F8;&#x1F1EF; | &#x1F1F8;&#x1F1EF; | &#x1F1F8;&#x1F1EF; | &#x1F1F8;&#x1F1EF; | 
+| <small>1F1F8 1F1F0</small><br>flag: Slovakia<br>&#x1F1F8;&#x1F1F0; | &#x1F1F8;&#x1F1F0; | &#x1F1F8;&#x1F1F0; | &#x1F1F8;&#x1F1F0; | 
+| <small>1F1F8 1F1F1</small><br>flag: Sierra Leone<br>&#x1F1F8;&#x1F1F1; | &#x1F1F8;&#x1F1F1; | &#x1F1F8;&#x1F1F1; | &#x1F1F8;&#x1F1F1; | 
+| <small>1F1F8 1F1F2</small><br>flag: San Marino<br>&#x1F1F8;&#x1F1F2; | &#x1F1F8;&#x1F1F2; | &#x1F1F8;&#x1F1F2; | &#x1F1F8;&#x1F1F2; | 
+| <small>1F1F8 1F1F3</small><br>flag: Senegal<br>&#x1F1F8;&#x1F1F3; | &#x1F1F8;&#x1F1F3; | &#x1F1F8;&#x1F1F3; | &#x1F1F8;&#x1F1F3; | 
+| <small>1F1F8 1F1F4</small><br>flag: Somalia<br>&#x1F1F8;&#x1F1F4; | &#x1F1F8;&#x1F1F4; | &#x1F1F8;&#x1F1F4; | &#x1F1F8;&#x1F1F4; | 
+| <small>1F1F8 1F1F7</small><br>flag: Suriname<br>&#x1F1F8;&#x1F1F7; | &#x1F1F8;&#x1F1F7; | &#x1F1F8;&#x1F1F7; | &#x1F1F8;&#x1F1F7; | 
+| <small>1F1F8 1F1F8</small><br>flag: South Sudan<br>&#x1F1F8;&#x1F1F8; | &#x1F1F8;&#x1F1F8; | &#x1F1F8;&#x1F1F8; | &#x1F1F8;&#x1F1F8; | 
+| <small>1F1F8 1F1F9</small><br>flag: São Tomé & Príncipe<br>&#x1F1F8;&#x1F1F9; | &#x1F1F8;&#x1F1F9; | &#x1F1F8;&#x1F1F9; | &#x1F1F8;&#x1F1F9; | 
+| <small>1F1F8 1F1FB</small><br>flag: El Salvador<br>&#x1F1F8;&#x1F1FB; | &#x1F1F8;&#x1F1FB; | &#x1F1F8;&#x1F1FB; | &#x1F1F8;&#x1F1FB; | 
+| <small>1F1F8 1F1FD</small><br>flag: Sint Maarten<br>&#x1F1F8;&#x1F1FD; | &#x1F1F8;&#x1F1FD; | &#x1F1F8;&#x1F1FD; | &#x1F1F8;&#x1F1FD; | 
+| <small>1F1F8 1F1FE</small><br>flag: Syria<br>&#x1F1F8;&#x1F1FE; | &#x1F1F8;&#x1F1FE; | &#x1F1F8;&#x1F1FE; | &#x1F1F8;&#x1F1FE; | 
+| <small>1F1F8 1F1FF</small><br>flag: Eswatini<br>&#x1F1F8;&#x1F1FF; | &#x1F1F8;&#x1F1FF; | &#x1F1F8;&#x1F1FF; | &#x1F1F8;&#x1F1FF; | 
+| <small>1F1F9 1F1E6</small><br>flag: Tristan da Cunha<br>&#x1F1F9;&#x1F1E6; | &#x1F1F9;&#x1F1E6; | &#x1F1F9;&#x1F1E6; | &#x1F1F9;&#x1F1E6; | 
+| <small>1F1F9 1F1E8</small><br>flag: Turks & Caicos Islands<br>&#x1F1F9;&#x1F1E8; | &#x1F1F9;&#x1F1E8; | &#x1F1F9;&#x1F1E8; | &#x1F1F9;&#x1F1E8; | 
+| <small>1F1F9 1F1E9</small><br>flag: Chad<br>&#x1F1F9;&#x1F1E9; | &#x1F1F9;&#x1F1E9; | &#x1F1F9;&#x1F1E9; | &#x1F1F9;&#x1F1E9; | 
+| <small>1F1F9 1F1EB</small><br>flag: French Southern Territories<br>&#x1F1F9;&#x1F1EB; | &#x1F1F9;&#x1F1EB; | &#x1F1F9;&#x1F1EB; | &#x1F1F9;&#x1F1EB; | 
+| <small>1F1F9 1F1EC</small><br>flag: Togo<br>&#x1F1F9;&#x1F1EC; | &#x1F1F9;&#x1F1EC; | &#x1F1F9;&#x1F1EC; | &#x1F1F9;&#x1F1EC; | 
+| <small>1F1F9 1F1ED</small><br>flag: Thailand<br>&#x1F1F9;&#x1F1ED; | &#x1F1F9;&#x1F1ED; | &#x1F1F9;&#x1F1ED; | &#x1F1F9;&#x1F1ED; | 
+| <small>1F1F9 1F1EF</small><br>flag: Tajikistan<br>&#x1F1F9;&#x1F1EF; | &#x1F1F9;&#x1F1EF; | &#x1F1F9;&#x1F1EF; | &#x1F1F9;&#x1F1EF; | 
+| <small>1F1F9 1F1F0</small><br>flag: Tokelau<br>&#x1F1F9;&#x1F1F0; | &#x1F1F9;&#x1F1F0; | &#x1F1F9;&#x1F1F0; | &#x1F1F9;&#x1F1F0; | 
+| <small>1F1F9 1F1F1</small><br>flag: Timor-Leste<br>&#x1F1F9;&#x1F1F1; | &#x1F1F9;&#x1F1F1; | &#x1F1F9;&#x1F1F1; | &#x1F1F9;&#x1F1F1; | 
+| <small>1F1F9 1F1F2</small><br>flag: Turkmenistan<br>&#x1F1F9;&#x1F1F2; | &#x1F1F9;&#x1F1F2; | &#x1F1F9;&#x1F1F2; | &#x1F1F9;&#x1F1F2; | 
+| <small>1F1F9 1F1F3</small><br>flag: Tunisia<br>&#x1F1F9;&#x1F1F3; | &#x1F1F9;&#x1F1F3; | &#x1F1F9;&#x1F1F3; | &#x1F1F9;&#x1F1F3; | 
+| <small>1F1F9 1F1F4</small><br>flag: Tonga<br>&#x1F1F9;&#x1F1F4; | &#x1F1F9;&#x1F1F4; | &#x1F1F9;&#x1F1F4; | &#x1F1F9;&#x1F1F4; | 
+| <small>1F1F9 1F1F7</small><br>flag: Turkey<br>&#x1F1F9;&#x1F1F7; | &#x1F1F9;&#x1F1F7; | &#x1F1F9;&#x1F1F7; | &#x1F1F9;&#x1F1F7; | 
+| <small>1F1F9 1F1F9</small><br>flag: Trinidad & Tobago<br>&#x1F1F9;&#x1F1F9; | &#x1F1F9;&#x1F1F9; | &#x1F1F9;&#x1F1F9; | &#x1F1F9;&#x1F1F9; | 
+| <small>1F1F9 1F1FB</small><br>flag: Tuvalu<br>&#x1F1F9;&#x1F1FB; | &#x1F1F9;&#x1F1FB; | &#x1F1F9;&#x1F1FB; | &#x1F1F9;&#x1F1FB; | 
+| <small>1F1F9 1F1FC</small><br>flag: Taiwan<br>&#x1F1F9;&#x1F1FC; | &#x1F1F9;&#x1F1FC; | &#x1F1F9;&#x1F1FC; | &#x1F1F9;&#x1F1FC; | 
+| <small>1F1F9 1F1FF</small><br>flag: Tanzania<br>&#x1F1F9;&#x1F1FF; | &#x1F1F9;&#x1F1FF; | &#x1F1F9;&#x1F1FF; | &#x1F1F9;&#x1F1FF; | 
+| <small>1F1FA 1F1E6</small><br>flag: Ukraine<br>&#x1F1FA;&#x1F1E6; | &#x1F1FA;&#x1F1E6; | &#x1F1FA;&#x1F1E6; | &#x1F1FA;&#x1F1E6; | 
+| <small>1F1FA 1F1EC</small><br>flag: Uganda<br>&#x1F1FA;&#x1F1EC; | &#x1F1FA;&#x1F1EC; | &#x1F1FA;&#x1F1EC; | &#x1F1FA;&#x1F1EC; | 
+| <small>1F1FA 1F1F2</small><br>flag: U.S. Outlying Islands<br>&#x1F1FA;&#x1F1F2; | &#x1F1FA;&#x1F1F2; | &#x1F1FA;&#x1F1F2; | &#x1F1FA;&#x1F1F2; | 
+| <small>1F1FA 1F1F3</small><br>flag: United Nations<br>&#x1F1FA;&#x1F1F3; |  | &#x1F1FA;&#x1F1F3; | &#x1F1FA;&#x1F1F3; | 
+| <small>1F1FA 1F1F8</small><br>flag: United States<br>&#x1F1FA;&#x1F1F8; | &#x1F1FA;&#x1F1F8; | &#x1F1FA;&#x1F1F8; | &#x1F1FA;&#x1F1F8; | 
+| <small>1F1FA 1F1FE</small><br>flag: Uruguay<br>&#x1F1FA;&#x1F1FE; | &#x1F1FA;&#x1F1FE; | &#x1F1FA;&#x1F1FE; | &#x1F1FA;&#x1F1FE; | 
+| <small>1F1FA 1F1FF</small><br>flag: Uzbekistan<br>&#x1F1FA;&#x1F1FF; | &#x1F1FA;&#x1F1FF; | &#x1F1FA;&#x1F1FF; | &#x1F1FA;&#x1F1FF; | 
+| <small>1F1FB 1F1E6</small><br>flag: Vatican City<br>&#x1F1FB;&#x1F1E6; | &#x1F1FB;&#x1F1E6; | &#x1F1FB;&#x1F1E6; | &#x1F1FB;&#x1F1E6; | 
+| <small>1F1FB 1F1E8</small><br>flag: St. Vincent & Grenadines<br>&#x1F1FB;&#x1F1E8; | &#x1F1FB;&#x1F1E8; | &#x1F1FB;&#x1F1E8; | &#x1F1FB;&#x1F1E8; | 
+| <small>1F1FB 1F1EA</small><br>flag: Venezuela<br>&#x1F1FB;&#x1F1EA; | &#x1F1FB;&#x1F1EA; | &#x1F1FB;&#x1F1EA; | &#x1F1FB;&#x1F1EA; | 
+| <small>1F1FB 1F1EC</small><br>flag: British Virgin Islands<br>&#x1F1FB;&#x1F1EC; | &#x1F1FB;&#x1F1EC; | &#x1F1FB;&#x1F1EC; | &#x1F1FB;&#x1F1EC; | 
+| <small>1F1FB 1F1EE</small><br>flag: U.S. Virgin Islands<br>&#x1F1FB;&#x1F1EE; | &#x1F1FB;&#x1F1EE; | &#x1F1FB;&#x1F1EE; | &#x1F1FB;&#x1F1EE; | 
+| <small>1F1FB 1F1F3</small><br>flag: Vietnam<br>&#x1F1FB;&#x1F1F3; | &#x1F1FB;&#x1F1F3; | &#x1F1FB;&#x1F1F3; | &#x1F1FB;&#x1F1F3; | 
+| <small>1F1FB 1F1FA</small><br>flag: Vanuatu<br>&#x1F1FB;&#x1F1FA; | &#x1F1FB;&#x1F1FA; | &#x1F1FB;&#x1F1FA; | &#x1F1FB;&#x1F1FA; | 
+| <small>1F1FC 1F1EB</small><br>flag: Wallis & Futuna<br>&#x1F1FC;&#x1F1EB; | &#x1F1FC;&#x1F1EB; | &#x1F1FC;&#x1F1EB; | &#x1F1FC;&#x1F1EB; | 
+| <small>1F1FC 1F1F8</small><br>flag: Samoa<br>&#x1F1FC;&#x1F1F8; | &#x1F1FC;&#x1F1F8; | &#x1F1FC;&#x1F1F8; | &#x1F1FC;&#x1F1F8; | 
+| <small>1F1FD 1F1F0</small><br>flag: Kosovo<br>&#x1F1FD;&#x1F1F0; | &#x1F1FD;&#x1F1F0; | &#x1F1FD;&#x1F1F0; | &#x1F1FD;&#x1F1F0; | 
+| <small>1F1FE 1F1EA</small><br>flag: Yemen<br>&#x1F1FE;&#x1F1EA; | &#x1F1FE;&#x1F1EA; | &#x1F1FE;&#x1F1EA; | &#x1F1FE;&#x1F1EA; | 
+| <small>1F1FE 1F1F9</small><br>flag: Mayotte<br>&#x1F1FE;&#x1F1F9; | &#x1F1FE;&#x1F1F9; | &#x1F1FE;&#x1F1F9; | &#x1F1FE;&#x1F1F9; | 
+| <small>1F1FF 1F1E6</small><br>flag: South Africa<br>&#x1F1FF;&#x1F1E6; | &#x1F1FF;&#x1F1E6; | &#x1F1FF;&#x1F1E6; | &#x1F1FF;&#x1F1E6; | 
+| <small>1F1FF 1F1F2</small><br>flag: Zambia<br>&#x1F1FF;&#x1F1F2; | &#x1F1FF;&#x1F1F2; | &#x1F1FF;&#x1F1F2; | &#x1F1FF;&#x1F1F2; | 
+| <small>1F1FF 1F1FC</small><br>flag: Zimbabwe<br>&#x1F1FF;&#x1F1FC; | &#x1F1FF;&#x1F1FC; | &#x1F1FF;&#x1F1FC; | &#x1F1FF;&#x1F1FC; | 
+
+#### subdivision-flag
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F3F4 E0067 E0062 E0065 E006E E0067 E007F</small><br>flag: England<br>&#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0065;&#xE006E;&#xE0067;&#xE007F; | 
+| <small>1F3F4 E0067 E0062 E0073 E0063 E0074 E007F</small><br>flag: Scotland<br>&#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0073;&#xE0063;&#xE0074;&#xE007F; | 
+| <small>1F3F4 E0067 E0062 E0077 E006C E0073 E007F</small><br>flag: Wales<br>&#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | &#x1F3F4;&#xE0067;&#xE0062;&#xE0077;&#xE006C;&#xE0073;&#xE007F; | 
+
+
+
