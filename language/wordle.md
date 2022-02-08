@@ -18,9 +18,22 @@ This is a precalculated tree of solutions for Wordle.
 If you follow this tree of guesses exactly, you will always be able to solve Wordle in 5 guesses or fewer *(assuming Wordle hasn't changed the list it draws words from)*.
 <!--*(given the same list of 2315 potential solutions which Wordle draws from as of Feb 08 of 2022)*.-->
 
-If you stray from this path, there is nothing I can to help you.
+If you stray from this path, there is nothing this tree can do to help you.
 
-
+<style>
+    @font-face {
+        font-family: 'Twemoji Squares';
+        src: url(../../webfonts/emoji/TwemojiCOLORv0_onlyShapes.ttf);
+    }
+    details > summary {
+        font-family: 'Twemoji Squares';
+        font-size: xx-large;
+    }
+    .sublist {
+        padding-left: 2em;
+        padding-bottom: 2em;
+    }
+</style>
 
 <p>Your first guess should be <b style="font-size: large;">"raise"</b>.</p>
 <p>If that is not the solution, find the response to "<b>raise</b>" in the list below.</p>
