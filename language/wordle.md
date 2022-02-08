@@ -34,6 +34,7 @@ If you stray from this path, there is nothing this tree can do to help you.
         font-size: xx-large;
         margin: 0px;
         border-radius: 8px;
+        padding: 0rem .5rem;
     }
     details p {
         margin: 1rem;
