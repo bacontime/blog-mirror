@@ -25,19 +25,28 @@ If you stray from this path, there is nothing this tree can do to help you.
         font-family: 'Twemoji Squares';
         src: url(../../webfonts/emoji/TwemojiCOLORv0_onlyShapes.ttf);
     }
+    details {
+        border: 1px solid rgba(0,0,0,0.2);
+        padding: 0;
+    }
     details > summary {
         font-family: 'Twemoji Squares';
         font-size: xx-large;
+        margin: 0px;
+        border-radius: 8px;
+    }
+    details p {
+        margin: 1rem;
     }
     .sublist {
-        padding-left: 2em;
+        padding-left: .3em;
         padding-bottom: 2em;
     }
 </style>
 
 <p>Your first guess should be <b style="font-size: large;">"raise"</b>.</p>
 <p>If that is not the solution, find the response to "<b>raise</b>" in the list below.</p>
-<div class="sublist">
+
 <details><summary>⬛⬛⬛⬛⬛</summary>
 <p>Your next guess should be "<b>blond</b>".</p>
 <p>If that is not the solution, find the response to "<b>blond</b>" in the list below.</p>
@@ -7736,7 +7745,7 @@ If you stray from this path, there is nothing this tree can do to help you.
 <details><summary>🟩🟩🟩⬛⬛</summary>
 <p>The solution is "<b>rainy</b>"!</p>
 </details>
-</div>
+
 
 
 
