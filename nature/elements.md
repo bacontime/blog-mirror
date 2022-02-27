@@ -1,9 +1,23 @@
 ---
 title: Element Names
-parent: Language
+parent: Chinese Characters
+grand_parent: Language
 ---
 
-The "picto" column below represents a silly sort of literal interpretation of the radicals that make up the hanzi character.
+Where do element names come from? Here's a cute  little list.
+See the links at the end for some more in-depth resources.
+
+
+The "picto" column below represents a silly sort of literal interpretation of the radicals that make up the hanzi character.[^hanzidecomposition]
+
+[^hanzidecomposition]: The majority of Chinese characters are phono-semantic compounds, meaning that part of the character hints about its meaning, and part hints about its pronunciation. And aside from the few elements known to antiquity, the characters for chemical elements tend to follow this same pattern. Non-metals which are solid at STP use a 石 radical, which by itself means stone/rock/mineral. Gaseous elements use 气 (gas/breath/vapor). Metals use 钅, which is a simplified version of 金, meaning gold or metal in general. The other part of the character is a homophone in Mandarin. For example, the 'oxygen' character (氧) is a combination of gas (气) and goat (羊) because oxygen ('yǎng') is a near-homophone for goat ('yáng'). However, the etymology of the spoken word is more likely related to the word for nourishing support (also 'yǎng', 养).
+
+
+
+
+## The Full Table of Elements
+
+(work in progress)
 
 English | Literal | Pinyin | 汉字 | picto 
 --- | --- | --- | --- | ---
@@ -62,6 +76,7 @@ helium aka 氦 sun vapor| Yin Air
 - [Periodic table color-coded by origin of name.](https://elements.vanderkrogt.net/ptable.php)
 - [Wiki article on Element Name Etymologies](https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies)
 - [An abbreviated Wiki Article with element etymologies](https://en.wikipedia.org/wiki/List_of_chemical_elements)
+- [Wikipedia's article on Chinese Element Names](https://en.wikipedia.org/wiki/Chemical_elements_in_East_Asian_languages)
 - [Chinese dictionary with character decomposition](https://www.mdbg.net/chinese/dictionary)
 - [English-Chinese Periodic Table of Elements](https://www.pascal-man.com/periodic-table/periodictable-dave-lo.pdf)
 - [A list of element names goofily adapted to only use germanic roots.](https://anglish.fandom.com/wiki/Fading_of_Ormotes)
