@@ -1,8 +1,158 @@
 ---
-title: Element Names
+title: Chinese Element Names
 parent: Chinese Characters
 grand_parent: Language
 ---
+
+# Hanzi for the Chemical Elements
+
+Only a few pure chemical elements were known to people in ancient times. 
+Then starting in the late 1700s, there was an explosion of chemical discoveries.
+These new elements required a bevy of new names, 
+and many of these elements were named after people or places involved in their discovery.
+
+Peter van de Krogt has [a wonderful website with details about the origins of each element's English and international names](https://elements.vanderkrogt.net/index.php).
+
+But in the 1800s, when people set out to translate such discoveries for global audiences, they found that translating the names of these new elements into Chinese required additional care.
+
+Some early attempts involved direct transliteration, so that a word like "Magnesium" might be translated as "美合尼西恩" ("Měihéníxīēn"), which is a sequence of five characters which by themselves mean: beautiful, together, female monk, west, and favor. That kind of phonetic pileup might work fine for a proper noun (looking at you, "施瓦辛格"), but it looks silly and confusing when placed alongside svelte classically-known element names like "金" and "汞".
+
+The approach settled on by [Xu Shou](https://zh.wikipedia.org/zh-cn/%E5%BE%90%E5%A3%BD) and [John Fryer](https://en.wikipedia.org/wiki/John_Fryer_(sinologist)) was to choose a singular character for each element. 
+In those cases where there wasn't already a widely-used character for an element, the pair invented a new one. 
+The vast majority of these invented characters are phono-semantic compounds, meaning that one component of the character indicates that it is a chemical element, 
+while the other part of the character gives a hint about the pronunciation of the element's name. 
+This approach eventually became the standard one, and has been used as recently as 2017 to coin Chinese terms for newly-synthesized elements.
+
+The semantic radicals used are 石 (stone), 钅or 金 (metal), and 气 (gas). Bromine uses 氵(water), and mercury uses 水 (also water).
+
+
+
+
+Back then, there wasn't a standardized system for transliterating between the latin alphabet and Chinese characters. 
+As such, translators had to choose between inventing new characters or fully transliterating elements names via an unwieldy chain of near-homophones (eg using "美合尼西恩" to Měihé ní xī ēn).
+The approach settled on by [Xu Shou](https://zh.wikipedia.org/zh-cn/%E5%BE%90%E5%A3%BD) and [John Fryer](https://en.wikipedia.org/wiki/John_Fryer_(sinologist)) 
+
+
+
+|     | English      |    | Pinyin | 汉字 | Radicals | Literal |
+|-----|--------------|----|--------|------|----------|---------|
+| 1   | Hydrogen     | H  | qīng   | 氢   |          |         |
+| 2   | Helium       | He | hài    | 氦   |          |         |
+| 3   | Lithium      | Li | lǐ     | 锂   |          |         |
+| 4   | Beryllium    | Be | pí     | 铍   |          |         |
+| 5   | Boron        | B  | péng   | 硼   |          |         |
+| 6   | Carbon       | C  | tàn    | 碳   |          |         |
+| 7   | Nitrogen     | N  | dàn    | 氮   |          |         |
+| 8   | Oxygen       | O  | yǎng   | 氧   |          |         |
+| 9   | Fluorine     | F  | fú     | 氟   |          |         |
+| 10  | Neon         | Ne | nǎi    | 氖   |          |         |
+| 11  | Sodium       | Na | nà     | 钠   |          |         |
+| 12  | Magnesium    | Mg | měi    | 镁   |          |         |
+| 13  | Aluminium    | Al | lǚ     | 铝   |          |         |
+| 14  | Silicon      | Si | guī    | 硅   |          |         |
+| 15  | Phosphorus   | P  | lín    | 磷   |          |         |
+| 16  | Sulfur       | S  | liú    | 硫   |          |         |
+| 17  | Chlorine     | Cl | lǜ     | 氯   |          |         |
+| 18  | Argon        | Ar | yà     | 氩   |          |         |
+| 19  | Potassium    | K  | jiǎ    | 钾   |          |         |
+| 20  | Calcium      | Ca | gài    | 钙   |          |         |
+| 21  | Scandium     | Sc | kàng   | 钪   |          |         |
+| 22  | Titanium     | Ti | tài    | 钛   |          |         |
+| 23  | Vanadium     | V  | fán    | 钒   |          |         |
+| 24  | Chromium     | Cr | gè     | 铬   |          |         |
+| 25  | Manganese    | Mn | měng   | 锰   |          |         |
+| 26  | Iron         | Fe | tiě    | 铁   |          |         |
+| 27  | Cobalt       | Co | gǔ     | 钴   |          |         |
+| 28  | Nickel       | Ni | niè    | 镍   |          |         |
+| 29  | Copper       | Cu | tóng   | 铜   |          |         |
+| 30  | Zinc         | Zn | xīn    | 锌   |          |         |
+| 31  | Gallium      | Ga | jiā    | 镓   |          |         |
+| 32  | Germanium    | Ge | zhě    | 锗   |          |         |
+| 33  | Arsenic      | As | shēn   | 砷   |          |         |
+| 34  | Selenium     | Se | xī     | 硒   |          |         |
+| 35  | Bromine      | Br | xiù    | 溴   |          |         |
+| 36  | Krypton      | Kr | kè     | 氪   |          |         |
+| 37  | Rubidium     | Rb | rú     | 铷   |          |         |
+| 38  | Strontium    | Sr | sī     | 锶   |          |         |
+| 39  | Yttrium      | Y  | yǐ     | 钇   |          |         |
+| 40  | Zirconium    | Zr | gào    | 锆   |          |         |
+| 41  | Niobium      | Nb | ní     | 铌   |          |         |
+| 42  | Molybdenum   | Mo | mù     | 钼   |          |         |
+| 43  | Technetium   | Tc | dé     | 锝   |          |         |
+| 44  | Ruthenium    | Ru | liǎo   | 钌   |          |         |
+| 45  | Rhodium      | Rh | lǎo    | 铑   |          |         |
+| 46  | Palladium    | Pd | bǎ     | 钯   |          |         |
+| 47  | Silver       | Ag | yín    | 银   |          |         |
+| 48  | Cadmium      | Cd | gé     | 镉   |          |         |
+| 49  | Indium       | In | yīn    | 铟   |          |         |
+| 50  | Tin          | Sn | xī     | 锡   |          |         |
+| 51  | Antimony     | Sb | tī     | 锑   |          |         |
+| 52  | Tellurium    | Te | dì     | 碲   |          |         |
+| 53  | Iodine       | I  | diǎn   | 碘   |          |         |
+| 54  | Xenon        | Xe | xiān   | 氙   |          |         |
+| 55  | Cesium       | Cs | sè     | 铯   |          |         |
+| 56  | Barium       | Ba | bèi    | 钡   |          |         |
+| 57  | Lanthanum    | La | lán    | 镧   |          |         |
+| 58  | Cerium       | Ce | shì    | 铈   |          |         |
+| 59  | Praseodymium | Pr | pǔ     | 镨   |          |         |
+| 60  | Neodymium    | Nd | nǚ     | 钕   |          |         |
+| 61  | Promethium   | Pm | pǒ     | 钷   |          |         |
+| 62  | Samarium     | Sm | shān   | 钐   |          |         |
+| 63  | Europium     | Eu | yǒu    | 铕   |          |         |
+| 64  | Gadolinium   | Gd | gá     | 钆   |          |         |
+| 65  | Terbium      | Tb | tè     | 铽   |          |         |
+| 66  | Dysprosium   | Dy | dī     | 镝   |          |         |
+| 67  | Holmium      | Ho | huǒ    | 钬   |          |         |
+| 68  | Erbium       | Er | ěr     | 铒   |          |         |
+| 69  | Thulium      | Tm | diū    | 铥   |          |         |
+| 70  | Ytterbium    | Yb | yì     | 镱   |          |         |
+| 71  | Lutetium     | Lu | lǔ     | 镥   |          |         |
+| 72  | Hafnium      | Hf | hā     | 铪   |          |         |
+| 73  | Tantalum     | Ta | tǎn    | 钽   |          |         |
+| 74  | Tungsten     | W  | wū     | 钨   |          |         |
+| 75  | Rhenium      | Re | lái    | 铼   |          |         |
+| 76  | Osmium       | Os | é      | 锇   |          |         |
+| 77  | Iridium      | Ir | yī     | 铱   |          |         |
+| 78  | Platinum     | Pt | bó     | 铂   |          |         |
+| 79  | Gold         | Au | jīn    | 金   |          |         |
+| 80  | Mercury      | Hg | gǒng   | 汞   |          |         |
+| 81  | Thallium     | Tl | tā     | 铊   |          |         |
+| 82  | Lead         | Pb | qiān   | 铅   |          |         |
+| 83  | Bismuth      | Bi | bì     | 铋   |          |         |
+| 84  | Polonium     | Po | pō     | 钋   |          |         |
+| 85  | Astatine     | At | ài     | 砹   |          |         |
+| 86  | Radon        | Rn | dōng   | 氡   |          |         |
+| 87  | Francium     | Fr | fāng   | 钫   |          |         |
+| 88  | Radium       | Ra | léi    | 镭   |          |         |
+| 89  | Actinium     | Ac | ā      | 锕   |          |         |
+| 90  | Thorium      | Th | tǔ     | 钍   |          |         |
+| 91  | Protactinium | Pa | pú     | 镤   |          |         |
+| 92  | Uranium      | U  | yóu    | 铀   |          |         |
+| 93  | Neptunium    | Np | ná     | 镎   |          |         |
+| 94  | Plutonium    | Pu | bù     | 钚   |          |         |
+| 95  | Americium    | Am | méi    | 镅   |          |         |
+| 96  | Curium       | Cm | jú     | 锔   |          |         |
+| 97  | Berkelium    | Bk | péi    | 锫   |          |         |
+| 98  | Californium  | Cf | kāi    | 锎   |          |         |
+| 99  | Einsteinium  | Es | āi     | 锿   |          |         |
+| 100 | Fermium      | Fm | fèi    | 镄   |          |         |
+| 101 | Mendelevium  | Md | mén    | 钔   |          |         |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Where do element names come from? Here's a cute  little list.
 See the links at the end for some more in-depth resources.
@@ -198,6 +348,16 @@ http://www.term.org.cn/article/2017/1673-8578/1673-8578-19-2-27.shtml
 
 https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CJFD&filename=ZGKS201602001&dbname=CJFDLAST2016
 
+
+https://ja.wikipedia.org/wiki/%E5%85%83%E7%B4%A0%E3%81%AE%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%90%8D%E7%A7%B0
+
+Protium, deuterium, tritium
+氕氘氚
+
+https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E7%9A%84%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D%E6%B3%95
+https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%85%83%E7%B4%A0
+https://zh.wikipedia.org/wiki/%E5%BE%90%E5%A3%BD
+https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%AD%B8%E6%9D%B1%E6%BC%B8
 
 
 
