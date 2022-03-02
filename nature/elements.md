@@ -34,118 +34,286 @@ The approach settled on by [Xu Shou](https://zh.wikipedia.org/zh-cn/%E5%BE%90%E5
 
 
 
+## List of Element Names in Mainland Mandarin Chinese
+
+In the "Radicals" column, I've pasted the sort-of component sub-characters on their own.
+In the "Literal" column, I've written a literal translation of these component characters.
+But remember that these typically aren't the actual etymology of these words; their homophonic mnemonics in Mandarin.
+
+氜氜rì日
+
 |     | English      |    | Pinyin | 汉字 | Radicals | Literal |
-|-----|--------------|----|--------|------|----------|---------|
-| 1   | Hydrogen     | H  | qīng   | 氢   |          |         |
-| 2   | Helium       | He | hài    | 氦   |          |         |
-| 3   | Lithium      | Li | lǐ     | 锂   |          |         |
-| 4   | Beryllium    | Be | pí     | 铍   |          |         |
-| 5   | Boron        | B  | péng   | 硼   |          |         |
-| 6   | Carbon       | C  | tàn    | 碳   |          |         |
-| 7   | Nitrogen     | N  | dàn    | 氮   |          |         |
-| 8   | Oxygen       | O  | yǎng   | 氧   |          |         |
-| 9   | Fluorine     | F  | fú     | 氟   |          |         |
-| 10  | Neon         | Ne | nǎi    | 氖   |          |         |
-| 11  | Sodium       | Na | nà     | 钠   |          |         |
-| 12  | Magnesium    | Mg | měi    | 镁   |          |         |
-| 13  | Aluminium    | Al | lǚ     | 铝   |          |         |
-| 14  | Silicon      | Si | guī    | 硅   |          |         |
-| 15  | Phosphorus   | P  | lín    | 磷   |          |         |
-| 16  | Sulfur       | S  | liú    | 硫   |          |         |
-| 17  | Chlorine     | Cl | lǜ     | 氯   |          |         |
-| 18  | Argon        | Ar | yà     | 氩   |          |         |
-| 19  | Potassium    | K  | jiǎ    | 钾   |          |         |
-| 20  | Calcium      | Ca | gài    | 钙   |          |         |
-| 21  | Scandium     | Sc | kàng   | 钪   |          |         |
-| 22  | Titanium     | Ti | tài    | 钛   |          |         |
-| 23  | Vanadium     | V  | fán    | 钒   |          |         |
-| 24  | Chromium     | Cr | gè     | 铬   |          |         |
-| 25  | Manganese    | Mn | měng   | 锰   |          |         |
-| 26  | Iron         | Fe | tiě    | 铁   |          |         |
-| 27  | Cobalt       | Co | gǔ     | 钴   |          |         |
-| 28  | Nickel       | Ni | niè    | 镍   |          |         |
-| 29  | Copper       | Cu | tóng   | 铜   |          |         |
-| 30  | Zinc         | Zn | xīn    | 锌   |          |         |
-| 31  | Gallium      | Ga | jiā    | 镓   |          |         |
-| 32  | Germanium    | Ge | zhě    | 锗   |          |         |
-| 33  | Arsenic      | As | shēn   | 砷   |          |         |
-| 34  | Selenium     | Se | xī     | 硒   |          |         |
-| 35  | Bromine      | Br | xiù    | 溴   |          |         |
-| 36  | Krypton      | Kr | kè     | 氪   |          |         |
-| 37  | Rubidium     | Rb | rú     | 铷   |          |         |
-| 38  | Strontium    | Sr | sī     | 锶   |          |         |
-| 39  | Yttrium      | Y  | yǐ     | 钇   |          |         |
-| 40  | Zirconium    | Zr | gào    | 锆   |          |         |
-| 41  | Niobium      | Nb | ní     | 铌   |          |         |
-| 42  | Molybdenum   | Mo | mù     | 钼   |          |         |
-| 43  | Technetium   | Tc | dé     | 锝   |          |         |
-| 44  | Ruthenium    | Ru | liǎo   | 钌   |          |         |
-| 45  | Rhodium      | Rh | lǎo    | 铑   |          |         |
-| 46  | Palladium    | Pd | bǎ     | 钯   |          |         |
-| 47  | Silver       | Ag | yín    | 银   |          |         |
-| 48  | Cadmium      | Cd | gé     | 镉   |          |         |
-| 49  | Indium       | In | yīn    | 铟   |          |         |
-| 50  | Tin          | Sn | xī     | 锡   |          |         |
-| 51  | Antimony     | Sb | tī     | 锑   |          |         |
-| 52  | Tellurium    | Te | dì     | 碲   |          |         |
-| 53  | Iodine       | I  | diǎn   | 碘   |          |         |
-| 54  | Xenon        | Xe | xiān   | 氙   |          |         |
-| 55  | Cesium       | Cs | sè     | 铯   |          |         |
-| 56  | Barium       | Ba | bèi    | 钡   |          |         |
-| 57  | Lanthanum    | La | lán    | 镧   |          |         |
-| 58  | Cerium       | Ce | shì    | 铈   |          |         |
-| 59  | Praseodymium | Pr | pǔ     | 镨   |          |         |
-| 60  | Neodymium    | Nd | nǚ     | 钕   |          |         |
-| 61  | Promethium   | Pm | pǒ     | 钷   |          |         |
-| 62  | Samarium     | Sm | shān   | 钐   |          |         |
-| 63  | Europium     | Eu | yǒu    | 铕   |          |         |
-| 64  | Gadolinium   | Gd | gá     | 钆   |          |         |
-| 65  | Terbium      | Tb | tè     | 铽   |          |         |
-| 66  | Dysprosium   | Dy | dī     | 镝   |          |         |
-| 67  | Holmium      | Ho | huǒ    | 钬   |          |         |
-| 68  | Erbium       | Er | ěr     | 铒   |          |         |
-| 69  | Thulium      | Tm | diū    | 铥   |          |         |
-| 70  | Ytterbium    | Yb | yì     | 镱   |          |         |
-| 71  | Lutetium     | Lu | lǔ     | 镥   |          |         |
-| 72  | Hafnium      | Hf | hā     | 铪   |          |         |
-| 73  | Tantalum     | Ta | tǎn    | 钽   |          |         |
-| 74  | Tungsten     | W  | wū     | 钨   |          |         |
-| 75  | Rhenium      | Re | lái    | 铼   |          |         |
-| 76  | Osmium       | Os | é      | 锇   |          |         |
-| 77  | Iridium      | Ir | yī     | 铱   |          |         |
-| 78  | Platinum     | Pt | bó     | 铂   |          |         |
-| 79  | Gold         | Au | jīn    | 金   |          |         |
-| 80  | Mercury      | Hg | gǒng   | 汞   |          |         |
-| 81  | Thallium     | Tl | tā     | 铊   |          |         |
-| 82  | Lead         | Pb | qiān   | 铅   |          |         |
-| 83  | Bismuth      | Bi | bì     | 铋   |          |         |
-| 84  | Polonium     | Po | pō     | 钋   |          |         |
-| 85  | Astatine     | At | ài     | 砹   |          |         |
-| 86  | Radon        | Rn | dōng   | 氡   |          |         |
-| 87  | Francium     | Fr | fāng   | 钫   |          |         |
-| 88  | Radium       | Ra | léi    | 镭   |          |         |
-| 89  | Actinium     | Ac | ā      | 锕   |          |         |
-| 90  | Thorium      | Th | tǔ     | 钍   |          |         |
-| 91  | Protactinium | Pa | pú     | 镤   |          |         |
-| 92  | Uranium      | U  | yóu    | 铀   |          |         |
-| 93  | Neptunium    | Np | ná     | 镎   |          |         |
-| 94  | Plutonium    | Pu | bù     | 钚   |          |         |
-| 95  | Americium    | Am | méi    | 镅   |          |         |
-| 96  | Curium       | Cm | jú     | 锔   |          |         |
-| 97  | Berkelium    | Bk | péi    | 锫   |          |         |
-| 98  | Californium  | Cf | kāi    | 锎   |          |         |
-| 99  | Einsteinium  | Es | āi     | 锿   |          |         |
-| 100 | Fermium      | Fm | fèi    | 镄   |          |         |
-| 101 | Mendelevium  | Md | mén    | 钔   |          |         |
+|-----|--------------|----|--------|:-----|----------|---------|
+| 1   | Hydrogen     | H  | qīng   | 氢   | 轻气     | Lightweight Gas [^hydrogennote]        |
+| 2   | Helium       | He | hài    | 氦   | 亥气        | astrological pig gas        |
+| 3   | Lithium      | Li | lǐ     | 锂   |          | village metal        |
+| 4   | Beryllium    | Be | pí     | 铍   |          | feather metal        |
+| 5   | Boron        | B  | péng   | 硼   | 朋石     | friends stone   [^ancientname]   |
+| 6   | Carbon       | C  | tàn    | 碳   | 炭石     | coal stone  [^ancientname]  |
+| 7   | Nitrogen     | N  | dàn    | 氮   | 淡气     | diluting Gas  [^nitrogennote]      |
+| 8   | Oxygen       | O  | yǎng   | 氧   | 养气     | life-nurturing gas[^oxygennote]       |
+| 9   | Fluorine     | F  | fú     | 氟   | 弗         | negative gas         |
+| 10  | Neon         | Ne | nǎi    | 氖   | 乃         | indeed gas        |
+| 11  | Sodium       | Na | nà     | 钠   | 内         | inside metal        |
+| 12  | Magnesium    | Mg | měi    | 镁   | 美         | beautiful metal       |
+| 13  | Aluminium    | Al | lǚ     | 铝   | 吕         | Lu metal (musical note/name)        |
+| 14  | Silicon      | Si | guī    | 硅   | 圭         | special jade stone         |
+| 15  | Phosphorus   | P  | lín    | 磷   | 粦石     | phosphorus stone [^ancientname]  |
+| 16  | Sulfur       | S  | liú    | 硫   | 㐬石         | wasteland stone       [^ancientname] |
+| 17  | Chlorine     | Cl | lǜ     | 氯   | 绿气     | green gas  |
+| 18  | Argon        | Ar | yà     | 氩   | 亚         | next gas        |
+| 19  | Potassium    | K  | jiǎ    | 钾   | 甲         | shell metal        |
+| 20  | Calcium      | Ca | gài    | 钙   | 丐         | beggar metal        |
+| 21  | Scandium     | Sc | kàng   | 钪   | 亢         | proud metal        |
+| 22  | Titanium     | Ti | tài    | 钛   | 太         | very big metal        |
+| 23  | Vanadium     | V  | fán    | 钒   | 凡         | mundane metal        |
+| 24  | Chromium     | Cr | gè     | 铬   | 各         |         |
+| 25  | Manganese    | Mn | měng   | 锰   | 孟         |         |
+| 26  | Iron         | Fe | tiě    | 铁   |          |       [^ancientname]  |
+| 27  | Cobalt       | Co | gǔ     | 钴   | 古         |         |
+| 28  | Nickel       | Ni | niè    | 镍   | 臬         |         |
+| 29  | Copper       | Cu | tóng   | 铜   |          |      [^ancientname]   |
+| 30  | Zinc         | Zn | xīn    | 锌   | 辛         |         |
+| 31  | Gallium      | Ga | jiā    | 镓   | 家         |         |
+| 32  | Germanium    | Ge | zhě    | 锗   | 锗         |         |
+| 33  | Arsenic      | As | shēn   | 砷   | 申         |         |
+| 34  | Selenium     | Se | xī     | 硒   | 西         | west metal        |
+| 35  | Bromine      | Br | xiù    | 溴   | 臭水     | stinky water        |
+| 36  | Krypton      | Kr | kè     | 氪   | 克         |         |
+| 37  | Rubidium     | Rb | rú     | 铷   | 如         |         |
+| 38  | Strontium    | Sr | sī     | 锶   | 思         |         |
+| 39  | Yttrium      | Y  | yǐ     | 钇   | 乙         |         |
+| 40  | Zirconium    | Zr | gào    | 锆   | 告         |         |
+| 41  | Niobium      | Nb | ní     | 铌   | 尼         | nun metal        |
+| 42  | Molybdenum   | Mo | mù     | 钼   | 目         |         |
+| 43  | Technetium   | Tc | dé     | 锝   | 㝵         |         |
+| 44  | Ruthenium    | Ru | liǎo   | 钌   | 了         |         |
+| 45  | Rhodium      | Rh | lǎo    | 铑   | 老         |         |
+| 46  | Palladium    | Pd | bǎ     | 钯   | 巴         |         |
+| 47  | Silver       | Ag | yín    | 银   | 艮         |      [^ancientname]   |
+| 48  | Cadmium      | Cd | gé     | 镉   | 鬲         |         |
+| 49  | Indium       | In | yīn    | 铟   | 因         |         |
+| 50  | Tin          | Sn | xī     | 锡   | 易         |      [^ancientname]   |
+| 51  | Antimony     | Sb | tī     | 锑   | 弟         |         |
+| 52  | Tellurium    | Te | dì     | 碲   | 帝         |         |
+| 53  | Iodine       | I  | diǎn   | 碘   | 典         |         |
+| 54  | Xenon        | Xe | xiān   | 氙   | 山         |         |
+| 55  | Cesium       | Cs | sè     | 铯   | 色         |         |
+| 56  | Barium       | Ba | bèi    | 钡   | 贝         |         |
+| 57  | Lanthanum    | La | lán    | 镧   | 阑         |         |
+| 58  | Cerium       | Ce | shì    | 铈   | 市         |         |
+| 59  | Praseodymium | Pr | pǔ     | 镨   | 普         |         |
+| 60  | Neodymium    | Nd | nǚ     | 钕   | 女         |         |
+| 61  | Promethium   | Pm | pǒ     | 钷   | 叵         |         |
+| 62  | Samarium     | Sm | shān   | 钐   | 彡         |         |
+| 63  | Europium     | Eu | yǒu    | 铕   | 有         |         |
+| 64  | Gadolinium   | Gd | gá     | 钆   | 乚         |         |
+| 65  | Terbium      | Tb | tè     | 铽   | 忒         |         |
+| 66  | Dysprosium   | Dy | dī     | 镝   | 啇         |         |
+| 67  | Holmium      | Ho | huǒ    | 钬   | 火         |         |
+| 68  | Erbium       | Er | ěr     | 铒   | 耳         |         |
+| 69  | Thulium      | Tm | diū    | 铥   | 丢         |         |
+| 70  | Ytterbium    | Yb | yì     | 镱   | 意         |         |
+| 71  | Lutetium     | Lu | lǔ     | 镥   | 鲁         |         |
+| 72  | Hafnium      | Hf | hā     | 铪   | 合         |         |
+| 73  | Tantalum     | Ta | tǎn    | 钽   | 旦         |         |
+| 74  | Tungsten     | W  | wū     | 钨   | 乌         | raven metal        |
+| 75  | Rhenium      | Re | lái    | 铼   | 来         |         |
+| 76  | Osmium       | Os | é      | 锇   | 我         | our metal        |
+| 77  | Iridium      | Ir | yī     | 铱   | 衣         |         |
+| 78  | Platinum     | Pt | bó     | 铂   | 白         | white metal        |
+| 79  | Gold         | Au | jīn    | 金   | 金         | metal      [^ancientname]  |
+| 80  | Mercury      | Hg | gǒng   | 工   | 工水         | labor water      [^ancientname]  |
+| 81  | Thallium     | Tl | tā     | 铊   | 它         |         |
+| 82  | Lead         | Pb | qiān   | 铅   | 㕣         | marsh metal      [^ancientname]  |
+| 83  | Bismuth      | Bi | bì     | 铋   | 必         |         |
+| 84  | Polonium     | Po | pō     | 钋   | 卜         | prophecy metal        |
+| 85  | Astatine     | At | ài     | 砹   | 艾         |         |
+| 86  | Radon        | Rn | dōng   | 氡   | 冬         |         |
+| 87  | Francium     | Fr | fāng   | 钫   | 钫         |         |
+| 88  | Radium       | Ra | léi    | 镭   | 雷         |         |
+| 89  | Actinium     | Ac | ā      | 锕   | 阿         |         |
+| 90  | Thorium      | Th | tǔ     | 钍   | 土         |         |
+| 91  | Protactinium | Pa | pú     | 镤   | 菐         |         |
+| 92  | Uranium      | U  | yóu    | 铀   | 由         |         |
+| 93  | Neptunium    | Np | ná     | 镎   | 拿         |         |
+| 94  | Plutonium    | Pu | bù     | 钚   | 不         |         |
+| 95  | Americium    | Am | méi    | 镅   | 眉         | eyebrow metal        |
+| 96  | Curium       | Cm | jú     | 锔   | 局         | bureau metal        |
+| 97  | Berkelium    | Bk | péi    | 锫   | 咅         |         |
+| 98  | Californium  | Cf | kāi    | 锎   | 锎         |         |
+| 99  | Einsteinium  | Es | āi     | 锿   | 哀         |         |
+| 100 | Fermium      | Fm | fèi    | 镄   | 费         |         |
+| 101 | Mendelevium  | Md | mén    | 钔   | 门         |         |
+| 102 |     |  |     |    |          |         |
+| 103 |     |  |     |    |          |         |
+| 104 |     |  |     |    |          |         |
+| 105 |     |  |     |    |          |         |
+| 106 |     |  |     |    |          |         |
+| 107 |     |  |     |    |          |         |
+| 108 |     |  |     |    |          |         |
+| 109 |     |  |     |    |          |         |
+| 110 |     |  |     |    |          |         |
+| 111 |     |  |     |    |          |         |
+| 112 |     |  |     |    |          |         |
+| 113 | Nihonium    | Nh | nǐ    |  鉨  | 尔         |         |
+| 114 |     |  |     |    |          |         |
+| 115 |     |  |     |    |          |         |
+| 116 |     |  |     |    |          |         |
+| 117 |     |  |     |    |          |         |
+| 118 |     |  |     |    |          |         |
 
 
 
 
+In some cases, the simplified character isn't available.
+
+antimony? 厗
+
+
+费 expenditure is 弗 negative 贝 money
+
+[^ancientname]: This element's name has been in use for a very long time, though the modern character may have been changed for the sake of standardization or simplification. 
+
+[^hydrogennote]: "轻" decomposes to "车𢀖". "车" means cart. By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
+
+[^oxygennote]: "Oxygen" was initially translated into Chinese as "养气/" (yángqì), where "养" means helping something grow. However, the character for oxygen, "氧" (yǎng), actually decomposes to "羊气" (yángqì), where "羊" means 'goat'. This substitution works well on multiple levels - because "yǎng" and "yáng" are near homophones, because "养" appears to contain the character "羊" as a sub-component, and because animal life is dependent on abundant oxygen. The phrase "养气" itself is still in use nowadays, but in a more spiritual sense; "气" (qì) can also refer to the traditional notion of life energy, and so 养气 is basically self-care.
+
+[^nitrogennote]: "Nitrogen" was translated in Chinese as "淡气" (dànqì), where "淡" means 'bland' or 'dilute' and is composed of one 氵water radical  and two 火 fire radicals. Confusingly, the character for nitrogen drops the water radical, making "氮" appear to be composed of "炎气" (yánqì), where 炎 means 'blazing hot' or 'inflammation', neither of which makes sense to describe nitrogen. Another old translation of "Nitrogen" was "硝气" (xiāoqì), where "硝" means 'niter'. Niter is also the source of the word "nitrogen", so "硝气" was a more direct translation. 
+
+[^chlorinenote]: Chlorine uses 录 (lù) (copy) instead of the full 绿 (lǜ) (green)
+
+
+
+<!--
+
+TODO:
+Take a closer look at metals of antiquity. Somplfied character has different meaning sometimes.
+Complete the translations using baidu
+Add unnoficial semantic variants from Billequin
+Add list of interesting english etymology stories (but not the full set)
+Maybe rework table to be color-coded by name type
 
 
 
 
+TODO: modern semantic footnote tag
 
+
+Supposedly, 粦 phosphorous originally depicts a person surrounded by will o wisp
+But was corrupted into rice feet.
+
+
+http://www.huaxue118.com/z/14233.html
+http://www.wsc.uni-erlangen.de/pdf/wang.pdf
+
+養氣
+
+https://ja.wikipedia.org/wiki/%E4%BA%94%E5%A4%A7%E5%85%83%E7%B4%A0
+
+仌 is an archaic character for ice.
+https://en.wiktionary.org/wiki/Category:Han_pictograms
+https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters/seal
+https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters/oracle
+https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters/bigseal
+https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters/bronze
+https://commons.wikimedia.org/wiki/Commons:Ancient_Chinese_characters/Priority
+https://en.wikipedia.org/wiki/Kangxi_radical
+
+http://xh.5156edu.com/html5/58823.html
+https://eng.ichacha.net/%E6%B7%A1.html
+https://archive.org/search.php?query=creator%3A%22John+Fryer%22&sort=-date
+
+https://link.springer.com/article/10.1007/s40828-019-0094-3
+
+What’s in a name: a comparison of Chinese and Japanese approaches to the translation of chemical elements
+https://link.springer.com/article/10.1007/s40828-018-0065-0
+(this is worth revisiting. There are some fun characters in here.)
+
+ammonium was thought to be an element 錏 
+
+化學初階
+
+https://en.wikipedia.org/wiki/Benjamin_Hobson
+
+“水母氣" means water-mother-gas. One of the chinese sources mentioned that one as a translation error.
+
+
+Huaxue Zhinan (化學指南, A Guide to Chemistry) has some more interesting translation choices.
+Purely semantic instead of phono semantic.
+Anatole Billequin
+
+
+
+https://www.jstor.org/stable/620531
+Reviewed Work: The Study of Change: Chemistry in China 1840-1949 by James Reardon-Anderson
+https://assets.cambridge.org/97805213/91504/frontmatter/9780521391504_frontmatter.pdf
+
+This has a nice list but is OCR'd 
+http://www.sciencehistory.url.tw/wp-content/uploads/2008/09/6_5.pdf
+
+TODO: Transcribe the variant translations from The Great Desideratum Table 3
+double-check the corrections from the above review.
+
+
+A comparative look at the exchanges between China and Japan’s inorganic compound names, 1842–1945
+https://link.springer.com/article/10.1007/s40828-019-0094-3#ref-CR1
+
+A NEW INQUIRY INTO THE TRANSLATION OF
+CHEMICAL TERMS BY JOHN FRYER AND XU SHOU
+http://www.wsc.uni-erlangen.de/pdf/wang.pdf
+
+
+
+Ministry of Education and the Institute co-estab-
+lished a commission to review chemical terms with Zheng
+being the Chief Commissioner. They published the Princi-
+ples of Chemical Nomenclature (化學命名原則) in 1933.
+Standardized terms.
+
+Among them, masurium (atomic
+number 43) and illinium (atomic number 61) were proven to
+have been misidentified and then repealed. Only three new
+names “鉿” (ha, hafnium), “釙” (po, polonium), “錸” (lai,
+rhenium) have been created.
+
+The Revised Principles of Chemical Nomenclature, pub-
+lished in 1945, only changed three elements’ names. The
+changes include from “ ” to “氡” (dong, radon), from
+“ ” to “釓” (ga, gadolinium), and from “鈳” to “鈮” (ni,
+niobium)
+
+ On the other hand, we really
+had to appreciate Anatole Billequin’s unmatched contribu-
+tion to create following 42 names meaningfully: “ ” (alu-
+minum), “ ” (antimony), “ ” (arsenic), “ ” (barium),
+“鉗” (beryllium), “ ” (bismuth), “ ” (bromine), “ ”
+(cadmium), “ ” (cesium), “ ” (calcium), “ ” (cerium),
+“ ” (chromium), “錆” (cobalt), “ ” (determined a non-
+element afterwards), “ ” (fluorine), “ ” (indium), “ ”
+(iodine), “ ” (iridium), “ ” (lanthanum), “鉐” (lithium),
+“ ” (magnesium), “ ” (manganese), “ ” (molybde-
+num), “ ” (nickel), “ ” (niobium), “ ” (potassium), “
+鐚” (osmium), “硄” (phosphorous), “ ” (rhodium), “
+” (rubidium), “ ” (ruthenium), ” (selenium), “ ”
+(sodium), “ ” (strontium), “ ” (tellurium), “ ” (thal-
+lium), “鐳” (thorium, the word “鐳” is now used by radium),
+“ ” (titanium), “ ” (tungsten), “ ” (uranium), “
+” (zinc), and “ ” (zirconium).
+
+The changes of inert elements’ names can be used to
+illustrate the methodological shift of nomenclature from
+meaningful to phonic names In the very beginning, the
+Educational Association and China Medical Missionary
+Association did use inert elements’ literal meanings to create
+their Chinese names, for example, "閑" (xian, rested, argon),
+"曦" (xi, dawn, helium), " " (gas + first, argon), "氜" (gas
++ sun, helium), " " (gas + secret, krypton), and " " (gas
++ fresh, neon). The names created by the European Branch
+of the Chinese Chemical Society were all meaningful, such
+as "氜" (gas + sun, helium), " " (krypton), " " (neon)
+with only one exception " " (gong, argon
+-->
 
 
 
@@ -359,6 +527,10 @@ https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%85%83%E7%B4%A0
 https://zh.wikipedia.org/wiki/%E5%BE%90%E5%A3%BD
 https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%AD%B8%E6%9D%B1%E6%BC%B8
 
+https://bamboonic.com/
+
+-->
 
 
--- >
+Most characters on this page are in simplified rather than traditional form.
+
