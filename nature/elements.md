@@ -197,6 +197,14 @@ Maybe rework table to be color-coded by name type
 
 
 
+TOC
+Table
+History
+Semantics
+Some intersitng english names
+    the planetary ones
+    the iron cobalt nickel goblin
+
 
 TODO: modern semantic footnote tag
 
