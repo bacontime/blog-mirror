@@ -46,20 +46,20 @@ But remember that these typically aren't the actual etymology of these words; th
 |-----|--------------|----|--------|------|----------|--------------------------------------|
 | 1   | Hydrogen     | H  | qīng   | 氢   | 轻气     | Lightweight Gas [^hydrogennote]      |
 | 2   | Helium       | He | hài    | 氦   | 亥气     | astrological pig gas                 |
-| 3   | Lithium      | Li | lǐ     | 锂   |          | village metal                        |
-| 4   | Beryllium    | Be | pí     | 铍   |          | feather metal                        |
+| 3   | Lithium      | Li | lǐ     | 锂   | 里金         | village metal                        |
+| 4   | Beryllium    | Be | pí     | 铍   | 皮金         | feather metal                        |
 | 5   | Boron        | B  | péng   | 硼   | 朋石     | friends stone   [^ancientname]       |
 | 6   | Carbon       | C  | tàn    | 碳   | 炭石     | coal stone  [^ancientname]           |
 | 7   | Nitrogen     | N  | dàn    | 氮   | 淡气     | diluting Gas  [^nitrogennote]        |
 | 8   | Oxygen       | O  | yǎng   | 氧   | 养气     | life-nurturing gas[^oxygennote]      |
 | 9   | Fluorine     | F  | fú     | 氟   | 弗气       | negative gas                         |
 | 10  | Neon         | Ne | nǎi    | 氖   | 乃气       | indeed gas                           |
-| 11  | Sodium       | Na | nà     | 钠   | 内金       | inside metal                         |
+| 11  | Sodium       | Na | nà     | 钠   |        |                          |
 | 12  | Magnesium    | Mg | měi    | 镁   | 美金       | beautiful metal                      |
 | 13  | Aluminium    | Al | lǚ     | 铝   | 吕金       | Lu metal (musical note/name)         |
 | 14  | Silicon      | Si | guī    | 硅   | 圭石     | special jade stone                   |
 | 15  | Phosphorus   | P  | lín    | 磷   | 粦石     | phosphorus stone [^ancientname]      |
-| 16  | Sulfur       | S  | liú    | 硫   | 㐬石     | wasteland stone       [^ancientname] |
+| 16  | Sulfur       | S  | liú    | 硫   | 荒石     | wasteland stone       [^ancientname] |
 | 17  | Chlorine     | Cl | lǜ     | 氯   | 绿气     | green gas                            |
 | 18  | Argon        | Ar | yà     | 氩   | 亚气       | next gas                             |
 | 19  | Potassium    | K  | jiǎ    | 钾   | 甲金       | shell metal                          |
@@ -68,7 +68,7 @@ But remember that these typically aren't the actual etymology of these words; th
 | 22  | Titanium     | Ti | tài    | 钛   | 太金       | very big metal                       |
 | 23  | Vanadium     | V  | fán    | 钒   | 凡金       | mundane metal                        |
 | 24  | Chromium     | Cr | gè     | 铬   | 各金       | each metal                                     |
-| 25  | Manganese    | Mn | měng   | 锰   | 孟金       | firstborn metal                                     |
+| 25  | Manganese    | Mn | měng   | 锰   |        |                                      |
 | 26  | Iron         | Fe | tiě    | 铁   |          | [^ancientname]                       |
 | 27  | Cobalt       | Co | gǔ     | 钴   | 古金       | ancient metal                                     |
 | 28  | Nickel       | Ni | niè    | 镍   | 臬金       | benchmark metal                                     |
@@ -78,7 +78,7 @@ But remember that these typically aren't the actual etymology of these words; th
 | 32  | Germanium    | Ge | zhě    | 锗   | 金者       | person of metal                                     |
 | 33  | Arsenic      | As | shēn   | 砷   | 申石       | explain metal                                     |
 | 34  | Selenium     | Se | xī     | 硒   | 西石       | west metal                           |
-| 35  | Bromine      | Br | xiù    | 溴   | 臭水     | stinky water                         |
+| 35  | Bromine      | Br | xiù    | 溴   | 臭水     | stinky water (NOT PHONETIC)                        |
 | 36  | Krypton      | Kr | kè     | 氪   | 克气       | conquering metal                                     |
 | 37  | Rubidium     | Rb | rú     | 铷   | 如金       | like such as metal                                     |
 | 38  | Strontium    | Sr | sī     | 锶   | 思金       | ponder metal                                     |
@@ -87,9 +87,9 @@ But remember that these typically aren't the actual etymology of these words; th
 | 41  | Niobium      | Nb | ní     | 铌   | 尼金       | nun metal                            |
 | 42  | Molybdenum   | Mo | mù     | 钼   | 目金       | eye metal                                     |
 | 43  | Technetium   | Tc | dé     | 锝   | 得金       | get metal                                     |
-| 44  | Ruthenium    | Ru | liǎo   | 钌   | 了金       | finish metal                                     |
+| 44  | Ruthenium    | Ru | liǎo   | 钌   | 了金       | past-tense metal                                     |
 | 45  | Rhodium      | Rh | lǎo    | 铑   | 老金       | elderly metal                                     |
-| 46  | Palladium    | Pd | bǎ     | 钯   | 巴金       | cling to metal                                     |
+| 46  | Palladium    | Pd | bǎ     | 钯   |        |                                      |
 | 47  | Silver       | Ag | yín    | 银   | 艮金       | [^ancientname]                       |
 | 48  | Cadmium      | Cd | gé     | 镉   | 鬲金       | Ge metal (name)                                     |
 | 49  | Indium       | In | yīn    | 铟   | 因金       | because of metal                                     |
@@ -109,42 +109,42 @@ But remember that these typically aren't the actual etymology of these words; th
 | 63  | Europium     | Eu | yǒu    | 铕   | 有金       | have metal                                     |
 | 64  | Gadolinium   | Gd | gá     | 钆   | 轧金       | squeeze metal                                     |
 | 65  | Terbium      | Tb | tè     | 铽   | 忒金       | excessive metal                                     |
-| 66  | Dysprosium   | Dy | dī     | 镝   | 啇滴金       | drip metal                                     |
+| 66  | Dysprosium   | Dy | dī     | 镝   | 滴金       | drip metal                                     |
 | 67  | Holmium      | Ho | huǒ    | 钬   | 火金       | fire metal                                     |
 | 68  | Erbium       | Er | ěr     | 铒   | 耳金       | ear metal                                     |
 | 69  | Thulium      | Tm | diū    | 铥   | 丢金       | lost metal                                     |
 | 70  | Ytterbium    | Yb | yì     | 镱   | 意金       | intention metal                                     |
 | 71  | Lutetium     | Lu | lǔ     | 镥   | 鲁金       | vulgar metal                                     |
-| 72  | Hafnium      | Hf | hā     | 铪   | 合金       |                                      |
-| 73  | Tantalum     | Ta | tǎn    | 钽   | 旦金       |                                      |
+| 72  | Hafnium      | Hf | hā     | 铪   |        |                                      |
+| 73  | Tantalum     | Ta | tǎn    | 钽   |        |                                      |
 | 74  | Tungsten     | W  | wū     | 钨   | 乌金       | raven metal                          |
 | 75  | Rhenium      | Re | lái    | 铼   | 来金       | incoming metal                                     |
 | 76  | Osmium       | Os | é      | 锇   | 我金       | our metal                            |
 | 77  | Iridium      | Ir | yī     | 铱   | 衣金       | clothing metal                                     |
 | 78  | Platinum     | Pt | bó     | 铂   | 白金       | white metal                          |
-| 79  | Gold         | Au | jīn    | 金   | 金       | metal      [^ancientname]            |
-| 80  | Mercury      | Hg | gǒng   | 工   | 工水     | labor water      [^ancientname]      |
+| 79  | Gold         | Au | jīn    | 金   | 金       | metal [^ancientname]            |
+| 80  | Mercury      | Hg | gǒng   | 工   | 工水     | labor water [^ancientname]      |
 | 81  | Thallium     | Tl | tā     | 铊   | 它金       | it metal                                     |
-| 82  | Lead         | Pb | qiān   | 铅   | 㕣金       | marsh metal      [^ancientname]      |
+| 82  | Lead         | Pb | qiān   | 铅   | 㕣金       | marsh metal [^ancientname]      |
 | 83  | Bismuth      | Bi | bì     | 铋   | 必金       | necessarily metal                                     |
-| 84  | Polonium     | Po | pō     | 钋   | 卜金       | prophecy metal                       |
-| 85  | Astatine     | At | ài     | 砹   | 艾石       |                                      |
+| 84  | Polonium     | Po | pō     | 钋   | 卜金       |                       |
+| 85  | Astatine     | At | ài     | 砹   | 艾石       | mugwort stone                                     |
 | 86  | Radon        | Rn | dōng   | 氡   | 冬气       | winter gas                                     |
-| 87  | Francium     | Fr | fāng   | 钫   | 钫金       |                                      |
-| 88  | Radium       | Ra | léi    | 镭   | 雷金       |                                      |
-| 89  | Actinium     | Ac | ā      | 锕   | 阿金       |                                      |
-| 90  | Thorium      | Th | tǔ     | 钍   | 土金       |                                      |
-| 91  | Protactinium | Pa | pú     | 镤   | 菐金       |                                      |
-| 92  | Uranium      | U  | yóu    | 铀   | 由金       |                                      |
-| 93  | Neptunium    | Np | ná     | 镎   | 拿金       |                                      |
-| 94  | Plutonium    | Pu | bù     | 钚   | 不金       |                                      |
+| 87  | Francium     | Fr | fāng   | 钫   | 方金       | square metal                                     |
+| 88  | Radium       | Ra | léi    | 镭   | 雷金       | thunder metal                                     |
+| 89  | Actinium     | Ac | ā      | 锕   | 阿金       | āmetal (name prefix)                                    |
+| 90  | Thorium      | Th | tǔ     | 钍   | 土金       | earth metal                                     |
+| 91  | Protactinium | Pa | pú     | 镤   | 菐金       | cumbersome metal                                     |
+| 92  | Uranium      | U  | yóu    | 铀   | 由金       | from metal                                     |
+| 93  | Neptunium    | Np | ná     | 镎   | 拿金       | seize metal                                      |
+| 94  | Plutonium    | Pu | bù     | 钚   | 不金       | not metal                                     |
 | 95  | Americium    | Am | méi    | 镅   | 眉金       | eyebrow metal                        |
-| 96  | Curium       | Cm | jú     | 锔   | 局金       | bureau metal                         |
+| 96  | Curium       | Cm | jú     | 锔   | 局金       | narrow metal                         |
 | 97  | Berkelium    | Bk | péi    | 锫   | 咅金       |                                      |
-| 98  | Californium  | Cf | kāi    | 锎   | 锎金       |                                      |
-| 99  | Einsteinium  | Es | āi     | 锿   | 哀金       |                                      |
-| 100 | Fermium      | Fm | fèi    | 镄   | 费金       |                                      |
-| 101 | Mendelevium  | Md | mén    | 钔   | 门金       |                                      |
+| 98  | Californium  | Cf | kāi    | 锎   | 開金       | open metal                                     |
+| 99  | Einsteinium  | Es | āi     | 锿   | 哀金       | grief metal                                     |
+| 100 | Fermium      | Fm | fèi    | 镄   | 费金       | expenditure metal                                     |
+| 101 | Mendelevium  | Md | mén    | 钔   | 门金       | door metal                                     |
 | 102 |              |    |        |      |          |                                      |
 | 103 |              |    |        |      |          |                                      |
 | 104 |              |    |        |      |          |                                      |
@@ -171,7 +171,7 @@ lium), “鈧” (kang, scandium), “鈦” (tai, titanium), “銠”
 strokes” and easier to write.
 
 
-
+alt 鏀 for sodium
 
 Characters that were reused:
 - 鎵
@@ -216,10 +216,13 @@ antimony? 厗
 钽 is  tǎn,  旦dàn 
 坦 (flat) 袒 (to bare) are both tǎn
 
+锫 is péi, 咅 is pòu
+陪 (be with), 培 (cultivate), 赔賠 (suffer loss), 碚 (suburb) are all péi
 
 
 旦 dawn, rising sun
 
+america is translated as beatiful but americisum is translated as eyebrow
 
 TODO:
 Take a closer look at metals of antiquity. Somplfied character has different meaning sometimes.
