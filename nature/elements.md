@@ -42,6 +42,1096 @@ But remember that these typically aren't the actual etymology of these words; th
 
 氜氜rì日
 
+
+
+
+<style>
+    .phonosemantic {
+        background-color: #FF9900;
+    }
+</style>
+
+<div class="table-wrapper"><table>
+  <thead>
+    <tr class="phonosemantic">
+      <th> </th>
+      <th>English</th>
+      <th> </th>
+      <th>Pinyin</th>
+      <th>汉字</th>
+      <th>Radicals</th>
+      <th>Literal</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr class="ideographic">
+      <td>1</td>
+      <td>Hydrogen</td>
+      <td>H</td>
+      <td>qīng</td>
+      <td>氢</td>
+      <td>轻气</td>
+      <td>Lightweight Gas <sup id="fnref:hydrogennote" role="doc-noteref"><a href="#fn:hydrogennote" class="footnote" rel="footnote">1</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>2</td>
+      <td>Helium</td>
+      <td>He</td>
+      <td>hài</td>
+      <td>氦</td>
+      <td>亥气</td>
+      <td>astrological pig gas</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>3</td>
+      <td>Lithium</td>
+      <td>Li</td>
+      <td>lǐ</td>
+      <td>锂</td>
+      <td>里金</td>
+      <td>village metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>4</td>
+      <td>Beryllium</td>
+      <td>Be</td>
+      <td>pí</td>
+      <td>铍</td>
+      <td>皮金</td>
+      <td>feather metal</td>
+    </tr>
+    <tr class="classical">
+      <td>5</td>
+      <td>Boron</td>
+      <td>B</td>
+      <td>péng</td>
+      <td>硼</td>
+      <td>朋石</td>
+      <td>friends stone   <sup id="fnref:ancientname" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="classical">
+      <td>6</td>
+      <td>Carbon</td>
+      <td>C</td>
+      <td>tàn</td>
+      <td>碳</td>
+      <td>炭石</td>
+      <td>coal stone  <sup id="fnref:ancientname:1" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="ideographic">
+      <td>7</td>
+      <td>Nitrogen</td>
+      <td>N</td>
+      <td>dàn</td>
+      <td>氮</td>
+      <td>淡气</td>
+      <td>diluting Gas  <sup id="fnref:nitrogennote" role="doc-noteref"><a href="#fn:nitrogennote" class="footnote" rel="footnote">3</a></sup></td>
+    </tr>
+    <tr class="ideographic">
+      <td>8</td>
+      <td>Oxygen</td>
+      <td>O</td>
+      <td>yǎng</td>
+      <td>氧</td>
+      <td>养气</td>
+      <td>life-nurturing gas<sup id="fnref:oxygennote" role="doc-noteref"><a href="#fn:oxygennote" class="footnote" rel="footnote">4</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>9</td>
+      <td>Fluorine</td>
+      <td>F</td>
+      <td>fú</td>
+      <td>氟</td>
+      <td>弗气</td>
+      <td>negative gas</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>10</td>
+      <td>Neon</td>
+      <td>Ne</td>
+      <td>nǎi</td>
+      <td>氖</td>
+      <td>乃气</td>
+      <td>indeed gas</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>11</td>
+      <td>Sodium</td>
+      <td>Na</td>
+      <td>nà</td>
+      <td>钠</td>
+      <td>纳金</td>
+      <td>offer metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>12</td>
+      <td>Magnesium</td>
+      <td>Mg</td>
+      <td>měi</td>
+      <td>镁</td>
+      <td>美金</td>
+      <td>beautiful metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>13</td>
+      <td>Aluminium</td>
+      <td>Al</td>
+      <td>lǚ</td>
+      <td>铝</td>
+      <td>吕金</td>
+      <td>Lu metal (musical note/name)</td>
+    </tr>
+    <tr class="ideographic">
+      <td>14</td>
+      <td>Silicon</td>
+      <td>Si</td>
+      <td>guī</td>
+      <td>硅</td>
+      <td>圭石</td>
+      <td>special jade stone</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>15</td>
+      <td>Phosphorus</td>
+      <td>P</td>
+      <td>lín</td>
+      <td>磷</td>
+      <td>粦石</td>
+      <td>phosphorus stone <sup id="fnref:ancientname:2" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>16</td>
+      <td>Sulfur</td>
+      <td>S</td>
+      <td>liú</td>
+      <td>硫</td>
+      <td>荒石</td>
+      <td>wasteland stone       <sup id="fnref:ancientname:3" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>17</td>
+      <td>Chlorine</td>
+      <td>Cl</td>
+      <td>lǜ</td>
+      <td>氯</td>
+      <td>绿气</td>
+      <td>green gas</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>18</td>
+      <td>Argon</td>
+      <td>Ar</td>
+      <td>yà</td>
+      <td>氩</td>
+      <td>亚气</td>
+      <td>next gas</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>19</td>
+      <td>Potassium</td>
+      <td>K</td>
+      <td>jiǎ</td>
+      <td>钾</td>
+      <td>甲金</td>
+      <td>shell metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>20</td>
+      <td>Calcium</td>
+      <td>Ca</td>
+      <td>gài</td>
+      <td>钙</td>
+      <td>丐金</td>
+      <td>beggar metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>21</td>
+      <td>Scandium</td>
+      <td>Sc</td>
+      <td>kàng</td>
+      <td>钪</td>
+      <td>亢金</td>
+      <td>proud metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>22</td>
+      <td>Titanium</td>
+      <td>Ti</td>
+      <td>tài</td>
+      <td>钛</td>
+      <td>太金</td>
+      <td>very big metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>23</td>
+      <td>Vanadium</td>
+      <td>V</td>
+      <td>fán</td>
+      <td>钒</td>
+      <td>凡金</td>
+      <td>mundane metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>24</td>
+      <td>Chromium</td>
+      <td>Cr</td>
+      <td>gè</td>
+      <td>铬</td>
+      <td>各金</td>
+      <td>each metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>25</td>
+      <td>Manganese</td>
+      <td>Mn</td>
+      <td>měng</td>
+      <td>锰</td>
+      <td>猛金</td>
+      <td>ferocious metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>26</td>
+      <td>Iron</td>
+      <td>Fe</td>
+      <td>tiě</td>
+      <td>铁</td>
+      <td> </td>
+      <td><sup id="fnref:ancientname:4" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>27</td>
+      <td>Cobalt</td>
+      <td>Co</td>
+      <td>gǔ</td>
+      <td>钴</td>
+      <td>古金</td>
+      <td>ancient metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>28</td>
+      <td>Nickel</td>
+      <td>Ni</td>
+      <td>niè</td>
+      <td>镍</td>
+      <td>臬金</td>
+      <td>benchmark metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>29</td>
+      <td>Copper</td>
+      <td>Cu</td>
+      <td>tóng</td>
+      <td>铜</td>
+      <td> </td>
+      <td><sup id="fnref:ancientname:5" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>30</td>
+      <td>Zinc</td>
+      <td>Zn</td>
+      <td>xīn</td>
+      <td>锌</td>
+      <td>辛金</td>
+      <td>acrid metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>31</td>
+      <td>Gallium</td>
+      <td>Ga</td>
+      <td>jiā</td>
+      <td>镓</td>
+      <td>家金</td>
+      <td>domestic metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>32</td>
+      <td>Germanium</td>
+      <td>Ge</td>
+      <td>zhě</td>
+      <td>锗</td>
+      <td>金者</td>
+      <td>person of metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>33</td>
+      <td>Arsenic</td>
+      <td>As</td>
+      <td>shēn</td>
+      <td>砷</td>
+      <td>申石</td>
+      <td>explain metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>34</td>
+      <td>Selenium</td>
+      <td>Se</td>
+      <td>xī</td>
+      <td>硒</td>
+      <td>西石</td>
+      <td>west metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>35</td>
+      <td>Bromine</td>
+      <td>Br</td>
+      <td>xiù</td>
+      <td>溴</td>
+      <td>臭水</td>
+      <td>stinky water (NOT PHONETIC)</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>36</td>
+      <td>Krypton</td>
+      <td>Kr</td>
+      <td>kè</td>
+      <td>氪</td>
+      <td>克气</td>
+      <td>conquering metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>37</td>
+      <td>Rubidium</td>
+      <td>Rb</td>
+      <td>rú</td>
+      <td>铷</td>
+      <td>如金</td>
+      <td>like such as metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>38</td>
+      <td>Strontium</td>
+      <td>Sr</td>
+      <td>sī</td>
+      <td>锶</td>
+      <td>思金</td>
+      <td>ponder metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>39</td>
+      <td>Yttrium</td>
+      <td>Y</td>
+      <td>yǐ</td>
+      <td>钇</td>
+      <td>乙金</td>
+      <td>2nd metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>40</td>
+      <td>Zirconium</td>
+      <td>Zr</td>
+      <td>gào</td>
+      <td>锆</td>
+      <td>告金</td>
+      <td>sue metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>41</td>
+      <td>Niobium</td>
+      <td>Nb</td>
+      <td>ní</td>
+      <td>铌</td>
+      <td>尼金</td>
+      <td>nun metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>42</td>
+      <td>Molybdenum</td>
+      <td>Mo</td>
+      <td>mù</td>
+      <td>钼</td>
+      <td>目金</td>
+      <td>eye metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>43</td>
+      <td>Technetium</td>
+      <td>Tc</td>
+      <td>dé</td>
+      <td>锝</td>
+      <td>得金</td>
+      <td>get metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>44</td>
+      <td>Ruthenium</td>
+      <td>Ru</td>
+      <td>liǎo</td>
+      <td>钌</td>
+      <td>了金</td>
+      <td>past-tense metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>45</td>
+      <td>Rhodium</td>
+      <td>Rh</td>
+      <td>lǎo</td>
+      <td>铑</td>
+      <td>老金</td>
+      <td>elderly metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>46</td>
+      <td>Palladium</td>
+      <td>Pd</td>
+      <td>bǎ</td>
+      <td>钯</td>
+      <td>把金</td>
+      <td>cling to metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>47</td>
+      <td>Silver</td>
+      <td>Ag</td>
+      <td>yín</td>
+      <td>银</td>
+      <td>艮金</td>
+      <td><sup id="fnref:ancientname:6" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>48</td>
+      <td>Cadmium</td>
+      <td>Cd</td>
+      <td>gé</td>
+      <td>镉</td>
+      <td>鬲金</td>
+      <td>Ge metal (name)</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>49</td>
+      <td>Indium</td>
+      <td>In</td>
+      <td>yīn</td>
+      <td>铟</td>
+      <td>因金</td>
+      <td>because of metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>50</td>
+      <td>Tin</td>
+      <td>Sn</td>
+      <td>xī</td>
+      <td>锡</td>
+      <td>易金</td>
+      <td><sup id="fnref:ancientname:7" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>51</td>
+      <td>Antimony</td>
+      <td>Sb</td>
+      <td>tī</td>
+      <td>锑</td>
+      <td>悌金</td>
+      <td>brotherly metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>52</td>
+      <td>Tellurium</td>
+      <td>Te</td>
+      <td>dì</td>
+      <td>碲</td>
+      <td>帝石</td>
+      <td>god emperor stone</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>53</td>
+      <td>Iodine</td>
+      <td>I</td>
+      <td>diǎn</td>
+      <td>碘</td>
+      <td>典石</td>
+      <td>classic stone</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>54</td>
+      <td>Xenon</td>
+      <td>Xe</td>
+      <td>xiān</td>
+      <td>氙</td>
+      <td>仙气</td>
+      <td>fairy gas</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>55</td>
+      <td>Cesium</td>
+      <td>Cs</td>
+      <td>sè</td>
+      <td>铯</td>
+      <td>色金</td>
+      <td>tint metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>56</td>
+      <td>Barium</td>
+      <td>Ba</td>
+      <td>bèi</td>
+      <td>钡</td>
+      <td>贝金</td>
+      <td>cowry metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>57</td>
+      <td>Lanthanum</td>
+      <td>La</td>
+      <td>lán</td>
+      <td>镧</td>
+      <td>阑金</td>
+      <td>railing metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>58</td>
+      <td>Cerium</td>
+      <td>Ce</td>
+      <td>shì</td>
+      <td>铈</td>
+      <td>市金</td>
+      <td>marketplace metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>59</td>
+      <td>Praseodymium</td>
+      <td>Pr</td>
+      <td>pǔ</td>
+      <td>镨</td>
+      <td>普金</td>
+      <td>universal metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>60</td>
+      <td>Neodymium</td>
+      <td>Nd</td>
+      <td>nǚ</td>
+      <td>钕</td>
+      <td>女金</td>
+      <td>female metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>61</td>
+      <td>Promethium</td>
+      <td>Pm</td>
+      <td>pǒ</td>
+      <td>钷</td>
+      <td>叵金</td>
+      <td>improbable metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>62</td>
+      <td>Samarium</td>
+      <td>Sm</td>
+      <td>shān</td>
+      <td>钐</td>
+      <td>彡金</td>
+      <td>hair metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>63</td>
+      <td>Europium</td>
+      <td>Eu</td>
+      <td>yǒu</td>
+      <td>铕</td>
+      <td>有金</td>
+      <td>have metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>64</td>
+      <td>Gadolinium</td>
+      <td>Gd</td>
+      <td>gá</td>
+      <td>钆</td>
+      <td>轧金</td>
+      <td>squeeze metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>65</td>
+      <td>Terbium</td>
+      <td>Tb</td>
+      <td>tè</td>
+      <td>铽</td>
+      <td>忒金</td>
+      <td>excessive metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>66</td>
+      <td>Dysprosium</td>
+      <td>Dy</td>
+      <td>dī</td>
+      <td>镝</td>
+      <td>滴金</td>
+      <td>drip metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>67</td>
+      <td>Holmium</td>
+      <td>Ho</td>
+      <td>huǒ</td>
+      <td>钬</td>
+      <td>火金</td>
+      <td>fire metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>68</td>
+      <td>Erbium</td>
+      <td>Er</td>
+      <td>ěr</td>
+      <td>铒</td>
+      <td>耳金</td>
+      <td>ear metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>69</td>
+      <td>Thulium</td>
+      <td>Tm</td>
+      <td>diū</td>
+      <td>铥</td>
+      <td>丢金</td>
+      <td>lost metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>70</td>
+      <td>Ytterbium</td>
+      <td>Yb</td>
+      <td>yì</td>
+      <td>镱</td>
+      <td>意金</td>
+      <td>intention metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>71</td>
+      <td>Lutetium</td>
+      <td>Lu</td>
+      <td>lǔ</td>
+      <td>镥</td>
+      <td>鲁金</td>
+      <td>vulgar metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>72</td>
+      <td>Hafnium</td>
+      <td>Hf</td>
+      <td>hā</td>
+      <td>铪</td>
+      <td> </td>
+      <td>ha! metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>73</td>
+      <td>Tantalum</td>
+      <td>Ta</td>
+      <td>tǎn</td>
+      <td>钽</td>
+      <td> </td>
+      <td> </td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>74</td>
+      <td>Tungsten</td>
+      <td>W</td>
+      <td>wū</td>
+      <td>钨</td>
+      <td>乌金</td>
+      <td>raven metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>75</td>
+      <td>Rhenium</td>
+      <td>Re</td>
+      <td>lái</td>
+      <td>铼</td>
+      <td>来金</td>
+      <td>incoming metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>76</td>
+      <td>Osmium</td>
+      <td>Os</td>
+      <td>é</td>
+      <td>锇</td>
+      <td>我金</td>
+      <td>our metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>77</td>
+      <td>Iridium</td>
+      <td>Ir</td>
+      <td>yī</td>
+      <td>铱</td>
+      <td>衣金</td>
+      <td>clothing metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>78</td>
+      <td>Platinum</td>
+      <td>Pt</td>
+      <td>bó</td>
+      <td>铂</td>
+      <td>白金</td>
+      <td>white metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>79</td>
+      <td>Gold</td>
+      <td>Au</td>
+      <td>jīn</td>
+      <td>金</td>
+      <td>金</td>
+      <td>metal <sup id="fnref:ancientname:8" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>80</td>
+      <td>Mercury</td>
+      <td>Hg</td>
+      <td>gǒng</td>
+      <td>工</td>
+      <td>工水</td>
+      <td>labor water <sup id="fnref:ancientname:9" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>81</td>
+      <td>Thallium</td>
+      <td>Tl</td>
+      <td>tā</td>
+      <td>铊</td>
+      <td>它金</td>
+      <td>it metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>82</td>
+      <td>Lead</td>
+      <td>Pb</td>
+      <td>qiān</td>
+      <td>铅</td>
+      <td>㕣金</td>
+      <td>marsh metal <sup id="fnref:ancientname:10" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>83</td>
+      <td>Bismuth</td>
+      <td>Bi</td>
+      <td>bì</td>
+      <td>铋</td>
+      <td>必金</td>
+      <td>necessarily metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>84</td>
+      <td>Polonium</td>
+      <td>Po</td>
+      <td>pō</td>
+      <td>钋</td>
+      <td>卜金</td>
+      <td> </td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>85</td>
+      <td>Astatine</td>
+      <td>At</td>
+      <td>ài</td>
+      <td>砹</td>
+      <td>艾石</td>
+      <td>mugwort stone</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>86</td>
+      <td>Radon</td>
+      <td>Rn</td>
+      <td>dōng</td>
+      <td>氡</td>
+      <td>冬气</td>
+      <td>winter gas</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>87</td>
+      <td>Francium</td>
+      <td>Fr</td>
+      <td>fāng</td>
+      <td>钫</td>
+      <td>方金</td>
+      <td>square metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>88</td>
+      <td>Radium</td>
+      <td>Ra</td>
+      <td>léi</td>
+      <td>镭</td>
+      <td>雷金</td>
+      <td>thunder metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>89</td>
+      <td>Actinium</td>
+      <td>Ac</td>
+      <td>ā</td>
+      <td>锕</td>
+      <td>阿金</td>
+      <td>āmetal (name prefix)</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>90</td>
+      <td>Thorium</td>
+      <td>Th</td>
+      <td>tǔ</td>
+      <td>钍</td>
+      <td>土金</td>
+      <td>earth metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>91</td>
+      <td>Protactinium</td>
+      <td>Pa</td>
+      <td>pú</td>
+      <td>镤</td>
+      <td>菐金</td>
+      <td>cumbersome metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>92</td>
+      <td>Uranium</td>
+      <td>U</td>
+      <td>yóu</td>
+      <td>铀</td>
+      <td>由金</td>
+      <td>from metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>93</td>
+      <td>Neptunium</td>
+      <td>Np</td>
+      <td>ná</td>
+      <td>镎</td>
+      <td>拿金</td>
+      <td>seize metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>94</td>
+      <td>Plutonium</td>
+      <td>Pu</td>
+      <td>bù</td>
+      <td>钚</td>
+      <td>不金</td>
+      <td>not metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>95</td>
+      <td>Americium</td>
+      <td>Am</td>
+      <td>méi</td>
+      <td>镅</td>
+      <td>眉金</td>
+      <td>eyebrow metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>96</td>
+      <td>Curium</td>
+      <td>Cm</td>
+      <td>jú</td>
+      <td>锔</td>
+      <td>局金</td>
+      <td>narrow metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>97</td>
+      <td>Berkelium</td>
+      <td>Bk</td>
+      <td>péi</td>
+      <td>锫</td>
+      <td>咅金</td>
+      <td> </td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>98</td>
+      <td>Californium</td>
+      <td>Cf</td>
+      <td>kāi</td>
+      <td>锎</td>
+      <td>開金</td>
+      <td>open metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>99</td>
+      <td>Einsteinium</td>
+      <td>Es</td>
+      <td>āi</td>
+      <td>锿</td>
+      <td>哀金</td>
+      <td>grief metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>100</td>
+      <td>Fermium</td>
+      <td>Fm</td>
+      <td>fèi</td>
+      <td>镄</td>
+      <td>费金</td>
+      <td>expenditure metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>101</td>
+      <td>Mendelevium</td>
+      <td>Md</td>
+      <td>mén</td>
+      <td>钔</td>
+      <td>门金</td>
+      <td>door metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>102</td>
+      <td>Nobelium</td>
+      <td>No</td>
+      <td>nuò</td>
+      <td>锘</td>
+      <td>诺金</td>
+      <td>assent metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>103</td>
+      <td>Lawrencium</td>
+      <td>Lr</td>
+      <td>láo</td>
+      <td>铹</td>
+      <td>劳金</td>
+      <td>toil metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>104</td>
+      <td>Rutherfordium</td>
+      <td>Rf</td>
+      <td>lú</td>
+      <td>𬬻</td>
+      <td>卢金</td>
+      <td>rice bowl metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>105</td>
+      <td>Dubnium</td>
+      <td>Db</td>
+      <td>dù</td>
+      <td>𨧀</td>
+      <td>杜金</td>
+      <td>stop metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>106</td>
+      <td>Seaborgium</td>
+      <td>Sg</td>
+      <td>xǐ</td>
+      <td>𨭎</td>
+      <td>喜金</td>
+      <td>happy metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>107</td>
+      <td>Bohrium</td>
+      <td>Bh</td>
+      <td>bō</td>
+      <td>𨨏</td>
+      <td>波金</td>
+      <td>wave metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>108</td>
+      <td>Hassium</td>
+      <td>Hs</td>
+      <td>hēi</td>
+      <td>𨭆</td>
+      <td>黑金</td>
+      <td>black metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>109</td>
+      <td>Meitnerium</td>
+      <td>Mt</td>
+      <td>mài</td>
+      <td>鿏</td>
+      <td>麦金</td>
+      <td>wheat metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>110</td>
+      <td>Darmstadtium</td>
+      <td>Ds</td>
+      <td>dá</td>
+      <td>𫟼</td>
+      <td>达金</td>
+      <td>eminent metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>111</td>
+      <td>Roentgenium</td>
+      <td>Rg</td>
+      <td>lún</td>
+      <td>錀</td>
+      <td>侖金</td>
+      <td>orderly metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>112</td>
+      <td>Copernicium</td>
+      <td>Cn</td>
+      <td>gē</td>
+      <td>鎶</td>
+      <td>哥金</td>
+      <td>older brother metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>113</td>
+      <td>Nihonium</td>
+      <td>Nh</td>
+      <td>nǐ</td>
+      <td>鉨</td>
+      <td>你金</td>
+      <td>thou metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>114</td>
+      <td>Flerovium</td>
+      <td>Fl</td>
+      <td>fū</td>
+      <td>𫓧</td>
+      <td>夫金</td>
+      <td>husband metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>115</td>
+      <td>Moscovium</td>
+      <td>Mc</td>
+      <td>mò</td>
+      <td>镆</td>
+      <td>莫金</td>
+      <td>don’t metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>116</td>
+      <td>Livermorium</td>
+      <td>Lv</td>
+      <td>lì</td>
+      <td>𫟷</td>
+      <td>立金</td>
+      <td>erect metal</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>117</td>
+      <td>Tennessine</td>
+      <td>Ts</td>
+      <td>tián</td>
+      <td>鿬</td>
+      <td>田石</td>
+      <td>farm stone</td>
+    </tr>
+    <tr class="phonosemantic">
+      <td>118</td>
+      <td>Oganesson</td>
+      <td>Og</td>
+      <td>ào</td>
+      <td>鿫</td>
+      <td>奥气</td>
+      <td>mysterious gas</td>
+    </tr>
+  </tbody>
+</table></div>
+
+
+
+
 |     | English       |    | Pinyin | 汉字 | Radicals | Literal                              |
 |-----|---------------|----|--------|------|----------|--------------------------------------|
 | 1   | Hydrogen      | H  | qīng   | 氢   | 轻气     | Lightweight Gas [^hydrogennote]      |
@@ -115,8 +1205,8 @@ But remember that these typically aren't the actual etymology of these words; th
 | 69  | Thulium       | Tm | diū    | 铥   | 丢金     | lost metal                           |
 | 70  | Ytterbium     | Yb | yì     | 镱   | 意金     | intention metal                      |
 | 71  | Lutetium      | Lu | lǔ     | 镥   | 鲁金     | vulgar metal                         |
-| 72  | Hafnium       | Hf | hā     | 铪   |          | ha! metal                            |
-| 73  | Tantalum      | Ta | tǎn    | 钽   |          |                                      |
+| 72  | Hafnium       | Hf | hā     | 铪   | 哈金     | ha! metal                            |
+| 73  | Tantalum      | Ta | tǎn    | 钽   | 坦金     | composed metal                       |
 | 74  | Tungsten      | W  | wū     | 钨   | 乌金     | raven metal                          |
 | 75  | Rhenium       | Re | lái    | 铼   | 来金     | incoming metal                       |
 | 76  | Osmium        | Os | é      | 锇   | 我金     | our metal                            |
