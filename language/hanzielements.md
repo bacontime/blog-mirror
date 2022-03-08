@@ -1,6 +1,7 @@
 ---
-title: Element Names
-parent: Science and Nature
+title: Chinese Element Names
+parent: Chinese Characters
+grand_parent: Language
 ---
 
 # Hanzi for the Chemical Elements
