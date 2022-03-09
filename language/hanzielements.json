@@ -1,0 +1,1890 @@
+[
+    {
+        "number": 1,
+        "name": "Hydrogen",
+        "symbol": "H",
+        "pinyin": "q\u012bng",
+        "hanzi_simp": "\u6c22",
+        "hanzi_trad": "\u6c2b",
+        "etymology": "ideographic",
+        "radicals": "\u8f7b\u6c14",
+        "radical_phon": "\u8f7b",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "lightweight gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 2,
+        "name": "Helium",
+        "symbol": "He",
+        "pinyin": "h\u00e0i",
+        "hanzi_simp": "\u6c26",
+        "hanzi_trad": "\u6c26",
+        "etymology": "loanword",
+        "radicals": "\u4ea5\u6c14",
+        "radical_phon": "\u4ea5",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "astrological pig gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 3,
+        "name": "Lithium",
+        "symbol": "Li",
+        "pinyin": "l\u01d0",
+        "hanzi_simp": "\u9502",
+        "hanzi_trad": "\u92f0",
+        "etymology": "loanword",
+        "radicals": "\u91cc\u91d1",
+        "radical_phon": "\u91cc",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "village metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 4,
+        "name": "Beryllium",
+        "symbol": "Be",
+        "pinyin": "p\u00ed",
+        "hanzi_simp": "\u94cd",
+        "hanzi_trad": "\u9239",
+        "etymology": "loanword",
+        "radicals": "\u76ae\u91d1",
+        "radical_phon": "\u76ae",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "feather metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 5,
+        "name": "Boron",
+        "symbol": "B",
+        "pinyin": "p\u00e9ng",
+        "hanzi_simp": "\u787c",
+        "hanzi_trad": "\u787c",
+        "etymology": "classic",
+        "radicals": "\u670b\u77f3",
+        "radical_phon": "\u670b",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "friends stone",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 6,
+        "name": "Carbon",
+        "symbol": "C",
+        "pinyin": "t\u00e0n",
+        "hanzi_simp": "\u78b3",
+        "hanzi_trad": "\u78b3",
+        "etymology": "classic",
+        "radicals": "\u70ad\u77f3",
+        "radical_phon": "\u70ad",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "coal stone",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 7,
+        "name": "Nitrogen",
+        "symbol": "N",
+        "pinyin": "d\u00e0n",
+        "hanzi_simp": "\u6c2e",
+        "hanzi_trad": "\u6c2e",
+        "etymology": "ideographic",
+        "radicals": "\u6de1\u6c14",
+        "radical_phon": "\u6de1",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "diluting gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 8,
+        "name": "Oxygen",
+        "symbol": "O",
+        "pinyin": "y\u01ceng",
+        "hanzi_simp": "\u6c27",
+        "hanzi_trad": "\u6c27",
+        "etymology": "ideographic",
+        "radicals": "\u517b\u6c14",
+        "radical_phon": "\u517b",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "life-nurturing gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 9,
+        "name": "Fluorine",
+        "symbol": "F",
+        "pinyin": "f\u00fa",
+        "hanzi_simp": "\u6c1f",
+        "hanzi_trad": "\u6c1f",
+        "etymology": "loanword",
+        "radicals": "\u5f17\u6c14",
+        "radical_phon": "\u5f17",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "negative gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 10,
+        "name": "Neon",
+        "symbol": "Ne",
+        "pinyin": "n\u01cei",
+        "hanzi_simp": "\u6c16",
+        "hanzi_trad": "\u6c16",
+        "etymology": "loanword",
+        "radicals": "\u4e43\u6c14",
+        "radical_phon": "\u4e43",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "indeed gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 11,
+        "name": "Sodium",
+        "symbol": "Na",
+        "pinyin": "n\u00e0",
+        "hanzi_simp": "\u94a0",
+        "hanzi_trad": "\u9209",
+        "etymology": "loanword",
+        "radicals": "\u7eb3\u91d1",
+        "radical_phon": "\u7eb3",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "offer metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 12,
+        "name": "Magnesium",
+        "symbol": "Mg",
+        "pinyin": "m\u011bi",
+        "hanzi_simp": "\u9541",
+        "hanzi_trad": "\u9382",
+        "etymology": "loanword",
+        "radicals": "\u7f8e\u91d1",
+        "radical_phon": "\u7f8e",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "beautiful metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 13,
+        "name": "Aluminium",
+        "symbol": "Al",
+        "pinyin": "l\u01da",
+        "hanzi_simp": "\u94dd",
+        "hanzi_trad": "\u92c1",
+        "etymology": "loanword",
+        "radicals": "\u5415\u91d1",
+        "radical_phon": "\u5415",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "Lu metal (musical note/name)",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 14,
+        "name": "Silicon",
+        "symbol": "Si",
+        "pinyin": "gu\u012b",
+        "hanzi_simp": "\u7845",
+        "hanzi_trad": "\u7845",
+        "etymology": "loanword",
+        "radicals": "\u572d\u77f3",
+        "radical_phon": "\u572d",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "special jade stone",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 15,
+        "name": "Phosphorus",
+        "symbol": "P",
+        "pinyin": "l\u00edn",
+        "hanzi_simp": "\u78f7",
+        "hanzi_trad": "\u78f7",
+        "etymology": "classic",
+        "radicals": "\u7ca6\u77f3",
+        "radical_phon": "\u7ca6",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "phosphorus stone",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 16,
+        "name": "Sulfur",
+        "symbol": "S",
+        "pinyin": "li\u00fa",
+        "hanzi_simp": "\u786b",
+        "hanzi_trad": "\u786b",
+        "etymology": "classic",
+        "radicals": "\u8352\u77f3",
+        "radical_phon": "\u8352",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "wasteland stone",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 17,
+        "name": "Chlorine",
+        "symbol": "Cl",
+        "pinyin": "l\u01dc",
+        "hanzi_simp": "\u6c2f",
+        "hanzi_trad": "\u6c2f",
+        "etymology": "loanword",
+        "radicals": "\u7eff\u6c14",
+        "radical_phon": "\u7eff",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "green gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 18,
+        "name": "Argon",
+        "symbol": "Ar",
+        "pinyin": "y\u00e0",
+        "hanzi_simp": "\u6c29",
+        "hanzi_trad": "\u6c2c",
+        "etymology": "loanword",
+        "radicals": "\u4e9a\u6c14",
+        "radical_phon": "\u4e9a",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "next gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 19,
+        "name": "Potassium",
+        "symbol": "K",
+        "pinyin": "ji\u01ce",
+        "hanzi_simp": "\u94be",
+        "hanzi_trad": "\u9240",
+        "etymology": "loanword",
+        "radicals": "\u7532\u91d1",
+        "radical_phon": "\u7532",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "shell metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 20,
+        "name": "Calcium",
+        "symbol": "Ca",
+        "pinyin": "g\u00e0i",
+        "hanzi_simp": "\u9499",
+        "hanzi_trad": "\u9223",
+        "etymology": "loanword",
+        "radicals": "\u4e10\u91d1",
+        "radical_phon": "\u4e10",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "beggar metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 21,
+        "name": "Scandium",
+        "symbol": "Sc",
+        "pinyin": "k\u00e0ng",
+        "hanzi_simp": "\u94aa",
+        "hanzi_trad": "\u9227",
+        "etymology": "loanword",
+        "radicals": "\u4ea2\u91d1",
+        "radical_phon": "\u4ea2",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "proud metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 22,
+        "name": "Titanium",
+        "symbol": "Ti",
+        "pinyin": "t\u00e0i",
+        "hanzi_simp": "\u949b",
+        "hanzi_trad": "\u9226",
+        "etymology": "loanword",
+        "radicals": "\u592a\u91d1",
+        "radical_phon": "\u592a",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "very big metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 23,
+        "name": "Vanadium",
+        "symbol": "V",
+        "pinyin": "f\u00e1n",
+        "hanzi_simp": "\u9492",
+        "hanzi_trad": "\u91e9",
+        "etymology": "loanword",
+        "radicals": "\u51e1\u91d1",
+        "radical_phon": "\u51e1",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "mundane metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 24,
+        "name": "Chromium",
+        "symbol": "Cr",
+        "pinyin": "g\u00e8",
+        "hanzi_simp": "\u94ec",
+        "hanzi_trad": "\u927b",
+        "etymology": "loanword",
+        "radicals": "\u5404\u91d1",
+        "radical_phon": "\u5404",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "each metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 25,
+        "name": "Manganese",
+        "symbol": "Mn",
+        "pinyin": "m\u011bng",
+        "hanzi_simp": "\u9530",
+        "hanzi_trad": "\u9333",
+        "etymology": "loanword",
+        "radicals": "\u731b\u91d1",
+        "radical_phon": "\u731b",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "ferocious metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 26,
+        "name": "Iron",
+        "symbol": "Fe",
+        "pinyin": "ti\u011b",
+        "hanzi_simp": "\u94c1",
+        "hanzi_trad": "\u9435",
+        "etymology": "classic",
+        "radicals": "??",
+        "radical_phon": "?",
+        "radical_sem": "?",
+        "radical_meaning": "",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 27,
+        "name": "Cobalt",
+        "symbol": "Co",
+        "pinyin": "g\u01d4",
+        "hanzi_simp": "\u94b4",
+        "hanzi_trad": "\u9237",
+        "etymology": "loanword",
+        "radicals": "\u53e4\u91d1",
+        "radical_phon": "\u53e4",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "ancient metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 28,
+        "name": "Nickel",
+        "symbol": "Ni",
+        "pinyin": "ni\u00e8",
+        "hanzi_simp": "\u954d",
+        "hanzi_trad": "\u93b3",
+        "etymology": "loanword",
+        "radicals": "\u81ec\u91d1",
+        "radical_phon": "\u81ec",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "benchmark metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 29,
+        "name": "Copper",
+        "symbol": "Cu",
+        "pinyin": "t\u00f3ng",
+        "hanzi_simp": "\u94dc",
+        "hanzi_trad": "\u9285",
+        "etymology": "classic",
+        "radicals": "??",
+        "radical_phon": "?",
+        "radical_sem": "?",
+        "radical_meaning": "",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 30,
+        "name": "Zinc",
+        "symbol": "Zn",
+        "pinyin": "x\u012bn",
+        "hanzi_simp": "\u950c",
+        "hanzi_trad": "\u92c5",
+        "etymology": "loanword",
+        "radicals": "\u8f9b\u91d1",
+        "radical_phon": "\u8f9b",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "acrid metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 31,
+        "name": "Gallium",
+        "symbol": "Ga",
+        "pinyin": "ji\u0101",
+        "hanzi_simp": "\u9553",
+        "hanzi_trad": "\u93b5",
+        "etymology": "loanword",
+        "radicals": "\u5bb6\u91d1",
+        "radical_phon": "\u5bb6",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "domestic metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 32,
+        "name": "Germanium",
+        "symbol": "Ge",
+        "pinyin": "zh\u011b",
+        "hanzi_simp": "\u9517",
+        "hanzi_trad": "\u937a",
+        "etymology": "loanword",
+        "radicals": "\u8005\u91d1",
+        "radical_phon": "\u8005",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "person of metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 33,
+        "name": "Arsenic",
+        "symbol": "As",
+        "pinyin": "sh\u0113n",
+        "hanzi_simp": "\u7837",
+        "hanzi_trad": "\u7837",
+        "etymology": "loanword",
+        "radicals": "\u7533\u77f3",
+        "radical_phon": "\u7533",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "explain metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 34,
+        "name": "Selenium",
+        "symbol": "Se",
+        "pinyin": "x\u012b",
+        "hanzi_simp": "\u7852",
+        "hanzi_trad": "\u7852",
+        "etymology": "loanword",
+        "radicals": "\u897f\u77f3",
+        "radical_phon": "\u897f",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "west metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 35,
+        "name": "Bromine",
+        "symbol": "Br",
+        "pinyin": "xi\u00f9",
+        "hanzi_simp": "\u6eb4",
+        "hanzi_trad": "\u6eb4",
+        "etymology": "ideographic",
+        "radicals": "\u81ed\u6c34",
+        "radical_phon": "\u81ed",
+        "radical_sem": "\u6c34",
+        "radical_meaning": "stinky water",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 36,
+        "name": "Krypton",
+        "symbol": "Kr",
+        "pinyin": "k\u00e8",
+        "hanzi_simp": "\u6c2a",
+        "hanzi_trad": "\u6c2a",
+        "etymology": "loanword",
+        "radicals": "\u514b\u6c14",
+        "radical_phon": "\u514b",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "conquering metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 37,
+        "name": "Rubidium",
+        "symbol": "Rb",
+        "pinyin": "r\u00fa",
+        "hanzi_simp": "\u94f7",
+        "hanzi_trad": "\u92a3",
+        "etymology": "loanword",
+        "radicals": "\u5982\u91d1",
+        "radical_phon": "\u5982",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "like such as metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 38,
+        "name": "Strontium",
+        "symbol": "Sr",
+        "pinyin": "s\u012b",
+        "hanzi_simp": "\u9536",
+        "hanzi_trad": "\u9376",
+        "etymology": "loanword",
+        "radicals": "\u601d\u91d1",
+        "radical_phon": "\u601d",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "ponder metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 39,
+        "name": "Yttrium",
+        "symbol": "Y",
+        "pinyin": "y\u01d0",
+        "hanzi_simp": "\u9487",
+        "hanzi_trad": "\u91d4",
+        "etymology": "loanword",
+        "radicals": "\u4e59\u91d1",
+        "radical_phon": "\u4e59",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "2nd metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 40,
+        "name": "Zirconium",
+        "symbol": "Zr",
+        "pinyin": "g\u00e0o",
+        "hanzi_simp": "\u9506",
+        "hanzi_trad": "\u92ef",
+        "etymology": "loanword",
+        "radicals": "\u544a\u91d1",
+        "radical_phon": "\u544a",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "sue metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 41,
+        "name": "Niobium",
+        "symbol": "Nb",
+        "pinyin": "n\u00ed",
+        "hanzi_simp": "\u94cc",
+        "hanzi_trad": "\u922e",
+        "etymology": "loanword",
+        "radicals": "\u5c3c\u91d1",
+        "radical_phon": "\u5c3c",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "nun metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 42,
+        "name": "Molybdenum",
+        "symbol": "Mo",
+        "pinyin": "m\u00f9",
+        "hanzi_simp": "\u94bc",
+        "hanzi_trad": "\u926c",
+        "etymology": "loanword",
+        "radicals": "\u76ee\u91d1",
+        "radical_phon": "\u76ee",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "eye metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 43,
+        "name": "Technetium",
+        "symbol": "Tc",
+        "pinyin": "d\u00e9",
+        "hanzi_simp": "\u951d",
+        "hanzi_trad": "\u9340",
+        "etymology": "loanword",
+        "radicals": "\u5f97\u91d1",
+        "radical_phon": "\u5f97",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "get metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 44,
+        "name": "Ruthenium",
+        "symbol": "Ru",
+        "pinyin": "li\u01ceo",
+        "hanzi_simp": "\u948c",
+        "hanzi_trad": "\u91d5",
+        "etymology": "loanword",
+        "radicals": "\u4e86\u91d1",
+        "radical_phon": "\u4e86",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "past-tense metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 45,
+        "name": "Rhodium",
+        "symbol": "Rh",
+        "pinyin": "l\u01ceo",
+        "hanzi_simp": "\u94d1",
+        "hanzi_trad": "\u92a0",
+        "etymology": "loanword",
+        "radicals": "\u8001\u91d1",
+        "radical_phon": "\u8001",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "elderly metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 46,
+        "name": "Palladium",
+        "symbol": "Pd",
+        "pinyin": "b\u01ce",
+        "hanzi_simp": "\u94af",
+        "hanzi_trad": "\u9200",
+        "etymology": "loanword",
+        "radicals": "\u628a\u91d1",
+        "radical_phon": "\u628a",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "cling to metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 47,
+        "name": "Silver",
+        "symbol": "Ag",
+        "pinyin": "y\u00edn",
+        "hanzi_simp": "\u94f6",
+        "hanzi_trad": "\u9280",
+        "etymology": "classic",
+        "radicals": "\u826e\u91d1",
+        "radical_phon": "\u826e",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 48,
+        "name": "Cadmium",
+        "symbol": "Cd",
+        "pinyin": "g\u00e9",
+        "hanzi_simp": "\u9549",
+        "hanzi_trad": "\u9398",
+        "etymology": "loanword",
+        "radicals": "\u9b32\u91d1",
+        "radical_phon": "\u9b32",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "Ge metal (name)",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 49,
+        "name": "Indium",
+        "symbol": "In",
+        "pinyin": "y\u012bn",
+        "hanzi_simp": "\u94df",
+        "hanzi_trad": "\u92a6",
+        "etymology": "loanword",
+        "radicals": "\u56e0\u91d1",
+        "radical_phon": "\u56e0",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "because of metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 50,
+        "name": "Tin",
+        "symbol": "Sn",
+        "pinyin": "x\u012b",
+        "hanzi_simp": "\u9521",
+        "hanzi_trad": "\u932b",
+        "etymology": "classic",
+        "radicals": "\u6613\u91d1",
+        "radical_phon": "\u6613",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 51,
+        "name": "Antimony",
+        "symbol": "Sb",
+        "pinyin": "t\u012b",
+        "hanzi_simp": "\u9511",
+        "hanzi_trad": "\u92bb",
+        "etymology": "loanword",
+        "radicals": "\u608c\u91d1",
+        "radical_phon": "\u608c",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "brotherly metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 52,
+        "name": "Tellurium",
+        "symbol": "Te",
+        "pinyin": "d\u00ec",
+        "hanzi_simp": "\u78b2",
+        "hanzi_trad": "\u78b2",
+        "etymology": "loanword",
+        "radicals": "\u5e1d\u77f3",
+        "radical_phon": "\u5e1d",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "god emperor stone",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 53,
+        "name": "Iodine",
+        "symbol": "I",
+        "pinyin": "di\u01cen",
+        "hanzi_simp": "\u7898",
+        "hanzi_trad": "\u7898",
+        "etymology": "loanword",
+        "radicals": "\u5178\u77f3",
+        "radical_phon": "\u5178",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "classic stone",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 54,
+        "name": "Xenon",
+        "symbol": "Xe",
+        "pinyin": "xi\u0101n",
+        "hanzi_simp": "\u6c19",
+        "hanzi_trad": "\u6c19",
+        "etymology": "loanword",
+        "radicals": "\u4ed9\u6c14",
+        "radical_phon": "\u4ed9",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "fairy gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 55,
+        "name": "Cesium",
+        "symbol": "Cs",
+        "pinyin": "s\u00e8",
+        "hanzi_simp": "\u94ef",
+        "hanzi_trad": "\u92ab",
+        "etymology": "loanword",
+        "radicals": "\u8272\u91d1",
+        "radical_phon": "\u8272",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "tint metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 56,
+        "name": "Barium",
+        "symbol": "Ba",
+        "pinyin": "b\u00e8i",
+        "hanzi_simp": "\u94a1",
+        "hanzi_trad": "\u92c7",
+        "etymology": "loanword",
+        "radicals": "\u8d1d\u91d1",
+        "radical_phon": "\u8d1d",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "cowry metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 57,
+        "name": "Lanthanum",
+        "symbol": "La",
+        "pinyin": "l\u00e1n",
+        "hanzi_simp": "\u9567",
+        "hanzi_trad": "\u946d",
+        "etymology": "loanword",
+        "radicals": "\u9611\u91d1",
+        "radical_phon": "\u9611",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "railing metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 58,
+        "name": "Cerium",
+        "symbol": "Ce",
+        "pinyin": "sh\u00ec",
+        "hanzi_simp": "\u94c8",
+        "hanzi_trad": "\u9230",
+        "etymology": "loanword",
+        "radicals": "\u5e02\u91d1",
+        "radical_phon": "\u5e02",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "marketplace metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 59,
+        "name": "Praseodymium",
+        "symbol": "Pr",
+        "pinyin": "p\u01d4",
+        "hanzi_simp": "\u9568",
+        "hanzi_trad": "\u9420",
+        "etymology": "loanword",
+        "radicals": "\u666e\u91d1",
+        "radical_phon": "\u666e",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "universal metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 60,
+        "name": "Neodymium",
+        "symbol": "Nd",
+        "pinyin": "n\u01da",
+        "hanzi_simp": "\u9495",
+        "hanzi_trad": "\u91f9",
+        "etymology": "loanword",
+        "radicals": "\u5973\u91d1",
+        "radical_phon": "\u5973",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "female metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 61,
+        "name": "Promethium",
+        "symbol": "Pm",
+        "pinyin": "p\u01d2",
+        "hanzi_simp": "\u94b7",
+        "hanzi_trad": "\u9255",
+        "etymology": "loanword",
+        "radicals": "\u53f5\u91d1",
+        "radical_phon": "\u53f5",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "improbable metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 62,
+        "name": "Samarium",
+        "symbol": "Sm",
+        "pinyin": "sh\u0101n",
+        "hanzi_simp": "\u9490",
+        "hanzi_trad": "\u91e4",
+        "etymology": "loanword",
+        "radicals": "\u5f61\u91d1",
+        "radical_phon": "\u5f61",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "hair metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 63,
+        "name": "Europium",
+        "symbol": "Eu",
+        "pinyin": "y\u01d2u",
+        "hanzi_simp": "\u94d5",
+        "hanzi_trad": "\u92aa",
+        "etymology": "loanword",
+        "radicals": "\u6709\u91d1",
+        "radical_phon": "\u6709",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "have metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 64,
+        "name": "Gadolinium",
+        "symbol": "Gd",
+        "pinyin": "g\u00e1",
+        "hanzi_simp": "\u9486",
+        "hanzi_trad": "\u91d3",
+        "etymology": "loanword",
+        "radicals": "\u8f67\u91d1",
+        "radical_phon": "\u8f67",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "squeeze metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 65,
+        "name": "Terbium",
+        "symbol": "Tb",
+        "pinyin": "t\u00e8",
+        "hanzi_simp": "\u94fd",
+        "hanzi_trad": "\u92f1",
+        "etymology": "loanword",
+        "radicals": "\u5fd2\u91d1",
+        "radical_phon": "\u5fd2",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "excessive metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 66,
+        "name": "Dysprosium",
+        "symbol": "Dy",
+        "pinyin": "d\u012b",
+        "hanzi_simp": "\u955d",
+        "hanzi_trad": "\u93d1",
+        "etymology": "loanword",
+        "radicals": "\u6ef4\u91d1",
+        "radical_phon": "\u6ef4",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "drip metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 67,
+        "name": "Holmium",
+        "symbol": "Ho",
+        "pinyin": "hu\u01d2",
+        "hanzi_simp": "\u94ac",
+        "hanzi_trad": "\u9225",
+        "etymology": "loanword",
+        "radicals": "\u706b\u91d1",
+        "radical_phon": "\u706b",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "fire metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 68,
+        "name": "Erbium",
+        "symbol": "Er",
+        "pinyin": "\u011br",
+        "hanzi_simp": "\u94d2",
+        "hanzi_trad": "\u927a",
+        "etymology": "loanword",
+        "radicals": "\u8033\u91d1",
+        "radical_phon": "\u8033",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "ear metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 69,
+        "name": "Thulium",
+        "symbol": "Tm",
+        "pinyin": "di\u016b",
+        "hanzi_simp": "\u94e5",
+        "hanzi_trad": "\u92a9",
+        "etymology": "loanword",
+        "radicals": "\u4e22\u91d1",
+        "radical_phon": "\u4e22",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "lost metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 70,
+        "name": "Ytterbium",
+        "symbol": "Yb",
+        "pinyin": "y\u00ec",
+        "hanzi_simp": "\u9571",
+        "hanzi_trad": "\u943f",
+        "etymology": "loanword",
+        "radicals": "\u610f\u91d1",
+        "radical_phon": "\u610f",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "intention metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 71,
+        "name": "Lutetium",
+        "symbol": "Lu",
+        "pinyin": "l\u01d4",
+        "hanzi_simp": "\u9565",
+        "hanzi_trad": "\u9465",
+        "etymology": "loanword",
+        "radicals": "\u9c81\u91d1",
+        "radical_phon": "\u9c81",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "vulgar metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 72,
+        "name": "Hafnium",
+        "symbol": "Hf",
+        "pinyin": "h\u0101",
+        "hanzi_simp": "\u94ea",
+        "hanzi_trad": "\u927f",
+        "etymology": "loanword",
+        "radicals": "\u54c8\u91d1",
+        "radical_phon": "\u54c8",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "ha! metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 73,
+        "name": "Tantalum",
+        "symbol": "Ta",
+        "pinyin": "t\u01cen",
+        "hanzi_simp": "\u94bd",
+        "hanzi_trad": "\u926d",
+        "etymology": "loanword",
+        "radicals": "\u5766\u91d1",
+        "radical_phon": "\u5766",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "composed metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 74,
+        "name": "Tungsten",
+        "symbol": "W",
+        "pinyin": "w\u016b",
+        "hanzi_simp": "\u94a8",
+        "hanzi_trad": "\u93a2",
+        "etymology": "loanword",
+        "radicals": "\u4e4c\u91d1",
+        "radical_phon": "\u4e4c",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "raven metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 75,
+        "name": "Rhenium",
+        "symbol": "Re",
+        "pinyin": "l\u00e1i",
+        "hanzi_simp": "\u94fc",
+        "hanzi_trad": "\u9338",
+        "etymology": "loanword",
+        "radicals": "\u6765\u91d1",
+        "radical_phon": "\u6765",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "incoming metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 76,
+        "name": "Osmium",
+        "symbol": "Os",
+        "pinyin": "\u00e9",
+        "hanzi_simp": "\u9507",
+        "hanzi_trad": "\u92e8",
+        "etymology": "loanword",
+        "radicals": "\u6211\u91d1",
+        "radical_phon": "\u6211",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "our metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 77,
+        "name": "Iridium",
+        "symbol": "Ir",
+        "pinyin": "y\u012b",
+        "hanzi_simp": "\u94f1",
+        "hanzi_trad": "\u92a5",
+        "etymology": "loanword",
+        "radicals": "\u8863\u91d1",
+        "radical_phon": "\u8863",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "clothing metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 78,
+        "name": "Platinum",
+        "symbol": "Pt",
+        "pinyin": "b\u00f3",
+        "hanzi_simp": "\u94c2",
+        "hanzi_trad": "\u9251",
+        "etymology": "loanword",
+        "radicals": "\u767d\u91d1",
+        "radical_phon": "\u767d",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "white metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 79,
+        "name": "Gold",
+        "symbol": "Au",
+        "pinyin": "j\u012bn",
+        "hanzi_simp": "\u91d1",
+        "hanzi_trad": "\u91d1",
+        "etymology": "classic",
+        "radicals": "\u91d1",
+        "radical_phon": "\u91d1",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 80,
+        "name": "Mercury",
+        "symbol": "Hg",
+        "pinyin": "g\u01d2ng",
+        "hanzi_simp": "\u5de5",
+        "hanzi_trad": "\u6c5e",
+        "etymology": "classic",
+        "radicals": "\u5de5\u6c34",
+        "radical_phon": "\u5de5",
+        "radical_sem": "\u6c34",
+        "radical_meaning": "labor water",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 81,
+        "name": "Thallium",
+        "symbol": "Tl",
+        "pinyin": "t\u0101",
+        "hanzi_simp": "\u94ca",
+        "hanzi_trad": "\u9248",
+        "etymology": "loanword",
+        "radicals": "\u5b83\u91d1",
+        "radical_phon": "\u5b83",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "it metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 82,
+        "name": "Lead",
+        "symbol": "Pb",
+        "pinyin": "qi\u0101n",
+        "hanzi_simp": "\u94c5",
+        "hanzi_trad": "\u925b",
+        "etymology": "classic",
+        "radicals": "\u3563\u91d1",
+        "radical_phon": "\u3563",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "marsh metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 83,
+        "name": "Bismuth",
+        "symbol": "Bi",
+        "pinyin": "b\u00ec",
+        "hanzi_simp": "\u94cb",
+        "hanzi_trad": "\u924d",
+        "etymology": "loanword",
+        "radicals": "\u5fc5\u91d1",
+        "radical_phon": "\u5fc5",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "necessarily metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 84,
+        "name": "Polonium",
+        "symbol": "Po",
+        "pinyin": "p\u014d",
+        "hanzi_simp": "\u948b",
+        "hanzi_trad": "\u91d9",
+        "etymology": "loanword",
+        "radicals": "\u535c\u91d1",
+        "radical_phon": "\u535c",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 85,
+        "name": "Astatine",
+        "symbol": "At",
+        "pinyin": "\u00e0i",
+        "hanzi_simp": "\u7839",
+        "hanzi_trad": "\u7839",
+        "etymology": "loanword",
+        "radicals": "\u827e\u77f3",
+        "radical_phon": "\u827e",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "mugwort stone",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 86,
+        "name": "Radon",
+        "symbol": "Rn",
+        "pinyin": "d\u014dng",
+        "hanzi_simp": "\u6c21",
+        "hanzi_trad": "\u6c21",
+        "etymology": "loanword",
+        "radicals": "\u51ac\u6c14",
+        "radical_phon": "\u51ac",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "winter gas",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 87,
+        "name": "Francium",
+        "symbol": "Fr",
+        "pinyin": "f\u0101ng",
+        "hanzi_simp": "\u94ab",
+        "hanzi_trad": "\u9201",
+        "etymology": "loanword",
+        "radicals": "\u65b9\u91d1",
+        "radical_phon": "\u65b9",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "square metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 88,
+        "name": "Radium",
+        "symbol": "Ra",
+        "pinyin": "l\u00e9i",
+        "hanzi_simp": "\u956d",
+        "hanzi_trad": "\u9433",
+        "etymology": "loanword",
+        "radicals": "\u96f7\u91d1",
+        "radical_phon": "\u96f7",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "thunder metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 89,
+        "name": "Actinium",
+        "symbol": "Ac",
+        "pinyin": "\u0101",
+        "hanzi_simp": "\u9515",
+        "hanzi_trad": "\u9312",
+        "etymology": "loanword",
+        "radicals": "\u963f\u91d1",
+        "radical_phon": "\u963f",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "\u0101metal (name prefix)",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 90,
+        "name": "Thorium",
+        "symbol": "Th",
+        "pinyin": "t\u01d4",
+        "hanzi_simp": "\u948d",
+        "hanzi_trad": "\u91f7",
+        "etymology": "loanword",
+        "radicals": "\u571f\u91d1",
+        "radical_phon": "\u571f",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "earth metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 91,
+        "name": "Protactinium",
+        "symbol": "Pa",
+        "pinyin": "p\u00fa",
+        "hanzi_simp": "\u9564",
+        "hanzi_trad": "\u93f7",
+        "etymology": "loanword",
+        "radicals": "\u83d0\u91d1",
+        "radical_phon": "\u83d0",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "cumbersome metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 92,
+        "name": "Uranium",
+        "symbol": "U",
+        "pinyin": "y\u00f3u",
+        "hanzi_simp": "\u94c0",
+        "hanzi_trad": "\u923e",
+        "etymology": "loanword",
+        "radicals": "\u7531\u91d1",
+        "radical_phon": "\u7531",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "from metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 93,
+        "name": "Neptunium",
+        "symbol": "Np",
+        "pinyin": "n\u00e1",
+        "hanzi_simp": "\u954e",
+        "hanzi_trad": "\u93bf",
+        "etymology": "loanword",
+        "radicals": "\u62ff\u91d1",
+        "radical_phon": "\u62ff",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "seize metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 94,
+        "name": "Plutonium",
+        "symbol": "Pu",
+        "pinyin": "b\u00f9",
+        "hanzi_simp": "\u949a",
+        "hanzi_trad": "\u9208",
+        "etymology": "loanword",
+        "radicals": "\u4e0d\u91d1",
+        "radical_phon": "\u4e0d",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "not metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 95,
+        "name": "Americium",
+        "symbol": "Am",
+        "pinyin": "m\u00e9i",
+        "hanzi_simp": "\u9545",
+        "hanzi_trad": "\u9387",
+        "etymology": "loanword",
+        "radicals": "\u7709\u91d1",
+        "radical_phon": "\u7709",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "eyebrow metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 96,
+        "name": "Curium",
+        "symbol": "Cm",
+        "pinyin": "j\u00fa",
+        "hanzi_simp": "\u9514",
+        "hanzi_trad": "\u92e6",
+        "etymology": "loanword",
+        "radicals": "\u5c40\u91d1",
+        "radical_phon": "\u5c40",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "narrow metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 97,
+        "name": "Berkelium",
+        "symbol": "Bk",
+        "pinyin": "p\u00e9i",
+        "hanzi_simp": "\u952b",
+        "hanzi_trad": "\u9307",
+        "etymology": "loanword",
+        "radicals": "\u5485\u91d1",
+        "radical_phon": "\u5485",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 98,
+        "name": "Californium",
+        "symbol": "Cf",
+        "pinyin": "k\u0101i",
+        "hanzi_simp": "\u950e",
+        "hanzi_trad": "\u9426",
+        "etymology": "loanword",
+        "radicals": "\u958b\u91d1",
+        "radical_phon": "\u958b",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "open metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 99,
+        "name": "Einsteinium",
+        "symbol": "Es",
+        "pinyin": "\u0101i",
+        "hanzi_simp": "\u953f",
+        "hanzi_trad": "\u9384",
+        "etymology": "loanword",
+        "radicals": "\u54c0\u91d1",
+        "radical_phon": "\u54c0",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "grief metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 100,
+        "name": "Fermium",
+        "symbol": "Fm",
+        "pinyin": "f\u00e8i",
+        "hanzi_simp": "\u9544",
+        "hanzi_trad": "\u9428",
+        "etymology": "loanword",
+        "radicals": "\u8d39\u91d1",
+        "radical_phon": "\u8d39",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "expenditure metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 101,
+        "name": "Mendelevium",
+        "symbol": "Md",
+        "pinyin": "m\u00e9n",
+        "hanzi_simp": "\u9494",
+        "hanzi_trad": "\u9346",
+        "etymology": "loanword",
+        "radicals": "\u95e8\u91d1",
+        "radical_phon": "\u95e8",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "door metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 102,
+        "name": "Nobelium",
+        "symbol": "No",
+        "pinyin": "nu\u00f2",
+        "hanzi_simp": "\u9518",
+        "hanzi_trad": "\u9369",
+        "etymology": "loanword",
+        "radicals": "\u8bfa\u91d1",
+        "radical_phon": "\u8bfa",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "assent metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 103,
+        "name": "Lawrencium",
+        "symbol": "Lr",
+        "pinyin": "l\u00e1o",
+        "hanzi_simp": "\u94f9",
+        "hanzi_trad": "\u9412",
+        "etymology": "loanword",
+        "radicals": "\u52b3\u91d1",
+        "radical_phon": "\u52b3",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "toil metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 104,
+        "name": "Rutherfordium",
+        "symbol": "Rf",
+        "pinyin": "l\u00fa",
+        "hanzi_simp": "\ud872\udf3b",
+        "hanzi_trad": "\u946a",
+        "etymology": "loanword",
+        "radicals": "\u5362\u91d1",
+        "radical_phon": "\u5362",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "rice bowl metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 105,
+        "name": "Dubnium",
+        "symbol": "Db",
+        "pinyin": "d\u00f9",
+        "hanzi_simp": "\ud872\udf4a",
+        "hanzi_trad": "\ud862\uddc0",
+        "etymology": "loanword",
+        "radicals": "\u675c\u91d1",
+        "radical_phon": "\u675c",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "stop metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 106,
+        "name": "Seaborgium",
+        "symbol": "Sg",
+        "pinyin": "x\u01d0",
+        "hanzi_simp": "\ud872\udf73",
+        "hanzi_trad": "\ud862\udf4e",
+        "etymology": "loanword",
+        "radicals": "\u559c\u91d1",
+        "radical_phon": "\u559c",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "happy metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 107,
+        "name": "Bohrium",
+        "symbol": "Bh",
+        "pinyin": "b\u014d",
+        "hanzi_simp": "\ud872\udf5b",
+        "hanzi_trad": "\ud862\ude0f",
+        "etymology": "loanword",
+        "radicals": "\u6ce2\u91d1",
+        "radical_phon": "\u6ce2",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "wave metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 108,
+        "name": "Hassium",
+        "symbol": "Hs",
+        "pinyin": "h\u0113i",
+        "hanzi_simp": "\ud872\udf76",
+        "hanzi_trad": "\ud862\udf46",
+        "etymology": "loanword",
+        "radicals": "\u9ed1\u91d1",
+        "radical_phon": "\u9ed1",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "black metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 109,
+        "name": "Meitnerium",
+        "symbol": "Mt",
+        "pinyin": "m\u00e0i",
+        "hanzi_simp": "\u9fcf",
+        "hanzi_trad": "\u4951",
+        "etymology": "loanword",
+        "radicals": "\u9ea6\u91d1",
+        "radical_phon": "\u9ea6",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "wheat metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 110,
+        "name": "Darmstadtium",
+        "symbol": "Ds",
+        "pinyin": "d\u00e1",
+        "hanzi_simp": "\ud86d\udffc",
+        "hanzi_trad": "\u943d",
+        "etymology": "loanword",
+        "radicals": "\u8fbe\u91d1",
+        "radical_phon": "\u8fbe",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "eminent metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 111,
+        "name": "Roentgenium",
+        "symbol": "Rg",
+        "pinyin": "l\u00fan",
+        "hanzi_simp": "\ud872\udf2d",
+        "hanzi_trad": "\u9300",
+        "etymology": "loanword",
+        "radicals": "\u4f96\u91d1",
+        "radical_phon": "\u4f96",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "orderly metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 112,
+        "name": "Copernicium",
+        "symbol": "Cn",
+        "pinyin": "g\u0113",
+        "hanzi_simp": "\u9fd4",
+        "hanzi_trad": "\u93b6",
+        "etymology": "loanword",
+        "radicals": "\u54e5\u91d1",
+        "radical_phon": "\u54e5",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "older brother metal",
+        "notes": [
+            "Copernicus is transliterated as \u54e5\u767d\u5c3c (G\u0113b\u00e1in\u00ed)"
+        ]
+    },
+    {
+        "number": 113,
+        "name": "Nihonium",
+        "symbol": "Nh",
+        "pinyin": "n\u01d0",
+        "hanzi_simp": "\u9fed",
+        "hanzi_trad": "\u9268",
+        "etymology": "loanword",
+        "radicals": "\u4f60\u91d1",
+        "radical_phon": "\u4f60",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "thou metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 114,
+        "name": "Flerovium",
+        "symbol": "Fl",
+        "pinyin": "f\u016b",
+        "hanzi_simp": "\ud86d\udce7",
+        "hanzi_trad": "\u9207",
+        "etymology": "loanword",
+        "radicals": "\u592b\u91d1",
+        "radical_phon": "\u592b",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "husband metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 115,
+        "name": "Moscovium",
+        "symbol": "Mc",
+        "pinyin": "m\u00f2",
+        "hanzi_simp": "\u9546",
+        "hanzi_trad": "\u9546",
+        "etymology": "loanword",
+        "radicals": "\u83ab\u91d1",
+        "radical_phon": "\u83ab",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "don't metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 116,
+        "name": "Livermorium",
+        "symbol": "Lv",
+        "pinyin": "l\u00ec",
+        "hanzi_simp": "\ud86d\udff7",
+        "hanzi_trad": "\u925d",
+        "etymology": "loanword",
+        "radicals": "\u7acb\u91d1",
+        "radical_phon": "\u7acb",
+        "radical_sem": "\u91d1",
+        "radical_meaning": "erect metal",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 117,
+        "name": "Tennessine",
+        "symbol": "Ts",
+        "pinyin": "ti\u00e1n",
+        "hanzi_simp": "\u9fec",
+        "hanzi_trad": "\u9fec",
+        "etymology": "loanword",
+        "radicals": "\u7530\u77f3",
+        "radical_phon": "\u7530",
+        "radical_sem": "\u77f3",
+        "radical_meaning": "farm stone",
+        "notes": [
+            ""
+        ]
+    },
+    {
+        "number": 118,
+        "name": "Oganesson",
+        "symbol": "Og",
+        "pinyin": "\u00e0o",
+        "hanzi_simp": "\u9feb",
+        "hanzi_trad": "\u9feb",
+        "etymology": "loanword",
+        "radicals": "\u5965\u6c14",
+        "radical_phon": "\u5965",
+        "radical_sem": "\u6c14",
+        "radical_meaning": "mysterious gas",
+        "notes": [
+            ""
+        ]
+    }
+]
