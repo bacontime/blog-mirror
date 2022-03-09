@@ -157,7 +157,7 @@ for line in elementmd.split('\n')[2:]:
         radical_sound = pinyin.get_pinyin(element["radical_phon"], tone_marks='marks')
         element_sound = element["pinyin"]
         if element_sound == radical_sound:
-            element["etymology"] = f'Loanword. Homophonic with {element["radical_phon"]}, meaning {element["radical_meaning"]}'
+            element["etymology"] = f'Loanword. Homophonic with {element["radical_phon"]}, meaning {element["radical_meaning"]!r}.'
 
     element["notes"] = [data[9]]
 
@@ -171,11 +171,10 @@ for line in elementmd.split('\n')[2:]:
 
 
 #%% Same thing using a different library
-import xpinyin
 for element in elements:
     rphon =  element["radical_phon"]
     rpin =  element["pinyin"]
-    rphonpin = p.get_pinyin(rphon, tone_marks='marks')
+    rphonpin = pinyin.get_pinyin(rphon, tone_marks='marks')
     if rpin != rphonpin:
         print(element['symbol'],element['hanzi_simp'],rphon, rpin,rphonpin)
         if element['etymology'] == 'classic':
@@ -183,6 +182,24 @@ for element in elements:
 
 # Here are the results:
 results = '''
+P 磷 粦 lín lìn
+S 硫 荒 liú huāng
+Fe 铁 ? tiě ?
+Cu 铜 ? tóng ?
+Br 溴 臭 xiù chòu
+Ru 钌 了 liǎo le
+Ag 银 艮 yín gèn
+Cd 镉 鬲 gé lì
+Sn 锡 易 xī yì
+Sb 锑 悌 tī tì
+Gd 钆 轧 gá yà
+Tb 铽 忒 tè tuī
+Os 锇 我 é wǒ
+Pt 铂 白 bó bái
+Hg 汞 工 gǒng gōng
+Pb 铅 㕣 qiān yǎn
+Po 钋 卜 pō bǔ
+Bk 锫 咅 péi pòu
 '''
 
 # These ones are fine:
@@ -262,13 +279,8 @@ def element_to_dlistmd(e):
     else:
         hanzi = e['hanzi_simp'] + '/' + e['hanzi_trad']
 
-    etymology = e['etymology']
-    if e['etymology'] == 'loanword':
-        etymology = f"Shortened loanword. Sounds like {e['radical_phon']}, meaning {e['']}"
-
     print(f"{e['symbol']} ({e['name']}) = {hanzi} ({e['pinyin']})")
-    print(f": {etymology}")
-
+    print(f": {e['etymology']}")
     for note in e['notes']:
         if note:
             print(": "+note)
@@ -283,10 +295,10 @@ def element_to_ol(e):
 
     print(f"1. **{e['symbol']} ({e['name']}) = {hanzi} ({e['pinyin']})** -- {e['etymology']} {notes}")
 
-elements = []
+
 with open("hanzielements.json", "r", encoding='UTF-8') as f:
-    elements = json.load(f)
-for element in elements:
-    #print()
-    element_to_ol(element)
+    elementlist = json.load(f)
+for element in elementlist:
+    print()
+    element_to_dlistmd(element)
     
