@@ -37,7 +37,7 @@ elementmd = '''|     | name          | symbol | pinyin | simp | trad | rad  | li
 | 32  | Germanium     | Ge     | zhě    | 锗   | 鍺   | 者金 | person of metal              | loanword    |       |
 | 33  | Arsenic       | As     | shēn   | 砷   | 砷   | 申石 | explain metal                | loanword    |       |
 | 34  | Selenium      | Se     | xī     | 硒   | 硒   | 西石 | west metal                   | loanword    |       |
-| 35  | Bromine       | Br     | xiù    | 溴   | 溴   | 臭水 | stinky water                 | ideographic |       |
+| 35  | Bromine       | Br     | xiù    | 溴   | 溴   | 臭水 | odor water                 | ideographic |       |
 | 36  | Krypton       | Kr     | kè     | 氪   | 氪   | 克气 | conquering metal             | loanword    |       |
 | 37  | Rubidium      | Rb     | rú     | 铷   | 銣   | 如金 | like such as metal           | loanword    |       |
 | 38  | Strontium     | Sr     | sī     | 锶   | 鍶   | 思金 | ponder metal                 | loanword    |       |
@@ -46,7 +46,7 @@ elementmd = '''|     | name          | symbol | pinyin | simp | trad | rad  | li
 | 41  | Niobium       | Nb     | ní     | 铌   | 鈮   | 尼金 | nun metal                    | loanword    |       |
 | 42  | Molybdenum    | Mo     | mù     | 钼   | 鉬   | 目金 | eye metal                    | loanword    |       |
 | 43  | Technetium    | Tc     | dé     | 锝   | 鍀   | 得金 | get metal                    | loanword    |       |
-| 44  | Ruthenium     | Ru     | liǎo   | 钌   | 釕   | 了金 | past-tense metal             | loanword    |       |
+| 44  | Ruthenium     | Ru     | liǎo   | 钌   | 釕   | 了金 | finish metal             | loanword    |       |
 | 45  | Rhodium       | Rh     | lǎo    | 铑   | 銠   | 老金 | elderly metal                | loanword    |       |
 | 46  | Palladium     | Pd     | bǎ     | 钯   | 鈀   | 把金 | cling to metal               | loanword    |       |
 | 47  | Silver        | Ag     | yín    | 银   | 銀   | 艮金 |                              | classic     |       |
@@ -82,7 +82,7 @@ elementmd = '''|     | name          | symbol | pinyin | simp | trad | rad  | li
 | 77  | Iridium       | Ir     | yī     | 铱   | 銥   | 衣金 | clothing metal               | loanword    |       |
 | 78  | Platinum      | Pt     | bó     | 铂   | 鉑   | 白金 | white metal                  | loanword    |       |
 | 79  | Gold          | Au     | jīn    | 金   | 金   | 金   | metal                        | classic     |       |
-| 80  | Mercury       | Hg     | gǒng   | 工   | 汞   | 工水 | labor water                  | classic     |       |
+| 80  | Mercury       | Hg     | gǒng   | 汞   | 汞   | 工水 | labor water                  | classic     |       |
 | 81  | Thallium      | Tl     | tā     | 铊   | 鉈   | 它金 | it metal                     | loanword    |       |
 | 82  | Lead          | Pb     | qiān   | 铅   | 鉛   | 㕣金 | marsh metal                  | classic     |       |
 | 83  | Bismuth       | Bi     | bì     | 铋   | 鉍   | 必金 | necessarily metal            | loanword    |       |
@@ -124,6 +124,7 @@ elementmd = '''|     | name          | symbol | pinyin | simp | trad | rad  | li
 
 
 # parse markdown table
+
 elements = []
 
 for line in elementmd.split('\n')[2:]:
@@ -142,8 +143,13 @@ for line in elementmd.split('\n')[2:]:
     element["radicals"] = radicals
     element["radical_phon"] = radicals[0]
     element["radical_sem"] = radicals[-1]
-    element["radical_pinyin"] = radicals[-1]
-    element["radical_meaning"] = data[7]
+    element["radical_pinyin"] = ""
+
+    literal_meaning = data[7]
+    literal_meaning = literal_meaning.replace('metal','')
+    literal_meaning = literal_meaning.replace('gas','')
+    literal_meaning = literal_meaning.replace('stone','')
+    element["radical_meaning"] = literal_meaning.strip()
 
     element["notes"] = [data[9]]
 
@@ -151,6 +157,79 @@ for line in elementmd.split('\n')[2:]:
     elements.append(element)
 
 #"Copernicus" is transliterated as "哥白尼"
+
+
+
+
+#%% Same thing using a different library
+import xpinyin
+p = xpinyin.Pinyin()
+for element in elements:
+    rphon =  element["radical_phon"]
+    rpin =  element["pinyin"]
+    rphonpin = p.get_pinyin(rphon, tone_marks='marks')
+    if rpin != rphonpin:
+        print(element['symbol'],element['hanzi_simp'],rphon, rpin,rphonpin)
+        if element['etymology'] == 'classic':
+            print(element['symbol'])
+
+# Here are the results:
+results = '''
+'''
+
+# These ones are fine:
+r1 = '''
+Ru 钌 了 liǎo le (mult pronunc)
+P 磷 粦 lín lìn (xpinyin is wrong?)
+Br 溴 臭 xiù chòu (mult pronunc)
+Cd 镉 鬲 gé lì (mult pronunc)
+Gd 钆 轧 gá yà (mult pronunc)
+Tb 铽 忒 tè tuī (xpinyin is wrong?)
+
+'''
+
+
+# these ones are classic character
+r2 = '''
+S 硫 荒 liú huāng (mistake on my part, should be 旒)
+Fe 铁 ? tiě ?
+Cu 铜 ? tóng ?
+Ag 银 艮 yín gèn
+Pt 铂 白 bó bái (though platinum called 白金 báijīn as slang. yiru says is bou jin. dutch witgoud or platina)
+Pb 铅 㕣 qiān yǎn (铅 only pronuc yan when used as proper noun)
+Hg 汞 工 gǒng gōng
+'''
+
+# these ones are unexplained
+r3 = '''
+Sn 锡 易 xī yì
+Sb 锑 悌 tī tì (genuinely just a different pronunciation)
+Os 锇 我 é wǒ (originally 鐚惡è evil; 俄 is é, sudden/russian; 
+    我 weapon ě; 哦 chanting é; 鹅 goose é, zh wiki cites goose 音同“鹅”)
+Po 钋 卜 pō bǔ (???)
+Bk 锫 咅 péi pòu (possibly from 培 or 赔)
+'''
+
+
+#%%
+for element in elements:
+    rphon =  element["radical_phon"]
+    rpin =  element["pinyin"]
+    rphonpin = p.get_pinyins(rphon, tone_marks='marks')
+    if len(rphonpin) > 1:
+        print(element['symbol'],element['hanzi_simp'],rphon, rpin,rphonpin)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 # %% Export the results to a json file for safe keeping.
@@ -170,12 +249,14 @@ with open("hanzielements_generated.json", "w", encoding='UTF-8') as outfile:
 
 
 def element_to_dlistmd(e):
-    if e['hanzi_simp'] == e['hanzi_simp']:
+    if e['hanzi_simp'] == e['hanzi_trad']:
         hanzi = e['hanzi_simp']
     else:
         hanzi = e['hanzi_simp'] + '/' + e['hanzi_trad']
 
     etymology = e['etymology']
+    if e['etymology'] == 'loanword':
+        etymology = f"Shortened loanword. Sounds like {e['radical_phon']}, meaning {e['']}"
 
     print(f"{e['symbol']} ({e['name']}) = {hanzi} ({e['pinyin']})")
     print(f": {etymology}")
