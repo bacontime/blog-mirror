@@ -84,9 +84,9 @@
         "radical_pinyin": "",
         "radical_meaning": "friends",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term. Homophonic with 朋, meaning 'friend'.",
         "notes": [
-            ""
+            "Originally used to mean borax, 硼砂 (péngshā)."
         ]
     },
     {
@@ -102,7 +102,7 @@
         "radical_pinyin": "",
         "radical_meaning": "coal",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term. Modified version of 炭 (tàn), meaning coal.",
         "notes": [
             ""
         ]
@@ -120,9 +120,11 @@
         "radical_pinyin": "",
         "radical_meaning": "diluting",
         "etymology_type": "ideographic",
-        "etymology": "",
+        "etymology": "Modern term. Homophonic with 淡, meaning 'bland' or 'dilute'.",
         "notes": [
-            ""
+            "Short for 淡气 (dànqì).",
+            "淡 is composed of one 氵water radical  and two 火 fire radicals. Confusingly, the character for nitrogen drops the water radical, making '氮' appear to be composed of '炎气' (yánqì), where 炎 means 'blazing hot' or 'inflammation', neither of which makes sense to describe nitrogen.",
+            "Another early translation of nitrogen was 硝气 (xiāoqì), where 硝 means 'niter'."
         ]
     },
     {
@@ -138,9 +140,10 @@
         "radical_pinyin": "",
         "radical_meaning": "life-nurturing",
         "etymology_type": "ideographic",
-        "etymology": "",
+        "etymology": "Modern term. Homophonic with 养, meaning 'life-nurturing'.",
         "notes": [
-            ""
+            "Short for 养气 (yǎngqì). The phrase '养气' is still in use nowadays, but typically in a more spiritual sense; 气 (qì) can also refer to the traditional notion of life energy, and so 养气 is basically self-care.",
+            "The character 氧 actually contains '羊' (yáng), meaning 'goat'. This substitution is easier to write, and works on multiple levels. 羊 and 养 look similar, they're pronounced similarly, and goats 羊 happen to be an example of the lifeforms which are nourished 养 by oxygen."
         ]
     },
     {
@@ -245,10 +248,10 @@
         "radical_sem": "\u77f3",
         "radical_pinyin": "",
         "radical_meaning": "special jade",
-        "etymology_type": "pscompound",
-        "etymology": "Loanword. Homophonic with \u572d, meaning 'special jade'.",
+        "etymology_type": "ideographic",
+        "etymology": "",
         "notes": [
-            ""
+            "Other early attempts to translate 'silicon' included: 玻精 (bōjīng), meaning 'glass essence'; 矽 (xī), homophone of 夕, meaning 'dusk' and the very silly full transliteration '夕里西恩 (xīlǐxīēn)'."
         ]
     },
     {
@@ -2064,7 +2067,7 @@
         "radical_pinyin": "",
         "radical_meaning": "don't",
         "etymology_type": "pscompound",
-        "etymology": "Loanword. Homophonic with \u83ab, meaning \"don't\".",
+        "etymology": "Loanword. Homophonic with \u83ab, meaning 'do not'.",
         "notes": [
             ""
         ]
