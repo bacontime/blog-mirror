@@ -1133,6 +1133,129 @@ But remember that these typically aren't the actual etymology of these words; th
 
 ### In numbered list form 
 
+1. *H (Hydrogen) = 氢 (qīng)* -- ideographic "轻" decomposes to "车𢀖". "车" means cart. By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
+2. **H (Hydrogen) = 氢 (qīng)**
+   - ideographic
+   - "轻" decomposes to "车𢀖". "车" means cart. 
+   - By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
+3. 1. **He (Helium) = 氦 (hài)** -- loanword 
+4. **Li (Lithium) = 锂 (lǐ)** -- loanword 
+5. **Be (Beryllium) = 铍 (pí)** -- loanword 
+6. **B (Boron) = 硼 (péng)** -- classic 
+7. **C (Carbon) = 碳 (tàn)** -- classic 
+8. **N (Nitrogen) = 氮 (dàn)** -- ideographic 
+9.  **O (Oxygen) = 氧 (yǎng)** -- ideographic 
+10. **F (Fluorine) = 氟 (fú)** -- loanword 
+11. **Ne (Neon) = 氖 (nǎi)** -- loanword 
+12. **Na (Sodium) = 钠 (nà)** -- loanword 
+13. **Mg (Magnesium) = 镁 (měi)** -- loanword 
+14. **Al (Aluminium) = 铝 (lǚ)** -- loanword 
+15. **Si (Silicon) = 硅 (guī)** -- loanword 
+16. **P (Phosphorus) = 磷 (lín)** -- classic 
+17. **S (Sulfur) = 硫 (liú)** -- classic 
+18. **Cl (Chlorine) = 氯 (lǜ)** -- loanword 
+19. **Ar (Argon) = 氩 (yà)** -- loanword 
+20. **K (Potassium) = 钾 (jiǎ)** -- loanword 
+21. **Ca (Calcium) = 钙 (gài)** -- loanword 
+22. **Sc (Scandium) = 钪 (kàng)** -- loanword 
+23. **Ti (Titanium) = 钛 (tài)** -- loanword 
+24. **V (Vanadium) = 钒 (fán)** -- loanword 
+25. **Cr (Chromium) = 铬 (gè)** -- loanword 
+26. **Mn (Manganese) = 锰 (měng)** -- loanword 
+27. **Fe (Iron) = 铁 (tiě)** -- classic 
+28. **Co (Cobalt) = 钴 (gǔ)** -- loanword 
+29. **Ni (Nickel) = 镍 (niè)** -- loanword 
+30. **Cu (Copper) = 铜 (tóng)** -- classic 
+31. **Zn (Zinc) = 锌 (xīn)** -- loanword 
+32. **Ga (Gallium) = 镓 (jiā)** -- loanword 
+33. **Ge (Germanium) = 锗 (zhě)** -- loanword 
+34. **As (Arsenic) = 砷 (shēn)** -- loanword 
+35. **Se (Selenium) = 硒 (xī)** -- loanword 
+36. **Br (Bromine) = 溴 (xiù)** -- ideographic 
+37. **Kr (Krypton) = 氪 (kè)** -- loanword 
+38. **Rb (Rubidium) = 铷 (rú)** -- loanword 
+39. **Sr (Strontium) = 锶 (sī)** -- loanword 
+40. **Y (Yttrium) = 钇 (yǐ)** -- loanword 
+41. **Zr (Zirconium) = 锆 (gào)** -- loanword 
+42. **Nb (Niobium) = 铌 (ní)** -- loanword 
+43. **Mo (Molybdenum) = 钼 (mù)** -- loanword 
+44. **Tc (Technetium) = 锝 (dé)** -- loanword 
+45. **Ru (Ruthenium) = 钌 (liǎo)** -- loanword 
+46. **Rh (Rhodium) = 铑 (lǎo)** -- loanword 
+47. **Pd (Palladium) = 钯 (bǎ)** -- loanword 
+48. **Ag (Silver) = 银 (yín)** -- classic 
+49. **Cd (Cadmium) = 镉 (gé)** -- loanword 
+50. **In (Indium) = 铟 (yīn)** -- loanword 
+51. **Sn (Tin) = 锡 (xī)** -- classic 
+52. **Sb (Antimony) = 锑 (tī)** -- loanword 
+53. **Te (Tellurium) = 碲 (dì)** -- loanword 
+54. **I (Iodine) = 碘 (diǎn)** -- loanword 
+55. **Xe (Xenon) = 氙 (xiān)** -- loanword 
+56. **Cs (Cesium) = 铯 (sè)** -- loanword 
+57. **Ba (Barium) = 钡 (bèi)** -- loanword 
+58. **La (Lanthanum) = 镧 (lán)** -- loanword 
+59. **Ce (Cerium) = 铈 (shì)** -- loanword 
+60. **Pr (Praseodymium) = 镨 (pǔ)** -- loanword 
+61. **Nd (Neodymium) = 钕 (nǚ)** -- loanword 
+62. **Pm (Promethium) = 钷 (pǒ)** -- loanword 
+63. **Sm (Samarium) = 钐 (shān)** -- loanword 
+64. **Eu (Europium) = 铕 (yǒu)** -- loanword 
+65. **Gd (Gadolinium) = 钆 (gá)** -- loanword 
+66. **Tb (Terbium) = 铽 (tè)** -- loanword 
+67. **Dy (Dysprosium) = 镝 (dī)** -- loanword 
+68. **Ho (Holmium) = 钬 (huǒ)** -- loanword 
+69. **Er (Erbium) = 铒 (ěr)** -- loanword 
+70. **Tm (Thulium) = 铥 (diū)** -- loanword 
+71. **Yb (Ytterbium) = 镱 (yì)** -- loanword 
+72. **Lu (Lutetium) = 镥 (lǔ)** -- loanword 
+73. **Hf (Hafnium) = 铪 (hā)** -- loanword 
+74. **Ta (Tantalum) = 钽 (tǎn)** -- loanword 
+75. **W (Tungsten) = 钨 (wū)** -- loanword 
+76. **Re (Rhenium) = 铼 (lái)** -- loanword 
+77. **Os (Osmium) = 锇 (é)** -- loanword 
+78. **Ir (Iridium) = 铱 (yī)** -- loanword 
+79. **Pt (Platinum) = 铂 (bó)** -- loanword 
+80. **Au (Gold) = 金 (jīn)** -- classic 
+81. **Hg (Mercury) = 工 (gǒng)** -- classic 
+82. **Tl (Thallium) = 铊 (tā)** -- loanword 
+83. **Pb (Lead) = 铅 (qiān)** -- classic 
+84. **Bi (Bismuth) = 铋 (bì)** -- loanword 
+85. **Po (Polonium) = 钋 (pō)** -- loanword 
+86. **At (Astatine) = 砹 (ài)** -- loanword 
+87. **Rn (Radon) = 氡 (dōng)** -- loanword 
+88. **Fr (Francium) = 钫 (fāng)** -- loanword 
+89. **Ra (Radium) = 镭 (léi)** -- loanword 
+90. **Ac (Actinium) = 锕 (ā)** -- loanword 
+91. **Th (Thorium) = 钍 (tǔ)** -- loanword 
+92. **Pa (Protactinium) = 镤 (pú)** -- loanword 
+93. **U (Uranium) = 铀 (yóu)** -- loanword 
+94. **Np (Neptunium) = 镎 (ná)** -- loanword 
+95. **Pu (Plutonium) = 钚 (bù)** -- loanword 
+96. **Am (Americium) = 镅 (méi)** -- loanword 
+97. **Cm (Curium) = 锔 (jú)** -- loanword 
+98. **Bk (Berkelium) = 锫 (péi)** -- loanword 
+99.  **Cf (Californium) = 锎 (kāi)** -- loanword 
+100. **Es (Einsteinium) = 锿 (āi)** -- loanword 
+101. **Fm (Fermium) = 镄 (fèi)** -- loanword 
+102. **Md (Mendelevium) = 钔 (mén)** -- loanword 
+103. **No (Nobelium) = 锘 (nuò)** -- loanword 
+104. **Lr (Lawrencium) = 铹 (láo)** -- loanword 
+105. **Rf (Rutherfordium) = 𬬻 (lú)** -- loanword 
+106. **Db (Dubnium) = 𬭊 (dù)** -- loanword 
+107. **Sg (Seaborgium) = 𬭳 (xǐ)** -- loanword 
+108. **Bh (Bohrium) = 𬭛 (bō)** -- loanword 
+109. **Hs (Hassium) = 𬭶 (hēi)** -- loanword 
+110. **Mt (Meitnerium) = 鿏 (mài)** -- loanword 
+111. **Ds (Darmstadtium) = 𫟼 (dá)** -- loanword 
+112. **Rg (Roentgenium) = 𬬭 (lún)** -- loanword 
+113. **Cn (Copernicium) = 鿔 (gē)** -- loanword Copernicus is transliterated as 哥白尼 (Gēbáiní)
+114. **Nh (Nihonium) = 鿭 (nǐ)** -- loanword 
+115. **Fl (Flerovium) = 𫓧 (fū)** -- loanword 
+116. **Mc (Moscovium) = 镆 (mò)** -- loanword 
+117. **Lv (Livermorium) = 𫟷 (lì)** -- loanword 
+118. **Ts (Tennessine) = 鿬 (tián)** -- loanword 
+119. **Og (Oganesson) = 鿫 (ào)** -- loanword 
+
 
 
 
@@ -1144,6 +1267,364 @@ H (Hydrogen) = 氢 (qīng)
 : "轻" decomposes to "车𢀖". "车" means cart. By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
 He (Helium) = 氦 (hài)
 
+
+
+H (Hydrogen) = 氢 (qīng)
+: Short for 轻气 (qīngqì), meaning "lightweight gas". 
+: "轻" decomposes to "车𢀖". "车" means cart. By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
+He (Helium) = 氦 (hài)
+
+He (Helium) = 氦 (hài)
+: loanword
+
+Li (Lithium) = 锂 (lǐ)
+: loanword
+
+Be (Beryllium) = 铍 (pí)
+: loanword
+
+B (Boron) = 硼 (péng)
+: classic
+
+C (Carbon) = 碳 (tàn)
+: classic
+
+N (Nitrogen) = 氮 (dàn)
+: ideographic
+
+O (Oxygen) = 氧 (yǎng)
+: ideographic
+
+F (Fluorine) = 氟 (fú)
+: loanword
+
+Ne (Neon) = 氖 (nǎi)
+: loanword
+
+Na (Sodium) = 钠 (nà)
+: loanword
+
+Mg (Magnesium) = 镁 (měi)
+: loanword
+
+Al (Aluminium) = 铝 (lǚ)
+: loanword
+
+Si (Silicon) = 硅 (guī)
+: loanword
+
+P (Phosphorus) = 磷 (lín)
+: classic
+
+S (Sulfur) = 硫 (liú)
+: classic
+
+Cl (Chlorine) = 氯 (lǜ)
+: loanword
+
+Ar (Argon) = 氩 (yà)
+: loanword
+
+K (Potassium) = 钾 (jiǎ)
+: loanword
+
+Ca (Calcium) = 钙 (gài)
+: loanword
+
+Sc (Scandium) = 钪 (kàng)
+: loanword
+
+Ti (Titanium) = 钛 (tài)
+: loanword
+
+V (Vanadium) = 钒 (fán)
+: loanword
+
+Cr (Chromium) = 铬 (gè)
+: loanword
+
+Mn (Manganese) = 锰 (měng)
+: loanword
+
+Fe (Iron) = 铁 (tiě)
+: classic
+
+Co (Cobalt) = 钴 (gǔ)
+: loanword
+
+Ni (Nickel) = 镍 (niè)
+: loanword
+
+Cu (Copper) = 铜 (tóng)
+: classic
+
+Zn (Zinc) = 锌 (xīn)
+: loanword
+
+Ga (Gallium) = 镓 (jiā)
+: loanword
+
+Ge (Germanium) = 锗 (zhě)
+: loanword
+
+As (Arsenic) = 砷 (shēn)
+: loanword
+
+Se (Selenium) = 硒 (xī)
+: loanword
+
+Br (Bromine) = 溴 (xiù)
+: ideographic
+
+Kr (Krypton) = 氪 (kè)
+: loanword
+
+Rb (Rubidium) = 铷 (rú)
+: loanword
+
+Sr (Strontium) = 锶 (sī)
+: loanword
+
+Y (Yttrium) = 钇 (yǐ)
+: loanword
+
+Zr (Zirconium) = 锆 (gào)
+: loanword
+
+Nb (Niobium) = 铌 (ní)
+: loanword
+
+Mo (Molybdenum) = 钼 (mù)
+: loanword
+
+Tc (Technetium) = 锝 (dé)
+: loanword
+
+Ru (Ruthenium) = 钌 (liǎo)
+: loanword
+
+Rh (Rhodium) = 铑 (lǎo)
+: loanword
+
+Pd (Palladium) = 钯 (bǎ)
+: loanword
+
+Ag (Silver) = 银 (yín)
+: classic
+
+Cd (Cadmium) = 镉 (gé)
+: loanword
+
+In (Indium) = 铟 (yīn)
+: loanword
+
+Sn (Tin) = 锡 (xī)
+: classic
+
+Sb (Antimony) = 锑 (tī)
+: loanword
+
+Te (Tellurium) = 碲 (dì)
+: loanword
+
+I (Iodine) = 碘 (diǎn)
+: loanword
+
+Xe (Xenon) = 氙 (xiān)
+: loanword
+
+Cs (Cesium) = 铯 (sè)
+: loanword
+
+Ba (Barium) = 钡 (bèi)
+: loanword
+
+La (Lanthanum) = 镧 (lán)
+: loanword
+
+Ce (Cerium) = 铈 (shì)
+: loanword
+
+Pr (Praseodymium) = 镨 (pǔ)
+: loanword
+
+Nd (Neodymium) = 钕 (nǚ)
+: loanword
+
+Pm (Promethium) = 钷 (pǒ)
+: loanword
+
+Sm (Samarium) = 钐 (shān)
+: loanword
+
+Eu (Europium) = 铕 (yǒu)
+: loanword
+
+Gd (Gadolinium) = 钆 (gá)
+: loanword
+
+Tb (Terbium) = 铽 (tè)
+: loanword
+
+Dy (Dysprosium) = 镝 (dī)
+: loanword
+
+Ho (Holmium) = 钬 (huǒ)
+: loanword
+
+Er (Erbium) = 铒 (ěr)
+: loanword
+
+Tm (Thulium) = 铥 (diū)
+: loanword
+
+Yb (Ytterbium) = 镱 (yì)
+: loanword
+
+Lu (Lutetium) = 镥 (lǔ)
+: loanword
+
+Hf (Hafnium) = 铪 (hā)
+: loanword
+
+Ta (Tantalum) = 钽 (tǎn)
+: loanword
+
+W (Tungsten) = 钨 (wū)
+: loanword
+
+Re (Rhenium) = 铼 (lái)
+: loanword
+
+Os (Osmium) = 锇 (é)
+: loanword
+
+Ir (Iridium) = 铱 (yī)
+: loanword
+
+Pt (Platinum) = 铂 (bó)
+: loanword
+
+Au (Gold) = 金 (jīn)
+: classic
+
+Hg (Mercury) = 工 (gǒng)
+: classic
+
+Tl (Thallium) = 铊 (tā)
+: loanword
+
+Pb (Lead) = 铅 (qiān)
+: classic
+
+Bi (Bismuth) = 铋 (bì)
+: loanword
+
+Po (Polonium) = 钋 (pō)
+: loanword
+
+At (Astatine) = 砹 (ài)
+: loanword
+
+Rn (Radon) = 氡 (dōng)
+: loanword
+
+Fr (Francium) = 钫 (fāng)
+: loanword
+
+Ra (Radium) = 镭 (léi)
+: loanword
+
+Ac (Actinium) = 锕 (ā)
+: loanword
+
+Th (Thorium) = 钍 (tǔ)
+: loanword
+
+Pa (Protactinium) = 镤 (pú)
+: loanword
+
+U (Uranium) = 铀 (yóu)
+: loanword
+
+Np (Neptunium) = 镎 (ná)
+: loanword
+
+Pu (Plutonium) = 钚 (bù)
+: loanword
+
+Am (Americium) = 镅 (méi)
+: loanword
+
+Cm (Curium) = 锔 (jú)
+: loanword
+
+Bk (Berkelium) = 锫 (péi)
+: loanword
+
+Cf (Californium) = 锎 (kāi)
+: loanword
+
+Es (Einsteinium) = 锿 (āi)
+: loanword
+
+Fm (Fermium) = 镄 (fèi)
+: loanword
+
+Md (Mendelevium) = 钔 (mén)
+: loanword
+
+No (Nobelium) = 锘 (nuò)
+: loanword
+
+Lr (Lawrencium) = 铹 (láo)
+: loanword
+
+Rf (Rutherfordium) = 𬬻 (lú)
+: loanword
+
+Db (Dubnium) = 𬭊 (dù)
+: loanword
+
+Sg (Seaborgium) = 𬭳 (xǐ)
+: loanword
+
+Bh (Bohrium) = 𬭛 (bō)
+: loanword
+
+Hs (Hassium) = 𬭶 (hēi)
+: loanword
+
+Mt (Meitnerium) = 鿏 (mài)
+: loanword
+
+Ds (Darmstadtium) = 𫟼 (dá)
+: loanword
+
+Rg (Roentgenium) = 𬬭 (lún)
+: loanword
+
+Cn (Copernicium) = 鿔 (gē)
+: loanword
+: Copernicus is transliterated as 哥白尼 (Gēbáiní)
+
+Nh (Nihonium) = 鿭 (nǐ)
+: loanword
+
+Fl (Flerovium) = 𫓧 (fū)
+: loanword
+
+Mc (Moscovium) = 镆 (mò)
+: loanword
+
+Lv (Livermorium) = 𫟷 (lì)
+: loanword
+
+Ts (Tennessine) = 鿬 (tián)
+: loanword
+
+Og (Oganesson) = 鿫 (ào)
+: loanword
 
 
 

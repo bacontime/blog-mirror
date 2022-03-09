@@ -192,7 +192,7 @@ def element_to_ol(e):
 
     notes = ' '.join([note for note in e['notes'] if note])
 
-    print(f"1. *{e['symbol']} ({e['name']}) = {hanzi} ({e['pinyin']})* -- {e['etymology']} {notes}")
+    print(f"1. **{e['symbol']} ({e['name']}) = {hanzi} ({e['pinyin']})** -- {e['etymology']} {notes}")
 
 elements = []
 with open("hanzielements.json", "r", encoding='UTF-8') as f:
