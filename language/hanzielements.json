@@ -120,7 +120,6 @@
         "radical_pinyin": "",
         "radical_meaning": "diluting",
         "etymology_type": "ideographic",
-        "etymology": "",
         "etymology": "Modern term. Homophonic with 淡, meaning 'bland' or 'dilute'.",
         "notes": [
             "Short for 淡气 (dànqì).",
@@ -232,9 +231,10 @@
         "radical_pinyin": "",
         "radical_meaning": "Lu  (musical note/name)",
         "etymology_type": "pscompound",
-        "etymology": "Loanword. Homophonic with 吕, meaning 'Lu  (musical note/name)'.",
+        "etymology": "Loanword. Homophonic with 吕, meaning 'Lu' (it's a surname).",
         "notes": [
-            ""
+            "吕 can also refer to a musical note in a very old system of tones.",
+            "Other early translations include: 矾精 (fánjīng), meaning 'alum essence'; 钒 (fán), which could be interpreted as 'alum metal', but which is now used as the symbol for vanadium; and the transliteration 哀卢弥尼恩 (āilúmíníēn)."
         ]
     },
     {
@@ -252,7 +252,8 @@
         "etymology_type": "ideographic",
         "etymology": "Modern term. Homophonic with 圭, which refers to a special piece of jade.",
         "notes": [
-            "Other early attempts to translate 'silicon' included: 玻精 (bōjīng), meaning 'glass essence'; 矽 (xī), homophone of 夕, meaning 'dusk' and the very silly full transliteration '夕里西恩 (xīlǐxīēn)'."
+            "Other early attempts to translate 'silicon' included: 玻精 (bōjīng), meaning 'glass essence'; 矽 (xī), homophone of 夕, meaning 'dusk'; and the very silly full transliteration '夕里西恩 (xīlǐxīēn)'.",
+            "矽 is still used by some, but is homophonic with 硒, which means selenium."
         ]
     },
     {
@@ -268,9 +269,9 @@
         "radical_pinyin": "",
         "radical_meaning": "phosphorus",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term for phosphorus. Modified version of 燐 or 粦 (same pronunciation).",
         "notes": [
-            ""
+            "The origin of the character 粦 is likely related to the phenomenon of ghost flame, will-o'-the-wisp, which is sometimes produced when decaying organic matter releases phosphine gas."
         ]
     },
     {
@@ -280,15 +281,16 @@
         "pinyin": "liú",
         "hanzi_simp": "硫",
         "hanzi_trad": "硫",
-        "radicals": "荒石",
-        "radical_phon": "荒",
+        "radicals": "旒石",
+        "radical_phon": "旒",
         "radical_sem": "石",
         "radical_pinyin": "",
         "radical_meaning": "wasteland",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term for sulfur.",
         "notes": [
-            ""
+            "Homophonic with 旒, meaning 'tassel'.",
+            "㐬 itself can be interpreted as an alternate version of 荒 (huāng), meaning 'wasteland'."
         ]
     },
     {
@@ -303,10 +305,11 @@
         "radical_sem": "气",
         "radical_pinyin": "",
         "radical_meaning": "green",
-        "etymology_type": "pscompound",
-        "etymology": "Loanword. Homophonic with 绿, meaning 'green'.",
+        "etymology_type": "ideographic",
+        "etymology": "Modern term. Homophonic with 绿, meaning 'green'.",
         "notes": [
-            ""
+            "Short for 绿气 (lǜqì).",
+            "Same origin as 'chlorine', which comes from χλωρός, an ancient greek term for the color."
         ]
     },
     {
@@ -322,9 +325,9 @@
         "radical_pinyin": "",
         "radical_meaning": "next",
         "etymology_type": "pscompound",
-        "etymology": "Loanword. Homophonic with 亚, meaning 'next'.",
+        "etymology": "Loanword. Homophonic with 亚/亞, meaning 'next'.",
         "notes": [
-            ""
+            "亚 is also used as a symbol for the continent of Asia."
         ]
     },
     {
@@ -340,9 +343,11 @@
         "radical_pinyin": "",
         "radical_meaning": "shell",
         "etymology_type": "pscompound",
-        "etymology": "Loanword. Homophonic with 甲, meaning 'shell'.",
+        "etymology": "Loanword. Homophonic with 甲, meaning 'shell', among other things.",
         "notes": [
-            ""
+            "How does one get 'jiǎ' from 'potassium'? It's actually a transliteration from the latin name for the element, 'kalium'.",
+            "Okay then. How  does one get 'jiǎ' from 'kalium'? I couldn't find a definitive source, but I suspect the reason lies in the same dialect variations that led early translators to write 北京 as 'Peking' instead of  'Běijīng'.",
+            "Other early translations or potassium: 灰精 (huījīng), meaning 'ash essence'; or a full transliteration 卜对斯恩 (buduìsīēn)."
         ]
     },
     {
@@ -628,7 +633,7 @@
         "radical_pinyin": "",
         "radical_meaning": "odor water",
         "etymology_type": "ideographic",
-        "etymology": "",
+        "etymology": "Modern term. Homophonic with 臭, meaning 'smell'.",
         "notes": [
             ""
         ]
@@ -790,9 +795,9 @@
         "radical_pinyin": "",
         "radical_meaning": "finish",
         "etymology_type": "pscompound",
-        "etymology": "",
+        "etymology": "Loanword. Homophonic with 了, meaning 'finish'.",
         "notes": [
-            ""
+            "The character 钌 can also be used to mean 'hasp', though when used that way, the tone is different (liào)."
         ]
     },
     {
@@ -842,11 +847,11 @@
         "radical_phon": "艮",
         "radical_sem": "金",
         "radical_pinyin": "",
-        "radical_meaning": "",
+        "radical_meaning": "The mountain trigram, ☶.",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term for silver.",
         "notes": [
-            ""
+            "艮 (gèn) by itself refers to ☶, one of the eight trigrams."
         ]
     },
     {
@@ -862,7 +867,7 @@
         "radical_pinyin": "",
         "radical_meaning": "Ge  (name)",
         "etymology_type": "pscompound",
-        "etymology": "",
+        "etymology": "Loanword. Homophonic with 鬲, which is a name.",
         "notes": [
             ""
         ]
@@ -898,9 +903,9 @@
         "radical_pinyin": "",
         "radical_meaning": "",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term for tin.",
         "notes": [
-            ""
+            "By itself, 易 (yì) means 'change', as in the title of the ancient divination manual, the *Yi Jing*, the *Book of Changes.*."
         ]
     },
     {
