@@ -12,9 +12,10 @@
         "radical_pinyin": "",
         "radical_meaning": "lightweight",
         "etymology_type": "ideographic",
-        "etymology": "",
+        "etymology": "Modern term. Homophonic with 轻/輕, meaning 'lightweight'.",
         "notes": [
-            ""
+            "Short for 轻气/氢气 (qīngqì), lightweight gas.",
+            "Another early translation of hydrogen into Chinese was 水母气 (shuǐmǔqì), where 水 means 'water' and 母 means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but 水母 means 'jellyfish', so it's a rather awkward translation."
         ]
     },
     {
@@ -347,7 +348,7 @@
         "notes": [
             "How does one get 'jiǎ' from 'potassium'? It's actually a transliteration from the latin name for the element, 'kalium'.",
             "Okay then. How  does one get 'jiǎ' from 'kalium'? I couldn't find a definitive source, but I suspect the reason lies in the same dialect variations that led early translators to write 北京 as 'Peking' instead of  'Běijīng'.",
-            "Other early translations or potassium: 灰精 (huījīng), meaning 'ash essence'; or a full transliteration 卜对斯恩 (buduìsīēn)."
+            "Other early translations or potassium: 灰精 (huījīng), meaning 'ash essence'; or a full transliteration 卜对斯恩 (bǔduìsīēn)."
         ]
     },
     {
@@ -465,15 +466,15 @@
         "pinyin": "tiě",
         "hanzi_simp": "铁",
         "hanzi_trad": "鐵",
-        "radicals": "??",
-        "radical_phon": "?",
-        "radical_sem": "?",
+        "radicals": "失金",
+        "radical_phon": "失",
+        "radical_sem": "金",
         "radical_pinyin": "",
         "radical_meaning": "",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term for iron.",
         "notes": [
-            ""
+            "The traditional character has a radical resembling 戜 (dié), meaning 'scrape'. the simplified character has a radical resembling 失 (shī), meaning 'miss' or 'misplace'."
         ]
     },
     {
@@ -519,13 +520,13 @@
         "pinyin": "tóng",
         "hanzi_simp": "铜",
         "hanzi_trad": "銅",
-        "radicals": "??",
-        "radical_phon": "?",
-        "radical_sem": "?",
+        "radicals": "同金",
+        "radical_phon": "同",
+        "radical_sem": "金",
         "radical_pinyin": "",
         "radical_meaning": "",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term for copper. Homophonic with 同, meaning 'together'.",
         "notes": [
             ""
         ]
@@ -743,7 +744,7 @@
         "etymology_type": "pscompound",
         "etymology": "Loanword. Homophonic with 尼, meaning 'nun'.",
         "notes": [
-            ""
+            "Niobium is also known as 'columbium'. For this reason, niobium also has the obselete translations of 鈳 (kē) and 鎶(gē), the latter of which is now used for copernicium."
         ]
     },
     {
@@ -905,7 +906,7 @@
         "etymology_type": "classic",
         "etymology": "Classic term for tin.",
         "notes": [
-            "By itself, 易 (yì) means 'change', as in the title of the ancient divination manual, the *Yi Jing*, the *Book of Changes.*."
+            "By itself, 易 (yì) means 'change', as in the title of the ancient divination manual, the 易經 *Yi Jing*, the *Book of Changes.*."
         ]
     },
     {
@@ -921,9 +922,10 @@
         "radical_pinyin": "",
         "radical_meaning": "brotherly",
         "etymology_type": "pscompound",
-        "etymology": "",
+        "etymology": "Loanword. Sounds similar to 弟 (dì/tì), meaning 'little brother'/'brotherly respect'.",
         "notes": [
-            ""
+            "When pronounced tì, 弟 is short for 悌.",
+            "Some dictionaries online give tì as an alternate pronunciation for 锑, making it an exact homophone."
         ]
     },
     {
@@ -1153,11 +1155,11 @@
         "radical_phon": "轧",
         "radical_sem": "金",
         "radical_pinyin": "",
-        "radical_meaning": "squeeze",
+        "radical_meaning": "grind",
         "etymology_type": "pscompound",
-        "etymology": "",
+        "etymology": "Loanword. Homophonic with 轧, meaning 'grind' or 'squeeze together'.",
         "notes": [
-            ""
+            "The initial version of the character had the full 轧 as a radical instead of only 乚, but that was too complex."
         ]
     },
     {
@@ -1173,7 +1175,7 @@
         "radical_pinyin": "",
         "radical_meaning": "excessive",
         "etymology_type": "pscompound",
-        "etymology": "",
+        "etymology": "Loanword. Homophonic with 忒, meaning 'excessive'.",
         "notes": [
             ""
         ]
@@ -1368,12 +1370,14 @@
         "radicals": "我金",
         "radical_phon": "我",
         "radical_sem": "金",
-        "radical_pinyin": "",
+        "radical_pinyin": "wǒ jīn",
         "radical_meaning": "our",
         "etymology_type": "pscompound",
-        "etymology": "",
+        "etymology": "Loanword.",
         "notes": [
-            ""
+            "By itself, 我 (wǒ) is the first person pronoun.",
+            "锇 is homophonic with 鹅, meaning 'goose'. ",
+            "Other homophones with the same radical: 哦, which can be pronounced ó as an interjection or é to mean 'chant'; and 俄, meaning 'suddenly' or short for 俄罗斯 (Éluósī), meaning 'Russia'."
         ]
     },
     {
@@ -1406,10 +1410,11 @@
         "radical_sem": "金",
         "radical_pinyin": "",
         "radical_meaning": "white",
-        "etymology_type": "pscompound",
-        "etymology": "",
+        "etymology_type": "repurposed",
+        "etymology": "Repurposed character. 铂 used to mean gold foil. ",
         "notes": [
-            ""
+            "In every day language, platinum is colloquially called 白金/铂金  (báijīn/bójīn), literally meaning 'white gold' or 'white metal'.",
+            "Compare this to the etymology of 'platinum', which means 'little silver'. Similarly, the alchemical symbol for platinum was simply a combination of the symbols for gold and silver."
         ]
     },
     {
@@ -1425,9 +1430,9 @@
         "radical_pinyin": "",
         "radical_meaning": "",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term for gold, money, and metal in general. ",
         "notes": [
-            ""
+            "In very ancient times, it was a symbol for copper or its alloys."
         ]
     },
     {
@@ -1443,9 +1448,11 @@
         "radical_pinyin": "",
         "radical_meaning": "labor water",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term for mercury. Homophonic with 工, meaning 'labor'.",
         "notes": [
-            ""
+            "In everyday speech, mercury is more commonly called 水银 (shuǐyín), meaning 'water silver', akin to how it is called 'quicksilver' in English or 'hydrargyrum' in latin.",
+            "The *planet* Mercury is called 水星 (Shuǐxīng), 'water planet', and it feels likely to me that the convergent names are both in reference to the planet's speed.",
+            "Several interesting linguistic coincidences here."
         ]
     },
     {
@@ -1479,9 +1486,10 @@
         "radical_pinyin": "",
         "radical_meaning": "marsh",
         "etymology_type": "classic",
-        "etymology": "",
+        "etymology": "Classic term for lead.",
         "notes": [
-            ""
+            "By itself, 㕣 yǎn is an old term for a marshy valley.",
+            "The character 铅 can also be pronouced yán when used as a proper noun."
         ]
     },
     {
@@ -1514,10 +1522,11 @@
         "radical_sem": "金",
         "radical_pinyin": "",
         "radical_meaning": "",
-        "etymology_type": "pscompound",
-        "etymology": "",
+        "etymology_type": "???",
+        "etymology": "Loanword. I'm unsure of the etymology.",
         "notes": [
-            ""
+            "By itself, 卜 (bǔ) refers to divination. It is also used in 萝卜 (luóbo), meaning 'radish'. I had an inlaw call me 萝卜 as a nickname because it sounds similar to 'Robert'.",
+            "Although 卜 is pronounced differently, I'm guessing it was just a standard character used for transliterating the 'po' sound, at least among the people that came up with these element translations. 'Potassium' was initially transliterated as '卜对斯恩', for example. Looking at other transliterations, however, it seems more common to use 波 (bō), as in 波兰 (Bōlán), meaning Poland."
         ]
     },
     {
@@ -1746,12 +1755,13 @@
         "radicals": "咅金",
         "radical_phon": "咅",
         "radical_sem": "金",
-        "radical_pinyin": "",
-        "radical_meaning": "",
+        "radical_pinyin": "pǒu",
+        "radical_meaning": "an interjection like 'bah!'",
         "etymology_type": "pscompound",
-        "etymology": "",
+        "etymology": "Loanword. Homophonic with 赔, meaning 'idemnify' or 陪, meaning 'accompany'.",
         "notes": [
-            ""
+            "Berkely, the namesake of Berkelium is commonly transliterated as 伯克利 (Bókèlì).",
+            "The mainland uses 锫, but in Taiwan, it is more common to use 鉳 (běi), which is homophonic to 北, meaning 'north'."
         ]
     },
     {
