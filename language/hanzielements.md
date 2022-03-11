@@ -45,1710 +45,405 @@ But remember that these typically aren't the actual etymology of these words; th
 
 
 
-<style>
-    .phonosemantic {
-        background-color: rgb(98% 99.42% 100%);
-    }
-</style>
-
-<div class="table-wrapper"><table>
-  <thead>
-    <tr class="phonosemantic">
-      <th> </th>
-      <th>English</th>
-      <th> </th>
-      <th>Pinyin</th>
-      <th>汉字</th>
-      <th>Radicals</th>
-      <th>Literal</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr class="ideographic">
-      <td>1</td>
-      <td>Hydrogen</td>
-      <td>H</td>
-      <td>qīng</td>
-      <td>氢</td>
-      <td>轻气</td>
-      <td>Lightweight Gas <sup id="fnref:hydrogennote" role="doc-noteref"><a href="#fn:hydrogennote" class="footnote" rel="footnote">1</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>2</td>
-      <td>Helium</td>
-      <td>He</td>
-      <td>hài</td>
-      <td>氦</td>
-      <td>亥气</td>
-      <td>astrological pig gas</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>3</td>
-      <td>Lithium</td>
-      <td>Li</td>
-      <td>lǐ</td>
-      <td>锂</td>
-      <td>里金</td>
-      <td>village metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>4</td>
-      <td>Beryllium</td>
-      <td>Be</td>
-      <td>pí</td>
-      <td>铍</td>
-      <td>皮金</td>
-      <td>feather metal</td>
-    </tr>
-    <tr class="classical">
-      <td>5</td>
-      <td>Boron</td>
-      <td>B</td>
-      <td>péng</td>
-      <td>硼</td>
-      <td>朋石</td>
-      <td>friends stone   <sup id="fnref:ancientname" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="classical">
-      <td>6</td>
-      <td>Carbon</td>
-      <td>C</td>
-      <td>tàn</td>
-      <td>碳</td>
-      <td>炭石</td>
-      <td>coal stone  <sup id="fnref:ancientname:1" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="ideographic">
-      <td>7</td>
-      <td>Nitrogen</td>
-      <td>N</td>
-      <td>dàn</td>
-      <td>氮</td>
-      <td>淡气</td>
-      <td>diluting Gas  <sup id="fnref:nitrogennote" role="doc-noteref"><a href="#fn:nitrogennote" class="footnote" rel="footnote">3</a></sup></td>
-    </tr>
-    <tr class="ideographic">
-      <td>8</td>
-      <td>Oxygen</td>
-      <td>O</td>
-      <td>yǎng</td>
-      <td>氧</td>
-      <td>养气</td>
-      <td>life-nurturing gas<sup id="fnref:oxygennote" role="doc-noteref"><a href="#fn:oxygennote" class="footnote" rel="footnote">4</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>9</td>
-      <td>Fluorine</td>
-      <td>F</td>
-      <td>fú</td>
-      <td>氟</td>
-      <td>弗气</td>
-      <td>negative gas</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>10</td>
-      <td>Neon</td>
-      <td>Ne</td>
-      <td>nǎi</td>
-      <td>氖</td>
-      <td>乃气</td>
-      <td>indeed gas</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>11</td>
-      <td>Sodium</td>
-      <td>Na</td>
-      <td>nà</td>
-      <td>钠</td>
-      <td>纳金</td>
-      <td>offer metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>12</td>
-      <td>Magnesium</td>
-      <td>Mg</td>
-      <td>měi</td>
-      <td>镁</td>
-      <td>美金</td>
-      <td>beautiful metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>13</td>
-      <td>Aluminium</td>
-      <td>Al</td>
-      <td>lǚ</td>
-      <td>铝</td>
-      <td>吕金</td>
-      <td>Lu metal (musical note/name)</td>
-    </tr>
-    <tr class="ideographic">
-      <td>14</td>
-      <td>Silicon</td>
-      <td>Si</td>
-      <td>guī</td>
-      <td>硅</td>
-      <td>圭石</td>
-      <td>special jade stone</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>15</td>
-      <td>Phosphorus</td>
-      <td>P</td>
-      <td>lín</td>
-      <td>磷</td>
-      <td>粦石</td>
-      <td>phosphorus stone <sup id="fnref:ancientname:2" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>16</td>
-      <td>Sulfur</td>
-      <td>S</td>
-      <td>liú</td>
-      <td>硫</td>
-      <td>荒石</td>
-      <td>wasteland stone       <sup id="fnref:ancientname:3" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>17</td>
-      <td>Chlorine</td>
-      <td>Cl</td>
-      <td>lǜ</td>
-      <td>氯</td>
-      <td>绿气</td>
-      <td>green gas</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>18</td>
-      <td>Argon</td>
-      <td>Ar</td>
-      <td>yà</td>
-      <td>氩</td>
-      <td>亚气</td>
-      <td>next gas</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>19</td>
-      <td>Potassium</td>
-      <td>K</td>
-      <td>jiǎ</td>
-      <td>钾</td>
-      <td>甲金</td>
-      <td>shell metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>20</td>
-      <td>Calcium</td>
-      <td>Ca</td>
-      <td>gài</td>
-      <td>钙</td>
-      <td>丐金</td>
-      <td>beggar metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>21</td>
-      <td>Scandium</td>
-      <td>Sc</td>
-      <td>kàng</td>
-      <td>钪</td>
-      <td>亢金</td>
-      <td>proud metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>22</td>
-      <td>Titanium</td>
-      <td>Ti</td>
-      <td>tài</td>
-      <td>钛</td>
-      <td>太金</td>
-      <td>very big metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>23</td>
-      <td>Vanadium</td>
-      <td>V</td>
-      <td>fán</td>
-      <td>钒</td>
-      <td>凡金</td>
-      <td>mundane metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>24</td>
-      <td>Chromium</td>
-      <td>Cr</td>
-      <td>gè</td>
-      <td>铬</td>
-      <td>各金</td>
-      <td>each metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>25</td>
-      <td>Manganese</td>
-      <td>Mn</td>
-      <td>měng</td>
-      <td>锰</td>
-      <td>猛金</td>
-      <td>ferocious metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>26</td>
-      <td>Iron</td>
-      <td>Fe</td>
-      <td>tiě</td>
-      <td>铁</td>
-      <td> </td>
-      <td><sup id="fnref:ancientname:4" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>27</td>
-      <td>Cobalt</td>
-      <td>Co</td>
-      <td>gǔ</td>
-      <td>钴</td>
-      <td>古金</td>
-      <td>ancient metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>28</td>
-      <td>Nickel</td>
-      <td>Ni</td>
-      <td>niè</td>
-      <td>镍</td>
-      <td>臬金</td>
-      <td>benchmark metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>29</td>
-      <td>Copper</td>
-      <td>Cu</td>
-      <td>tóng</td>
-      <td>铜</td>
-      <td> </td>
-      <td><sup id="fnref:ancientname:5" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>30</td>
-      <td>Zinc</td>
-      <td>Zn</td>
-      <td>xīn</td>
-      <td>锌</td>
-      <td>辛金</td>
-      <td>acrid metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>31</td>
-      <td>Gallium</td>
-      <td>Ga</td>
-      <td>jiā</td>
-      <td>镓</td>
-      <td>家金</td>
-      <td>domestic metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>32</td>
-      <td>Germanium</td>
-      <td>Ge</td>
-      <td>zhě</td>
-      <td>锗</td>
-      <td>金者</td>
-      <td>person of metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>33</td>
-      <td>Arsenic</td>
-      <td>As</td>
-      <td>shēn</td>
-      <td>砷</td>
-      <td>申石</td>
-      <td>explain metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>34</td>
-      <td>Selenium</td>
-      <td>Se</td>
-      <td>xī</td>
-      <td>硒</td>
-      <td>西石</td>
-      <td>west metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>35</td>
-      <td>Bromine</td>
-      <td>Br</td>
-      <td>xiù</td>
-      <td>溴</td>
-      <td>臭水</td>
-      <td>stinky water (NOT PHONETIC)</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>36</td>
-      <td>Krypton</td>
-      <td>Kr</td>
-      <td>kè</td>
-      <td>氪</td>
-      <td>克气</td>
-      <td>conquering metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>37</td>
-      <td>Rubidium</td>
-      <td>Rb</td>
-      <td>rú</td>
-      <td>铷</td>
-      <td>如金</td>
-      <td>like such as metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>38</td>
-      <td>Strontium</td>
-      <td>Sr</td>
-      <td>sī</td>
-      <td>锶</td>
-      <td>思金</td>
-      <td>ponder metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>39</td>
-      <td>Yttrium</td>
-      <td>Y</td>
-      <td>yǐ</td>
-      <td>钇</td>
-      <td>乙金</td>
-      <td>2nd metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>40</td>
-      <td>Zirconium</td>
-      <td>Zr</td>
-      <td>gào</td>
-      <td>锆</td>
-      <td>告金</td>
-      <td>sue metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>41</td>
-      <td>Niobium</td>
-      <td>Nb</td>
-      <td>ní</td>
-      <td>铌</td>
-      <td>尼金</td>
-      <td>nun metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>42</td>
-      <td>Molybdenum</td>
-      <td>Mo</td>
-      <td>mù</td>
-      <td>钼</td>
-      <td>目金</td>
-      <td>eye metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>43</td>
-      <td>Technetium</td>
-      <td>Tc</td>
-      <td>dé</td>
-      <td>锝</td>
-      <td>得金</td>
-      <td>get metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>44</td>
-      <td>Ruthenium</td>
-      <td>Ru</td>
-      <td>liǎo</td>
-      <td>钌</td>
-      <td>了金</td>
-      <td>past-tense metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>45</td>
-      <td>Rhodium</td>
-      <td>Rh</td>
-      <td>lǎo</td>
-      <td>铑</td>
-      <td>老金</td>
-      <td>elderly metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>46</td>
-      <td>Palladium</td>
-      <td>Pd</td>
-      <td>bǎ</td>
-      <td>钯</td>
-      <td>把金</td>
-      <td>cling to metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>47</td>
-      <td>Silver</td>
-      <td>Ag</td>
-      <td>yín</td>
-      <td>银</td>
-      <td>艮金</td>
-      <td><sup id="fnref:ancientname:6" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>48</td>
-      <td>Cadmium</td>
-      <td>Cd</td>
-      <td>gé</td>
-      <td>镉</td>
-      <td>鬲金</td>
-      <td>Ge metal (name)</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>49</td>
-      <td>Indium</td>
-      <td>In</td>
-      <td>yīn</td>
-      <td>铟</td>
-      <td>因金</td>
-      <td>because of metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>50</td>
-      <td>Tin</td>
-      <td>Sn</td>
-      <td>xī</td>
-      <td>锡</td>
-      <td>易金</td>
-      <td><sup id="fnref:ancientname:7" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>51</td>
-      <td>Antimony</td>
-      <td>Sb</td>
-      <td>tī</td>
-      <td>锑</td>
-      <td>悌金</td>
-      <td>brotherly metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>52</td>
-      <td>Tellurium</td>
-      <td>Te</td>
-      <td>dì</td>
-      <td>碲</td>
-      <td>帝石</td>
-      <td>god emperor stone</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>53</td>
-      <td>Iodine</td>
-      <td>I</td>
-      <td>diǎn</td>
-      <td>碘</td>
-      <td>典石</td>
-      <td>classic stone</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>54</td>
-      <td>Xenon</td>
-      <td>Xe</td>
-      <td>xiān</td>
-      <td>氙</td>
-      <td>仙气</td>
-      <td>fairy gas</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>55</td>
-      <td>Cesium</td>
-      <td>Cs</td>
-      <td>sè</td>
-      <td>铯</td>
-      <td>色金</td>
-      <td>tint metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>56</td>
-      <td>Barium</td>
-      <td>Ba</td>
-      <td>bèi</td>
-      <td>钡</td>
-      <td>贝金</td>
-      <td>cowry metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>57</td>
-      <td>Lanthanum</td>
-      <td>La</td>
-      <td>lán</td>
-      <td>镧</td>
-      <td>阑金</td>
-      <td>railing metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>58</td>
-      <td>Cerium</td>
-      <td>Ce</td>
-      <td>shì</td>
-      <td>铈</td>
-      <td>市金</td>
-      <td>marketplace metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>59</td>
-      <td>Praseodymium</td>
-      <td>Pr</td>
-      <td>pǔ</td>
-      <td>镨</td>
-      <td>普金</td>
-      <td>universal metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>60</td>
-      <td>Neodymium</td>
-      <td>Nd</td>
-      <td>nǚ</td>
-      <td>钕</td>
-      <td>女金</td>
-      <td>female metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>61</td>
-      <td>Promethium</td>
-      <td>Pm</td>
-      <td>pǒ</td>
-      <td>钷</td>
-      <td>叵金</td>
-      <td>improbable metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>62</td>
-      <td>Samarium</td>
-      <td>Sm</td>
-      <td>shān</td>
-      <td>钐</td>
-      <td>彡金</td>
-      <td>hair metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>63</td>
-      <td>Europium</td>
-      <td>Eu</td>
-      <td>yǒu</td>
-      <td>铕</td>
-      <td>有金</td>
-      <td>have metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>64</td>
-      <td>Gadolinium</td>
-      <td>Gd</td>
-      <td>gá</td>
-      <td>钆</td>
-      <td>轧金</td>
-      <td>squeeze metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>65</td>
-      <td>Terbium</td>
-      <td>Tb</td>
-      <td>tè</td>
-      <td>铽</td>
-      <td>忒金</td>
-      <td>excessive metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>66</td>
-      <td>Dysprosium</td>
-      <td>Dy</td>
-      <td>dī</td>
-      <td>镝</td>
-      <td>滴金</td>
-      <td>drip metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>67</td>
-      <td>Holmium</td>
-      <td>Ho</td>
-      <td>huǒ</td>
-      <td>钬</td>
-      <td>火金</td>
-      <td>fire metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>68</td>
-      <td>Erbium</td>
-      <td>Er</td>
-      <td>ěr</td>
-      <td>铒</td>
-      <td>耳金</td>
-      <td>ear metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>69</td>
-      <td>Thulium</td>
-      <td>Tm</td>
-      <td>diū</td>
-      <td>铥</td>
-      <td>丢金</td>
-      <td>lost metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>70</td>
-      <td>Ytterbium</td>
-      <td>Yb</td>
-      <td>yì</td>
-      <td>镱</td>
-      <td>意金</td>
-      <td>intention metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>71</td>
-      <td>Lutetium</td>
-      <td>Lu</td>
-      <td>lǔ</td>
-      <td>镥</td>
-      <td>鲁金</td>
-      <td>vulgar metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>72</td>
-      <td>Hafnium</td>
-      <td>Hf</td>
-      <td>hā</td>
-      <td>铪</td>
-      <td> </td>
-      <td>ha! metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>73</td>
-      <td>Tantalum</td>
-      <td>Ta</td>
-      <td>tǎn</td>
-      <td>钽</td>
-      <td> </td>
-      <td> </td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>74</td>
-      <td>Tungsten</td>
-      <td>W</td>
-      <td>wū</td>
-      <td>钨</td>
-      <td>乌金</td>
-      <td>raven metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>75</td>
-      <td>Rhenium</td>
-      <td>Re</td>
-      <td>lái</td>
-      <td>铼</td>
-      <td>来金</td>
-      <td>incoming metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>76</td>
-      <td>Osmium</td>
-      <td>Os</td>
-      <td>é</td>
-      <td>锇</td>
-      <td>我金</td>
-      <td>our metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>77</td>
-      <td>Iridium</td>
-      <td>Ir</td>
-      <td>yī</td>
-      <td>铱</td>
-      <td>衣金</td>
-      <td>clothing metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>78</td>
-      <td>Platinum</td>
-      <td>Pt</td>
-      <td>bó</td>
-      <td>铂</td>
-      <td>白金</td>
-      <td>white metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>79</td>
-      <td>Gold</td>
-      <td>Au</td>
-      <td>jīn</td>
-      <td>金</td>
-      <td>金</td>
-      <td>metal <sup id="fnref:ancientname:8" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>80</td>
-      <td>Mercury</td>
-      <td>Hg</td>
-      <td>gǒng</td>
-      <td>工</td>
-      <td>工水</td>
-      <td>labor water <sup id="fnref:ancientname:9" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>81</td>
-      <td>Thallium</td>
-      <td>Tl</td>
-      <td>tā</td>
-      <td>铊</td>
-      <td>它金</td>
-      <td>it metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>82</td>
-      <td>Lead</td>
-      <td>Pb</td>
-      <td>qiān</td>
-      <td>铅</td>
-      <td>㕣金</td>
-      <td>marsh metal <sup id="fnref:ancientname:10" role="doc-noteref"><a href="#fn:ancientname" class="footnote" rel="footnote">2</a></sup></td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>83</td>
-      <td>Bismuth</td>
-      <td>Bi</td>
-      <td>bì</td>
-      <td>铋</td>
-      <td>必金</td>
-      <td>necessarily metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>84</td>
-      <td>Polonium</td>
-      <td>Po</td>
-      <td>pō</td>
-      <td>钋</td>
-      <td>卜金</td>
-      <td> </td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>85</td>
-      <td>Astatine</td>
-      <td>At</td>
-      <td>ài</td>
-      <td>砹</td>
-      <td>艾石</td>
-      <td>mugwort stone</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>86</td>
-      <td>Radon</td>
-      <td>Rn</td>
-      <td>dōng</td>
-      <td>氡</td>
-      <td>冬气</td>
-      <td>winter gas</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>87</td>
-      <td>Francium</td>
-      <td>Fr</td>
-      <td>fāng</td>
-      <td>钫</td>
-      <td>方金</td>
-      <td>square metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>88</td>
-      <td>Radium</td>
-      <td>Ra</td>
-      <td>léi</td>
-      <td>镭</td>
-      <td>雷金</td>
-      <td>thunder metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>89</td>
-      <td>Actinium</td>
-      <td>Ac</td>
-      <td>ā</td>
-      <td>锕</td>
-      <td>阿金</td>
-      <td>āmetal (name prefix)</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>90</td>
-      <td>Thorium</td>
-      <td>Th</td>
-      <td>tǔ</td>
-      <td>钍</td>
-      <td>土金</td>
-      <td>earth metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>91</td>
-      <td>Protactinium</td>
-      <td>Pa</td>
-      <td>pú</td>
-      <td>镤</td>
-      <td>菐金</td>
-      <td>cumbersome metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>92</td>
-      <td>Uranium</td>
-      <td>U</td>
-      <td>yóu</td>
-      <td>铀</td>
-      <td>由金</td>
-      <td>from metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>93</td>
-      <td>Neptunium</td>
-      <td>Np</td>
-      <td>ná</td>
-      <td>镎</td>
-      <td>拿金</td>
-      <td>seize metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>94</td>
-      <td>Plutonium</td>
-      <td>Pu</td>
-      <td>bù</td>
-      <td>钚</td>
-      <td>不金</td>
-      <td>not metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>95</td>
-      <td>Americium</td>
-      <td>Am</td>
-      <td>méi</td>
-      <td>镅</td>
-      <td>眉金</td>
-      <td>eyebrow metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>96</td>
-      <td>Curium</td>
-      <td>Cm</td>
-      <td>jú</td>
-      <td>锔</td>
-      <td>局金</td>
-      <td>narrow metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>97</td>
-      <td>Berkelium</td>
-      <td>Bk</td>
-      <td>péi</td>
-      <td>锫</td>
-      <td>咅金</td>
-      <td> </td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>98</td>
-      <td>Californium</td>
-      <td>Cf</td>
-      <td>kāi</td>
-      <td>锎</td>
-      <td>開金</td>
-      <td>open metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>99</td>
-      <td>Einsteinium</td>
-      <td>Es</td>
-      <td>āi</td>
-      <td>锿</td>
-      <td>哀金</td>
-      <td>grief metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>100</td>
-      <td>Fermium</td>
-      <td>Fm</td>
-      <td>fèi</td>
-      <td>镄</td>
-      <td>费金</td>
-      <td>expenditure metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>101</td>
-      <td>Mendelevium</td>
-      <td>Md</td>
-      <td>mén</td>
-      <td>钔</td>
-      <td>门金</td>
-      <td>door metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>102</td>
-      <td>Nobelium</td>
-      <td>No</td>
-      <td>nuò</td>
-      <td>锘</td>
-      <td>诺金</td>
-      <td>assent metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>103</td>
-      <td>Lawrencium</td>
-      <td>Lr</td>
-      <td>láo</td>
-      <td>铹</td>
-      <td>劳金</td>
-      <td>toil metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>104</td>
-      <td>Rutherfordium</td>
-      <td>Rf</td>
-      <td>lú</td>
-      <td>𬬻</td>
-      <td>卢金</td>
-      <td>rice bowl metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>105</td>
-      <td>Dubnium</td>
-      <td>Db</td>
-      <td>dù</td>
-      <td>𨧀</td>
-      <td>杜金</td>
-      <td>stop metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>106</td>
-      <td>Seaborgium</td>
-      <td>Sg</td>
-      <td>xǐ</td>
-      <td>𨭎</td>
-      <td>喜金</td>
-      <td>happy metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>107</td>
-      <td>Bohrium</td>
-      <td>Bh</td>
-      <td>bō</td>
-      <td>𨨏</td>
-      <td>波金</td>
-      <td>wave metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>108</td>
-      <td>Hassium</td>
-      <td>Hs</td>
-      <td>hēi</td>
-      <td>𨭆</td>
-      <td>黑金</td>
-      <td>black metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>109</td>
-      <td>Meitnerium</td>
-      <td>Mt</td>
-      <td>mài</td>
-      <td>鿏</td>
-      <td>麦金</td>
-      <td>wheat metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>110</td>
-      <td>Darmstadtium</td>
-      <td>Ds</td>
-      <td>dá</td>
-      <td>𫟼</td>
-      <td>达金</td>
-      <td>eminent metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>111</td>
-      <td>Roentgenium</td>
-      <td>Rg</td>
-      <td>lún</td>
-      <td>錀</td>
-      <td>侖金</td>
-      <td>orderly metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>112</td>
-      <td>Copernicium</td>
-      <td>Cn</td>
-      <td>gē</td>
-      <td>鎶</td>
-      <td>哥金</td>
-      <td>older brother metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>113</td>
-      <td>Nihonium</td>
-      <td>Nh</td>
-      <td>nǐ</td>
-      <td>鉨</td>
-      <td>你金</td>
-      <td>thou metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>114</td>
-      <td>Flerovium</td>
-      <td>Fl</td>
-      <td>fū</td>
-      <td>𫓧</td>
-      <td>夫金</td>
-      <td>husband metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>115</td>
-      <td>Moscovium</td>
-      <td>Mc</td>
-      <td>mò</td>
-      <td>镆</td>
-      <td>莫金</td>
-      <td>don’t metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>116</td>
-      <td>Livermorium</td>
-      <td>Lv</td>
-      <td>lì</td>
-      <td>𫟷</td>
-      <td>立金</td>
-      <td>erect metal</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>117</td>
-      <td>Tennessine</td>
-      <td>Ts</td>
-      <td>tián</td>
-      <td>鿬</td>
-      <td>田石</td>
-      <td>farm stone</td>
-    </tr>
-    <tr class="phonosemantic">
-      <td>118</td>
-      <td>Oganesson</td>
-      <td>Og</td>
-      <td>ào</td>
-      <td>鿫</td>
-      <td>奥气</td>
-      <td>mysterious gas</td>
-    </tr>
-  </tbody>
-</table></div>
-
-
-
-### In numbered list form 
-
-1. *H (Hydrogen) = 氢 (qīng)* -- ideographic "轻" decomposes to "车𢀖". "车" means cart. By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
-2. **H (Hydrogen) = 氢 (qīng)**
-   - ideographic
-   - "轻" decomposes to "车𢀖". "车" means cart. 
-   - By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
-3. 1. **He (Helium) = 氦 (hài)** -- loanword 
-4. **Li (Lithium) = 锂 (lǐ)** -- loanword 
-5. **Be (Beryllium) = 铍 (pí)** -- loanword 
-6. **B (Boron) = 硼 (péng)** -- classic 
-7. **C (Carbon) = 碳 (tàn)** -- classic 
-8. **N (Nitrogen) = 氮 (dàn)** -- ideographic 
-9.  **O (Oxygen) = 氧 (yǎng)** -- ideographic 
-10. **F (Fluorine) = 氟 (fú)** -- loanword 
-11. **Ne (Neon) = 氖 (nǎi)** -- loanword 
-12. **Na (Sodium) = 钠 (nà)** -- loanword 
-13. **Mg (Magnesium) = 镁 (měi)** -- loanword 
-14. **Al (Aluminium) = 铝 (lǚ)** -- loanword 
-15. **Si (Silicon) = 硅 (guī)** -- loanword 
-16. **P (Phosphorus) = 磷 (lín)** -- classic 
-17. **S (Sulfur) = 硫 (liú)** -- classic 
-18. **Cl (Chlorine) = 氯 (lǜ)** -- loanword 
-19. **Ar (Argon) = 氩 (yà)** -- loanword 
-20. **K (Potassium) = 钾 (jiǎ)** -- loanword 
-21. **Ca (Calcium) = 钙 (gài)** -- loanword 
-22. **Sc (Scandium) = 钪 (kàng)** -- loanword 
-23. **Ti (Titanium) = 钛 (tài)** -- loanword 
-24. **V (Vanadium) = 钒 (fán)** -- loanword 
-25. **Cr (Chromium) = 铬 (gè)** -- loanword 
-26. **Mn (Manganese) = 锰 (měng)** -- loanword 
-27. **Fe (Iron) = 铁 (tiě)** -- classic 
-28. **Co (Cobalt) = 钴 (gǔ)** -- loanword 
-29. **Ni (Nickel) = 镍 (niè)** -- loanword 
-30. **Cu (Copper) = 铜 (tóng)** -- classic 
-31. **Zn (Zinc) = 锌 (xīn)** -- loanword 
-32. **Ga (Gallium) = 镓 (jiā)** -- loanword 
-33. **Ge (Germanium) = 锗 (zhě)** -- loanword 
-34. **As (Arsenic) = 砷 (shēn)** -- loanword 
-35. **Se (Selenium) = 硒 (xī)** -- loanword 
-36. **Br (Bromine) = 溴 (xiù)** -- ideographic 
-37. **Kr (Krypton) = 氪 (kè)** -- loanword 
-38. **Rb (Rubidium) = 铷 (rú)** -- loanword 
-39. **Sr (Strontium) = 锶 (sī)** -- loanword 
-40. **Y (Yttrium) = 钇 (yǐ)** -- loanword 
-41. **Zr (Zirconium) = 锆 (gào)** -- loanword 
-42. **Nb (Niobium) = 铌 (ní)** -- loanword 
-43. **Mo (Molybdenum) = 钼 (mù)** -- loanword 
-44. **Tc (Technetium) = 锝 (dé)** -- loanword 
-45. **Ru (Ruthenium) = 钌 (liǎo)** -- loanword 
-46. **Rh (Rhodium) = 铑 (lǎo)** -- loanword 
-47. **Pd (Palladium) = 钯 (bǎ)** -- loanword 
-48. **Ag (Silver) = 银 (yín)** -- classic 
-49. **Cd (Cadmium) = 镉 (gé)** -- loanword 
-50. **In (Indium) = 铟 (yīn)** -- loanword 
-51. **Sn (Tin) = 锡 (xī)** -- classic 
-52. **Sb (Antimony) = 锑 (tī)** -- loanword 
-53. **Te (Tellurium) = 碲 (dì)** -- loanword 
-54. **I (Iodine) = 碘 (diǎn)** -- loanword 
-55. **Xe (Xenon) = 氙 (xiān)** -- loanword 
-56. **Cs (Cesium) = 铯 (sè)** -- loanword 
-57. **Ba (Barium) = 钡 (bèi)** -- loanword 
-58. **La (Lanthanum) = 镧 (lán)** -- loanword 
-59. **Ce (Cerium) = 铈 (shì)** -- loanword 
-60. **Pr (Praseodymium) = 镨 (pǔ)** -- loanword 
-61. **Nd (Neodymium) = 钕 (nǚ)** -- loanword 
-62. **Pm (Promethium) = 钷 (pǒ)** -- loanword 
-63. **Sm (Samarium) = 钐 (shān)** -- loanword 
-64. **Eu (Europium) = 铕 (yǒu)** -- loanword 
-65. **Gd (Gadolinium) = 钆 (gá)** -- loanword 
-66. **Tb (Terbium) = 铽 (tè)** -- loanword 
-67. **Dy (Dysprosium) = 镝 (dī)** -- loanword 
-68. **Ho (Holmium) = 钬 (huǒ)** -- loanword 
-69. **Er (Erbium) = 铒 (ěr)** -- loanword 
-70. **Tm (Thulium) = 铥 (diū)** -- loanword 
-71. **Yb (Ytterbium) = 镱 (yì)** -- loanword 
-72. **Lu (Lutetium) = 镥 (lǔ)** -- loanword 
-73. **Hf (Hafnium) = 铪 (hā)** -- loanword 
-74. **Ta (Tantalum) = 钽 (tǎn)** -- loanword 
-75. **W (Tungsten) = 钨 (wū)** -- loanword 
-76. **Re (Rhenium) = 铼 (lái)** -- loanword 
-77. **Os (Osmium) = 锇 (é)** -- loanword 
-78. **Ir (Iridium) = 铱 (yī)** -- loanword 
-79. **Pt (Platinum) = 铂 (bó)** -- loanword 
-80. **Au (Gold) = 金 (jīn)** -- classic 
-81. **Hg (Mercury) = 工 (gǒng)** -- classic 
-82. **Tl (Thallium) = 铊 (tā)** -- loanword 
-83. **Pb (Lead) = 铅 (qiān)** -- classic 
-84. **Bi (Bismuth) = 铋 (bì)** -- loanword 
-85. **Po (Polonium) = 钋 (pō)** -- loanword 
-86. **At (Astatine) = 砹 (ài)** -- loanword 
-87. **Rn (Radon) = 氡 (dōng)** -- loanword 
-88. **Fr (Francium) = 钫 (fāng)** -- loanword 
-89. **Ra (Radium) = 镭 (léi)** -- loanword 
-90. **Ac (Actinium) = 锕 (ā)** -- loanword 
-91. **Th (Thorium) = 钍 (tǔ)** -- loanword 
-92. **Pa (Protactinium) = 镤 (pú)** -- loanword 
-93. **U (Uranium) = 铀 (yóu)** -- loanword 
-94. **Np (Neptunium) = 镎 (ná)** -- loanword 
-95. **Pu (Plutonium) = 钚 (bù)** -- loanword 
-96. **Am (Americium) = 镅 (méi)** -- loanword 
-97. **Cm (Curium) = 锔 (jú)** -- loanword 
-98. **Bk (Berkelium) = 锫 (péi)** -- loanword 
-99.  **Cf (Californium) = 锎 (kāi)** -- loanword 
-100. **Es (Einsteinium) = 锿 (āi)** -- loanword 
-101. **Fm (Fermium) = 镄 (fèi)** -- loanword 
-102. **Md (Mendelevium) = 钔 (mén)** -- loanword 
-103. **No (Nobelium) = 锘 (nuò)** -- loanword 
-104. **Lr (Lawrencium) = 铹 (láo)** -- loanword 
-105. **Rf (Rutherfordium) = 𬬻 (lú)** -- loanword 
-106. **Db (Dubnium) = 𬭊 (dù)** -- loanword 
-107. **Sg (Seaborgium) = 𬭳 (xǐ)** -- loanword 
-108. **Bh (Bohrium) = 𬭛 (bō)** -- loanword 
-109. **Hs (Hassium) = 𬭶 (hēi)** -- loanword 
-110. **Mt (Meitnerium) = 鿏 (mài)** -- loanword 
-111. **Ds (Darmstadtium) = 𫟼 (dá)** -- loanword 
-112. **Rg (Roentgenium) = 𬬭 (lún)** -- loanword 
-113. **Cn (Copernicium) = 鿔 (gē)** -- loanword Copernicus is transliterated as 哥白尼 (Gēbáiní)
-114. **Nh (Nihonium) = 鿭 (nǐ)** -- loanword 
-115. **Fl (Flerovium) = 𫓧 (fū)** -- loanword 
-116. **Mc (Moscovium) = 镆 (mò)** -- loanword 
-117. **Lv (Livermorium) = 𫟷 (lì)** -- loanword 
-118. **Ts (Tennessine) = 鿬 (tián)** -- loanword 
-119. **Og (Oganesson) = 鿫 (ào)** -- loanword 
-
-
-
-
-### In definition list form
-
-
-H (Hydrogen) = 氢 (qīng)
-: Short for 轻气 (qīngqì), meaning "lightweight gas". 
-: "轻" decomposes to "车𢀖". "车" means cart. By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
-He (Helium) = 氦 (hài)
-
-
-
-H (Hydrogen) = 氢 (qīng)
-: Short for 轻气 (qīngqì), meaning "lightweight gas". 
-: "轻" decomposes to "车𢀖". "车" means cart. By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
-He (Helium) = 氦 (hài)
+H (Hydrogen) = 氢/氫 (qīng)
+: Modern term. Homophonic with 轻/輕, meaning 'lightweight'.
+: Short for 轻气/氢气 (qīngqì), lightweight gas.
+: Another early translation of hydrogen into Chinese was 水母气 (shuǐmǔqì), where 水 means 'water' and 母 means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but 水母 means 'jellyfish', so it's a rather awkward translation.
 
 He (Helium) = 氦 (hài)
-: loanword
+: Loanword. Homophonic with 亥, meaning 'astrological pig'.
 
-Li (Lithium) = 锂 (lǐ)
-: loanword
+Li (Lithium) = 锂/鋰 (lǐ)
+: Loanword. Homophonic with 里, meaning 'village'.
 
-Be (Beryllium) = 铍 (pí)
-: loanword
+Be (Beryllium) = 铍/鈹 (pí)
+: Loanword. Homophonic with 皮, meaning 'feather'.
 
 B (Boron) = 硼 (péng)
-: classic
+: Classic term. Homophonic with 朋, meaning 'friend'.
+: Originally used to mean borax, 硼砂 (péngshā).
 
 C (Carbon) = 碳 (tàn)
-: classic
+: Classic term. Modified version of 炭 (tàn), meaning coal.
 
 N (Nitrogen) = 氮 (dàn)
-: ideographic
+: Modern term. Homophonic with 淡, meaning 'bland' or 'dilute'.
+: Short for 淡气 (dànqì).
+: 淡 is composed of one 氵water radical  and two 火 fire radicals. Confusingly, the character for nitrogen drops the water radical, making '氮' appear to be composed of '炎气' (yánqì), where 炎 means 'blazing hot' or 'inflammation', neither of which makes sense to describe nitrogen.
+: Another early translation of nitrogen was 硝气 (xiāoqì), where 硝 means 'niter'.
 
 O (Oxygen) = 氧 (yǎng)
-: ideographic
+: Modern term. Homophonic with 养, meaning 'life-nurturing'.
+: Short for 养气 (yǎngqì). The phrase '养气' is still in use nowadays, but typically in a more spiritual sense; 气 (qì) can also refer to the traditional notion of life energy, and so 养气 is basically self-care.
+: The character 氧 actually contains '羊' (yáng), meaning 'goat'. This substitution is easier to write, and works on multiple levels. 羊 and 养 look similar, they're pronounced similarly, and goats 羊 happen to be an example of the lifeforms which are nourished 养 by oxygen.
 
 F (Fluorine) = 氟 (fú)
-: loanword
+: Loanword. Homophonic with 弗, meaning 'negative'.
 
 Ne (Neon) = 氖 (nǎi)
-: loanword
+: Loanword. Homophonic with 乃, meaning 'indeed'.
 
-Na (Sodium) = 钠 (nà)
-: loanword
+Na (Sodium) = 钠/鈉 (nà)
+: Loanword. Homophonic with 纳, meaning 'offer'.
 
-Mg (Magnesium) = 镁 (měi)
-: loanword
+Mg (Magnesium) = 镁/鎂 (měi)
+: Loanword. Homophonic with 美, meaning 'beautiful'.
 
-Al (Aluminium) = 铝 (lǚ)
-: loanword
+Al (Aluminium) = 铝/鋁 (lǚ)
+: Loanword. Homophonic with 吕, meaning 'Lu' (it's a surname).
+: 吕 can also refer to a musical note in a very old system of tones.
+: Other early translations include: 矾精 (fánjīng), meaning 'alum essence'; 钒 (fán), which could be interpreted as 'alum metal', but which is now used as the symbol for vanadium; and the transliteration 哀卢弥尼恩 (āilúmíníēn).
 
 Si (Silicon) = 硅 (guī)
-: loanword
+: Modern term. Homophonic with 圭, which refers to a special piece of jade.
+: Other early attempts to translate 'silicon' included: 玻精 (bōjīng), meaning 'glass essence'; 矽 (xī), homophone of 夕, meaning 'dusk'; and the very silly full transliteration '夕里西恩 (xīlǐxīēn)'.
+: 矽 is still used by some, but is homophonic with 硒, which means selenium.
 
 P (Phosphorus) = 磷 (lín)
-: classic
+: Classic term for phosphorus. Modified version of 燐 or 粦 (same pronunciation).
+: The origin of the character 粦 is likely related to the phenomenon of ghost flame, will-o'-the-wisp, which is sometimes produced when decaying organic matter releases phosphine gas.
 
 S (Sulfur) = 硫 (liú)
-: classic
+: Classic term for sulfur.
+: Homophonic with 旒, meaning 'tassel'.
+: 㐬 itself can be interpreted as an alternate version of 荒 (huāng), meaning 'wasteland'.
 
 Cl (Chlorine) = 氯 (lǜ)
-: loanword
+: Modern term. Homophonic with 绿, meaning 'green'.
+: Short for 绿气 (lǜqì).
+: Same origin as 'chlorine', which comes from χλωρός, an ancient greek term for the color.
 
-Ar (Argon) = 氩 (yà)
-: loanword
+Ar (Argon) = 氩/氬 (yà)
+: Loanword. Homophonic with 亚/亞, meaning 'next'.
+: 亚 is also used as a symbol for the continent of Asia.
 
-K (Potassium) = 钾 (jiǎ)
-: loanword
+K (Potassium) = 钾/鉀 (jiǎ)
+: Loanword. Homophonic with 甲, meaning 'shell', among other things.
+: How does one get 'jiǎ' from 'potassium'? It's actually a transliteration from the latin name for the element, 'kalium'.
+: Okay then. How  does one get 'jiǎ' from 'kalium'? I couldn't find a definitive source, but I suspect the reason lies in the same dialect variations that led early translators to write 北京 as 'Peking' instead of  'Běijīng'.
+: Other early translations or potassium: 灰精 (huījīng), meaning 'ash essence'; or a full transliteration 卜对斯恩 (bǔduìsīēn).
 
-Ca (Calcium) = 钙 (gài)
-: loanword
+Ca (Calcium) = 钙/鈣 (gài)
+: Loanword. Homophonic with 丐, meaning 'beggar'.
 
-Sc (Scandium) = 钪 (kàng)
-: loanword
+Sc (Scandium) = 钪/鈧 (kàng)
+: Loanword. Homophonic with 亢, meaning 'proud'.
 
-Ti (Titanium) = 钛 (tài)
-: loanword
+Ti (Titanium) = 钛/鈦 (tài)
+: Loanword. Homophonic with 太, meaning 'very big'.
 
-V (Vanadium) = 钒 (fán)
-: loanword
+V (Vanadium) = 钒/釩 (fán)
+: Loanword. Homophonic with 凡, meaning 'mundane'.
 
-Cr (Chromium) = 铬 (gè)
-: loanword
+Cr (Chromium) = 铬/鉻 (gè)
+: Loanword. Homophonic with 各, meaning 'each'.
 
-Mn (Manganese) = 锰 (měng)
-: loanword
+Mn (Manganese) = 锰/錳 (měng)
+: Loanword. Homophonic with 猛, meaning 'ferocious'.
 
-Fe (Iron) = 铁 (tiě)
-: classic
+Fe (Iron) = 铁/鐵 (tiě)
+: Classic term for iron.
+: The traditional character has a radical resembling 戜 (dié), meaning 'scrape'. the simplified character has a radical resembling 失 (shī), meaning 'miss' or 'misplace'.
 
-Co (Cobalt) = 钴 (gǔ)
-: loanword
+Co (Cobalt) = 钴/鈷 (gǔ)
+: Loanword. Homophonic with 古, meaning 'ancient'.
 
-Ni (Nickel) = 镍 (niè)
-: loanword
+Ni (Nickel) = 镍/鎳 (niè)
+: Loanword. Homophonic with 臬, meaning 'benchmark'.
 
-Cu (Copper) = 铜 (tóng)
-: classic
+Cu (Copper) = 铜/銅 (tóng)
+: Classic term for copper. Homophonic with 同, meaning 'together'.
 
-Zn (Zinc) = 锌 (xīn)
-: loanword
+Zn (Zinc) = 锌/鋅 (xīn)
+: Loanword. Homophonic with 辛, meaning 'acrid'.
 
-Ga (Gallium) = 镓 (jiā)
-: loanword
+Ga (Gallium) = 镓/鎵 (jiā)
+: Loanword. Homophonic with 家, meaning 'domestic'.
 
-Ge (Germanium) = 锗 (zhě)
-: loanword
+Ge (Germanium) = 锗/鍺 (zhě)
+: Loanword. Homophonic with 者, meaning 'person of'.
 
 As (Arsenic) = 砷 (shēn)
-: loanword
+: Loanword. Homophonic with 申, meaning 'explain'.
 
 Se (Selenium) = 硒 (xī)
-: loanword
+: Loanword. Homophonic with 西, meaning 'west'.
 
 Br (Bromine) = 溴 (xiù)
-: ideographic
+: Modern term. Homophonic with 臭, meaning 'smell'.
 
 Kr (Krypton) = 氪 (kè)
-: loanword
+: Loanword. Homophonic with 克, meaning 'conquering'.
 
-Rb (Rubidium) = 铷 (rú)
-: loanword
+Rb (Rubidium) = 铷/銣 (rú)
+: Loanword. Homophonic with 如, meaning 'like such as'.
 
-Sr (Strontium) = 锶 (sī)
-: loanword
+Sr (Strontium) = 锶/鍶 (sī)
+: Loanword. Homophonic with 思, meaning 'ponder'.
 
-Y (Yttrium) = 钇 (yǐ)
-: loanword
+Y (Yttrium) = 钇/釔 (yǐ)
+: Loanword. Homophonic with 乙, meaning '2nd'.
 
-Zr (Zirconium) = 锆 (gào)
-: loanword
+Zr (Zirconium) = 锆/鋯 (gào)
+: Loanword. Homophonic with 告, meaning 'sue'.
 
-Nb (Niobium) = 铌 (ní)
-: loanword
+Nb (Niobium) = 铌/鈮 (ní)
+: Loanword. Homophonic with 尼, meaning 'nun'.
+: Niobium is also known as 'columbium'. For this reason, niobium also has the obselete translations of 鈳 (kē) and 鎶(gē), the latter of which is now used for copernicium.
 
-Mo (Molybdenum) = 钼 (mù)
-: loanword
+Mo (Molybdenum) = 钼/鉬 (mù)
+: Loanword. Homophonic with 目, meaning 'eye'.
 
-Tc (Technetium) = 锝 (dé)
-: loanword
+Tc (Technetium) = 锝/鍀 (dé)
+: Loanword. Homophonic with 得, meaning 'get'.
 
-Ru (Ruthenium) = 钌 (liǎo)
-: loanword
+Ru (Ruthenium) = 钌/釕 (liǎo)
+: Loanword. Homophonic with 了, meaning 'finish'.
+: The character 钌 can also be used to mean 'hasp', though when used that way, the tone is different (liào).
 
-Rh (Rhodium) = 铑 (lǎo)
-: loanword
+Rh (Rhodium) = 铑/銠 (lǎo)
+: Loanword. Homophonic with 老, meaning 'elderly'.
 
-Pd (Palladium) = 钯 (bǎ)
-: loanword
+Pd (Palladium) = 钯/鈀 (bǎ)
+: Loanword. Homophonic with 把, meaning 'cling to'.
 
-Ag (Silver) = 银 (yín)
-: classic
+Ag (Silver) = 银/銀 (yín)
+: Classic term for silver.
+: 艮 (gèn) by itself refers to ☶, one of the eight trigrams.
 
-Cd (Cadmium) = 镉 (gé)
-: loanword
+Cd (Cadmium) = 镉/鎘 (gé)
+: Loanword. Homophonic with 鬲, which is a name.
 
-In (Indium) = 铟 (yīn)
-: loanword
+In (Indium) = 铟/銦 (yīn)
+: Loanword. Homophonic with 因, meaning 'because of'.
 
-Sn (Tin) = 锡 (xī)
-: classic
+Sn (Tin) = 锡/錫 (xī)
+: Classic term for tin.
+: By itself, 易 (yì) means 'change', as in the title of the ancient divination manual, the 易經 *Yi Jing*, the *Book of Changes.*.
 
-Sb (Antimony) = 锑 (tī)
-: loanword
+Sb (Antimony) = 锑/銻 (tī)
+: Loanword. Sounds similar to 弟 (dì/tì), meaning 'little brother'/'brotherly respect'.
+: When pronounced tì, 弟 is short for 悌.
+: Some dictionaries online give tì as an alternate pronunciation for 锑, making it an exact homophone.
 
 Te (Tellurium) = 碲 (dì)
-: loanword
+: Loanword. Homophonic with 帝, meaning 'god emperor'.
 
 I (Iodine) = 碘 (diǎn)
-: loanword
+: Loanword. Homophonic with 典, meaning 'classic'.
 
 Xe (Xenon) = 氙 (xiān)
-: loanword
+: Loanword. Homophonic with 仙, meaning 'fairy'.
 
-Cs (Cesium) = 铯 (sè)
-: loanword
+Cs (Cesium) = 铯/銫 (sè)
+: Loanword. Homophonic with 色, meaning 'tint'.
 
-Ba (Barium) = 钡 (bèi)
-: loanword
+Ba (Barium) = 钡/鋇 (bèi)
+: Loanword. Homophonic with 贝, meaning 'cowry'.
 
-La (Lanthanum) = 镧 (lán)
-: loanword
+La (Lanthanum) = 镧/鑭 (lán)
+: Loanword. Homophonic with 阑, meaning 'railing'.
 
-Ce (Cerium) = 铈 (shì)
-: loanword
+Ce (Cerium) = 铈/鈰 (shì)
+: Loanword. Homophonic with 市, meaning 'marketplace'.
 
-Pr (Praseodymium) = 镨 (pǔ)
-: loanword
+Pr (Praseodymium) = 镨/鐠 (pǔ)
+: Loanword. Homophonic with 普, meaning 'universal'.
 
-Nd (Neodymium) = 钕 (nǚ)
-: loanword
+Nd (Neodymium) = 钕/釹 (nǚ)
+: Loanword. Homophonic with 女, meaning 'female'.
 
-Pm (Promethium) = 钷 (pǒ)
-: loanword
+Pm (Promethium) = 钷/鉕 (pǒ)
+: Loanword. Homophonic with 叵, meaning 'improbable'.
 
-Sm (Samarium) = 钐 (shān)
-: loanword
+Sm (Samarium) = 钐/釤 (shān)
+: Loanword. Homophonic with 彡, meaning 'hair'.
 
-Eu (Europium) = 铕 (yǒu)
-: loanword
+Eu (Europium) = 铕/銪 (yǒu)
+: Loanword. Homophonic with 有, meaning 'have'.
 
-Gd (Gadolinium) = 钆 (gá)
-: loanword
+Gd (Gadolinium) = 钆/釓 (gá)
+: Loanword. Homophonic with 轧, meaning 'grind' or 'squeeze together'.
+: The initial version of the character had the full 轧 as a radical instead of only 乚, but that was too complex.
 
-Tb (Terbium) = 铽 (tè)
-: loanword
+Tb (Terbium) = 铽/鋱 (tè)
+: Loanword. Homophonic with 忒, meaning 'excessive'.
 
-Dy (Dysprosium) = 镝 (dī)
-: loanword
+Dy (Dysprosium) = 镝/鏑 (dī)
+: Loanword. Homophonic with 滴, meaning 'drip'.
 
-Ho (Holmium) = 钬 (huǒ)
-: loanword
+Ho (Holmium) = 钬/鈥 (huǒ)
+: Loanword. Homophonic with 火, meaning 'fire'.
 
-Er (Erbium) = 铒 (ěr)
-: loanword
+Er (Erbium) = 铒/鉺 (ěr)
+: Loanword. Homophonic with 耳, meaning 'ear'.
 
-Tm (Thulium) = 铥 (diū)
-: loanword
+Tm (Thulium) = 铥/銩 (diū)
+: Loanword. Homophonic with 丢, meaning 'lost'.
 
-Yb (Ytterbium) = 镱 (yì)
-: loanword
+Yb (Ytterbium) = 镱/鐿 (yì)
+: Loanword. Homophonic with 意, meaning 'intention'.
 
-Lu (Lutetium) = 镥 (lǔ)
-: loanword
+Lu (Lutetium) = 镥/鑥 (lǔ)
+: Loanword. Homophonic with 鲁, meaning 'vulgar'.
 
-Hf (Hafnium) = 铪 (hā)
-: loanword
+Hf (Hafnium) = 铪/鉿 (hā)
+: Loanword. Homophonic with 哈, meaning 'ha!'.
 
-Ta (Tantalum) = 钽 (tǎn)
-: loanword
+Ta (Tantalum) = 钽/鉭 (tǎn)
+: Loanword. Homophonic with 坦, meaning 'composed'.
 
-W (Tungsten) = 钨 (wū)
-: loanword
+W (Tungsten) = 钨/鎢 (wū)
+: Loanword. Homophonic with 乌, meaning 'raven'.
 
-Re (Rhenium) = 铼 (lái)
-: loanword
+Re (Rhenium) = 铼/錸 (lái)
+: Loanword. Homophonic with 来, meaning 'incoming'.
 
-Os (Osmium) = 锇 (é)
-: loanword
+Os (Osmium) = 锇/鋨 (é)
+: Loanword.
+: By itself, 我 (wǒ) is the first person pronoun.
+: 锇 is homophonic with 鹅, meaning 'goose'. 
+: Other homophones with the same radical: 哦, which can be pronounced ó as an interjection or é to mean 'chant'; and 俄, meaning 'suddenly' or short for 俄罗斯 (Éluósī), meaning 'Russia'.
 
-Ir (Iridium) = 铱 (yī)
-: loanword
+Ir (Iridium) = 铱/銥 (yī)
+: Loanword. Homophonic with 衣, meaning 'clothing'.
 
-Pt (Platinum) = 铂 (bó)
-: loanword
+Pt (Platinum) = 铂/鉑 (bó)
+: Repurposed character. 铂 used to mean gold foil. 
+: In every day language, platinum is colloquially called 白金/铂金  (báijīn/bójīn), literally meaning 'white gold' or 'white metal'.
+: Compare this to the etymology of 'platinum', which means 'little silver'. Similarly, the alchemical symbol for platinum was simply a combination of the symbols for gold and silver.
 
 Au (Gold) = 金 (jīn)
-: classic
+: Classic term for gold, money, and metal in general. 
+: In very ancient times, it was a symbol for copper or its alloys.
 
-Hg (Mercury) = 工 (gǒng)
-: classic
+Hg (Mercury) = 汞 (gǒng)
+: Classic term for mercury. Homophonic with 工, meaning 'labor'.
+: In everyday speech, mercury is more commonly called 水银 (shuǐyín), meaning 'water silver', akin to how it is called 'quicksilver' in English or 'hydrargyrum' in latin.
+: The *planet* Mercury is called 水星 (Shuǐxīng), 'water planet', and it feels likely to me that the convergent names are both in reference to the planet's speed.
+: Several interesting linguistic coincidences here.
 
-Tl (Thallium) = 铊 (tā)
-: loanword
+Tl (Thallium) = 铊/鉈 (tā)
+: Loanword. Homophonic with 它, meaning 'it'.
 
-Pb (Lead) = 铅 (qiān)
-: classic
+Pb (Lead) = 铅/鉛 (qiān)
+: Classic term for lead.
+: By itself, 㕣 yǎn is an old term for a marshy valley.
+: The character 铅 can also be pronouced yán when used as a proper noun.
 
-Bi (Bismuth) = 铋 (bì)
-: loanword
+Bi (Bismuth) = 铋/鉍 (bì)
+: Loanword. Homophonic with 必, meaning 'necessarily'.
 
-Po (Polonium) = 钋 (pō)
-: loanword
+Po (Polonium) = 钋/釙 (pō)
+: Loanword. I'm unsure of the etymology.
+: By itself, 卜 (bǔ) refers to divination. It is also used in 萝卜 (luóbo), meaning 'radish'. I had an inlaw call me 萝卜 as a nickname because it sounds similar to 'Robert'.
+: Although 卜 is pronounced differently, I'm guessing it was just a standard character used for transliterating the 'po' sound, at least among the people that came up with these element translations. 'Potassium' was initially transliterated as '卜对斯恩', for example. Looking at other transliterations, however, it seems more common to use 波 (bō), as in 波兰 (Bōlán), meaning Poland.
 
 At (Astatine) = 砹 (ài)
-: loanword
+: Loanword. Homophonic with 艾, meaning 'mugwort'.
 
 Rn (Radon) = 氡 (dōng)
-: loanword
+: Loanword. Homophonic with 冬, meaning 'winter'.
 
-Fr (Francium) = 钫 (fāng)
-: loanword
+Fr (Francium) = 钫/鈁 (fāng)
+: Loanword. Homophonic with 方, meaning 'square'.
 
-Ra (Radium) = 镭 (léi)
-: loanword
+Ra (Radium) = 镭/鐳 (léi)
+: Loanword. Homophonic with 雷, meaning 'thunder'.
 
-Ac (Actinium) = 锕 (ā)
-: loanword
+Ac (Actinium) = 锕/錒 (ā)
+: Loanword. Homophonic with 阿, meaning 'ā (name prefix)'.
 
-Th (Thorium) = 钍 (tǔ)
-: loanword
+Th (Thorium) = 钍/釷 (tǔ)
+: Loanword. Homophonic with 土, meaning 'earth'.
 
-Pa (Protactinium) = 镤 (pú)
-: loanword
+Pa (Protactinium) = 镤/鏷 (pú)
+: Loanword. Homophonic with 菐, meaning 'cumbersome'.
 
-U (Uranium) = 铀 (yóu)
-: loanword
+U (Uranium) = 铀/鈾 (yóu)
+: Loanword. Homophonic with 由, meaning 'from'.
 
-Np (Neptunium) = 镎 (ná)
-: loanword
+Np (Neptunium) = 镎/鎿 (ná)
+: Loanword. Homophonic with 拿, meaning 'seize'.
 
-Pu (Plutonium) = 钚 (bù)
-: loanword
+Pu (Plutonium) = 钚/鈈 (bù)
+: Loanword. Homophonic with 不, meaning 'not'.
 
-Am (Americium) = 镅 (méi)
-: loanword
+Am (Americium) = 镅/鎇 (méi)
+: Loanword. Homophonic with 眉, meaning 'eyebrow'.
 
-Cm (Curium) = 锔 (jú)
-: loanword
+Cm (Curium) = 锔/鋦 (jú)
+: Loanword. Homophonic with 局, meaning 'narrow'.
 
-Bk (Berkelium) = 锫 (péi)
-: loanword
+Bk (Berkelium) = 锫/錇 (péi)
+: Loanword. Homophonic with 赔, meaning 'idemnify' or 陪, meaning 'accompany'.
+: Berkely, the namesake of Berkelium is commonly transliterated as 伯克利 (Bókèlì).
+: The mainland uses 锫, but in Taiwan, it is more common to use 鉳 (běi), which is homophonic to 北, meaning 'north'.
 
-Cf (Californium) = 锎 (kāi)
-: loanword
+Cf (Californium) = 锎/鐦 (kāi)
+: Loanword. Homophonic with 開, meaning 'open'.
 
-Es (Einsteinium) = 锿 (āi)
-: loanword
+Es (Einsteinium) = 锿/鎄 (āi)
+: Loanword. Homophonic with 哀, meaning 'grief'.
 
-Fm (Fermium) = 镄 (fèi)
-: loanword
+Fm (Fermium) = 镄/鐨 (fèi)
+: Loanword. Homophonic with 费, meaning 'expenditure'.
 
-Md (Mendelevium) = 钔 (mén)
-: loanword
+Md (Mendelevium) = 钔/鍆 (mén)
+: Loanword. Homophonic with 门, meaning 'door'.
 
-No (Nobelium) = 锘 (nuò)
-: loanword
+No (Nobelium) = 锘/鍩 (nuò)
+: Loanword. Homophonic with 诺, meaning 'assent'.
 
-Lr (Lawrencium) = 铹 (láo)
-: loanword
+Lr (Lawrencium) = 铹/鐒 (láo)
+: Loanword. Homophonic with 劳, meaning 'toil'.
 
-Rf (Rutherfordium) = 𬬻 (lú)
-: loanword
+Rf (Rutherfordium) = 𬬻/鑪 (lú)
+: Loanword. Homophonic with 卢, meaning 'rice bowl'.
 
-Db (Dubnium) = 𬭊 (dù)
-: loanword
+Db (Dubnium) = 𬭊/𨧀 (dù)
+: Loanword. Homophonic with 杜, meaning 'stop'.
 
-Sg (Seaborgium) = 𬭳 (xǐ)
-: loanword
+Sg (Seaborgium) = 𬭳/𨭎 (xǐ)
+: Loanword. Homophonic with 喜, meaning 'happy'.
 
-Bh (Bohrium) = 𬭛 (bō)
-: loanword
+Bh (Bohrium) = 𬭛/𨨏 (bō)
+: Loanword. Homophonic with 波, meaning 'wave'.
 
-Hs (Hassium) = 𬭶 (hēi)
-: loanword
+Hs (Hassium) = 𬭶/𨭆 (hēi)
+: Loanword. Homophonic with 黑, meaning 'black'.
 
-Mt (Meitnerium) = 鿏 (mài)
-: loanword
+Mt (Meitnerium) = 鿏/䥑 (mài)
+: Loanword. Homophonic with 麦, meaning 'wheat'.
 
-Ds (Darmstadtium) = 𫟼 (dá)
-: loanword
+Ds (Darmstadtium) = 𫟼/鐽 (dá)
+: Loanword. Homophonic with 达, meaning 'eminent'.
 
-Rg (Roentgenium) = 𬬭 (lún)
-: loanword
+Rg (Roentgenium) = 𬬭/錀 (lún)
+: Loanword. Homophonic with 侖, meaning 'orderly'.
 
-Cn (Copernicium) = 鿔 (gē)
-: loanword
+Cn (Copernicium) = 鿔/鎶 (gē)
+: Loanword. Homophonic with 哥, meaning 'older brother'.
 : Copernicus is transliterated as 哥白尼 (Gēbáiní)
 
-Nh (Nihonium) = 鿭 (nǐ)
-: loanword
+Nh (Nihonium) = 鿭/鉨 (nǐ)
+: Loanword. Homophonic with 你, meaning 'thou'.
 
-Fl (Flerovium) = 𫓧 (fū)
-: loanword
+Fl (Flerovium) = 𫓧/鈇 (fū)
+: Loanword. Homophonic with 夫, meaning 'husband'.
 
 Mc (Moscovium) = 镆 (mò)
-: loanword
+: Loanword. Homophonic with 莫, meaning "don't".
 
-Lv (Livermorium) = 𫟷 (lì)
-: loanword
+Lv (Livermorium) = 𫟷/鉝 (lì)
+: Loanword. Homophonic with 立, meaning 'erect'.
 
 Ts (Tennessine) = 鿬 (tián)
-: loanword
+: Loanword. Homophonic with 田, meaning 'farm'.
 
 Og (Oganesson) = 鿫 (ào)
-: loanword
+: Loanword. Homophonic with 奥, meaning 'mysterious'.
 
-
-
-
-|     | English       |    | Pinyin | 汉字 | Radicals | Literal                              |
-|-----|---------------|----|--------|------|----------|--------------------------------------|
-| 1   | Hydrogen      | H  | qīng   | 氢   | 轻气     | Lightweight Gas [^hydrogennote]      |
-| 2   | Helium        | He | hài    | 氦   | 亥气     | astrological pig gas                 |
-| 3   | Lithium       | Li | lǐ     | 锂   | 里金     | village metal                        |
-| 4   | Beryllium     | Be | pí     | 铍   | 皮金     | feather metal                        |
-| 5   | Boron         | B  | péng   | 硼   | 朋石     | friends stone   [^ancientname]       |
-| 6   | Carbon        | C  | tàn    | 碳   | 炭石     | coal stone  [^ancientname]           |
-| 7   | Nitrogen      | N  | dàn    | 氮   | 淡气     | diluting Gas  [^nitrogennote]        |
-| 8   | Oxygen        | O  | yǎng   | 氧   | 养气     | life-nurturing gas[^oxygennote]      |
-| 9   | Fluorine      | F  | fú     | 氟   | 弗气     | negative gas                         |
-| 10  | Neon          | Ne | nǎi    | 氖   | 乃气     | indeed gas                           |
-| 11  | Sodium        | Na | nà     | 钠   | 纳金     | offer metal                          |
-| 12  | Magnesium     | Mg | měi    | 镁   | 美金     | beautiful metal                      |
-| 13  | Aluminium     | Al | lǚ     | 铝   | 吕金     | Lu metal (musical note/name)         |
-| 14  | Silicon       | Si | guī    | 硅   | 圭石     | special jade stone                   |
-| 15  | Phosphorus    | P  | lín    | 磷   | 粦石     | phosphorus stone [^ancientname]      |
-| 16  | Sulfur        | S  | liú    | 硫   | 荒石     | wasteland stone       [^ancientname] |
-| 17  | Chlorine      | Cl | lǜ     | 氯   | 绿气     | green gas                            |
-| 18  | Argon         | Ar | yà     | 氩   | 亚气     | next gas                             |
-| 19  | Potassium     | K  | jiǎ    | 钾   | 甲金     | shell metal                          |
-| 20  | Calcium       | Ca | gài    | 钙   | 丐金     | beggar metal                         |
-| 21  | Scandium      | Sc | kàng   | 钪   | 亢金     | proud metal                          |
-| 22  | Titanium      | Ti | tài    | 钛   | 太金     | very big metal                       |
-| 23  | Vanadium      | V  | fán    | 钒   | 凡金     | mundane metal                        |
-| 24  | Chromium      | Cr | gè     | 铬   | 各金     | each metal                           |
-| 25  | Manganese     | Mn | měng   | 锰   | 猛金     | ferocious metal                      |
-| 26  | Iron          | Fe | tiě    | 铁   |          | [^ancientname]                       |
-| 27  | Cobalt        | Co | gǔ     | 钴   | 古金     | ancient metal                        |
-| 28  | Nickel        | Ni | niè    | 镍   | 臬金     | benchmark metal                      |
-| 29  | Copper        | Cu | tóng   | 铜   |          | [^ancientname]                       |
-| 30  | Zinc          | Zn | xīn    | 锌   | 辛金     | acrid metal                          |
-| 31  | Gallium       | Ga | jiā    | 镓   | 家金     | domestic metal                       |
-| 32  | Germanium     | Ge | zhě    | 锗   | 金者     | person of metal                      |
-| 33  | Arsenic       | As | shēn   | 砷   | 申石     | explain metal                        |
-| 34  | Selenium      | Se | xī     | 硒   | 西石     | west metal                           |
-| 35  | Bromine       | Br | xiù    | 溴   | 臭水     | stinky water (NOT PHONETIC)          |
-| 36  | Krypton       | Kr | kè     | 氪   | 克气     | conquering metal                     |
-| 37  | Rubidium      | Rb | rú     | 铷   | 如金     | like such as metal                   |
-| 38  | Strontium     | Sr | sī     | 锶   | 思金     | ponder metal                         |
-| 39  | Yttrium       | Y  | yǐ     | 钇   | 乙金     | 2nd metal                            |
-| 40  | Zirconium     | Zr | gào    | 锆   | 告金     | sue metal                            |
-| 41  | Niobium       | Nb | ní     | 铌   | 尼金     | nun metal                            |
-| 42  | Molybdenum    | Mo | mù     | 钼   | 目金     | eye metal                            |
-| 43  | Technetium    | Tc | dé     | 锝   | 得金     | get metal                            |
-| 44  | Ruthenium     | Ru | liǎo   | 钌   | 了金     | past-tense metal                     |
-| 45  | Rhodium       | Rh | lǎo    | 铑   | 老金     | elderly metal                        |
-| 46  | Palladium     | Pd | bǎ     | 钯   | 把金     | cling to metal                       |
-| 47  | Silver        | Ag | yín    | 银   | 艮金     | [^ancientname]                       |
-| 48  | Cadmium       | Cd | gé     | 镉   | 鬲金     | Ge metal (name)                      |
-| 49  | Indium        | In | yīn    | 铟   | 因金     | because of metal                     |
-| 50  | Tin           | Sn | xī     | 锡   | 易金     | [^ancientname]                       |
-| 51  | Antimony      | Sb | tī     | 锑   | 悌金     | brotherly metal                      |
-| 52  | Tellurium     | Te | dì     | 碲   | 帝石     | god emperor stone                    |
-| 53  | Iodine        | I  | diǎn   | 碘   | 典石     | classic stone                        |
-| 54  | Xenon         | Xe | xiān   | 氙   | 仙气     | fairy gas                            |
-| 55  | Cesium        | Cs | sè     | 铯   | 色金     | tint metal                           |
-| 56  | Barium        | Ba | bèi    | 钡   | 贝金     | cowry metal                          |
-| 57  | Lanthanum     | La | lán    | 镧   | 阑金     | railing metal                        |
-| 58  | Cerium        | Ce | shì    | 铈   | 市金     | marketplace metal                    |
-| 59  | Praseodymium  | Pr | pǔ     | 镨   | 普金     | universal metal                      |
-| 60  | Neodymium     | Nd | nǚ     | 钕   | 女金     | female metal                         |
-| 61  | Promethium    | Pm | pǒ     | 钷   | 叵金     | improbable metal                     |
-| 62  | Samarium      | Sm | shān   | 钐   | 彡金     | hair metal                           |
-| 63  | Europium      | Eu | yǒu    | 铕   | 有金     | have metal                           |
-| 64  | Gadolinium    | Gd | gá     | 钆   | 轧金     | squeeze metal                        |
-| 65  | Terbium       | Tb | tè     | 铽   | 忒金     | excessive metal                      |
-| 66  | Dysprosium    | Dy | dī     | 镝   | 滴金     | drip metal                           |
-| 67  | Holmium       | Ho | huǒ    | 钬   | 火金     | fire metal                           |
-| 68  | Erbium        | Er | ěr     | 铒   | 耳金     | ear metal                            |
-| 69  | Thulium       | Tm | diū    | 铥   | 丢金     | lost metal                           |
-| 70  | Ytterbium     | Yb | yì     | 镱   | 意金     | intention metal                      |
-| 71  | Lutetium      | Lu | lǔ     | 镥   | 鲁金     | vulgar metal                         |
-| 72  | Hafnium       | Hf | hā     | 铪   | 哈金     | ha! metal                            |
-| 73  | Tantalum      | Ta | tǎn    | 钽   | 坦金     | composed metal                       |
-| 74  | Tungsten      | W  | wū     | 钨   | 乌金     | raven metal                          |
-| 75  | Rhenium       | Re | lái    | 铼   | 来金     | incoming metal                       |
-| 76  | Osmium        | Os | é      | 锇   | 我金     | our metal                            |
-| 77  | Iridium       | Ir | yī     | 铱   | 衣金     | clothing metal                       |
-| 78  | Platinum      | Pt | bó     | 铂   | 白金     | white metal                          |
-| 79  | Gold          | Au | jīn    | 金   | 金       | metal [^ancientname]                 |
-| 80  | Mercury       | Hg | gǒng   | 工   | 工水     | labor water [^ancientname]           |
-| 81  | Thallium      | Tl | tā     | 铊   | 它金     | it metal                             |
-| 82  | Lead          | Pb | qiān   | 铅   | 㕣金     | marsh metal [^ancientname]           |
-| 83  | Bismuth       | Bi | bì     | 铋   | 必金     | necessarily metal                    |
-| 84  | Polonium      | Po | pō     | 钋   | 卜金     |                                      |
-| 85  | Astatine      | At | ài     | 砹   | 艾石     | mugwort stone                        |
-| 86  | Radon         | Rn | dōng   | 氡   | 冬气     | winter gas                           |
-| 87  | Francium      | Fr | fāng   | 钫   | 方金     | square metal                         |
-| 88  | Radium        | Ra | léi    | 镭   | 雷金     | thunder metal                        |
-| 89  | Actinium      | Ac | ā      | 锕   | 阿金     | āmetal (name prefix)                 |
-| 90  | Thorium       | Th | tǔ     | 钍   | 土金     | earth metal                          |
-| 91  | Protactinium  | Pa | pú     | 镤   | 菐金     | cumbersome metal                     |
-| 92  | Uranium       | U  | yóu    | 铀   | 由金     | from metal                           |
-| 93  | Neptunium     | Np | ná     | 镎   | 拿金     | seize metal                          |
-| 94  | Plutonium     | Pu | bù     | 钚   | 不金     | not metal                            |
-| 95  | Americium     | Am | méi    | 镅   | 眉金     | eyebrow metal                        |
-| 96  | Curium        | Cm | jú     | 锔   | 局金     | narrow metal                         |
-| 97  | Berkelium     | Bk | péi    | 锫   | 咅金     |                                      |
-| 98  | Californium   | Cf | kāi    | 锎   | 開金     | open metal                           |
-| 99  | Einsteinium   | Es | āi     | 锿   | 哀金     | grief metal                          |
-| 100 | Fermium       | Fm | fèi    | 镄   | 费金     | expenditure metal                    |
-| 101 | Mendelevium   | Md | mén    | 钔   | 门金     | door metal                           |
-| 102 | Nobelium      | No | nuò    | 锘   | 诺金     | assent metal                         |
-| 103 | Lawrencium    | Lr | láo    | 铹   | 劳金     | toil metal                           |
-| 104 | Rutherfordium | Rf | lú     | 𬬻    | 卢金      | rice bowl metal                       |
-| 105 | Dubnium       | Db | dù     | 𨧀   | 杜金     | stop metal                           |
-| 106 | Seaborgium    | Sg | xǐ     | 𨭎   | 喜金     | happy metal                          |
-| 107 | Bohrium       | Bh | bō     | 𨨏   | 波金     | wave metal                           |
-| 108 | Hassium       | Hs | hēi    | 𨭆   | 黑金     | black metal                          |
-| 109 | Meitnerium    | Mt | mài    | 鿏    | 麦金      | wheat metal                          |
-| 110 | Darmstadtium  | Ds | dá     | 𫟼    | 达金      | eminent metal                        |
-| 111 | Roentgenium   | Rg | lún    | 錀   | 侖金     | orderly metal                       |
-| 112 | Copernicium   | Cn | gē     | 鎶   | 哥金     | older brother metal                 |
-| 113 | Nihonium      | Nh | nǐ     | 鉨   | 你金     | thou metal                          |
-| 114 | Flerovium     | Fl | fū     | 𫓧    | 夫金       | husband metal                       |
-| 115 | Moscovium     | Mc | mò     | 镆   | 莫金      | don't metal                        |
-| 116 | Livermorium   | Lv | lì     | 𫟷    | 立金       | erect metal                        |
-| 117 | Tennessine    | Ts | tián   | 鿬    | 田石       | farm stone                          |
-| 118 | Oganesson     | Og | ào     | 鿫    | 奥气       | mysterious gas                      |
 
 
 Regarding the names of metal elements, “鈹” (bi, beryl-
@@ -1776,7 +471,7 @@ antimony? 厗
 
 [^hydrogennote]: "轻" decomposes to "车𢀖". "车" means cart. By itself, "𢀖" doesn't really have any meaning. Another early translation of "hydrogen" into Chinese was "水母气" (shuǐmǔqì), where "水" means 'water' and "母" means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but "水母" means 'jellyfish', so it's a rather awkward translation.
 
-[^oxygennote]: "Oxygen" was initially translated into Chinese as "养气" (yángqì), where "养" means helping something grow. However, the character for oxygen, "氧" (yǎng), actually decomposes to "羊气" (yángqì), where "羊" means 'goat'. This substitution works well on multiple levels - because "yǎng" and "yáng" are near homophones, because "养" appears to contain the character "羊" as a sub-component, and because animal life is dependent on abundant oxygen. The phrase "养气" itself is still in use nowadays, but in a more spiritual sense; "气" (qì) can also refer to the traditional notion of life energy, and so 养气 is basically self-care.
+[^oxygennote]: "Oxygen" was initially translated into Chinese as "养气" (yǎngqì), where "养" means helping something grow. However, the character for oxygen, "氧" (yǎng), actually decomposes to "羊气" (yángqì), where "羊" means 'goat'. This substitution works well on multiple levels - because "yǎng" and "yáng" are near homophones, because "养" appears to contain the character "羊" as a sub-component, and because animal life is dependent on abundant oxygen. The phrase "养气" itself is still in use nowadays, but in a more spiritual sense; "气" (qì) can also refer to the traditional notion of life energy, and so 养气 is basically self-care.
 
 [^nitrogennote]: "Nitrogen" was translated in Chinese as "淡气" (dànqì), where "淡" means 'bland' or 'dilute' and is composed of one 氵water radical  and two 火 fire radicals. Confusingly, the character for nitrogen drops the water radical, making "氮" appear to be composed of "炎气" (yánqì), where 炎 means 'blazing hot' or 'inflammation', neither of which makes sense to describe nitrogen. Another old translation of "Nitrogen" was "硝气" (xiāoqì), where "硝" means 'niter'. Niter is also the source of the word "nitrogen", so "硝气" was a more direct translation. 
 
@@ -1785,6 +480,45 @@ antimony? 厗
 
 
 <!--
+To do later:
+- add citations
+- copy tables from paper
+- add full transliterations, etc.
+- alchemical symbols for some elements
+- go back through wiki and papers. Add characters with multiple meanings, variants, etc.
+
+
+The side character in hydrogen by itself is old form of  https://hanyu.baidu.com/s?wd=%E7%BB%8F&ptype=zici
+
+鑫
+What is the origin of jin character? 金
+
+艹 google translate problem.
+
+https://iupac.org/cms/wp-content/uploads/2016/06/names-and-symbols-of-elements.pdf
+http://www.aesj.or.jp/~ndd/ndnews/pdf118/No118-03.pdf
+The above goes into detail about the alternatives for the new elements.
+
+https://zh.wikipedia.org/zh-cn/%E6%B0%A2
+Look at links 11 and 12 for additional sources.
+
+
+
+艮 in silver is maybe used in the sense of penultimate?
+
+Peking Beijing Berkelium Kalium connection.
+https://en.wikipedia.org/wiki/Chinese_postal_romanization
+https://web.archive.org/web/20130927141238/http://crlao.ehess.fr/docannexe.php?id=1207
+https://en.wikipedia.org/wiki/Nanjing_dialect
+https://en.wikipedia.org/wiki/Comparison_of_Standard_Mandarin_transcription_systems
+
+
+Why was this deleted:
+https://web.archive.org/web/20161228155821/https://zh.wikipedia.org/wiki/%E5%8C%96%E5%AD%B8%E5%85%83%E7%B4%A0%E5%90%8D%E7%A8%B1%E8%A9%9E%E6%BA%90%E5%88%97%E8%A1%A8
+?! It contains exactly what I was trying to do. NVM. Not super helpful.
+
+https://humanum.arts.cuhk.edu.hk/Lexis/lexi-mf/search.php?word=%E7%9F%BD
+https://web.archive.org/web/20131004213854/http://www.hxzxs.cn/html/4295.html
 
 https://www.outlier-linguistics.com/blogs/chinese/liushu-and-categorical-thinking
 
@@ -2005,130 +739,6 @@ The "picto" column below represents a silly sort of literal interpretation of th
 
 
 
-## The Full Table of Elements
-
-(work in progress)
-
-English | Literal | Pinyin | 汉字 | picto 
---- | --- | --- | --- | ---
-Hydrogen | water-former | Qīng | 氢 | also labor gas?
-Helium | sun metal | Hài | 氦 | astrological pig gas
-Lithium | stone metal | Lǐ | 锂 | village metal
-Beryllium | beryl metal | Pī | 鈹 | feather metal 
-Boron | borax stuff | Péng | 硼 | friends stone
-Carbon | charcoal stuff | Tàn | 碳 | charcoal stone
-Nitrogen | saltpetre-former | Dàn | 氮 | flaming gas 
-Oxygen | acid-former | Yǎng | 氧 | goat gas 
-Fluorine | flowing chemical | Fú | 氟 | negative gas (bow knife gas)
-Neon | new stuff | Nǎi | 氖 | indeed gas
-Sodium | soda metal | Nà | 鈉 | inside metal
-Magnesium | metal from the Magnesia Prefecture | Měi | 鎂 | beautiful metal
-Aluminum | alum metal | Lǚ | 鋁 | Lu metal (musical note/name)
-Silicon | flint stuff | Guī | 硅 | pointed jade stone
-Phosphorus  | light-bearer, the morning star | Lín | 磷 | phosporous stone? (mistaken rice stone)
-Sulfur | sulfur | Liú | 硫 | wasteland stone (secret river head stone)
-Chlorine | chartreuse chemical | Lǜ | 氯 | record gas
-Argon | lazy stuff | Yà | 氩 | Asia/second gas
-Potassium | pot ash metal | Jiǎ | 钾 | shell metal
-Calcium | lime metal | Gài | 钙 | beggar metal
-Scandium |  | kàng | 钪 | proud metal
-Titanium | giant god metal | tài | 钛 | very big metal
-Vanadium | fertility god metal | fán | 钒 | ordinary metal
-Chromium | colorful metal | Gè | 铬 | individually metal
-Manganese | stuff from the Magnesia Prefecture | Měng | 锰 | first metal
-Iron | strong stuff? | Tiě | 铁 | mistake metal 
-Cobalt | goblin | Gǔ | 钴 | old metal
-Nickel | also goblin | Niè | 镍 | law metal
-Copper | metal from Cyprus | Tóng | 铜 | similar metal (mouth open wide metal)
-Zinc | jaggy | Xīn | 锌 | bitter metal
-Gallium | French metal / chicken metal |  |  | 
-Germanium | German metal |  |  | 
-Arsenic | golden pigmentation |  |  | 
-Selenium | moon metal |  |  | 
-Bromine | stinky chemical | Xiù | 溴 | 臭水 stinky water
-Krypton | secret stuff |  |  | 
-Rubidium | red metal |  |  | 
-Strontium | metal from Strontian |  |  | 
-Yttrium | metal from Ytterby |  |  | 
-Zirconium | golden color |  |  | 
-Niobium |  |  |  | 
-Molybdenum | lead ore metal |  |  | 
-Technetium | artificial metal |  |  | 
-Ruthenium | Eastern European metal |  |  | 
-Rhodium | rose metal |  |  | 
-Palladium | wisdom god metal |  |  | 
-Silver | ? |  |  | 
-Cadmium |  |  |  | 
-Indium | indigo metal |  |  | 
-Tin | ? |  |  | 
-Antimony | cosmetic powder* |  |  | 
-Tellurium | earth metal |  |  | 
-Iodine | violet chemical |  |  | 
-Xenon | strange stuff |  |  | 
-Cesium | skyblue metal |  |  | 
-Barium | hefty metal |  |  | 
-Lanthanum |  |  |  | 
-Cerium |  |  |  | 
-Praseodymium |  |  |  | 
-Neodymium |  |  |  | 
-Promethium |  |  |  | 
-Samarium |  |  |  | 
-Europium |  |  |  | 
-Gadolinium |  |  |  | 
-Terbium |  |  |  | 
-Dysprosium |  |  |  | 
-Holmium |  |  |  | 
-Erbium |  |  |  | 
-Thulium |  |  |  | 
-Ytterbium |  |  |  | 
-Lutetium |  |  |  | 
-Hafnium |  |  |  | 
-Tantalum |  |  |  | 
-Tungsten |  |  |  | 
-Rhenium |  |  |  | 
-Osmium |  |  |  | 
-Iridium |  |  |  | 
-Platinum | silver metal | bó | 铂 | 白金 white metal
-Gold | yellow | jīn | 金 | metal
-Mercury | speed god metal | gǒng | 汞 | 工水 labor water
-Thallium |  |  |  | 
-Lead | ? | Qiān | 铅 | marsh metal
-Bismuth |  |  |  | 必金 invariably metal
-Polonium |  |  |  | 
-Astatine |  |  |  | 
-Radon |  |  |  | 
-Francium |  |  |  | 
-Radium |  |  |  | 
-Actinium |  |  |  | 
-Thorium |  |  |  | 
-Protactinium |  |  |  | 
-Uranium |  |  |  | 
-Neptunium |  |  |  | 
-Plutonium |  |  |  | 
-Americium |  |  |  | 
-Curium |  |  |  | 
-Berkelium |  |  |  | 
-Californium |  |  |  | 
-Einsteinium |  |  |  | 
-Fermium |  |  |  | 
-Mendelevium |  |  |  | 
-Nobelium |  |  |  | 
-Lawrencium |  |  |  | 
-Rutherfordium |  |  |  | 
-Dubnium |  |  |  | 
-Seaborgium |  |  |  | 
-Bohrium |  |  |  | 
-Hassium |  |  |  | 
-Meitnerium |  |  |  | 
-Darmstadtium |  |  |  | 
-Roentgenium |  |  |  | 
-Copernicium |  |  |  | 
-Nihonium |  |  |  | 
-Flerovium |  |  |  | 
-Moscovium |  |  |  | 
-Livermorium |  |  |  | 
-Tennessine |  |  |  | 
-Oganesson |  |  |  | 
 
 ## The seven metals of antiquity
 
