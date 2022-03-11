@@ -12,13 +12,16 @@ See [here](../language/hanzielements.html) for my notes on Chinese chemical elem
 
 Iron Cobalt and Nickel are sometimes known as the "[Iron Triad](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/23%3A_The_Transition_Elements/23.5%3A_The_Iron_Triad%3A_Iron_Cobalt_and_Nickel)" or Iron Group due to their similar properties. 
 
-Cobalt derives its name from the [Kobold](https://en.wikipedia.org/wiki/Kobold) of European mythology. Nickel (originally *Kupfernickel*, meaning *goblin's copper*) similarly derives its name from mischievous mythological mountain monsters. 
-
-But whence does the name of the third element of the trio come? What is the the etymology of iron?
+What is the the origin of the word 'iron'?
 It's not entirely clear.
-It [may be a derivative](https://linguistics.stackexchange.com/questions/14777/etymology-of-iron-semantic-change) of ancient words related to blood, strength, or supernatural power.
+But it [may be a derivative](https://linguistics.stackexchange.com/questions/14777/etymology-of-iron-semantic-change) of ancient words related to blood, strength, or supernatural power.
 
-This ~~is unrelated coincidence~~ suggests that iron earns its name from a some terrible monstrous spirit that plagued our ancestors.
+For the other two, the etymology is well-known.
+Cobalt derives its name from the [Kobold](https://en.wikipedia.org/wiki/Kobold) of European mythology.
+Nickel (originally *Kupfernickel*, meaning *goblin's copper*) similarly derives its name from a mischievous mythological mountain monster. 
+
+This ~~is unrelated coincidence~~ suggests that iron earns its name from a third variety of goblin, some ferocious underground spirit that plagued our ancestors.
+Might it still be around? Forgotten, but far from gone?
 What terrible ferro-goblins might still sleep secretly deep within the earth?
 
 
@@ -194,14 +197,21 @@ azoth/azote = lifeless Yang Air
 helium aka 氦 sun vapor| Yin Air
 亞-->
 
-## Links to pages about the names of the elements:
+
+-------
+
+## Links to pages about the elements:
 
 - Peter van de Krogt's [Periodic table color-coded by origin of name.](https://elements.vanderkrogt.net/ptable.php) Poke around this website for some very interesting articles on the history of each element's name, alternate names that were considered, and the like.
 - [Wiki article on Element Name Etymologies](https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies)
 - [An abbreviated Wiki Article with element etymologies](https://en.wikipedia.org/wiki/List_of_chemical_elements)
 - [A list of element names goofily adapted to only use germanic roots.](https://anglish.fandom.com/wiki/Fading_of_Ormotes)
 - [My notes about the Chinese characters for chemical elements.](../language/hanzielements.html)
+- [Theodore Gray's Periodic Table Website](https://periodictable.com/index.html).
+- [David Hamric's Element Coins](https://www.elementsales.com/ecoins.htm). [Relevant article](http://archive.boston.com/jobs/news/articles/2008/04/27/elements_a_natural_pick_of_career/). [Theodore Gray's gallery](https://periodictable.com/Elements/Source-hamric/index.html) of some of these 'coins'.
 
+
+http://archive.boston.com/jobs/news/articles/2008/04/27/elements_a_natural_pick_of_career/
 
 <!--https://languagelog.ldc.upenn.edu/nll/?p=18877-->
 <!--http://publications.iupac.org/ci/2004/2601/jan2004.pdf-->
