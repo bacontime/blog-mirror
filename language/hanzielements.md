@@ -36,11 +36,11 @@ The approach settled on by [Xu Shou](https://zh.wikipedia.org/zh-cn/%E5%BE%90%E5
 
 ## List of Element Names in Mainland Mandarin Chinese
 
-In the "Radicals" column, I've pasted the sort-of component sub-characters on their own.
+<!--In the "Radicals" column, I've pasted the sort-of component sub-characters on their own.
 In the "Literal" column, I've written a literal translation of these component characters.
 But remember that these typically aren't the actual etymology of these words; their homophonic mnemonics in Mandarin.
 
-氜氜rì日
+氜氜rì日-->
 
 
 
@@ -439,10 +439,13 @@ Lv (Livermorium) = 𫟷/鉝 (lì)
 : Loanword. Homophonic with 立, meaning 'erect'.
 
 Ts (Tennessine) = 鿬 (tián)
-: Loanword. Homophonic with 田, meaning 'farm'.
+: Loanword. Homophonic with 田, meaning 'farm' or 'field'.
+: Tennesine uses the stone radical 石 because it is part of the halogen group. However, it is speculated that if it were possible to have a sample of the stuff, it would be metallic.
 
 Og (Oganesson) = 鿫 (ào)
 : Loanword. Homophonic with 奥, meaning 'mysterious'.
+: Oganesson uses the gas radical 气 because it is in the noble gas group. However, physicists predict that if it were possible to have a stable sample of the stuff, it would be solid at STP.
+
 
 
 
