@@ -45,7 +45,7 @@ H (Hydrogen) = 氢/氫 (qīng)
 : Another early translation of hydrogen into Chinese was 水母气 (shuǐmǔqì), where 水 means 'water' and 母 means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but 水母 means 'jellyfish', so it's a rather awkward translation.
 
 He (Helium) = 氦 (hài)
-: Loanword. Homophonic with 亥, meaning 'astrological pig'.
+: Loanword. Homophonic with 亥, is one of the Earthly Branches, used in old-timey timekeeping. It can be used to refer to the astrological pig.
 
 Li (Lithium) = 锂/鋰 (lǐ)
 : Loanword. Homophonic with 里, meaning 'village'.
