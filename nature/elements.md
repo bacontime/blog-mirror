@@ -211,7 +211,6 @@ helium aka 氦 sun vapor| Yin Air
 - [David Hamric's Element Coins](https://www.elementsales.com/ecoins.htm). [Relevant article](http://archive.boston.com/jobs/news/articles/2008/04/27/elements_a_natural_pick_of_career/). [Theodore Gray's gallery](https://periodictable.com/Elements/Source-hamric/index.html) of some of these 'coins'.
 
 
-http://archive.boston.com/jobs/news/articles/2008/04/27/elements_a_natural_pick_of_career/
 
 <!--https://languagelog.ldc.upenn.edu/nll/?p=18877-->
 <!--http://publications.iupac.org/ci/2004/2601/jan2004.pdf-->
