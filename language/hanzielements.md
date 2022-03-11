@@ -812,6 +812,8 @@ Resources I referenced when making this page:
 - [A New Inquiry into the Translation of Chemical Terms by John Fryer and Xu Shou](http://www.wsc.uni-erlangen.de/pdf/wang.pdf)
 - [Chinese Terms for Chemical Elements: Characters Combining Radical and Phonetic Elements](https://publications.iupac.org/ci/2004/2601/jan2004.pdf) See [here](https://old.iupac.org/publications/ci/2004/2601/3_hao.html) for html mirror.
 - Wikipedia's pages on east-asian chemical element names, in [English](https://en.wikipedia.org/wiki/Chemical_elements_in_East_Asian_languages), [Chinese](https://zh.wikipedia.org/zh-cn/%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E7%9A%84%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D%E6%B3%95), and [Japanese](https://ja.wikipedia.org/wiki/%E5%85%83%E7%B4%A0%E3%81%AE%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%90%8D%E7%A7%B0). Each version of the page has a slightly different set of information.
+- [English-Chinese Periodic Table of Elements](https://www.pascal-man.com/periodic-table/periodictable-dave-lo.pdf)
+- [Names of the chemical elements in Chinese](https://languagelog.ldc.upenn.edu/nll/?p=18877--)
 - The following English/Chinese dictionaries:
     - [The CEDICT project, hosted at mdbg.net](https://www.mdbg.net/chinese/dictionary). 
     - [Wiktionary, the free dictionary.](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
