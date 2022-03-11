@@ -446,7 +446,7 @@ Og (Oganesson) = 鿫 (ào)
 
 
 
-Regarding the names of metal elements, “鈹” (bi, beryl-
+<!--Regarding the names of metal elements, “鈹” (bi, beryl-
 lium), “鈧” (kang, scandium), “鈦” (tai, titanium), “銠”
 (lao, rhodium), “銫” (se, cesium), “鉭” (tan, tantalum), and
 “銪” (you, europium) were chosen because “they have fewer
@@ -476,7 +476,7 @@ antimony? 厗
 [^nitrogennote]: "Nitrogen" was translated in Chinese as "淡气" (dànqì), where "淡" means 'bland' or 'dilute' and is composed of one 氵water radical  and two 火 fire radicals. Confusingly, the character for nitrogen drops the water radical, making "氮" appear to be composed of "炎气" (yánqì), where 炎 means 'blazing hot' or 'inflammation', neither of which makes sense to describe nitrogen. Another old translation of "Nitrogen" was "硝气" (xiāoqì), where "硝" means 'niter'. Niter is also the source of the word "nitrogen", so "硝气" was a more direct translation. 
 
 [^chlorinenote]: Chlorine uses 录 (lù) (copy) instead of the full 绿 (lǜ) (green)
-
+-->
 
 
 <!--
@@ -727,19 +727,11 @@ niobium) [39].
 
 
 
-
-
-Where do element names come from? Here's a cute  little list.
-See the links at the end for some more in-depth resources.
-
-
-The "picto" column below represents a silly sort of literal interpretation of the radicals that make up the hanzi character.[^hanzidecomposition]
-
 [^hanzidecomposition]: The majority of Chinese characters are phono-semantic compounds, meaning that part of the character hints about its meaning, and part hints about its pronunciation. And aside from the few elements known to antiquity, the characters for chemical elements tend to follow this same pattern. Non-metals which are solid at STP use a 石 radical, which by itself means stone/rock/mineral. Gaseous elements use 气 (gas/breath/vapor). Metals use 钅, which is a simplified version of 金, meaning gold or metal in general. The other part of the character is a homophone in Mandarin. For example, the 'oxygen' character (氧) is a combination of gas (气) and goat (羊) because oxygen ('yǎng') is a near-homophone for goat ('yáng'). However, the etymology of the spoken word is more likely related to the word for nourishing support (also 'yǎng', 养).
 
 
 
-
+<!--
 ## The seven metals of antiquity
 
 English | Literal | Pinyin | 汉字 | picto 
@@ -751,13 +743,14 @@ Tin | ? |  | 锡 | exchange metal
 Gold | yellow | Jīn | 金 | metal
 Mercury | speed god | Gǒng | 汞 | labor water
 Lead | ? | Qiān | 铅 | marsh metal
-
+-->
 
 <!--Another theory, considered far-fetched in some quarters, traces it to Medieval Latin sodanum "a headache remedy," ultimately from Arabic suda "splitting headache."
 azoth/azote = lifeless Yang Air
 helium aka 氦 sun vapor| Yin Air
 亞-->
 
+<!--
 ## Links I used to make this table:
 
 - [Periodic table color-coded by origin of name.](https://elements.vanderkrogt.net/ptable.php) Poke around this website for some very interesting articles on the history of each element's name, alternate names that were considered, and the like.
@@ -768,7 +761,7 @@ helium aka 氦 sun vapor| Yin Air
 - [English-Chinese Periodic Table of Elements](https://www.pascal-man.com/periodic-table/periodictable-dave-lo.pdf)
 - [A list of element names goofily adapted to only use germanic roots.](https://anglish.fandom.com/wiki/Fading_of_Ormotes)
 - [Another hanzi decomposition tool.](https://www.yellowbridge.com/chinese/character-dictionary.php)
-
+-->
 
 <!--https://languagelog.ldc.upenn.edu/nll/?p=18877-->
 <!--http://publications.iupac.org/ci/2004/2601/jan2004.pdf-->
@@ -813,7 +806,4 @@ https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%AD%B8%E6%9D%B1%E6%BC%B8
 https://bamboonic.com/
 
 -->
-
-
-Most characters on this page are in simplified rather than traditional form.
 
