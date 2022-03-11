@@ -6,6 +6,47 @@ parent: Science and Nature
 
 See [here](../language/hanzielements.html) for my notes on Chinese chemical element names.
 
+## Some Idle Musings
+
+### What is the third ferromagnetic goblin?
+
+Iron Cobalt and Nickel are sometimes known as the "[Iron Triad](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/23%3A_The_Transition_Elements/23.5%3A_The_Iron_Triad%3A_Iron_Cobalt_and_Nickel)" or Iron Group due to their similar properties. 
+
+Cobalt derives its name from the [Kobold](https://en.wikipedia.org/wiki/Kobold) of European mythology. Nickel (originally *Kupfernickel*, meaning *goblin's copper*) similarly derives its name from mischievous mythological mountain monsters. 
+
+But whence does the name of the third element of the trio come? What is the the etymology of iron?
+It's not entirely clear.
+It [may be a derivative](https://linguistics.stackexchange.com/questions/14777/etymology-of-iron-semantic-change) of ancient words related to blood, strength, or supernatural power.
+
+This ~~is unrelated coincidence~~ suggests that iron earns its name from a some terrible monstrous spirit that plagued our ancestors.
+What terrible ferro-goblins might still sleep secretly deep within the earth?
+
+
+### Planetary Elements
+
+There are 8 elements named after celestial objects.  
+The seven metals of antiquity have traditionally been [associated with the seven classical planets](https://en.wikipedia.org/wiki/Classical_planet#Alchemy), especially Mercury, for which the planet and element share a name.
+
+Between these two factors, there is at least one element associated with each of the major objects in our solar system:
+
+| Planet | Namesake for Element | Classical Association |
+|:------:|:-------:|:-------:|
+| The Sun | Helium | Gold |
+| Mercury | Mercury |  |
+| Venus |  | Copper |
+| Earth | Tellurium |  |
+| The Moon | Selenium | Silver |
+| Mars |  | Iron |
+| Ceres | Cerium |  |
+| Pallas | Palladium |  |
+| Jupiter |  | Tin |
+| Saturn |  | Lead |
+| Uranus | Uranium |  |
+| Neptune | Neptunium |  |
+| Pluto | Plutonium |  |
+
+Though this still leaves many former planets and dwarf planets without an element of their own.
+
 
 
 
