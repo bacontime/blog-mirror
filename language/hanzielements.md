@@ -28,12 +28,6 @@ The semantic radicals used are 石 (stone), 钅or 金 (metal), and 气 (gas). Br
 
 
 
-Back then, there wasn't a standardized system for transliterating between the latin alphabet and Chinese characters. 
-As such, translators had to choose between inventing new characters or fully transliterating elements names via an unwieldy chain of near-homophones (eg using "美合尼西恩" to Měihé ní xī ēn).
-The approach settled on by [Xu Shou](https://zh.wikipedia.org/zh-cn/%E5%BE%90%E5%A3%BD) and [John Fryer](https://en.wikipedia.org/wiki/John_Fryer_(sinologist)) 
-
-
-
 ## List of Element Names in Mainland Mandarin Chinese
 
 <!--In the "Radicals" column, I've pasted the sort-of component sub-characters on their own.
@@ -809,4 +803,20 @@ https://zh.wikipedia.org/wiki/%E8%A5%BF%E5%AD%B8%E6%9D%B1%E6%BC%B8
 https://bamboonic.com/
 
 -->
+
+------------
+
+Resources I referenced when making this page:
+- [What’s in a name: a comparison of Chinese and Japanese approaches to the translation of chemical elements](https://link.springer.com/article/10.1007/s40828-018-0065-0)
+- [The Great Desideratum: Chinese Chemical Nomenclature and the Transmission of Western Chemical Concepts](https://www.jstor.org/stable/43290407)
+- [A New Inquiry into the Translation of Chemical Terms by John Fryer and Xu Shou](http://www.wsc.uni-erlangen.de/pdf/wang.pdf)
+- [Chinese Terms for Chemical Elements: Characters Combining Radical and Phonetic Elements](https://publications.iupac.org/ci/2004/2601/jan2004.pdf) See [here](https://old.iupac.org/publications/ci/2004/2601/3_hao.html) for html mirror.
+- Wikipedia's pages on east-asian chemical element names, in [English](https://en.wikipedia.org/wiki/Chemical_elements_in_East_Asian_languages), [Chinese](https://zh.wikipedia.org/zh-cn/%E5%8C%96%E5%AD%A6%E5%85%83%E7%B4%A0%E7%9A%84%E4%B8%AD%E6%96%87%E5%91%BD%E5%90%8D%E6%B3%95), and [Japanese](https://ja.wikipedia.org/wiki/%E5%85%83%E7%B4%A0%E3%81%AE%E4%B8%AD%E5%9B%BD%E8%AA%9E%E5%90%8D%E7%A7%B0). Each version of the page has a slightly different set of information.
+- The following English/Chinese dictionaries:
+    - [The CEDICT project, hosted at mdbg.net](https://www.mdbg.net/chinese/dictionary). 
+    - [Wiktionary, the free dictionary.](https://en.wiktionary.org/wiki/Wiktionary:Main_Page)
+    - [Baidu Baike](https://baike.baidu.com/item/%E5%85%83%E7%B4%A0%E5%91%A8%E6%9C%9F%E8%A1%A8/282048?fromtitle=%E5%91%A8%E6%9C%9F%E8%A1%A8&fromid=9007750), along with [hanyu.baidu.com](https://hanyu.baidu.com/)
+    - [Online Xinhua Dictionary](http://xh.5156edu.com/)
+
+<!--http://xh.5156edu.com/-->
 
