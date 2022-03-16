@@ -28,16 +28,43 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 
 ## Full list In reverse chrono order
 
+Steamworld Quest
+Look Inside
+The Stillness of the Wind
+Crypto Against All Odds
+Pesterquest
+Golazo!
+    - Local: 
+    - Okay. Sports.
+    - It's a soccer game where you are encouraged to attack the other team. Cute and well made, but didn't really stick for me.
+As Far As the Eye
+Ashwalkers
+Double Kick Heroes
+Two Point Hospital
+Abandon Ship
+In Other Waters
+Fahrenheit Indigo Prophecy
+W2C 7 World Rally Championship
+Paper Beast
+MorkRedd
+    - Local:
+    - Bad. 
+    - Poorly Optimized. Slow. Dull autoscrolling. Stay in a spotlight as it slowly moves along. Pull a lever. Die because the edge detection on the light is iffy.
+Spellcast University
+Youtubers Life OMG!
+- Tales of Monkey Island
 - Demon Hunter 2
 - Liberated
 - BAFL - Brakes Are For Losers
     - Local:
+    - Okay. Cute arcady racer. A bit too chaotic to actually be engaging.
 - Rogue Heroes: Ruins of Tasos
     - Local:
     - Good. Zelda Clone Roguelite.
     - There's lots of little side mechanics that don't really have any meat, but the core gameplay loop and combat engine are rock solid.
 - Whisky Zombies
-    - Local:
+    - Local: 
+    - Meh. Top-down shooter.
 - Song of Horror
 - Tiny Robots Recharged
 - Blue Fire
@@ -110,6 +137,8 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
     - Local:
 - Boomerang Fu
     - Local:
+    - Good. Brawler.
+    - Throw boomerangs to cut your friends in half. Good pace. Interesting power-ups. Cute characters.
 - Sine Mora Ex
     - Local:
 - The Academy (The First Riddle)
@@ -212,7 +241,9 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
     - Local:
 - Dark Devotion
 - Mad Tracks
-    - Local:
+    - Local: 
+    - Bad. Racing.
+    - Baffling menu design made it hard to even get into the game.
 - Kunai
 - Melbits World
     - Local:
@@ -224,6 +255,8 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 - Steel Rats
     - Local:
 - PictoQuest
+    - Good. Puzzle.
+    - It's a Nonogram game. Nonograms are fun.
 - Dream Daddy
 - Forsaken Remastered
     - Online PVP
