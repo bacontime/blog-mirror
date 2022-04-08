@@ -68,7 +68,9 @@ Note that these sounds aren't the same as English consonants. The ㄱ sound for 
 
 It's sometimes joked that Tolkien invented the world of Middle Earth as an excuse to have people look at his invented languages.
 
-Tengwar is the alphabet used by Tolkien's elves. The sounds that each character makes is dependent on the language that you are writing, but for English, the letters are usually mapped like so:
+Tengwar is the alphabet used by Tolkien's elves. The sounds that each character makes is dependent on the language that you are writing, but for English, the letters are usually mapped like so:[^tengwarfont]
+
+[^tengwarfont]: The embedded Tengwar font, called "Tengwar Formal CSUR", comes from the [Free Tengwar Font Project](http://freetengwar.sourceforge.net/).
 
 <style>
     @font-face {
