@@ -49,7 +49,7 @@ I'll need to see if iframeresizer has a way of using javascript to modify a para
         data-mapping="pathname"
         data-reactions-enabled="0"
         data-emit-metadata="1"
-        data-theme="transparent_dark"
+        data-theme="dark_dimmed"
         crossorigin="anonymous"
         async>
 </script>
