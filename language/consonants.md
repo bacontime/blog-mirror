@@ -134,7 +134,7 @@ The Dental Fricatives here are the *Th* sounds. *S* and *Z* are mapped to  an
 
 
 In Tengwar, the vertical stem tells you how the sound is made.
-And the shape of the loops (up/down, bar/no-bar) tells you where in the mouth the sound is made.
+The shape of the loops (direction, whether there is a bar) tells you where in the mouth the sound is made.
 The loops are doubled to indicate the weak version of the sound.
 
 
