@@ -11,6 +11,10 @@ This is a simplification of [some stuff](https://en.wikipedia.org/wiki/Internati
 Vowels are noises you make by letting air freely exit your vocal tract without restriction or turbulence.
 Consonants are noises you make by interfering with the air flow in some way.
 
+<aside>
+What's going on with the sound that "R" makes? All the consonant charts I've seen have it on there *somewhere*. But different charts seem to put R in different places. Is it like some sort of incomprehensible eldritch mystery sound?
+</aside>
+
 Some consonants are hard to wrap your head around. [^noteaboutR]
 But there are some other consonants that fit into a nice little pattern.
 
