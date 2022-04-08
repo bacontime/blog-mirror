@@ -80,7 +80,7 @@ Tengwar is the alphabet used by Tolkien's elves. The sounds that each character 
         font-family: 'tengwar';
     }
 </style>
-<div class="table-wrapper"><table>
+<table>
   <thead>
     <tr>
       <th style="text-align: right"> </th>
@@ -127,7 +127,7 @@ Tengwar is the alphabet used by Tolkien's elves. The sounds that each character 
       <td class="tengwartd"></td>
     </tr>
   </tbody>
-</table></div>
+</table>
 
 This is only part of the Tengwar alphabet. 
 The Dental Fricatives here are the *Th* sounds. *S* and *Z* are mapped to  and .
