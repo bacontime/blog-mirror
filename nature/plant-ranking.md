@@ -206,29 +206,6 @@ More families of pretty flowers which bore me `¯\_(ツ)_/¯`:
 
 ---
 
-<script src="https://giscus.app/client.js"
-        data-repo="RMWinslow/posts"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzMzQ3MjkyMjA="
-        data-category="Comments"
-        data-category-id="DIC_kwDOE_OQBM4B-zgA"
-        data-mapping="pathname"
-        data-reactions-enabled="0"
-        data-emit-metadata="0"
-        data-theme="preferred_color_scheme"
-        crossorigin="anonymous"
-        async>
-</script>
-
-
-<script src="https://utteranc.es/client.js"
-        repo="RMWinslow/posts"
-        issue-term="pathname"
-        label="Comment"
-        theme="preferred-color-scheme"
-        crossorigin="anonymous"
-        async>
-</script>
-
 
 <!--
 ---
