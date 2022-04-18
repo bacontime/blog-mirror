@@ -70,25 +70,25 @@ The author's of Minimal English provided [a translation list of these terms into
 | be (somewhere) | 在 (zài) | Saying the object is at some place or engaged in some activity. Eg: "他在家" ("He is home."), "他在拉屎" ("He is pooping"). Compare to Spanish "estar". |
 | be (something) | 是(shì) | Saying two things are the same or that the object belongs to a category. "He is a doctor." Compare to Spanish "ser". For some qualities like 'tall' or 'sick', use 很 (hěn) instead. |
 | there is | 有(yŏu) | 有 also means 'have'. Compare "我有水" ("I have water") to "有水" ("There is water.")|
-| mine | 我的 wǒde | Example: "这 东西 是 我的" ("This thingamajig is mine."). "的" can be appended to a noun to indicate possession: 你的 (yours), 某人的 (somebody's), &c. |
+| mine | 我的 (wǒde) | Example: "这 东西 是 我的" ("This thingamajig is mine."). "的" can be appended to a noun to indicate possession: 你的 (yours), 某人的 (somebody's), &c. |
 | live, alive | 生活 (shēnghuó) or 活(huó) or 活着(huózhe) |  |
 | die, dead | 死 (sĭ) | Traditionally, the number four 四(sì) is considered unlucky because it sounds similar to 死. |
-| time when | 时候shíhòu |  |
-| now | 现在xiànzài |  |
-| before | 之前zhīqián |  |
-| after | 之后zhīhòu |  |
-| long time | 很久hénjiŭ |  |
+| time when | 时候 (shíhòu) |  |
+| now | 现在 (xiànzài) |  |
+| before | 之前 (zhīqián) |  |
+| after | 之后 (zhīhòu) |  |
+| long time | 很久 (hénjiŭ) |  |
 | short time | 一会儿 (yīhuìr) or  马上 (mǎshàng) | 一会儿 means something like 'in a moment'. 马上 means 'immediately' and literally translates to "horse up". |
 | for some time | 一段时间 (yīduàn shíjiān)  |  |
 | moment | 一刻 (yīkè) or 时刻 (shíkè) |  |
-| place where| 地方 (dìfāng) 哪里 (nǎlǐ) |  |
-| here| 这里zhèlǐ |  |
+| place where| 地方 (dìfāng) or 哪里 (nǎlǐ) |  |
+| here| 这里 (zhèlǐ) |  |
 | above | 上面 (shàngmiàn) or 上 (shàng) |  |
 | below | 下面 (xiàmiàn) or 下 (xià) |  |
 | far | 远 (yuăn) |  |
 | near | 近 (jìn) |  |
-| side | 边 biān | 边 means 'not in the middle': 'edge', 'side', &c.  |
-| inside | 里面lĭmiàn |  |
+| side | 边 (biān) | 边 means 'not in the middle': 'edge', 'side', &c.  |
+| inside | 里面 (lĭmiàn) |  |
 | touch | 接触 (jiēchù) or 触摸 (chùmō) |  |
 | not | 不 (bù) or 没 (méi) | 不 is negation. 没 means a lack, typically used before 有, as in "我没有水" ("I don't have water"). These words can also be used to inquire ask questions like so: 好不好 ("How's it hangin'?"", literally "good not good"), 有没有... ("Is there any ...", literally "have not have"). |
 | maybe | 也许 (yéxǔ)  |  |
@@ -97,7 +97,7 @@ The author's of Minimal English provided [a translation list of these terms into
 | if | 如果 (rúguŏ) |  |
 | very | 很 (hĕn) | Also used to express qualities or feelings, as mentioned above. |
 | more | 多 (duō) or 还 (hái) (still) | 多 is used in reference to excess quantity. 还 is used in reference to ongoing processes. |
-| like (similarity) | 像xiàng |  |
+| like (similarity) | 像 (xiàng) |  |
 
 
 
