@@ -1,12 +1,12 @@
 ---
-title: A List of Basic Chinese Terms
+title: List of Basic Chinese Terms
 parent: Chinese Characters
 grand_parent: Language
 ---
 
 WIP
 
-# My Lists of Basic Terms for Learning Mandarin
+# My Lists of Terms for Learning in Mandarin
 
 This is a collection of vocabulary lists I've put together. 
 The only common factor is that I found these collections of words compelling or interesting in some way.
