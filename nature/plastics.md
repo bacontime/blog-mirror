@@ -4,7 +4,10 @@ nav_exclude: false
 parent: Science and Nature
 ---
 
-The following is by no means a comprehensive guide to industrial chemistry. This is just an amateur exploration, driven by curiosity about which modern plastics could be produced without fossil fuels (Nearly all of them, it turns out!)
+The following is by no means a comprehensive guide to industrial chemistry. This is just an amateur exploration, driven by curiosity about which modern plastics could be produced without fossil fuels[^repostnote] (Nearly all of them, it turns out!)
+
+[^repostnote]: I have previously posted a version of this article elsewhere on the internet.  That version had a more whimsical tone, and the framing device was whether alchemists in a psuedo-medieval fantasy setting would be able to produce plastics.
+
 
 # What is plastic?
 
@@ -264,7 +267,7 @@ Here are some resources I found very useful, and might be useful if you want to 
 
 
 
-## Man-made polymers
+<!--## Man-made polymers
 
 If we're talking very broadly, bread can be thought of as one of the first man-made plastics. When we knead dough, we're encouraging the gluten proteins in the flour to connect together into long cross-connected fibers, which makes the bread flexible and chewy.
 
@@ -273,7 +276,7 @@ If we're talking very broadly, bread can be thought of as one of the first man-m
 Nitrocellulose (1846)
 : The first man-made plastic. It's made by treating cellulose with a mixture of nitric acid and sulfuric acid. (An alchemist would call these "spirit of niter" and "oil of vitriol".) Nitrocellulose was discovered on accident after a chemist used a cotton apron to wipe up an acid spill. Later, his apron dramatically burst into flame when hung up to dry. When used as an explosive, it's called "gun cotton" or "smokeless gunpowder". But it can also be easily dissolved and painted onto a surface as lacquer, replacing shellac. Nail polish is often dissolved nitrocellulose.
 
-<!--https://en.wikipedia.org/wiki/Collodion-->
+https://en.wikipedia.org/wiki/Collodion
 
 Celluloid (1862/1868)
 : A mixture of nitrocellulose with camphor, which is a stinky wax harvested from the camphor laurel. The camphor makes the nitrocellulose stronger and easier to work with. Celluloid is a _thermoplastic_, which means that it can be heated to become soft, molded into shape, and then cooled back down to become hard. Celluloid's first application was as a replacement for the ivory (elephant tooth) previously used to make billiard balls, and soon became widely popular as a replacement for horn and ivory in all sorts of applications. Celluloid film was also the first flexible material which could hold photographs. This flexibility allowed many small photographs to be stored on a long coiled strip of film, and led to the rise of moving pictures as an art form.   
@@ -569,3 +572,6 @@ Page 278 has a table of elastomers
 As described on [the wiki page for butadiene](https://en.wikipedia.org/wiki/Butadiene), it can be made fairly easily from ethanol.
 
 The styrene comes from ethylene and benzene. But toluene can be used instead, which can be distilled from pine oil?
+
+
+-->
