@@ -87,7 +87,7 @@ The author's of Minimal English provided [a translation list of these terms into
 | far | 远 (yuăn) |  |
 | near | 近 (jìn) |  |
 | side | 边 (biān) | 边 means 'not in the middle', 'edge', 'side', &c.  |
-| inside | 里面 (lĭmiàn) |  |
+| inside | 里面 (lĭmiàn) | 外面 (wàimiàn) for 'outside'. |
 | touch | 接触 (jiēchù) or 触摸 (chùmō) | The difference between 接触 and 触摸 is somewhat like the difference between 'contact' and 'poke'. |
 | not | 不 (bù) or 没 (méi) | 不 is negation. 没 means a lack, typically used before 有, as in "我没有水" ("I don't have water"). These words can also be used to inquire ask questions like so: 好不好 ("How's it hangin'?"", literally "good not good"), 有没有... ("Is there any ...", literally "have not have"). |
 | maybe | 也许 (yéxǔ)  |  |
@@ -98,9 +98,19 @@ The author's of Minimal English provided [a translation list of these terms into
 | more | 多 (duō) or 还 (hái) (still) | 多 is used in reference to excess quantity. 还 is used in reference to ongoing processes. |
 | like (similarity) | 像 (xiàng) |  |
 
+The authors  of Minimal English say the following conjuctions aren't universal, but the this seems like a good place to include them:
+
+| English | Chinese |
+|---|---|
+| and | 和 (hé) |
+| but | 但是 (dànshì) |
+| or | 或 (huò) |
 
 
 
+### So-called Universal Semantic Molecules
+
+The Authors of Minimal English provide the following list of more complicated concepts which they claim are nonetheless universal to all languages.
 
 
 
