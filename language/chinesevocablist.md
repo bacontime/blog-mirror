@@ -89,7 +89,7 @@ The author's of Minimal English provided [a translation list of these terms into
 | near | 近 (jìn) |  |
 | side | 边 (biān) | 边 means 'not in the middle': 'edge', 'side', &c.  |
 | inside | 里面 (lĭmiàn) |  |
-| touch | 接触 (jiēchù) or 触摸 (chùmō) |  |
+| touch | 接触 (jiēchù) or 触摸 (chùmō) | The difference between 接触 and 触摸 is somewhat like the difference between 'contact' and 'poke'. |
 | not | 不 (bù) or 没 (méi) | 不 is negation. 没 means a lack, typically used before 有, as in "我没有水" ("I don't have water"). These words can also be used to inquire ask questions like so: 好不好 ("How's it hangin'?"", literally "good not good"), 有没有... ("Is there any ...", literally "have not have"). |
 | maybe | 也许 (yéxǔ)  |  |
 | can | 能 (néng) or 会 (huì) |  |
