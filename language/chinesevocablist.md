@@ -27,7 +27,7 @@ The examples of basic translation they give are rather awkward and stilted. But 
  
  How do you define "Me"? You point at yourself while saying it. 
  
-The author's of Minimal English provided [a translation list of these terms into Chinese](https://intranet.secure.griffith.edu.au/__data/assets/word_doc/0032/345992/Chinese_Table_Primes_Final_YE_07_11_2016.docx), and the list below is based on the linked list, but with some slight differences and some additional clarifications.
+The author's of Minimal English provided [a translation list of these terms into Chinese](https://intranet.secure.griffith.edu.au/__data/assets/word_doc/0032/345992/Chinese_Table_Primes_Final_YE_07_11_2016.docx), and the list below is based on the linked list, but with some slight differences, edits, and additional clarifications.
  
  
  English | Chinese | Notes |
@@ -36,8 +36,7 @@ The author's of Minimal English provided [a translation list of these terms into
 | you | 你 (nĭ) | Or 您 (nín) if you want to be extra formal. |
 | someone | 某人mŏurén or 有人yŏurén or 人rén | 有些人 (yǒuxiērén) means 'some people' |
 | somethingorthing | 什么shénme or 某事 mŏshì or 东西dōngxī | 什么 also means 'what'. '东西' literally means 'eastwest' and can be used similarly to 'dingus' or 'whatzit'. |
-| person | 人 (rén) |  |
-| people | 人们 (rénmen) |  |
+| people | 人们 (rénmen) | 们 is also used as the plural modifier for pronouns. |
 | body | 身体 (shēntĭ) |  |
 | kinds | 种类 (zhŏnglèi) | varieties, categories, etc. |
 | parts | 部分 (bùfen) |  |
@@ -47,9 +46,9 @@ The author's of Minimal English provided [a translation list of these terms into
 | one | 一 (yī) |  |
 | two | 两 (liǎng) or 二 (èr) | 两 when talking about quantity, 二 when talking about the digit. |
 | some | 有的 (yŏude) or 有些 (yŏuxiē) or 一些 (yīxiē) |  |
-| all | 都dōu or 所有(的)suŏyŏu(de) or 全部quánbù |  |
-| much many | (很)多(hĕn)duō or 许多xŭduō |  |
-| little few | 很少 (hěnshǎo) or 一点点 (yīdiǎndiǎn) |  |
+| all | 都 (dōu) or 所有 (suŏyŏu) or 全部 (quánbù) | Use 两 and/or 都 to mean 'both'.|
+| much, many | 很多 (hĕnduō) or 许多 (xŭduō) | 很多 is literally 'very more'. |
+| little, few | 很少 (hěnshǎo) or 一点点 (yīdiǎndiǎn) | Dictionaries also list the word as "一点", with only one diǎn. But my wife says the typical idom has two diǎns. See for example, [the title of this song by Jay Chou](https://www.youtube.com/watch?v=COhiu3c7Sgc). |
 | good | 好 (hăo) |  |
 | bad | 坏huài or 不好bùhăo | 坏 means something which has become bad. 不好 means 'not good'. |
 | big | 大 (dà) |  |
