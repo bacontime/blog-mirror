@@ -81,13 +81,13 @@ The author's of Minimal English provided [a translation list of these terms into
 | short time | 一会儿 (yīhuìr) or  马上 (mǎshàng) | 一会儿 means something like 'in a moment'. 马上 means 'immediately' and literally translates to "horse up". |
 | for some time | 一段时间 (yīduàn shíjiān)  |  |
 | moment | 一刻 (yīkè) or 时刻 (shíkè) |  |
-| place where| 地方 (dìfāng) or 哪里 (nǎlǐ) |  |
+| place where| 地方 (dìfāng) or 哪里 (nǎlǐ) | 地方 is a place, as in a 'region' or 'location'; the characters 地方 can be incorrectly translated as 'soil rectangle'. as in "你在哪里？" ("Where are you?", literally "You are where?). Not to be confused with the similar 那里 (nàli), meaning 'there' or 'that place'. |
 | here| 这里 (zhèlǐ) |  |
 | above | 上面 (shàngmiàn) or 上 (shàng) |  |
 | below | 下面 (xiàmiàn) or 下 (xià) |  |
 | far | 远 (yuăn) |  |
 | near | 近 (jìn) |  |
-| side | 边 (biān) | 边 means 'not in the middle': 'edge', 'side', &c.  |
+| side | 边 (biān) | 边 means 'not in the middle', 'edge', 'side', &c.  |
 | inside | 里面 (lĭmiàn) |  |
 | touch | 接触 (jiēchù) or 触摸 (chùmō) | The difference between 接触 and 触摸 is somewhat like the difference between 'contact' and 'poke'. |
 | not | 不 (bù) or 没 (méi) | 不 is negation. 没 means a lack, typically used before 有, as in "我没有水" ("I don't have water"). These words can also be used to inquire ask questions like so: 好不好 ("How's it hangin'?"", literally "good not good"), 有没有... ("Is there any ...", literally "have not have"). |
