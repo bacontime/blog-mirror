@@ -4,6 +4,8 @@ parent: Chinese Characters
 grand_parent: Language
 ---
 
+WIP
+
 # My Lists of Basic Terms for Learning Mandarin
 
 This is a collection of vocabulary lists I've put together. 
@@ -112,10 +114,220 @@ The authors  of Minimal English say the following conjuctions aren't universal, 
 
 The Authors of Minimal English provide the following list of more complicated concepts which they claim are nonetheless universal to all languages.
 
+| English | Chinese |  Notes|
+| ---|--- |---|
+| hands | 手 (shǒu) |  |
+| mouth | 口 (kǒu) |  |
+| eyes | 目 (mù) |  |
+| head | 头 (tóu) | 头 has an oddly similar set of meanings to the English 'head'. There's the body part. But 头 can also mean boss, leader, top, beginning. And 头 is the measure word for livestock, in the same way that English has the phrase "head of cattle": "三头牛" means "three head of cattle". (In Chinese, you would also say 三头猪, whereas English would just say "three pigs" instead of "three head of pig".) |
+| ears | 耳 (ěr) |  |
+| nose | 鼻子 (bízi) | 鼻 by itself is fine. Yiru's grandma says I have a 大鼻子. |
+| face | 脸 (liǎn) |  |
+| legs | 腿 (tuǐ) |  |
+| teeth | 牙齿 (yáchǐ) |  |
+| fingers | 手指 (shǒuzhǐ) |  |
+| breasts | 胸部xiōngbù or 奶奶nǎinai or 咪咪mīmī or 乳rǔ |  |
+| skin | 皮肤 (pífū) |  |
+| bones | 骨头 (gǔtou) |  |
+| blood | 血 (xuè) |  |
+| long | 长 (cháng) |  |
+| round | 圆 (yuán) |  |
+| flat | 平 (píng) |  |
+| thin | 薄 (báo) |  |
+| hard | 硬 (yìng) |  |
+| soft | 软 (ruǎn) |  |
+| sharp | 利 (lì) |  |
+| smooth | 滑 (huá) |  |
+| heavy | 重 (shòng) |  |
+| be on something | 在 (zài) | Same word as to 'be' at a location. |
+| in the middle | 中 (zhōng) | 中 can also be used to represent the country of China, 中国 (Zhōngguó), literally meaning 'Middle Country'. |
+| the Earth | 地球 (dìqiú) | Literally 'dirt ball'. |
+| sun | 日 (rì) |  |
+| moon | 月 (yué) |  |
+| stars | 星 (xīng) |  |
+| ground | 地 (dì) |  |
+| sky, day | 天 (tiān) | Same word in Chinese. |
+| during the day | 白天 (báitiān) | Literally means 'white sky'. |
+| at night | 晚上 (wǎnshang) or 夜里 (yèli) | 晚上 is evening. 夜里 is 'at night'. |
+| water | 水 (shuǐ) |  |
+| fire | 火 (huǒ) |  |
+| creature | 动物 (dòngwù)  | 动物 means animal (literally 'moving thing').  |
+| grow | 生长 (shēngzhǎng) |  |
+| egg | 蛋 (dàn) |  |
+| tail | 尾 (wěi) or 尾巴 (wěibā) |  |
+| wings | 翅膀 (chìbǎng) |  |
+| feathers | 羽毛 (yǔmáo) |  |
+| children | 孩子 (háizi) | The character 子 originated as a pictogram of a baby, and by itself meant "child". But nowadays, 子 is mostly used as part of another word. |
+| men | 男人 (nànrèn) | Male person. |
+| women | 女 (nǚ) |  |
+| be born | 出生 (chūshēng) |  |
+| mother | 妈妈 (māmā) or 母亲 (mǔqīn) | Affectionate vs academic. Compare 'mama' vs 'mother'. |
+| father | 爸爸 (bàba) or 父亲 (fùqīn) | Affectionate vs academic.  Compare 'papa' vs 'father'.|
+| wife | 老婆 (lǎopó) or 妻子 (qīzi) |  Affectionate vs academic. 老婆 is like 'old lady'. |
+| husband | 老公 (lǎogōng) or 丈夫 (zhàngfu) |  Affectionate vs academic. 老公 is like 'old man'.  |
+| wood | 木 (mù) |  |
+| stone | 石 (shí) |  |
+| know (someone) |  () |  |
+| be called |  () |  |
+| hold |  () |  |
+| make |  () |  |
+| kill | 杀 (shā) |  |
+| breathe | 呼吸 (hūxī) |  |
+| sleep | 睡觉 (shuìjiào) |  |
+| sit | 坐 (zuò) |  |
+| lie | 躺 (tǎng) |  |
+| stand | 站 (zhàn) |  |
+| play | () |  |
+| laugh | 笑 (xiào) |  |
+| sing | 唱歌 (chànggē) | |
 
 
 
+<!--
+The following terms aren't interesting vocab terms, but show up in Minimal English
+
+| at the top |  () |  |
+| at the bottom | () |  |
+| in front of |  () |  |
+| around | () |  |
+-->
+
+### Other Words from the Same Source
+
+In addition to the above universal terms, the authors of Minimal English also provide a list of terms which they believe to be useful for international communication. And hey, I may as well learn those words too.
+
+| English                  | Chinese               | Notes                   |
+|--------------------------|-----------------------|-------------------------|
+| hungry                   | 饿 (è)                |                         |
+| brain                    | 脑 (nǎo)              |                         |
+| heart                    | 心 (xīn)              |                         |
+| river                    | 河 (hé) or 川 (chuān) |                         |
+| mountain                 | 山 (shān)             |                         |
+| desert                   | 沙漠 (shāmò)          |                         |
+| sea                      | 海 (hǎi)              |                         |
+| island                   | 岛 (dǎo)              |                         |
+| forest                   | 森林 (sēnlín)         |                         |
+| rain                     | 雨 (yǔ)               |                         |
+| wind                     | 风 (fēng)             |                         |
+| snow                     | 雪 (xuě)              |                         |
+| ice                      | 冰 (bīng)             |                         |
+| air                      | 空气 (kōngqì)         |                         |
+| flood                    | 洪 (hóng)             |                         |
+| storm                    | 暴风雨 (bàofēngyǔ)    |                         |
+| drought                  | 干旱 (gānhàn)         |                         |
+| earthquake               | 地震 (dìzhèn)         |                         |
+| east                     | 东 (dōng)             |                         |
+| west                     | 西 (xī)               |                         |
+| north                    | 北 (běi)              |                         |
+| south                    | 南 (nán)              |                         |
+| bird                     | 鸟 (niǎo)             |                         |
+| fish                     | 鱼 (yú)               |                         |
+| tree                     | 树 (shù)              |                         |
+| seeds                    | 种子 (zhǒngzi)        |                         |
+| grass                    | 草 (cǎo)              |                         |
+| mosquitoes               | 蚊子 (wénzi)          |                         |
+| flies                    | 苍蝇 (cāngyíng)       |                         |
+| snake                    | 蛇 (shé)              |                         |
+| dog                      | 狗 (gǒu)              |                         |
+| cat                      | 猫 (māo)              |                         |
+| horse                    | 马 (mǎ)               |                         |
+| cow                      | 牛 (niú)              |                         |
+| pig                      | 猪 (zhū)              |                         |
+| family                   | 家 (jiā)              |                         |
+| month                    | 月 (yuè)              | Same character as moon. |
+| week                     | 星期 (xīngqī)         |                         |
+| clock                    | 钟表 (zhōngbiǎo)      |                         |
+| hour                     | 小时 (xiǎoshí)        |                         |
+| second                   | 秒 (miǎo)             |                         |
+| house                    | 房子 (fángzi)         |                         |
+| village                  | 村庄 (cūnzhuāng)      |                         |
+| city                     | 城市 (chéngshì)       |                         |
+| school                   | 学校 (xuéxiào)        |                         |
+| hospital                 | 医院 (yīyuàn)         |                         |
+| teacher                  | 老师 (lǎoshī)         |                         |
+| doctor                   | 医生 (yīshēng)        |                         |
+| nurse                    | 护士 (hùshi)          |                         |
+| soldier                  | 士兵 (shìbīng)        |                         |
+| country                  | 国家 (guójiā)         |                         |
+| government               | 政府 (zhèngfǔ)        |                         |
+| capital                  | 京 (jīng)             |                         |
+| border                   |                       |                         |
+| flag                     |                       |                         |
+| passport                 |                       |                         |
+| vote                     |                       |                         |
+| science                  |                       |                         |
+| the law                  |                       |                         |
+| health                   |                       |                         |
+| education                |                       |                         |
+| sport                    |                       |                         |
+| meat                     | 肉 (ròu)              |                         |
+| rice                     | 米 (mǐ)               |                         |
+| wheat                    | 小麦 (xiǎomài)        |                         |
+| corn                     | 玉米 (yùmǐ)           |                         |
+| flour                    | 面粉 (miànfěn)        |                         |
+| salt                     | 盐 (yán)              |                         |
+| sugar                    | 糖 (táng)             |                         |
+| sweet                    | 甜 (tián)             |                         |
+| knife                    | 刀 (dāo)              |                         |
+| key                      |                       |                         |
+| gun                      |                       |                         |
+| bomb                     |                       |                         |
+| medicines                |                       |                         |
+| paper                    | 纸 (zhǐ)              |                         |
+| iron                     | 铁 (tiě)              |                         |
+| metal                    | 金属 (jīnshǔ)         |                         |
+| glass                    |                       |                         |
+| leather                  |                       |                         |
+| wool                     |                       |                         |
+| cloth                    |                       |                         |
+| Thread                   |                       |                         |
+| gold                     | 金 (jīn)              |                         |
+| rubber                   |                       |                         |
+| plastic                  |                       |                         |
+| oil                      |                       |                         |
+| coal                     |                       |                         |
+| petrol                   |                       |                         |
+| car                      |                       |                         |
+| bicycle                  |                       |                         |
+| plane                    |                       |                         |
+| boat                     |                       |                         |
+| train                    |                       |                         |
+| road                     |                       |                         |
+| wheel                    |                       |                         |
+| wire                     |                       |                         |
+| engine                   |                       |                         |
+| pipe                     |                       |                         |
+| telephone                |                       |                         |
+| television               |                       |                         |
+| radio                    |                       |                         |
+| phone                    |                       |                         |
+| read                     |                       |                         |
+| write                    |                       |                         |
+| book                     |                       |                         |
+| photo                    |                       |                         |
+| newspaper                |                       |                         |
+| film                     |                       |                         |
+| money                    |                       |                         |
+| God                      |                       |                         |
+| war                      |                       |                         |
+| poison                   |                       |                         |
+| music                    |                       |                         |
+| go/went                  |                       |                         |
+| eat                      |                       |                         |
+| drink                    |                       |                         |
+| take (someone somewhere) |                       |                         |
+| burn                     |                       |                         |
+| buy/pay                  |                       |                         |
+| learn                    |                       |                         |
+| clean (adjective)        |                       |                         |
 
 
+
+## Henanren Phrases
+
+Source: My wife.
+
+- 吃了吗 (chīlema), pronounaced more like 'tseleme'. A greeting. Literally means 'Have you eaten?'
+- 中 (zhōng). A greeting, 'okay'. Literally means 'middle'. 
 
 
