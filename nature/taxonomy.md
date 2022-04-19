@@ -21,46 +21,46 @@ Fish, in other words, are a *non-monophyletic grouping*; they aren't a true *cla
 These kinds of discussions are somewhat silly, but I do think thinking about the tree of life in terms of 
 [clades](https://en.wikipedia.org/wiki/Clade) can be a fun and enlightening exercise.
 
-After all, we used to think of reptiles and amphibians as the same thing. And it was only in the last century that people reaized that mushrooms aren't plants.
+After all, we used to think of reptiles and amphibians as the same kind of thing. And it was only in the last century that people reaized that mushrooms aren't plants.
 
 If you were to partially categorize the vertebrates using only monophyletic groups, 
 and avoiding most of the fancy latin terminology, 
 you could come up with a tree that looks something like this:
 
 
-### Vertabrate Clades
+### Clades of Fishes:
 
-- Jawless Fish (hagfish, lampreys)
-- Cartilaginous Fish (sharks, rays)
-- Bony Fish
-    - Ray-finned Fish (trout, seahorses)
-    - Lobe-finned Fish
+- Jawless Fishes: hagfish, lampreys
+- Cartilaginous Fishes: sharks, rays
+- Bony Fishes
+    - Ray-finned Fishes: trout, seahorses, &c.
+    - Lobe-finned Fishes:
         - Coelacanths
         - Lungfish
-        - Tetrapods (That includes you!)
+        - **Tetrapods** *(Greek for "Four Legs")*
 
-### Tetrapod Clades
+### Clades of Tetrapods:
 
 - Amphibians
-- Mammals
-    - Monotremes (platypus, echidna)
-    - Marsupials (kangaroo, possum)
-    - Placentals (humans included)
+- Mammals:
+    - Monotremes: platypuses, echidnas
+    - Marsupials: kangaroos, possums, &c.
+    - **Placentals** 
 - Reptiles
     - Tuatara
-    - Squamates (lizards and snakes)
+    - Squamates: lizards, snakes
     - Turtles
     - Crocodilians
-    - Dinosaurs
-        - Ratites and Tinamous (those weird birds that have trouble flying. You know the ones)
-        - Fowl (chickens, ducks)
+    - Birds
+        - Ratites, including Tinamous: those weird birds that have trouble with the whole flying concept. You know the ones.
+        - Fowl: chickens, ducks)
         - Newbirds (crows, eagles, penguins, all the normal birds)
 
-### Placental Clades
+### Clades of Placentals:
 
-- Afrotheria (meaning "African Beasts") (A grab-bag of animals nobody thought were related, including the elephant, the dugong, the aardvark, and some shrews)
+- Afrotherians *(latin for "African Beasts")*: A grab-bag of animals nobody thought were related, including the elephant, the dugong, the aardvark, and some shrews.
 - Armadillos
-- Pilosans (anteaters and sloths)
+- Pilosans *(latin for "furries")*: anteaters, sloths
 - Supraprimates
     - Lagomorphs (hare, rabbit)
     - Rodents (rat, beaver, capybara)
@@ -68,10 +68,19 @@ you could come up with a tree that looks something like this:
     - Colugo
     - Primates
 - Bats
-- Eulipotyphla ("Truly fat and blind")
-- Ungulates (whale, goat, horse)
+- Eulipotyphlans ("Truly fat and blind")
+- Ungulates:
+    - Odd-toed ungulates: equids, tapirs, rhinos
+    - Even-toed ungulates:  
+        - Camels
+        - Giraffes
+        - Pigs
+        - Ruminants
+        - Whippos  
 - Pangolins
-
+- Carnivorans:
+    - Caniforms
+    - Feliforms 
 
 
 <!--
