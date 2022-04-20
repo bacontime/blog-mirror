@@ -4,16 +4,19 @@ nav_exclude: false
 parent: Science and Nature
 ---
 
+WIP
+
 # Monophyletic Taxonomy
 
 An educated person might think that whales are fish.  
 An educated person knows that whales aren't fish; they're mammals.  
-A pedantic person knows that whales *are* fish because *all mammals* are fish.  
-The enlightened individual knows that there is [No Such Thing As A Fish](https://www.youtube.com/watch?v=uhwcEvMJz1Y)
+A fan of the show QI knows that there is [No Such Thing As A Fish](https://www.youtube.com/watch?v=uhwcEvMJz1Y).
+The enlighted pedant knows that whales *are* fish because *all mammals* are fish.  
+
 
 So goes the internet discourse. 
 Pufferfish, you see, share a more recent ancestor with humans than they do with sharks.
-Hence any group consisting of only the things called 'fish' is a group defined by appearance rather than ancestry.
+Any group consisting of only the things called 'fish' is a group defined by physical features rather than ancestry.
 Fish, in other words, are a *non-monophyletic grouping*; they aren't a true *clade*.  
 
 (Along similar lines: a penguin is a dinosaur, and hence a reptile, and hence a fish.)
@@ -24,6 +27,7 @@ These kinds of discussions are somewhat silly, but I do think thinking about the
 After all, we used to think of reptiles and amphibians as the same kind of thing. And it was only in the last century that people reaized that mushrooms aren't plants.
 
 If you were to partially categorize the vertebrates using only monophyletic groups, 
+playing a bit fast and loose with terms,
 and avoiding most of the fancy latin terminology, 
 you could come up with a tree that looks something like this:
 
@@ -45,10 +49,10 @@ you could come up with a tree that looks something like this:
 - Mammals:
     - Monotremes: platypuses, echidnas
     - Marsupials: kangaroos, possums, &c.
-    - **Placentals** 
+    - ~~**Placentals**~~ Shrews 
 - Reptiles
     - Tuatara
-    - Squamates: lizards, snakes
+    - Lizards, including snakes.
     - Turtles
     - Crocodilians
     - Birds
@@ -56,7 +60,7 @@ you could come up with a tree that looks something like this:
         - Fowl: chickens, ducks)
         - Newbirds (crows, eagles, penguins, all the normal birds)
 
-### Clades of Placentals:
+### Clades of ~~Placentals~~ Shrews:
 
 - Afrotherians *(latin for "African Beasts")*: A grab-bag of animals nobody thought were related, including the elephant, the dugong, the aardvark, and some shrews.
 - Armadillos
@@ -68,7 +72,7 @@ you could come up with a tree that looks something like this:
     - Colugo
     - Primates
 - Bats
-- Eulipotyphlans ("Truly fat and blind")
+- Eulipotyphlans ("Truly fat and blind"): Hedgehogs et. al. Shrews here too.
 - Ungulates:
     - Odd-toed ungulates: equids, tapirs, rhinos
     - Even-toed ungulates:  
