@@ -10,7 +10,7 @@ WIP
 
 An uneducated person might think that whales are fish.  
 An educated person knows that whales aren't fish; they're mammals.  
-A fan of the show *QI* knows that there is [No Such Thing As A Fish](https://www.youtube.com/watch?v=uhwcEvMJz1Y).
+A fan of the show *QI* knows that there is [No Such Thing As A Fish](https://www.youtube.com/watch?v=uhwcEvMJz1Y).   
 The enlighted pedant knows that whales *are* fish because *all mammals* are fish.  
 
 So goes the internet discourse. 
@@ -19,10 +19,14 @@ Pufferfish, you see, share a more recent ancestor with humans than they do with 
 Any group consisting of only the things called '[fish](https://en.wikipedia.org/wiki/Fish)' is a group defined by physical features rather than shared ancestry.
 Fish, in other words, are a *non-monophyletic grouping*; they aren't a true *clade*.
 
+<!--Maybe put the clade definition in an aside-->
+
 These kinds of discussions are somewhat silly, but thinking about the tree of life in terms of 
 [clades](https://en.wikipedia.org/wiki/Clade) can be a fun and enlightening exercise.
 After all, we used to think of reptiles and amphibians as the same kind of thing. 
-And it was only in the last century that people decided/reaized that mushrooms aren't plants.
+And it was only in the last century that people realized that mushrooms aren't plants.
+
+<!--Insert graphics here. Aside with Lupo's comment about how none of the groupings are wrong per se just useless.-->
 
 
 ## Examples of non-monophyletic groupings
