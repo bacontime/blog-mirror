@@ -62,6 +62,17 @@ https://www.youtube.com/watch?v=yGi-8pTcS0c
 -->
 
 
+Lizards (Squamata)
+: Lizards are not a clade. Snakes are a clade. So are [amphisbaenians](https://en.wikipedia.org/wiki/Amphisbaenia). All three of these types of critters are called *squamates* in the order *squamata*. 
+: A lizard is any non-snake, non-amphisbaenian squamate.
+
+This one seems like it might be a reasonable category; snakes and amphisbaenians are both [mostly](https://www.youtube.com/watch?v=0GhSOD6CTWA&t=140s) legless, so a lizard is just a squamate that still has its legs, right? Well no, there are loads of legless lizards. As described by a professional reptile nerd [in this amusing rant](https://www.youtube.com/watch?v=dWPqXlxnki0), there are over twenty lineages of legless lizards, so it seems bizarre that these two in particular are excluded as not being lizardy enough for the lizard club. You know what? His rant is convincing. Snakes *are* lizards; anyone who tells you otherwise is a fool. *hashtag lizard unity hashtag snakesarelizards*
+
+Conversely, [tuatara](https://en.wikipedia.org/wiki/Tuatara) look super lizardy, and used to be considered lizards, but aren't part of the squamate clade. Biologists stopped calling them lizards when they noticed that while they do share some traits with lizards, they also share some traits with crocodiles (spiny plates) and turtles (beak instead of teeth). Tuatara are now thought to be the only surviving members of the [beakheads](https://en.wikipedia.org/wiki/Rhynchocephalia), a sort of sister clade to the lizards. Together, the squamates and beakheads form the clade of *Lepidosaurs*. And for the purposes of this exercise, it doesn't really matter whether we use "lizard" to refer to Squamata or Lepidosauria; both are clades full of lizardy things.
+ 
+
+
+
 ### Poly-phyla (Some more tenouous examples)
 
 
