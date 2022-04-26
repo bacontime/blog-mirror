@@ -1,5 +1,5 @@
 ---
-title: Taxonomy Visualization
+title: Monophyletic Taxonomy
 nav_exclude: false
 parent: Science and Nature
 ---
@@ -19,7 +19,10 @@ Pufferfish, you see, share a more recent ancestor with humans than they do with 
 Any group consisting of only the things called '[fish](https://en.wikipedia.org/wiki/Fish)' is a group defined by physical features rather than shared ancestry.
 Fish, in other words, are a *non-monophyletic grouping*; they aren't a true *clade*.
 
-<!--Maybe put the clade definition in an aside-->
+<aside>
+A clade is any group of organisms which share a common ancestor, such that all of the descendants of that common ancestor are included in the group.
+</aside>
+
 
 These kinds of discussions are somewhat silly, but thinking about the tree of life in terms of 
 [clades](https://en.wikipedia.org/wiki/Clade) can be a fun and enlightening exercise.
@@ -34,6 +37,18 @@ And it was only in the last century that people realized that mushrooms aren't p
 A clade is any group of organisms which share a common ancestor, such that all of the descendants of that common ancestor are included in the group.
 
 ### Para-phyla
+
+### Fishes (Vertebrata)
+
+Fish are not a clade. The common ancestor of sharks, tuna, hagfish, and lungfish, is also the ancestor of tetrapods (reptiles, birds, mammals, and amphibians; all typically four-limbed land creatures). *Vertebra* is the name for the clade which includes tetrapods and fish, and its members are called *vertebrates*. 
+
+Thus fish, as usually defined, is the group consisting of *non-tetrapod vertebrates*. 
+
+If we want to make fish a clade, we must includes whales, chickens, and the like.
+
+
+
+### Dinos (Dinosauria)
 
 Fishes (Vertebrata)
 : Fish are not a clade. The common ancestor of sharks, tuna, hagfish, and lungfish, is also the ancestor of tetrapods (reptiles, birds, mammals, and amphibians; all typically four-limbed land creatures). *Vertebra* is the name for the clade which includes tetrapods and fish, and its members are called *vertebrates*. 
@@ -58,8 +73,11 @@ which is just latin for 'dragons'.
 Antelopes (Bovidae)
 : Antelopes are not a clade<!--, unless we restrict the term to only mean "[True Antelopes](https://en.wikipedia.org/wiki/Antilopinae)"-->. The clade which contains antelopes is called *Bovidae*, and its members are called *bovids*, which means 'cattle-like'. Cows are bovids, of course. So are sheep, goats, and musk ox. An antelope is simply any bovid which people don't care enough about to lump it into its own category.
 : I suppose you could cheekily define antelope as *non-algricultural bovids*, meaning bovid genera which are not commonly tamed and domesticated. 
-: The clade becomes even more expansive if Pronghorns are included. Pronghorns are often called American Antelope or Pronghorn Antelope. But they aren't even bovids; Pronghorn are their own thing, more closely related to giraffes. The clade which includes both bovids and pronghorns is called *Pecora*, which, like *bovidae*, can be translated as 'cattle-like'. Deer and giraffes are also pecorans. 
-: So an antelope in the broadest sense is anything related to cattle which isn't similar enough to cattle to be called cattle, but which isn't different enough to be called something else. 🤷
+
+
+The clade becomes even more expansive if Pronghorns are included. Pronghorns are often called American Antelope or Pronghorn Antelope. But they aren't even bovids; Pronghorn are their own thing, more closely related to giraffes. The clade which includes both bovids and pronghorns is called *Pecora*, which, like *bovidae*, can be translated as 'cattle-like'. Deer and giraffes are also pecorans. 
+
+So an antelope in the broadest sense is anything related to cattle which isn't similar enough to cattle to be called cattle, but which isn't different enough to be called something else. 🤷
 
 <!--Eland domestication:
 https://www.youtube.com/watch?v=yGi-8pTcS0c
@@ -85,6 +103,20 @@ Shrews / Mammals
 Deer / Ruminants
 
 Worms / Bilateral creatures. <!--Non-snake cylidrical bilaterians?-->
+
+
+### Worms (Bilateria)
+
+
+<!--
+Papers about Mammal Phylogeny
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000494
+https://royalsocietypublishing.org/doi/epdf/10.1098/rstb.2015.0140
+https://www.pnas.org/doi/pdf/10.1073/pnas.1211733109
+https://genome.cshlp.org/content/17/4/413.full.pdf
+https://www.whozoo.org/mammals/mammalianphylo.htm
+-->
+
 
 
 ---
