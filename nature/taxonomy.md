@@ -46,6 +46,10 @@ Thus fish, as usually defined, is the group consisting of *non-tetrapod vertebra
 
 If we want to make fish a clade, we must includes whales, chickens, and the like.
 
+### Raptors / Birds of Prey (Telluraves)
+
+Birds of Prey, also called Raptors are the 
+
 
 
 ### Dinos (Dinosauria)
@@ -197,6 +201,75 @@ https://en.wikipedia.org/wiki/Tyrannoraptora
 
 
 
+```
+🐭🐁🐀🐹🐿️🦫
+🐰🐇
+
+🐵🐒🦍🦧
+
+🐶🐕🦮🐕‍🦺🐩🐺🦊
+🦝🐻🐻‍❄️🐼🦦🦨🦡
+
+🐱🐈🐈‍⬛🦁🐯🐅🐆
+
+🐴🐎🦄🦓🦏
+
+🐷🐖🐗🐽
+
+🦌
+🦬🐮🐂🐃🐄
+🐏🐑🐐
+🐪🐫🦙
+🦒
+🦛
+
+🐘🦣
+
+🦔
+🦇
+🦥
+
+🐨🦘
+
+Birds
+  Ratites
+  Fowl
+    Landfowl: 🦃🐔🐓🐣🐤🐥🦚
+    Waterfowl: 🦆🦢
+  Newbirds
+    Flamingos: 🦩
+    Doves: 🕊️🦤
+    Penguins: 🐧
+    Birds of Prey: 🦅🦉🐦
+    
+    
+    
+🪶
+🐦 might be bluebird or cardinal, both of which are songbirds. Emojidex displays it as a parrot, which is the sister clade to songbirds.
+```
+
+<!--
+Some bird papers
+https://www.sciencedirect.com/science/article/pii/S1055790317308539?casa_token=AYxqaqkJaroAAAAA:NadGsizAorfEGmr7sFlTjknJnSabW72inytTJDj8C0T5hX5i-bElUekC4cc5m7f-kC97yM-HhQ#f0005
+https://www.researchgate.net/profile/Peter-Houde/publication/334115560_Resolving_the_Avian_Tree_of_Life_from_Top_to_Bottom_The_Promise_and_Potential_Boundaries_of_the_Phylogenomic_Era/links/5d30a09592851cf4408fd004/Resolving-the-Avian-Tree-of-Life-from-Top-to-Bottom-The-Promise-and-Potential-Boundaries-of-the-Phylogenomic-Era.pdf
+https://www.nature.com/articles/nature15697
+https://www.mdpi.com/2673-6004/2/1/1/htm
+https://academic.oup.com/sysbio/article/66/5/857/3091102
+
+
+Articles about difficulty of resolving phylo trees, especially when there are short time periods between the splitting of branches.
+https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000602
+https://www.cell.com/current-biology/fulltext/S0960-9822(17)31092-8
+https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.1016
+
+
+
+hoatzin, aka stinkbird
+-->
+
+[Data Types and the Phylogeny of Neoaves](https://www.mdpi.com/2673-6004/2/1/1/htm) 
+: Braun and Kimball (2021)
+: This paper compares the different versions of the bird family tree. Studies agree about some parts of the family tree, but disagree about others. (e.g. what's going on with the hoatzins?) The language in this article is very technical, but the pictures give ample context. 
 
 
 
