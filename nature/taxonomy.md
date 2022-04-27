@@ -210,34 +210,35 @@ https://en.wikipedia.org/wiki/Tyrannoraptora
 
 
 ```
-🐭🐁🐀🐹🐿️🦫
-🐰🐇
 
-🐵🐒🦍🦧
+Frogge: 🐸
 
-🐶🐕🦮🐕‍🦺🐩🐺🦊
-🦝🐻🐻‍❄️🐼🦦🦨🦡
+Mammals
+  Marsupials: 🐨🦘
+  Supraprimates
+    Rodents: 🐭🐁🐀🐹🐿️🦫
+    Rabbits: 🐰🐇
+    Monkeys: 🐵🐒🦍🦧
+  Even-toed Ungulates:
+    Camelids: 🐪🐫🦙
+    Whippos: 🦛🐳🐋🐬
+    Pigs: 🐷🐖🐗
+    Ruminants: 🦌 🦬🐮🐂🐃🐄 🐏🐑🐐 🦒
+  Odd-toed Ungulates: 🐴🐎🦄🦓🦏
+  Carnivorans:
+    Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
+    Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊 🦝🐻🐻‍❄️🐼🦦🦨🦡 🦭
+  Bats: 🦇
+  Hedgehogs: 🦔
+  Elephants: 🐘🦣
+  Sloths: 🦥
+    
 
-🐱🐈🐈‍⬛🦁🐯🐅🐆
+Reptiles:
+  Lizards: 🦎🐍
+  Turtles: 🐢
+  Archosaurs: 🐊🦕🦖 and Birds
 
-🐴🐎🦄🦓🦏
-
-🐷🐖🐗🐽
-
-🦌
-🦬🐮🐂🐃🐄
-🐏🐑🐐
-🐪🐫🦙
-🦒
-🦛
-
-🐘🦣
-
-🦔
-🦇
-🦥
-
-🐨🦘
 
 Birds
   Ratites
@@ -248,12 +249,38 @@ Birds
     Flamingos: 🦩
     Doves: 🕊️🦤
     Penguins: 🐧
-    Birds of Prey: 🦅🦉🐦
+    Birds of Prey (Landbirds): 🦅🦉🐦
     
-    
-    
-🪶
+ 
+Fish
+  Cartilaginous Fish: 🦈
+  Ray-finned Fish: 🐟🐠🐡
+  Lobe-finned Fish: all Tetrapods 
+ 
+ 
+Mollusks: 🐙🦑🐚🐌🦪
+ 
+Crustaceans: 
+  Insects: 🦋🐛🐜🐝🪲🐞🦗🪳🦟🪰
+  Crabs: 🦀🦞🦐
+Arachnids: 🕷️🦂
+
+Worms: 🪱, but also all of the above
+
+
+🦠 Inconsistent presentation. Might be a protist, might be a bacterium, might be a virus.
+ 
+🐲🐉 Lizards? 
+ 
+🪶🕸️🐽🐾
+
 🐦 might be bluebird or cardinal, both of which are songbirds. Emojidex displays it as a parrot, which is the sister clade to songbirds.
+
+🕷🕸 unqualified
+
+(🪸)coral
+
+
 ```
 
 <!--
