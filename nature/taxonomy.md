@@ -154,9 +154,20 @@ The smallest clade that includes all of these shrews is *Placentalia*, encompass
 A similar argument could be made to expand 'mole' to apply to all placental mammals, by way of the true moles and the golden moles.
 But 'shrew' sounds funnier, and I've heard it said that the shrew's bodyplan is in some sense the 'default' mammalian bodyplan.
 
-(There's also various species called "marsupial shrews" and "shrew possums", which would expand our shrew clade to include all the placental mammals and the marsupials. But unlike the previous shrews mentioned, biologists never grouped marsupial shrews together in the same clade with the other shrews; the pouch makes the difference clear. And besides, there are also creatures called "marsupial mice", "marsupial moles", "marsupial tapirs", and the "Tasmanian tiger". People just weren't being very creative when they named some of these critters.)
+(There's also various species called "marsupial shrews" and "shrew possums", which would expand our shrew clade to include all the placental mammals and the marsupials. But unlike the previous shrews mentioned, biologists never grouped marsupial shrews together in the same clade with the other shrews; the pouch makes the difference clear. And besides, there are also creatures called "marsupial mice", "marsupial moles", "marsupial tapirs", and the "Tasmanian tiger". And in Chinese, kangaroos are called "pocket rats". People just weren't being very creative when they named some of these critters.)
 
 
+
+### Possums (Marsupalia)
+
+Speaking of marsupials, possums are not a clade. To make possums into a clade, the macropods (kangaroos, wallabies, etc.) must be included[^possumcite].
+
+[^possumcite]: From **[An emerging consensus in the evolution, phylogeny, and systematics of marsupials and their fossil relatives (Metatheria)](https://academic.oup.com/jmammal/article/100/3/802/5498022?login=false)** Beck, Croft, Eldridge, Fox, Travouillon (2019): 
+    > A monophyletic grouping of all “possums” (Phalangeroidea + Petauroidea)... was initially supported by DNA hybridization data (Kirsch et al. 1997) ... However, this arrangement has received little support in subsequent molecular studies. Instead these analyses have allied Macropodiformes with either Phalangeroidea (Phillips and Pratt 2008; Meredith et al. 2009a, 2009b, 2009c), consistent with some morphological evidence (Szalay 1994), or with Petauroidea (Meredith et al. 2011; Mitchell et al. 2014; May-Collado et al. 2015), but without strong support for either arrangement.
+
+Possums aren't the same thing as **o**possums (american marsupials famous for playing dead) or shrew-oppossums (a marsupial which is neither a shrew nor an oppossum). But opossums are often called "'possums", and possums were named for their similarity to opossums. Possum.
+
+Anyways, if we want a clade that includes all the (o)possums, then we need to include every marsupial.
 
 
 
