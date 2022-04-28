@@ -337,7 +337,33 @@ https://en.wikipedia.org/wiki/Tyrannoraptora
 
 
 
+```
 
+Frogge: 🐸
+
+Mammals
+  Possums: 🐨🦘
+  Shrews
+    Supraprimates
+      Rodents: 🐭🐁🐀🐹🐿️🦫
+      Rabbits: 🐰🐇
+      Monkeys: 🐵🐒🦍🦧
+    Even-toed Ungulates:
+      Camelids: 🐪🐫🦙
+      Whippos: 🦛🐳🐋🐬
+      Pigs: 🐷🐖🐗
+      Antelopes: 🦌 🦬🐮🐂🐃🐄 🐏🐑🐐 🦒
+    Odd-toed Ungulates: 🐴🐎🦄🦓🦏
+    Carnivorans:
+      Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
+      Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊 🦝🐻🐻‍❄️🐼🦦🦨🦡 🦭
+    Bats: 🦇
+    Hedgehogs: 🦔
+    Elephants: 🐘🦣
+    Sloths: 🦥
+    
+
+```
 
 
 
