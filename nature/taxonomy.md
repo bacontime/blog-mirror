@@ -419,8 +419,14 @@ Fish
 Mollusks: 🐙🦑🐚🐌🦪
  
 Crustaceans: 
-  Insects: 🦋🐛🐜🐝🪲🐞🦗🪳🦟🪰
-  Crabs: 🦀🦞🦐
+  Insects: 
+  🦋🐛
+  Wasps: 🐜🐝
+  Beetles: 🪲🐞
+  🦗
+  🪳
+  🦟🪰
+  Shrimps: 🦀🦞🦐
 Arachnids: 🕷️🦂
 
 Worms: 🪱, but also all of the above
