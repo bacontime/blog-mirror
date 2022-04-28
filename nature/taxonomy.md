@@ -75,7 +75,7 @@ This one seems like it might be a reasonable category; snakes and amphisbaenians
 Conversely, [tuatara](https://en.wikipedia.org/wiki/Tuatara) look super lizardy, and used to be considered lizards, but aren't part of the squamate clade. Biologists stopped calling them lizards when they noticed that while they do share some traits with lizards, they also share some traits with crocodiles (spiny plates) and turtles (beak instead of teeth). Tuatara are now thought to be the only surviving members of the [beakheads](https://en.wikipedia.org/wiki/Rhynchocephalia), a sort of sister clade to the lizards. Together, the squamates and beakheads form the clade of *Lepidosaurs*. And for the purposes of this exercise, it doesn't really matter whether we use "lizard" to refer to Squamata or Lepidosauria; both are clades full of lizardy things.
 
 
-
+### Elephants ()
 
 
 ### Rabbits and Hares (Leporidae)
@@ -128,13 +128,33 @@ The first is the musk deer, which are stinky little fanged fellas more closely r
 The second is the tiny mouse-deer, also called the chevrotain.
 Any clade which includes both cervids and chevrotains will include all the ruminants, including our pecoran friends from earlier. 
 
-Remember that deer are ~~pecorans~~ antelopes. Well, antelopes are also ~~ruminants~~ deer. 
+Remember that deer are ~~pecorans~~ antelopes. Well, antelopes are also ~~ruminants~~ deer. (There's a reason biologists use cumbersome grecolatin names for clades.)
 
 Alternatively, if we wanted to talk about the clade of deer, 
 we could instead *shrink* the common-name category and say that chevrotains and musk-deer aren't *actually* deer,
 that only cervids are deer.
 This is essentially the "No such thing as a fish" approach.
 
+<!--
+https://www.youtube.com/watch?v=xsURsRKFGsQ
+https://www.youtube.com/watch?v=5luGVwB453g
+"Amazing antelope" "cross between pig and deer". No. What?
+-->
+
+
+### Shrews (Placentalia)
+
+What's a shrew?
+[True shrews](https://www.youtube.com/watch?v=aFBp-iNTwBc) are a clade, closely related to hedgehogs.
+But there are also [tree shrews](https://www.youtube.com/watch?v=yt2ckFI2xwc) and [elephant shrews](https://www.youtube.com/watch?v=rvemPyOJZEY).
+Tree shrews are now know to be more closely related to primates, and elephants shrews are known to be more closely related to elephants than they are to true shrews (that's not a joke).
+
+The smallest clade that includes all of these shrews is *Placentalia*, encompassing all of the placental mammals - sheep, whales, elephants, you, your dog...
+
+A similar argument could be made to expand 'mole' to apply to all placental mammals, by way of the true moles and the golden moles.
+But 'shrew' sounds funnier, and I've heard it said that the shrew's bodyplan is in some sense the 'default' mammalian bodyplan.
+
+(There's also various species called "marsupial shrews" and "shrew possums", which would expand our shrew clade to include all the placental mammals and the marsupials. But unlike the previous shrews mentioned, biologists never grouped marsupial shrews together in the same clade with the other shrews; the pouch makes the difference clear. And besides, there are also creatures called "marsupial mice", "marsupial moles", "marsupial tapirs", and the "Tasmanian tiger". People just weren't being very creative when they named some of these critters.)
 
 
 
@@ -408,6 +428,8 @@ Article about mammal phylogeny:
 https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000494
 used to make this tree:
 http://vertlife.org/data/mammals/
+
+http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp
 
 -->
 
