@@ -1,8 +1,10 @@
 ---
 title: Common-Name Cladistics
-nav_exclude: false
-parent: Science and Nature
+nav_exclude: true
 ---
+
+
+parent: Science and Nature
 
 WIP
 
@@ -32,6 +34,71 @@ So let's run with the fish example. Let's build a cladistic tree of life using c
 And when a common-name describes a non-clade group, we'll modify our usage of that common name to turn it into a clade.
 
 <!--Insert graphics here. Aside with Lupo's comment about how none of the groupings are wrong per se just useless.-->
+
+<pre style="line-height: 1;">
+Worms
+┣*Arthropods*
+┣Mollusks: 🐙🦑🐚🐌🦪
+┣*Annelids*
+┗Fishes
+ ┣Cartilaginous Fish: 🦈
+ ┣Ray-finned Fish: 🐟🐠🐡
+ ┗Lobe-finned Fish
+  ┣Mammals
+  ┃┣Possums: 🐨🦘
+  ┃┗Shrews
+  ┃ ┣Supraprimates
+  ┃ ┃┣Rodents: 🐭🐁🐀🐹🐿️🦫
+  ┃ ┃┣Rabbits: 🐰🐇
+  ┃ ┃┗Monkeys: 🐵🐒🦍🦧
+  ┃ ┣Even-toed Ungulates:
+  ┃ ┃┣Camelids: 🐪🐫🦙
+  ┃ ┃┣Whippos: 🦛🐳🐋🐬
+  ┃ ┃┣Pigs: 🐷🐖🐗
+  ┃ ┃┗Antelopes: 🦌 🦬🐮🐂🐃🐄 🐏🐑🐐 🦒
+  ┃ ┣Odd-toed Ungulates: 🐴🐎🦄🦓🦏
+  ┃ ┣Carnivorans:
+  ┃ ┃┣Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
+  ┃ ┃┗Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊 🦝🐻🐻‍❄️🐼🦦🦨🦡 🦭
+  ┃ ┣Bats: 🦇
+  ┃ ┣Hedgehogs: 🦔
+  ┃ ┣Elephants: 🐘🦣
+  ┃ ┗Sloths: 🦥
+  ┣Reptiles
+  ┃┣Lizards: 🦎🐍
+  ┃┣Turtles: 🐢
+  ┃┣Crocodilians:🐊
+  ┃┗Dinosaurs
+  ┃ ┣Longnecks: 🦕
+  ┃ ┣Tyrants: 🦖
+  ┃ ┗Birds
+  ┃  ┣Ratites
+  ┃  ┣Fowl
+  ┃  ┃┣Landfowl: 🦃🐔🐓🐣🐤🐥🦚
+  ┃  ┃┗Waterfowl: 🦆🦢
+  ┃  ┗Newbirds
+  ┃    ┣Flamingos: 🦩
+  ┃    ┣Doves: 🕊️🦤
+  ┃    ┣Penguins: 🐧
+  ┃    ┗Birds of Prey (Landbirds): 🦅🦉🐦🦜
+  ┗Frogge: 🐸
+
+    
+
+ 
+Crustaceans: 
+┣Wasps: 🐜🐝
+┣Flies: 🦟🪰
+┣Moths: 🦋🐛
+┣Beetles: 🪲🐞
+┣Crickets: 🦗
+┣Roaches: 🪳
+┗Shrimps: 🦀🦞🦐
+Arachnids: 🕷️🦂
+
+Worms: 🪱, but also all of the above
+```
+
 
 
 ## Some Somewhat Sensible Examples 
@@ -471,7 +538,7 @@ Article about mammal phylogeny:
 https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3000494
 used to make this tree:
 http://vertlife.org/data/mammals/
-
+http://vertlife.org/data/mammals/OneZoom_V1.2_Lite_mammals/mamPhy.htm
 http://www.departments.bucknell.edu/biology/resources/msw3/browse.asp
 
 -->
