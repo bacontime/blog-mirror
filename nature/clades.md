@@ -39,11 +39,11 @@ And when a common-name describes a non-clade group, we'll modify our usage of th
 
 <style>
 @font-face {
-  font-family: 'Twemoji Nano';
-  src: url(../../webfonts/emoji/TwemojiCOLRv0.ttf);
+  font-family: 'Openmoji Nano';
+  src: url(../../webfonts/emoji/OpenMojiCOLRv0.ttf);
 }
 .cladeslist {
-  font-family: 'Twemoji Nano';
+  font-family: sans-serif, 'Openmoji Nano';
   line-height: 1;
 }
 </style>
@@ -110,11 +110,11 @@ Crustaceans:
 Arachnids: 🕷️🦂
 
 Worms: 🪱, but also all of the above
-```
+</pre>
 
 
 
-## Some Somewhat Sensible Examples 
+## Explanations for Clade Names
 
 ### Fishes (Vertebrata)
 
@@ -122,15 +122,18 @@ Fish are not a clade. The common ancestor of sharks, tuna, hagfish, and lungfish
 
 Thus fish, as usually defined, is the group consisting of *non-tetrapod vertebrates*. 
 
-If we want to make fish a clade, we must includes whales, chickens, and the like. 
+To to make "fish" a clade, we must includes whales, chickens, and the like. 
 
 <aside> 
 If you wanted to expand the clade to include everything that is sometimes *called* a fish (jellyfish, inkfish, starfish), you would need to include basically every animal excepts sponges.
 </aside>
 
 
+The remaining examples are listed in roughly decreasing order of sensibility:
 
-### Dinos (Dinosauria)
+
+
+### Dinosaurs (Dinosauria)
 
 Likewise, dinosaurs, as the category exists in the imagination of children and film-makers, are not a clade. It's only once birds are included that the category of *dinosauria* becomes cladistic.
 Hence why dinos, as they appear in pop-culture, are called *non-avian dinosaurs* by science educators.
@@ -144,6 +147,12 @@ which is just latin for 'dragons'.
 </aside>
 
 
+### Elephants (Elephantidae)
+
+Asian Elephants are more closely related to Mammoths than they are to African Elephants. Mammoths were fuzzy elephants that recently went extinct. This one isn't really controversial. 
+(Mastodons were slightly different creatures.)
+
+
 
 
 ### Lizards (Squamata)
@@ -154,8 +163,6 @@ This one seems like it might be a reasonable category; snakes and amphisbaenians
 
 Conversely, [tuatara](https://en.wikipedia.org/wiki/Tuatara) look super lizardy, and used to be considered lizards, but aren't part of the squamate clade. Biologists stopped calling them lizards when they noticed that while they do share some traits with lizards, they also share some traits with crocodiles (spiny plates) and turtles (beak instead of teeth). Tuatara are now thought to be the only surviving members of the [beakheads](https://en.wikipedia.org/wiki/Rhynchocephalia), a sort of sister clade to the lizards. Together, the squamates and beakheads form the clade of *Lepidosaurs*. And for the purposes of this exercise, it doesn't really matter whether we use "lizard" to refer to Squamata or Lepidosauria; both are clades full of lizardy things.
 
-
-### Elephants ()
 
 
 ### Rabbits and Hares (Leporidae)
