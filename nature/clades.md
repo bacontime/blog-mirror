@@ -51,8 +51,17 @@ And when a common-name describes a non-clade group, we'll modify our usage of th
 <pre class="cladeslist">
 Worms
 ┣*Arthropods*
+┃┣*Arachnids*: 🕷️🦂
+┃┗Crustaceans: 
+┃ ┣Wasps: 🐜🐝
+┃ ┣Flies: 🦟🪰
+┃ ┣Moths: 🦋🐛
+┃ ┣Beetles: 🪲🐞
+┃ ┣Crickets: 🦗
+┃ ┣Roaches: 🪳
+┃ ┗Shrimps: 🦀🦞🦐
 ┣Mollusks: 🐙🦑🐚🐌🦪
-┣*Annelids*
+┣*Annelids*: 🪱
 ┗Fishes
  ┣Cartilaginous Fish: 🦈
  ┣Ray-finned Fish: 🐟🐠🐡
@@ -96,20 +105,6 @@ Worms
   ┃    ┗Birds of Prey (Landbirds): 🦅🦉🐦🦜
   ┗Frogge: 🐸
 
-    
-
- 
-Crustaceans: 
-┣Wasps: 🐜🐝
-┣Flies: 🦟🪰
-┣Moths: 🦋🐛
-┣Beetles: 🪲🐞
-┣Crickets: 🦗
-┣Roaches: 🪳
-┗Shrimps: 🦀🦞🦐
-Arachnids: 🕷️🦂
-
-Worms: 🪱, but also all of the above
 </pre>
 
 
@@ -141,7 +136,7 @@ Hence why dinos, as they appear in pop-culture, are called *non-avian dinosaurs*
 For "dinosaur", the cladistic definition came before the common-name category, so this is the one time in this exercise where no one can object.
 
 <aside markdown="block">
-Sidenote: Pterosaurs aren't in the clade of dinosauria, but they're more closely related to dinosaurs than they are to anything else, so I think it's perfectly reasonable to include them in the pop-culture category of dinos. But if you want a more proper name, the clade containing both dinosaurs and pterosaurs is called  *[Panaves](https://en.wikipedia.org/wiki/Avemetatarsalia)*, meaning 'every bird', or *Avemetatarsalia*, meaning 'bird-footbones'. Eugh. Those names are both boring an confusing. I much prefer Ernst Haeckel's suggestion that the clade by called 
+Sidenote: Pterosaurs aren't in the clade of dinosauria, but they're more closely related to dinosaurs than they are to anything else, so I think it's perfectly reasonable to include them in the pop-culture category of dinos. But if you want a more proper name, the clade containing both dinosaurs and pterosaurs is called  *[Panaves](https://en.wikipedia.org/wiki/Avemetatarsalia)*, meaning 'every bird', or *Avemetatarsalia*, meaning 'bird-footbones'. Eugh. Those names are both boring and confusing. I much prefer Ernst Haeckel's suggestion that the clade by called 
 [dracones](https://www.google.com/books/edition/Systematische_Phylogenie_Wirbelthiere/ZXxZAAAAQAAJ?hl=en&gbpv=1&dq=dracones+Haeckel,+1895&pg=PR17&printsec=frontcover),
 which is just latin for 'dragons'. 
 </aside>
@@ -149,7 +144,7 @@ which is just latin for 'dragons'.
 
 ### Elephants (Elephantidae)
 
-Asian Elephants are more closely related to Mammoths than they are to African Elephants. Mammoths were fuzzy elephants that recently went extinct. This one isn't really controversial. 
+Asian Elephants are more closely related to Mammoths than they are to African Elephants. Mammoths were fuzzy elephants that recently went extinct. This one shouldn't be controversial. 
 (Mastodons were slightly different creatures.)
 
 
@@ -161,19 +156,32 @@ Lizards are not a clade. Snakes are a clade. So are [amphisbaenians](https://en.
 
 This one seems like it might be a reasonable category; snakes and amphisbaenians are both [mostly](https://www.youtube.com/watch?v=0GhSOD6CTWA&t=140s) legless, so a lizard is just a squamate that still has its legs, right? Well no, there are loads of legless lizards. As [described by a professional reptile nerd in this amusing rant](https://www.youtube.com/watch?v=dWPqXlxnki0), there are over twenty lineages of legless lizards, so it seems bizarre that these two in particular are excluded as not being lizardy enough for the lizard club. You know what? His rant is convincing. Snakes *are* lizards, and not just for the purposes of this exercise. *hashtag lizard unity hashtag snakesarelizards*
 
+<!--
 Conversely, [tuatara](https://en.wikipedia.org/wiki/Tuatara) look super lizardy, and used to be considered lizards, but aren't part of the squamate clade. Biologists stopped calling them lizards when they noticed that while they do share some traits with lizards, they also share some traits with crocodiles (spiny plates) and turtles (beak instead of teeth). Tuatara are now thought to be the only surviving members of the [beakheads](https://en.wikipedia.org/wiki/Rhynchocephalia), a sort of sister clade to the lizards. Together, the squamates and beakheads form the clade of *Lepidosaurs*. And for the purposes of this exercise, it doesn't really matter whether we use "lizard" to refer to Squamata or Lepidosauria; both are clades full of lizardy things.
-
+-->
 
 
 ### Rabbits and Hares (Leporidae)
 
 You might not even be aware that rabbits and hares are different things. Cladistically, they really aren't. 
 Rabbits usually dig burrows underground, and are born helpless (like us!).
-By contrast, hares build nests aboveground and are born ready to run. 
-
+By contrast, hares build nests aboveground and are born ready to run. It's primarily a distinction based on nesting behavior, not ancestry.
 An encyclopedia might define hares cladistically as the genus *lepus* and then define rabbits as the *non-hare leporids*. 
 But for this exercise, hares are rabbits. 
 
+
+## Moths (Lepidoptera)
+
+Butterflies are a clade of moth which tend to be more colorful and come out during the day.
+Moths are just non-butterfly lepidopterans. And to make 'moths' into a clade, the butterflies must be included.
+
+## Wasp (Apocrita)
+
+Bees are a clade. Ants are a clade. Wasps are just any of the species related to bees and ants which are neither bees nor ants. But cladistically, bees and ants are specific kinds of wasps.
+
+### Shrimps (Malacostraca)
+
+A lobster is a bulked up shrimp that crawls more than it swims. A crab is a lobster with its tail curled up underneath it, though [many of those crabs aren't actually crabs](https://www.youtube.com/watch?v=Hx3ELI5A8GE).
 
 
 
@@ -193,19 +201,12 @@ So an antelope in the broadest sense is anything related to cattle which isn't s
 
 
 
-### Deer (Cervidae)
+<!--### Deer (Cervidae)
 
 Deer are a clade if, by 'deer', we mean the cervids, which includes elks and moosen. 
 And I can't think of why anyone would object to calling an elk a deer.
 So why include this example? 
 Because it allows us to segue into the very silly examples.
-
-
-
-
-
-
-## Some Certainly Silly Examples 
 
 ### Deer (Ruminantia)
 
@@ -221,6 +222,8 @@ Alternatively, if we wanted to talk about the clade of deer,
 we could instead *shrink* the common-name category and say that chevrotains and musk-deer aren't *actually* deer,
 that only cervids are deer.
 This is essentially the "No such thing as a fish" approach.
+-->
+
 
 <!--
 https://www.youtube.com/watch?v=xsURsRKFGsQ
@@ -234,7 +237,8 @@ https://www.youtube.com/watch?v=5luGVwB453g
 What's a shrew?
 [True shrews](https://www.youtube.com/watch?v=aFBp-iNTwBc) are a clade, closely related to hedgehogs.
 But there are also [tree shrews](https://www.youtube.com/watch?v=yt2ckFI2xwc) and [elephant shrews](https://www.youtube.com/watch?v=rvemPyOJZEY).
-Tree shrews are now know to be more closely related to primates, and elephants shrews are known to be more closely related to elephants than they are to true shrews (that's not a joke).
+All three of these creatures were once thought to be closely related, 
+but tree shrews are now know to be more closely related to primates, and elephants shrews are known to be more closely related to elephants than they are to true shrews (that's not a joke).
 
 The smallest clade that includes all of these shrews is *Placentalia*, encompassing all of the placental mammals - sheep, whales, elephants, you, your dog...
 
@@ -254,7 +258,7 @@ Speaking of marsupials, possums are not a clade. To make possums into a clade, t
 
 Possums aren't the same thing as **o**possums (american marsupials famous for playing dead) or shrew-oppossums (a marsupial which is neither a shrew nor an oppossum). But opossums are often called "'possums", and possums were named for their similarity to opossums. Possum.
 
-Anyways, if we want a clade that includes all the (o)possums, then we need to include every marsupial.
+The smallest clade that includes all the (o)possums is the clade which includes every marsupial.
 
 
 
