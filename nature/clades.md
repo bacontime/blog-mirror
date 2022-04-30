@@ -35,7 +35,20 @@ And when a common-name describes a non-clade group, we'll modify our usage of th
 
 <!--Insert graphics here. Aside with Lupo's comment about how none of the groupings are wrong per se just useless.-->
 
-<pre style="line-height: 1;">
+
+
+<style>
+@font-face {
+  font-family: 'Twemoji Nano';
+  src: url(../../webfonts/emoji/TwemojiCOLRv0.ttf);
+}
+.cladeslist {
+  font-family: 'Twemoji Nano';
+  line-height: 1;
+}
+</style>
+
+<pre class="cladeslist">
 Worms
 ┣*Arthropods*
 ┣Mollusks: 🐙🦑🐚🐌🦪
