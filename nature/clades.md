@@ -43,7 +43,7 @@ And when a common-name describes a non-clade group, we'll modify our usage of th
   src: url(../../webfonts/emoji/OpenMojiCOLRv0.ttf);
 }
 .cladeslist {
-  font-family: sans-serif, 'Openmoji Nano';
+  font-family: monospace, 'Openmoji Nano';
   line-height: 1;
 }
 </style>
@@ -53,57 +53,57 @@ Worms
 ┣*Arthropods*
 ┃┣*Arachnids*: 🕷️🦂
 ┃┗Crustaceans: 
-┃ ┣Wasps: 🐜🐝
-┃ ┣Flies: 🦟🪰
-┃ ┣Moths: 🦋🐛
-┃ ┣Beetles: 🪲🐞
-┃ ┣Crickets: 🦗
-┃ ┣Roaches: 🪳
-┃ ┗Shrimps: 🦀🦞🦐
+┃  ┣Wasps: 🐜🐝
+┃  ┣Flies: 🦟🪰
+┃  ┣Moths: 🦋🐛
+┃  ┣Beetles: 🪲🐞
+┃  ┣Crickets: 🦗
+┃  ┣Roaches: 🪳
+┃  ┗Shrimps: 🦀🦞🦐
 ┣Mollusks: 🐙🦑🐚🐌🦪
 ┣*Annelids*: 🪱
 ┗Fishes
- ┣Cartilaginous Fish: 🦈
- ┣Ray-finned Fish: 🐟🐠🐡
- ┗Lobe-finned Fish
-  ┣Mammals
-  ┃┣Possums: 🐨🦘
-  ┃┗Shrews
-  ┃ ┣Supraprimates
-  ┃ ┃┣Rodents: 🐭🐁🐀🐹🐿️🦫
-  ┃ ┃┣Rabbits: 🐰🐇
-  ┃ ┃┗Monkeys: 🐵🐒🦍🦧
-  ┃ ┣Even-toed Ungulates:
-  ┃ ┃┣Camelids: 🐪🐫🦙
-  ┃ ┃┣Whippos: 🦛🐳🐋🐬
-  ┃ ┃┣Pigs: 🐷🐖🐗
-  ┃ ┃┗Antelopes: 🦌 🦬🐮🐂🐃🐄 🐏🐑🐐 🦒
-  ┃ ┣Odd-toed Ungulates: 🐴🐎🦄🦓🦏
-  ┃ ┣Carnivorans:
-  ┃ ┃┣Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
-  ┃ ┃┗Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊 🦝🐻🐻‍❄️🐼🦦🦨🦡 🦭
-  ┃ ┣Bats: 🦇
-  ┃ ┣Hedgehogs: 🦔
-  ┃ ┣Elephants: 🐘🦣
-  ┃ ┗Sloths: 🦥
-  ┣Reptiles
-  ┃┣Lizards: 🦎🐍
-  ┃┣Turtles: 🐢
-  ┃┣Crocodilians:🐊
-  ┃┗Dinosaurs
-  ┃ ┣Longnecks: 🦕
-  ┃ ┣Tyrants: 🦖
-  ┃ ┗Birds
-  ┃  ┣Ratites
-  ┃  ┣Fowl
-  ┃  ┃┣Landfowl: 🦃🐔🐓🐣🐤🐥🦚
-  ┃  ┃┗Waterfowl: 🦆🦢
-  ┃  ┗Newbirds
-  ┃    ┣Flamingos: 🦩
-  ┃    ┣Doves: 🕊️🦤
-  ┃    ┣Penguins: 🐧
-  ┃    ┗Birds of Prey (Landbirds): 🦅🦉🐦🦜
-  ┗Frogge: 🐸
+  ┣Cartilaginous  Fish: 🦈
+  ┣Ray-finned  Fish: 🐟🐠🐡
+  ┗Lobe-finned  Fish
+    ┣Mammals
+    ┃┣Possums: 🐨🦘
+    ┃┗Shrews
+    ┃  ┣Supraprimates
+    ┃  ┃┣Rodents: 🐭🐁🐀🐹🐿️🦫
+    ┃  ┃┣Rabbits: 🐰🐇
+    ┃  ┃┗Monkeys: 🐵🐒🦍🦧
+    ┃  ┣Even-toed  Ungulates:
+    ┃  ┃┣Camelids: 🐪🐫🦙
+    ┃  ┃┣Whippos: 🦛🐳🐋🐬
+    ┃  ┃┣Pigs: 🐷🐖🐗
+    ┃  ┃┗Antelopes: 🦌  🦬🐮🐂🐃🐄  🐏🐑🐐  🦒
+    ┃  ┣Odd-toed  Ungulates: 🐴🐎🦄🦓🦏
+    ┃  ┣Carnivorans:
+    ┃  ┃┣Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
+    ┃  ┃┗Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊  🦝🐻🐻‍❄️🐼🦦🦨🦡  🦭
+    ┃  ┣Bats: 🦇
+    ┃  ┣Hedgehogs: 🦔
+    ┃  ┣Elephants: 🐘🦣
+    ┃  ┗Sloths: 🦥
+    ┣Reptiles
+    ┃┣Lizards: 🦎🐍
+    ┃┣Turtles: 🐢
+    ┃┣Crocodilians:🐊
+    ┃┗Dinosaurs
+    ┃  ┣Longnecks: 🦕
+    ┃  ┣Tyrants: 🦖
+    ┃  ┗Birds
+    ┃    ┣Ratites
+    ┃    ┣Fowl
+    ┃    ┃┣Landfowl: 🦃🐔🐓🐣🐤🐥🦚
+    ┃    ┃┗Waterfowl: 🦆🦢
+    ┃    ┗Newbirds
+    ┃        ┣Flamingos: 🦩
+    ┃        ┣Doves: 🕊️🦤
+    ┃        ┣Penguins: 🐧
+    ┃        ┗Birds  of  Prey  (Landbirds): 🦅🦉🐦🦜
+    ┗Frogge: 🐸
 
 </pre>
 
