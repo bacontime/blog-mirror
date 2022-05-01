@@ -27,9 +27,10 @@ Fish, in other words, aren't a true *clade*.
 
 These kinds of discussions can be somewhat silly, but thinking about the tree of life in terms of 
 [clades](https://en.wikipedia.org/wiki/Clade) can be a fun and enlightening exercise.
+<!--
 After all, we used to think of reptiles and amphibians as the same kind of thing. 
 And it was only in the last century that people realized that mushrooms aren't plants.
-
+-->
 So let's run with the fish example. Let's build a cladistic tree of life using common names instead of latin names.
 And when a common-name describes a non-clade group, we'll modify our usage of that common name to turn it into a clade.
 
@@ -48,181 +49,72 @@ And when a common-name describes a non-clade group, we'll modify our usage of th
 }
 </style>
 
-<pre class="cladeslist">
-Worms
-┣*Arthropods*
-┃┣*Arachnids*: 🕷️🦂
-┃┗Crustaceans: 
-┃  ┣Wasps: 🐜🐝
-┃  ┣Flies: 🦟🪰
-┃  ┣Moths: 🦋🐛
-┃  ┣Beetles: 🪲🐞
-┃  ┣Crickets: 🦗
-┃  ┣Roaches: 🪳
-┃  ┗Shrimps: 🦀🦞🦐
-┣Mollusks: 🐙🦑🐚🐌🦪
-┣*Annelids*: 🪱
-┗Fishes
-  ┣Cartilaginous  Fish: 🦈
-  ┣Ray-finned  Fish: 🐟🐠🐡
-  ┗Lobe-finned  Fish
-    ┣Mammals
-    ┃┣Possums: 🐨🦘
-    ┃┗Shrews
-    ┃  ┣Supraprimates
-    ┃  ┃┣Rodents: 🐭🐁🐀🐹🐿️🦫
-    ┃  ┃┣Rabbits: 🐰🐇
-    ┃  ┃┗Monkeys: 🐵🐒🦍🦧
-    ┃  ┣Even-toed  Ungulates:
-    ┃  ┃┣Camelids: 🐪🐫🦙
-    ┃  ┃┣Whippos: 🦛🐳🐋🐬
-    ┃  ┃┣Pigs: 🐷🐖🐗
-    ┃  ┃┗Antelopes: 🦌  🦬🐮🐂🐃🐄  🐏🐑🐐  🦒
-    ┃  ┣Odd-toed  Ungulates: 🐴🐎🦄🦓🦏
-    ┃  ┣Carnivorans:
-    ┃  ┃┣Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
-    ┃  ┃┗Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊  🦝🐻🐻‍❄️🐼🦦🦨🦡  🦭
-    ┃  ┣Bats: 🦇
-    ┃  ┣Hedgehogs: 🦔
-    ┃  ┣Elephants: 🐘🦣
-    ┃  ┗Sloths: 🦥
-    ┣Reptiles
-    ┃┣Lizards: 🦎🐍
-    ┃┣Turtles: 🐢
-    ┃┣Crocodilians:🐊
-    ┃┗Dinosaurs
-    ┃  ┣Longnecks: 🦕
-    ┃  ┣Tyrants: 🦖
-    ┃  ┗Birds
-    ┃    ┣Ratites
-    ┃    ┣Fowl
-    ┃    ┃┣Landfowl: 🦃🐔🐓🐣🐤🐥🦚
-    ┃    ┃┗Waterfowl: 🦆🦢
-    ┃    ┗Newbirds
-    ┃        ┣Flamingos: 🦩
-    ┃        ┣Doves: 🕊️🦤
-    ┃        ┣Penguins: 🐧
-    ┃        ┗Birds  of  Prey  (Landbirds): 🦅🦉🐦🦜
-    ┗Frogge: 🐸
+<div class="cladeslist" markdown="block">
+Worms  
+┣╸*Arthropods*  
+┃┣╸*Arachnids*: 🕷️🦂  
+┃┗╸Crustaceans:   
+┃ ┣╸Wasps: 🐜🐝  
+┃ ┣╸Flies: 🦟🪰  
+┃ ┣╸Moths: 🦋🐛  
+┃ ┣╸Beetles: 🪲🐞  
+┃ ┣╸Crickets: 🦗  
+┃ ┣╸Roaches: 🪳  
+┃ ┗╸Shrimps: 🦀🦞🦐  
+┣╸Mollusks: 🐙🦑🐚🐌🦪  
+┣╸*Annelids*: 🪱  
+┗╸Fishes  
+ ┣╸Cartilaginous Fish: 🦈  
+ ┣╸Ray-finned Fish: 🐟🐠🐡  
+ ┗╸Lobe-finned Fish  
+  ┣╸Mammals  
+  ┃ ┣╸Possums: 🐨🦘  
+  ┃ ┗╸Shrews  
+  ┃   ┣╸Supraprimates  
+  ┃   ┃ ┣╸Rodents: 🐭🐁🐀🐹🐿️🦫  
+  ┃   ┃ ┣╸Rabbits: 🐰🐇  
+  ┃   ┃ ┗╸Monkeys: 🐵🐒🦍🦧  
+  ┃   ┣╸Even-toed Ungulates:  
+  ┃   ┃ ┣╸Camelids: 🐪🐫🦙  
+  ┃   ┃ ┣╸Whippos: 🦛🐳🐋🐬  
+  ┃   ┃ ┣╸Pigs: 🐷🐖🐗  
+  ┃   ┃ ┗╸Ruminants  
+  ┃   ┃   ┣╸Giraffes: 🦒  
+  ┃   ┃   ┣╸Deers: 🦌  
+  ┃   ┃   ┗╸Antelopes: 🦬🐮🐂🐃🐄🐏🐑🐐  
+  ┃   ┣╸Odd-toed Ungulates: 🐴🐎🦄🦓🦏  
+  ┃   ┣╸Carnivorans:  
+  ┃   ┃ ┣╸Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆  
+  ┃   ┃ ┗╸Dogalikes  
+  ┃   ┃   ┣╸Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊  
+  ┃   ┃   ┣╸Bears: 🐻🐻‍❄️🐼  
+  ┃   ┃   ┣╸Seals: 🦭  
+  ┃   ┃   ┗╸Stinkers: 🦝🦦🦡🦨  
+  ┃   ┣╸Bats: 🦇  
+  ┃   ┣╸Hedgehogs: 🦔  
+  ┃   ┣╸Elephants: 🐘🦣  
+  ┃   ┗╸Sloths: 🦥  
+  ┣╸Reptiles  
+  ┃ ┣╸Lizards: 🦎🐍  
+  ┃ ┣╸Turtles: 🐢  
+  ┃ ┣╸Crocodilians:🐊  
+  ┃ ┗╸Dinosaurs  
+  ┃   ┣╸Longnecks: 🦕  
+  ┃   ┣╸Tyrants: 🦖  
+  ┃   ┗╸Birds  
+  ┃     ┣╸Ratites  
+  ┃     ┣╸Fowl  
+  ┃     ┃ ┣╸Landfowl: 🦃🐔🐓🐣🐤🐥🦚  
+  ┃     ┃ ┗╸Waterfowl: 🦆🦢  
+  ┃     ┗╸Newbirds  
+  ┃       ┣╸Flamingos: 🦩  
+  ┃       ┣╸Doves: 🕊️🦤  
+  ┃       ┣╸Penguins: 🐧  
+  ┃       ┗╸Birds of Prey: 🦅🦉🐦🦜  
+  ┗╸Frogge: 🐸  
 
-</pre>
+</div>
 
-
-```
-Worms
- ┣*Arthropods*
- ┃ ┣*Arachnids*: 🕷️🦂
- ┃ ┗Crustaceans: 
- ┃  ┣Wasps: 🐜🐝
- ┃  ┣Flies: 🦟🪰
- ┃  ┣Moths: 🦋🐛
- ┃  ┣Beetles: 🪲🐞
- ┃  ┣Crickets: 🦗
- ┃  ┣Roaches: 🪳
- ┃  ┗Shrimps: 🦀🦞🦐
- ┣Mollusks: 🐙🦑🐚🐌🦪
- ┣*Annelids*: 🪱
- ┗Fishes
-  ┣Cartilaginous Fish: 🦈
-  ┣Ray-finned Fish: 🐟🐠🐡
-  ┗Lobe-finned Fish
-   ┣Mammals
-   ┃ ┣Possums: 🐨🦘
-   ┃ ┗Shrews
-   ┃  ┣Supraprimates
-   ┃  ┃ ┣Rodents: 🐭🐁🐀🐹🐿️🦫
-   ┃  ┃ ┣Rabbits: 🐰🐇
-   ┃  ┃ ┗Monkeys: 🐵🐒🦍🦧
-   ┃  ┣Even-toed Ungulates:
-   ┃  ┃ ┣Camelids: 🐪🐫🦙
-   ┃  ┃ ┣Whippos: 🦛🐳🐋🐬
-   ┃  ┃ ┣Pigs: 🐷🐖🐗
-   ┃  ┃ ┗Antelopes: 🦌 🦬🐮🐂🐃🐄 🐏🐑🐐 🦒
-   ┃  ┣Odd-toed Ungulates: 🐴🐎🦄🦓🦏
-   ┃  ┣Carnivorans:
-   ┃  ┃ ┣Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
-   ┃  ┃ ┗Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊 🦝🐻🐻‍❄️🐼🦦🦨🦡 🦭
-   ┃  ┣Bats: 🦇
-   ┃  ┣Hedgehogs: 🦔
-   ┃  ┣Elephants: 🐘🦣
-   ┃  ┗Sloths: 🦥
-   ┣Reptiles
-   ┃ ┣Lizards: 🦎🐍
-   ┃ ┣Turtles: 🐢
-   ┃ ┣Crocodilians:🐊
-   ┃ ┗Dinosaurs
-   ┃  ┣Longnecks: 🦕
-   ┃  ┣Tyrants: 🦖
-   ┃  ┗Birds
-   ┃   ┣Ratites
-   ┃   ┣Fowl
-   ┃   ┃ ┣Landfowl: 🦃🐔🐓🐣🐤🐥🦚
-   ┃   ┃ ┗Waterfowl: 🦆🦢
-   ┃   ┗Newbirds
-   ┃     ┣Flamingos: 🦩
-   ┃     ┣Doves: 🕊️🦤
-   ┃     ┣Penguins: 🐧
-   ┃     ┗Birds of Prey (Landbirds): 🦅🦉🐦🦜
-   ┗Frogge: 🐸
-```
-
-<pre class="cladeslist">
-Worms
- ┣*Arthropods*
- ┃ ┣*Arachnids*: 🕷️🦂
- ┃ ┗Crustaceans: 
- ┃  ┣Wasps: 🐜🐝
- ┃  ┣Flies: 🦟🪰
- ┃  ┣Moths: 🦋🐛
- ┃  ┣Beetles: 🪲🐞
- ┃  ┣Crickets: 🦗
- ┃  ┣Roaches: 🪳
- ┃  ┗Shrimps: 🦀🦞🦐
- ┣Mollusks: 🐙🦑🐚🐌🦪
- ┣*Annelids*: 🪱
- ┗Fishes
-  ┣Cartilaginous Fish: 🦈
-  ┣Ray-finned Fish: 🐟🐠🐡
-  ┗Lobe-finned Fish
-   ┣Mammals
-   ┃ ┣Possums: 🐨🦘
-   ┃ ┗Shrews
-   ┃  ┣Supraprimates
-   ┃  ┃ ┣Rodents: 🐭🐁🐀🐹🐿️🦫
-   ┃  ┃ ┣Rabbits: 🐰🐇
-   ┃  ┃ ┗Monkeys: 🐵🐒🦍🦧
-   ┃  ┣Even-toed Ungulates:
-   ┃  ┃ ┣Camelids: 🐪🐫🦙
-   ┃  ┃ ┣Whippos: 🦛🐳🐋🐬
-   ┃  ┃ ┣Pigs: 🐷🐖🐗
-   ┃  ┃ ┗Antelopes: 🦌 🦬🐮🐂🐃🐄 🐏🐑🐐 🦒
-   ┃  ┣Odd-toed Ungulates: 🐴🐎🦄🦓🦏
-   ┃  ┣Carnivorans:
-   ┃  ┃ ┣Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
-   ┃  ┃ ┗Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊 🦝🐻🐻‍❄️🐼🦦🦨🦡 🦭
-   ┃  ┣Bats: 🦇
-   ┃  ┣Hedgehogs: 🦔
-   ┃  ┣Elephants: 🐘🦣
-   ┃  ┗Sloths: 🦥
-   ┣Reptiles
-   ┃ ┣Lizards: 🦎🐍
-   ┃ ┣Turtles: 🐢
-   ┃ ┣Crocodilians:🐊
-   ┃ ┗Dinosaurs
-   ┃  ┣Longnecks: 🦕
-   ┃  ┣Tyrants: 🦖
-   ┃  ┗Birds
-   ┃   ┣Ratites
-   ┃   ┣Fowl
-   ┃   ┃ ┣Landfowl: 🦃🐔🐓🐣🐤🐥🦚
-   ┃   ┃ ┗Waterfowl: 🦆🦢
-   ┃   ┗Newbirds
-   ┃     ┣Flamingos: 🦩
-   ┃     ┣Doves: 🕊️🦤
-   ┃     ┣Penguins: 🐧
-   ┃     ┗Birds of Prey (Landbirds): 🦅🦉🐦🦜
-   ┗Frogge: 🐸
-</pre>
 
 
 
@@ -651,6 +543,9 @@ Worms: 🪱, but also all of the above
 🕷🕸 unqualified
 
 (🪸)coral
+
+
+┃┃┗╸Pandas: 🐻🐻‍❄️🐼🦭🦝🦦🦡🦨
 
 
 ```
