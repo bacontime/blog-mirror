@@ -50,7 +50,7 @@ And when a common-name describes a non-clade group, we'll modify our usage of th
 }
 </style>
 
-<pre class="cladeslist" markdown="block">
+<pre class="cladeslist">
 Worms  
 ┣╸Bugs  
 ┃ ┣╸*Arachnids*: 🕷️🦂  
@@ -118,70 +118,69 @@ Worms
 </pre>
 
 <div class="cladeslist" markdown="block">
-Worms  
-┣╸Bugs  
-┃ ┣╸*Arachnids*: 🕷️🦂  
-┃ ┗╸Crustaceans:   
-┃   ┣╸Shrimps: 🦀🦞🦐  
-┃   ┗╸Insects  
-┃     ┣╸Wasps: 🐜🐝  
-┃     ┣╸Flies: 🦟🪰  
-┃     ┣╸Moths: 🦋🐛  
-┃     ┣╸Beetles: 🪲🐞  
-┃     ┣╸Crickets: 🦗  
-┃     ┗╸Roaches: 🪳  
-┣╸Fishes  
-┃ ┣╸Cartilaginous Fish: 🦈  
-┃ ┣╸Ray-finned Fish: 🐟🐠🐡  
-┃ ┗╸Lobe-finned Fish  
-┃   ┣╸Mammals  
-┃   ┃ ┣╸Possums: 🐨🦘  
-┃   ┃ ┗╸Shrews  
-┃   ┃   ┣╸Supraprimates  
-┃   ┃   ┃ ┣╸Rodents: 🐭🐁🐀🐹🐿️🦫  
-┃   ┃   ┃ ┣╸Rabbits: 🐰🐇  
-┃   ┃   ┃ ┗╸Monkeys: 🐵🐒🦍🦧  
-┃   ┃   ┣╸Even-toed Ungulates:  
-┃   ┃   ┃ ┣╸Camelids: 🐪🐫🦙  
-┃   ┃   ┃ ┣╸Whippos: 🦛🐳🐋🐬  
-┃   ┃   ┃ ┣╸Pigs: 🐷🐖🐗  
-┃   ┃   ┃ ┗╸Ruminants  
-┃   ┃   ┃   ┣╸Giraffes: 🦒  
-┃   ┃   ┃   ┣╸Deers: 🦌  
-┃   ┃   ┃   ┗╸Antelopes: 🦬🐮🐂🐃🐄🐏🐑🐐  
-┃   ┃   ┣╸Odd-toed Ungulates: 🐴🐎🦄🦓🦏  
-┃   ┃   ┣╸Carnivorans:  
-┃   ┃   ┃ ┣╸Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆  
-┃   ┃   ┃ ┗╸Dogalikes  
-┃   ┃   ┃   ┣╸Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊  
-┃   ┃   ┃   ┣╸Bears: 🐻🐻‍❄️🐼  
-┃   ┃   ┃   ┣╸Seals: 🦭  
-┃   ┃   ┃   ┗╸Stinkers: 🦝🦦🦡🦨  
-┃   ┃   ┣╸Bats: 🦇  
-┃   ┃   ┣╸Hedgehogs: 🦔  
-┃   ┃   ┣╸Elephants: 🐘🦣  
-┃   ┃   ┗╸Sloths: 🦥  
-┃   ┣╸Reptiles  
-┃   ┃ ┣╸Lizards: 🦎🐍  
-┃   ┃ ┣╸Turtles: 🐢  
-┃   ┃ ┣╸Crocodilians:🐊  
-┃   ┃ ┗╸Dinosaurs  
-┃   ┃   ┣╸Longnecks: 🦕  
-┃   ┃   ┣╸Tyrants: 🦖  
-┃   ┃   ┗╸Birds  
-┃   ┃     ┣╸Ratites  
-┃   ┃     ┣╸Fowl  
-┃   ┃     ┃ ┣╸Landfowl: 🦃🐔🐓🐣🐤🐥🦚  
-┃   ┃     ┃ ┗╸Waterfowl: 🦆🦢  
-┃   ┃     ┗╸Newbirds  
-┃   ┃       ┣╸Flamingos: 🦩  
-┃   ┃       ┣╸Doves: 🕊️🦤  
-┃   ┃       ┣╸Penguins: 🐧  
-┃   ┃       ┗╸Birds of Prey: 🦅🦉🐦🦜  
-┃   ┗╸Frogge: 🐸  
-┣╸Mollusks: 🐙🦑🐚🐌🦪  
-┗╸Ringed Worms: 🪱  
- 
+Worms
+┣╸Bugs
+┃&nbsp;┣╸*Arachnids*:&nbsp;🕷️🦂
+┃&nbsp;┗╸Crustaceans:&nbsp;
+┃&nbsp;&nbsp;&nbsp;┣╸Shrimps:&nbsp;🦀🦞🦐
+┃&nbsp;&nbsp;&nbsp;┗╸Insects
+┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Wasps:&nbsp;🐜🐝
+┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Flies:&nbsp;🦟🪰
+┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Moths:&nbsp;🦋🐛
+┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Beetles:&nbsp;🪲🐞
+┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Crickets:&nbsp;🦗
+┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗╸Roaches:&nbsp;🪳
+┣╸Fishes
+┃&nbsp;┣╸Cartilaginous&nbsp;Fish:&nbsp;🦈
+┃&nbsp;┣╸Ray-finned&nbsp;Fish:&nbsp;🐟🐠🐡
+┃&nbsp;┗╸Lobe-finned&nbsp;Fish
+┃&nbsp;&nbsp;&nbsp;┣╸Mammals
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Possums:&nbsp;🐨🦘
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Shrews
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Supraprimates
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Rodents:&nbsp;🐭🐁🐀🐹🐿️🦫
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Rabbits:&nbsp;🐰🐇
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Monkeys:&nbsp;🐵🐒🦍🦧
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Even-toed&nbsp;Ungulates:
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Camelids:&nbsp;🐪🐫🦙
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Whippos:&nbsp;🦛🐳🐋🐬
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Pigs:&nbsp;🐷🐖🐗
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Ruminants
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Giraffes:&nbsp;🦒
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Deers:&nbsp;🦌
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┗╸Antelopes:&nbsp;🦬🐮🐂🐃🐄🐏🐑🐐
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Odd-toed&nbsp;Ungulates:&nbsp;🐴🐎🦄🦓🦏
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Carnivorans:
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Cats:&nbsp;🐱🐈🐈‍⬛🦁🐯🐅🐆
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Dogalikes
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Dogs:&nbsp;🐶🐕🦮🐕‍🦺🐩🐺🦊
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Bears:&nbsp;🐻🐻‍❄️🐼
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Seals:&nbsp;🦭
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┗╸Stinkers:&nbsp;🦝🦦🦡🦨
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Bats:&nbsp;🦇
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Hedgehogs:&nbsp;🦔
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Elephants:&nbsp;🐘🦣
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┗╸Sloths:&nbsp;🦥
+┃&nbsp;&nbsp;&nbsp;┣╸Reptiles
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Lizards:&nbsp;🦎🐍
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Turtles:&nbsp;🐢
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Crocodilians:🐊
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Dinosaurs
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Longnecks:&nbsp;🦕
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Tyrants:&nbsp;🦖
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┗╸Birds
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Ratites
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Fowl
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Landfowl:&nbsp;🦃🐔🐓🐣🐤🐥🦚
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Waterfowl:&nbsp;🦆🦢
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗╸Newbirds
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Flamingos:&nbsp;🦩
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Doves:&nbsp;🕊️🦤
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Penguins:&nbsp;🐧
+┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗╸Birds&nbsp;of&nbsp;Prey:&nbsp;🦅🦉🐦🦜
+┃&nbsp;&nbsp;&nbsp;┗╸Frogge:&nbsp;🐸
+┣╸Mollusks:&nbsp;🐙🦑🐚🐌🦪
+┗╸Ringed&nbsp;Worms:&nbsp;🪱
 </div>
 
 
