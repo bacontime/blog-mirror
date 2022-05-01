@@ -54,8 +54,8 @@ And when a common-name describes a non-clade group, we'll modify our usage of th
 Worms  
 ┣╸Bugs  
 ┃ ┣╸*Arachnids*: 🕷️🦂  
-┃ ┗╸Crustaceans:   
-┃   ┣╸Shrimps: 🦀🦞🦐  
+┃ ┗╸Shrimps   
+┃   ┣╸Prawns: 🦀🦞🦐  
 ┃   ┗╸Insects  
 ┃     ┣╸Wasps: 🐜🐝  
 ┃     ┣╸Flies: 🦟🪰  
@@ -117,71 +117,8 @@ Worms
 
 </pre>
 
-<div class="cladeslist" markdown="block">
-Worms
-┣╸Bugs
-┃&nbsp;┣╸*Arachnids*:&nbsp;🕷️🦂
-┃&nbsp;┗╸Crustaceans:&nbsp;
-┃&nbsp;&nbsp;&nbsp;┣╸Shrimps:&nbsp;🦀🦞🦐
-┃&nbsp;&nbsp;&nbsp;┗╸Insects
-┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Wasps:&nbsp;🐜🐝
-┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Flies:&nbsp;🦟🪰
-┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Moths:&nbsp;🦋🐛
-┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Beetles:&nbsp;🪲🐞
-┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Crickets:&nbsp;🦗
-┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗╸Roaches:&nbsp;🪳
-┣╸Fishes
-┃&nbsp;┣╸Cartilaginous&nbsp;Fish:&nbsp;🦈
-┃&nbsp;┣╸Ray-finned&nbsp;Fish:&nbsp;🐟🐠🐡
-┃&nbsp;┗╸Lobe-finned&nbsp;Fish
-┃&nbsp;&nbsp;&nbsp;┣╸Mammals
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Possums:&nbsp;🐨🦘
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Shrews
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Supraprimates
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Rodents:&nbsp;🐭🐁🐀🐹🐿️🦫
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Rabbits:&nbsp;🐰🐇
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Monkeys:&nbsp;🐵🐒🦍🦧
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Even-toed&nbsp;Ungulates:
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Camelids:&nbsp;🐪🐫🦙
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Whippos:&nbsp;🦛🐳🐋🐬
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Pigs:&nbsp;🐷🐖🐗
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Ruminants
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Giraffes:&nbsp;🦒
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Deers:&nbsp;🦌
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┗╸Antelopes:&nbsp;🦬🐮🐂🐃🐄🐏🐑🐐
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Odd-toed&nbsp;Ungulates:&nbsp;🐴🐎🦄🦓🦏
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Carnivorans:
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Cats:&nbsp;🐱🐈🐈‍⬛🦁🐯🐅🐆
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Dogalikes
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Dogs:&nbsp;🐶🐕🦮🐕‍🦺🐩🐺🦊
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Bears:&nbsp;🐻🐻‍❄️🐼
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Seals:&nbsp;🦭
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┗╸Stinkers:&nbsp;🦝🦦🦡🦨
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Bats:&nbsp;🦇
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Hedgehogs:&nbsp;🦔
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Elephants:&nbsp;🐘🦣
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┗╸Sloths:&nbsp;🦥
-┃&nbsp;&nbsp;&nbsp;┣╸Reptiles
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Lizards:&nbsp;🦎🐍
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Turtles:&nbsp;🐢
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Crocodilians:🐊
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Dinosaurs
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Longnecks:&nbsp;🦕
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┣╸Tyrants:&nbsp;🦖
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;┗╸Birds
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Ratites
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Fowl
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;┣╸Landfowl:&nbsp;🦃🐔🐓🐣🐤🐥🦚
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┃&nbsp;┗╸Waterfowl:&nbsp;🦆🦢
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗╸Newbirds
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Flamingos:&nbsp;🦩
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Doves:&nbsp;🕊️🦤
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┣╸Penguins:&nbsp;🐧
-┃&nbsp;&nbsp;&nbsp;┃&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;┗╸Birds&nbsp;of&nbsp;Prey:&nbsp;🦅🦉🐦🦜
-┃&nbsp;&nbsp;&nbsp;┗╸Frogge:&nbsp;🐸
-┣╸Mollusks:&nbsp;🐙🦑🐚🐌🦪
-┗╸Ringed&nbsp;Worms:&nbsp;🪱
-</div>
+- Many clades which are not represented by emojis are excluded.
+- Some clades indicated by a para-phylum, some indicated by English translation of latin name.
 
 
 ## Explanations for Clade Names
@@ -335,6 +272,46 @@ Possums aren't the same thing as **o**possums (american marsupials famous for pl
 
 The smallest clade that includes all the (o)possums is the clade which includes every marsupial.
 
+
+
+
+### Shrimps (Pancrustacea) and Prawns (Decapoda)
+
+Shrimps are not a clade. A shrimp is basically any little crustacean that swims about and looks... er... shrimpy. 
+There are many different groups of creature called "shrimp"  [https://en.wikipedia.org/wiki/Shrimp#Non-decapods](scattered all over the crustacean family tree). 
+To turn "shrimp" into a clade, you could either declare one and only one of these groups to be [True Shrimp](https://en.wikipedia.org/wiki/Caridea), and insist all the others are imposters. 
+Or you could shrug your shoulders as I'm doing here and say "sure, all crustaceans are shrimps". 
+Lobster? Big shrimp, so big he has trouble swimming.
+Crab? That's a big shrimp who folded up his tail.
+
+An additional complication is that scientists have recently learned that *insects* are crustaceans, cladistically speaking. 
+For example, the brine shrimp (called Sea-monkeys when sold as pets) are more closely related to butterflies than they are to lobsters.[^seamonkeycite] 
+So in this exercise, insects are crustaceans, and crustaceans are all shrimps, so insects are shrimps.
+
+Meanwhile, the 'classic' crustaceans are in the clade *Malacostraca*, which means 'soft-shell' in Greek. 
+Aristotle gave them this name because their shells crush under pressure, in constrast to harder-shelled animals (like snails and oysters) whose shells shatter under pressure [^aristotlecite]. 
+The most familiar Malacostracans - 🦀🦞🦐 crabs, lobsters, and the other big shrimps people like to eat - are Decapods, in the clade *Decapoda*, meaning 'ten-feet'.  
+Malacostraca includes the decapods as well as other creatures like mantis shrimp and roly-polies (isopods).
+
+<!--Krill are not decapods though, and my wife likes to snack on those.-->
+
+I wanted to find a common-name which cladistically includes all of the decapods, and settled on "Prawns".
+Like "shrimp", "prawn" has no precise scientific meaning. 
+A critter is prawn if it looks like a prawn, and whether a critter is called a "prawn" or a "shrimp" often comes down to regional slang [^weaselprawncite].
+But unlike "shrimp", the application of the name "prawn" seems limited to decapods.
+
+<!--MW dict lists two true shrimps as prawns
+https://www.merriam-webster.com/dictionary/prawn
+-->
+
+<!--TODO: Example about the "True X" phenonomenon in animal names.-->
+
+[^seamonkeycite]: [A Phylogenomic Solution to the Origin of Insects by Resolving Crustacean-Hexapod Relationships](https://www.sciencedirect.com/science/article/pii/S0960982217305766) Combosch Giribet Nelson Schwentner (2017). (Sea-monkeys are a kind of Branchiopoda). This paper says something called Remipedia are even closer to insects, but I've never even heard of Remipedes before.
+
+[^aristotlecite]: From [a translated copy](https://archive.org/details/historiaanimaliu00aris_0) of Aristotle's History of Animals
+    > Another  genus  is  that  of  the  malacostraca.  These  are animals  that  have  their  hard  structure  outside,  and  their soft  or  flesh-like  substance  inside,  and  the  hard  substance belonging  to  them  has  to  be  crushed  rather  than  shattered; and  to  this  genus  belongs  the  crawfish  and  the  crab. 
+
+[^weaselprawncite]: Several examples of such regional differences are given on page 108 of [This is Not a Weasel](https://archive.org/details/thisisnotweasel00phil/page/108/mode/2up), by Philip B Mortenson.
 
 
 ---
