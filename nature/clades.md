@@ -108,6 +108,123 @@ Worms
 </pre>
 
 
+```
+Worms
+ ┣*Arthropods*
+ ┃ ┣*Arachnids*: 🕷️🦂
+ ┃ ┗Crustaceans: 
+ ┃  ┣Wasps: 🐜🐝
+ ┃  ┣Flies: 🦟🪰
+ ┃  ┣Moths: 🦋🐛
+ ┃  ┣Beetles: 🪲🐞
+ ┃  ┣Crickets: 🦗
+ ┃  ┣Roaches: 🪳
+ ┃  ┗Shrimps: 🦀🦞🦐
+ ┣Mollusks: 🐙🦑🐚🐌🦪
+ ┣*Annelids*: 🪱
+ ┗Fishes
+  ┣Cartilaginous Fish: 🦈
+  ┣Ray-finned Fish: 🐟🐠🐡
+  ┗Lobe-finned Fish
+   ┣Mammals
+   ┃ ┣Possums: 🐨🦘
+   ┃ ┗Shrews
+   ┃  ┣Supraprimates
+   ┃  ┃ ┣Rodents: 🐭🐁🐀🐹🐿️🦫
+   ┃  ┃ ┣Rabbits: 🐰🐇
+   ┃  ┃ ┗Monkeys: 🐵🐒🦍🦧
+   ┃  ┣Even-toed Ungulates:
+   ┃  ┃ ┣Camelids: 🐪🐫🦙
+   ┃  ┃ ┣Whippos: 🦛🐳🐋🐬
+   ┃  ┃ ┣Pigs: 🐷🐖🐗
+   ┃  ┃ ┗Antelopes: 🦌 🦬🐮🐂🐃🐄 🐏🐑🐐 🦒
+   ┃  ┣Odd-toed Ungulates: 🐴🐎🦄🦓🦏
+   ┃  ┣Carnivorans:
+   ┃  ┃ ┣Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
+   ┃  ┃ ┗Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊 🦝🐻🐻‍❄️🐼🦦🦨🦡 🦭
+   ┃  ┣Bats: 🦇
+   ┃  ┣Hedgehogs: 🦔
+   ┃  ┣Elephants: 🐘🦣
+   ┃  ┗Sloths: 🦥
+   ┣Reptiles
+   ┃ ┣Lizards: 🦎🐍
+   ┃ ┣Turtles: 🐢
+   ┃ ┣Crocodilians:🐊
+   ┃ ┗Dinosaurs
+   ┃  ┣Longnecks: 🦕
+   ┃  ┣Tyrants: 🦖
+   ┃  ┗Birds
+   ┃   ┣Ratites
+   ┃   ┣Fowl
+   ┃   ┃ ┣Landfowl: 🦃🐔🐓🐣🐤🐥🦚
+   ┃   ┃ ┗Waterfowl: 🦆🦢
+   ┃   ┗Newbirds
+   ┃     ┣Flamingos: 🦩
+   ┃     ┣Doves: 🕊️🦤
+   ┃     ┣Penguins: 🐧
+   ┃     ┗Birds of Prey (Landbirds): 🦅🦉🐦🦜
+   ┗Frogge: 🐸
+```
+
+<pre class="cladeslist">
+Worms
+ ┣*Arthropods*
+ ┃ ┣*Arachnids*: 🕷️🦂
+ ┃ ┗Crustaceans: 
+ ┃  ┣Wasps: 🐜🐝
+ ┃  ┣Flies: 🦟🪰
+ ┃  ┣Moths: 🦋🐛
+ ┃  ┣Beetles: 🪲🐞
+ ┃  ┣Crickets: 🦗
+ ┃  ┣Roaches: 🪳
+ ┃  ┗Shrimps: 🦀🦞🦐
+ ┣Mollusks: 🐙🦑🐚🐌🦪
+ ┣*Annelids*: 🪱
+ ┗Fishes
+  ┣Cartilaginous Fish: 🦈
+  ┣Ray-finned Fish: 🐟🐠🐡
+  ┗Lobe-finned Fish
+   ┣Mammals
+   ┃ ┣Possums: 🐨🦘
+   ┃ ┗Shrews
+   ┃  ┣Supraprimates
+   ┃  ┃ ┣Rodents: 🐭🐁🐀🐹🐿️🦫
+   ┃  ┃ ┣Rabbits: 🐰🐇
+   ┃  ┃ ┗Monkeys: 🐵🐒🦍🦧
+   ┃  ┣Even-toed Ungulates:
+   ┃  ┃ ┣Camelids: 🐪🐫🦙
+   ┃  ┃ ┣Whippos: 🦛🐳🐋🐬
+   ┃  ┃ ┣Pigs: 🐷🐖🐗
+   ┃  ┃ ┗Antelopes: 🦌 🦬🐮🐂🐃🐄 🐏🐑🐐 🦒
+   ┃  ┣Odd-toed Ungulates: 🐴🐎🦄🦓🦏
+   ┃  ┣Carnivorans:
+   ┃  ┃ ┣Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
+   ┃  ┃ ┗Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊 🦝🐻🐻‍❄️🐼🦦🦨🦡 🦭
+   ┃  ┣Bats: 🦇
+   ┃  ┣Hedgehogs: 🦔
+   ┃  ┣Elephants: 🐘🦣
+   ┃  ┗Sloths: 🦥
+   ┣Reptiles
+   ┃ ┣Lizards: 🦎🐍
+   ┃ ┣Turtles: 🐢
+   ┃ ┣Crocodilians:🐊
+   ┃ ┗Dinosaurs
+   ┃  ┣Longnecks: 🦕
+   ┃  ┣Tyrants: 🦖
+   ┃  ┗Birds
+   ┃   ┣Ratites
+   ┃   ┣Fowl
+   ┃   ┃ ┣Landfowl: 🦃🐔🐓🐣🐤🐥🦚
+   ┃   ┃ ┗Waterfowl: 🦆🦢
+   ┃   ┗Newbirds
+   ┃     ┣Flamingos: 🦩
+   ┃     ┣Doves: 🕊️🦤
+   ┃     ┣Penguins: 🐧
+   ┃     ┗Birds of Prey (Landbirds): 🦅🦉🐦🦜
+   ┗Frogge: 🐸
+</pre>
+
+
 
 ## Explanations for Clade Names
 
