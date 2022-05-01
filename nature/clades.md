@@ -70,7 +70,7 @@ Worms
 ┣╸Ringed Worms: 🪱  
 ┗╸Fishes  
   ┣╸Cartilaginous Fish: 🦈  
-  ┣╸Ray-finned Fish: 🐟🐠🐡  
+  ┣╸Ray-finned Fish: 🐟🐠🐡  ()
   ┗╸Lobe-finned Fish  
     ┣╸Mammals  
     ┃ ┣╸Possums: 🐨🦘  
@@ -81,13 +81,13 @@ Worms
     ┃   ┃ ┗╸Monkeys: 🐵🐒🦍🦧  
     ┃   ┣╸Even-toed Ungulates:  
     ┃   ┃ ┣╸Camelids: 🐪🐫🦙  
-    ┃   ┃ ┣╸Whippos: 🦛🐳🐋🐬  
+    ┃   ┃ ┣╸Whippos: 🦛🐳🐋🐬 () 
     ┃   ┃ ┣╸Pigs: 🐷🐖🐗  
     ┃   ┃ ┗╸Ruminants  
     ┃   ┃   ┣╸Giraffes: 🦒  
     ┃   ┃   ┣╸Deers: 🦌  
     ┃   ┃   ┗╸Antelopes: 🦬🐮🐂🐃🐄🐏🐑🐐  
-    ┃   ┣╸Odd-toed Ungulates: 🐴🐎🦄🦓🦏  
+    ┃   ┣╸Odd-toed Ungulates: 🐴🐎🦄🦓🦏  ()
     ┃   ┣╸Carnivorans:  
     ┃   ┃ ┣╸Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆  
     ┃   ┃ ┗╸Dogalikes  
@@ -113,9 +113,9 @@ Worms
     ┃     ┃ ┗╸Waterfowl: 🦆🦢  
     ┃     ┗╸Newbirds  
     ┃       ┣╸Flamingos: 🦩  
-    ┃       ┣╸Doves: 🕊️🦤  
+    ┃       ┣╸Doves: 🕊️🦤()  
     ┃       ┣╸Penguins: 🐧  
-    ┃       ┗╸Birds of Prey: 🦅🦉🐦🦜  
+    ┃       ┗╸Birds of Prey: 🦅🦉🐦🦜  ()
     ┗╸Frogge: 🐸  
 
 </pre>
@@ -509,6 +509,20 @@ https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.1000602
 https://www.cell.com/current-biology/fulltext/S0960-9822(17)31092-8
 https://bsapubs.onlinelibrary.wiley.com/doi/10.1002/ajb2.1016
 
+Insects and crustos:
+https://www.sciencedirect.com/science/article/abs/pii/S1467803909000553
+
+
+
+
+
+Pages about folk names vs official latin names
+https://en.wikipedia.org/wiki/Folk_taxonomy
+https://en.wikipedia.org/wiki/Common_name
+http://nzetc.victoria.ac.nz/tm/scholarly/tei-Bio07Tuat01-t1-body-d5.html
+
+
+
 
 
 hoatzin, aka stinkbird
@@ -531,6 +545,7 @@ ungulates are also all mammals (because of elephants)
 
 ┃┃┗╸Pandas: 🐻🐻‍❄️🐼🦭🦝🦦🦡🦨
 
+Crabs and Lobsters are "Reptants"
 
 https://bugguide.net/node/view/15740
 bug guide includes spiders. spider is colloquial bug.
@@ -541,7 +556,11 @@ bug guide includes spiders. spider is colloquial bug.
 : This paper compares the different versions of the bird family tree. Studies agree about some parts of the family tree, but disagree about others. (e.g. what's going on with the hoatzins?) The language in this article is very technical, but the pictures give ample context. 
 
 
+[OneZoom Tree of Life](http://www.onezoom.org/)
+: Zoomable fractal showing the tree of life. Playing around with it, it does seem like many of the branches are outdated.
 
+[Vertlife](http://vertlife.org/)
+: A fork of OneZoom. More up to date, but only depicting the tetrapods. 
 
 
 
