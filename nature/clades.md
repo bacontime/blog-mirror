@@ -1,12 +1,9 @@
 ---
 title: Common-Name Cladistics
 nav_exclude: true
+parent: Science and Nature
 ---
 
-
-parent: Science and Nature
-
-WIP
 
 # Common-Name Cladistics (or Calling a Whale a Fish)
 
@@ -31,8 +28,9 @@ These kinds of discussions can be somewhat silly, but thinking about the tree of
 After all, we used to think of reptiles and amphibians as the same kind of thing. 
 And it was only in the last century that people realized that mushrooms aren't plants.
 -->
-So let's run with the fish example. Let's build a cladistic tree of life using common names instead of latin names.
-And when a common-name describes a non-clade group, we'll modify our usage of that common name to turn it into a clade.
+
+So let's run with the fish example. I'll build a cladistic tree of life using common names instead of latin names.
+When a common-name describes a non-clade group, I'll play a bit fast and loose with that common name to turn it into a clade.
 
 <!--Insert graphics here. Aside with Lupo's comment about how none of the groupings are wrong per se just useless.-->
 
@@ -40,6 +38,9 @@ And when a common-name describes a non-clade group, we'll modify our usage of th
 playing a bit fast and loose with terms,
 and avoiding most of the fancy latin terminology, 
 you could come up with a tree that looks something like this:-->
+
+
+## The (Partial) Animal Family Tree
 
 <style>
 @font-face {
@@ -54,72 +55,72 @@ you could come up with a tree that looks something like this:-->
 </style>
 
 <pre class="cladeslist">
-Worms  
-┣╸Bugs  
-┃ ┣╸*Arachnids*: 🕷️🦂  
-┃ ┗╸Shrimps   
-┃   ┣╸Prawns: 🦀🦞🦐  
-┃   ┗╸Insects  
-┃     ┣╸Wasps: 🐜🐝  
-┃     ┣╸Flies: 🦟🪰  
-┃     ┣╸Moths: 🦋🐛  
-┃     ┣╸Beetles: 🪲🐞  
-┃     ┣╸Crickets: 🦗  
-┃     ┗╸Roaches: 🪳  
-┣╸Mollusks: 🐙🦑🐚🐌🦪  
-┣╸Ringed Worms: 🪱  
-┗╸Fishes  
-  ┣╸Cartilaginous Fish: 🦈  
+Worms
+┣╸Bugs
+┃ ┣╸Arachnids: 🕷️🦂
+┃ ┗╸Shrimps 
+┃   ┣╸Prawns: 🦀🦞🦐
+┃   ┗╸Insects
+┃     ┣╸Wasps: 🐜🐝
+┃     ┣╸Flies: 🦟🪰
+┃     ┣╸Moths: 🦋🐛
+┃     ┣╸Beetles: 🪲🐞
+┃     ┣╸Crickets: 🦗
+┃     ┗╸Roaches: 🪳
+┣╸Mollusks: 🐙🦑🐚🐌🦪
+┣╸Ringed Worms: 🪱
+┗╸Fishes
+  ┣╸Cartilaginous Fish: 🦈
   ┣╸Ray-finned Fish: 🐟🐠🐡  ()
-  ┗╸Lobe-finned Fish  
-    ┣╸Mammals  
-    ┃ ┣╸Possums: 🐨🦘  
-    ┃ ┗╸Shrews  
-    ┃   ┣╸Supraprimates  
-    ┃   ┃ ┣╸Rodents: 🐭🐁🐀🐹🐿️🦫  
-    ┃   ┃ ┣╸Rabbits: 🐰🐇  
-    ┃   ┃ ┗╸Monkeys: 🐵🐒🦍🦧  
-    ┃   ┣╸Even-toed Ungulates:  
-    ┃   ┃ ┣╸Camelids: 🐪🐫🦙  
+  ┗╸Lobe-finned Fish
+    ┣╸Mammals
+    ┃ ┣╸Possums: 🐨🦘
+    ┃ ┗╸Shrews
+    ┃   ┣╸Supraprimates
+    ┃   ┃ ┣╸Rodents: 🐭🐁🐀🐹🐿️🦫
+    ┃   ┃ ┣╸Rabbits: 🐰🐇
+    ┃   ┃ ┗╸Monkeys: 🐵🐒🦍🦧🤸
+    ┃   ┣╸Even-toed Ungulates:
+    ┃   ┃ ┣╸Camelids: 🐪🐫🦙
     ┃   ┃ ┣╸Whippos: 🦛🐳🐋🐬 () 
-    ┃   ┃ ┣╸Pigs: 🐷🐖🐗  
-    ┃   ┃ ┗╸Ruminants  
-    ┃   ┃   ┣╸Giraffes: 🦒  
-    ┃   ┃   ┣╸Deers: 🦌  
-    ┃   ┃   ┗╸Antelopes: 🦬🐮🐂🐃🐄🐏🐑🐐  
+    ┃   ┃ ┣╸Pigs: 🐷🐖🐗
+    ┃   ┃ ┗╸Ruminants
+    ┃   ┃   ┣╸Giraffes: 🦒
+    ┃   ┃   ┣╸Deers: 🦌
+    ┃   ┃   ┗╸Antelopes: 🦬🐮🐂🐃🐄🐏🐑🐐
     ┃   ┣╸Odd-toed Ungulates: 🐴🐎🦄🦓🦏  ()
-    ┃   ┣╸Carnivorans:  
-    ┃   ┃ ┣╸Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆  
-    ┃   ┃ ┗╸Dogalikes  
-    ┃   ┃   ┣╸Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊  
-    ┃   ┃   ┣╸Bears: 🐻🐻‍❄️🐼  
-    ┃   ┃   ┣╸Seals: 🦭  
-    ┃   ┃   ┗╸Stinkers: 🦝🦦🦡🦨  
-    ┃   ┣╸Bats: 🦇  
-    ┃   ┣╸Hedgehogs: 🦔  
-    ┃   ┣╸Elephants: 🐘🦣  
-    ┃   ┗╸Sloths: 🦥  
-    ┣╸Reptiles  
-    ┃ ┣╸Lizards: 🦎🐍  
-    ┃ ┣╸Turtles: 🐢  
-    ┃ ┣╸Crocodilians:🐊  
-    ┃ ┗╸Dinosaurs  
-    ┃   ┣╸Longnecks: 🦕  
-    ┃   ┣╸Tyrants: 🦖  
-    ┃   ┗╸Birds  
-    ┃     ┣╸Ratites  
-    ┃     ┣╸Fowl  
-    ┃     ┃ ┣╸Landfowl: 🦃🐔🐓🐣🐤🐥🦚  
-    ┃     ┃ ┗╸Waterfowl: 🦆🦢  
-    ┃     ┗╸Newbirds  
-    ┃       ┣╸Flamingos: 🦩  
-    ┃       ┣╸Doves: 🕊️🦤()  
-    ┃       ┣╸Penguins: 🐧  
+    ┃   ┣╸Carnivorans:
+    ┃   ┃ ┣╸Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
+    ┃   ┃ ┗╸Dogalikes
+    ┃   ┃   ┣╸Dogs: 🐶🐕🦮🐕‍🦺🐩🐺🦊
+    ┃   ┃   ┣╸Bears: 🐻🐻‍❄️🐼
+    ┃   ┃   ┣╸Seals: 🦭
+    ┃   ┃   ┗╸Stinkers: 🦝🦦🦡🦨
+    ┃   ┣╸Bats: 🦇
+    ┃   ┣╸Hedgehogs: 🦔
+    ┃   ┣╸Elephants: 🐘🦣
+    ┃   ┗╸Sloths: 🦥
+    ┣╸Reptiles
+    ┃ ┣╸Lizards: 🦎🐍
+    ┃ ┣╸Turtles: 🐢
+    ┃ ┣╸Crocodilians:🐊
+    ┃ ┗╸Dinosaurs
+    ┃   ┣╸Longnecks: 🦕
+    ┃   ┣╸Tyrants: 🦖
+    ┃   ┗╸Birds
+    ┃     ┣╸Ratites
+    ┃     ┣╸Fowl
+    ┃     ┃ ┣╸Landfowl: 🦃🐔🐓🐣🐤🐥🦚
+    ┃     ┃ ┗╸Waterfowl: 🦆🦢
+    ┃     ┗╸Newbirds
+    ┃       ┣╸Flamingos: 🦩
+    ┃       ┣╸Doves: 🕊️🦤()
+    ┃       ┣╸Penguins: 🐧
     ┃       ┗╸Birds of Prey: 🦅🦉🐦🦜  ()
-    ┗╸Frogge: 🐸  
-
+    ┗╸Frogge: 🐸
 </pre>
 
+Note that:
 - Many clades which are not represented by emojis are excluded.
 - Some clades indicated by a para-phylum, some indicated by English translation of latin name.
 
@@ -128,21 +129,18 @@ Worms
 
 ### Fishes (Vertebrata)
 
-Fish are not a clade. The common ancestor of sharks, tuna, hagfish, and lungfish, is also the ancestor of tetrapods (reptiles, birds, mammals, and amphibians; all typically four-limbed land creatures). *Vertebra* is the name for the clade which includes tetrapods and fish, and its members are called *vertebrates*. 
+Fish are not a clade. The common ancestor of sharks, tuna, hagfish, and lungfish, is also the ancestor of tetrapods (reptiles, birds, mammals, and amphibians; all typically four-limbed land creatures). *Vertebrata* is the name for the clade which includes tetrapods and fish, and its members are called *vertebrates*. 
 
 Thus fish, as usually defined, is the group consisting of *non-tetrapod vertebrates*. 
-
-To to make "fish" a clade, we must includes whales, chickens, and the like. 
+To to make "fish" into a clade, we must include whales, chickens, and the like. 
 
 <aside> 
 If you wanted to expand the clade to include everything that is sometimes *called* a fish (jellyfish, inkfish, starfish), you would need to include basically every animal excepts sponges.
 </aside>
 
+---
 
 The remaining examples are listed in roughly decreasing order of sensibility:
-
-
-
 
 
 ### Dinosaurs (Dinosauria)
@@ -150,7 +148,7 @@ The remaining examples are listed in roughly decreasing order of sensibility:
 Likewise, dinosaurs, as the category exists in the imagination of children and film-makers, are not a clade. It's only once birds are included that the category of *dinosauria* becomes cladistic.
 Hence why dinos, as they appear in pop-culture, are called *non-avian dinosaurs* by science educators.
 
-For "dinosaur", the cladistic definition came before the common-name category, so this is the one time in this exercise where no one can object.
+For "dinosaur", the cladistic definition came before the common-name category, so this is the one time in this exercise where biologists can't object.
 
 <aside markdown="block">
 Sidenote: Pterosaurs aren't in the clade of dinosauria, but they're more closely related to dinosaurs than they are to anything else, so I think it's perfectly reasonable to include them in the pop-culture category of dinos. But if you want a more proper name, the clade containing both dinosaurs and pterosaurs is called  *[Panaves](https://en.wikipedia.org/wiki/Avemetatarsalia)*, meaning 'every bird', or *Avemetatarsalia*, meaning 'bird-footbones'. Eugh. Those names are both boring and confusing. I much prefer Ernst Haeckel's suggestion that the clade by called 
@@ -166,8 +164,9 @@ Asian Elephants are more closely related to Mammoths than they are to African El
 (Mastodons were slightly different creatures.)
 
 
+### Doves (Columbidae)
 
-
+Columbidae is the clade of pigeons and doves. There is no rigourous distinction between the two terms; I used "doves" in the tree above because it sounds more lovely. The extinct dodo was a large ground-pigeon.
 
 
 ### Lizards (Squamata)
@@ -181,14 +180,59 @@ Conversely, [tuatara](https://en.wikipedia.org/wiki/Tuatara) look super lizardy,
 -->
 
 
-## Moths (Lepidoptera)
+
+### Moths (Lepidoptera)
 
 Butterflies are a clade of moth which tend to be more colorful and come out during the day.
 Moths are just non-butterfly lepidopterans. And to make 'moths' into a clade, the butterflies must be included.
 
-## Wasp (Apocrita)
+Note that the emoji 🐛 represents an ambiguous species. Most emoji sets depict it as a baby moth, but some depict it as a centipede.
 
-Bees are a clade. Ants are a clade. Wasps are just any of the species related to bees and ants which are neither bees nor ants. But cladistically, bees and ants are specific kinds of wasps.
+
+### Wasps (Apocrita)
+
+🐝 Bees are a clade. 
+🐜 Ants are a clade. 
+Wasps are just any of the species related to bees and ants which are neither bees nor ants. 
+So cladistically, bees and ants are specific kinds of wasps.
+<!--Hymenoptera, also excluding sawflies? Or sawflies are monophyletically all hymenoptera?-->
+
+
+### Monkeys (Simiiformes)
+
+A monkey is a *non-ape simian*. There are two different clades of monkeys, and any clade that includes both will also include the apes.
+Members of that shared clade are called "anthropoids" or "simians".
+But for this exercise, I'm calling apes "Monkeys" for the same reason that I'm calling them "Fish".
+
+
+
+
+### Bugs (Arthropoda)
+
+A bug expert might insist that "bug" refers only to a specific clade of insects,
+either [hemiptera](https://askabiologist.asu.edu/explore/true-bugs) or [heteroptera](https://www.britannica.com/animal/heteropteran), depending on who you ask.
+But we all know what a bug is.
+It's a creepy crawly little whatzit with too many skittery legs. It's near synonymous with "arthropod".
+
+<!--
+Let me check to make sure I'm not the only one who feels this way about the word bug. 
+[Merriam-Webster](https://www.merriam-webster.com/dictionary/bug) lists spiders and beetles as examples of bugs.
+-->
+
+<!--
+https://www.britannica.com/dictionary/bug
+https://www.tepapa.govt.nz/discover-collections/read-watch-play/science/your-bug-questions-answered/what-bug-insects-arachnids
+https://archive.org/details/handybuganswerbo00wald/page/n17/mode/2up
+https://www.merriam-webster.com/dictionary/bug
+https://www.britannica.com/animal/heteropteran
+https://dictionary.cambridge.org/us/dictionary/english/bug
+https://www.dictionary.com/browse/bug
+http://tolweb.org/Heteroptera/10805
+https://bugguide.net/node/view/15740 is about insects spiders and related creatures
+Even the "Bug" emoji 🐛 doesn't depict a "true bug"
+https://emojipedia.org/bug/
+-->
+
 
 
 
@@ -266,7 +310,24 @@ A lobster is a bulked up shrimp that crawls more than it swims. A crab is a lobs
 
 
 
+### Worms (Bilateria)
 
+Between the segmented worms, the round worms, the arrow worms, the flat worms, the velvet worms, the various arthropods called 'worms' (eg silkworms), and the snakes [from whence the word originates via "wyrm"](https://www.etymonline.com/word/worm), worms cover most of the animal family tree. 
+Nearly all animals, excepting a few simple creatures like jellies and sponges, are bilaterally symmetric creatures with body plans built around a central tube - they're worms, cladistically and structurally.
+
+<!--Non-snake cylidrical bilaterians?-->
+
+
+
+### Birds of Prey (Telluraves)
+
+Birds of Prey, (aka "Raptors", though *Jurassic Park* has completely changed the meaning of that term,) are the big fierce hunter birds.
+Eagles, hawks, falcons -- you know the lot.
+It was a sensible guess that these birds might be a clade, but it is now known that falcons are more closely related to parrots and songbirds.
+The clade containing all the birds of prey is now called "Telluraves", which means "Earth-birds".
+Owls and woodpeckers are also telluravians.
+
+The 🐦 emoji is displayed as different species depending on the emoji set, but all of the identifiable species (bluebird, cardinal, canary, parrot) are telluravians. 
 
 
 
@@ -299,18 +360,54 @@ So for this exercise, I've lumped them together.
 The smallest clade that includes all the (o)possums is the clade which includes every marsupial.
 
 
-
-
-
-
 ---
 
-TODO:
-- Raptors / Birds of Prey (Telluraves)
-- Worms / Bilateral creatures. <!--Non-snake cylidrical bilaterians? ### Worms (Bilateria)
-- Bugs / arthropods
+## Other Clade Names Used
 
-<!--Birds of Prey, also called Raptors are the-->
+In some cases, I wasn't able to find a common-name which could be expanded to cover a clade, and didn't want to just list each species individually.
+
+### Actual Clade Names
+
+- Arachnids - Everyone's heard of Arachne, right?
+- Supraprimates - It rolls off the tongue better than the synonym *Euarchontoglires*, which means soemthing like 'true-rulers-and-dormice'.  
+- Even-toed Ungulates
+- Odd-toed Ungulates
+- Ruminants - "Ruminant" actually has more results on Google than "Ruminate" (66m vs 41m), so it seems like a common enough term.
+- Crocodilians - Secret tip: Never worry about whether it's a crocodile or an alligator. Just call them both crocodilians.
+- Ratites - This is the term for those weird flightless bird. The name comes from the shape of their sternum. Why isn't there a kiwibird emoji?
+- Fowl, Landfowl, Waterfowl
+- Rodents
+- Camelids
+
+<!--TODO: Give some of these sillier names.-->
+
+
+### 'Translated' Names
+
+- Dogalikes (Caniformia)
+- Newbirds (Neoaves) - It's difficult to determine the relationships between birds within this clade because it underwent very rapid speciation after most of the dinos got wiped out [^neoavescite].
+- Tyrants (Tyrannosaurus) - Listing all Theropods would make birds a subset, and I didn't want to indent that sublist an extra time.  
+
+
+[^neoavescite]: [Data Types and the Phylogeny of Neoaves](https://www.mdpi.com/2673-6004/2/1/1/htm). Braun and Kimball (2021).
+     This paper compares the different versions of the bird family tree. Studies agree about some parts of the family tree, but disagree about others. (e.g. what's going on with the hoatzins?) The language in this article is very technical, but the pictures give ample context. 
+
+
+
+
+### Other Clade Names
+
+- Stinkers (Musteloidea) - Most of the species in this clade are noted for their use of anal-gland secretions for use in communication and defense. "Badger" would also work as a name for the clade because there is a skunk species called the "stink badger".
+- Longnecks (Sauropods) - They've got the longest necks. It's a good name. Thanks to *The Land Before Time* for this one. 
+- Whippos (Whippomorpha) - It's not common at all, but what a fun word.
+
+<!--https://www.genuinemustelids.org/family/mustelids/-->
+
+
+
+
+
+
 
 
 
@@ -551,10 +648,8 @@ https://bugguide.net/node/view/15740
 bug guide includes spiders. spider is colloquial bug.
 -->
 
-[Data Types and the Phylogeny of Neoaves](https://www.mdpi.com/2673-6004/2/1/1/htm) 
-: Braun and Kimball (2021)
-: This paper compares the different versions of the bird family tree. Studies agree about some parts of the family tree, but disagree about others. (e.g. what's going on with the hoatzins?) The language in this article is very technical, but the pictures give ample context. 
 
+---
 
 [OneZoom Tree of Life](http://www.onezoom.org/)
 : Zoomable fractal showing the tree of life. Playing around with it, it does seem like many of the branches are outdated.
@@ -562,14 +657,7 @@ bug guide includes spiders. spider is colloquial bug.
 [Vertlife](http://vertlife.org/)
 : A fork of OneZoom. More up to date, but only depicting the tetrapods. 
 
-
-
-
-
-
----
-
-(PLACEHOLDER FOR EMOJI-BASED VISUALIZATION OF ANIMAL CLADES)
+(PLACEHOLDER FOR GRIDDED VISUALIZATION OF ANIMAL CLADES)
 
 
 
