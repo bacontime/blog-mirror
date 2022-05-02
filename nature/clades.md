@@ -29,7 +29,7 @@ After all, we used to think of reptiles and amphibians as the same kind of thing
 And it was only in the last century that people realized that mushrooms aren't plants.
 -->
 
-So let's run with the fish example. I'll build a cladistic tree of life using common names instead of latin names.
+So let's run with the fish example. The following is a cladistic tree of life using common names instead of latin names.
 When a common-name describes a non-clade group, I'll play a bit fast and loose with that common name to turn it into a clade.
 
 <!--Insert graphics here. Aside with Lupo's comment about how none of the groupings are wrong per se just useless.-->
@@ -364,7 +364,7 @@ The smallest clade that includes all the (o)possums is the clade which includes 
 
 ## Other Clade Names Used
 
-In some cases, I wasn't able to find a common-name which could be expanded to cover a clade, and didn't want to just list each species individually.
+In some cases, I wasn't able to find a common name which could be expanded to cover a clade, and didn't want to just list each species individually.
 
 ### Actual Clade Names
 
@@ -399,7 +399,7 @@ In some cases, I wasn't able to find a common-name which could be expanded to co
 
 - Stinkers (Musteloidea) - Most of the species in this clade are noted for their use of anal-gland secretions for use in communication and defense. "Badger" would also work as a name for the clade because there is a skunk species called the "stink badger".
 - Longnecks (Sauropods) - They've got the longest necks. It's a good name. Thanks to *The Land Before Time* for this one. 
-- Whippos (Whippomorpha) - It's not common at all, but what a fun word.
+- Whippos (Whippomorpha) - It's not a common term at all, but what a fun word.
 
 <!--https://www.genuinemustelids.org/family/mustelids/-->
 
