@@ -18,6 +18,8 @@ Pufferfish, you see, share a more recent ancestor with humans than they do with 
 Any group consisting of only the things called '[fish](https://en.wikipedia.org/wiki/Fish)' is a group defined by physical features rather than shared ancestry.
 Fish, in other words, aren't a true *clade*.
 
+<!--TODO: Insert comment about form taxa or folk taxonomy.-->
+
 <aside>
  A <b>clade</b> is any group of organisms which share a common ancestor, such that all of the descendants of that common ancestor are included in the group.
 </aside>
@@ -132,7 +134,7 @@ Note that:
 Fish are not a clade. The common ancestor of sharks, tuna, hagfish, and lungfish, is also the ancestor of tetrapods (reptiles, birds, mammals, and amphibians; all typically four-limbed land creatures). *Vertebrata* is the name for the clade which includes tetrapods and fish, and its members are called *vertebrates*. 
 
 Thus fish, as usually defined, is the group consisting of *non-tetrapod vertebrates*. 
-To to make "fish" into a clade, we must include whales, chickens, and the like. 
+To make "fish" into a clade, we must include whales, chickens, and the like. 
 
 <aside> 
 If you wanted to expand the clade to include everything that is sometimes *called* a fish (jellyfish, inkfish, starfish), you would need to include basically every animal excepts sponges.
@@ -150,11 +152,12 @@ Hence why dinos, as they appear in pop-culture, are called *non-avian dinosaurs*
 
 For "dinosaur", the cladistic definition came before the common-name category, so this is the one time in this exercise where biologists can't object.
 
-<aside markdown="block">
+<details markdown="block">
+<summary>What about Pterosaurs?</summary>
 Sidenote: Pterosaurs aren't in the clade of dinosauria, but they're more closely related to dinosaurs than they are to anything else, so I think it's perfectly reasonable to include them in the pop-culture category of dinos. But if you want a more proper name, the clade containing both dinosaurs and pterosaurs is called  *[Panaves](https://en.wikipedia.org/wiki/Avemetatarsalia)*, meaning 'every bird', or *Avemetatarsalia*, meaning 'bird-footbones'. Eugh. Those names are both boring and confusing. I much prefer Ernst Haeckel's suggestion that the clade by called 
 [dracones](https://www.google.com/books/edition/Systematische_Phylogenie_Wirbelthiere/ZXxZAAAAQAAJ?hl=en&gbpv=1&dq=dracones+Haeckel,+1895&pg=PR17&printsec=frontcover),
 which is just latin for 'dragons'. 
-</aside>
+</details>
 <!--anything closer to a bird than to a crocodile-->
 
 
