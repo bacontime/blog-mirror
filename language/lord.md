@@ -16,7 +16,7 @@ Bug 2
 : While “Lady” has been patched to be a gendered term of refinement, the title of “Lord” by itself is deprecated outside of a few isolated island nations. 
 
 Proposed Bugfix
-: Perform a partial swap of the meaning. Lord will henceforth be a gender-neutral title awarded for completion of a university’s highest degree. Doctor will now refer either to  someone with such a degree in medicine or to a male with a position of nobility.
+: Perform a partial swap of the meaning. "Lord" will henceforth be a gender-neutral title awarded for completion of a university’s highest degree. "Doctor" will now refer either to  someone with such a degree in medicine or to a male with a position of nobility.
 
 
 
@@ -27,10 +27,16 @@ Proposed Bugfix
 - We’ve tried several times unsuccessfully to fix the bug where someone who rents out buildings is referred to as a “landlord”. This update doesn’t attempt to resolve the issue, though the description of the error has been changed.
 - Medical Doctors may be referred to as Lords of Medicine, Doctors of Medicine, Medical Lords, or simply Doctors. Referring to them as “Lords” without qualification should be avoided to prevent recurrence of bug #1. 
 - Those who held Doctorates now hold Lordships. Example changes include:
-   - Doctor of Jurisprudence → Lord of Justice or Justice Lord
-   - Doctor of Arts → Lord of the Arts or Art Lord (eg Lord of the Art of English)
-   - Doctor of Engineering → Lord of the Crafts or Craft Lord
-   - Doctor of Philosophy in Astronomy → Lord of the Stars or Star Lord
-   - Doctor of Theology → Lord of the LORD or LORD Lord
-- In keeping with existing nomenclature, a Doctor of Philosophy in Economics has been updated to be called a "Sveriges Riksbank Lord in Economic Sciences in Memory of Alfred Nobel".
+   - Doctor of Jurisprudence  
+     → *Lord of Justice* or *Justice Lord*
+   - Doctor of Arts  
+     → *Lord of the Arts* or *Art Lord*
+     (eg Lord of the Art of English)
+   - Doctor of Engineering  
+     → *Lord of the Crafts* or *Craft Lord*
+   - Doctor of Philosophy in Astronomy  
+     → *Lord of the Stars* or *Star Lord*
+   - Doctor of Theology  
+     → *Lord of the LORD* or *LORD Lord*
+- In keeping with existing nomenclature, a Doctor of Philosophy in Economics has been updated to be called a *"Sveriges Riksbank Lord in Economic Sciences in Memory of Alfred Nobel"*.
 
