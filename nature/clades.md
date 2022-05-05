@@ -5,7 +5,8 @@ parent: Science and Nature
 ---
 
 
-# Common-Name Cladistics (or Calling a Whale a Fish)
+# Common-Name Cladistics 
+## (or Calling a Whale a Fish)
 
 - An uneducated person might think that whales are fish.  
 - An educated person knows that whales aren't fish; they're mammals.  
@@ -34,9 +35,6 @@ And it was only in the last century that people realized that mushrooms aren't p
 So let's run with the fish example. The following is a cladistic tree of life using common names instead of latin names.
 When a common-name describes a non-clade group, I'll play a bit fast and loose with that common name to turn it into a clade.
 
-> This is a blockquote with text inside
-> and now I want to cite something in the blockquote 
-    <cite>Hello, from the other side, p45</cite>
 
 <!--Insert graphics here. Aside with Lupo's comment about how none of the groupings are wrong per se just useless.-->
 
@@ -127,9 +125,9 @@ Worms
 </pre>
 
 Note that:
-- Many clades which are not represented by emojis are excluded.
-- Some clades indicated by a para-phylum, some indicated by English translation of latin name.
-
+- emojis in parentheses are not in the unicode standard, and are specific to OprnMoji
+- Many clades are excluded.
+- Todo: link to version with scientific names.
 
 ## Explanations for Clade Names
 
