@@ -53,7 +53,7 @@ you could come up with a tree that looks something like this:-->
   size-adjust: 90%;
 }
 .cladeslist {
-  font-family: monospace, 'Openmoji Nano';
+  font-family: 'Courier New', monospace, 'Openmoji Nano';
   line-height: 1;
 }
 </style>
@@ -124,10 +124,13 @@ Worms
     ┗╸Frogge: 🐸
 </pre>
 
-Note that:
+<details markdown="block">
+<summary>Notes about this tree. (click to expand)</summary>
 - emojis in parentheses are not in the unicode standard, and are specific to OprnMoji
 - Many clades are excluded.
-- Todo: link to version with scientific names.
+- Todo: link to version with scientific names. 
+</details>
+
 
 ## Explanations for Clade Names
 
