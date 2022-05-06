@@ -55,6 +55,8 @@ you could come up with a tree that looks something like this:-->
 .cladeslist {
   font-family: 'Courier New', monospace, 'Openmoji Nano';
   line-height: 1;
+ padding-bottom: 2rem;
+ overflow: auto;
 }
 </style>
 
