@@ -25,7 +25,8 @@ Doctor
 Lord
 : "Lord" means "bread guardian". It's a contraction of "loaf ward", or rather the Old English *hlafweard*.
 
-
+Companion
+: From *com-panis*, meaning 'together-bread'. A companion is someone you share bread with. 
 
 
 Soup
