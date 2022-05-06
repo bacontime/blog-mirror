@@ -1,6 +1,6 @@
 ---
 title: Common-Name Cladistics
-nav_exclude: true
+nav_exclude: false
 parent: Science and Nature
 ---
 
@@ -52,11 +52,16 @@ you could come up with a tree that looks something like this:-->
   src: url(../../webfonts/emoji/OpenMojiCOLRv0.ttf);
   size-adjust: 90%;
 }
+
+@font-face {
+  font-family: 'mononoki';
+  src: url(../../webfonts/mono/mononoki-Regular.woff);
+}
 .cladeslist {
-  font-family: 'Courier New', monospace, 'Openmoji Nano';
+  font-family: 'mononoki', monospace, 'Openmoji Nano';
   line-height: 1;
- padding-bottom: 2rem;
- overflow: auto;
+  padding-bottom: 2rem;
+  overflow: auto;
 }
 </style>
 
@@ -278,7 +283,7 @@ https://www.youtube.com/watch?v=5luGVwB453g
 ### Shrimps (Pancrustacea) and Prawns (Decapoda)
 
 Shrimps are not a clade. A shrimp is basically any little crustacean that swims about and looks... er... shrimpy. 
-There are many different groups of creature called "shrimp"  [https://en.wikipedia.org/wiki/Shrimp#Non-decapods](scattered all over the crustacean family tree). 
+There are many different groups of creature called "shrimp"  [scattered all over the crustacean family tree](https://en.wikipedia.org/wiki/Shrimp#Non-decapods). 
 To turn "shrimp" into a clade, you could either declare one and only one of these groups to be [True Shrimp](https://en.wikipedia.org/wiki/Caridea), and insist all the others are imposters. 
 Or you could shrug your shoulders as I'm doing here and say "sure, all crustaceans are shrimps". 
 Lobster? Big shrimp, so big he has trouble swimming.
@@ -289,7 +294,7 @@ For example, the brine shrimp (called Sea-monkeys when sold as pets) are more cl
 So in this exercise, insects are crustaceans, and crustaceans are all shrimps, so insects are shrimps.
 
 Meanwhile, the 'classic' crustaceans are in the clade *Malacostraca*, which means 'soft-shell' in Greek. 
-Aristotle gave them this name because their shells crush under pressure, in constrast to harder-shelled animals (like snails and oysters) whose shells shatter under pressure [^aristotlecite]. 
+Aristotle gave them this name because their shells crush under pressure, in constrast to harder-shelled animals (like snails and oysters) whose shells shatter under pressure. [^aristotlecite]
 The most familiar Malacostracans - 🦀🦞🦐 crabs, lobsters, and the other big shrimps people like to eat - are Decapods, in the clade *Decapoda*, meaning 'ten-feet'.  
 Malacostraca includes the decapods as well as other creatures like mantis shrimp and roly-polies (isopods).
 
@@ -297,7 +302,7 @@ Malacostraca includes the decapods as well as other creatures like mantis shrimp
 
 I wanted to find a common-name which cladistically includes all of the decapods, and settled on "Prawns".
 Like "shrimp", "prawn" has no precise scientific meaning. 
-A critter is prawn if it looks like a prawn, and whether a critter is called a "prawn" or a "shrimp" often comes down to regional slang [^weaselprawncite].
+A critter is prawn if it looks like a prawn, and whether a critter is called a "prawn" or a "shrimp" often comes down to regional slang. [^weaselprawncite]
 But unlike "shrimp", the application of the name "prawn" seems limited to decapods.
 
 <!--MW dict lists two true shrimps as prawns
@@ -365,7 +370,8 @@ Speaking of marsupials, possums are not a clade. To make possums into a clade, t
 [^possumcite]: From **[An emerging consensus in the evolution, phylogeny, and systematics of marsupials and their fossil relatives (Metatheria)](https://academic.oup.com/jmammal/article/100/3/802/5498022?login=false)** Beck, Croft, Eldridge, Fox, Travouillon (2019): 
     > A monophyletic grouping of all “possums” (Phalangeroidea + Petauroidea)... was initially supported by DNA hybridization data (Kirsch et al. 1997) ... However, this arrangement has received little support in subsequent molecular studies. Instead these analyses have allied Macropodiformes with either Phalangeroidea (Phillips and Pratt 2008; Meredith et al. 2009a, 2009b, 2009c), consistent with some morphological evidence (Szalay 1994), or with Petauroidea (Meredith et al. 2011; Mitchell et al. 2014; May-Collado et al. 2015), but without strong support for either arrangement.
 
-Possums aren't the same thing as **o**possums (american marsupials famous for playing dead) or shrew-oppossums (a marsupial which is neither a shrew nor an oppossum). But opossums are often called "'possums", and possums were named for their similarity to opossums. Possum.
+Possums aren't the same thing as **o**possums (american marsupials famous for playing dead) or shrew-oppossums (a marsupial which is neither a shrew nor an oppossum).
+But opossums are often called "'possums", and possums were named for their similarity to opossums.
 So for this exercise, I've lumped them together.
 The smallest clade that includes all the (o)possums is the clade which includes every marsupial.
 
