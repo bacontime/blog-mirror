@@ -4,6 +4,11 @@ parent: Science and Nature
 has_children: true
 ---
 
+<!--Reminder: This page from sklearn has a list of classifiers to look at.
+https://scikit-learn.org/stable/modules/model_evaluation.html#balanced-accuracy-score
+-->
+
+
 In [*The State Birds are Garbage*](https://www.youtube.com/watch?v=JAZI5GcPm8c),
 Jam2go calculates "BIRD Uniqueness Points" for each (bird,state) pair, 
 and uses this to assign new state birds.
