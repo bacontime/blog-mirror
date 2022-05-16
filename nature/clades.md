@@ -82,7 +82,7 @@ Worms
 ┣╸Ringed Worms: 🪱
 ┗╸Fishes
   ┣╸Cartilaginous Fish: 🦈
-  ┣╸Ray-finned Fish: 🐟🐠🐡  ()
+  ┣╸Ray-finned Fish: 🐟🐠🐡
   ┗╸Lobe-finned Fish
     ┣╸Mammals
     ┃ ┣╸Possums: 🐨🦘
@@ -93,13 +93,13 @@ Worms
     ┃   ┃ ┗╸Monkeys: 🐵🐒🦍🦧🤸
     ┃   ┣╸Even-toed Ungulates:
     ┃   ┃ ┣╸Camelids: 🐪🐫🦙
-    ┃   ┃ ┣╸Whippos: 🦛🐳🐋🐬 () 
+    ┃   ┃ ┣╸Whippos: 🦛🐳🐋🐬
     ┃   ┃ ┣╸Pigs: 🐷🐖🐗
     ┃   ┃ ┗╸Ruminants
     ┃   ┃   ┣╸Giraffes: 🦒
     ┃   ┃   ┣╸Deers: 🦌
     ┃   ┃   ┗╸Antelopes: 🦬🐮🐂🐃🐄🐏🐑🐐
-    ┃   ┣╸Odd-toed Ungulates: 🐴🐎🦄🦓🦏  ()
+    ┃   ┣╸Odd-toed Ungulates: 🐴🐎🦄🦓🦏
     ┃   ┣╸Carnivorans:
     ┃   ┃ ┣╸Cats: 🐱🐈🐈‍⬛🦁🐯🐅🐆
     ┃   ┃ ┗╸Dogalikes
@@ -125,11 +125,16 @@ Worms
     ┃     ┃ ┗╸Waterfowl: 🦆🦢
     ┃     ┗╸Newbirds
     ┃       ┣╸Flamingos: 🦩
-    ┃       ┣╸Doves: 🕊️🦤()
+    ┃       ┣╸Doves: 🕊️🦤
     ┃       ┣╸Penguins: 🐧
-    ┃       ┗╸Birds of Prey: 🦅🦉🐦🦜  ()
+    ┃       ┗╸Birds of Prey: 🦅🦉🐦🦜
     ┗╸Frogge: 🐸
 </pre>
+
+<!--
+  ()  ()  () ()()
+-->
+
 
 <details markdown="block">
 <summary>Notes about this tree. (click to expand)</summary>
@@ -140,6 +145,28 @@ Worms
 
 
 ## Explanations for Clade Names
+
+
+### Dinosaurs (Dinosauria)
+
+Dinosaurs, as the category exists in the imagination of children and film-makers, are not a clade. 
+
+
+It's only once birds are included that the category of *dinosauria* becomes cladistic.
+Hence why dinos, as they appear in pop-culture, are called *non-avian dinosaurs* by science educators.
+
+For "dinosaur", the cladistic definition came before the common-name category, so this is the one time in this exercise where biologists can't object.
+
+<details markdown="block">
+<summary>What about Pterosaurs?</summary>
+Sidenote: Pterosaurs aren't in the clade of dinosauria, but they're more closely related to dinosaurs than they are to anything else, so I think it's perfectly reasonable to include them in the pop-culture category of dinos. But if you want a more proper name, the clade containing both dinosaurs and pterosaurs is called  *[Panaves](https://en.wikipedia.org/wiki/Avemetatarsalia)*, meaning 'every bird', or *Avemetatarsalia*, meaning 'bird-footbones'. Eugh. Those names are both boring and confusing. I much prefer Ernst Haeckel's suggestion that the clade by called 
+[dracones](https://www.google.com/books/edition/Systematische_Phylogenie_Wirbelthiere/ZXxZAAAAQAAJ?hl=en&gbpv=1&dq=dracones+Haeckel,+1895&pg=PR17&printsec=frontcover),
+which is just latin for 'dragons'. 
+</details>
+<!--anything closer to a bird than to a crocodile-->
+
+
+
 
 ### Fishes (Vertebrata)
 
@@ -157,20 +184,6 @@ If you wanted to expand the clade to include everything that is sometimes *calle
 The remaining examples are listed in roughly decreasing order of sensibility:
 
 
-### Dinosaurs (Dinosauria)
-
-Likewise, dinosaurs, as the category exists in the imagination of children and film-makers, are not a clade. It's only once birds are included that the category of *dinosauria* becomes cladistic.
-Hence why dinos, as they appear in pop-culture, are called *non-avian dinosaurs* by science educators.
-
-For "dinosaur", the cladistic definition came before the common-name category, so this is the one time in this exercise where biologists can't object.
-
-<details markdown="block">
-<summary>What about Pterosaurs?</summary>
-Sidenote: Pterosaurs aren't in the clade of dinosauria, but they're more closely related to dinosaurs than they are to anything else, so I think it's perfectly reasonable to include them in the pop-culture category of dinos. But if you want a more proper name, the clade containing both dinosaurs and pterosaurs is called  *[Panaves](https://en.wikipedia.org/wiki/Avemetatarsalia)*, meaning 'every bird', or *Avemetatarsalia*, meaning 'bird-footbones'. Eugh. Those names are both boring and confusing. I much prefer Ernst Haeckel's suggestion that the clade by called 
-[dracones](https://www.google.com/books/edition/Systematische_Phylogenie_Wirbelthiere/ZXxZAAAAQAAJ?hl=en&gbpv=1&dq=dracones+Haeckel,+1895&pg=PR17&printsec=frontcover),
-which is just latin for 'dragons'. 
-</details>
-<!--anything closer to a bird than to a crocodile-->
 
 
 ### Elephants (Elephantidae)
