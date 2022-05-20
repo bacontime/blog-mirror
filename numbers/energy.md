@@ -32,7 +32,7 @@ We can use the following ratios to convert between various measures of energy
 The energy of explosives is often measured in "(metric) tons of TNT". The energy actually released by TNT is quite variable, but [the *unit* is defined to be](https://www.nist.gov/pml/special-publication-811/nist-guide-si-appendix-b-conversion-factors/nist-guide-si-appendix-b8)
 equal to 4,184,000,000 joules. This means that a "gram of TNT" is equal to 4184 joules, exactly one dietary Calorie.
 
-(Yes, vegetable oil contains more energy than TNT. The thing that makes explosives dangerous isn't that they contain a lot of energy; it's that they release that energy very very quickly.)
+(By contrast, a gram of vegetable oil contains about 9 Cals. Yes, vegetable oil contains more energy than TNT. The thing that makes explosives dangerous isn't that they contain a lot of energy; it's that they release that energy very very quickly.)
 
 
 ## Power usage
