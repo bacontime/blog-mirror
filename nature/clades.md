@@ -179,6 +179,8 @@ To make "fish" into a clade, we must include whales, chickens, and the like.
 If you wanted to expand the clade to include everything that is sometimes *called* a fish (jellyfish, inkfish, starfish), you would need to include basically every animal excepts sponges.
 </aside>
 
+<!--Also, on a technicality, bees are fish in California.-->
+
 ---
 
 The remaining examples are listed in roughly decreasing order of sensibility:
