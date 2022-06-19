@@ -151,11 +151,12 @@ Worms
 
 Dinosaurs, as the category exists in the imagination of children and film-makers, are not a clade. 
 
-
 It's only once birds are included that the category of *dinosauria* becomes cladistic.
-Hence why dinos, as they appear in pop-culture, are called *non-avian dinosaurs* by science educators.
+Hence why dinos, of the pop-culture terrible lizardy beast variety, are called *non-avian dinosaurs* by science educators.
 
-For "dinosaur", the cladistic definition came before the common-name category, so this is the one time in this exercise where biologists can't object.
+The term "dinosaur" was coined back when only a few of the beasties were known. 
+
+<!--For "dinosaur", the cladistic definition came before the common-name category, so this is the one time in this exercise where biologists can't object.-->
 
 <details markdown="block">
 <summary>What about Pterosaurs?</summary>
