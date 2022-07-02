@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    width="685.22174mm"
    height="2981.0574mm"
    viewBox="0 0 685.22171 2981.0574"
    version="1.1"
    id="svg8565"
-   inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
    sodipodi:docname="solarsystemalchemy.svg"
    inkscape:export-filename="C:\Users\RobertWinslow\Documents\website\posts\nature\astrosymbols\squarerootscaleplanets.png"
    inkscape:export-xdpi="60"
-   inkscape:export-ydpi="60">
+   inkscape:export-ydpi="60"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <defs
      id="defs8559">
     <rect
@@ -33,9 +33,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.22627417"
-     inkscape:cx="-7719.6243"
-     inkscape:cy="-7115.6514"
+     inkscape:zoom="0.16"
+     inkscape:cx="-281.25"
+     inkscape:cy="334.375"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -48,7 +48,8 @@
      showguides="true"
      inkscape:snap-text-baseline="true"
      inkscape:lockguides="true"
-     inkscape:snap-global="true" />
+     inkscape:snap-global="true"
+     inkscape:pagecheckerboard="0" />
   <metadata
      id="metadata8562">
     <rdf:RDF>
@@ -57,7 +58,6 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -5944,12 +5944,13 @@
     <text
        xml:space="preserve"
        id="text5549"
-       style="font-size:50.8px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5551);"><tspan
-         style="visibility:hidden"
+       style="font-size:50.8px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;white-space:pre;shape-inside:url(#rect5551)"><tspan
          x="-27857.545"
-         y="-196.1393"><tspan
-           dx="0 47.955116 14.122395 34.543919 35.966309 16.916321 44.44989 37.388718 37.388687 35.966339"
-           style="shape-inside:url(#rect5551)">WITH MOONS</tspan></tspan></text>
+         y="-196.1393"
+         id="tspan79365"><tspan
+           dx="0 47.955212 14.122395 34.544014 35.966408 16.916412 44.449997 37.388794 37.388794 35.966431"
+           style="shape-inside:url(#rect5551)"
+           id="tspan79363">WITH MOONS</tspan></tspan></text>
     <text
        xml:space="preserve"
        style="font-size:141.111px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
@@ -14251,7 +14252,7 @@
              id="tspan4720-7-8-0"
              x="-12579.273"
              y="14388.114"
-             style="font-size:14.1111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.330729">Namesake: Earth. You know, dirt and stuff..</tspan></text>
+             style="font-size:14.1111px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.330729">Namesake: Earth, dirt, soil, that good brown stuff.</tspan></text>
       </g>
       <g
          id="g5316"
@@ -14277,7 +14278,7 @@
              id="tspan4720-6-0-2-9-3"
              x="-12610.492"
              y="14415.823"
-             style="font-size:10.5833px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.198437">Tides and whatnot. Covered in lovely craters and frozen lava flows.  </tspan></text>
+             style="font-size:10.5833px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.198437">Drives our tides. Covered in lovely craters and frozen lava flows.  </tspan></text>
         <text
            xml:space="preserve"
            style="font-size:8.46667px;line-height:0.8;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.198437"
@@ -14392,6 +14393,28 @@
          y="12493.584"
          style="font-size:8.81944px;text-align:center;text-anchor:middle;fill:#000000;stroke-width:0.264583"
          id="tspan4155">The Sun, Major planets, likely and official dwarf planets, and planetary-mass moons. </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+       x="-12443.968"
+       y="12532.359"
+       id="text4722-1-29-5-2-82"><tspan
+         sodipodi:role="line"
+         x="-12443.968"
+         y="12532.359"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4155-4">Graphic made by Robert Winslow. Updated 2022 July 2nd</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:7.05556px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+       x="-12421.835"
+       y="12539.9"
+       id="text4722-1-29-5-2-82-0"><tspan
+         sodipodi:role="line"
+         x="-12421.835"
+         y="12539.9"
+         style="font-size:7.05556px;text-align:center;text-anchor:middle;fill:#333333;fill-opacity:1;stroke-width:0.264583"
+         id="tspan4155-4-9">rmwinslow.com/posts/nature/astrosymbols</tspan></text>
     <text
        xml:space="preserve"
        style="font-size:269.059px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:6.77949;stroke-miterlimit:4;stroke-dasharray:none"
@@ -15678,7 +15701,7 @@
            x="-12544.685"
            y="13744.067"
            style="font-size:10.5833px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.248047"
-           id="tspan6794-6-9">Namesake: Mother of Aphrodite (when she isn't birthed from sea foam).</tspan></text>
+           id="tspan6794-6-9">Namesake: Mother of Venus (when she isn't birthed from sea foam).</tspan></text>
     </g>
     <g
        id="g6738-7-5-6"
@@ -15753,10 +15776,10 @@
          y="13744.067"
          id="text4722-6-1-37-4-8-6-1-7"><tspan
            sodipodi:role="line"
-           x="-12544.685"
+           x="-12542.923"
            y="13744.067"
            style="font-size:10.5833px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.248047"
-           id="tspan6794-6-4">Namesake: Mother of thousands of minor ocean and river gods.</tspan></text>
+           id="tspan6794-6-4">Namesake: Imprisoned under Sicily. His breath causes Mount Etna to rumble.  </tspan></text>
     </g>
     <g
        id="g4160"
@@ -15986,7 +16009,7 @@
              id="tspan871-7-2-9-1-9-0-7-9-1-1-7-6-6-2-6-9-7"
              x="752.32758"
              y="1633.4333"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.13361px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.108147;stroke-miterlimit:4;stroke-dasharray:none"></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.13361px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.108147;stroke-miterlimit:4;stroke-dasharray:none">🝻</tspan></text>
       </g>
       <g
          id="g6230-4"
@@ -16001,7 +16024,7 @@
              x="-12541.651"
              y="14096.876"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;fill:#cccccc;fill-opacity:1;stroke-width:0.248047"
-             id="tspan4802-7-4-73-1"> Haumea</tspan></text>
+             id="tspan4802-7-4-73-1">🝻 Haumea</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:13.2292px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.248047"
@@ -16192,7 +16215,7 @@
              id="tspan871-7-2-9-1-9-0-7-9-1-1-91-7-0-8-7"
              x="803.89819"
              y="1624.2931"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.41234px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.132905;stroke-miterlimit:4;stroke-dasharray:none"></tspan></text>
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.41234px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.132905;stroke-miterlimit:4;stroke-dasharray:none">🝼</tspan></text>
       </g>
       <g
          id="g6230-4-1"
@@ -16207,7 +16230,7 @@
              x="-12541.651"
              y="14096.876"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;fill:#db5d3b;fill-opacity:1;stroke-width:0.248047"
-             id="tspan4802-7-4-73-1-7"> Makemake</tspan></text>
+             id="tspan4802-7-4-73-1-7">🝼 Makemake</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:13.2292px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.248047"
@@ -16229,7 +16252,7 @@
              x="-12540.163"
              y="14119.402"
              style="font-size:10.5833px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.248047"
-             id="tspan5227-30-3">Namesake: Creator god of the birdman cult.  </tspan></text>
+             id="tspan5227-30-3">Namesake: Creator god of the birdman cult.    </tspan></text>
       </g>
     </g>
     <g
@@ -16345,13 +16368,13 @@
            xml:space="preserve"
            style="font-size:4.1114px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.103595;stroke-miterlimit:4;stroke-dasharray:none"
            x="804.2453"
-           y="1595.8442"
+           y="1595.7448"
            id="text873-4-3-1-20-3-8-9-5-8-5-3-31-2-0-4-2-9"><tspan
              sodipodi:role="line"
              id="tspan871-7-2-9-1-9-0-7-9-1-1-8-3-0-4-7-6-1"
              x="804.2453"
-             y="1595.8442"
-             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.56823px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.103595;stroke-miterlimit:4;stroke-dasharray:none"></tspan></text>
+             y="1595.7448"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.56823px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.103595;stroke-miterlimit:4;stroke-dasharray:none">🝾</tspan></text>
       </g>
       <g
          id="g6230-4-8-8"
@@ -16366,7 +16389,7 @@
              x="-12541.651"
              y="14096.876"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;fill:#886648;fill-opacity:1;stroke-width:0.248047"
-             id="tspan4802-7-4-73-1-76-1"> Quaoar</tspan></text>
+             id="tspan4802-7-4-73-1-76-1">🝾 Quaoar</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:13.2292px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.248047"
@@ -16482,15 +16505,15 @@
            r="2.1608152" />
         <text
            xml:space="preserve"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.92575px;line-height:1;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.0737203;stroke-miterlimit:4;stroke-dasharray:none"
-           x="760.96106"
-           y="1581.6252"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42797px;line-height:1;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.0737203;stroke-miterlimit:4;stroke-dasharray:none"
+           x="760.96924"
+           y="1581.8115"
            id="text873-4-3-1-20-3-8-9-5-8-5-3-31-2-0-6-2-1"><tspan
              sodipodi:role="line"
              id="tspan871-7-2-9-1-9-0-7-9-1-1-8-3-0-4-74-7-7"
-             x="760.96106"
-             y="1581.6252"
-             style="font-style:normal;font-variant:normal;font-weight:500;font-stretch:normal;font-size:3.25085px;font-family:'Noto Sans CJK SC';-inkscape-font-specification:'Noto Sans CJK SC Medium';text-align:center;text-anchor:middle;stroke-width:0.0737203;stroke-miterlimit:4;stroke-dasharray:none">共</tspan></text>
+             x="760.96924"
+             y="1581.8115"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.42797px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;stroke-width:0.0737203;stroke-miterlimit:4;stroke-dasharray:none">🝽</tspan></text>
       </g>
       <g
          id="g6230-4-8-8-5"
@@ -16505,9 +16528,7 @@
              x="-12541.651"
              y="14096.876"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:18.5209px;font-family:Catrinity;-inkscape-font-specification:Catrinity;text-align:center;text-anchor:middle;fill:#b14955;fill-opacity:1;stroke-width:0.248047"
-             id="tspan4802-7-4-73-1-76-1-0"><tspan
-   style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Noto Sans Mono CJK SC';-inkscape-font-specification:'Noto Sans Mono CJK SC'"
-   id="tspan8242">共</tspan> Gonggong</tspan></text>
+             id="tspan4802-7-4-73-1-76-1-0">🝽 Gonggong</tspan></text>
         <text
            xml:space="preserve"
            style="font-size:13.2292px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.248047"
@@ -16526,10 +16547,10 @@
            y="14119.402"
            id="text4722-6-1-37-4-68-2-8-3-2"><tspan
              sodipodi:role="line"
-             x="-12541.925"
+             x="-12540.163"
              y="14119.402"
              style="font-size:10.5833px;text-align:center;text-anchor:middle;fill:#ffffff;stroke-width:0.248047"
-             id="tspan5227-30-30-2-9">Namesake: Jerkwad serpent who knocked the world off-kilter.</tspan></text>
+             id="tspan5227-30-30-2-9">Namesake: Man-faced serpent who knocked the world off-kilter.  </tspan></text>
       </g>
     </g>
     <g
