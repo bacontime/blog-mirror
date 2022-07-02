@@ -438,7 +438,7 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 </tr>
 <tr>
 <td class="catsym">The Fifth Giant</td>
-<td>Computer simulations of the early somewhat suggest that the shape of the solar system is more easily explained if there used to be a third ice giant which has since been ejected from the system.</td>
+<td>Computer simulations of the early solar system somewhat suggest that the system's shape is more easily explained if there used to be a third ice giant which has since been ejected from the system.</td>
 <td>This hypothetical fifth giant is sometimes informally referred to as Hades, Liber (party wine god), or Mephitis (god of the noxious gasses that seep from the ground).</td>
 </tr>
 </table>
