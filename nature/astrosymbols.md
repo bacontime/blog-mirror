@@ -156,12 +156,12 @@ I have some links at the end. But the source for a lot of these snippets is "som
 <td>Ruler of the underworld. God of mineral wealth. Kidnapped Ceres' daughter, who must now stay in the underworld each winter because she ate an underworldly pomegranate.</td>
 </tr>
 <tr>
-<td class="catsym">Haumea<br><span class="catPUA"></span></td>
+<td class="catsym">Haumea<br>🝻</td>
 <td>Spins so fast it's egg-shaped. Tiny little rings. Both of these features are the result of the planet's history as the product of a violent collision between multiple objects.</td>
 <td>Fertility god who gave humans the ability to give birth.</td>
 </tr>
 <tr>
-<td class="catsym">Makemake<br><span class="catPUA"></span></td>
+<td class="catsym">Makemake<br>🝼</td>
 <td>It's kinda red, but not, like, super red. Red-tinged and covered in pellets of solid methane. Not as much nitrogen as Pluto or Triton.</td>
 <td>Lead god of the birdman cult. Associated with a proxy-war-like ritual involving a deadly race to collect the first tern egg of the season.</td>
 </tr>
@@ -183,24 +183,24 @@ And the following are a few of the objects most likely to be dwarf planets, whic
 </tr></thead>
 <tr>
 <td class="catsym">Orcus<br>
-<span class="moonsym">O</span></td>
+<span class="moonsym">O</span>🝿</td>
 <td>Called the "anti-Pluto" because it's orbit is similar to Pluto's, yet opposite from it.   They are both resonant with neptune and have the same orbital period. Both of them cross over Neptune's orbit. But Pluto is close to the sun when Orcus is far away and vice versa. Also, both have a relatively large tidally locked moon, named after psychopomps. </td>
-<td>Underworld god and punisher of broken oaths. Namesake of ogres, orcs, and orcas.It's moon, Vanth, is named after another psychopomp.</td>
+<td>Underworld god and punisher of broken oaths. Namesake of ogres, orcs, and orcas. Its moon, Vanth, is named after another psychopomp.</td>
 </tr>
 <tr>
-<td class="catsym">Quaoar<br></td>
+<td class="catsym">Quaoar<br>🝾</td>
 <td>Its icy shell was stripped away in a past collision.</td>
 <td>Sang and danced the cosmos into being. Wild animals enforce his will.<!--https://www.sacred-texts.com/nam/ca/bosc/bosc04.htm--></td>
 </tr>
 <tr>
-<td class="catsym">Gonggong<br>	共</td>
-<td>Just barely big enough to hold onto volatile compounds..</td>
-<td>Jerkwad serpent who knocked the earth off kilter. Also prone to causing floods, and his 9-headed sidekick had his teeth kicked in by Da Yu.</td>
+<td class="catsym">Gonggong<br>	🝽</td>
+<td>Just barely big enough to hold onto volatile compounds.</td>
+<td>共工<br>Man-faced serpent who knocked the earth off kilter. Also prone to causing floods, and his 9-headed sidekick had his teeth kicked in by Da Yu (of flood-conquering fame).</td>
 </tr>
 <tr>
 <td class="catsym">Sedna<br>⯲</td>
-<td>Almost as red as the planet Mars. Listen, they can't all be fascinating worlds with exciting geology and the potential for life. Sometimes it's a rock just really far away and all we know about it is a vague sense of its color.</td>
-<td>God of the sea and sea creatures. Maybe she married a dog. Maybe she married a bird in disguise. Maybe she refused to marry anyone. The story varies. One way  or another, she lost her fingers, which turned into sea mammals.</td>
+<td>Almost as red as the planet Mars. That's pretty much all we know about it. Hey, they can't all be fascinating worlds with exciting geology and the potential for life. Sometimes they're just oddly colored rocks, really far away.</td>
+<td>God of the sea and sea creatures. Maybe she married a dog. Maybe she married a bird in disguise. Maybe she refused to marry anyone. The story varies. One way or another, she lost her fingers, which turned into sea mammals.</td>
 </tr>
 </table>
 
@@ -796,12 +796,12 @@ Plus, as a bonus, this version of the Europa symbol looks vaguely like a bull's 
 
 
 Then just as PLuto's symbol is a combination of P and L, this symbol for 
-<span class="moonsym">O</span> Orcus is a combination of O and R, (arranged to look like a scary monster eyeball.)
+<span class="moonsym">O</span> ORcus is a combination of O and R, (arranged to look like a scary monster eyeball.)
 
 ![](astrosymbols/moonicon_fontglyph_planetorcus2.png)
 
 
-
+<p><i>Update 2022: Denis Moskowitz' design, 🝿, has been enshrined into the unicode standard. I'm still found of my design, though. And besides, Pluto has multiple symbols; Orcus, as the anti-Pluto, should have multiple symbols as well.</i></p>
 
 
 
