@@ -735,26 +735,26 @@ These aren't actually objects so much as they're regions of the sky.
 
 |Symbol|Name|Depicts|
 |:-:|:--|:--|
-| ♈︎ | aries | shep |
-| ♉︎ | taurus | coo |
-| ♊︎ | gemini | Castor and Pollux, sons of Leda, from the swan thing |
-| ♋︎ | cancer | crab |
-| ♌︎ | leo | big cat |
-| ♍︎ | virgo | A gal. Sometimes specifically Astraea, the namesake of asteroid 5. |
-| ♎︎ | libra | claws |
-| ♏︎ | scorpius | scary bug. Even Orion is scare |
-| ♐︎ | sagittarius | a centaur maybe? |
-| ♑︎ | capricorn | goatfish (it was a thing in Babylon don't worry about it) |
-| ♒︎ | aquarius | waterbottle |
-| ♓︎ | pisces | two fish... tied together with a rope |
-| ⛎︎ | Ophiuchus | wrasslin snek |
+| ♈︎ | aries | Sheep. |
+| ♉︎ | taurus | Cattle. |
+| ♊︎ | gemini | Castor and Pollux, sons of Leda, from the swan incident. |
+| ♋︎ | cancer | Crab. |
+| ♌︎ | leo | Big cat. |
+| ♍︎ | virgo | A maiden. Sometimes specifically Astraea, the namesake of asteroid 5. |
+| ♎︎ | libra | Either a weighing scale or Scorpio's claws. |
+| ♏︎ | scorpius | A scary bug chasing Orion. |
+| ♐︎ | sagittarius | An archer, possibly a centaur archer. |
+| ♑︎ | capricorn | Goatfish. (It was a cultural motif in Babylon) |
+| ♒︎ | aquarius | Water bottle. |
+| ♓︎ | pisces | Two fish... tied together with a rope? |
+| ⛎︎ | Ophiuchus | A man wrasslin' a snake. |
 
 
 
 ## Various Other Astro Symbols
 
 - Symbols for the relative positions of objects: <span class="catsym">☊☋☌☍⚹⚺⚻⚼⯳⯴⯵⯶⯷⯸<span class="catPUA"></span></span>
-- Some fortune-teller-types use "Lilith" and "Priapus" to refer to the Moon's perigee and apogee. (Nearest and farthest orbital points from the Earth.) <span class="catsym">⚸⯞<span class="catPUA"></span></span> Lilith is either a primordial demon or the first woman, sculpted from the same clay as Adam. Priapus is the god of beekeeping and jumbo schlongers. 
+- Some fortune-teller-types use "Lilith" and "Priapus" to refer to the Moon's perigee and apogee. (Nearest and farthest orbital points from the Earth.) <span class="catsym">⚸⯞<span class="catPUA"></span></span> Lilith is either a primordial demon or the first woman, sculpted from the same clay as Adam. Priapus is a minor fertility god, most notable for his large... endowment.
 - Then there's also "White Moon Selena" and "True Light Moon Arta" <span class="catsym">⯝⯟<span class="catPUA"></span></span>, astrological points which have *some* sort of connection to the moon's orbit. I tried following the citations from the unicode documents, but [the page I ended up at](https://astrologer.ru/book/light_moon/index.html.en) gave off powerful Time Cube energy.
 - Speculating about a major planet out past Pluto is a popular hobby, and astrologers haven't skipped out on the fun. 
     - <span class="catsym">⯗ Generic Transpluto Planet</span>: This character is listed in the unicode standard simply as "Transpluto". <!--Sometimes called Isis(TODO) or Bacchus (god of inebriation and madness).-->
@@ -762,7 +762,8 @@ These aren't actually objects so much as they're regions of the sky.
     - There's also  <span class="catsym">⯠ Cupido, ⯡ Hades, ⯢ Zeus, ⯣ Kronos, ⯤ Apollon, ⯥ Admetos, ⯦ Vulcanus, and ⯧ Poseidon </span>. 
         - Most of those are just alternate names for gods that already had a planet or asteroid named after them. I do have to admit, however, that the symbol for Vulcanus is super snazzy.
         - The odd one out here is Admetos. His story is that Apollo loved this guy a lot, and so when he learned that Admetus was soon fated to die, Apollo convinced the fates to let someone else die in his place. But oh no, his wife Alcestis is the one who volunteers to die! Ironic tragedy! It all works out in the end because Heracles stops by, wrassles Thanatos into submission, and brings Alcestis back to the world of the living.
-- Star and comet <span class="catsym">★☆☄</span>. Eclipse and crescent thing <span class="catsym"><span class="catPUA"></span></span>
+- Stars and comet: <span class="catsym">★☆☄</span>. 
+- An eclipse and a crescent: <span class="catsym"><span class="catPUA"></span></span>
 
 
 
@@ -806,6 +807,8 @@ Then just as PLuto's symbol is a combination of P and L, this symbol for
 
 
 ---
+
+## A Scale Model of the Solar System
 
 
 
