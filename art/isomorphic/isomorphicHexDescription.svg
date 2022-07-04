@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="110.3952mm"
+   height="62.059345mm"
+   viewBox="0 0 110.3952 62.059345"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   sodipodi:docname="isomorphicHexDescription.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="2.2601823"
+     inkscape:cx="203.96585"
+     inkscape:cy="149.32424"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2">
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1052" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-5"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1052-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="Arrow1Mend-5-4"
+       refX="0"
+       refY="0"
+       orient="auto"
+       inkscape:stockid="Arrow1Mend"
+       inkscape:isstock="true">
+      <path
+         transform="matrix(-0.4,0,0,-0.4,-4,0)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 0,0 5,-5 -12.5,0 5,5 Z"
+         id="path1052-5-0" />
+    </marker>
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-39.306969,-35.239804)">
+    <g
+       id="g15475">
+      <path
+         sodipodi:type="star"
+         style="fill:#cc00cc;stroke:#660066;stroke-width:2.83465;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
+         id="path846"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="356.65341"
+         sodipodi:cy="247.78026"
+         sodipodi:r1="88.87693"
+         sodipodi:r2="44.438465"
+         sodipodi:arg1="0.52359878"
+         sodipodi:arg2="1.0471976"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.26458333,0,0,0.26458333,0.14002295,0)"
+         inkscape:transform-center-x="1.1888447e-06"
+         inkscape:transform-center-y="-5.8788396"
+         d="m 433.62309,292.21872 -76.96968,44.43847 -76.96968,-44.43847 0,-88.87693 76.96968,-44.43846 76.96968,44.43846 z" />
+      <path
+         style="fill:#cc00cc;stroke:#660066;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1Mend);paint-order:markers fill stroke"
+         d="m 106.12119,84.474136 3.87884,6.718357"
+         id="path961" />
+      <path
+         style="fill:#cc00cc;stroke:#660066;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1Mend-5);paint-order:markers fill stroke"
+         d="m 105.71007,46.524051 3.87884,-6.718357"
+         id="path961-1" />
+      <path
+         style="fill:#cc00cc;stroke:#660066;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1Mend-5-4);paint-order:markers fill stroke"
+         d="m 117.07055,65.958265 7.75769,-4e-6"
+         id="path961-1-0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="112.07859"
+       y="40.891304"
+       id="text4223"><tspan
+         sodipodi:role="line"
+         id="tspan4221"
+         style="font-size:12.7px;stroke-width:0.264583"
+         x="112.07859"
+         y="40.891304">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="113.56857"
+       y="94.695648"
+       id="text5855"><tspan
+         sodipodi:role="line"
+         id="tspan5853"
+         style="font-size:12.7px;stroke-width:0.264583"
+         x="113.56857"
+         y="94.695648">y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="126.71516"
+       y="68.669777"
+       id="text6995"><tspan
+         sodipodi:role="line"
+         id="tspan6993"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';stroke-width:0.264583"
+         x="126.71516"
+         y="68.669777">x+y</tspan></text>
+    <g
+       id="g15485"
+       transform="matrix(-1,0,0,1,189.00914,1.7928036e-7)">
+      <path
+         style="fill:#cc00cc;stroke:#660066;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1Mend);paint-order:markers fill stroke"
+         d="m 106.12119,84.474136 3.87884,6.718357"
+         id="path15479" />
+      <path
+         style="fill:#cc00cc;stroke:#660066;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1Mend-5);paint-order:markers fill stroke"
+         d="m 105.71007,46.524051 3.87884,-6.718357"
+         id="path15481" />
+      <path
+         style="fill:#cc00cc;stroke:#660066;stroke-width:0.75;stroke-linecap:round;stroke-linejoin:round;marker-end:url(#Arrow1Mend-5-4);paint-order:markers fill stroke"
+         d="m 117.07055,65.958265 7.75769,-4e-6"
+         id="path15483" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="66.578224"
+       y="40.891304"
+       id="text15616"><tspan
+         sodipodi:role="line"
+         id="tspan15614"
+         style="font-size:12.7px;stroke-width:0.264583"
+         x="66.578224"
+         y="40.891304">-x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="68.068207"
+       y="94.695648"
+       id="text15620"><tspan
+         sodipodi:role="line"
+         id="tspan15618"
+         style="font-size:12.7px;stroke-width:0.264583"
+         x="68.068207"
+         y="94.695648">-y</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:12.7px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';letter-spacing:0px;word-spacing:0px;stroke-width:0.264583"
+       x="41.660419"
+       y="68.136375"
+       id="text6995-6"><tspan
+         sodipodi:role="line"
+         id="tspan6993-0"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:12.7px;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';stroke-width:0.264583"
+         x="41.660419"
+         y="68.136375">-x-y</tspan></text>
+  </g>
+</svg>
