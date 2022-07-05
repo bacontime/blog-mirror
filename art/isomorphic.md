@@ -77,11 +77,32 @@ but with multiple copies of the keyboard stacked above one another.
 Because of its mechanical similarity to a standard piano,
 there are several firms which have manufactured instruments with this layout.
 [Here's a video of a player demonstrating such a piano](https://www.youtube.com/watch?v=cK4REjqGc9w&t=248s).
-[And here's another](https://www.youtube.com/watch?v=FkN9-r7q7gg).
+[And here's another](https://www.youtube.com/watch?v=FkN9-r7q7gg). [One more](https://www.youtube.com/watch?v=oT2zkss77Fo).
 There are also [3d-printed overlays](https://www.youtube.com/watch?v=9tMtKyYEbaM) 
 that can be dropped on top of a standard piano keyboard to convert it to a janky Janko layout.
 
 <!--Another 3d printed version https://hackaday.com/2019/07/13/isomorphic-keyboards-with-cv-out/-->
+
+
+### (1,2) Chromatic Button Accordion 
+
+There are two types of key layout called type B and type C, but they are mirror images of each other.
+
+
+
+### (1,3) and (1,4) Qwerty Chromatic
+
+I don't know if there are any actual instruments with this layout,
+but [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (1,3), labelled "Isomorphic - Chromatic".
+
+On a Qwerty keyboard, there are 4 rows, 
+and so (if rotated properly) these layouts allow an octave to be covered by three consecutive columns.
+<!--(The (1,4) layout would need to be rotated so that the 4-semitone shift happens horizontally.)-->
+
+
+### (2,5) Wicki-Hayden
+
+Used on some accordion-type instruments. <!--Proper term is squeezeboxes-->
 
 
 ### (3,4) Euler's Tonnetz
@@ -100,7 +121,23 @@ and the [AXiS 49 MIDI keyboard](https://www.youtube.com/watch?v=C9-OSCl7kOc).
 <!--Also this Opal keyboard maybe?-->
 
 [Here's a web app where you can play around with the Tonnetz](https://cifkao.github.io/tonnetz-viz/).
-And [my toy QWERTY piano web app](https://www.rmwinslow.com/tones/) also has a Tonnetz layout, labelled "Isomorphic - Euler".
+And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a Tonnetz layout, labelled "Isomorphic - Euler".
+
+
+
+
+
+
+---
+
+### Other Possibilities not described above.
+
+(0,1) would simply be multiple 1-dimensional keyboards stacked atop each each. Moving rows would shift the pitch by an octave.
+
+(0,5) would be pretty bizarre. adjacent keys would making playing major fourths and minor fifths easy, 
+but everything else would be significantly more difficult.
+
+(2,3) is called the "Park" layout by Brett Park. <!--http://www.altkeyboards.com/instruments/isomorphic-keyboards-->
 
 
 
@@ -115,6 +152,8 @@ And [my toy QWERTY piano web app](https://www.rmwinslow.com/tones/) also has a T
 Rectangular isomorphic keyboards can be mapped 1-1 to hexagonal isomorphic keyboards.
 There are also 28 distinct rectangular isomorphic keyboards, 15 of which cover all 12 notes.
 <!--The rectangular layouts can also be described with a pair (x,y) where-->
+
+I won't list all the possibilities here.
 
 
 ###  The Harpeji <!--(1,2)-->
@@ -149,6 +188,7 @@ https://isomorphickeyboardoverlay.weebly.com/
 http://www.dysartp.com/
 http://musicnotation.org/wiki/instruments/janko-keyboard/
 http://musicnotation.org/wiki/instruments/6-6-colored-traditional-7-5-keyboard/
+https://en.xen.wiki/w/Microtonal_keyboards
 
 trichromatic vibraphone:
 https://www.youtube.com/watch?v=sGXmPzspJWI
@@ -163,6 +203,7 @@ https://www.youtube.com/watch?v=2kxLhwZb7P8
 
 Terpstra Keyboard Concept
 https://www.youtube.com/watch?v=Nb_TQpwam54
+Later rebranded as lumatone, I think.
 
 Russian guy playing on qwerty janko
 https://www.youtube.com/watch?v=myF39OL3rYA
