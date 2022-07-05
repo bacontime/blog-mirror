@@ -52,7 +52,7 @@ One commenter describes its sound as perfect for a "klingon opera".
 
 There are a number of ways (28 to be exact) to arrange notes on a hexagonal grid in an isomorphic way.
 
-Each possible isomorphic layout can be specified by a pair (x,y)
+Each possible isomorphic layout can be specified by a pair (α,β)
 which describes the shift in semitones when moving in each direction.
 
 ![](isomorphic/isomorphicHexDescription.svg)
@@ -60,7 +60,7 @@ which describes the shift in semitones when moving in each direction.
 
 Ignoring rotations, reflections, and translations, and treating a shift in octave as the 'same note',
 we only need to consider the 28 cases where 
-y is between 0 and 6 inclusive, and x is between 0 and y inclusive.
+α is between 0 and 6 inclusive, and β is between 0 and α inclusive.
 
 Of these 28 possibilities, only 15 cover all 12 notes.
 The other 13 possibilities are missing at least half of the notes.
@@ -84,13 +84,13 @@ that can be dropped on top of a standard piano keyboard to convert it to a janky
 <!--Another 3d printed version https://hackaday.com/2019/07/13/isomorphic-keyboards-with-cv-out/-->
 
 
-### (1,2) Chromatic Button Accordion 
+### (2,1) Chromatic Button Accordion 
 
 There are two types of key layout called type B and type C, but they are mirror images of each other.
 
 
 
-### (1,3) and (1,4) Qwerty Chromatic
+### (3,1) and (4,1) Qwerty Chromatic
 
 I don't know if there are any actual instruments with this layout,
 but [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (1,3), labelled "Isomorphic - Chromatic".
@@ -100,12 +100,12 @@ and so (if rotated properly) these layouts allow an octave to be covered by thre
 <!--(The (1,4) layout would need to be rotated so that the 4-semitone shift happens horizontally.)-->
 
 
-### (2,5) Wicki-Hayden
+### (5,2) Wicki-Hayden
 
 Used on some accordion-type instruments. <!--Proper term is squeezeboxes-->
 
 
-### (3,4) Euler's Tonnetz
+### (4,3) Euler's Tonnetz
 
 The Tonnetz, or Tone Network is a hexagonal grid of notes 
 where 
