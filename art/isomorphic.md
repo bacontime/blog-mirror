@@ -1,8 +1,14 @@
 ---
 title: Isomorphic Keyboards
-parent: Art and Culture
+parent: Hidden
 has_children: false
 ---
+
+Art and Culture
+
+I am confused about the permutations of the hex layout actually.
+
+
 
 # Isomorphic Musical Keyboards
 
@@ -189,6 +195,7 @@ http://www.dysartp.com/
 http://musicnotation.org/wiki/instruments/janko-keyboard/
 http://musicnotation.org/wiki/instruments/6-6-colored-traditional-7-5-keyboard/
 https://en.xen.wiki/w/Microtonal_keyboards
+https://bikexprt.com/music/bosanqet.htm
 
 trichromatic vibraphone:
 https://www.youtube.com/watch?v=sGXmPzspJWI
