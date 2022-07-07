@@ -4,10 +4,6 @@ parent: Art and Culture
 has_children: false
 ---
 
-Art and Culture
-
-I am confused about the permutations of the hex layout actually.
-
 
 
 # Isomorphic Musical Keyboards
