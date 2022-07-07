@@ -21,7 +21,7 @@ values = list(range(0,13))
 validPairs = set()
 for a in values:
     for b in values:
-        if b>=a and (b+a)<=12:
+        if b>=a:
             validPairs.add((a,b))
 
 
@@ -53,20 +53,23 @@ print(len(validPairs)-len(incompletePairs), "distinct pairs that DO cover all 12
 #50 distinct pairs that DO cover all 12 notes
 
 # If we restrict all 6 shifts to no more than an octave. IE range(13) = {0...12}
-# 21 distinct pairs that don't cover all 12 notes
-# 28 distinct pairs that DO cover all 12 notes
+# ~~21~~ 25 distinct pairs that don't cover all 12 notes
+# ~~28~~ 24 distinct pairs that DO cover all 12 notes
+# See below. This is the most meaningful count I think.
 
 # If further restrict to avoid cases where adjacent hex is identical, range(1,13)={1...12}
 # 12 distinct pairs that don't cover all 12 notes
 # 24 distinct pairs that DO cover all 12 notes
 
 validOctaveRangePairs = {
-    (0, 1), (0, 5), (0, 7), (0, 11), 
+    (0, 1), 
+    #(0, 5), (0, 7), (0, 11), 
     (1, 1), (1, 2), (1, 3), (1, 4), (1, 5), (1, 6), (1, 7), (1, 8), (1, 9), (1, 10), (1, 11), 
     (2, 3), (2, 5), (2, 7), (2, 9), 
     (3, 4), (3, 5), (3, 7), (3, 8), 
     (4, 5), (4, 7), 
-    (5, 5), (5, 6), (5, 7)
+    #(5, 5), 
+    (5, 6), (5, 7)
 }
 
 
@@ -148,6 +151,16 @@ for a,b in distinctPairs:
 print(len(incompletePairs), "distinct pairs that don't cover all 12 notes")
 print(len(distinctPairs)-len(incompletePairs), "distinct pairs that DO cover all 12 notes")
 
+# 9 distinct pairs that don't cover all 12 notes
+# 10 distinct pairs that DO cover all 12 notes
 # {(1, 0), (1, 1), (2, 1), (3, 1), (3, 2), (4, 1), (4, 3), (5, 0), (5, 1), (5, 2)}
+
+validModuloPairs = {
+    (1, 0), (1, 1), 
+    (2, 1), 
+    (3, 1), (3, 2), 
+    (4, 1), (4, 3), 
+    (5, 0), (5, 1), (5, 2)
+}
 
 # %%

@@ -1,6 +1,6 @@
 ---
 title: Isomorphic Keyboards
-parent: Hidden
+parent: Art and Culture
 has_children: false
 ---
 
@@ -56,7 +56,7 @@ One commenter describes its sound as perfect for a "klingon opera".
 
 ## Hexagonal Isomorphic Keyboards.
 
-There are a number of ways (28 to be exact) to arrange notes on a hexagonal grid in an isomorphic way.
+There are a number of ways to arrange notes on a hexagonal grid in an isomorphic way.
 
 Each possible isomorphic layout can be specified by a pair (α,β)
 which describes the shift in semitones when moving in each direction.
@@ -64,14 +64,53 @@ which describes the shift in semitones when moving in each direction.
 ![](isomorphic/isomorphicHexDescription.svg)
 
 
-Ignoring rotations, reflections, and translations, and treating a shift in octave as the 'same note',
-we only need to consider the 28 cases where 
-α is between 0 and 6 inclusive, and β is between 0 and α inclusive.
+Ignoring rotations, reflections, and translations, 
+and limiting the shift between adjacent notes to no more than an octave,
+we only need to consider the 49 cases where 
+α is between 0 and 12 inclusive, β is between 0 and α inclusive,
+and α+β is no more than 12.
 
-Of these 28 possibilities, only 15 cover all 12 notes.
-The other 13 possibilities are missing at least half of the notes.
+Of these 49 possibilities, only 24 cover all 12 notes.
+The other 25 possibilities are missing notes.
 For example, you could make a keyboard with (0,0) semitone shifts,
 but thats only useful if you [only want to play E](https://www.youtube.com/watch?v=BFetTcrVWII).
+
+
+<!--
+validOctaveRangePairs = {
+ (1, 0), (1, 1), 
+ (2, 1), 
+ (3, 1), (3, 2),
+ (4, 1),
+ (4, 3),
+ (5, 1), (5, 2), (5, 3), (5, 4),
+ (6, 1), (6, 5),
+ (7, 1), (7, 2), (7, 3),
+ (7, 4), (7, 5),
+ (8, 1), (8, 3), 
+ (9, 1), (9, 2),
+ (10, 1),
+ (11, 1)}
+
+
+ (1, 0), trivial
+ (1, 1), Janko
+ (2, 1), Chromatic Button Accordian
+ (3, 1), (3, 2),
+ (4, 1),
+ (4, 3),
+ (5, 1), (5, 2), (5, 3), (5, 4),
+ (6, 1), (6, 5),
+ (7, 1), (7, 2), (7, 3),
+ (7, 4), (7, 5),
+ (8, 1), (8, 3), 
+ (9, 1), (9, 2),
+ (10, 1),
+ (11, 1)}
+
+-->
+
+
 
 
 ### (1,1) The Janko Keyboard
@@ -134,14 +173,24 @@ And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a T
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
 ---
 
 ### Other Possibilities not described above.
 
-(0,1) would simply be multiple 1-dimensional keyboards stacked atop each each. Moving rows would shift the pitch by an octave.
+(0,1) would simply be multiple 1-dimensional keyboards stacked atop each each. 
 
-(0,5) would be pretty bizarre. adjacent keys would making playing major fourths and minor fifths easy, 
-but everything else would be significantly more difficult.
 
 (2,3) is called the "Park" layout by Brett Park. <!--http://www.altkeyboards.com/instruments/isomorphic-keyboards-->
 
@@ -174,6 +223,15 @@ Here are a few examples of people playing the harpeji:
 [2](https://www.youtube.com/watch?v=NWUYXQMwIk4),
 [3](https://www.youtube.com/watch?v=DAvAC1EZUYQ),
 [4](https://www.youtube.com/watch?v=eJ3H0Njb1As)
+
+### String instruments in general
+
+The harpeji is designed to be played in a 'keyboard' style,
+but many other string instruments also have equal intervals between each string and between each fret.
+So they have similar properties to an isomorphic keyboard.
+
+Not guitars though. For some reason, guitars have intervals of 5 semitones between strings,
+except for one pair of strings, where the interval is only 4 semitones.
 
 <!--
  (4:5:6 frequency ratio)
