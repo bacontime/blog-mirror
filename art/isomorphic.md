@@ -64,7 +64,10 @@ Ignoring rotations, reflections, and translations,
 and limiting the shift between adjacent notes to no more than an octave,
 we only need to consider the 49 cases where 
 α is between 0 and 12 inclusive, β is between 0 and α inclusive,
-and α+β is no more than 12.
+and α+β is no more than 12.[^detailsaboutmorerestrictiveset]
+
+[^detailsaboutmorerestrictiveset]: If a further restriction is imposed to treat layouts as equivalent if individual notes are shifted by an octave - treating the space of notes as the integers modulo 12 - then there are 19 distinct layouts, 10 of which cover all 12 notes. However, this set would treat sets like {(4,3), (5,4), (4,3)} as equivalent note layouts, which feels silly to me.
+
 
 Of these 49 possibilities, only 24 cover all 12 notes.
 The other 25 possibilities are missing notes.
@@ -89,21 +92,6 @@ validOctaveRangePairs = {
  (11, 1)}
 
 
- (1, 0), trivial
- (1, 1), Janko
- (2, 1), Chromatic Button Accordian
- (3, 1), (3, 2),
- (4, 1),
- (4, 3),
- (5, 1), (5, 2), (5, 3), (5, 4),
- (6, 1), (6, 5),
- (7, 1), (7, 2), (7, 3),
- (7, 4), (7, 5),
- (8, 1), (8, 3), 
- (9, 1), (9, 2),
- (10, 1),
- (11, 1)}
-
 -->
 
 
@@ -127,23 +115,67 @@ that can be dropped on top of a standard piano keyboard to convert it to a janky
 
 ### (2,1) Chromatic Button Accordion 
 
-There are two types of key layout called type B and type C, but they are mirror images of each other.
+Many accordions have a piano-style keyboard for playing melodies.
+But another common layout for accordions is a hexagonal grid of keys in this layout.
+These are called chromatic button accordions, 
+and there are two variants called called type B and type C, which are mirror images of each other.
+The bass-side of such accordions may or may not
+have  a similarly isomorphic key layout.
+<!--but sometimes it has a more complicated layout called the Stradella system.-->
+
+Examples of people playing such accordions:
+[1](https://www.youtube.com/watch?v=u6Bu3qOURQ8),
+[2](https://www.youtube.com/watch?v=WLIxmdOEd0c),
+[3](https://www.youtube.com/watch?v=SzA8O-aTOTQ),
+[4](https://www.youtube.com/watch?v=9XiilKWrWGQ),
+[5](https://www.youtube.com/watch?v=ZUGKB2RdzjU),
+
+<!--
+Stradella on other side is some complicated system where most of the notes are chords.
+Free-bass system looks like an isomorphic layout.
+
+https://www.youtube.com/watch?v=6MwrKj2oftM
+
+Electronic keyboard with this layout:
+https://www.youtube.com/watch?v=5O1ei95NhYs
+https://www.youtube.com/watch?v=2UJ-0nkIYMg
+https://www.youtube.com/watch?v=BBn8hxDnHAc
+Explanation Video:
+https://www.youtube.com/watch?v=krtviJeloFs
+-->
+
+
+### (3,1) and (4,1) Qwerty Chromatic Columns
 
 
 
-### (3,1) and (4,1) Qwerty Chromatic
-
-I don't know if there are any actual instruments with this layout,
-but [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (1,3), labelled "Isomorphic - Chromatic".
+I don't know if there are any actual instruments with these layouts,
+but [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (3,1), labelled "Isomorphic - Columns".
 
 On a Qwerty keyboard, there are 4 rows, 
 and so (if rotated properly) these layouts allow an octave to be covered by three consecutive columns.
 <!--(The (1,4) layout would need to be rotated so that the 4-semitone shift happens horizontally.)-->
+<!---
+Looks like this app has a (3,1) layout
+https://www.youtube.com/watch?v=2mmzoWftiLM
+And there's a crackpot in the comment section complaining about his patents.
+It looks like these are it here:
+https://patents.google.com/patent/US5741990A/
+"Method of and means for producing musical note relationships"
+No idea how the patent office approved such a stupendously vague and conceptually basic patent. 
+-->
+
+*Edit: Brett Park, in his "Musix" app calls the (3,1) note layout the "Gerhard" layout, and [demonstrates it here](https://shiverware.com/musixpro/gerhard/chords.html).*
 
 
-### (5,2) Wicki-Hayden
+### (3,2) 
 
-Used on some accordion-type instruments. <!--Proper term is squeezeboxes-->
+(3,2) is called the "Park" layout by Brett Park. 
+<!--
+http://www.altkeyboards.com/instruments/isomorphic-keyboards
+https://www.youtube.com/watch?v=3ZDyIkeIgU0
+-->
+
 
 
 ### (4,3) Euler's Tonnetz
@@ -157,9 +189,11 @@ The modernized version with 12-tone equal temperament is also sometimes called a
 
 There have been several instruments built using this keyboard layout,
 including the [Harmonetta, which is like a big harmonica with a keyboard attached](https://www.youtube.com/watch?v=UyZ1beUJ4zw),
-and the [AXiS 49 MIDI keyboard](https://www.youtube.com/watch?v=C9-OSCl7kOc).
+and [various](https://www.youtube.com/watch?v=yK88yT7U39U) [electronic](https://www.youtube.com/watch?v=C9-OSCl7kOc) [keyboard](https://steve-boyer-design.com/trichord-2001/) [projects](https://www.youtube.com/watch?v=AklKy2NDpqs&t=15s).
 
-<!--Also this Opal keyboard maybe?-->
+
+<!--
+http://www.skyboy.com/trichord.html-->
 
 [Here's a web app where you can play around with the Tonnetz](https://cifkao.github.io/tonnetz-viz/).
 And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a Tonnetz layout, labelled "Isomorphic - Euler".
@@ -169,6 +203,42 @@ And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a T
 
 
 
+### (5,2) Wicki-Hayden
+
+It seems that accordion makers love to experiment with alternate layouts.
+
+In addition to the (2,1) Chromatic Button Accordion layout, 
+(and many different non-isomorphic key layouts) <!--Including some where the note depends on which direction the bellows is moving.-->
+some accordion-type instruments use what's called the Wicki-Hayden layout,
+which is so-named because it was independently invented by Kaspar Wicki and Brian Hayden.
+
+<!--
+https://www.concertina.net/forums/index.php?/topic/24168-jeffries-layout-call-me-confused/
+https://www.concertina.net/forums/index.php?/topic/21248-help-with-a-video-game-song-arrangement/#comment-197305
+-->
+
+
+<!--Both people invented it for use in accordion-type instruments -
+Wicki for the bandoneon and Hayden for the concertina -->
+<!--- 
+so it seems that accordion players are very mathematically-minded folk.-->
+<!--Proper term is squeezeboxes?-->
+
+<!--As far as I can tell, however, most bandoneons and concertinas don't use this layout.
+Modern "duet concertinas" are the instruments most likely to have this layout.-->
+
+As far as I can tell, the instruments with this layout are most commonly called "Hayden duet concertinas".
+
+Examples of play: 
+[1](https://www.youtube.com/watch?v=P-GBN56YJV4),
+[2](https://www.youtube.com/watch?v=vUbIYM0RNiw),
+[3](https://www.youtube.com/watch?v=pDaYYWl-gus),
+[4](https://www.youtube.com/watch?v=8z_a-1HreuY),
+[5](https://www.youtube.com/watch?v=A0YKZsue4Zo)
+[6](https://www.youtube.com/watch?v=RDVrHqQkMC0).
+
+
+[My toy qwerty piano web app](https://www.rmwinslow.com/tones/) has a (5,2) layout, labelled "Isomorphic - Wicki".
 
 
 
@@ -179,16 +249,72 @@ And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a T
 
 
 
-
+<!--
+ (1, 0), trivial
+ (1, 1), Janko
+ (2, 1), Chromatic Button Accordian
+ (3, 1), Qwerty columns
+ (3, 2),
+ (4, 1), Qwerty columns
+ (4, 3), Tonnetz
+ (5, 1), meh
+ (5, 2), Wicki Hayden
+ (5, 3), 
+ (5, 4),
+ (6, 1), meh
+ (6, 5),
+ (7, 1), meh
+ (7, 2), 
+ (7, 3),
+ (7, 4), 
+ (7, 5),
+ (8, 1), meh
+ (8, 3), 
+ (9, 1), meh
+ (9, 2),
+ (10, 1),
+ (11, 1) octave offset
+ }
+-->
 
 ---
 
 ### Other Possibilities not described above.
 
-(0,1) would simply be multiple 1-dimensional keyboards stacked atop each each. 
+(0,1) would be completely equivalent to a 1-d keyboard. 
+
+(11, 1) would be like a stack of 1-d keyboards where each row is one octave apart.
+(5,1), (6,1), (7,1), (8,1), (9,1), and (10,1) are similarly stacked pianos. 
+I haven't played around with them, but they might have nice properties.
+
+Here's the full set of pairs which give distinct layouts:
+
+<!--
+```
+(1, 0), (1, 1), 
+(2, 1), 
+(3, 1), (3, 2),
+(4, 1), (4, 3), 
+(5, 1), (5, 2), (5, 3), (5, 4),
+(6, 1), (6, 5),
+(7, 1), (7, 2), (7, 3), (7, 4), (7, 5),
+(8, 1), (8, 3), 
+(9, 1), (9, 2),
+(10, 1),
+(11, 1) 
+```
+-->
+```
+(1, 0), 
+(1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1), (11, 1) 
+(3, 2), (5, 2), (7, 2), (9, 2),
+(4, 3), (5, 3), (7, 3), (8, 3),
+(5, 4), (7, 4),
+(6, 5), (7, 5),
+```
 
 
-(2,3) is called the "Park" layout by Brett Park. <!--http://www.altkeyboards.com/instruments/isomorphic-keyboards-->
+<!--EFG = 457 are nice adjacent intervals. also eflat=3-->
 
 
 
