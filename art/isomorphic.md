@@ -102,6 +102,8 @@ validOctaveRangePairs = {
 
 ### (1,1) The Janko Keyboard
 
+![](isomorphic/h/isomorphic11.png)
+
 [Invented in 1882 by Paul von Jankó](http://improvise.free.fr/janko.htm), 
 this keyboard layout is similar to a 1-dimensional isomorphic keyboard,
 but with multiple copies of the keyboard stacked above one another.
@@ -238,6 +240,9 @@ Examples of play:
 
 ### (4,3) Euler's Tonnetz
 
+<aside markdown='block'>
+![](isomorphic/h/isomorphic43.png)
+</aside>
 
 
 The Tonnetz, or Tone Network is a hexagonal grid of notes 
