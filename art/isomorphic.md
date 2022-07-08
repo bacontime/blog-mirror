@@ -36,7 +36,7 @@ you need to change the pattern that your fingers move in as well.
 An *isomorphic* keyboard is one that doesn't have this particular problem.
 Songs, chords, and intervals have the same shape, even when the key is changed.
 
-
+---
 
 
 ## Linear Isomorphic Keyboard
@@ -49,6 +49,9 @@ At least one firm has tried to manufacture [a keyboard in this style](https://ww
 I've also found [this video of a **Ten**-tone equal temperament isomorphic keyboard](https://www.youtube.com/watch?v=LxeGZLd49Vs).
 One commenter describes its sound as perfect for a "klingon opera".
 
+
+
+---
 
 ## Hexagonal Isomorphic Keyboards.
 
@@ -110,6 +113,9 @@ there are several firms which have manufactured instruments with this layout.
 There are also [3d-printed overlays](https://www.youtube.com/watch?v=9tMtKyYEbaM) 
 that can be dropped on top of a standard piano keyboard to convert it to a janky Janko layout.
 
+[Here's another demonstration of the Janko layout on a programmable midi keyboard](https://www.youtube.com/watch?v=mVSG2KPOuME). 
+This video calls the layout the "Bosanquet-Wilson Layout", though it has the same relationship between keys as a Janko layout.
+
 <!--Another 3d printed version https://hackaday.com/2019/07/13/isomorphic-keyboards-with-cv-out/-->
 
 
@@ -145,7 +151,7 @@ https://www.youtube.com/watch?v=krtviJeloFs
 -->
 
 
-### (3,1) and (4,1) Qwerty Chromatic Columns
+### (3,1) Qwerty Chromatic Columns
 
 
 
@@ -165,42 +171,29 @@ https://patents.google.com/patent/US5741990A/
 No idea how the patent office approved such a stupendously vague and conceptually basic patent. 
 -->
 
-*Edit: Brett Park, in his "Musix" app calls the (3,1) note layout the "Gerhard" layout, and [demonstrates it here](https://shiverware.com/musixpro/gerhard/chords.html).*
+*Edit: Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).*
+
+
+#### Other (n,1) layouts.
+
+The (4,1) layout can similarly be used to fit an octave into three columns and four rows.
+
+(11, 1) would be like a stack of 1-d keyboards where each row is one octave apart.
+
+(5,1), (6,1), (7,1), (8,1), (9,1), and (10,1) are similarly stacked keyboards, though ones of more dubious usefulness.
+The (5,1) and (6,1) layout might be handy if one wanted to cram an octave into a 2 row by 6 column space.
+I haven't played around with them, but they might have nice properties.
+
 
 
 ### (3,2) 
 
-(3,2) is called the "Park" layout by Brett Park. 
+(3,2) is called the "Park" layout by Brett Park in his Musix app. 
+[Here is a video of a song being played using this layout](https://www.youtube.com/watch?v=3ZDyIkeIgU0).
 <!--
 http://www.altkeyboards.com/instruments/isomorphic-keyboards
-https://www.youtube.com/watch?v=3ZDyIkeIgU0
+
 -->
-
-
-
-### (4,3) Euler's Tonnetz
-
-The Tonnetz, or Tone Network is a hexagonal grid of notes 
-where 
-each triplet of three adjacent notes forms a musically-significant chord.
-
-The tonnetz was first described by Leonard Euler in 1739.
-The modernized version with 12-tone equal temperament is also sometimes called a "Harmonic Table" layout.
-
-There have been several instruments built using this keyboard layout,
-including the [Harmonetta, which is like a big harmonica with a keyboard attached](https://www.youtube.com/watch?v=UyZ1beUJ4zw),
-and [various](https://www.youtube.com/watch?v=yK88yT7U39U) [electronic](https://www.youtube.com/watch?v=C9-OSCl7kOc) [keyboard](https://steve-boyer-design.com/trichord-2001/) [projects](https://www.youtube.com/watch?v=AklKy2NDpqs&t=15s).
-
-
-<!--
-http://www.skyboy.com/trichord.html-->
-
-[Here's a web app where you can play around with the Tonnetz](https://cifkao.github.io/tonnetz-viz/).
-And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a Tonnetz layout, labelled "Isomorphic - Euler".
-
-
-
-
 
 
 ### (5,2) Wicki-Hayden
@@ -243,6 +236,35 @@ Examples of play:
 
 
 
+### (4,3) Euler's Tonnetz
+
+
+
+The Tonnetz, or Tone Network is a hexagonal grid of notes 
+where 
+each triplet of three adjacent notes forms a musically-significant chord.
+
+The tonnetz was first described by Leonard Euler in 1739.
+The modernized version with 12-tone equal temperament is also sometimes called a "Harmonic Table" layout.
+
+There have been several instruments built using this keyboard layout,
+including the [Harmonetta, which is like a big harmonica with a keyboard attached](https://www.youtube.com/watch?v=UyZ1beUJ4zw),
+and [various](https://www.youtube.com/watch?v=yK88yT7U39U) [electronic](https://www.youtube.com/watch?v=C9-OSCl7kOc) [keyboard](https://steve-boyer-design.com/trichord-2001/) [projects](https://www.youtube.com/watch?v=AklKy2NDpqs&t=15s).
+
+
+<!--
+http://www.skyboy.com/trichord.html-->
+
+[Here's a web app where you can play around with the Tonnetz](https://cifkao.github.io/tonnetz-viz/).
+And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a Tonnetz layout, labelled "Isomorphic - Euler".
+
+
+
+
+
+
+
+
 
 
 
@@ -254,7 +276,7 @@ Examples of play:
  (1, 1), Janko
  (2, 1), Chromatic Button Accordian
  (3, 1), Qwerty columns
- (3, 2),
+ (3, 2), Park
  (4, 1), Qwerty columns
  (4, 3), Tonnetz
  (5, 1), meh
@@ -283,9 +305,6 @@ Examples of play:
 
 (0,1) would be completely equivalent to a 1-d keyboard. 
 
-(11, 1) would be like a stack of 1-d keyboards where each row is one octave apart.
-(5,1), (6,1), (7,1), (8,1), (9,1), and (10,1) are similarly stacked pianos. 
-I haven't played around with them, but they might have nice properties.
 
 Here's the full set of pairs which give distinct layouts:
 
@@ -398,3 +417,6 @@ https://www.youtube.com/watch?v=t-TBD2vhSd4
 https://novayashkola.org/janko/keys.htm?
 https://github.com/wcgbg/terpstrakeyboard/
 -->
+
+
+---
