@@ -311,7 +311,7 @@ And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a T
 
 ### Other Possibilities not described above.
 
-(0,1) would be completely equivalent to a 1-d keyboard. 
+(1,0) would be completely equivalent to a 1-d keyboard. 
 
 
 Here's the full set of pairs which give distinct layouts:
