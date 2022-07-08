@@ -192,9 +192,10 @@ I haven't played around with them, but they might have nice properties.
 
 (3,2) is called the "Park" layout by Brett Park in his Musix app. 
 [Here is a video of a song being played using this layout](https://www.youtube.com/watch?v=3ZDyIkeIgU0).
+
+
 <!--
 http://www.altkeyboards.com/instruments/isomorphic-keyboards
-
 -->
 
 
@@ -240,8 +241,8 @@ Examples of play:
 
 ### (4,3) Euler's Tonnetz
 
-<aside markdown='block'>
-![](isomorphic/h/isomorphic43.png)
+<aside>
+<img src='isomorphic/h/isomorphic43.png' >
 </aside>
 
 
@@ -258,7 +259,9 @@ and [various](https://www.youtube.com/watch?v=yK88yT7U39U) [electronic](https://
 
 
 <!--
-http://www.skyboy.com/trichord.html-->
+http://www.skyboy.com/trichord.html
+http://shapeofmusic.com/note-pattern.php
+-->
 
 [Here's a web app where you can play around with the Tonnetz](https://cifkao.github.io/tonnetz-viz/).
 And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a Tonnetz layout, labelled "Isomorphic - Euler".
