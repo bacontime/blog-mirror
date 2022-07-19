@@ -3,7 +3,13 @@ title: Isomorphic Keyboards
 parent: Art and Culture
 has_children: false
 ---
+\
+<!--
+https://www.youtube.com/watch?v=VswBvmpnS1c
+https://www.youtube.com/watch?v=khlHjHiBRp8
+https://www.youtube.com/watch?v=ZMRUm_CoW-I&list=PLJ0GZCv6QiN53IwxrazwKhF2Fk8Ve85uz
 
+-->
 
 
 # Isomorphic Musical Keyboards
@@ -221,7 +227,10 @@ so it seems that accordion players are very mathematically-minded folk.-->
 <!--Proper term is squeezeboxes?-->
 
 <!--As far as I can tell, however, most bandoneons and concertinas don't use this layout.
-Modern "duet concertinas" are the instruments most likely to have this layout.-->
+Modern "duet concertinas" are the instruments most likely to have this layout.
+
+https://www.youtube.com/watch?v=djQCJqOSA-U
+-->
 
 As far as I can tell, the instruments with this layout are most commonly called "Hayden duet concertinas".
 
@@ -424,6 +433,15 @@ https://www.youtube.com/watch?v=myF39OL3rYA
 https://www.youtube.com/watch?v=t-TBD2vhSd4
 https://novayashkola.org/janko/keys.htm?
 https://github.com/wcgbg/terpstrakeyboard/
+
+https://www.midiphy.com/en/matrix
+https://www.youtube.com/watch?v=O_HkbxPqdEU
+
+https://web.archive.org/web/20070928092954/http://66.98.148.43/~xenharmo/bosanquet.html
+https://www.midiphy.com/en/matrix
+https://www.youtube.com/watch?v=O_HkbxPqdEU
+
+http://musicnotation.org/wiki/instruments/isomorphic-instruments/
 -->
 
 
