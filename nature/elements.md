@@ -25,6 +25,8 @@ Might it still be around? Forgotten, but far from gone?
 What terrible ferro-goblins might still sleep secretly deep within the earth?
 
 
+---
+
 ### Planetary Elements
 
 There are 8 elements named after celestial objects.  
@@ -50,6 +52,19 @@ Between these two factors, there is at least one element associated with each of
 
 Though this still leaves many former planets and dwarf planets without an element of their own.
 
+
+---
+
+### "Cooler" Alternate Element Names
+
+Many elements have alternate names,
+and there are good reasons for standardizing the names we have.
+But some alternate names are fairly interesting.
+
+Tungsten
+: Wolfram, from *wolf's froth*, in reference to the difficulties of mining wolframite.
+Plutonium
+: Extremium, Ultimium, from the false belief that this was the final element.
 
 
 
