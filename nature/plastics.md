@@ -2,6 +2,7 @@
 title: Notes on Plastics
 nav_exclude: false
 parent: Science and Nature
+last_modified_date: 2022-07-20
 ---
 
 The following is by no means a comprehensive guide to industrial chemistry. This is just an amateur exploration, driven by curiosity about which modern plastics could be produced without fossil fuels[^repostnote] (Nearly all of them, it turns out!)
