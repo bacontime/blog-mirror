@@ -23,9 +23,9 @@ Polymers
 Monomers
 : The name means "one part". These are the pieces that link together to make a polymer. Simple sugar is one of the most common monomers.
 
-
 1. TOC
 {:toc}
+
 
 ## Naturally occuring polymers
 
