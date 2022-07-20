@@ -5,7 +5,7 @@ search_enabled: true
 
 
 gh_edit_link: false  # show or hide edit this page link
-
+last_edit_timestamp: true
 
 compress_html:
   ignore:
