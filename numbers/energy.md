@@ -1,6 +1,7 @@
 ---
 title: Human Energy Units
 parent: Science and Nature
+date: "Draft"
 ---
 
 # Human Energy Units
@@ -40,10 +41,24 @@ equal to 4,184,000,000 joules. This means that a "gram of TNT" is equal to 4184 
 - There are 86400 seconds in a day.
 
 Combine these conversions to find that 2000 Cal per day is about the same as 97 watts. 
+I'll round that up to 100 watts, and call it 1 "Manpower".[^horsepowercomparison]
+
+[^horsepowercomparison]: It's the amount of power needed to fuel a man. Contrast with "Horsepower", which is the power that a horse can apply while tugging on a rope to lift things. Note also: [this webpage](https://www.pedalpc.com/blog/how-much-electricity-can-human-generate/) claims that a typical untrained person can exert around 100 watts of power via pedalling. So the idea of calling 100 watts "1 ManPower" works on multiple levels.
 
 We can conceptualize the power use of appliances in terms of person-equivalents.
 
+<!--
+https://en.wikipedia.org/wiki/Human_power
+https://hypertextbook.com/facts/2003/WeiLiangMok.shtml
+-->
 
+| Appliance | ManPower |
+| Microwave Oven | 6-13 |
+| Electric Kettle (US) | 15 | 
+
+
+Note that these are comparisons of the rate of power usage. Not comparisons of the daily energy usage.
+Most people don't leave their tea kettles running 24 hours a day.
 
 
 
