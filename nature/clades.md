@@ -1,12 +1,14 @@
 ---
 title: Common-Name Cladistics
+description: 
 nav_exclude: false
 parent: Science and Nature
 ---
 
-
-# Common-Name Cladistics 
-## (or Calling a Whale a Fish)
+<hgroup>
+<h1>Common-Name Cladistics</h1>
+<p>(or Calling a Whale a Fish)</p>
+</hgroup>
 
 - An uneducated person might think that whales are fish.  
 - An educated person knows that whales aren't fish; they're mammals.  
@@ -34,6 +36,11 @@ And it was only in the last century that people realized that mushrooms aren't p
 
 So let's run with the fish example. The following is a cladistic tree of life using common names instead of latin names.
 When a common-name describes a non-clade group, I'll play a bit fast and loose with that common name to turn it into a clade.
+
+<nav markdown="block">
+- TOC
+{:toc}
+</nav>
 
 
 <!--Insert graphics here. Aside with Lupo's comment about how none of the groupings are wrong per se just useless.-->
