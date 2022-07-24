@@ -134,14 +134,6 @@ layout: table_wrappers
               {% endif %}
               <li class="breadcrumb-nav-list-item"><span>{{ page.title }}</span></li>
             </ol>
-            {% if page.date %}
-            <span class="date-header">
-              {{page.date}}
-              {% if page.last_modified_date %}
-                - {{page.last_modified_date}}
-              {% endif %}
-            </span>
-            {% endif %}
           </nav>
         {% endif %}
       {% endunless %}
@@ -156,6 +148,14 @@ layout: table_wrappers
       
       
       <main id="main-content" class="main-content" role="main">
+        {% if page.date %}
+          <div class="date-header">
+            {{page.date}}
+            {% if page.last_modified_date %}
+            - {{page.last_modified_date}}
+            {% endif %}
+          </div>
+        {% endif %}
         {% if site.heading_anchors != false %}
           {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<span aria-hidden=\"true\">🔗</span>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
         {% else %}
