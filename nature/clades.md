@@ -1,5 +1,6 @@
 ---
 title: Common-Name Cladistics
+subtitle: (or Calling a Whale a Fish)
 description: "An exploration of taxonomy via only mostly-nonsensical use of terminology."
 nav_exclude: false
 parent: Science and Nature
@@ -7,10 +8,7 @@ date: 2022-04-28
 last_modified_date: 2022-07-23
 ---
 
-<hgroup>
-<h1>Common-Name Cladistics</h1>
-<p>(or Calling a Whale a Fish)</p>
-</hgroup>
+
 
 - An uneducated person might think that whales are fish.  
 - An educated person knows that whales aren't fish; they're mammals.  
