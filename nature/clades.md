@@ -3,7 +3,6 @@ title: Common-Name Cladistics
 description: "An exploration of taxonomy via only mostly-nonsensical use of terminology."
 nav_exclude: false
 parent: Science and Nature
-permalink: clades
 date: 2022-04-28
 last_modified_date: 2022-07-23
 ---
