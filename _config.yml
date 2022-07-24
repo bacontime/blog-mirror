@@ -1,6 +1,7 @@
 title: "Posts"
 remote_theme: RMWinslow/just-the-docs-tweaked
 search_enabled: true
+page_excerpts: true
 
 author: "Robert Winslow"
 
