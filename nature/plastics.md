@@ -4,7 +4,7 @@ nav_exclude: false
 parent: Science and Nature
 last_modified_date: 2022-07-23
 date: 2021-06-06
-rss: true
+description: A description of common plastic polymers and how they are made.
 ---
 
 <hgroup>
