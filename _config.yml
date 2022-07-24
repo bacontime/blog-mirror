@@ -18,3 +18,8 @@ plugins:
   - jekyll-seo-tag
 
 
+feed:
+  collections:
+    - examples
+  categories:
+    - rss
