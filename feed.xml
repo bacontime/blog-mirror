@@ -12,9 +12,8 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {%- assign dated_pages = site.pages   |   where_exp:"item", "item.date != nil" -%}
-    {%- assign sorted_pages = dated_pages | sort: "date" -%}
-    {% for post in sorted_pages limit:1000 %}
-      {% if post.date != nil %} 
+    {%- assign sorted_dated_pages = dated_pages | sort: "date" -%}
+    {% for post in dated_pages limit:1000 %}
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{post.excerpt}}</description>
@@ -28,7 +27,6 @@ layout: null
         <category>{{ cat | xml_escape }}</category>
         {% endfor %}
       </item>
-      {% endif %}
     {% endfor %}
   </channel>
 </rss>
