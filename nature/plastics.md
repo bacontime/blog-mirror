@@ -7,22 +7,22 @@ date: 2021-06-06
 description: A description of common plastic polymers and how they are made.
 ---
 
-<hgroup>
+<!--<hgroup>
 <h1>Notes on Plastics</h1>
  
-</hgroup> 
+</hgroup>-->
 
 The following is by no means a comprehensive guide to industrial chemistry. This is just an amateur exploration, driven by curiosity about which modern plastics could be produced without fossil fuels[^repostnote] (Nearly all of them, it turns out!)
 
 [^repostnote]: I have previously posted a version of this article elsewhere on the internet.  That version had a more whimsical tone, and the framing device was whether alchemists in a psuedo-medieval fantasy setting would be able to produce plastics.
 
-
+<!--
 <details markdown="block" open>
 <summary>Table of Contents</summary>
 - TOC
 {:toc}
  </details>
- 
+ -->
  
 
 ## What is plastic?
