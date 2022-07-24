@@ -25,19 +25,27 @@ Fish, in other words, aren't a true *clade*.
 
 <!--TODO: Insert comment about form taxa or folk taxonomy.-->
 
+<!--
 <aside>
  A <b>clade</b> is any group of organisms which share a common ancestor, such that all of the descendants of that common ancestor are included in the group.
 </aside>
+-->
 
-These kinds of discussions can be somewhat silly, but thinking about the tree of life in terms of 
-[clades](https://en.wikipedia.org/wiki/Clade) can be a fun and enlightening exercise.
+
 <!--
+thinking about the tree of life in terms of 
+[clades](https://en.wikipedia.org/wiki/Clade) can be a fun and enlightening exercise.
+
 After all, we used to think of reptiles and amphibians as the same kind of thing. 
 And it was only in the last century that people realized that mushrooms aren't plants.
 -->
 
-So let's run with the fish example. The following is a cladistic tree of life using common names instead of latin names.
+These kinds of discussions can be somewhat silly, but 
+let's run with the fish example, and look for other similary silly animal classifications.
+
+The following is a cladistic tree of life using common names instead of latin names.
 When a common-name describes a non-clade group, I'll play a bit fast and loose with that common name to turn it into a clade.
+Explanations are down below.
 
 
 <details markdown="block">
@@ -149,10 +157,11 @@ Worms
 
 <details markdown="block">
 <summary>Notes about this tree. (click to expand)</summary>
-- emojis in parentheses are not in the unicode standard, and are specific to OprnMoji
 - Many clades are excluded.
 - Todo: link to version with scientific names. 
 </details>
+
+<!--- emojis in parentheses are not in the unicode standard, and are specific to OpenMoji-->
 
 
 ## Explanations for Clade Names
@@ -160,12 +169,27 @@ Worms
 
 ### Dinosaurs (Dinosauria)
 
+
 Dinosaurs, as the category exists in the imagination of children and film-makers, are not a clade. 
 
 It's only once birds are included that the category of *dinosauria* becomes cladistic.
 Hence why dinos, of the pop-culture terrible lizardy beast variety, are called *non-avian dinosaurs* by science educators.
 
-The term "dinosaur" was coined back when only a few of the beasties were known. 
+The term "dinosaur" was coined back when only a few of the beasties were known (namely Megalosaurus, Iguanodon, and Hylaeosaurus).
+Further study revealed that any clade containing these three creatures must also contain birds,
+and thus the term "dinosaur" was expanded to include chickens, doves, kiwis, etc.
+This was a perfectly reasonable choice, as the term "dinosaur" was invented for the sake of scientific classification,
+and only later spread into pop-culture as a term for big scary lizardy beasts.
+<!--https://www.sciencefriday.com/articles/the-origin-of-the-word-dinosaur/-->
+
+<!--
+But I imagine that if dinosaurs were known before the modern efforts of biologists to systematize life began.
+But the category of 
+Hence why dinos, of the pop-culture terrible lizardy beast variety, are called *non-avian dinosaurs* by science educators.
+But 
+Once this realization was made, scientists could have 
+-->
+
 
 <!--For "dinosaur", the cladistic definition came before the common-name category, so this is the one time in this exercise where biologists can't object.-->
 
