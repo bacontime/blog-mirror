@@ -3,6 +3,7 @@ title: Common-Name Cladistics
 description: 
 nav_exclude: false
 parent: Science and Nature
+permalink: clades
 ---
 
 <hgroup>
@@ -37,10 +38,12 @@ And it was only in the last century that people realized that mushrooms aren't p
 So let's run with the fish example. The following is a cladistic tree of life using common names instead of latin names.
 When a common-name describes a non-clade group, I'll play a bit fast and loose with that common name to turn it into a clade.
 
-<nav markdown="block">
+
+<details markdown="block">
+<summary>Table of Contents</summary>
 - TOC
 {:toc}
-</nav>
+</details>
 
 
 <!--Insert graphics here. Aside with Lupo's comment about how none of the groupings are wrong per se just useless.-->
