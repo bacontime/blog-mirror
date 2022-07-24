@@ -3,6 +3,7 @@ remote_theme: RMWinslow/just-the-docs-tweaked
 search_enabled: true
 
 author: "Robert Winslow"
+permalink: /:year/:month/:day/:title:output_ext
 
 gh_edit_link: false  # show or hide edit this page link
 last_edit_timestamp: true
