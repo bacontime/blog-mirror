@@ -4,14 +4,28 @@ nav_exclude: false
 parent: Science and Nature
 last_modified_date: 2022-07-23
 date: 2021-06-06
+categories: rss
 ---
+
+<hgroup>
+<h1>Notes on Plastics</h1>
+ 
+</hgroup> 
 
 The following is by no means a comprehensive guide to industrial chemistry. This is just an amateur exploration, driven by curiosity about which modern plastics could be produced without fossil fuels[^repostnote] (Nearly all of them, it turns out!)
 
 [^repostnote]: I have previously posted a version of this article elsewhere on the internet.  That version had a more whimsical tone, and the framing device was whether alchemists in a psuedo-medieval fantasy setting would be able to produce plastics.
 
 
-# What is plastic?
+<details markdown="block" open>
+<summary>Table of Contents</summary>
+- TOC
+{:toc}
+ </details>
+ 
+ 
+
+## What is plastic?
 
 *Plastic* is a word which simply means that something is easy to shape.
 When we use the word as a noun, we're usually talking about a specific group of plastic materials made of _man-made polymers_.
@@ -23,11 +37,7 @@ Polymers
 Monomers
 : The name means "one part". These are the pieces that link together to make a polymer. Simple sugar is one of the most common monomers.
 
-<details markdown="block" open>
-<summary>Table of Contents</summary>
-- TOC
-{:toc}
- </details>
+
 
 
 ## Naturally occuring polymers
