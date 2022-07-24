@@ -11,9 +11,9 @@ layout: null
     <pubDate>{{ site.time | date_to_rfc822 }}</pubDate>
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
-    {%- assign dated_pages = site.pages
-    |   where_exp:"item", "item.date != nil" -%}
-    {% for post in dated_pages limit:1000 %}
+    {%- assign dated_pages = site.pages   |   where_exp:"item", "item.date != nil" -%}
+    {% assign sorted_pages = dated_pages | sort: "date" %}
+    {% for post in sorted_pages limit:1000 %}
       {% if post.date != nil %} 
       <item>
         <title>{{ post.title | xml_escape }}</title>
