@@ -1,6 +1,7 @@
 ---
 layout: null
 ---
+{%- assign titled_pages = include.pages | where:"rss","true" }}
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
@@ -12,7 +13,7 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {% for post in site.pages limit:1000 %}
-      {% if post.sitemap != false %} 
+      {% if post.category == rss %} 
       <item>
         <title>{{ post.title | xml_escape }}</title>
         <description>{{ post.content | xml_escape }}</description>
