@@ -14,7 +14,7 @@ Capital and per-capita
 
 
 Alphabet
-: It means 'barn', in a roundabout way. "Alphabet" comes from "alpha beta" (AB), the first two letters of the Greek alphabet, which in turn comes from "aleph beth" (𐤁𐤀), the first two letters of the Phoenician alphabet. "Aleph" also meant "cattle", and "beth" also meant "house". It is thought that the the forms of the letters are simplified representations of Egyptian heiroglyphics for the same (𓃾 𓉐).
+: It means 'barn', in a roundabout way. "Alphabet" comes from "alpha beta" (AB), the first two letters of the Greek alphabet, which in turn comes from "aleph beth" (𐤁𐤀), the first two letters of the Phoenician alphabet. "Aleph" also meant "cattle", and "beth" also meant "house". It is thought that the the forms of the letters are simplified representations of Egyptian hieroglyphs for the same (𓃾 𓉐). So "alphabet" descends from "cattle house", a *barn*.
 
 Tycoon
 : From the Japanese 大君 (taikun), a title used for the shogun which literally translates to "big boss". After Commodore Perry made contact with the US, the word was [used as a nickname for Abraham Lincoln](https://www.npr.org/sections/codeswitch/2013/10/14/232119964/the-history-of-how-a-shoguns-boast-made-lincoln-a-tycoon).
