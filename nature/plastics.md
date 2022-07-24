@@ -2,8 +2,8 @@
 title: Notes on Plastics
 nav_exclude: false
 parent: Science and Nature
-last_modified_date: 2022-07-20
-date: "2022-07-20"
+last_modified_date: 2022-07-23
+date: 2021-06-06
 ---
 
 The following is by no means a comprehensive guide to industrial chemistry. This is just an amateur exploration, driven by curiosity about which modern plastics could be produced without fossil fuels[^repostnote] (Nearly all of them, it turns out!)
@@ -23,8 +23,11 @@ Polymers
 Monomers
 : The name means "one part". These are the pieces that link together to make a polymer. Simple sugar is one of the most common monomers.
 
-1. TOC
+<details markdown="block" open>
+<summary>Table of Contents</summary>
+- TOC
 {:toc}
+ </details>
 
 
 ## Naturally occuring polymers
