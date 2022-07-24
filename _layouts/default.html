@@ -49,7 +49,6 @@ layout: table_wrappers
     </div>
     <nav role="navigation" aria-label="Main" id="site-nav" class="site-nav">
 
-      {% include toc.html html=content %}
 
       {% if site.just_the_docs.collections %}
         {% assign collections_size = site.just_the_docs.collections | size %}
@@ -148,7 +147,10 @@ layout: table_wrappers
       
       <main id="main-content" class="main-content" role="main">
         {% if page.title %}
+          <hgroup>
           <h1>{{page.title}}</h1>
+            {% if page.subtitle %}<p>{{page.subtitle}}</p>{% endif %}
+          </hgroup>
         {% endif %}
         {% if page.date %}
           <div class="date-header">
@@ -158,6 +160,8 @@ layout: table_wrappers
             {% endif %}
           </div>
         {% endif %}
+        
+      {% include toc.html html=content %}
         
         {% if site.heading_anchors != false %}
           {% include vendor/anchor_headings.html html=content beforeHeading="true" anchorBody="<span aria-hidden=\"true\">🔗</span>" anchorClass="anchor-heading" anchorAttrs="aria-labelledby=\"%html_id%\"" %}
