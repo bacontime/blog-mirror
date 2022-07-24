@@ -12,7 +12,7 @@ layout: null
     <lastBuildDate>{{ site.time | date_to_rfc822 }}</lastBuildDate>
     <generator>Jekyll v{{ jekyll.version }}</generator>
     {%- assign dated_pages = site.pages   |   where_exp:"item", "item.date != nil" -%}
-    {% assign sorted_pages = dated_pages | sort: "date" %}
+    {%- assign sorted_pages = dated_pages | sort: "date" -%}
     {% for post in sorted_pages limit:1000 %}
       {% if post.date != nil %} 
       <item>
