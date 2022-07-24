@@ -1,5 +1,6 @@
 ---
 title: Test Post
+layout: post
 description: This is a test of the rss functionality of jekyll feed. Please Ignore.
 date: 2022-07-23
 ---
