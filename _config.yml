@@ -2,8 +2,7 @@ title: "Posts"
 remote_theme: RMWinslow/just-the-docs-tweaked
 search_enabled: true
 
-permalink: :title
-
+author: "Robert Winslow"
 
 gh_edit_link: false  # show or hide edit this page link
 last_edit_timestamp: true
