@@ -1,7 +1,7 @@
 ---
 title: Human Energy Units
 parent: Science and Nature
-date: "2022-July"
+date: 2022-07-05
 ---
 
 # Human Energy Units
