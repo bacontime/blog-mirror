@@ -161,7 +161,7 @@ layout: table_wrappers
           </div>
         {% endif %}
         
-        {% if page.toc != false %}
+        {% if page.toc and page.toc != false %}
         <nav class="aside-like" id="sidebar-TOC"><details open>
           <summary>Table of Contents</summary>
           {% include toc.html html=content %}
