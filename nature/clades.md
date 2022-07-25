@@ -2,7 +2,7 @@
 title: Common-Name Cladistics
 subtitle: (or Calling a Whale a Fish)
 description: "An exploration of taxonomy via only mostly-nonsensical use of terminology."
-nav_exclude: false
+layout: post
 toc: true
 parent: Science and Nature
 date: 2022-04-28
