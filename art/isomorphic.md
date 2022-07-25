@@ -5,12 +5,13 @@ parent: Art and Culture
 has_children: false
 permalink: isomorphic
 ---
-\
+
+
+
 <!--
 https://www.youtube.com/watch?v=VswBvmpnS1c
 https://www.youtube.com/watch?v=khlHjHiBRp8
 https://www.youtube.com/watch?v=ZMRUm_CoW-I&list=PLJ0GZCv6QiN53IwxrazwKhF2Fk8Ve85uz
-
 -->
 
 If the ratio of frequencies between two notes is a power of two, then the notes sound very similar, 
