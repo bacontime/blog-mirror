@@ -1,10 +1,10 @@
 ---
 title: Notes on Plastics
-nav_exclude: false
 parent: Science and Nature
+description: A description of common plastic polymers and how they are made.
+layout: post
 last_modified_date: 2022-07-23
 date: 2021-06-06
-description: A description of common plastic polymers and how they are made.
 ---
 
 
