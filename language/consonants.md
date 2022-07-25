@@ -2,9 +2,9 @@
 title: Patterns in Consonants
 parent: Language
 has_children: false
+layout: post
+date: 2022-04-07
 ---
-
-# Some Patterns in Consonants Sounds 
 
 This is a simplification of [some stuff](https://en.wikipedia.org/wiki/International_Phonetic_Alphabet_chart) I've been reading about linguistics.
 
