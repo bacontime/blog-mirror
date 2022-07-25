@@ -1,7 +1,7 @@
 ---
 title: Patterns in Consonants
+description: A subset of consonant sounds which adheres to an interesting pattern.
 parent: Language
-has_children: false
 layout: post
 date: 2022-04-07
 ---
