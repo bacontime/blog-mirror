@@ -1,6 +1,9 @@
 ---
 title: Interesting Etymologies
 parent: Language
+layout: post
+date: 2021-10-15
+last_modified_date: 2022-07-23
 ---
 
 
@@ -40,37 +43,4 @@ Salad
 
 
 
-----
-
-
-<!--
-Problem is that the height isn't being calculated correctly on mobile. 
-According to the [iframeresizer documentation](http://davidjbradshaw.github.io/iframe-resizer/), this is because "resizeFrom" is set to 'child'.
-The solution might be found in changing the "heightCalculationMethod".
-Ah, nevermind, I can't easily self-host giscus or even the style sheet, so how on earth can I possibly edit a parameter in the script.
-I'll need to see if iframeresizer has a way of using javascript to modify a parameter.
-
-
-
-
-<script src="https://giscus.app/client.js"
-        data-repo="RMWinslow/posts"
-        data-repo-id="MDEwOlJlcG9zaXRvcnkzMzQ3MjkyMjA="
-        data-category="Comments"
-        data-category-id="DIC_kwDOE_OQBM4B-zgA"
-        data-mapping="pathname"
-        data-reactions-enabled="0"
-        data-emit-metadata="1"
-        data-theme="dark_dimmed"
-        crossorigin="anonymous"
-        async>
-</script>
-
-
-<script>
-        var element = document.getElementById("iFrameResizer0"); 
-        element.setAttribute("scrolling", "yes"); 
-</script>
-
--->
 
