@@ -3,12 +3,12 @@ title: Isomorphic Keyboards
 subtitle: Musical note layouts where relative physical position matches relative pitch.
 parent: Art and Culture
 has_children: false
-permalink: isomorphic
 ---
 
 
 
 <!--
+permalink: isomorphic
 https://www.youtube.com/watch?v=VswBvmpnS1c
 https://www.youtube.com/watch?v=khlHjHiBRp8
 https://www.youtube.com/watch?v=ZMRUm_CoW-I&list=PLJ0GZCv6QiN53IwxrazwKhF2Fk8Ve85uz
