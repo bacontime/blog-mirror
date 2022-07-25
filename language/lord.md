@@ -1,11 +1,11 @@
 ---
 title: Doctors and Lords
+subtitle: A Bugfix for the English Language
 parent: Language
-has_children: false
+layout: post
+date: 2022-05-05
 ---
 
-# Doctors And Lords
-## A Bugfix for the English Language
 
 Hey, everyone. I’m here with another bugfix for the English language.
 
