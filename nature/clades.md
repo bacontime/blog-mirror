@@ -3,6 +3,7 @@ title: Common-Name Cladistics
 subtitle: (or Calling a Whale a Fish)
 description: "An exploration of taxonomy via only mostly-nonsensical use of terminology."
 nav_exclude: false
+toc: true
 parent: Science and Nature
 date: 2022-04-28
 last_modified_date: 2022-07-23
@@ -46,11 +47,6 @@ When a common-name describes a non-clade group, I'll play a bit fast and loose w
 Explanations are down below.
 
 
-<details markdown="block">
-<summary>Table of Contents</summary>
-- TOC
-{:toc}
-</details>
 
 
 <!--Insert graphics here. Aside with Lupo's comment about how none of the groupings are wrong per se just useless.-->
