@@ -94,7 +94,7 @@ Worms
 ┣╸Mollusks: 🐙🦑🐚🐌🦪
 ┣╸Ringed Worms: 🪱
 ┗╸Fishes
-  ┣╸Cartilaginous Fish: 🦈
+  ┣╸Sharks: 🦈
   ┣╸Ray-finned Fish: 🐟🐠🐡
   ┗╸Lobe-finned Fish
     ┣╸Mammals
@@ -419,6 +419,16 @@ Possums aren't the same thing as **o**possums (american marsupials famous for pl
 But opossums are often called "'possums", and possums were named for their similarity to opossums.
 So for this exercise, I've lumped them together.
 The smallest clade that includes all the (o)possums is the clade which includes every marsupial.
+
+
+### Sharks (Chondrichthyes)
+
+Sharks and rays are in the clade *Chondrichthyes*, which means *Cartilaginous Fish*, and that's what this group is usually called.
+Unlike other fish, which have hard bony skeletons, sharks and their relatives have skeletons mostly made of flexible cartilage. 
+In addition to actual sharks, this group includes  rays (one family of which are called *carpenter sharks*) and chimaeras (some species of which are called *ghost sharks*).
+
+
+<!--Oily liver instead of lungs swim bladder.-->
 
 
 ---
