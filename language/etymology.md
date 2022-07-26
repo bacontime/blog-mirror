@@ -23,7 +23,7 @@ Tycoon
 : From the Japanese 大君 (taikun), a title used for the shogun which literally translates to "big boss". After Commodore Perry made contact with the US, the word was [used as a nickname for Abraham Lincoln](https://www.npr.org/sections/codeswitch/2013/10/14/232119964/the-history-of-how-a-shoguns-boast-made-lincoln-a-tycoon).
 
 Doctor
-: [From a Latin word meaning 'teacher'](https://www.merriam-webster.com/words-at-play/the-history-of-doctor). IE, a Doctorate is a certificate saying you know enough about a field to teach it. Nowadays, the word is most commonly used as short for "medical doctor", which [can lead to confusion].
+: [From a Latin word meaning 'teacher'](https://www.merriam-webster.com/words-at-play/the-history-of-doctor). IE, a Doctorate is a certificate saying you know enough about a field to teach it. Nowadays, the word is most commonly used as short for "medical doctor", which [can lead to confusion]({{ "/language/lord.html" | relative_url }}).
 
 Lord
 : "Lord" means "bread guardian". It's a contraction of "loaf ward", or rather the Old English *hlafweard*.
