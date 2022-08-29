@@ -20,22 +20,22 @@ As it turns out, mostly a load of toxic stinking gasses.
 
 ### Set 1: Hydrogen Chalcogenides
 
-HOH - dihydrogen monoxide
+HOH - Dihydrogen monoxide
 : Oxidane, Water
 
-HSH - dihydrogen monosulfide
+HSH - Dihydrogen monosulfide
 : Stinkdamp, sewer gas, nasty stuff. Smells like rotting eggs
 
-HSeH - Hydrogen selenide
+HSeH - Dihydrogen selenide
 : Extremely toxic gas. Smells like rotting horseradish.
 
-HTeH - dihydrogen telluride
+HTeH - Dihydrogen telluride
 : Smells like rotting garlic.
 
-HPoH - dihydrogen polonide
+HPoH - Dihydrogen polonide
 : Unstable and radioactive. Extremely difficult to work with.
 
-HLvH - dihydrogen livermoride
+HLvH - Dihydrogen livermoride
 : Haha. No.
 
 
@@ -79,11 +79,11 @@ OSO - Sulfur Dioxide
 OSeO - Selenium dioxide
 : Smells like horseradish, used as a glass colorant.
 
-SSS - Trisulfur
+SSS - [Trisulfur](https://pubchem.ncbi.nlm.nih.gov/compound/Trisulfur)
 : Converts to S8 in Earth conditions, but observed on Io and Venus.
 
-SSeS - Selenium disulfide
-: An antifungal agent [used to treat dandruff](https://medlineplus.gov/druginfo/meds/a682258.html). On the WHO list of essential medicines. Brand names include Selseb, Selsun, and Exsel.
+SSeS - [Selenium disulfide](https://pubchem.ncbi.nlm.nih.gov/compound/24087)
+: An antifungal agent [used to treat dandruff](https://medlineplus.gov/druginfo/meds/a682258.html). On the WHO list of essential medicines. Brand names include Versel, Selsun, and Exsel.
 
 I can't find any interesting info on Triselenide, etc.
 
@@ -93,3 +93,12 @@ Water, CO2, and silica neatly correspond to the classical elements of Water, Air
 </aside>
 
 
+<!--
+https://en.wikipedia.org/wiki/Category:Dichalcogenides
+https://en.wikipedia.org/wiki/Chemical_symbol
+https://archive.org/details/newsystemofchemi01daltuoft/page/n237/mode/2up
+https://en.wikipedia.org/wiki/Binary_compounds_of_hydrogen#The_periodic_table_of_the_stable_binary_hydrides
+https://en.wikipedia.org/wiki/Polonium_hydride
+https://en.wikipedia.org/wiki/Diversity_of_fish
+https://archive.org/details/shorthistoryofsc0000henr/mode/2up
+-->
