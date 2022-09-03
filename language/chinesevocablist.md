@@ -32,8 +32,8 @@ The examples of basic translation they give are rather awkward and stilted. But 
 The author's of Minimal English provided [a translation list of these terms into Chinese](https://intranet.secure.griffith.edu.au/__data/assets/word_doc/0032/345992/Chinese_Table_Primes_Final_YE_07_11_2016.docx), and the list below is based on the linked list, but with some slight differences, edits, and additional clarifications.
  
  
- English | Chinese | Notes |
-| ---|---|---|
+| English | Chinese | Notes |
+|---|---|---|
 | I | 我 (wŏ) |  |
 | you | 你 (nĭ) | Or 您 (nín) if you want to be extra formal. |
 | someone | 某人mŏurén or 有人yŏurén or 人rén | 有些人 (yǒuxiērén) means 'some people' |
