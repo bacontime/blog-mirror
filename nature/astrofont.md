@@ -8,7 +8,7 @@ grand_parent: Science and Nature
 <style>
     @font-face {
         font-family: Astromoony;
-        src: url("Astromoony Sans.ttf");
+        src: url("../../webfonts/astro/AstromoonySans.ttf");
     }
     .AstroFontTable td:nth-child(1) {
         font-family: Astromoony;
