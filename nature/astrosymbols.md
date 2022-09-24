@@ -1,6 +1,7 @@
 ---
 title: Astro Symbols
 parent: Science and Nature
+has_children: true
 ---
 
 <style>
