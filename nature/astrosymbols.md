@@ -548,7 +548,7 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <tr><td class="catsym">101955 Bennu</td><td> Named for a mythological bird associated with the creation of the world. <br> An Apollo-class object with an unstable orbit. It has a low chance of crashing into the Earth next century, but is more likely to spiral into the sun or crash into Venus. As of May 2021, a spacecraft has collected a sample and is bringing it back to Earth.</td></tr>
 </table><tr><td class="catsym">307261 The Nameless Planet</td><td>It might be a dwarf planet, but its discoverers forgot to name it. So the official designation is still "307261 2002 MS4". There are plenty of unanmed objects in the solar system, but this is easily the largest.</td></tr>
 </table>
-</table><tr><td class="catsym">486958 Arrokoth</td><td>Peanut shaped object out past Pluto. It's the most distant object yet to have been visited by a spacecraft.</td></tr>
+</table><tr><td class="catsym">486958 Arrokoth</td><td>Peanut shaped object out past Pluto. It's the most distant object yet to have been visited by a spacecraft. The name means "cloud".</td></tr>
 </table>
 
 
