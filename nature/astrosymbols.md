@@ -398,6 +398,13 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 <td>Giant son of Gaia. Divine punching bag.</td>
 </tr>
 <tr>
+<td class="catsym">Hyperion<br>
+<span class="moonsym">♄VII</span>
+<br><small>(♄-VII)</small></td>
+<td>Looks like a potato. First non-round moon to be discovered.</td>
+<td>Titan of Light and Watchfulness, father of the Sun</td>
+</tr>
+<tr>
 <td class="catsym">Miranda<br>
 <span class="moonsym">n</span>
 <br><small>(♅-I)</small></td>
@@ -530,14 +537,19 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <tr><td class="catsym">5145 Pholus<br>⯛</td><td>Another very smart centaur. Friend of Heracles.<br>The object was the second astronomical centaur to be discovered.</td></tr>
 <tr><td class="catsym">7066 Nessus<br>⯜</td><td>A centaur. Unlike the previous two, this centaur was a total creep. He tried to rape Heracles' wife, so Heracles killed him with some turbo poison. Years later, Heracles put on a shirt that was stained with the turbo-poisoned centaur blood, and Heracles himself was killed.<br>The object was the third astronomical centaur to be discovered.</td></tr>
 <tr><td class="catsym">10199 Chariklo</td><td> A nymph, wife to the centaur Chiron. <br> This object is the largest (yet found as of 2019) of the astronomical centaurs, and the smallest object known to have rings.</td></tr>
+<tr><td class="catsym">15760 Albion</td><td>A name for mythical Britain, and one of the gods from William Blake's mythology. <br> The first object to be discovered beyond Pluto.</td></tr>
+<tr><td class="catsym">20000 Varuna</td><td>Just a bit too small to be a dwarf planet. Named for a god of sky and justice.</td></tr>
 <tr><td class="catsym">25143 Itokawa</td><td> Named for the father of Japanese rocketry. <br> Rubble pile shaped like a lumpy sea otter. This was the first asteroid from which a sample was collected and brought back to Earth. It's  also the smallest asteroid ever visited.</td></tr>
 <tr><td class="catsym">28978 Ixion<br><span class="catPUA"></span></td><td>The first man to kill his kin. Jupiter showed him mercy, but then he violated hospitality by making love to a cloud shaped like Juno. (The cloud got pregnant. This is where centaurs come from.) As punishment for his crimes, the gods chained him to a wheel, lit him on fire and hucked him like a frisbee across the sky.<br>The object Ixion is a plutino and maaaaaybe a dwarf planet.</td></tr>
 <tr><td class="catsym">42355 Typhon<br><span class="catPUA"></span></td><td>The object is the first binary centaur to be discovered, together with its moon Echidna.<br>In myth, Typhon was a giant snakeman monster who tried to overthrow Jupiter as king of the world. Echidna was his giant monster lover who gave birth to loads of famous monsters. </td></tr>
+<tr><td class="catsym">541132 Leleākūhonua</td><td>Nicknamed "The Goblin". It takes over 30 thousand years to orbit the sun, and its official name is a reference to bird's migration.</td></tr>
 <tr><td class="catsym">65803 Didymos</td><td> The name is Greek for "twin". <br> It has a moonlet called "Dimorphos", meaning "Two forms." <br> NASA's DART mission is planning to test our planetary defense capabilities by ramming into Dimorphos as high speed in 2022. </td></tr>
 <tr><td class="catsym">99942 Apophis</td><td> A primordial serpent who sought to devour the sun. <br> When this asteroid was first discovered, measurements suggested there was a small chance it would impact the Earth. That's since been ruled out, but it will pass by incredibly close in 2029.</td></tr>
 <tr><td class="catsym">101955 Bennu</td><td> Named for a mythological bird associated with the creation of the world. <br> An Apollo-class object with an unstable orbit. It has a low chance of crashing into the Earth next century, but is more likely to spiral into the sun or crash into Venus. As of May 2021, a spacecraft has collected a sample and is bringing it back to Earth.</td></tr>
+</table><tr><td class="catsym">307261 The Nameless Planet</td><td>It might be a dwarf planet, but its discoverers forgot to name it. So the official designation is still "307261 2002 MS4". There are plenty of unanmed objects in the solar system, but this is easily the largest.</td></tr>
 </table>
-
+</table><tr><td class="catsym">486958 Arrokoth</td><td>Peanut shaped object out past Pluto. It's the most distant object yet to have been visited by a spacecraft.</td></tr>
+</table>
 
 
 
