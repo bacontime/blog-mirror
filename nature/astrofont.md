@@ -10,6 +10,9 @@ grand_parent: Science and Nature
         font-family: Astromoony;
         src: url("../../webfonts/astro/AstromoonySans.ttf");
     }
+    .AstroFontTable td {
+        vertical-align: middle;
+    }
     .AstroFontTable td:nth-child(1) {
         font-family: Astromoony;
         text-align: center;
