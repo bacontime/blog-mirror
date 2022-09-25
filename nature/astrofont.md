@@ -12,6 +12,7 @@ grand_parent: Science and Nature
     }
     .AstroFontTable td {
         vertical-align: middle;
+        padding: 0 0.4rem
     }
     .AstroFontTable td:nth-child(1) {
         font-family: Astromoony;
@@ -21,10 +22,10 @@ grand_parent: Science and Nature
     .AstroFontTable td:nth-child(2) {
         text-align: left;
     }
-    .AstroFontTable td:nth-child(3), .astrotable td:nth-child(4) {
+    .AstroFontTable td:nth-child(3), .AstroFontTable td:nth-child(4) {
         text-align: center;
     }
-    .MajorPlanetRow, .DwarfPlanetRow {
+    .MoonRow {
         background-color: var(--boxcolor);
     }
 </style>
@@ -63,7 +64,7 @@ grand_parent: Science and Nature
             <td>🜨</td>
             <td>1F728</td>
         </tr>
-        <tr class="MajorPlanetRow">
+        <tr class="MoonRow">
             <td>☾</td>
             <td>Luna, The Moon (Terra I)</td>
             <td>☾</td>
