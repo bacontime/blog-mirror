@@ -2,8 +2,14 @@
 title: Astro Fonts
 parent: Astro Symbols
 grand_parent: Science and Nature
+layout: post
+date: 2022-09-24
+last_modified_date: 2022-09-24
 ---
 
+
+
+## Table of Characters
 
 <style>
     @font-face {
