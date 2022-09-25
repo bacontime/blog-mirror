@@ -40,7 +40,7 @@ toc: true
 <table class="AstroFontTable">
     <thead>
     <tr>
-        <th>Symbol</th>
+        <th>Sans</th>
         <th>Object Name</th>
         <th>No Font</th>
         <th>Codepoint(s)</th>
