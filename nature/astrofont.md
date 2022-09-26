@@ -15,7 +15,7 @@ toc: true
 <style>
     @font-face {
         font-family: Astromoony;
-        src: url("../../webfonts/astro/AstromoonySans.ttf");
+        src: url("{{site.webfontdirectory}}/astro/AstromoonySans.ttf");
     }
     .AstroFontTable td {
         vertical-align: middle;
