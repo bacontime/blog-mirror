@@ -14,4 +14,4 @@ compress_html:
     envs: all
 
 
-webfontdirectory: rmwinslow.com/webfonts
+webfontdirectory: https://www.rmwinslow.com/webfonts
