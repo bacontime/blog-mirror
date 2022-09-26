@@ -229,7 +229,7 @@ td {
 }
 @font-face {
   font-family: 'EmojiTwo Nano';
-  src: url(../../webfonts/emoji/EmojiTwoCOLRv0.ttf);
+  src: url({{site.webfontdirectory}}/emoji/EmojiTwoCOLRv0.ttf);
 }
 td:nth-child(2) {
   font-family: 'EmojiTwo Nano';
@@ -239,7 +239,7 @@ td:nth-child(2) {
 
 @font-face {
   font-family: 'Twemoji Nano';
-  src: url(../../webfonts/emoji/TwemojiCOLRv0.ttf);
+  src: url({{site.webfontdirectory}}/emoji/TwemojiCOLRv0.ttf);
 }
 td:nth-child(3) {
   font-family: 'Twemoji Nano';
@@ -249,7 +249,7 @@ td:nth-child(3) {
 
 @font-face {
   font-family: 'OpenMoji Nano';
-  src: url(../../webfonts/emoji/OpenMojiCOLRv0.ttf);
+  src: url({{site.webfontdirectory}}/emoji/OpenMojiCOLRv0.ttf);
 }
 td:nth-child(4) {
   font-family: 'OpenMoji Nano';
