@@ -1,9 +1,11 @@
 ---
 title: Wordle Solutions
+subtitle: Pre-calculated Solution Paths for Wordle
+layout: post
 parent: Language
+date: 2022-02-08
 ---
 
-# Pre-calculated Solution Paths for Wordle.
 
 This is not a *solver* for [Wordle](https://www.powerlanguage.co.uk/wordle/).
 
