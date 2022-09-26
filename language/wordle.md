@@ -23,20 +23,20 @@ If you stray from this path, there is nothing this tree can do to help you.
 <style>
     @font-face {
         font-family: 'Twemoji Squares';
-        src: url(../../webfonts/emoji/TwemojiCOLORv0_onlyShapes.ttf);
+        src: url({{webfontdirectory}}/emoji/TwemojiCOLORv0_onlyShapes.ttf);
     }
-    details {
+    main details {
         border: 1px solid rgba(0,0,0,0.2);
         padding: 0;
     }
-    details > summary {
+    main details > summary {
         font-family: 'Twemoji Squares';
         font-size: xx-large;
         margin: 0px;
         border-radius: 8px;
         padding: 0rem .5rem;
     }
-    details p {
+    main details p {
         margin: 1rem;
     }
     .sublist {
