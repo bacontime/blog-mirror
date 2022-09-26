@@ -75,7 +75,7 @@ Tengwar is the alphabet used by Tolkien's elves. The sounds that each character 
 <style>
     @font-face {
         font-family: 'tengwar';
-        src: url("../../webfonts/tengwar/TengwarFormalCSUR.ttf");
+        src: url("{{site.webfontdirectory}}/tengwar/TengwarFormalCSUR.ttf");
     }
     .tengwartd {
         text-align: center;
