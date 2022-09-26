@@ -23,7 +23,7 @@ If you stray from this path, there is nothing this tree can do to help you.
 <style>
     @font-face {
         font-family: 'Twemoji Squares';
-        src: url({{webfontdirectory}}/emoji/TwemojiCOLORv0_onlyShapes.ttf);
+        src: url({{site.webfontdirectory}}/emoji/TwemojiCOLORv0_onlyShapes.ttf);
     }
     main details {
         border: 1px solid rgba(0,0,0,0.2);
