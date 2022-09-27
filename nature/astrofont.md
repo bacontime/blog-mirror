@@ -8,14 +8,24 @@ last_modified_date: 2022-09-24
 toc: true
 ---
 
+## Astromoony Font
+
+I created a font that uses ligatures to include symbols for the moons.
+For example, "♂I" will be rendered as a symbol for Phobos, the first moon of Mars.
+
+<!--TODO: Details about copyright and credit-->
+
+### Download
+
+[Sans Serif v1.0]({{site.webfontdirectory}}/astro/AstromoonySans.ttf)
 
 
-## Table of Characters
+### Table of Characters
 
 <style>
     @font-face {
         font-family: Astromoony;
-        src: url("../../webfonts/astro/AstromoonySans.ttf");
+        src: url("{{site.webfontdirectory}}/astro/AstromoonySans.ttf");
     }
     .AstroFontTable td {
         vertical-align: middle;

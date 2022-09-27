@@ -1,10 +1,12 @@
 ---
 title: Chinese Element Names
+subtitle: Hanzi for the Chemical Elements
 parent: Chinese Characters
 grand_parent: Language
+date: 2022-03-08
+layout: post
 ---
 
-# Hanzi for the Chemical Elements
 
 Only a few pure chemical elements were known to people in ancient times. 
 Then starting in the late 1700s, there was an explosion of chemical discoveries.
@@ -45,7 +47,8 @@ H (Hydrogen) = 氢/氫 (qīng)
 : Another early translation of hydrogen into Chinese was 水母气 (shuǐmǔqì), where 水 means 'water' and 母 means 'mother'. It's clear that the translator intended this to be a literal translation of the term (hydro-gen = water-producer), but 水母 means 'jellyfish', so it's a rather awkward translation.
 
 He (Helium) = 氦 (hài)
-: Loanword. Homophonic with 亥, is one of the Earthly Branches, used in old-timey timekeeping. It can be used to refer to the astrological pig.
+: Loanword. Homophonic with 亥, which is one of the 'Earthly Branches', used in old-timey timekeeping. 亥 corresponds roughly to the time of 9pm to 11pm, the last period of time in a day, and can also refer to the zodiac pig, who is last of the animals in the zodiac.
+: The character was chosen not because helium has anything to do with late-night activities nor astrological pork, but rather because "hài" sounds a bit like "helium". This is indicative of the typical pattern for these element names.
 
 Li (Lithium) = 锂/鋰 (lǐ)
 : Loanword. Homophonic with 里, meaning 'village'.

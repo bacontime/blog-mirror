@@ -1,4 +1,5 @@
-title: "Posts"
+title: "RMW's Blogalike"
+description: "This isn't quite a blog, but it's the closest thing I've got."
 remote_theme: RMWinslow/JTD-RMW
 search_enabled: true
 page_excerpts: true
@@ -13,6 +14,4 @@ compress_html:
     envs: all
 
 
-plugins:
-  - jekyll-seo-tag
-
+webfontdirectory: https://www.rmwinslow.com/webfonts

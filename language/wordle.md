@@ -1,9 +1,11 @@
 ---
 title: Wordle Solutions
+subtitle: Pre-calculated Solution Paths for Wordle
+layout: post
 parent: Language
+date: 2022-02-08
 ---
 
-# Pre-calculated Solution Paths for Wordle.
 
 This is not a *solver* for [Wordle](https://www.powerlanguage.co.uk/wordle/).
 
@@ -23,20 +25,20 @@ If you stray from this path, there is nothing this tree can do to help you.
 <style>
     @font-face {
         font-family: 'Twemoji Squares';
-        src: url(../../webfonts/emoji/TwemojiCOLORv0_onlyShapes.ttf);
+        src: url({{site.webfontdirectory}}/emoji/TwemojiCOLORv0_onlyShapes.ttf);
     }
-    details {
+    main details {
         border: 1px solid rgba(0,0,0,0.2);
         padding: 0;
     }
-    details > summary {
+    main details > summary {
         font-family: 'Twemoji Squares';
         font-size: xx-large;
         margin: 0px;
         border-radius: 8px;
         padding: 0rem .5rem;
     }
-    details p {
+    main details p {
         margin: 1rem;
     }
     .sublist {
