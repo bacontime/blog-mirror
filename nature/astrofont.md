@@ -4,7 +4,7 @@ parent: Astro Symbols
 grand_parent: Science and Nature
 layout: post
 date: 2022-09-24
-last_modified_date: 2022-09-24
+last_modified_date: 2022-09-28
 toc: true
 ---
 
@@ -435,6 +435,6 @@ are substantial deviations from Moskowitz' designs, though they still keep to th
 
 ## Other Fonts
 
-- The [Catrinity Font](https://catrinity-font.de/index.html) by Alexander Lange contains all official unicode astro symbols, as well as a large number of asteroid symbols in the Private-Use-Area
-
+The [Catrinity Font](https://catrinity-font.de/index.html) by Alexander Lange contains all official unicode astro symbols, as well as a large number of asteroid symbols in its Private-Use-Area.
+When making the glyphs in the Astromoony Sans font,  I designed them to be stylistically similar to the astro symbols from Catrinity.
 
