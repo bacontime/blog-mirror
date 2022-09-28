@@ -1,14 +1,15 @@
 ---
 title: Element Names
+subtitle: Some Idle Musings Related to the Names of the Chemical Elements
+layout: post
 parent: Science and Nature
+date: 2022-07-15
+last_modified_date: 2022-09-28
+toc: true
 ---
 
 
-See [here](../language/hanzielements.html) for my notes on Chinese chemical element names.
-
-## Some Idle Musings
-
-### What is the third ferromagnetic goblin?
+## What is the third ferromagnetic goblin?
 
 Iron Cobalt and Nickel are sometimes known as the "[Iron Triad](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/23%3A_The_Transition_Elements/23.5%3A_The_Iron_Triad%3A_Iron_Cobalt_and_Nickel)" or Iron Group due to their similar properties. 
 
@@ -27,7 +28,7 @@ What terrible ferro-goblins might still sleep secretly deep within the earth?
 
 ---
 
-### Planetary Elements
+## Planetary Elements
 
 There are 8 elements named after celestial objects.  
 The seven metals of antiquity have traditionally been [associated with the seven classical planets](https://en.wikipedia.org/wiki/Classical_planet#Alchemy), especially Mercury, for which the planet and element share a name.
@@ -52,10 +53,11 @@ Between these two factors, there is at least one element associated with each of
 
 Though this still leaves many former planets and dwarf planets without an element of their own.
 
+<!--Uranus alternate symbol associated with platinum-->
 
 ---
 
-### "Cooler" Alternate Element Names
+## Interesting Alternate Element Names
 
 Many elements have alternate names,
 and there are good reasons for standardizing the names we have.
@@ -64,8 +66,9 @@ But some alternate names are fairly interesting.
 Tungsten
 : Wolfram, from *wolf's froth*, in reference to the difficulties of mining wolframite.
 Plutonium
-: Extremium, Ultimium, from the false belief that this was the final element.
-
+: Extremium or Ultimium, from the false belief that this was the final element.
+Mercury
+: Quicksilver, or Hydrargyrum, which is Greek for 'water-silver'
 
 
 <!--
@@ -218,12 +221,15 @@ helium aka 氦 sun vapor| Yin Air
 ## Links to pages about the elements:
 
 - Peter van de Krogt's [Periodic table color-coded by origin of name.](https://elements.vanderkrogt.net/ptable.php) Poke around this website for some very interesting articles on the history of each element's name, alternate names that were considered, and the like.
-- [Wiki article on Element Name Etymologies](https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies)
-- [An abbreviated Wiki Article with element etymologies](https://en.wikipedia.org/wiki/List_of_chemical_elements)
+- [An abbreviated Wikipedia Article with element etymologies](https://en.wikipedia.org/wiki/List_of_chemical_elements)
 - [A list of element names goofily adapted to only use germanic roots.](https://anglish.fandom.com/wiki/Fading_of_Ormotes)
-- [My notes about the Chinese characters for chemical elements.](../language/hanzielements.html)
 - [Theodore Gray's Periodic Table Website](https://periodictable.com/index.html).
 - [David Hamric's Element Coins](https://www.elementsales.com/ecoins.htm). [Relevant article](http://archive.boston.com/jobs/news/articles/2008/04/27/elements_a_natural_pick_of_career/). [Theodore Gray's gallery](https://periodictable.com/Elements/Source-hamric/index.html) of some of these 'coins'.
+
+<!--
+- [My notes about the Chinese names and characters for the chemical elements.](../language/hanzielements.html)
+- [Wikipedia article on Element Name Etymologies](https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies)
+-->
 
 
 
