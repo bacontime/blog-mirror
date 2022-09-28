@@ -426,4 +426,15 @@ For example, "♂I" will be rendered as a symbol for Phobos, the first moon of M
     </tbody>
 </table>
 
+### Symbol Credit
+
+Most of the modern designs above (for dwarf planets and major moons) are based on the public-domain symbol 
+[designs by Denis Moskowitz](https://suberic.net/~dmm/astro/index.html).
+Note that my glyphs for some objects (namely Europa, Ganymede, Callisto, Kerberos, and Orcus)
+are substantial deviations from Moskowitz' designs, though they still keep to the 'core idea' of his designs.
+
+## Other Fonts
+
+- The [Catrinity Font](https://catrinity-font.de/index.html) by Alexander Lange contains all official unicode astro symbols, as well as a large number of asteroid symbols in the Private-Use-Area
+
 
