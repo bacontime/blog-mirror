@@ -20,3 +20,7 @@ webfontdirectory: https://www.rmwinslow.com/webfonts
 plugins:
   - jekyll-redirect-from
   
+whitelist:
+  - jekyll-redirect-from
+  
+  
