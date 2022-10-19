@@ -22,6 +22,17 @@ and broken it down into
 [^primaryVsSecondaryChildcare]: The BLS uses "Primary Childcare" to refer to time spent where caring for or helping a child is the primary activity. "Secondary Childcare" is time spent watching a child while doing something else, like cooking.
 
 
+![](ccimg/0519_all_.svg)
+![](ccimg/0519_all_♀.svg)
+![](ccimg/0519_all_♂.svg)
+
+<div markdown="block" style="width:150%">
+
+![](ccimg/0519_all_.svg)
+
+</div>
+
+
 
 <!--All time with child present? Extra time from cooking when you have kids? Rugrats paper travel time?-->
 
