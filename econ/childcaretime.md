@@ -21,10 +21,31 @@ and broken it down into
 
 [^primaryVsSecondaryChildcare]: The BLS uses "Primary Childcare" to refer to time spent where caring for or helping a child is the primary activity. "Secondary Childcare" is time spent watching a child while doing something else, like cooking.
 
+## Data on Childcare Timeuse from ATUS
+
+These averages look at survey responses collected 2005-2019 from respondents who have at least one of their own children below the age of 18 living in their household.
 
 ![](ccimg/0519_all_.svg)
 ![](ccimg/0519_all_♀.svg)
 ![](ccimg/0519_all_♂.svg)
+
+Mothers tend to spend more time on average caring for 
+children than do fathers. 
+
+The largest differences are seen in 
+physical care (bathing, dressing, feeding, etc.).
+
+Mothers also spend a lot more time on secondary childcare (watching 
+
+On the other hand, fathers and mothers spend similar amounts of time playing with their children.
+
+
+
+
+
+
+
+
 
 <div markdown="block" style="width:150%">
 
