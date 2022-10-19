@@ -3,7 +3,7 @@ title: Human Energy Units
 parent: Science and Nature
 date: 2022-07-05
 last_modified_date: 2022-09-28
-permalink: /energy/
+permalink: /energy
 redirect_from:
   - /numbers/energy
   - /nature/energy
