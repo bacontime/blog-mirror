@@ -25,6 +25,7 @@ and broken it down into
 
 These averages look at survey responses collected 2005-2019 from respondents who have at least one of their own children below the age of 18 living in their household.
 
+![](ccimg/0519_all_symbols.svg)
 ![](ccimg/0519_all_.svg)
 ![](ccimg/0519_all_♀.svg)
 ![](ccimg/0519_all_♂.svg)
@@ -35,7 +36,7 @@ children than do fathers.
 The largest differences are seen in 
 physical care (bathing, dressing, feeding, etc.).
 
-Mothers also spend a lot more time on secondary childcare (watching 
+Mothers also spend a lot more time on secondary childcare (time spent watching children while doing something else as the primary activity).
 
 On the other hand, fathers and mothers spend similar amounts of time playing with their children.
 
@@ -53,7 +54,16 @@ On the other hand, fathers and mothers spend similar amounts of time playing wit
 
 </div>
 
+## Data Details
 
+TODO: Possibly Move to Appendix
+
+### Category Definitions
+
+### Details about travel in ATUS
+
+- includes walking
+- Coded to activity associated with destination, unless it is home.
 
 <!--All time with child present? Extra time from cooking when you have kids? Rugrats paper travel time?-->
 
