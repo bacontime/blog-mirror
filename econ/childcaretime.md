@@ -13,6 +13,18 @@ redirect_from:
   - /econ/childcaretime/
 -->
 
+<style>
+    main figure {
+        background-color: #eee8d5aa;
+        border-radius: 0.5rem;
+        padding-bottom: 0.3rem;
+    }
+    main figcaption {
+        margin: 0.2rem;
+    }
+</style>
+
+
 We all know that taking care of kids takes a lot of work. But *what kind* of work?
 
 Here, I look at data from the American Time Use Survey.
@@ -25,10 +37,15 @@ and broken it down into
 
 These averages look at survey responses collected 2005-2019 from respondents who have at least one of their own children below the age of 18 living in their household.
 
+
+<figure markdown="block">
 ![](ccimg/0519_all_symbols.svg)
 ![](ccimg/0519_all_.svg)
 ![](ccimg/0519_all_♀.svg)
 ![](ccimg/0519_all_♂.svg)
+<figcaption>Example Caption</figcaption>
+</figure>
+
 
 Mothers tend to spend more time on average caring for 
 children than do fathers. 
