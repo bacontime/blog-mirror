@@ -59,10 +59,40 @@ Mothers also spend a lot more time on secondary childcare (time spent watching c
 On the other hand, fathers and mothers spend similar amounts of time playing with their children.
 
 
+<figure markdown="block">
+![](ccimg/0519_all_symbols.svg)
+![](ccimg/0519_all_.svg)
+![](ccimg/0519_all_♀.svg)
+![](ccimg/0519_all_♂.svg)
+<figcaption>Example Caption</figcaption>
+</figure>
 
 
+### Age of Children
 
+<figure markdown="block">
+![](ccimg/0519_2max_symbols.svg)
+![](ccimg/0519_2max_.svg)
+![](ccimg/0519_2max_♀.svg)
+![](ccimg/0519_2max_♂.svg)
+<figcaption>Childcare time of parents with kids aged 2 or younger</figcaption>
+</figure>
 
+<figure markdown="block">
+![](ccimg/0519_3to5_symbols.svg)
+![](ccimg/0519_3to5_.svg)
+![](ccimg/0519_3to5_♀.svg)
+![](ccimg/0519_3to5_♂.svg)
+<figcaption>Childcare time of parents with kids aged 6 to 12</figcaption>
+</figure>
+
+<figure markdown="block">
+![](ccimg/0519_13min_symbols.svg)
+![](ccimg/0519_13min_.svg)
+![](ccimg/0519_13min_♀.svg)
+![](ccimg/0519_13min_♂.svg)
+<figcaption>Childcare time of parents with kids aged 13 to 17</figcaption>
+</figure>
 
 
 
@@ -74,9 +104,13 @@ On the other hand, fathers and mothers spend similar amounts of time playing wit
 
 ## Data Details
 
-TODO: Possibly Move to Appendix
+TODO: Possibly Move to seperate Appendix page
 
 ### Category Definitions
+
+### How exactly everything is filter
+
+IPUMS variable names etc
 
 ### Details about travel in ATUS
 
