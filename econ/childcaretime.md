@@ -20,7 +20,7 @@ redirect_from:
         padding-bottom: 0.2rem;
         line-height: 1;
     }
-    main figure svg {
+    main figure img {
         max-width: 150%;
     }
     main figcaption {
