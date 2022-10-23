@@ -27,73 +27,77 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 ---
 
 
+## Local Multiplayer Games
+
+
+
 ## Full list In reverse chrono order
 
-Horace
-Loom
-Hero's Hour
-We the Revolution
-The Dig
-Defend the Rook
-Castle on the Coast
-Zak McKraken and the Alien Mindbenders
-Beasts of Maravilla Island
-Recompile
-Scourge Bringer
-Suzerain
-Maniac Mansion
-Fishing North Atlantic
-Fell Seal
-WRC 8
+- Horace
+- Loom
+- Hero's Hour
+- We the Revolution
+- The Dig
+- Defend the Rook
+- Castle on the Coast
+- Zak McKraken and the Alien Mindbenders
+- Beasts of Maravilla Island
+- Recompile
+- Scourge Bringer
+- Suzerain
+- Maniac Mansion
+- Fishing North Atlantic
+- Fell Seal
+- WRC 8
     - Local: 
-Calico
-Gone Viral
-Across the Grooves
-Astrologaster
-Bang Bang Racing
+- Calico
+- Gone Viral
+- Across the Grooves
+- Astrologaster
+- Bang Bang Racing
     - Local: 
-The Crows Eye
-Giana Sisters Twisted Dreams
+- The Crows Eye
+- Giana Sisters Twisted Dreams
     - Local: 
-Metal Unit
-8 Doors
-Rain World
+- Metal Unit
+- 8 Doors
+- Rain World
     - Local: 
-Darkside Detective
-Clouds and Sheep 2
-Shattered 
-Out of Line
-Cat Quest
-Mail Mole
-Galaxy of Pen and Paper
-Nanotale
-Various Monkeys Island
-Guild Ascension
-Turnip Boy
-Steamworld Quest
-Look Inside
-The Stillness of the Wind
-Crypto Against All Odds
-Pesterquest
-Golazo!
+- Darkside Detective
+- Clouds and Sheep 2
+- Shattered 
+- Out of Line
+- Cat Quest
+- Mail Mole
+- Galaxy of Pen and Paper
+- Nanotale
+- Various Monkeys Island
+- Guild Ascension
+- Turnip Boy
+- Steamworld Quest
+- Look Inside
+- The Stillness of the Wind
+- Crypto Against All Odds
+- Pesterquest
+- Golazo!
     - Local: 
     - Okay. Sports.
     - It's a soccer game where you are encouraged to attack the other team. Cute and well made, but didn't really stick for me.
-As Far As the Eye
-Ashwalkers
-Double Kick Heroes
-Two Point Hospital
-Abandon Ship
-In Other Waters
-Fahrenheit Indigo Prophecy
-W2C 7 World Rally Championship
-Paper Beast
-MorkRedd
+- As Far As the Eye
+- Ashwalkers
+- Double Kick Heroes
+- Two Point Hospital
+- Abandon Ship
+- In Other Waters
+- Fahrenheit Indigo Prophecy
+- W2C 7 World Rally Championship
+- Paper Beast
+- MorkRedd
     - Local:
     - Bad. 
     - Poorly Optimized. Slow. Dull autoscrolling. Stay in a spotlight as it slowly moves along. Pull a lever. Die because the edge detection on the light is iffy.
-Spellcast University
-Youtubers Life OMG!
+- Spellcast University
+- Youtubers Life OMG!
 - Tales of Monkey Island
 - Demon Hunter 2
 - Liberated
@@ -193,6 +197,7 @@ Youtubers Life OMG!
     - Meh. 2D Platformer.
     - Cute style but nothing special.
 - Monster Prom: Hotseat Edition
+    - Local: I feel like playing a single game together would be more fun.
     - Good. Dating Sim.
     - It bills itself as a "competitive dating sim", but really it's a sort of parody of dating sims jammed into a rapid-fire choose your own adventure. The goal of a playthrough is ostensibly to find a date to the Monster Prom, but it's more likely you'll get attacked by the Pope for daring to expose the true origins of El Caganer or something like that. One shortcoming is that the game likes to get self-referential, but because the events are random, sometimes it will lampshade an event that you haven't actually seen yet.
 - Swimsanity! (local only)
