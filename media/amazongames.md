@@ -21,14 +21,70 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 
 |              | Bad bits | No Bad bits |
 |:-:|:-:|:-:|
-| **Good bits**    | Okay     | Good        |
-| **No Good bits** | Bad      | Meh         |
+| **Good bits**    | Okay (🤷)    | Good (⭐)       |
+| **No Good bits** | Bad (💩)     | Meh (😴)        |
 
 ---
 
 
 ## Local Multiplayer Games
 
+| Name | Score | Details |
+|:-----|:------|:--------|
+| WRC 8 |  |  |
+| Bang Bang Racing |  |  |
+| The Crows Eye |  |  |
+| Giana Sisters Twisted Dreams |  |  |
+| Rain World |  |  |
+| Golazo! | 🤷 |  |
+| MorkRedd | 💩 |  |
+| BAFL - Brakes Are For Losers | 🤷 |  |
+| Rogue Heroes: Ruins of Tasos | ⭐ |  |
+| Whisky Zombies | 😴 |  |
+| Red Wings Aces of the Sky |  |  |
+| Tools Up! |  |  |
+| BFF or Die |  |  |
+| Frog Climbers |  |  |
+| Move or Die |  |  |
+| Aces of the Luftwaffe | 😴 |  |
+| Moving Out |  |  |
+| SkyDrift |  |  |
+| Boomerang Fu | ⭐ |  |
+| Sine Mora Ex |  |  |
+| Monster Prom: Hotseat Edition | ⭐ |  |
+| Swimsanity! |  |  |
+| Majesty 2 Collection |  |  |
+| Extreme Exorcism | 🤷 |  |
+| Jay and Silent Bob, Mall Brawl |  |  |
+| Blazing Chrome |  |  |
+| Chroma Squad |  |  |
+| Nuero Voider |  |  |
+| Grip |  | 11 GB?! |
+| Turok 2: Seeds of Evil |  |  |
+| Mad Tracks | 💩 |  |
+| Melbits World |  |  |
+| Steel Rats |  |  |
+| Mugsters |  |  |
+| Steredenn |  |  |
+| Desert Child |  |  |
+| Enter the Gungeon | ⭐ |  |
+| Heave Ho |  |  |
+| Toe Jam & Earl | 🤷 |  |
+| Darksiders 2 |  |  |
+| Stranger Things 3: The Game |  |  |
+| Broforce |  |  |
+| Yooka-Laylee |  |  |
+| Antihero |  |  |
+| Stikbold! A Dodgeball Adventure | ⭐ |  |
+| Kabounce |  |  |
+| The Swords of Ditto |  |  |
+| Pikuniku | ⭐ |  |
+| For the King |  |  |
+| Overcooked |  |  |
+| Death Squared |  |  |
+| The Metronomicon |  |  |
+| Aegis Defenders |  |  |
+| Manual Samuel | 🤷 |  |
 
 
 ## Full list In reverse chrono order
