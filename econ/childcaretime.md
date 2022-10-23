@@ -71,26 +71,26 @@ On the other hand, fathers and mothers spend similar amounts of time playing wit
 ### Age of Children
 
 <figure markdown="block">
-![](ccimg/0519_2max_symbols.svg)
-![](ccimg/0519_2max_.svg)
-![](ccimg/0519_2max_♀.svg)
-![](ccimg/0519_2max_♂.svg)
+![](ccimg/0519_kidage_2max_symbols.svg)
+![](ccimg/0519_kidage_2max_.svg)
+![](ccimg/0519_kidage_2max_♀.svg)
+![](ccimg/0519_kidage_2max_♂.svg)
 <figcaption>Childcare time of parents with kids aged 2 or younger</figcaption>
 </figure>
 
 <figure markdown="block">
-![](ccimg/0519_3to5_symbols.svg)
-![](ccimg/0519_3to5_.svg)
-![](ccimg/0519_3to5_♀.svg)
-![](ccimg/0519_3to5_♂.svg)
+![](ccimg/0519_kidage_3to5_symbols.svg)
+![](ccimg/0519_kidage_3to5_.svg)
+![](ccimg/0519_kidage_3to5_♀.svg)
+![](ccimg/0519_kidage_3to5_♂.svg)
 <figcaption>Childcare time of parents with kids aged 6 to 12</figcaption>
 </figure>
 
 <figure markdown="block">
-![](ccimg/0519_13min_symbols.svg)
-![](ccimg/0519_13min_.svg)
-![](ccimg/0519_13min_♀.svg)
-![](ccimg/0519_13min_♂.svg)
+![](ccimg/0519_kidage_13min_symbols.svg)
+![](ccimg/0519_kidage_13min_.svg)
+![](ccimg/0519_kidage_13min_♀.svg)
+![](ccimg/0519_kidage_13min_♂.svg)
 <figcaption>Childcare time of parents with kids aged 13 to 17</figcaption>
 </figure>
 
