@@ -2,6 +2,7 @@
 title: "Games Free with Amazon Prime"
 parent: hidden
 description: "This is a list of games that I've claimed on my Amazon Prime account."
+search_exclude: True
 ---
 
 This is a poorly advertised and difficult to access feature, originally associated with Amazon's acquisition of Twitch.
@@ -28,6 +29,47 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 
 ## Full list In reverse chrono order
 
+Horace
+Loom
+Hero's Hour
+We the Revolution
+The Dig
+Defend the Rook
+Castle on the Coast
+Zak McKraken and the Alien Mindbenders
+Beasts of Maravilla Island
+Recompile
+Scourge Bringer
+Suzerain
+Maniac Mansion
+Fishing North Atlantic
+Fell Seal
+WRC 8
+    - Local: 
+Calico
+Gone Viral
+Across the Grooves
+Astrologaster
+Bang Bang Racing
+    - Local: 
+The Crows Eye
+Giana Sisters Twisted Dreams
+    - Local: 
+Metal Unit
+8 Doors
+Rain World
+    - Local: 
+Darkside Detective
+Clouds and Sheep 2
+Shattered 
+Out of Line
+Cat Quest
+Mail Mole
+Galaxy of Pen and Paper
+Nanotale
+Various Monkeys Island
+Guild Ascension
+Turnip Boy
 Steamworld Quest
 Look Inside
 The Stillness of the Wind
