@@ -17,7 +17,8 @@ redirect_from:
     main figure {
         background-color: #eee8d5aa;
         border-radius: 0.5rem;
-        padding-bottom: 0.3rem;
+        padding-bottom: 0.2rem;
+        line-height: 1;
     }
     main figcaption {
         margin: 0.2rem;

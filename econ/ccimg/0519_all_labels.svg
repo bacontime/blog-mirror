@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg height="144pt" version="1.1" viewBox="0 0 864 144" width="864pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+ <metadata>
+  <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2022-10-22T18:52:48.340911</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.4.3, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linecap:butt;stroke-linejoin:round;}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 144 
+L 864 144 
+L 864 0 
+L 0 0 
+z
+" style="fill:none;"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path clip-path="url(#p7c45f5c51b)" d="M 0 144 
+L 1.182255 144 
+L 1.182255 126 
+L 0 126 
+z
+"/>
+   </g>
+   <g id="patch_3">
+    <path clip-path="url(#p7c45f5c51b)" d="M 1.182255 144 
+L 87.915267 144 
+L 87.915267 126 
+L 1.182255 126 
+z
+" style="fill:#80b1d3;"/>
+   </g>
+   <g id="patch_4">
+    <path clip-path="url(#p7c45f5c51b)" d="M 87.915267 144 
+L 102.249316 144 
+L 102.249316 126 
+L 87.915267 126 
+z
+" style="fill:#ccebc5;"/>
+   </g>
+   <g id="patch_5">
+    <path clip-path="url(#p7c45f5c51b)" d="M 102.249316 144 
+L 113.723898 144 
+L 113.723898 126 
+L 102.249316 126 
+z
+" style="fill:#8dd3c7;"/>
+   </g>
+   <g id="patch_6">
+    <path clip-path="url(#p7c45f5c51b)" d="M 113.723898 144 
+L 144.803739 144 
+L 144.803739 126 
+L 113.723898 126 
+z
+" style="fill:#bc80bd;"/>
+   </g>
+   <g id="patch_7">
+    <path clip-path="url(#p7c45f5c51b)" d="M 144.803739 144 
+L 278.186818 144 
+L 278.186818 126 
+L 144.803739 126 
+z
+" style="fill:#fb8072;"/>
+   </g>
+   <g id="patch_8">
+    <path clip-path="url(#p7c45f5c51b)" d="M 278.186818 144 
+L 287.322603 144 
+L 287.322603 126 
+L 278.186818 126 
+z
+" style="fill:#fccde5;"/>
+   </g>
+   <g id="patch_9">
+    <path clip-path="url(#p7c45f5c51b)" d="M 287.322603 144 
+L 309.92365 144 
+L 309.92365 126 
+L 287.322603 126 
+z
+" style="fill:#ffed6f;"/>
+   </g>
+   <g id="patch_10">
+    <path clip-path="url(#p7c45f5c51b)" d="M 309.92365 144 
+L 331.745401 144 
+L 331.745401 126 
+L 309.92365 126 
+z
+" style="fill:#ffffb3;"/>
+   </g>
+   <g id="patch_11">
+    <path clip-path="url(#p7c45f5c51b)" d="M 331.745401 144 
+L 353.141275 144 
+L 353.141275 126 
+L 331.745401 126 
+z
+" style="fill:#fdb462;"/>
+   </g>
+   <g id="patch_12">
+    <path clip-path="url(#p7c45f5c51b)" d="M 353.141275 144 
+L 406.992955 144 
+L 406.992955 126 
+L 353.141275 126 
+z
+" style="fill:#d9d9d9;"/>
+   </g>
+   <g id="text_1">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 44.548761, 137.759375)" x="44.548761" y="137.759375">20</text>
+   </g>
+   <g id="text_2">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(49.921667 107.891077)rotate(-45)">Playing with Kids,</text>
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(57.839717 115.809126)rotate(-45)">including Sports and Crafts</text>
+   </g>
+   <g id="text_3">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 95.082291, 137.759375)" x="95.082291" y="137.759375">3</text>
+   </g>
+   <g id="text_4">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(100.455198 115.809126)rotate(-45)">Talking With</text>
+   </g>
+   <g id="text_5">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 107.986607, 137.759375)" x="107.986607" y="137.759375">3</text>
+   </g>
+   <g id="text_6">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(113.359513 115.809126)rotate(-45)">Reading to or With</text>
+   </g>
+   <g id="text_7">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 129.263818, 137.759375)" x="129.263818" y="137.759375">7</text>
+   </g>
+   <g id="text_8">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(134.636725 107.891077)rotate(-45)">Education-related Activities</text>
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(142.554774 115.809126)rotate(-45)">(Homework, Homeschool, PTA Meetings)</text>
+   </g>
+   <g id="text_9">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 211.495279, 137.759375)" x="211.495279" y="137.759375">31</text>
+   </g>
+   <g id="text_10">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(216.868185 107.891077)rotate(-45)">Physical Care</text>
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(224.786235 115.809126)rotate(-45)">(Feeding, Bathing, Dressing, etc.)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 282.754711, 137.759375)" x="282.754711" y="137.759375">2</text>
+   </g>
+   <g id="text_12">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(288.127617 115.809126)rotate(-45)">Health-related Activities</text>
+   </g>
+   <g id="text_13">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 298.623127, 137.759375)" x="298.623127" y="137.759375">5</text>
+   </g>
+   <g id="text_14">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(303.996033 115.809126)rotate(-45)">Supervising as Primary Activity</text>
+   </g>
+   <g id="text_15">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 320.834526, 137.759375)" x="320.834526" y="137.759375">5</text>
+   </g>
+   <g id="text_16">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(326.207433 115.809126)rotate(-45)">Planning, Organizing, and Attending Events</text>
+   </g>
+   <g id="text_17">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 342.443338, 137.759375)" x="342.443338" y="137.759375">5</text>
+   </g>
+   <g id="text_18">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(347.816245 115.809126)rotate(-45)">Picking Up / Dropping Off / Waiting</text>
+   </g>
+   <g id="text_19">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:middle;" transform="rotate(-0, 380.067115, 137.759375)" x="380.067115" y="137.759375">12</text>
+   </g>
+   <g id="text_20">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;" transform="translate(385.440021 115.809126)rotate(-45)">Childcare-related Travel</text>
+   </g>
+   <g id="text_21">
+    <text style="font-family:DejaVu Sans;font-size:10px;font-stretch:normal;font-style:normal;font-weight:normal;text-anchor:start;" transform="rotate(-0, 415.632955, 137.759375)" x="415.632955" y="137.759375">Total: 1:34 (+4:40 secondary childcare)</text>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p7c45f5c51b">
+   <rect height="144" width="864" x="0" y="0"/>
+  </clipPath>
+ </defs>
+</svg>
