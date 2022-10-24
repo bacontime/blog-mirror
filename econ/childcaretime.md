@@ -43,11 +43,11 @@ These averages look at survey responses collected 2005-2019 from respondents who
 
 
 <figure markdown="block">
+<figcaption>Example Caption</figcaption>
 ![](ccimg/0519_all_symbols.svg)
 ![](ccimg/0519_all_.svg)
 ![](ccimg/0519_all_♀.svg)
 ![](ccimg/0519_all_♂.svg)
-<figcaption>Example Caption</figcaption>
 </figure>
 
 
@@ -62,40 +62,46 @@ Mothers also spend a lot more time on secondary childcare (time spent watching c
 On the other hand, fathers and mothers spend similar amounts of time playing with their children.
 
 
-<figure markdown="block">
-![](ccimg/0519_all_symbols.svg)
-![](ccimg/0519_all_.svg)
-![](ccimg/0519_all_♀.svg)
-![](ccimg/0519_all_♂.svg)
-<figcaption>Example Caption</figcaption>
-</figure>
 
+### Breakdown By Age of Children
 
-### Age of Children
+Here I slice the graphs
 
 <figure markdown="block">
-![](ccimg/0519_kidage_2max_symbols.svg)
-![](ccimg/0519_kidage_2max_.svg)
-![](ccimg/0519_kidage_2max_♀.svg)
-![](ccimg/0519_kidage_2max_♂.svg)
-<figcaption>Childcare time of parents with kids aged 2 or younger</figcaption>
-</figure>
-
-<figure markdown="block">
-![](ccimg/0519_kidage_3to5_symbols.svg)
-![](ccimg/0519_kidage_3to5_.svg)
-![](ccimg/0519_kidage_3to5_♀.svg)
-![](ccimg/0519_kidage_3to5_♂.svg)
-<figcaption>Childcare time of parents with kids aged 6 to 12</figcaption>
-</figure>
-
-<figure markdown="block">
+<figcaption>Childcare time of parents with kids aged 13 to 17</figcaption>
 ![](ccimg/0519_kidage_13min_symbols.svg)
 ![](ccimg/0519_kidage_13min_.svg)
 ![](ccimg/0519_kidage_13min_♀.svg)
 ![](ccimg/0519_kidage_13min_♂.svg)
-<figcaption>Childcare time of parents with kids aged 13 to 17</figcaption>
 </figure>
+
+
+<figure markdown="block">
+<figcaption>Childcare time of parents with kids aged 6 to 12</figcaption>
+![](ccimg/0519_kidage_3to5_symbols.svg)
+![](ccimg/0519_kidage_3to5_.svg)
+![](ccimg/0519_kidage_3to5_♀.svg)
+![](ccimg/0519_kidage_3to5_♂.svg)
+</figure>
+
+
+<figure markdown="block">
+<figcaption>Childcare time of parents with kids aged 2 or younger</figcaption>
+![](ccimg/0519_kidage_2max_symbols.svg)
+![](ccimg/0519_kidage_2max_.svg)
+![](ccimg/0519_kidage_2max_♀.svg)
+![](ccimg/0519_kidage_2max_♂.svg)
+</figure>
+
+
+<figure markdown="block">
+<figcaption>Childcare time of parents with newborn children</figcaption>
+![](ccimg/0519_newborn_present_symbols.svg)
+![](ccimg/0519_newborn_present_.svg)
+![](ccimg/0519_newborn_present_♀.svg)
+![](ccimg/0519_newborn_present_♂.svg)
+</figure>
+
 
 
 
