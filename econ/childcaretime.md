@@ -70,12 +70,32 @@ On the other hand, fathers and mothers spend similar amounts of time playing wit
 ### Breakdown By Number of Children
 
 <figure markdown="block">
-<figcaption>Childcare time of parents with kids aged 13 to 17</figcaption>
+<figcaption>Childcare time of parents with one child:</figcaption>
 ![](ccimg/0519_nkid1_symbols.svg)
 ![](ccimg/0519_nkid1_.svg)
 ![](ccimg/0519_nkid1_♀.svg)
 ![](ccimg/0519_nkid1_♂.svg)
 </figure>
+
+<figure markdown="block">
+<figcaption>Childcare time of parents with 2 children:</figcaption>
+![](ccimg/0519_nkid2_symbols.svg)
+![](ccimg/0519_nkid2_.svg)
+![](ccimg/0519_nkid2_♀.svg)
+![](ccimg/0519_nkid2_♂.svg)
+</figure>
+
+<figure markdown="block">
+<figcaption>Childcare time of parents with 3 or more children:</figcaption>
+![](ccimg/0519_nkid3plus_symbols.svg)
+![](ccimg/0519_nkid3plus_.svg)
+![](ccimg/0519_nkid3plus_♀.svg)
+![](ccimg/0519_nkid3plus_♂.svg)
+</figure>
+
+
+
+
 
 ### Breakdown By Age of Children
 
