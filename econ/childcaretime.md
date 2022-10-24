@@ -15,16 +15,20 @@ redirect_from:
 
 <style>
     main figure {
-        background-color: #eee8d5aa;
+        background-color: #eee8d5cc;
         border-radius: 0.5rem;
-        padding-bottom: 0.2rem;
+        padding: 0.3rem 0;
         line-height: 1;
+        margin: 0.5rem 0rem;
     }
     main figure img {
         max-width: 150%;
     }
     main figcaption {
         margin: 0.2rem;
+    }
+    main figure p {
+        margin: 0;
     }
 </style>
 
@@ -63,9 +67,19 @@ On the other hand, fathers and mothers spend similar amounts of time playing wit
 
 
 
+### Breakdown By Number of Children
+
+<figure markdown="block">
+<figcaption>Childcare time of parents with kids aged 13 to 17</figcaption>
+![](ccimg/0519_nkid1_symbols.svg)
+![](ccimg/0519_nkid1_.svg)
+![](ccimg/0519_nkid1_♀.svg)
+![](ccimg/0519_nkid1_♂.svg)
+</figure>
+
 ### Breakdown By Age of Children
 
-Here I slice the graphs
+Here I slice the graphs by restricting each graph to include parents whose children are all within some specific age range.
 
 <figure markdown="block">
 <figcaption>Childcare time of parents with kids aged 13 to 17</figcaption>
@@ -77,11 +91,11 @@ Here I slice the graphs
 
 
 <figure markdown="block">
-<figcaption>Childcare time of parents with kids aged 6 to 12</figcaption>
 ![](ccimg/0519_kidage_3to5_symbols.svg)
 ![](ccimg/0519_kidage_3to5_.svg)
 ![](ccimg/0519_kidage_3to5_♀.svg)
 ![](ccimg/0519_kidage_3to5_♂.svg)
+<figcaption>Childcare time of parents with kids aged 6 to 12</figcaption>
 </figure>
 
 
@@ -95,11 +109,11 @@ Here I slice the graphs
 
 
 <figure markdown="block">
-<figcaption>Childcare time of parents with newborn children</figcaption>
 ![](ccimg/0519_newborn_present_symbols.svg)
 ![](ccimg/0519_newborn_present_.svg)
 ![](ccimg/0519_newborn_present_♀.svg)
 ![](ccimg/0519_newborn_present_♂.svg)
+<figcaption>Childcare time of parents with newborn children</figcaption>
 </figure>
 
 
