@@ -47,7 +47,7 @@ These averages look at survey responses collected 2005-2019 from respondents who
 
 
 <figure markdown="block">
-<figcaption>Example Caption</figcaption>
+<figcaption>Breakdown of time spent by parents on childcare, according to the ATUS</figcaption>
 ![](ccimg/0519_all_symbols.svg)
 ![](ccimg/0519_all_.svg)
 ![](ccimg/0519_all_♀.svg)
