@@ -141,7 +141,7 @@ In some cases, the grids are rotated so that an octave's worth of notes fits nic
 
 ### (1,1) The Janko Keyboard
 
-![](isomorphic/h/isomorphic11.webp)
+![A (1,1) isomorphic keyboard, as found on Janko-style pianos.](isomorphic/h/isomorphic11.webp "A (1,1) isomorphic keyboard, as found on Janko-style pianos.")
 
 [Invented in 1882 by Paul von Jankó](http://improvise.free.fr/janko.htm), 
 this keyboard layout is similar to a 1-dimensional isomorphic keyboard,
