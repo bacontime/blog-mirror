@@ -2,16 +2,16 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="132.84309mm"
-   height="43.288685mm"
-   viewBox="0 0 132.84309 43.288685"
+   width="179.45818mm"
+   height="43.705685mm"
+   viewBox="0 0 179.45817 43.705685"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="isomorphic11.svg"
-   inkscape:export-filename="C:\Users\RobertWinslow\Documents\website\posts\art\isomorphic\isomorphic11.png"
-   inkscape:export-xdpi="100.06"
-   inkscape:export-ydpi="100.06"
+   inkscape:export-filename="isomorphic11.webp"
+   inkscape:export-xdpi="226.45944"
+   inkscape:export-ydpi="226.45944"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
@@ -27,9 +27,16 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.5981903"
-     inkscape:cx="256.54016"
-     inkscape:cy="155.48837"
-     inkscape:current-layer="layer3" />
+     inkscape:cx="302.21683"
+     inkscape:cy="120.44874"
+     inkscape:current-layer="layer1"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="2256"
+     inkscape:window-height="1451"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <defs
      id="defs2">
     <marker
@@ -80,7 +87,7 @@
      id="layer2"
      inkscape:label="translucent"
      style="opacity:0.2"
-     transform="translate(-351.72909,19.839196)">
+     transform="translate(-328.42155,20.047696)">
     <g
        id="g125323-0-1"
        transform="translate(282.28381,26.669498)"
@@ -5358,7 +5365,7 @@
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-391.03606,-15.400608)"
+     transform="translate(-367.72852,-15.192108)"
      style="display:inline">
     <g
        id="g125323"
@@ -7997,7 +8004,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="echoes"
-     transform="translate(-73.501884,-38.972286)">
+     transform="translate(-50.19434,-38.763786)">
     <g
        id="g1228-4"
        style="display:inline"
