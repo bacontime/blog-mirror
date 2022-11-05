@@ -141,7 +141,7 @@ In some cases, the grids are rotated so that an octave's worth of notes fits nic
 
 ### (1,1) The Janko Keyboard
 
-![A (1,1) isomorphic keyboard, as found on Janko-style pianos.](isomorphic/h/isomorphic11.webp "A (1,1) isomorphic keyboard, as found on Janko-style pianos.")
+![A (1,1) isomorphic note layout, as found on Janko-style pianos.](isomorphic/h/isomorphic11.webp "A (1,1) isomorphic note layout, as found on Janko-style pianos.")
 
 [Invented in 1882 by Paul von Jankó](http://improvise.free.fr/janko.htm), 
 this keyboard layout is similar to a 1-dimensional isomorphic keyboard,
@@ -165,7 +165,7 @@ This video calls the layout the "Bosanquet-Wilson Layout", though it has the sam
 ### (2,1) Chromatic Button Accordion 
 
 
-![](isomorphic/h/isomorphic21.webp)
+![A (2,1) isomorphic note layout, as found on chromatic button accordions.](isomorphic/h/isomorphic21.webp "A (2,1) isomorphic note layout, as found on chromatic button accordions.")
 
 There are many, *many* different designs for the layout of keys on an accordion, but this is a fairly common one.
 
@@ -202,6 +202,9 @@ https://www.youtube.com/watch?v=krtviJeloFs
 
 ### (3,1) Qwerty Chromatic Columns
 
+![A (3,1) isomorphic note layout.](isomorphic/h/isomorphic31.webp "A (3,1) isomorphic note layout.")
+
+
 I don't know if there are any actual instruments with these layouts,
 but [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (3,1), labelled "Isomorphic - Columns".
 
@@ -216,29 +219,50 @@ And there's a crackpot in the comment section complaining about his patents.
 It looks like these are it here:
 https://patents.google.com/patent/US5741990A/
 "Method of and means for producing musical note relationships"
-No idea how the patent office approved such a stupendously vague and conceptually basic patent. 
+Man, this guy uses a ton of words to say "a hexagonal keyboard layout where each row is a chromatic scale offset by 4 semitones from the row below it." 
+Are all patents this pointlessly wordy? 
 -->
 
 *Edit: Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).*
 
+<!--See also the (3,2) layout mentioned below-->
+
 
 ### Other (n,1) layouts.
 
-The (4,1) layout can similarly be used to fit an octave into three columns and four rows.
 
-(11, 1) would be like a stack of 1-d keyboards where each row is one octave apart.
+![An (11,1) isomorphic note layout.](isomorphic/h/isomorphic111.webp "An (11,1) isomorphic note layout.")
 
-(5,1), (6,1), (7,1), (8,1), (9,1), and (10,1) are similarly stacked keyboards, though ones of more dubious usefulness.
-The (5,1) and (6,1) layout might be handy if one wanted to cram an octave into a 2 row by 6 column space.
-I haven't played around with them, but they might have nice properties.
+All of the (n,1) layouts can be thought of as a series of 1-dimensional keyboards, stacked atop each other and offset by some amount.
+
+At one extreme, there is the (11, 1) layout, depicted above, 
+where each row is one octave apart. 
+A bit unwieldy, but not entirely strange for an instrument to have.[^octaveshiftkeyboard]
+
+[^octaveshiftkeyboard]: I could have sworn that I've seen actual musical instruments with something like an (11,1) layout, with multiple standard piano keyboards literally stacked atop each other. But I am unable to find examples of such a thing, so perhaps I just imagined it.
+
+<!--I was under the impression that this was the purpose of a pipe organ's multiple keyboards, but I was mistaken about that.-->
+
+At the other extreme, there's the (0,1) keyboard, which would essentially just be a 1-dimensional keyboard with oddly shaped keys. 
+
+The (4,1) layout could, like the (3,1) layout, be used to fit an octave into a three column by four row space, though the columns would be slanted differently. 
+Likewise, the (5,1) and (6,1) layouts might be handy if one wanted to cram an octave into a 2 by 6 space. 
+
+(7,1), (8,1), (9,1), and (10,1) are similarly stacked keyboards, though ones for which no immediate use-case comes to my mind. 
+
+<!--I haven't played around with them, however, so they might have nice properties.-->
+
 
 
 
 ### (3,2) 
 
-(3,2) is called the "Park" layout by Brett Park in his Musix app. 
-[Here is a video of a song being played using this layout](https://www.youtube.com/watch?v=3ZDyIkeIgU0).
+![A (3,2) isomorphic note layout.](isomorphic/r/isomorphic32.webp "A (3,2) isomorphic note layout.")
 
+Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Park" layout, and [demonstrate it here](https://shiverware.com/musixpro/park/chords.html). 
+I haven't found any other examples of this note layout in use.
+
+<!--[Here is a video of a song being played using this layout](https://www.youtube.com/watch?v=3ZDyIkeIgU0).-->
 
 <!--
 http://www.altkeyboards.com/instruments/isomorphic-keyboards
@@ -247,12 +271,23 @@ http://www.altkeyboards.com/instruments/isomorphic-keyboards
 
 ### (5,2) Wicki-Hayden
 
-It seems that accordion makers love to experiment with alternate layouts.
 
+![A (5,2) isomorphic note layout.](isomorphic/r/isomorphic52.webp "A (5,2) isomorphic note layout.")
+
+It seems that accordion makers love to experiment with alternate layouts.
+The (2,1) Chromatic Button Accordion layout was discussed above.
+There are also accordions with a (5,2) layout,
+most commonly called "Hayden Duet Concertinas".
+
+<!--TODO: Attribution to Wicki and Hayden. Explanation of "duet" in name.-->
+
+
+<!--
 In addition to the (2,1) Chromatic Button Accordion layout, 
-(and many different non-isomorphic key layouts) <!--Including some where the note depends on which direction the bellows is moving.-->
+(and many different non-isomorphic key layouts) Including some where the note depends on which direction the bellows is moving.
 some accordion-type instruments use what's called the Wicki-Hayden layout,
 which is so-named because it was independently invented by Kaspar Wicki and Brian Hayden.
+-->
 
 <!--
 https://www.concertina.net/forums/index.php?/topic/24168-jeffries-layout-call-me-confused/
@@ -272,8 +307,6 @@ Modern "duet concertinas" are the instruments most likely to have this layout.
 https://www.youtube.com/watch?v=djQCJqOSA-U
 -->
 
-As far as I can tell, the instruments with this layout are most commonly called "Hayden duet concertinas".
-
 Examples of play: 
 [1](https://www.youtube.com/watch?v=P-GBN56YJV4),
 [2](https://www.youtube.com/watch?v=vUbIYM0RNiw),
@@ -290,10 +323,7 @@ Examples of play:
 
 ### (4,3) Euler's Tonnetz
 
-<aside>
-<img src='isomorphic/h/isomorphic43.png' >
-</aside>
-
+![A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/r/isomorphic52.webp "A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.")
 
 The Tonnetz, or Tone Network is a hexagonal grid of notes 
 where 
@@ -317,7 +347,10 @@ And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a T
 
 
 
-
+<!--
+http://www.altkeyboards.com/instruments/isomorphic-keyboards/jim-plamondon-isomorphics
+http://www.quadibloc.com/other/mus03.htm
+-->
 
 
 
