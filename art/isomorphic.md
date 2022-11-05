@@ -323,7 +323,7 @@ Examples of play:
 
 ### (4,3) Euler's Tonnetz
 
-![A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/r/isomorphic52.webp "A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.")
+![A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/r/isomorphic43.webp "A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.")
 
 The Tonnetz, or Tone Network is a hexagonal grid of notes 
 where 
