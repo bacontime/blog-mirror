@@ -46,7 +46,7 @@ A standard piano keyboard is arranged so that
 moving 1 key to the right increases the pitch by 1 semitone.
 Moving 12 keys to the right increases the pitch by 1 octave.
 
-![A simple drawing of the keys of a piano. Public Domain Illustration by Karen Arnold](isomorphic/piano.png)
+![A simple drawing of the keys of a piano. Public Domain Illustration by Karen Arnold](isomorphic/piano.png "A simple drawing of the keys of a piano. Public Domain Illustration by Karen Arnold")
 
 But the keys on a piano aren't a consistent size. 
 7 of the notes - the ones important enough in Western music to get their own letter name -
