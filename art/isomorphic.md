@@ -84,9 +84,9 @@ There are a number of ways to arrange notes on a hexagonal grid in an isomorphic
 Each possible isomorphic layout can be specified by a pair (α,β)
 which describes the shift in semitones when moving in each direction.
 
-<div markdow="block" style="text-align: center;">
+<div markdown="block" style="text-align: center;">
 ![A hexagon with a vector emerging from each face. The top-left vector is labelled by alpha, the bottom right is labelled by beta, and the right face is labelled by alpha plus beta.](isomorphic/isomorphicHexDescription.svg)
-</div
+</div>
 
 Ignoring rotations, reflections, and translations, 
 and limiting the shift between adjacent notes to no more than an octave,
