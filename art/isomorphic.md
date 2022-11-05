@@ -3,7 +3,22 @@ title: Isomorphic Keyboards
 subtitle: Musical note layouts where relative physical position matches relative pitch.
 parent: Art and Culture
 has_children: false
+layout: post
+toc: true
+date: 2022-10-19
+last_modified_date: 2022-11-05
 ---
+
+While putting together a [toy musical qwerty-piano applet](rmwinslow.com/tones), 
+I did a lot of thinking about how to best arrange musical notes on a Qwerty keyboard.
+Computer keyboards offset their rows, 
+which means that the keys can be thought of as a hexagonal grid.
+To that end, this page enumerates the ways to place musical notes into a hexagonal grid,
+such that the resulting grid is *isomorphic*, which in this context means that the musical interval between adjacent keys is consistent across the grid.
+
+Don't worry; 
+This isn't just a list of mathematical vectors.
+I've also included plenty of links to videos of people playing strange instruments which illustrate these layouts.
 
 
 
@@ -12,7 +27,10 @@ permalink: isomorphic
 https://www.youtube.com/watch?v=VswBvmpnS1c
 https://www.youtube.com/watch?v=khlHjHiBRp8
 https://www.youtube.com/watch?v=ZMRUm_CoW-I&list=PLJ0GZCv6QiN53IwxrazwKhF2Fk8Ve85uz
+https://www.youtube.com/watch?v=NyfQ1xPn7hg Gadgetina
 -->
+
+## Some Brief and Simplified Musical Theory
 
 If the ratio of frequencies between two notes is a power of two, then the notes sound very similar, 
 and in musical notation, are labelled with the same letter. 
@@ -20,13 +38,15 @@ and in musical notation, are labelled with the same letter.
 The interval between one frequency and its double is called an "octave".
 
 In Twelve-tone Equal Temperament, the most common musical system today,
-each octave is split up into 12 logarithmically spaced intervals.
+each octave is split up into 12 logarithmically equal intervals.
 Each note has a frequency 2^(1/12) times the previous note.
 This interval is also called a "semitone".
 
 A standard piano keyboard is arranged so that 
 moving 1 key to the right increases the pitch by 1 semitone.
 Moving 12 keys to the right increases the pitch by 1 octave.
+
+![A simple drawing of the keys of a piano. Public Domain Illustration by Karen Arnold](isomorphic/piano.png)
 
 But the keys on a piano aren't a consistent size. 
 7 of the notes - the ones important enough in Western music to get their own letter name -
@@ -64,8 +84,9 @@ There are a number of ways to arrange notes on a hexagonal grid in an isomorphic
 Each possible isomorphic layout can be specified by a pair (α,β)
 which describes the shift in semitones when moving in each direction.
 
-![](isomorphic/isomorphicHexDescription.svg)
-
+<div markdow="block" style="text-align: center;">
+![A hexagon with a vector emerging from each face. The top-left vector is labelled by alpha, the bottom right is labelled by beta, and the right face is labelled by alpha plus beta.](isomorphic/isomorphicHexDescription.svg)
+</div
 
 Ignoring rotations, reflections, and translations, 
 and limiting the shift between adjacent notes to no more than an octave,
@@ -98,15 +119,29 @@ validOctaveRangePairs = {
  (10, 1),
  (11, 1)}
 
+TODO: Another page with the details.
+The pair either needs to have a 1, or the pair needs to be coprime modulo 12.
+
+TODO: Maybe put a full summary of the enumeration in here?
+
+Make a note about how some of the images below are rotated.
+
+Click the above box to open a summarized list of the set of 24 "full" isomorphic keyboards.
+
 
 -->
+
+Below, I've highlighted the ones that are musically notable, and created visualizations of their 
+note grids.
+In each image, the opaque circles represent the notes from a single octave (notes show up multiple times in each grid). The translucent circles are the notes from other octaves. 
+In some cases, the grids are rotated so that an octave's worth of notes fits nicely into a horizontal banner image.
 
 
 
 
 ### (1,1) The Janko Keyboard
 
-![](isomorphic/h/isomorphic11.png)
+![](isomorphic/h/isomorphic11.webp)
 
 [Invented in 1882 by Paul von Jankó](http://improvise.free.fr/janko.htm), 
 this keyboard layout is similar to a 1-dimensional isomorphic keyboard,
@@ -125,12 +160,18 @@ This video calls the layout the "Bosanquet-Wilson Layout", though it has the sam
 <!--Another 3d printed version https://hackaday.com/2019/07/13/isomorphic-keyboards-with-cv-out/-->
 
 
+
+
 ### (2,1) Chromatic Button Accordion 
 
-Many accordions have a piano-style keyboard for playing melodies.
-But another common layout for accordions is a hexagonal grid of keys in this layout.
-These are called chromatic button accordions, 
-and there are two variants called called type B and type C, which are mirror images of each other.
+
+![](isomorphic/h/isomorphic21.webp)
+
+There are many, *many* different designs for the layout of keys on an accordion, but this is a fairly common one.
+
+On *chromatic button accordions*, the melody side of the instrument has keys laid out in an (2,1)isomorphic hexagonal grid, 
+with an interval of 2, 1, or 3 semitones between adjacent keys. 
+There are two variants called called type B and type C, which are mirror images of each other.
 The bass-side of such accordions may or may not
 have  a similarly isomorphic key layout.
 <!--but sometimes it has a more complicated layout called the Stradella system.-->
@@ -141,6 +182,8 @@ Examples of people playing such accordions:
 [3](https://www.youtube.com/watch?v=SzA8O-aTOTQ),
 [4](https://www.youtube.com/watch?v=9XiilKWrWGQ),
 [5](https://www.youtube.com/watch?v=ZUGKB2RdzjU),
+
+[My toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (2,1), labelled "Isomorphic - CB Accordion".
 
 <!--
 Stradella on other side is some complicated system where most of the notes are chords.
@@ -159,13 +202,12 @@ https://www.youtube.com/watch?v=krtviJeloFs
 
 ### (3,1) Qwerty Chromatic Columns
 
-
-
 I don't know if there are any actual instruments with these layouts,
 but [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (3,1), labelled "Isomorphic - Columns".
 
-On a Qwerty keyboard, there are 4 rows, 
-and so (if rotated properly) these layouts allow an octave to be covered by three consecutive columns.
+I call it such because 
+on a Qwerty keyboard, there are 4 rows, 
+and so (if rotated properly) a (3,1) layout allows an octave to be covered by three consecutive columns of keys.
 <!--(The (1,4) layout would need to be rotated so that the 4-semitone shift happens horizontally.)-->
 <!---
 Looks like this app has a (3,1) layout
@@ -180,7 +222,7 @@ No idea how the patent office approved such a stupendously vague and conceptuall
 *Edit: Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).*
 
 
-#### Other (n,1) layouts.
+### Other (n,1) layouts.
 
 The (4,1) layout can similarly be used to fit an octave into three columns and four rows.
 
