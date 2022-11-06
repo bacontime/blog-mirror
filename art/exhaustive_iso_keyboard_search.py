@@ -164,3 +164,89 @@ validModuloPairs = {
 }
 
 # %%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#%% REDO 2022 11 05
+# I am not satisfied with the above results.
+
+# Firstly enumerate all the alpha beta pairs
+# Rule 1: Alpha in [0,11]
+# Rule 2: Beta in [0, A]
+# Rule 3: Alpha plus Beta sums to no more than 12.
+
+preliminarySet = set()
+
+for A in range(12+1):
+    for B in range(A+1):
+        if A+B <= 12:
+            mytuple = (A,B)
+            preliminarySet.add(mytuple)
+            print(mytuple)
+
+print(len(preliminarySet))
+
+
+#%% Now restrict to only those which cover the octave.
+# This means that they must be coprime under mod 12 or contain 1.
+def enumeratepairs(a,b):
+    pairset = set()
+    for i in range(12):
+        for j in range(12):
+            reachableValue = (i*a+j*b) % 12
+            pairset.add(reachableValue)
+    return pairset
+
+incompletePairs = set()
+for a,b in preliminarySet:
+    reachableSet = enumeratepairs(a,b)
+    if len(reachableSet) != 12:
+        #print((a,b),  len(reachableSet))
+        incompletePairs.add((a,b))
+    else:
+        print((a,b))
+
+specialCases = {(5,0),(7,0),(11,0),(5,5)}
+
+print(len(incompletePairs), "distinct pairs that don't cover all 12 notes")
+print("4 special cases")
+fullOctaveSet = preliminarySet-incompletePairs-specialCases
+print(len(fullOctaveSet), "distinct pairs that DO cover all 12 notes")
+
+#%% Now, among these 24 pairs, many are equivalent under the modulo 12 symmetrry
+# Eg 54 53 and 43 are the same.
+
+ringDict = dict() # Keep track of which rings map to which pairs
+
+def calcRingAroundC(A,B):
+    ring = [A,B, A+B, -A-B, -A, -B]
+    ringMod12 = [x % 12 for x in ring]
+    ringTuple = tuple(sorted(ringMod12))
+    print(ringTuple)
+    if ringTuple in ringDict:
+        ringDict[ringTuple].append((A,B))
+    else:
+        ringDict[ringTuple] = [(A,B)]
+
+for A,B in fullOctaveSet:
+    calcRingAroundC(A,B)
+
+ringDict
+
+
+
+
+
+# %%
