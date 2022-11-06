@@ -420,7 +420,7 @@ http://www.quadibloc.com/other/mus03.htm
 
 
 
-### Dopplegangers: (5,3) and (5,4)
+#### Dopplegangers: (5,3) and (5,4)
 
 
 ![A (5,3) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/v/isomorphic53.webp "A (5,3) isomorphic note layout, similar to the Euler's Tonnetz.")
@@ -439,7 +439,7 @@ http://www.quadibloc.com/other/mus03.htm
 
 
 
-#$# (7,5) Drunken Circle of Fifths
+## (7,5) Drunken Circle of Fifths
 
 ![A (7,5) isomorphic note layout.](isomorphic/v/isomorphic75.webp "A (5,4) isomorphic note layout.")
 
