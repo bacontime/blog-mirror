@@ -16,6 +16,8 @@ which means that the keys can be thought of as a hexagonal grid.
 To that end, this page enumerates the ways to place musical notes into a hexagonal grid,
 such that the resulting grid is *isomorphic*, which in this context means that the musical interval between adjacent keys is consistent across the grid.
 
+After taking into account a few constraints and equivalencies, then there are 10 distinct types isomorphic hexagonal musical keyboards.
+
 Don't worry; 
 This isn't just a list of mathematical vectors.
 I've also included plenty of links to videos of people playing strange instruments which illustrate these layouts.
@@ -92,15 +94,17 @@ Ignoring rotations, reflections, and translations,
 and limiting the shift between adjacent notes to no more than an octave,
 we only need to consider the 49 cases where 
 α is between 0 and 12 inclusive, β is between 0 and α inclusive,
-and α+β is no more than 12.[^detailsaboutmorerestrictiveset]
-
-[^detailsaboutmorerestrictiveset]: If a further restriction is imposed to treat layouts as equivalent if individual notes are shifted by an octave - treating the space of notes as the integers modulo 12 - then there are 19 distinct layouts, 10 of which cover all 12 notes. However, this set would treat sets like {(4,3), (5,4), (5,3)} as equivalent note layouts, which feels silly to me.
-
+and α+β is no more than 12.
 
 Of these 49 possibilities, only 24 cover all 12 notes.
 The other 25 possibilities are missing notes.
 For example, you could make a keyboard with (0,0) semitone shifts,
 but thats only useful if you [only want to play E](https://www.youtube.com/watch?v=BFetTcrVWII).
+
+If a further restriction is imposed to treat layouts as equivalent if individual notes are shifted by an octave - treating the space of notes as the integers modulo 12 - then there are 19 distinct layouts, only 10 of which cover all 12 notes. 
+Such sets of "doppelganger" layouts would feel very different to play, but I've grouped them together to keep this list manageable.
+
+
 
 
 <!--
@@ -145,7 +149,7 @@ Click the above box to open a summarized list of the set of 24 "full" isomorphic
 
 -->
 
-Below, I've highlighted the ones that are musically notable, and created visualizations of their 
+Below, I've highlighted the layouts that are musically notable, and created visualizations of their 
 note grids.
 In each image, the opaque circles represent the notes from a single octave (notes show up multiple times in each grid). The translucent circles are the notes from other octaves. 
 In some cases, the grids are rotated so that an octave's worth of notes fits nicely into a horizontal banner image.
@@ -173,7 +177,10 @@ This video calls the layout the "Bosanquet-Wilson Layout", though it has the sam
 
 <!--Another 3d printed version https://hackaday.com/2019/07/13/isomorphic-keyboards-with-cv-out/-->
 
+**Doppelganger:** (10,1)
 
+
+---
 
 
 ### (2,1) Chromatic Button Accordion 
@@ -214,6 +221,13 @@ https://www.youtube.com/watch?v=krtviJeloFs
 -->
 
 
+**Doppelgangers:** (9,1), (9,2)
+
+
+---
+
+
+
 ### (3,1) Qwerty Chromatic Columns
 
 ![A (3,1) isomorphic note layout.](isomorphic/h/isomorphic31.webp "A (3,1) isomorphic note layout.")
@@ -241,8 +255,19 @@ Are all patents this pointlessly wordy?
 
 <!--See also the (3,2) layout mentioned below-->
 
+**Doppelgangers:** (8,1), (8,3)
 
-### Other (n,1) layouts.
+
+---
+
+
+
+
+
+
+
+
+### (11,1) Stacked Keyboards
 
 
 ![An (11,1) isomorphic note layout.](isomorphic/h/isomorphic111.webp "An (11,1) isomorphic note layout.")
@@ -255,16 +280,28 @@ A bit unwieldy, but not entirely strange for an instrument to have.[^octaveshift
 
 [^octaveshiftkeyboard]: I could have sworn that I've seen actual musical instruments with something like an (11,1) layout, with multiple standard piano keyboards literally stacked atop each other. But I am unable to find examples of such a thing, so perhaps I just imagined it.
 
-<!--I was under the impression that this was the purpose of a pipe organ's multiple keyboards, but I was mistaken about that.-->
+**Doppelgangers:** (1,0)
 
 At the other extreme, there's the (0,1) keyboard, which would essentially just be a 1-dimensional keyboard with oddly shaped keys. 
+
+---
+
+
+
+<!--
+### Other (n,1) layouts.
+
+
+I was under the impression that this was the purpose of a pipe organ's multiple keyboards, but I was mistaken about that.
+
+
 
 The (4,1) layout could, like the (3,1) layout, be used to fit an octave into a three column by four row space, though the columns would be slanted differently. 
 Likewise, the (5,1) and (6,1) layouts might be handy if one wanted to cram an octave into a 2 by 6 space. 
 
 (7,1), (8,1), (9,1), and (10,1) are similarly stacked keyboards, though ones for which no immediate use-case comes to my mind. 
 
-<!--I haven't played around with them, however, so they might have nice properties.-->
+I haven't played around with them, however, so they might have nice properties.-->
 
 
 
@@ -281,6 +318,11 @@ I haven't found any other examples of this note layout in use.
 <!--
 http://www.altkeyboards.com/instruments/isomorphic-keyboards
 -->
+
+**Doppelgangers:** (7,2), (7,3)
+
+
+---
 
 
 ### (5,2) Wicki-Hayden
@@ -333,6 +375,15 @@ Examples of play:
 [My toy qwerty piano web app](https://www.rmwinslow.com/tones/) has a (5,2) layout, labelled "Isomorphic - Wicki".
 
 
+---
+
+
+
+
+
+
+
+
 
 
 ### (4,3) Euler's Tonnetz
@@ -379,10 +430,16 @@ http://www.quadibloc.com/other/mus03.htm
 
 
 
+---
 
 
 
-## (7,5) Drunken Circle of Fifths
+
+
+
+
+
+#$# (7,5) Drunken Circle of Fifths
 
 ![A (7,5) isomorphic note layout.](isomorphic/v/isomorphic75.webp "A (5,4) isomorphic note layout.")
 
@@ -396,36 +453,12 @@ I don't know of any actual instruments with this layout.
 
 
 
-<!--
- (1, 0), trivial
- (1, 1), Janko
- (2, 1), Chromatic Button Accordian
- (3, 1), Qwerty columns
- (3, 2), Park
- (4, 1), Qwerty columns
- (4, 3), Tonnetz
- (5, 1), meh
- (5, 2), Wicki Hayden
- (5, 3), 
- (5, 4),
- (6, 1), meh
- (6, 5),
- (7, 1), meh
- (7, 2), 
- (7, 3),
- (7, 4), 
- (7, 5),
- (8, 1), meh
- (8, 3), 
- (9, 1), meh
- (9, 2),
- (10, 1),
- (11, 1) octave offset
- }
--->
 
 ---
 
+
+
+<!--
 ### Other Possibilities not described above.
 
 (1,0) would be completely equivalent to a 1-d keyboard. 
@@ -433,7 +466,7 @@ I don't know of any actual instruments with this layout.
 
 Here's the full set of pairs which give distinct layouts:
 
-<!--
+
 ```
 (1, 0), (1, 1), 
 (2, 1), 
@@ -447,7 +480,7 @@ Here's the full set of pairs which give distinct layouts:
 (10, 1),
 (11, 1) 
 ```
--->
+
 ```
 (1, 0), 
 (1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1), (11, 1) 
@@ -456,6 +489,7 @@ Here's the full set of pairs which give distinct layouts:
 (5, 4), (7, 4),
 (6, 5), (7, 5),
 ```
+-->
 
 
 <!--EFG = 457 are nice adjacent intervals. also eflat=3-->
