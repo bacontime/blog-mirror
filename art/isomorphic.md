@@ -70,7 +70,7 @@ Just take a piano and make all the keys the same shape.
 
 At least one firm has tried to manufacture [a keyboard in this style](https://www.youtube.com/watch?v=hqbOqGRCAt0).
 
-I've also found [this video of a **Ten**-tone equal temperament isomorphic keyboard](https://www.youtube.com/watch?v=LxeGZLd49Vs).
+There's also [this video of a **Ten**-tone equal temperament isomorphic keyboard](https://www.youtube.com/watch?v=LxeGZLd49Vs).
 One commenter describes its sound as perfect for a "klingon opera".
 
 
@@ -94,7 +94,7 @@ we only need to consider the 49 cases where
 α is between 0 and 12 inclusive, β is between 0 and α inclusive,
 and α+β is no more than 12.[^detailsaboutmorerestrictiveset]
 
-[^detailsaboutmorerestrictiveset]: If a further restriction is imposed to treat layouts as equivalent if individual notes are shifted by an octave - treating the space of notes as the integers modulo 12 - then there are 19 distinct layouts, 10 of which cover all 12 notes. However, this set would treat sets like {(4,3), (5,4), (4,3)} as equivalent note layouts, which feels silly to me.
+[^detailsaboutmorerestrictiveset]: If a further restriction is imposed to treat layouts as equivalent if individual notes are shifted by an octave - treating the space of notes as the integers modulo 12 - then there are 19 distinct layouts, 10 of which cover all 12 notes. However, this set would treat sets like {(4,3), (5,4), (5,3)} as equivalent note layouts, which feels silly to me.
 
 
 Of these 49 possibilities, only 24 cover all 12 notes.
@@ -323,7 +323,7 @@ Examples of play:
 
 ### (4,3) Euler's Tonnetz
 
-![A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/r/isomorphic43.webp "A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.")
+![A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/v/isomorphic43.webp "A (4,3) isomorphic note layout, similar to the Euler's Tonnetz.")
 
 The Tonnetz, or Tone Network is a hexagonal grid of notes 
 where 
@@ -335,6 +335,7 @@ The modernized version with 12-tone equal temperament is also sometimes called a
 There have been several instruments built using this keyboard layout,
 including the [Harmonetta, which is like a big harmonica with a keyboard attached](https://www.youtube.com/watch?v=UyZ1beUJ4zw),
 and [various](https://www.youtube.com/watch?v=yK88yT7U39U) [electronic](https://www.youtube.com/watch?v=C9-OSCl7kOc) [keyboard](https://steve-boyer-design.com/trichord-2001/) [projects](https://www.youtube.com/watch?v=AklKy2NDpqs&t=15s).
+
 
 
 <!--
@@ -354,9 +355,29 @@ http://www.quadibloc.com/other/mus03.htm
 
 
 
+### Dopplegangers: (5,3) and (5,4)
+
+
+![A (5,3) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/v/isomorphic53.webp "A (5,3) isomorphic note layout, similar to the Euler's Tonnetz.")
+
+
+![A (5,4) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/v/isomorphic54.webp "A (5,4) isomorphic note layout, similar to the Euler's Tonnetz.")
 
 
 
+
+
+
+## (7,5) Drunken Circle of Fifths
+
+![A (7,5) isomorphic note layout.](isomorphic/v/isomorphic75.webp "A (5,4) isomorphic note layout.")
+
+This layout is interesting. 7+5=12, and as the result, one axis shifts the notes by an entire octave. 
+At the same time, the notes within an octave meander back and forth, 
+moving through the circle of fifths in a zigzag pattern.
+
+I don't know of any actual instruments with this layout.
+<!--So some accordions do have chord buttons, which are arranged according the the circle of fifths.-->
 
 
 
