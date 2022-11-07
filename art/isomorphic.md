@@ -283,11 +283,11 @@ Are all patents this pointlessly wordy?
 
 ![A (5,1) isomorphic note layout.](isomorphic/r/isomorphic51.webp "A (5,1) isomorphic note layout.")
 
-**Doppelgangers:** (6,1), (5,4)
-
+<details markdown="block">
+<summary>Doppelgangers: (6,1), (5,4)</summary>
 ![A (6,1) isomorphic note layout.](isomorphic/r/isomorphic61.webp "A (6,1) isomorphic note layout.")
 ![A (6,5) isomorphic note layout.](isomorphic/v/isomorphic65.webp "A (6,5) isomorphic note layout.")
-
+</details>
 
 ---
 
