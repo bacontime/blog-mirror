@@ -413,14 +413,11 @@ http://www.quadibloc.com/other/mus03.htm
 -->
 
 
-
-#### Dopplegangers: (5,3) and (5,4)
-
-
+<details markdown="block">
+<summary><h4> Dopplegangers: (5,3) and (5,4) </h4></summary>
 ![A (5,3) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/v/isomorphic53.webp "A (5,3) isomorphic note layout, similar to the Euler's Tonnetz.")
-
-
 ![A (5,4) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/v/isomorphic54.webp "A (5,4) isomorphic note layout, similar to the Euler's Tonnetz.")
+</details>
 
 
 
