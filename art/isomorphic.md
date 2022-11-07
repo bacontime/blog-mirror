@@ -258,6 +258,23 @@ Are all patents this pointlessly wordy?
 **Doppelgangers:** (8,1), (8,3)
 
 
+
+---
+
+
+### (4,1)
+
+
+![A (4,1) isomorphic note layout.](isomorphic/r/isomorphic41.webp "A (4,1) isomorphic note layout.")
+
+**Doppelgangers:** (7,1), (7,4)
+
+<!--![A (6,1) isomorphic note layout.](isomorphic/r/isomorphic61.webp "A (6,1) isomorphic note layout.")
+![A (6,5) isomorphic note layout.](isomorphic/v/isomorphic65.webp "A (6,5) isomorphic note layout.")-->
+
+
+
+
 ---
 
 
@@ -446,7 +463,7 @@ http://www.quadibloc.com/other/mus03.htm
 
 
 
-## (7,5) Drunken Circle of Fifths
+### (7,5) Drunken Circle of Fifths
 
 ![A (7,5) isomorphic note layout.](isomorphic/v/isomorphic75.webp "A (5,4) isomorphic note layout.")
 
