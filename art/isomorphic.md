@@ -16,12 +16,11 @@ which means that the keys can be thought of as a hexagonal grid.
 To that end, this page enumerates the ways to place musical notes into a hexagonal grid,
 such that the resulting grid is *isomorphic*, which in this context means that the musical interval between adjacent keys is consistent across the grid.
 
-After taking into account a few constraints and equivalencies, then there are 10 distinct types isomorphic hexagonal musical keyboards.
+After taking into account a few constraints and equivalencies, there are only 10 distinct types of isomorphic hexagonal musical keyboards. Where possible, I've included examples of instruments which use each layout.
 
-Don't worry; 
+<!--Don't worry; 
 This isn't just a list of mathematical vectors.
-I've also included plenty of links to videos of people playing strange instruments which illustrate these layouts.
-
+I've also included plenty of links to videos of people playing strange instruments which illustrate these layouts.-->
 
 
 <!--
@@ -67,11 +66,10 @@ Songs, chords, and intervals have the same shape, even when the key is changed.
 
 ## Linear Isomorphic Keyboard
 
-Making a 1-dimensional isomorphic keyboard is simple.
+Making a one-dimensional isomorphic keyboard is simple.
 Just take a piano and make all the keys the same shape.
 
 At least one firm has tried to manufacture [a keyboard in this style](https://www.youtube.com/watch?v=hqbOqGRCAt0).
-
 There's also [this video of a **Ten**-tone equal temperament isomorphic keyboard](https://www.youtube.com/watch?v=LxeGZLd49Vs).
 One commenter describes its sound as perfect for a "klingon opera".
 
@@ -81,8 +79,12 @@ One commenter describes its sound as perfect for a "klingon opera".
 
 ## Hexagonal Isomorphic Keyboards.
 
-There are a number of ways to arrange notes on a hexagonal grid in an isomorphic way.
+Moving to a two-dimensional keyboard greatly increases the number of possibilities.
+At first, it may seem like there are two many potential layouts to count, 
+but by imposing a few constraints, 
+we can narrow things down to a reasonable small number of distint layouts.
 
+First, let's restrict to our attentions to a hexagonal grid, as found on a computer keyboard.
 Each possible isomorphic layout can be specified by a pair (α,β)
 which describes the shift in semitones when moving in each direction.
 
@@ -102,60 +104,28 @@ For example, you could make a keyboard with (0,0) semitone shifts,
 but thats only useful if you [only want to play E](https://www.youtube.com/watch?v=BFetTcrVWII).
 
 If a further restriction is imposed to treat layouts as equivalent if individual notes are shifted by an octave - treating the space of notes as the integers modulo 12 - then there are 19 distinct layouts, only 10 of which cover all 12 notes. 
+These 10 groups of layouts are illustrated below. 
+I've used the term "doppelganger" to refer to keyboard layouts which are equivalent only when octave shifts are ignored.
 Such sets of "doppelganger" layouts would feel very different to play, but I've grouped them together to keep this list manageable.
 
 
 
 
 <!--
-{(0, 0, 1, 1, 11, 11): [(11, 1), (1, 0)],
- (1, 2, 3, 9, 10, 11): [(2, 1), (9, 2), (9, 1)],
- (3, 4, 5, 7, 8, 9): [(4, 3), (5, 4), (5, 3)],
- (1, 3, 4, 8, 9, 11): [(3, 1), (8, 3), (8, 1)],
- (1, 5, 6, 6, 7, 11): [(6, 1), (5, 1), (6, 5)],
- (2, 3, 5, 7, 9, 10): [(7, 3), (3, 2), (7, 2)],
- (1, 4, 5, 7, 8, 11): [(4, 1), (7, 4), (7, 1)],
- (2, 5, 5, 7, 7, 10): [(5, 2)],
- (1, 1, 2, 10, 11, 11): [(1, 1), (10, 1)],
- (0, 0, 5, 5, 7, 7): [(7, 5)]}
-
-
-
-
-validOctaveRangePairs = {
- (1, 0), (1, 1), 
- (2, 1), 
- (3, 1), (3, 2),
- (4, 1),
- (4, 3),
- (5, 1), (5, 2), (5, 3), (5, 4),
- (6, 1), (6, 5),
- (7, 1), (7, 2), (7, 3),
- (7, 4), (7, 5),
- (8, 1), (8, 3), 
- (9, 1), (9, 2),
- (10, 1),
- (11, 1)}
-
 TODO: Another page with the details.
 The pair either needs to have a 1, or the pair needs to be coprime modulo 12.
-
 TODO: Maybe put a full summary of the enumeration in here?
-
-Make a note about how some of the images below are rotated.
-
 Click the above box to open a summarized list of the set of 24 "full" isomorphic keyboards.
-
-
--->
 
 Below, I've highlighted the layouts that are musically notable, and created visualizations of their 
 note grids.
+-->
+
 In each image, the opaque circles represent the notes from a single octave (notes show up multiple times in each grid). The translucent circles are the notes from other octaves. 
 In some cases, the grids are rotated so that an octave's worth of notes fits nicely into a horizontal banner image.
 
 
-
+---
 
 ### (1,1) The Janko Keyboard
 
