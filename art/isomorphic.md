@@ -305,6 +305,10 @@ I haven't played around with them, however, so they might have nice properties.-
 ![A (3,2) isomorphic note layout.](isomorphic/r/isomorphic32.webp "A (3,2) isomorphic note layout.")
 
 Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Park" layout, and [demonstrate it here](https://shiverware.com/musixpro/park/chords.html). 
+
+
+
+
 I haven't found any other examples of this note layout in use.
 
 <!--[Here is a video of a song being played using this layout](https://www.youtube.com/watch?v=3ZDyIkeIgU0).-->
@@ -414,7 +418,7 @@ http://www.quadibloc.com/other/mus03.htm
 
 
 <details markdown="block">
-<summary><h4> Dopplegangers: (5,3) and (5,4) </h4></summary>
+<summary>Dopplegangers: (5,3) and (5,4)</summary>
 ![A (5,3) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/v/isomorphic53.webp "A (5,3) isomorphic note layout, similar to the Euler's Tonnetz.")
 ![A (5,4) isomorphic note layout, similar to the Euler's Tonnetz.](isomorphic/v/isomorphic54.webp "A (5,4) isomorphic note layout, similar to the Euler's Tonnetz.")
 </details>
