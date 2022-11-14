@@ -244,42 +244,42 @@ Here are the moons bigger than Pluto, and which would at the very least be class
 </tr>
 <tr>
 <td class="catsym">Io<br>
-<span class="moonsym">I</span>
+<span class="moonsym">♃I</span>
 <br><small>(♃-I)</small></td>
 <td>Least water of anywhere in the solar system. Sulfur atmosphere. Hundreds of volcanoes. Sulfur crust. Spews out plumes of sulfurous crud all the way into space. The crud is then accelerated by Jupiter's magnetic field to form the deadly radiation torus.</td>
 <td>Lusted after by Jupiter, turned into a cow, tormented by a gadfly. Eventually got turned back to normal and married a king.</td>
 </tr>
 <tr>
 <td class="catsym">Europa<br>
-<span class="moonsym">E</span>
+<span class="moonsym">♃II</span>
 <small><br>(♃-II)</small></td>
 <td>Smooth surface of cracked water ice, dotted with "chaos terrains". Bombarded by deadly radiation. Thin oxygen atmosphere (created by the radiation). Oceans under kilometers of ice. Promising spot for extraterrestrial life.</td>
 <td>This time, Jupiter turned his own dang self into a bovine, rode off with this lovely lady, and wooed her with the gifts of: a pet dog, a homing javelin, and a giant fighting robot.</td>
 </tr>
 <tr>
 <td class="catsym"><small>Ganymede</small><br>
-<span class="moonsym">G</span>
+<span class="moonsym">♃III</span>
 <small><br>(♃-III)</small></td>
 <td>Biggest moon. Has its own magnetic field. More water than earth, held in a subterranean ocean 100km deep (or maybe multiple layered oceans). *Very* thin oxygen atmosphere.</td>
 <td>Really pretty guy. Abducted by Jupiter in bird form. Made immortal to serve as Jupiter's personal cupbearer.</td>
 </tr>
 <tr>
 <td class="catsym">Callisto<br>
-<span class="moonsym">K</span>
+<span class="moonsym">♃IV</span>
 <small><br>(♃-IV)</small></td>
 <td>Lots of craters. Outside of the deadly radiation donut, so might be the best place near Jupiter to set up a human base. (Also, might have subterranean oceans. That's apparently pretty common in space.)</td>
 <td>A nymph and follower of Diana. Jupiter raped her, then Artemis kicked her out because she wasn't a virgin anymore. A while later, Juno turned her into a bear, and then her own son hunted her down in bear form. Yeesh. </td>
 </tr>
 <tr>
 <td class="catsym">Titan<br>
-<span class="moonsym">T</span>
+<span class="moonsym">♄VI</span>
 <small><br>(♄-VI)</small></td>
 <td>2nd biggest moon. Thicker atmosphere than Earth's. Very hazy. Only place besides Earth with surface liquid (it's methane though), and thus the only place besides Earth to have whirlpools. Also might have an ammonia-water ocean underground, which erupts from cryovolcanoes. Soft crunchy surface. Permanent polar hurricances.<!--Victor of a clash between moons.--></td>
 <td>Precursors to the Olympian gods. Not any specific titan, though. The other moons of Saturn are named after specific titans.</td>
 </tr>
 <tr>
 <td class="catsym">Triton<br>
-<span class="moonsym">R</span>
+<span class="moonsym">♆I</span>
 <br><small>(♆-I)</small></td>
 <td>Backwards, tilted orbit. Possibly a captured dwarf planet. Covered in nitrogen ice, similar composition to Pluto. Cryovolcanoes stain the surface with organic compounds. Thin nitrogen and methane atmosphere.</td>
 <td>Son of Neptune. Merman with a magic conch.</td>
@@ -303,63 +303,63 @@ Well, Enceladus is teeny tiny, but it's round and interesting enough that it see
 </tr></thead>
 <tr>
 <td class="catsym">Enceladus<br>
-<span class="moonsym">e</span>
+<span class="moonsym">♄II</span>
 <br><small>(♄-II)</small></td>
 <td>Clean, reflective ball of ice.  Relatively hot tiger stripes detected under the south pole. The south pole shoots out water jets which turn into a blue icy ring around saturn.</td>
 <td>Giant son of Gaia, and opponent of Athena.</td>
 </tr>
 <tr>
 <td class="catsym">Tethys<br>
-<span class="moonsym">h</span>
+<span class="moonsym">♄III</span>
 <br><small>(♄-III)</small></td>
 <td>Somewhat bigger and slightly less shiny than Enceladus. Almost entirely made of ice. Faintly bluish stripe.</td>
 <td>Titan mother of thousands of minor ocean and river gods.</td>
 </tr>
 <tr>
 <td class="catsym">Dione<br>
-<span class="moonsym">d</span>
+<span class="moonsym">♄IV</span>
 <br><small>(♄-IV)</small></td>
 <td>Networks of icy cliffs. <!--Possible subsurface liquid oceans? Hard to find mention of that outside wikipedia though?--> Resonant with Enceladus and its features might be more "mature" versions of that little moon's. Also, constantly bombarded with icey powder from Enceladus.</td>
 <td>Titan. Mother of Aphrodite. (sometimes, when she isn't birthed from seafoam)</td>
 </tr>
 <tr>
 <td class="catsym">Rhea<br>
-<span class="moonsym">r</span><br>
+<span class="moonsym">♄V</span><br>
 <small>(♄-V)</small></td>
 <td>Described by NASA as a "dirty snowball". Has it's own tiny little rings. More cratered than the other ice moons of saturn.</td>
 <td>Titan. Wife of Saturn who rescued baby Jupiter from being eaten.</td>
 </tr>
 <tr>
 <td class="catsym">Iapetus<br>
-<span class="moonsym">i</span>
+<span class="moonsym">♄VIII</span>
 <br><small>(♄-VIII)</small></td>
 <td>Tilted orbit around saturn. It's the only one of Saturn's moons with a good view of the rings. Walnut shape from huge equitorial ridge. One bright side and one dark side. </td>
 <td>Titan, brother of Saturn. Father of Atlas and Prometheus. Sometimes later identified with one of Noah's sons?</td>
 </tr>
 <tr>
 <td class="catsym">Ariel<br>
-<span class="moonsym">a</span>
+<span class="moonsym">♅I</span>
 <br><small>(♅-I)</small></td>
 <td>Relatively bright and porous surface.</td>
 <td>Sylph with power over the winds, bound to serve the magician Prospero.</td>
 </tr>
 <tr>
 <td class="catsym">Umbriel<br>
-<span class="moonsym">u</span>
+<span class="moonsym">♅II</span>
 <br><small>(♅-II)</small></td>
 <td>Darkest of the moons of Uranus</td>
 <td>Dusky melancholy gnome.</td>
 </tr>
 <tr>
 <td class="catsym">Titania<br>
-<span class="moonsym">t</span>
+<span class="moonsym">♅III</span>
 <br><small>(♅-III)</small></td>
 <td>Enormous frost-lined canyons.</td>
 <td>Queen of the Fey</td>
 </tr>
 <tr>
 <td class="catsym">Oberon<br>
-<span class="moonsym">o</span>
+<span class="moonsym">♅IV</span>
 <br><small>(♅-IV)</small></td>
 <td>Scarred and cratered surface.</td>
 <td>King of the Fey</td>
@@ -386,21 +386,21 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 </tr></thead>
 <tr>
 <td class="catsym">Phobos<br>
-<span class="moonsym">p</span>
+<span class="moonsym">♂I</span>
 <br><small>(♂-I)</small></td>
 <td>Orbits close enough that it's being slowly pulled apart. Will likely crash into Mars or disintegrate into rings in about 40 millions years. One of the least reflective objects in the solar system.</td>
 <td>Son of Mars and Venus. Personification of fear. Twin brother to Deimos.</td>
 </tr>
 <tr>
 <td class="catsym">Deimos<br>
-<span class="moonsym">q</span>
+<span class="moonsym">♂II</span>
 <br><small>(♂-II)</small></td>
 <td>Small enough that if you were standing on its surface, you could achieve escape velocity by jumping.</td>
 <td>Son of Mars and Venus. Personification of the dread that drives men mad before a battle.</td>
 </tr>
 <tr>
 <td class="catsym">Mimas<br>
-<span class="moonsym">m</span>
+<span class="moonsym">♄I</span>
 <br><small>(♄-I)</small></td>
 <td>Looks like the Death Star from Star Wars. (Just a coincidence.) The temperature map supposedly looks like Pac-Man.</td>
 <td>Giant son of Gaia. Divine punching bag.</td>
@@ -414,18 +414,18 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 </tr>
 <tr>
 <td class="catsym">Miranda<br>
-<span class="moonsym">n</span>
+<span class="moonsym">♅I</span>
 <br><small>(♅-I)</small></td>
 <td>Lumpy. Orbits weirdly close to Uranus.</td>
 <td>The daughter of the magician Prospero.</td>
 </tr>
-<!--<tr>
+<tr>
 <td class="catsym">Vanth<br>
-<span class="moonsym">v</span>
-<br><small>(<span style="font-family: moonsymbols;">O</span>-I)</small></td>
+<span class="moonsym">🝿I</span>
+<br><small>(🝿-I)</small></td>
 <td>Tidally locked, relatively big compared to its planet, similar to the Pluto+Charon system.</td>
-<td>A winged psychopomp associated often accompanied by Charun, the Estruscan version of Charon. The name was suggested by an internet commenter to further the parallels between Pluto and Orcus</td>
-</tr>-->
+<td>A winged psychopomp often accompanied by Charun, the Estruscan version of Charon. The name was suggested by an internet commenter to further the parallels between Pluto and Orcus</td>
+</tr>
 </table>
 
 
@@ -555,183 +555,12 @@ Below, I've listed the first batch discovered, as well as some notable objects d
 <tr><td class="catsym">99942 Apophis</td><td> A primordial serpent who sought to devour the sun. <br> When this asteroid was first discovered, measurements suggested there was a small chance it would impact the Earth. That's since been ruled out, but it will pass by incredibly close in 2029.</td></tr>
 <tr><td class="catsym">101955 Bennu</td><td> Named for a mythological bird associated with the creation of the world. <br> An Apollo-class object with an unstable orbit. It has a low chance of crashing into the Earth next century, but is more likely to spiral into the sun or crash into Venus. As of May 2021, a spacecraft has collected a sample and is bringing it back to Earth.</td></tr>
 </table><tr><td class="catsym">307261 The Nameless Planet</td><td>It might be a dwarf planet, but its discoverers forgot to name it. So the official designation is still "307261 2002 MS4". There are plenty of unanmed objects in the solar system, but this is easily the largest.</td></tr>
-</table>
 </table><tr><td class="catsym">486958 Arrokoth</td><td>Peanut shaped object out past Pluto. It's the most distant object yet to have been visited by a spacecraft. The name means "cloud".</td></tr>
 </table>
 
 
 
 
-
-<!--
-<span class="catsym">1 Ceres ⚳</span>
-: God of grain, harvest, motherhood. Biggest Asteroid. First discovered. Now considered a dwarf Planet, listed above.
-
-<span class="catsym">2 Pallas ⚴</span>
-: Athena and her spear. A lot of other mythological characters are named Pallas as well. 
-: The asteroid is is the third most massive, as dark as asphalt, and on a highly tilted orbit.
-
-<span class="catsym">3 Juno ⚵</span>
-: God of marriage and childbirth. Sometimes associated with the moon.
-
-<span class="catsym">4 Vesta ⚶</span>
-: God of hearth and home. 
-: This asteroid is the second most massive, and is a surviving rocky protoplanet, like the frozen embryo of a terrestrial world. About a billion years ago, it suffered from two giant impacts. The splash from one of these impacts gave Vesta a mountain to rival Olympus Mons. And the debris from the impact was scattered throughout the solar system (5% of meteorites that hit Earth are chunks of Vesta).
-
-<span class="catsym">5 Astraea <span class="catPUA"></span>⯙</span>
-: God of justice, innocence, purity, and precision.
-
-<span class="catsym">6 Hebe <span class="catPUA"></span></span>
-: God of youth and forgiveness, Cupbearer to the gods.
-
-<span class="catsym">7 Iris <span class="catPUA"></span></span>
-: God of rainbows. Messenger of the gods.
-
-<span class="catsym">8 Flora <span class="catPUA"></span></span>
-: God of flowers and springtime.
-
-<span class="catsym">9 Metis <span class="catPUA"></span></span>
-: Titan of wisdom and skilled council. Mother of Athena.
-
-<span class="catsym">10 Hygiea <span class="catPUA"></span>⯚</span>
-: God of cleanliness, sanitation, and preventative medicine. Daughter of Asclepius, god of medicine. I think the official unicode glyph is supposed to be a rod of Asclepius (one snake), but looks more like a caduceus (two snakes, Hermes) to me. 
-: 4th largest asteroid.
-
-<span class="catsym">11 Parthenope <span class="catPUA"></span></span>
-: Siren Either failed to lure Odysseus or was turned into a city by Jupiter.
-
-<span class="catsym">12 Victoria <span class="catPUA"></span></span>
-: God of victory.
-
-<span class="catsym">13 Egeria <span class="catPUA"></span></span>
-: Nymph who gave laws and to early Rome. 
-
-<span class="catsym">14 Irene <span class="catPUA"></span></span>
-: Personification of peace. Sister to Dike (Justice) and Eunomia (Order). Daughter of Themis
-
-<span class="catsym">15 Eunomia <span class="catPUA"></span></span>
-: Personification of Order. God of law, legistlation, and pastures.
-
-<span class="catsym">16 Psyche <span class="catPUA"></span></span>
-: God of the soul. A beautiful mortal who married Cupid and was tormented by his mother Venus. The symbol is supposed to be a butterfly's wing. 
-: The asteroid is thought to be the exposed core of a shattered protoplanet, and there's a plan to visit it in 2026. (Mission tagline: "Journey to a Metal World")
-
-<span class="catsym">17 Thetis <span class="catPUA"></span></span>
-: Sea nymph, mother of Achilles
-
-<span class="catsym">18 Melpomene <span class="catPUA"></span></span>
-: Muse of the Chorus and Tregedy.
-
-<span class="catsym">19 Fortuna <span class="catPUA"></span></span>
-: God of fate and fortune. She is commonly said to be blind. Had a fancy wheel which was later adapted into a popular game show.
-
-<span class="catsym">20 Massalia</span>
-: Named after a city.
-
-<span class="catsym">21 Lutetia</span>
-: Named after a city. One of the densest asteroids.
-
-<span class="catsym">22 Kalliope</span>
-: Muse of epic poetry. Chief of the Muses. Turned some uppity mortals into songbirds.
-
-<span class="catsym">23 Thalia</span>
-: Muse of comedy.
-
-<span class="catsym">24 Themis</span>
-: Titan of divine law. Second wife of Jupiter.
-
-<span class="catsym">25 Phocaea</span>
-: Named after a city.
-
-<span class="catsym">26 Proserpina <span class="catPUA"></span>⯘</span>
-: Daughter of Ceres. Stuck in the underworld each winter because Pluto kidnapped her and fed her those underworldly pomegranite seeds. Also a god of springtime, wine, and a terrifying Queen of the underworld.
-
-<span class="catsym">28 Bellona <span class="catPUA"></span></span>
-: Wife of Mars. Also a god of a crazed bloodthirsty war. Likes to ride into battle with her hubby and has a special talent when it comes to destroying entire cities.
-
-<span class="catsym">29 Amphitrite <span class="catPUA"></span></span>
-: Neptune's wife. God of the sea and salt water.
-
-<span class="catsym">30 Urania</span>
-: Muse of astronomy.
-
-<span class="catsym">31 Euphrosyne</span>
-: God of good cheer. 
-
-<span class="catsym">32 Pomona</span>
-: Wood nymph. God of orchards.
-
-<span class="catsym">33 Polyhymnia</span>
-: Muse of sacred poetry and pantomime.
-
-<span class="catsym">34 Circe</span>
-: Wizard Queen. Transmogrified people into animals. Daughter of the Sun.
-
-<span class="catsym">35 Leukothea <span class="catPUA"></span></span>
-: A nymph or queen who leapt into the sea. The symbol is an old-timey lighthouse.
-
-<span class="catsym">37 Fides <span class="catPUA"></span></span>
-: God of trust and reliability. Astronomers pretty much completely gave up on the asteroid symbols past this point.
-
-<span class="catsym">38 Leda</span>
-: Spartan queen. Made love to swan-Jupiter, and gave birth two eggs from which hatched Helen of Troy, and the twins Castor and Pollux.
-
-...
-
-<span class="catsym">243 Ida</span>
-: A nymph who nursed Jupiter. Also the name of the mountain where baby Jupiter was hidden away. 
-: The asteroid was the first discovered to have its own tiny asteroid moon. 
-: The moon is named "Dactyl", after a group of weird little forge fellas that lived on Mount Ida and protected Jupiter. 
-
-<span class="catsym">253 Mathilde</span>
-: Named after an Astronomer's wife. 
-: The asteroid was visited by a probe on its way to 433 Eros, and scientists were surprised to see that 253 Mathilde is a loosely packed pile of rubble, more crater than stone.
-
-<span class="catsym">433 Eros</span>
-: Aka Cupid. God of erotic desire. Had a romance with Psyche. 
-: This asteroid was the first near-earth asteroid to be discovered. It was also the first asteroid people put an orbiter around, and the first asteroid to be landed on. Rich in precious metals. About as big as the asteroid that wiped out the dinos, and has high odds of slamming into the earth in the very distant future.
-
-<span class="catsym">624 Hektor</span>
-: A mythological Trojan Prince. 
-: The largest of the Jupiter Trojans, which are similar to asteroids, but orbiting in Jupiter's Lagrange points. It's extremely elongated, and has a little moon named Skamandrios, after the mythological Hektor's son.
-
-<span class="catsym">704 Interamnia</span>
-: Named after a city. 
-: 5th largest asteroid but poorly studied.
-
-<span class="catsym">1862 Apollo</span>
-: God of the sun, fortune telling, and all sorts of stuff. 
-: This asteroid was the first discovered example and namesake of the Apollo-class asteroids, asteroids whose orbits cross Earth's. (If you remember the meteor that hit Russia back in 2013, that came from an Apollo-class object.)
-
-<span class="catsym">2060 Chiron ⚷</span>
-: The wisest of the centaurs. Trainer of heroes. Inventor of botany. 
-: The object Chiron was the first recognized example of the astronomical centaurs, a group of objects like asteroids but which orbit further out between the gas giants. They're so named because they seem to resemble a combination of asteroid and comet.
-
-<span class="catsym">3200 Phaethon</span>
-: Son of Helios, the sun god. Took his dad's sun chariot for a joy ride, almost destroyed the world, and had to be struck down with a lightning bolt by Jupiter. 
-: This Apollo-class asteroid is so named because it flies closer to the sun than any other asteroid.
-
-<span class="catsym">10199 Chariklo</span>
-: A nymph, wife to the centaur Chiron. 
-: This object is the largest (yet found as of 2019) of the astronomical centaurs, and the smallest object known to have rings.
-
-<span class="catsym">25143 Itokawa</span>
-: Named for the father of Japanese rocketry. 
-: Rubble pile shaped like a lumpy sea otter. This was the first asteroid from which a sample was collected and brought back to Earth. It's  also the smallest asteroid ever visited.
-
-<span class="catsym">65803 Didymos</span>
-: The name is Greek for "twin". 
-: It has a moonlet called "Dimorphos", meaning "Two forms." 
-: NASA's DART mission is planning to test our planetary defense capabilities by ramming into Dimorphos as high speed in 2022. 
-
-<span class="catsym">99942 Apophis</span>
-: A primordial serpent who sought to devour the sun. 
-: When this asteroid was first discovered, measurements suggested there was a small chance it would impact the Earth. That's since been ruled out, but it will pass by incredibly close in 2029.
-
-<span class="catsym">101955 Bennu</span>
-: Named for a mythological bird associated with the creation of the world. 
-: An Apollo-class object with an unstable orbit. It has a low chance of crashing into the Earth next century, but is more likely to spiral into the sun or crash into Venus. As of May 2021, a spacecraft has collected a sample and is bringing it back to Earth.
--->
 
 
 ### Other Space Whatsits
