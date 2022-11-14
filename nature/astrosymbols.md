@@ -1,11 +1,18 @@
 ---
 title: Astro Symbols
+subtitle: Symbols for astronomical objects, both ancient and modern.
 parent: Science and Nature
 has_children: true
-last_modified_date: 2022-09-24
+layout: post
+last_modified_date: 2022-11-14
 ---
 
+
 <style>
+    @font-face {
+        font-family: Astromoony;
+        src: url("{{site.webfontdirectory}}/astro/AstromoonySans.ttf");
+    }
 @font-face {
   font-family: CatrinityWeb;
   src: local(Catrinity), url("https://www.rmwinslow.com/posts/nature/astrosymbols/Catrinity.otf"), url("https://www.rmwinslow.com/posts/nature/astrosymbols/Catrinity.ttf");
@@ -27,7 +34,7 @@ td{vertical-align: middle;}
     color:#113074;
 }
 .moonsym {
-    font-family: moonsymbols;
+    font-family: Astromoony;
     color: #87122d;
 }
 .catsubtitle {
