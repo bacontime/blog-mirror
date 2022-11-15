@@ -1,11 +1,11 @@
 ---
 title: Plant Ranking
+subtitle: An incomplete ranking of common plant families, according to my subjective opinions.
 parent: Science and Nature
+layout: post
 date: 2021-03-16
+date_last_updated: 2022-11-14
 ---
-
-
-# Ranking of common plant families.
 
 The following is an incomplete ranking of [plant families](https://www.sbbg.org/sites/default/files/pdfs/Docent%20Corner_Field%20ID%20of%2050%20most%20common%20plant%20families.pdf) from best to worst.
 
@@ -33,7 +33,7 @@ Amaryllis Family (Amaryllidaceae)
 : Amaryllis, daffodils, and onions. 🧅🧄 The flowers are nice, but onions and garlic are where the real magic's at.
 
 Mallows (Malvaceae)
-: Cacao, okra, cotton, kola nuts,  and durians? Plus, you got pretty stuff like the baobab and the hibiscus in there too? 🌺 If not for my personal onion obsession, this would easily take fourth place. 
+: Cacao, okra, cotton, kola nuts, and durians. This family also includes pretty stuff like the baobab and the hibiscus. 🌺 If not for my personal onion obsession, this would easily take fourth place. 
 
 Oak Family (Fagaceae)
 : Oak, chestnut, and beech. The backbone of American forests.
@@ -42,22 +42,22 @@ Palms (Arecaceae)
 : A classic cultural symbol,  representing victory, peace, paradise, and vaporwave. 🌴 Dates and coconuts are very important fruits which come from palms. 🥥 And to be honest, I just like to look at them. They're neat.
 
 Olive Family (Oleaceae)
-: Olives, ash, jasmine, and lilacs. 🫒 This deserves it's place up her for cultural reasons even before considering it's oily magnificence.
+: Olives, ash, jasmine, and lilacs. 🫒 This deserves its place up here for cultural reasons even before considering the magnificent value of its oil.
 
 Gourd Family (Cucurbitaceae)
-: Put some pickled cucumbers on your burger, eat some tasty melon, carve a jack-o-lantern, and scrub your back with a luffa. 🥒🍈🎃 It's gourd time!
+: Put some pickled cucumbers on your burger, eat some tasty melon, carve a jack-o-lantern, and scrub your back with a luffa. 🥒🍈🎃 It's gourd time! These plants are also also very fun to grow, with lively vines to curl around fence posts.
 
 Bromeliads (Bromeliaceae)
-: Pineapples. 🍍 Nice. [Some of these things are pretty [freaky](https://en.wikipedia.org/wiki/Bromeliaceae#/media/File:Tillandsia_sp._telephone_line_(codiferous).jpg) [looking](https://en.wikipedia.org/wiki/Puya_raimondii), but in a cool way.
+: Some of these things are pretty [freaky](https://en.wikipedia.org/wiki/Bromeliaceae#/media/File:Tillandsia_sp._telephone_line_(codiferous).jpg) [looking](https://en.wikipedia.org/wiki/Puya_raimondii), but in a cool way. And pineapples are objectively the best pizza topping. 🍍 
 
 Cactus (Cactaceae)
 : Iconic. 🌵
 
 Rose Family (Rosaceae)
-: Roses themselves, I'm not too keen on. 🌹 But this family includes Apples, Pears, Blackberries, Raspberries, Strawberries, Plums, Peaches, Cherries, and Apricots. 🍎🍐🍓🍑🍒🌸 This family is the poster child for tasty fruit. The only major downside? The family also contains almonds.
+: Roses themselves, I'm not too keen on. 🌹 But this family includes Apples, Pears, Blackberries, Raspberries, Strawberries, Plums, Peaches, Cherries, and Apricots, 🍎🍐🍓🍑🍒🌸 basically all the central examples of tasty fruit. The only major downside? The family also contains almonds.
 
-Musaceae
-: Banananas and plaintains. 🍌 Surprisingly one of the world's staple foods. Can't call it the "banana family" for [reasons](https://en.wikipedia.org/wiki/Banana-families)
+Banana Family (Musaceae)
+: Banananas and plaintains. 🍌 Surprisingly one of the world's staple foods. Note that ["banana family" also seems to be used to refer to a broader clade](https://en.wikipedia.org/wiki/Banana-families).
 
 Rue Family (Rutaceae)
 : Citrus, sichuan pepper, and the curry tree. 🍋🍊 Good smells, good flavors, good family of plants.
@@ -69,15 +69,17 @@ Rue Family (Rutaceae)
 
 ## B Tier
 
+Mustards (Brassicaceae)
+: Cabbage, broccoli, collard greens, kale, cauliflower, and brussel sprouts. 🥦 Those are all the same species. There's also turnips, bok choy, radishes, horseradish, and rapeseed, which is used to make canola oil. And of course, most mustard comes from this family. That's an impressive variety of foodstuffs. Shame it's mostly boring.
 
 Carrot Family (Apiaceae)
-: Got some decent veggies like carrots and celery. 🥕 Some flavorherbs like dill, cumin, parsely. But also some deadly poisons like hemlock ~~and cilantro~~. A nice, solid plant family.
+: This family has some decent veggies like carrots and celery; 🥕 Some flavorherbs like dill, cumin, and parsely; but also some deadly poisons like hemlock ~~and cilantro~~. A nice, well-rounded plant family.
 
 Sunflower Family (Asteraceae)
-: Sunflowers, daisies (including lettuce), chrysanthemums,  dandelions, tumbleweeds, thistles (including artichokes). 🌻 Sunflower oil is nice, and thistles are neat. But wow, that's a lot of invasive species. This family would be ranked lower if not for my legal obligation as a Kansas resident to feel positively about sunflowers.
+: Sunflowers, daisies (including lettuce), chrysanthemums, dandelions, tumbleweeds, and thistles (including artichokes). 🌻 Sunflower oil is nice, and thistles are neat. But wow, that's a lot of invasive species. This family would be ranked lower if not for my legal obligation as a Kansas resident to feel positively about sunflowers.
 
 Cypress Family (Cupressaceae)
-: Junipers, Redwoods, cedars. These are some high-quality conifers.
+: Junipers, Redwoods, and cedars. These are some high-quality conifers.
 
 Willow Family (Salicaceae)
 : Willows, of course. But also aspens, poplars, and cottonwoods. Sitting under a willow tree makes me feel happy.
@@ -86,29 +88,19 @@ Tea Family (Theaceae)
 : Tea. It's good. 🍵
 
 Coffee Family (Rubiaceae)
-: Obviously, the star of the show is coffee, which I can admit is an impressive plant even if I don't like the stuff myself. But this family is full of plants with interesting medicinal properties, like the quinine tree, kratom, or that shrub they use to make ayahuasca.
-
+: Obviously, the star of the show is coffee, which I can admit is an impressive plant even if I don't drink the stuff myself. But this family is full of plants with interesting medicinal properties, like the quinine tree, kratom, or that shrub they use to make ayahuasca.
 
 Orchid Family (Orchidaceae)
-: I don't usually apprciate pretty flowers on their own, but orchids are really impressive and unique looking. And some of them even mimic insects. Vanilla is an orchid, too.
-
-
-
-Mustards (Brassicaceae)
-: Cabbage, broccoli, collard greens, kale, cauliflower, and brussel sprouts. 🥦 Those are all the same species. There's also turnips, radishes, horseradish, and rapeseed, which is used to make canola oil. And of course, most mustard comes from this family. That's an impressive variety of foodstuffs. Shame it's all pretty boring.
-
+: I don't get excited about pretty flowers on their own, but orchids are really impressive and unique looking. And some of them even mimic insects. Vanilla is an orchid, too.
 
 Asparagus Family (Asparagaceae)
 : Asparagus, along with agaves, yuccas, snakeplants, an hyacinths. A nice array of interesting looking plants.
 
-
 Fig Family (Moraceae)
 : Figs, jackfruit, breadfruit, and mulberries. Not a big fan of these flavors, but the whole fig-wasp symbiosis is just too fascinating to rank these any lower.
 
-
 Heath Family (Ericaceae)
 : Blueberries, huckleberries, cranberries, crowberries, bearberries, deerberries, bilberries, lingonberries, farkleberries, whortleberries. 🫐 We get it, Ericaceae, calm down with the berries. Also, breaking the pattern, this family contains the ghost plant, a small pale white flower which has lost the ability to photosynthesize and lives entirely by stealing nutrients from fungi.
-
 
 Spurge Family (Euphorbiaceae)
 : This family gives us cassava, castor oil, and the rubber tree, which would be enough to get A tier. But I'm sticking this family down in B tier because too many of these things are trying to steal Cactus' style.
@@ -120,7 +112,7 @@ Spurge Family (Euphorbiaceae)
 ## C Tier
 
 Laurel Family (Lauraceae)
-: Includes cinnamon, avocados, and laurel, which is used to make those champion leaf-hat things. 🥑 Some impressive individual plants, making for a high C tier family.
+: Includes cinnamon, avocados, 🥑 and laurel, which is used to make those champion leaf-hat things. Some impressive individual plants, making for a high C tier family.
 
 Myrtle Family (Myrtaceae)
 : Guava, clove, allspice, eucalyptus.
@@ -138,7 +130,7 @@ Mint Family (Lamiaceae)
 : This family has some good stinks. Mint, sage, thyme, basil, rosemary, lavender, and catnip. I've never smelled teak wood myself, but wikipedia says it smells like leather. 
 
 Cashew Family (Anacardiaceae)
-: One the one hand, mangos, cashews, and pistachios are pretty tight. 🥭 On the other hand, poison ivy and poison oak? Not so tight, my dude. And cashews are pretty difficult and environmentally costly to farm.
+: One the one hand, mangos, cashews, and pistachios are pretty tight. 🥭 On the other hand, poison ivy and poison oak? Not so tight, my dude. And cashews are pretty difficult and environmentally costly to farm (they are delicious though).
 
 
 ---
@@ -156,10 +148,10 @@ Buckwheat Family (Polygonaceae)
 : Rubarb and sorrel gets a pass, but the titular buckwheat is just more of this D-tier fake grass.
 
 Ginseng Family (Araliaceae)
-: Ginseng and Ivy. Yeah yeah herbal medicine. Yeah yeah, ivy is pretty for facades. Whatever.
+: Ginseng and Ivy. Yeah yeah herbal medicine. Yeah yeah, ivy makes for nice facades. Whatever.
 
 Dogbane Family (Apocynaceae)
-: Oleander? Periwinkle? Frangipani? Are these even real names? It gets a passing grade because Monarch butterflies need milkweed, which is within this family.
+: Oleander? Periwinkle? Frangipani? Are these even real names? It gets a passing grade because Monarch butterflies need milkweed, which lays within this family.
 
 Iris Family (Iridaceae)
 : Saved from the bottom tier by the inclusion of saffron.
@@ -180,7 +172,7 @@ Araceae
 : Duckweed grows in ponds. Taro is an important food crop, but I don't like it.
 
 Birch Family (Betulaceae)
-: Hazelnuts, birch, and ironwood. What the heck is a filbert?
+: Hazelnuts, birch, and ironwood. Also filberts. (What on earth is a filbert?)
 
 Borage Family (Boraginaceae)
 : Borage? More like *boring*! Forget-me-nots? More like Forgettable! Am I right? Up top!
@@ -192,10 +184,17 @@ Horsetail Family (Equisetaceae)
 : Horsetails. That's it. 20 species of 'em. I'll be honest, these things gross me out. I don't like looking at them.
 
 Buttercup Family (Ranunculaceae)
-: I got excited when I saw this family includes land anenomes and wolfsbane, but neither of these are nearly as exciting as I had imagined.
+: I got excited when I read that this family includes "land anenomes" and "wolfsbane", but neither of those plants are nearly as exciting as I had imagined.
 
 Plantain Family (Plantaginaceae)
 : I know what you're thinking. Plaintains down at the bottom? What's going on. I'll tell you what's going on. The "Plaintain Family" doesn't include plaintains. Instead it's full of garbage like fleaworts, turtleheads, foxgloves, snapdragons, purple-chinese-houses and butter-and-eggs. 
+
+
+---
+
+
+<!--
+
 
 More families of pretty flowers which bore me `¯\_(ツ)_/¯`:
 - Bellflower Family (Campanulaceae)
@@ -205,10 +204,6 @@ More families of pretty flowers which bore me `¯\_(ツ)_/¯`:
 - Figwort Family (Scrophulariaceae)
 
 
----
-
-
-<!--
 ---
 
 Inspired by
