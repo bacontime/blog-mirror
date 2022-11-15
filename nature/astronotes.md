@@ -9,17 +9,6 @@ last_modified_date: 2022-11-14
 ---
 
 
-
----
-title: Astro Symbols
-subtitle: Symbols for astronomical objects, both ancient and modern.
-parent: Science and Nature
-has_children: true
-layout: post
-last_modified_date: 2022-11-14
----
-
-
 <style>
     @font-face {
         font-family: Astromoony;
@@ -200,8 +189,7 @@ And the following are a few of the objects most likely to be dwarf planets, whic
 <th>Namesake</th>
 </tr></thead>
 <tr>
-<td class="catsym">Orcus<br>
-<span class="moonsym">O</span>🝿</td>
+<td class="catsym">Orcus<br>🝿</td>
 <td>Called the "anti-Pluto" because it's orbit is similar to Pluto's, yet opposite from it.   They are both resonant with neptune and have the same orbital period. Both of them cross over Neptune's orbit. But Pluto is close to the sun when Orcus is far away and vice versa. Also, both have a relatively large tidally locked moon, named after psychopomps. </td>
 <td>Underworld god and punisher of broken oaths. Namesake of ogres, orcs, and orcas. Its moon, Vanth, is named after another psychopomp.</td>
 </tr>
@@ -211,7 +199,7 @@ And the following are a few of the objects most likely to be dwarf planets, whic
 <td>Sang and danced the cosmos into being. Wild animals enforce his will.<!--https://www.sacred-texts.com/nam/ca/bosc/bosc04.htm--></td>
 </tr>
 <tr>
-<td class="catsym">Gonggong<br>	🝽</td>
+<td class="catsym">Gonggong<br>🝽</td>
 <td>Just barely big enough to hold onto volatile compounds.</td>
 <td>共工<br>Man-faced serpent who knocked the earth off kilter. Also prone to causing floods, and his 9-headed sidekick had his teeth kicked in by Da Yu (of flood-conquering fame).</td>
 </tr>
@@ -374,7 +362,9 @@ Well, Enceladus is teeny tiny, but it's round and interesting enough that it see
 <td>King of the Fey</td>
 </tr>
 <tr>
-<td class="catsym">Charon<br>⯕<br><small>(♇-I)</small></td>
+<td class="catsym">Charon<br>⯕ <span class="moonsym">♇I</span>
+<br><small>(♇-I)</small>
+</td>
 <td>A moon big enough and close enough to Pluto make their center of gravity lie between the two.</td>
 <td>Ferryman of the dead. Son of Nyx, god of night. Sibling to Thanatos and Hypnos, personifications of death and sleep. Kind of a gnarly old dude.</td>
 </tr>
@@ -428,13 +418,13 @@ Mars' itty bitty teensy weeny moons, for example, are no more than a couple doze
 <td>Lumpy. Orbits weirdly close to Uranus.</td>
 <td>The daughter of the magician Prospero.</td>
 </tr>
-<tr>
+<!--<tr>
 <td class="catsym">Vanth<br>
 <span class="moonsym">🝿I</span>
 <br><small>(🝿-I)</small></td>
 <td>Tidally locked, relatively big compared to its planet, similar to the Pluto+Charon system.</td>
 <td>A winged psychopomp often accompanied by Charun, the Estruscan version of Charon. The name was suggested by an internet commenter to further the parallels between Pluto and Orcus</td>
-</tr>
+</tr>-->
 </table>
 
 
