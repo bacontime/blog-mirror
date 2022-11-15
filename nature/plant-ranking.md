@@ -129,9 +129,11 @@ Aloe Family (Asphodelaceae)
 Mint Family (Lamiaceae)
 : This family has some good stinks. Mint, sage, thyme, basil, rosemary, lavender, and catnip. I've never smelled teak wood myself, but wikipedia says it smells like leather. 
 
+Sacred Lotus Family (Nelumbonaceae)
+: Although this family only contains two species, one of these species is a cultural superstar. 🪷
+
 Cashew Family (Anacardiaceae)
 : One the one hand, mangos, cashews, and pistachios are pretty tight. 🥭 On the other hand, poison ivy and poison oak? Not so tight, my dude. And cashews are pretty difficult and environmentally costly to farm (they are delicious though).
-
 
 ---
 
@@ -155,7 +157,6 @@ Dogbane Family (Apocynaceae)
 
 Iris Family (Iridaceae)
 : Saved from the bottom tier by the inclusion of saffron.
-
 
 ---
 
