@@ -7,8 +7,9 @@ date: 2021-03-16
 date_last_updated: 2022-11-14
 ---
 
+<!--
 The following is an incomplete ranking of [plant families](https://www.sbbg.org/sites/default/files/pdfs/Docent%20Corner_Field%20ID%20of%2050%20most%20common%20plant%20families.pdf) from best to worst.
-
+-->
 
 ---
 
@@ -191,7 +192,6 @@ Plantain Family (Plantaginaceae)
 : I know what you're thinking. Plaintains down at the bottom? What's going on. I'll tell you what's going on. The "Plaintain Family" doesn't include plaintains. Instead it's full of garbage like fleaworts, turtleheads, foxgloves, snapdragons, purple-chinese-houses and butter-and-eggs. 
 
 
----
 
 
 <!--
@@ -207,13 +207,14 @@ More families of pretty flowers which bore me `¯\_(ツ)_/¯`:
 
 Sapindaceae is maples and lychee 🍁
 Vitaceae is the grape family 🍇
+-->
 
 ---
 
-Inspired by
-- [TWENTY-FIVE ECONOMICALLY IMPORTANT PLANT FAMILIES ](http://www.eolss.net/Sample-Chapters/C09/E6-118-03.pdf) 
+Inspired by / based on the following resources:
+- [Tenty-five Economically Important Plant Families](http://www.eolss.net/Sample-Chapters/C09/E6-118-03.pdf) 
 - [List of plant families](https://www2.palomar.edu/users/warmstrong/econpls.htm)
 - [Field Indentification of common plant families](https://www.sbbg.org/sites/default/files/pdfs/Docent%20Corner_Field%20ID%20of%2050%20most%20common%20plant%20families.pdf)
--->
+
 
 
