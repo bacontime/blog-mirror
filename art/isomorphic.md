@@ -175,6 +175,7 @@ Examples of people playing such accordions:
 [5](https://www.youtube.com/watch?v=ZUGKB2RdzjU),
 
 [My toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (2,1), labelled "Isomorphic - CB Accordion".
+And take a look at [Linus Åkesson's Commodordion](https://www.youtube.com/watch?v=EBCYvoC4muc), a chromatic button accordion made from two Commodore 64 computers.
 
 <!--
 Stradella on other side is some complicated system where most of the notes are chords.
