@@ -41,6 +41,10 @@ Stew
 Salad
 : From vulgar latin *salata*, meaning *salted*. Short for *herba salata*, meaning salted herbs. A pile of gherkins? Totally a salad.
 
+Patient
+: Nowadays refers to the ability to wait, or to someone who is sick. Originally meant the ability to endure suffering.
 
+---
 
+Unless otherwise mentioned, the source for each of these is [EtymOnline](https://www.etymonline.com/)
 
