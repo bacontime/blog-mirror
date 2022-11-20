@@ -57,7 +57,6 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 | Extreme Exorcism | 🤷 |  |
 | Jay and Silent Bob, Mall Brawl |  |  |
 | Blazing Chrome |  |  |
-| Chroma Squad |  |  |
 | Nuero Voider |  |  |
 | Grip |  | 11 GB?! |
 | Turok 2: Seeds of Evil |  |  |
@@ -152,7 +151,9 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
     - Local:
     - Bad. 
     - Poorly Optimized. Slow. Dull autoscrolling. Stay in a spotlight as it slowly moves along. Pull a lever. Die because the edge detection on the light is iffy.
-- Spellcast University
+- Spellcaster University:
+    - Okay.
+    - I'm a fan of the concept. But the UI design is slapdash, poorly and inconsistently scaled.
 - Youtubers Life OMG!
 - Tales of Monkey Island
 - Demon Hunter 2
@@ -328,7 +329,6 @@ Only bad, neither good nor bad bits, a mixed of good and bad, only good.
 - Truberbrook
 - Blazing Chrome
     - Local:
-- Chroma Squad
 - Nuero Voider
     - Local:
 - Vane
