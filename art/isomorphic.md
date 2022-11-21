@@ -253,9 +253,12 @@ which they call
 the [Dualo](https://www.youtube.com/watch?v=xqPNa7Ogk-8)
 and the [Exquis](https://www.youtube.com/watch?v=3nATyh-zF38).
 
+<!--Seems this layout is good enough to be invented and used.
+But not good enough to stick around and become established.-->
 
 <!--
 https://www.eatmt.org.uk/the-english-concertina/
+Goofy dualo vids
 https://youtu.be/QyyZCZMT6EA?t=220
 https://www.youtube.com/watch?v=1lET_qzZWcE
 -->
@@ -613,15 +616,13 @@ https://www.rogerlinndesign.com/linnstrument
 
 ## Other Pages about Isomorphic Keyboards
 
-- http://musicnotation.org/wiki/instruments/isomorphic-instruments/
-- keyboard.snelgrove.science
-- http://www.altkeyboards.com/instruments/isomorphic-keyboards
-- http://smc.afim-asso.org/smc11/papers/smc2011_169.pdf
+- [The Music Notation Project](http://musicnotation.org/wiki/instruments/isomorphic-instruments/)
+- [altKeyboards](http://www.altkeyboards.com/instruments/isomorphic-keyboards)
+- [Isomorphic Tessellations For Musical Keyboards](http://smc.afim-asso.org/smc11/papers/smc2011_169.pdf) (Gerhard, Maupin, Park 2011) is a paper discussing the concept. It goes into a lot more detail about the musical properties of each layout. But despite the promises of its abstract, fails to explore all the possibilities. Also, their notation for hexagonal keyboards is a bit half-baked; treating rotations and reflections as distinct layouts.
+- [keyboard.snelgrove.science](https://keyboard.snelgrove.science/), a webapp which lets you generate arbitrary isomorphic hex keyboards.
 
 <!--
 Mappings between Gerhard Park Maupin and mine above:
-
-
 
 | Name | Main | Inverse |
 |:-:|:-:|:-:|
