@@ -152,6 +152,10 @@ This video calls the layout the "Bosanquet-Wilson Layout", though it has the sam
 ![A (10,1) isomorphic note layout.](isomorphic/r/isomorphic101.webp "A (10,1) isomorphic note layout.")
 </details>
 
+<!--
+The Musix app guys also call this the Gerhard layout. They also refer to the (2,1) layout as Gerhard?
+-->
+
 ---
 
 
@@ -204,7 +208,7 @@ https://www.youtube.com/watch?v=krtviJeloFs
 
 
 
-### (3,1) Qwerty Chromatic Columns
+### (3,1) Qwerty Chromatic Columns / Gerhard
 
 ![A (3,1) isomorphic note layout.](isomorphic/h/isomorphic31.webp "A (3,1) isomorphic note layout.")
 
@@ -227,7 +231,7 @@ Man, this guy uses a ton of words to say "a hexagonal keyboard layout where each
 Are all patents this pointlessly wordy? 
 -->
 
-*Edit: Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).*
+*Edit: Brett Park and David Gerhard, in their* Musix Pro *app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).*
 
 <!--See also the (3,2) layout mentioned below-->
 
@@ -318,18 +322,21 @@ I haven't played around with them, however, so they might have nice properties.-
 
 
 
-### (3,2) 
+### (3,2) Park
 
 ![A (3,2) isomorphic note layout.](isomorphic/r/isomorphic32.webp "A (3,2) isomorphic note layout.")
 
 Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Park" layout, and [demonstrate it here](https://shiverware.com/musixpro/park/chords.html). 
 
 
-
-
 I haven't found any other examples of this note layout in use.
 
-<!--[Here is a video of a song being played using this layout](https://www.youtube.com/watch?v=3ZDyIkeIgU0).-->
+
+
+<!--
+Though I do like the the relative positions of the white keys here.
+
+[Here is a video of a song being played using this layout](https://www.youtube.com/watch?v=3ZDyIkeIgU0).-->
 
 <!--
 http://www.altkeyboards.com/instruments/isomorphic-keyboards
@@ -339,6 +346,8 @@ http://www.altkeyboards.com/instruments/isomorphic-keyboards
 <summary>Doppelgangers: (7,2), (7,3)</summary>
 ![A (7,2) isomorphic note layout.](isomorphic/r/isomorphic72.webp "A (7,2) isomorphic note layout.")
 ![A (7,3) isomorphic note layout.](isomorphic/r/isomorphic73.webp "A (7,3) isomorphic note layout.")
+
+(7,3) is similar to (7,4) in that the layout looks like a mess, but the common triad chords seem easy to play.
 </details>
 
 
@@ -354,6 +363,8 @@ It seems that accordion makers love to experiment with alternate layouts.
 The (2,1) Chromatic Button Accordion layout was discussed above.
 There are also accordions with a (5,2) layout,
 most commonly called "Hayden Duet Concertinas".
+The layout is called the Wicki-Hayden layout,
+because it was independently invented by Kaspar Wicki and Brian Hayden.
 
 <!--TODO: Attribution to Wicki and Hayden. Explanation of "duet" in name.-->
 
@@ -391,6 +402,7 @@ Examples of play:
 [5](https://www.youtube.com/watch?v=A0YKZsue4Zo)
 [6](https://www.youtube.com/watch?v=RDVrHqQkMC0).
 
+Here's [a synthesizer designed to make use of the Wicki-Hayden layout](https://www.youtube.com/watch?v=v-SpIecfIZ0), which the creators calls a "Melodicade".
 
 [My toy qwerty piano web app](https://www.rmwinslow.com/tones/) has a (5,2) layout, labelled "Isomorphic - Wicki".
 
@@ -467,9 +479,10 @@ At the same time, the notes within an octave meander back and forth,
 moving through the circle of fifths in a zigzag pattern.
 
 I don't know of any actual instruments with this layout.
-<!--So some accordions do have chord buttons, which are arranged according the the circle of fifths.-->
+<!--Though some accordions do have chord buttons, which are arranged according the the circle of fifths.-->
 
 
+(No Dopplegangers.)
 
 
 
@@ -532,10 +545,6 @@ Here's the full set of pairs which give distinct layouts:
 
 
 
-
-
----
-
 ## Rectangular Isomorphic Keyboards.
 
 Rectangular isomorphic keyboards can be mapped 1-1 to hexagonal isomorphic keyboards.
@@ -566,6 +575,37 @@ So they have similar properties to an isomorphic keyboard.
 
 Not guitars though. For some reason, guitars have intervals of 5 semitones between strings,
 except for one pair of strings, where the interval is only 4 semitones.
+
+<!--
+Other rectangular isomorphic keyboards
+https://www.rogerlinndesign.com/linnstrument
+-->
+
+
+
+---
+
+## Other Pages about Isomorphic Keyboards
+
+- http://musicnotation.org/wiki/instruments/isomorphic-instruments/
+- keyboard.snelgrove.science
+- http://www.altkeyboards.com/instruments/isomorphic-keyboards
+- http://smc.afim-asso.org/smc11/papers/smc2011_169.pdf
+
+<!--
+Mappings between Gerhard Park Maupin and mine above:
+
+
+-->
+
+| Name | Main | Inverse |
+|:-:|:-:|:-:|
+| Wicki-Hayden | (5,2) | (7,5) |
+| Harmonic Table | (4,3) | (3,1) |
+| Gerhard | (3,1) | (4,3) |
+| Park | (3,2) | (2,1) |
+| Maupin |  |  |
+| Wicki-Hayden |  |  |
 
 <!--
  (4:5:6 frequency ratio)
@@ -612,12 +652,16 @@ https://github.com/wcgbg/terpstrakeyboard/
 
 https://www.midiphy.com/en/matrix
 https://www.youtube.com/watch?v=O_HkbxPqdEU
-
 https://web.archive.org/web/20070928092954/http://66.98.148.43/~xenharmo/bosanquet.html
 https://www.midiphy.com/en/matrix
 https://www.youtube.com/watch?v=O_HkbxPqdEU
 
 http://musicnotation.org/wiki/instruments/isomorphic-instruments/
+
+https://www.britannica.com/art/musical-notation/Other-systems-of-notation
+
+https://www.rogerlinndesign.com/linnstrument
+https://dualo.com/en/
 -->
 
 
