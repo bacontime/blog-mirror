@@ -596,7 +596,6 @@ https://www.rogerlinndesign.com/linnstrument
 Mappings between Gerhard Park Maupin and mine above:
 
 
--->
 
 | Name | Main | Inverse |
 |:-:|:-:|:-:|
@@ -604,9 +603,9 @@ Mappings between Gerhard Park Maupin and mine above:
 | Harmonic Table | (4,3) | (3,1) |
 | Gerhard | (3,1) | (4,3) |
 | Park | (3,2) | (2,1) |
-| Maupin |  |  |
-| Wicki-Hayden |  |  |
+| Maupin | (1,1) | (2,1) |
 
+-->
 <!--
  (4:5:6 frequency ratio)
 and there are also [diy projects](http://www.balanced-keyboard.com/) 
