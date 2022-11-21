@@ -6,7 +6,7 @@ has_children: false
 layout: post
 toc: true
 date: 2022-10-19
-last_modified_date: 2022-11-05
+last_modified_date: 2022-11-20
 ---
 
 While putting together a [toy musical qwerty-piano applet](rmwinslow.com/tones), 
@@ -147,8 +147,10 @@ This video calls the layout the "Bosanquet-Wilson Layout", though it has the sam
 
 <!--Another 3d printed version https://hackaday.com/2019/07/13/isomorphic-keyboards-with-cv-out/-->
 
-**Doppelganger:** (10,1)
-
+<details markdown="block">
+<summary>Doppelganger: (10,1)</summary>
+![A (10,1) isomorphic note layout.](isomorphic/r/isomorphic101.webp "A (10,1) isomorphic note layout.")
+</details>
 
 ---
 
@@ -192,8 +194,11 @@ https://www.youtube.com/watch?v=krtviJeloFs
 -->
 
 
-**Doppelgangers:** (9,1), (9,2)
-
+<details markdown="block">
+<summary>Doppelgangers: (9,1), (9,2)</summary>
+![A (9,1) isomorphic note layout.](isomorphic/r/isomorphic91.webp "A (9,1) isomorphic note layout.")
+![A (9,2) isomorphic note layout.](isomorphic/r/isomorphic92.webp "A (9,2) isomorphic note layout.")
+</details>
 
 ---
 
@@ -226,8 +231,12 @@ Are all patents this pointlessly wordy?
 
 <!--See also the (3,2) layout mentioned below-->
 
-**Doppelgangers:** (8,1), (8,3)
 
+<details markdown="block">
+<summary>Doppelgangers: (8,1), (8,3)</summary>
+![A (8,1) isomorphic note layout.](isomorphic/r/isomorphic81.webp "A (8,1) isomorphic note layout.")
+![A (8,3) isomorphic note layout.](isomorphic/r/isomorphic83.webp "A (8,3) isomorphic note layout.")
+</details>
 
 
 ---
@@ -238,10 +247,15 @@ Are all patents this pointlessly wordy?
 
 ![A (4,1) isomorphic note layout.](isomorphic/r/isomorphic41.webp "A (4,1) isomorphic note layout.")
 
-**Doppelgangers:** (7,1), (7,4)
+<details markdown="block">
+<summary>Doppelgangers: (7,1), (7,4)</summary>
+![A (7,1) isomorphic note layout.](isomorphic/r/isomorphic71.webp "A (7,1) isomorphic note layout.")
+![A (7,4) isomorphic note layout.](isomorphic/v/isomorphic74.webp "A (7,4) isomorphic note layout.")
 
-<!--![A (6,1) isomorphic note layout.](isomorphic/r/isomorphic61.webp "A (6,1) isomorphic note layout.")
-![A (6,5) isomorphic note layout.](isomorphic/v/isomorphic65.webp "A (6,5) isomorphic note layout.")-->
+The (7,4) layout is wonky looking and will break your fingers if you try to use it to play scales,
+but the fingering on major chords and minor chords actually feels quite reasonable.
+
+</details>
 
 
 
@@ -265,7 +279,7 @@ Are all patents this pointlessly wordy?
 ### (11,1) Stacked Keyboards
 
 
-![An (11,1) isomorphic note layout.](isomorphic/h/isomorphic111.webp "An (11,1) isomorphic note layout.")
+![An (11,1) isomorphic note layout.](isomorphic/r/isomorphic111.webp "An (11,1) isomorphic note layout.")
 
 All of the (n,1) layouts can be thought of as a series of 1-dimensional keyboards, stacked atop each other and offset by some amount.
 
@@ -275,7 +289,10 @@ A bit unwieldy, but not entirely strange for an instrument to have.[^octaveshift
 
 [^octaveshiftkeyboard]: I could have sworn that I've seen actual musical instruments with something like an (11,1) layout, with multiple standard piano keyboards literally stacked atop each other. But I am unable to find examples of such a thing, so perhaps I just imagined it.
 
-**Doppelgangers:** (1,0)
+<details markdown="block">
+<summary>Doppelganger: (1,0)</summary>
+![A (1,0) isomorphic note layout, which is essentially just a normal keyboard.](isomorphic/h/isomorphic10.webp "A (1,0) isomorphic note layout, which is essentially just a normal keyboard.")
+</details>
 
 At the other extreme, there's the (0,1) keyboard, which would essentially just be a 1-dimensional keyboard with oddly shaped keys. 
 
@@ -318,7 +335,11 @@ I haven't found any other examples of this note layout in use.
 http://www.altkeyboards.com/instruments/isomorphic-keyboards
 -->
 
-**Doppelgangers:** (7,2), (7,3)
+<details markdown="block">
+<summary>Doppelgangers: (7,2), (7,3)</summary>
+![A (7,2) isomorphic note layout.](isomorphic/r/isomorphic72.webp "A (7,2) isomorphic note layout.")
+![A (7,3) isomorphic note layout.](isomorphic/r/isomorphic73.webp "A (7,3) isomorphic note layout.")
+</details>
 
 
 ---
@@ -373,6 +394,8 @@ Examples of play:
 
 [My toy qwerty piano web app](https://www.rmwinslow.com/tones/) has a (5,2) layout, labelled "Isomorphic - Wicki".
 
+
+(No Dopplegangers.)
 
 ---
 
@@ -455,6 +478,21 @@ I don't know of any actual instruments with this layout.
 
 
 <!--
+
+{(0, 0, 1, 1, 11, 11): [(11, 1), (1, 0)],
+ (1, 2, 3, 9, 10, 11): [(2, 1), (9, 2), (9, 1)],
+ (3, 4, 5, 7, 8, 9): [(4, 3), (5, 4), (5, 3)],
+ (1, 3, 4, 8, 9, 11): [(3, 1), (8, 3), (8, 1)],
+ (1, 5, 6, 6, 7, 11): [(6, 1), (5, 1), (6, 5)],
+ (2, 3, 5, 7, 9, 10): [(7, 3), (3, 2), (7, 2)],
+ (1, 4, 5, 7, 8, 11): [(4, 1), (7, 4), (7, 1)],
+ (2, 5, 5, 7, 7, 10): [(5, 2)],
+ (1, 1, 2, 10, 11, 11): [(1, 1), (10, 1)],
+ (0, 0, 5, 5, 7, 7): [(7, 5)]}
+
+
+
+
 ### Other Possibilities not described above.
 
 (1,0) would be completely equivalent to a 1-d keyboard. 
