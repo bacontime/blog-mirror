@@ -82,7 +82,7 @@ One commenter describes its sound as perfect for a "klingon opera".
 Moving to a two-dimensional keyboard greatly increases the number of possibilities.
 At first, it may seem like there are two many potential layouts to count, 
 but by imposing a few constraints, 
-we can narrow things down to a reasonable small number of distint layouts.
+we can narrow things down to a reasonable small number of distinct layouts.
 
 First, let's restrict to our attentions to a hexagonal grid, as found on a computer keyboard.
 Each possible isomorphic layout can be specified by a pair (α,β)
@@ -246,7 +246,7 @@ There were also concertinas manufactured in the 1800s with this layout, [here ca
 Alas, I am unable to find an example video of such an instrument being played. 
 Wheatstone still manufactures accordions, but other, non-isomorphic, layouts seem to be more common. [Here are some pictures, though](http://www.rowlhouse.co.uk/concertina/double/).
 
-Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).
+Brett Park and David Gerhard call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).
 
 The firm Intuitive Instruments manufactures two synthesizer doodads based on the (3,1) layout,
 which they call 
@@ -353,7 +353,7 @@ I haven't played around with them, however, so they might have nice properties.-
 
 ![A (3,2) isomorphic note layout.](isomorphic/r/isomorphic32.webp "A (3,2) isomorphic note layout.")
 
-Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Park" layout, and [demonstrate it here](https://shiverware.com/musixpro/park/chords.html). 
+Brett Park and David Gerhard call the (3,1) note layout the "Park" layout, and [demonstrate it here](https://shiverware.com/musixpro/park/chords.html). 
 
 
 I haven't found any other examples of this note layout in use.
@@ -507,7 +507,9 @@ This layout is interesting. 7+5=12, and as the result, one axis shifts the notes
 At the same time, the notes within an octave meander back and forth, 
 moving through the circle of fifths in a zigzag pattern.
 
-I don't know of any actual instruments with this layout.
+There is at least [one patent on record which references this](https://patents.google.com/patent/US6501011B2/)
+as a potential key layout for a MIDI controller (see fig 4 at the link),
+but I don't know whether any instruments with this layout have actually been built.
 <!--Though some accordions do have chord buttons, which are arranged according the the circle of fifths.-->
 
 
@@ -520,7 +522,6 @@ I don't know of any actual instruments with this layout.
 
 
 <!--
-
 {(0, 0, 1, 1, 11, 11): [(11, 1), (1, 0)],
  (1, 2, 3, 9, 10, 11): [(2, 1), (9, 2), (9, 1)],
  (3, 4, 5, 7, 8, 9): [(4, 3), (5, 4), (5, 3)],
@@ -531,40 +532,6 @@ I don't know of any actual instruments with this layout.
  (2, 5, 5, 7, 7, 10): [(5, 2)],
  (1, 1, 2, 10, 11, 11): [(1, 1), (10, 1)],
  (0, 0, 5, 5, 7, 7): [(7, 5)]}
-
-
-
-
-### Other Possibilities not described above.
-
-(1,0) would be completely equivalent to a 1-d keyboard. 
-
-
-Here's the full set of pairs which give distinct layouts:
-
-
-```
-(1, 0), (1, 1), 
-(2, 1), 
-(3, 1), (3, 2),
-(4, 1), (4, 3), 
-(5, 1), (5, 2), (5, 3), (5, 4),
-(6, 1), (6, 5),
-(7, 1), (7, 2), (7, 3), (7, 4), (7, 5),
-(8, 1), (8, 3), 
-(9, 1), (9, 2),
-(10, 1),
-(11, 1) 
-```
-
-```
-(1, 0), 
-(1, 1), (2, 1), (3, 1), (4, 1), (5, 1), (6, 1), (7, 1), (8, 1), (9, 1), (10, 1), (11, 1) 
-(3, 2), (5, 2), (7, 2), (9, 2),
-(4, 3), (5, 3), (7, 3), (8, 3),
-(5, 4), (7, 4),
-(6, 5), (7, 5),
-```
 -->
 
 
@@ -576,11 +543,12 @@ Here's the full set of pairs which give distinct layouts:
 
 ## Rectangular Isomorphic Keyboards.
 
-Rectangular isomorphic keyboards can be mapped 1-1 to hexagonal isomorphic keyboards.
-There are also 28 distinct rectangular isomorphic keyboards, 15 of which cover all 12 notes.
-<!--The rectangular layouts can also be described with a pair (x,y) where-->
+In theory, there are multiple ways to establish a 1-1 mapping between 
+rectangular isomorphic keyboards and hexagonal isomorphic keyboards.
+<!--There are also 28 distinct rectangular isomorphic keyboards, 15 of which cover all 12 notes.
+The rectangular layouts can also be described with a pair (x,y) where-->
 
-I won't list all the possibilities here.
+I won't list all the possible layouts here.
 
 
 ###  The Harpeji <!--(1,2)-->
@@ -596,16 +564,27 @@ Here are a few examples of people playing the harpeji:
 [3](https://www.youtube.com/watch?v=DAvAC1EZUYQ),
 [4](https://www.youtube.com/watch?v=eJ3H0Njb1As)
 
-### String instruments in general
+### Fretted String instruments in general
 
 The harpeji is designed to be played in a 'keyboard' style,
-but many other string instruments also have equal intervals between each string and between each fret.
-So they have similar properties to an isomorphic keyboard.
+but many other string instruments can be tuned in an isomorphic way.
+The distance between frets is typically 1 semitone, 
+so such a tuning only requires that the intervals between adjacent strings is equal.
 
-Not guitars though. For some reason, guitars have intervals of 5 semitones between strings,
+However, many fretted instruments typically aren't tuned this way.
+For example, guitars have intervals of 5 semitones between strings,
 except for one pair of strings, where the interval is only 4 semitones.
+And banjos usually don't even have monotonic[^monotonic] string tuning.
+
+[^monotonic]: I mean "monotonic" in the mathematical sense of the word. A literally one-toned instrument *is* isomorphic, though. One-stringed instruments include the berimbau, ektara, and the one-string zither.
+
+Bass guitars are typically isomorphic, with 5 semitones between each string.
+Fiddles and mandolins are tuned with 7 semitones between each string, though fiddles lack frets and each 'string' on a mandolin is actually a pair of identically tuned strings ('choir' is the actual term for each string pair).
 
 <!--
+https://musicorange.com/blog/a-handy-guide-to-stringed-instrument-tunings
+https://en.wikipedia.org/wiki/Stringed_instrument_tunings
+
 Other rectangular isomorphic keyboards
 https://www.rogerlinndesign.com/linnstrument
 -->
@@ -700,6 +679,9 @@ https://www.britannica.com/art/musical-notation/Other-systems-of-notation
 
 https://www.rogerlinndesign.com/linnstrument
 https://dualo.com/en/
+
+https://jsengineering.net/saxes-with-linear-fingering-system/
+
 -->
 
 
