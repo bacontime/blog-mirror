@@ -208,17 +208,12 @@ https://www.youtube.com/watch?v=krtviJeloFs
 
 
 
-### (3,1) Qwerty Chromatic Columns / Gerhard / Wheatstone Double
+### (3,1) Qwerty Chromatic Columns / Wheatstone Double / Gerhard
 
 ![A (3,1) isomorphic note layout.](isomorphic/h/isomorphic31.webp "A (3,1) isomorphic note layout.")
 
 
-I don't know if there are any actual instruments with these layouts,
-but [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (3,1), labelled "Isomorphic - Columns".
 
-I call it such because 
-on a Qwerty keyboard, there are 4 rows, 
-and so (if rotated properly) a (3,1) layout allows an octave to be covered by three consecutive columns of keys.
 <!--(The (1,4) layout would need to be rotated so that the 4-semitone shift happens horizontally.)-->
 <!---
 Looks like this app has a (3,1) layout
@@ -231,11 +226,28 @@ Man, this guy uses a ton of words to say "a hexagonal keyboard layout where each
 Are all patents this pointlessly wordy? 
 -->
 
-Brett Park and David Gerhard, in their* Musix Pro *app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).
+[My toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (3,1), labelled "Isomorphic - Columns".
+I call it such because 
+on a Qwerty keyboard, there are 4 rows, 
+and so (if rotated properly) a (3,1) layout allows an octave to be covered by three consecutive columns of keys.
 
-There were also concertinas manufactured in the 1800s with the layout, [here called Wheatstone Double Duet concertinas](http://www.concertina.com/double/). Alas, I am unable to find an example video of such an instrument being played. Wheatstone still manufactures accordions, but other, non-isomorphic, layouts seem to be more common. [Here are some pictures, though](http://www.rowlhouse.co.uk/concertina/double/).
+There were also concertinas manufactured in the 1800s with this layout, [here called Wheatstone Double Duet concertinas](http://www.concertina.com/double/).
+Alas, I am unable to find an example video of such an instrument being played. 
+Wheatstone still manufactures accordions, but other, non-isomorphic, layouts seem to be more common. [Here are some pictures, though](http://www.rowlhouse.co.uk/concertina/double/).
 
-<!--https://www.eatmt.org.uk/the-english-concertina/-->
+Brett Park and David Gerhard, in their *Musix Pro* app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).
+
+The firm Intuitive Instruments manufactures two synthesizer doodads based on the (3,1) layout,
+which they call 
+the [Dualo](https://www.youtube.com/watch?v=xqPNa7Ogk-8)
+and the [Exquis](https://www.youtube.com/watch?v=3nATyh-zF38).
+
+
+<!--
+https://www.eatmt.org.uk/the-english-concertina/
+https://youtu.be/QyyZCZMT6EA?t=220
+https://www.youtube.com/watch?v=1lET_qzZWcE
+-->
 
 <details markdown="block">
 <summary>Doppelgangers: (8,1), (8,3)</summary>
