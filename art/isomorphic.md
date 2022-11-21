@@ -208,7 +208,7 @@ https://www.youtube.com/watch?v=krtviJeloFs
 
 
 
-### (3,1) Qwerty Chromatic Columns / Gerhard
+### (3,1) Qwerty Chromatic Columns / Gerhard / Wheatstone Double
 
 ![A (3,1) isomorphic note layout.](isomorphic/h/isomorphic31.webp "A (3,1) isomorphic note layout.")
 
@@ -231,10 +231,11 @@ Man, this guy uses a ton of words to say "a hexagonal keyboard layout where each
 Are all patents this pointlessly wordy? 
 -->
 
-*Edit: Brett Park and David Gerhard, in their* Musix Pro *app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).*
+Brett Park and David Gerhard, in their* Musix Pro *app call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).
 
-<!--See also the (3,2) layout mentioned below-->
+There were also concertinas manufactured in the 1800s with the layout, [here called Wheatstone Double Duet concertinas](http://www.concertina.com/double/). Alas, I am unable to find an example video of such an instrument being played. Wheatstone still manufactures accordions, but other, non-isomorphic, layouts seem to be more common. [Here are some pictures, though](http://www.rowlhouse.co.uk/concertina/double/).
 
+<!--https://www.eatmt.org.uk/the-english-concertina/-->
 
 <details markdown="block">
 <summary>Doppelgangers: (8,1), (8,3)</summary>
@@ -360,10 +361,11 @@ http://www.altkeyboards.com/instruments/isomorphic-keyboards
 ![A (5,2) isomorphic note layout.](isomorphic/r/isomorphic52.webp "A (5,2) isomorphic note layout.")
 
 It seems that accordion makers love to experiment with alternate layouts.
-The (2,1) Chromatic Button Accordion layout was discussed above.
+<!--The (2,1) Chromatic Button Accordion layout was discussed above.-->
+A couple have been mentioned already.
 There are also accordions with a (5,2) layout,
 most commonly called "Hayden Duet Concertinas".
-The layout is called the Wicki-Hayden layout,
+The layout itself is called the Wicki-Hayden layout,
 because it was independently invented by Kaspar Wicki and Brian Hayden.
 
 <!--TODO: Attribution to Wicki and Hayden. Explanation of "duet" in name.-->
@@ -404,6 +406,7 @@ Examples of play:
 
 Here's [a synthesizer designed to make use of the Wicki-Hayden layout](https://www.youtube.com/watch?v=v-SpIecfIZ0), which the creators calls a "Melodicade".
 
+This is my current favorite layout.
 [My toy qwerty piano web app](https://www.rmwinslow.com/tones/) has a (5,2) layout, labelled "Isomorphic - Wicki".
 
 
@@ -606,6 +609,18 @@ Mappings between Gerhard Park Maupin and mine above:
 | Maupin | (1,1) | (2,1) |
 
 -->
+
+
+<!--
+Notes on concertinas from http://www.concertina.com/fingering/
+Wheatstone Double - (3,1) - is the only isomorphic one aside from wicki hayden
+
+
+
+
+-->
+
+
 <!--
  (4:5:6 frequency ratio)
 and there are also [diy projects](http://www.balanced-keyboard.com/) 
