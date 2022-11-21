@@ -273,8 +273,14 @@ https://www.youtube.com/watch?v=1lET_qzZWcE
 ---
 
 
-### (4,1)
+### (4,1) Guitaresque
 
+Frets on a guitar are separated by 1 semitone,
+while strings are separated by 4 or 5.
+Guitar fretboards are rectangular and non-isomorphic,
+so none of these layouts can perfectly mimic a guitar's.
+But this one comes the closest, 
+with adjacent notes separated by intervals of 1, 4, or 5 semitones.
 
 ![A (4,1) isomorphic note layout.](isomorphic/r/isomorphic41.webp "A (4,1) isomorphic note layout.")
 
@@ -304,6 +310,18 @@ but the fingering on major chords and minor chords actually feels quite reasonab
 ![A (6,1) isomorphic note layout.](isomorphic/r/isomorphic61.webp "A (6,1) isomorphic note layout.")
 ![A (6,5) isomorphic note layout.](isomorphic/v/isomorphic65.webp "A (6,5) isomorphic note layout.")
 </details>
+
+
+<!--
+This keyboard refers to the (6,1) layout as "Fernandez".
+https://keyboard.snelgrove.science/
+
+I think this is in reference to a patent cited on wp's iso keyboard page?
+https://worldwide.espacenet.com/patent/search/family/042103956/publication/ES2337871A1?q=pn%3DES2337871
+
+But the patent isn't for a hexagonal keyboard. It's for a *rectangular* keyboard with 6,1 offsets.
+And Figure 3 overlays a hexagonal pattern onto the grid, but the hexagon is (5,2) Wicki layout.
+-->
 
 ---
 
@@ -610,8 +628,26 @@ Mappings between Gerhard Park Maupin and mine above:
 | Gerhard | (3,1) | (4,3) |
 | Park | (3,2) | (2,1) |
 | Maupin | (1,1) | (2,1) |
-
 -->
+
+
+<!--
+Mappings between Snelgrove labels and my notation
+Janko 1 1
+Harmonic Table 4 3
+Gerhard 3 1
+Inverted Gerhard - also 3 1 (doesn't match GMP paper)
+guitar-like 4 1 (actually quite reasonable)
+guitar-like-2 5 1 (less reasonable)
+Park 3 2
+Wesley 7 5
+Fernandez 6 1 (see above for why I think this naming is innappropriate)
+Wicki Hayden 5 2
+chromatic button 2 1
+
+Only grouping not contained therin is the (11,1)/(1,0) grouping.
+-->
+
 
 
 <!--
