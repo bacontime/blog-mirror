@@ -166,7 +166,7 @@ The Musix app guys also call this the Gerhard layout. They also refer to the (2,
 
 There are many, *many* different designs for the layout of keys on an accordion, but this is a fairly common one.
 
-On *chromatic button accordions*, the melody side of the instrument has keys laid out in an (2,1)isomorphic hexagonal grid, 
+On *chromatic button accordions*, the melody side of the instrument has keys laid out in an (2,1) isomorphic hexagonal grid, 
 with an interval of 2, 1, or 3 semitones between adjacent keys. 
 There are two variants called called type B and type C, which are mirror images of each other.
 The bass-side of such accordions may or may not
@@ -180,6 +180,18 @@ Examples of people playing such accordions:
 [4](https://www.youtube.com/watch?v=9XiilKWrWGQ),
 [5](https://www.youtube.com/watch?v=ZUGKB2RdzjU),
 
+There are also non-accordion versions on these instruments, 
+which take the same layout and place them on a flat table surface, like that of an piano.
+These de-accordioned button keyboards seem to primarily be a Bosnian phenomenon.
+
+Example of people playing such keyboards:
+[1](https://www.youtube.com/watch?v=2UJ-0nkIYMg),
+[2](https://www.youtube.com/watch?v=o-Wu1IMn2wc),
+[3](https://www.youtube.com/watch?v=5O1ei95NhYs),
+[4](https://www.youtube.com/watch?v=r2XoRoOZL1s)
+
+
+
 [My toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (2,1), labelled "Isomorphic - CB Accordion".
 And take a look at [Linus Åkesson's Commodordion](https://www.youtube.com/watch?v=EBCYvoC4muc), a chromatic button accordion made from two Commodore 64 computers.
 
@@ -187,11 +199,10 @@ And take a look at [Linus Åkesson's Commodordion](https://www.youtube.com/watch
 Stradella on other side is some complicated system where most of the notes are chords.
 Free-bass system looks like an isomorphic layout.
 
+Comparing accordion with piano
 https://www.youtube.com/watch?v=6MwrKj2oftM
 
 Electronic keyboard with this layout:
-https://www.youtube.com/watch?v=5O1ei95NhYs
-https://www.youtube.com/watch?v=2UJ-0nkIYMg
 https://www.youtube.com/watch?v=BBn8hxDnHAc
 Explanation Video:
 https://www.youtube.com/watch?v=krtviJeloFs
