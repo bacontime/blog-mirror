@@ -301,10 +301,19 @@ but the fingering on major chords and minor chords actually feels quite reasonab
 ---
 
 
-### (5,1)
+### (5,1) Fernandez?
 
 
 ![A (5,1) isomorphic note layout.](isomorphic/r/isomorphic51.webp "A (5,1) isomorphic note layout.")
+
+
+One notable thing about this layout and its dopplegangers is that octaves are exactly two spaces apart.
+For (5,1) and (6,1) the notes within an octave fit into a nice 2 by 6 area.
+
+I couldn't find any instruments, with this layout.[^fernandez]
+
+[^fernandez]: In this [isomorphic keyboard web applet](https://keyboard.snelgrove.science/), one of the presets uses a (6,1) layout, and is labelled "Fernandez". I believe this name is in reference to [this patent](https://worldwide.espacenet.com/patent/search/family/042103956/publication/ES2337871A1?q=pn%3DES2337871) by Antonio Fernandez. However, it looks to me like the patent depicts a *rectangular* isomorphic keyboard wherein the horizontal offset is 1 semitone and the vertical 6 semitones. This is conceptually adjacent to the (5,1) and (6,1) hexagonal layouts, but not quite the same.
+
 
 <details markdown="block">
 <summary>Doppelgangers: (6,1), (6,5)</summary>
