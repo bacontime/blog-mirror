@@ -192,7 +192,7 @@ Example of people playing such keyboards:
 
 
 
-[My toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (2,1), labelled "Isomorphic - CB Accordion".
+[My applet](https://www.rmwinslow.com/tones/) implements a version of (2,1), labelled "Isomorphic - CB Accordion".
 And take a look at [Linus Åkesson's Commodordion](https://www.youtube.com/watch?v=EBCYvoC4muc), a chromatic button accordion made from two Commodore 64 computers.
 
 <!--
@@ -219,7 +219,7 @@ https://www.youtube.com/watch?v=krtviJeloFs
 
 
 
-### (3,1) Qwerty Chromatic Columns / Wheatstone Double / Gerhard
+### (3,1) Wheatstone Double / Gerhard
 
 ![A (3,1) isomorphic note layout.](isomorphic/h/isomorphic31.webp "A (3,1) isomorphic note layout.")
 
@@ -237,7 +237,7 @@ Man, this guy uses a ton of words to say "a hexagonal keyboard layout where each
 Are all patents this pointlessly wordy? 
 -->
 
-[My toy qwerty piano web app](https://www.rmwinslow.com/tones/) implements a version of (3,1), labelled "Isomorphic - Columns".
+[My applet](https://www.rmwinslow.com/tones/) implements a version of (3,1), labelled "Isomorphic - Columns".
 I call it such because 
 on a Qwerty keyboard, there are 4 rows, 
 and so (if rotated properly) a (3,1) layout allows an octave to be covered by three consecutive columns of keys.
@@ -248,7 +248,7 @@ Wheatstone still manufactures accordions, but other, non-isomorphic, layouts see
 
 Brett Park and David Gerhard call the (3,1) note layout the "Gerhard" layout, and [demonstrate it here](https://shiverware.com/musixpro/gerhard/chords.html).
 
-The firm Intuitive Instruments manufactures two synthesizer doodads based on the (3,1) layout,
+There is also a firm which manufactures two electronic instruments based on this layout,
 which they call 
 the [Dualo](https://www.youtube.com/watch?v=xqPNa7Ogk-8)
 and the [Exquis](https://www.youtube.com/watch?v=3nATyh-zF38).
@@ -275,14 +275,15 @@ https://www.youtube.com/watch?v=1lET_qzZWcE
 
 ### (4,1) Guitaresque
 
+
+![A (4,1) isomorphic note layout.](isomorphic/r/isomorphic41.webp "A (4,1) isomorphic note layout.")
+
 Frets on a guitar are separated by 1 semitone,
 while strings are separated by 4 or 5.
 Guitar fretboards are rectangular and non-isomorphic,
 so none of these layouts can perfectly mimic a guitar's.
 But this one comes the closest, 
 with adjacent notes separated by intervals of 1, 4, or 5 semitones.
-
-![A (4,1) isomorphic note layout.](isomorphic/r/isomorphic41.webp "A (4,1) isomorphic note layout.")
 
 <details markdown="block">
 <summary>Doppelgangers: (7,1), (7,4)</summary>
@@ -376,6 +377,9 @@ Brett Park and David Gerhard call the (3,1) note layout the "Park" layout, and [
 
 I haven't found any other examples of this note layout in use.
 
+I will note that having C,D,E,F,G,A,B all in a little 2x4 area is very convenient;
+(5,2) shares this property.
+
 
 
 <!--
@@ -404,10 +408,10 @@ http://www.altkeyboards.com/instruments/isomorphic-keyboards
 
 ![A (5,2) isomorphic note layout.](isomorphic/r/isomorphic52.webp "A (5,2) isomorphic note layout.")
 
-It seems that accordion makers love to experiment with alternate layouts.
+It seems that accordion makers love to experiment with alternate layouts;
 <!--The (2,1) Chromatic Button Accordion layout was discussed above.-->
-A couple have been mentioned already.
-There are also accordions with a (5,2) layout,
+a couple have been mentioned already.
+There are also accordions with this (5,2) layout,
 most commonly called "Hayden Duet Concertinas".
 The layout itself is called the Wicki-Hayden layout,
 because it was independently invented by Kaspar Wicki and Brian Hayden.
@@ -448,10 +452,10 @@ Examples of play:
 [5](https://www.youtube.com/watch?v=A0YKZsue4Zo)
 [6](https://www.youtube.com/watch?v=RDVrHqQkMC0).
 
-Here's [a synthesizer designed to make use of the Wicki-Hayden layout](https://www.youtube.com/watch?v=v-SpIecfIZ0), which the creators calls a "Melodicade".
+Here's [a synthesizer designed to make use of the Wicki-Hayden layout](https://www.youtube.com/watch?v=v-SpIecfIZ0), which the creator calls a "Melodicade".
 
-This is my current favorite layout.
-[My toy qwerty piano web app](https://www.rmwinslow.com/tones/) has a (5,2) layout, labelled "Isomorphic - Wicki".
+
+[My applet](https://www.rmwinslow.com/tones/) has a (5,2) layout, labelled "Isomorphic - Wicki". This is my current favorite layout.
 
 
 (No Dopplegangers.)
@@ -490,7 +494,7 @@ http://shapeofmusic.com/note-pattern.php
 -->
 
 [Here's a web app where you can play around with the Tonnetz](https://cifkao.github.io/tonnetz-viz/).
-And [my toy qwerty piano web app](https://www.rmwinslow.com/tones/) also has a Tonnetz layout, labelled "Isomorphic - Euler".
+And [my applet](https://www.rmwinslow.com/tones/) also has a Tonnetz layout, labelled "Isomorphic - Euler".
 
 
 
@@ -594,7 +598,7 @@ For example, guitars have intervals of 5 semitones between strings,
 except for one pair of strings, where the interval is only 4 semitones.
 And banjos usually don't even have monotonic[^monotonic] string tuning.
 
-[^monotonic]: I mean "monotonic" in the mathematical sense of the word. A literally one-toned instrument *is* isomorphic, though. One-stringed instruments include the berimbau, ektara, and the one-string zither.
+[^monotonic]: I mean "monotonic" in the mathematical sense of the word. A literally one-toned instrument *is* isomorphic, though. One-stringed instruments include the berimbau, ektara, diddley bow, and the one-string zither.
 
 Bass guitars are typically isomorphic, with 5 semitones between each string.
 Fiddles and mandolins are tuned with 7 semitones between each string, though fiddles lack frets and each 'string' on a mandolin is actually a pair of identically tuned strings ('choir' is the actual term for each string pair).
@@ -615,7 +619,7 @@ https://www.rogerlinndesign.com/linnstrument
 
 - [The Music Notation Project](http://musicnotation.org/wiki/instruments/isomorphic-instruments/)
 - [altKeyboards](http://www.altkeyboards.com/instruments/isomorphic-keyboards)
-- [Isomorphic Tessellations For Musical Keyboards](http://smc.afim-asso.org/smc11/papers/smc2011_169.pdf) (Gerhard, Maupin, Park 2011) is a paper discussing the concept. It goes into a lot more detail about the musical properties of each layout. But despite the promises of its abstract, fails to explore all the possibilities. Also, their notation for hexagonal keyboards is a bit half-baked; treating rotations and reflections as distinct layouts.
+- [Isomorphic Tessellations For Musical Keyboards](http://smc.afim-asso.org/smc11/papers/smc2011_169.pdf) (Gerhard, Maupin, Park 2011) is a paper discussing the concept. It goes into a lot more detail about the musical properties of each layout. But despite the promises of its abstract, fails to explore all the possibilities. Also, their notation for hexagonal keyboards treats rotations and reflections as distinct layouts.
 - [keyboard.snelgrove.science](https://keyboard.snelgrove.science/), a webapp which lets you generate arbitrary isomorphic hex keyboards.
 
 <!--
