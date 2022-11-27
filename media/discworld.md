@@ -1,5 +1,5 @@
 ---
-Title: Discworld Ranking
+title: Discworld Ranking
 parent: Media
 date: 2022-08-21
 last_modified_date: 2022-11-26
