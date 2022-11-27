@@ -155,7 +155,7 @@ print(tableFooter)
 
 print(tableHeader)
 otherGames = set(gameDataMap.keys()) - set(shelfList) - set(otherInHouseList) - set(excludedGames)
-for game in otherGames:
+for game in sorted(otherGames):
     printMDRow(game)
 print(tableFooter)
 
