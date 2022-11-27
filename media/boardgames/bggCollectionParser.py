@@ -1,7 +1,7 @@
 '''
 This script parses the collection.csv,
 which is exported from bgg,
-and converts it to a markdown table 
+and converts it to an html table 
 with trimmed down information.
 '''
 #%%
@@ -28,6 +28,8 @@ with open("collection.csv", encoding="utf8") as f:
         players = bggrecplayers.split(',')
         minplayer,maxplayer = players[0], players[-1]
         wordiness = langMap[bgglanguagedependence]
+        if rating == "0":
+            rating = ""
         gameDataMap[name] = [name,rating, minplayer,maxplayer, weight, wordiness]
 
 
@@ -41,11 +43,22 @@ def printMDRow(gamename):
     game = gameDataMap[gamename]
     #print(game)
     assert len(game) == 6
-    print('| ' + ' | '.join(game) + ' |')
+    #print('| ' + ' | '.join(game) + ' |')
+    print(r'<tr><td>' + r'</td><td>'.join(game) + r'</td><td>')
 
-tableHeader = '''| Name | rating | minP | maxP | weight | wordy |
-|:--|:-:|:-:|:-:|:-:|:-:|
+
+
+tableHeader = r'''<table class="js-sort-table">
+<thead>
+<tr><td>Name</td><td>Rating</td><td>minP</td><td>maxP</td><td>weight</td><td>wordy</td></tr>
+</thead><tbody>
 '''
+tableFooter = r"</tbody></table>"
+
+
+#tableHeader = "| Name | rating | minP | maxP | weight | wordy |\n|:--|:-:|:-:|:-:|:-:|:-:|"
+#tableFooter = ""
+
 
 
 # %%
@@ -134,6 +147,7 @@ for game in shelfList:
     printMDRow(game)
 for game in otherInHouseList:
     printMDRow(game)
+print(tableFooter)
 
 
 #%% Print other games in collection
@@ -142,5 +156,6 @@ print(tableHeader, end='')
 otherGames = set(gameDataMap.keys()) - set(shelfList) - set(otherInHouseList) - set(excludedGames)
 for game in otherGames:
     printMDRow(game)
+print(tableFooter)
 
 # %%
