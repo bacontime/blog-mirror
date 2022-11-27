@@ -20,76 +20,74 @@ The following is a list of board games marked as "owned" on my BGG account.
 These games are physically present in my house.
 The default sorting or 
 
-<table class="js-sort-table">
-<thead>
-<tr><td>Name</td><td>Rating</td><td>minP</td><td>maxP</td><td>weight</td><td>wordy</td></tr>
-</thead><tbody>
-<tr><td>Watson & Holmes</td><td>0</td><td>3</td><td>7</td><td>0</td><td>4</td><td>
-<tr><td>Castles of Mad King Ludwig</td><td>0</td><td>2</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>Blueprints</td><td>6</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Mysterium</td><td>0</td><td>3</td><td>7</td><td>0</td><td>0</td><td>
-<tr><td>The Quest for El Dorado</td><td>0</td><td>2</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>Zendo</td><td>9</td><td>3</td><td>5</td><td>0</td><td>0</td><td>
-<tr><td>Cthulhu Wars</td><td>0</td><td>3</td><td>4</td><td>0</td><td>2</td><td>
-<tr><td>Jaipur</td><td>7</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Kingdomino</td><td>0</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Raptor</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>My Little Scythe</td><td>0</td><td>1</td><td>6</td><td>0</td><td>2</td><td>
-<tr><td>Okey Dokey</td><td>0</td><td>1</td><td>5</td><td>0</td><td>0</td><td>
-<tr><td>Photosynthesis</td><td>8</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Dancing Eggs</td><td>6</td><td>3</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>KeyForge: Call of the Archons</td><td>0</td><td>2</td><td>2</td><td>0</td><td>3</td><td>
-<tr><td>Agricola</td><td>0</td><td>1</td><td>5</td><td>0</td><td>3</td><td>
-<tr><td>Machi Koro Legacy</td><td>0</td><td>2</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>Mahjong</td><td>6</td><td>4</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Hive Pocket</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>TAJ</td><td>0</td><td>3</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Codenames: Pictures</td><td>0</td><td>4</td><td>8</td><td>0</td><td>0</td><td>
-<tr><td>Codenames: Duet</td><td>0</td><td>2</td><td>2</td><td>0</td><td>4</td><td>
-<tr><td>Tsuro</td><td>0</td><td>2</td><td>8</td><td>0</td><td>0</td><td>
-<tr><td>Mage Knight Board Game</td><td>0</td><td>1</td><td>3</td><td>0</td><td>3</td><td>
-<tr><td>Scoville</td><td>7</td><td>2</td><td>5</td><td>0</td><td>0</td><td>
-<tr><td>Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures</td><td>7</td><td>1</td><td>4</td><td>0</td><td>4</td><td>
-<tr><td>Disney Villainous: Perfectly Wretched</td><td>0</td><td>2</td><td>3</td><td>0</td><td>3</td><td>
-<tr><td>Charterstone</td><td>0</td><td>2</td><td>6</td><td>0</td><td>3</td><td>
-<tr><td>Hanamikoji</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Planet</td><td>0</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Funkoverse Strategy Game</td><td>8</td><td>2</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>Attack on Titan: The Last Stand</td><td>5</td><td>3</td><td>5</td><td>0</td><td>1</td><td>
-<tr><td>Coup</td><td>0</td><td>3</td><td>6</td><td>0</td><td>1</td><td>
-<tr><td>Pandemic: Iberia</td><td>0</td><td>1</td><td>5</td><td>0</td><td>1</td><td>
-<tr><td>Adventure Time Card Wars: Finn vs. Jake</td><td>0</td><td>2</td><td>2</td><td>0</td><td>2</td><td>
-<tr><td>The Castles of Burgundy</td><td>7</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Porta Nigra</td><td>6</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Biblios</td><td>0</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Sushi Go Party!</td><td>0</td><td>2</td><td>8</td><td>0</td><td>1</td><td>
-<tr><td>Tales & Games: The Hare & the Tortoise</td><td>8</td><td>2</td><td>5</td><td>0</td><td>0</td><td>
-<tr><td>Santorini</td><td>0</td><td>2</td><td>3</td><td>0</td><td>0</td><td>
-<tr><td>Bob Ross: Art of Chill Game</td><td>7</td><td>2</td><td>4</td><td>0</td><td>2</td><td>
-<tr><td>Azul</td><td>0</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>ICECOOL</td><td>0</td><td>3</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Caverna: Cave vs Cave</td><td>7</td><td>1</td><td>2</td><td>0</td><td>1</td><td>
-<tr><td>Welcome to the Dungeon</td><td>0</td><td>2</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>Magic: The Gathering – Heroes of Dominaria Board Game</td><td>0</td><td>2</td><td>4</td><td>0</td><td>2</td><td>
-<tr><td>Lord of the Rings: The Confrontation</td><td>0</td><td>2</td><td>2</td><td>0</td><td>2</td><td>
-<tr><td>String Railway</td><td>0</td><td>3</td><td>5</td><td>0</td><td>0</td><td>
-<tr><td>Trains: Rising Sun</td><td>0</td><td>2</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>Catacombs (Third Edition)</td><td>9</td><td>2</td><td>5</td><td>0</td><td>0</td><td>
-<tr><td>Portal: The Uncooperative Cake Acquisition Game</td><td>6</td><td>2</td><td>4</td><td>0</td><td>2</td><td>
-<tr><td>Jungle Speed</td><td>0</td><td>3</td><td>8</td><td>0</td><td>0</td><td>
-<tr><td>ZÈRTZ</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Loony Quest</td><td>0</td><td>2</td><td>5</td><td>0</td><td>0</td><td>
-<tr><td>Jenga</td><td>9</td><td>2</td><td>6</td><td>1</td><td>0</td><td>
-<tr><td>Deep Sea Adventure</td><td>0</td><td>3</td><td>6</td><td>0</td><td>0</td><td>
-<tr><td>Love Letter</td><td>0</td><td>3</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>BANG! The Dice Game</td><td>0</td><td>5</td><td>8</td><td>0</td><td>1</td><td>
-<tr><td>Epic Card Game</td><td>6</td><td>2</td><td>4</td><td>0</td><td>3</td><td>
-<tr><td>Spot it!</td><td>0</td><td>2</td><td>8</td><td>0</td><td>0</td><td>
-<tr><td>Epic Card Game</td><td>6</td><td>2</td><td>4</td><td>0</td><td>3</td><td>
-<tr><td>Mint Works</td><td>0</td><td>1</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>Portal: The Uncooperative Cake Acquisition Game</td><td>6</td><td>2</td><td>4</td><td>0</td><td>2</td><td>
-<tr><td>Go</td><td>8</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-</tbody></table>
+| Name | rating | minP | maxP | weight | wordy |
+|:--|:-:|:-:|:-:|:-:|:-:|| Watson & Holmes |  | 3 | 7 | 0 | 4 |
+| Castles of Mad King Ludwig |  | 2 | 4 | 0 | 1 |
+| Blueprints | 6 | 2 | 4 | 0 | 0 |
+| Mysterium |  | 3 | 7 | 0 | 0 |
+| The Quest for El Dorado |  | 2 | 4 | 0 | 1 |
+| Zendo | 9 | 3 | 5 | 0 | 0 |
+| Cthulhu Wars |  | 3 | 4 | 0 | 2 |
+| Jaipur | 7 | 2 | 2 | 0 | 0 |
+| Kingdomino |  | 2 | 4 | 0 | 0 |
+| Raptor |  | 2 | 2 | 0 | 0 |
+| My Little Scythe |  | 1 | 6 | 0 | 2 |
+| Okey Dokey |  | 1 | 5 | 0 | 0 |
+| Photosynthesis | 8 | 2 | 4 | 0 | 0 |
+| Dancing Eggs | 6 | 3 | 4 | 0 | 0 |
+| KeyForge: Call of the Archons |  | 2 | 2 | 0 | 3 |
+| Agricola |  | 1 | 5 | 0 | 3 |
+| Machi Koro Legacy |  | 2 | 4 | 0 | 1 |
+| Mahjong | 6 | 4 | 4 | 0 | 0 |
+| Hive Pocket |  | 2 | 2 | 0 | 0 |
+| TAJ |  | 3 | 4 | 0 | 0 |
+| Codenames: Pictures |  | 4 | 8 | 0 | 0 |
+| Codenames: Duet |  | 2 | 2 | 0 | 4 |
+| Tsuro |  | 2 | 8 | 0 | 0 |
+| Mage Knight Board Game |  | 1 | 3 | 0 | 3 |
+| Scoville | 7 | 2 | 5 | 0 | 0 |
+| Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures | 7 | 1 | 4 | 0 | 4 |
+| Disney Villainous: Perfectly Wretched |  | 2 | 3 | 0 | 3 |
+| Charterstone |  | 2 | 6 | 0 | 3 |
+| Hanamikoji |  | 2 | 2 | 0 | 0 |
+| Planet |  | 2 | 4 | 0 | 0 |
+| Funkoverse Strategy Game | 8 | 2 | 4 | 0 | 1 |
+| Attack on Titan: The Last Stand | 5 | 3 | 5 | 0 | 1 |
+| Coup |  | 3 | 6 | 0 | 1 |
+| Pandemic: Iberia |  | 1 | 5 | 0 | 1 |
+| Adventure Time Card Wars: Finn vs. Jake |  | 2 | 2 | 0 | 2 |
+| The Castles of Burgundy | 7 | 2 | 4 | 0 | 0 |
+| Porta Nigra | 6 | 2 | 4 | 0 | 0 |
+| Biblios |  | 2 | 4 | 0 | 0 |
+| Sushi Go Party! |  | 2 | 8 | 0 | 1 |
+| Tales & Games: The Hare & the Tortoise | 8 | 2 | 5 | 0 | 0 |
+| Santorini |  | 2 | 3 | 0 | 0 |
+| Bob Ross: Art of Chill Game | 7 | 2 | 4 | 0 | 2 |
+| Azul |  | 2 | 4 | 0 | 0 |
+| ICECOOL |  | 3 | 4 | 0 | 0 |
+| Caverna: Cave vs Cave | 7 | 1 | 2 | 0 | 1 |
+| Welcome to the Dungeon |  | 2 | 4 | 0 | 1 |
+| Magic: The Gathering – Heroes of Dominaria Board Game |  | 2 | 4 | 0 | 2 |
+| Lord of the Rings: The Confrontation |  | 2 | 2 | 0 | 2 |
+| String Railway |  | 3 | 5 | 0 | 0 |
+| Trains: Rising Sun |  | 2 | 4 | 0 | 1 |
+| Catacombs (Third Edition) | 9 | 2 | 5 | 0 | 0 |
+| Portal: The Uncooperative Cake Acquisition Game | 6 | 2 | 4 | 0 | 2 |
+| Jungle Speed |  | 3 | 8 | 0 | 0 |
+| ZÈRTZ |  | 2 | 2 | 0 | 0 |
+| Loony Quest |  | 2 | 5 | 0 | 0 |
+| Jenga | 9 | 2 | 6 | 1 | 0 |
+| Deep Sea Adventure |  | 3 | 6 | 0 | 0 |
+| Love Letter |  | 3 | 4 | 0 | 1 |
+| BANG! The Dice Game |  | 5 | 8 | 0 | 1 |
+| Epic Card Game | 6 | 2 | 4 | 0 | 3 |
+| Spot it! |  | 2 | 8 | 0 | 0 |
+| Epic Card Game | 6 | 2 | 4 | 0 | 3 |
+| Mint Works |  | 1 | 4 | 0 | 1 |
+| Portal: The Uncooperative Cake Acquisition Game | 6 | 2 | 4 | 0 | 2 |
+| Go | 8 | 2 | 2 | 0 | 0 |
+{: .js-sort-table }
+
 
 
 
@@ -102,63 +100,62 @@ These are games which are marked as "owned" on my BGG account, but which aren't 
 These may games at my parents' house back in Kansas, 
 or they may be items like Spades which aren't distinct games.
 
-<table class="js-sort-table">
-<thead>
-<tr><td>Name</td><td>Rating</td><td>minP</td><td>maxP</td><td>weight</td><td>wordy</td></tr>
-</thead><tbody>
-<tr><td>Lamarckian Poker</td><td>7</td><td>2</td><td>6</td><td>0</td><td>0</td><td>
-<tr><td>Dominoes</td><td>0</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Tarot</td><td>0</td><td>3</td><td>5</td><td>0</td><td>0</td><td>
-<tr><td>Regicide</td><td>7</td><td>1</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Splendor</td><td>0</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Scattergories</td><td>0</td><td>2</td><td>6</td><td>0</td><td>4</td><td>
-<tr><td>Silk</td><td>0</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>In a Pickle</td><td>0</td><td>3</td><td>6</td><td>0</td><td>4</td><td>
-<tr><td>Not Alone</td><td>0</td><td>3</td><td>7</td><td>0</td><td>2</td><td>
-<tr><td>Mage Wars Academy</td><td>0</td><td>2</td><td>2</td><td>0</td><td>3</td><td>
-<tr><td>Telestrations</td><td>0</td><td>5</td><td>8</td><td>0</td><td>3</td><td>
-<tr><td>Caldera</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Scrabble</td><td>0</td><td>2</td><td>4</td><td>0</td><td>4</td><td>
-<tr><td>Stratego</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Battleship</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Gobblet</td><td>7</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Clank!: Legacy – Acquisitions Incorporated</td><td>8</td><td>2</td><td>4</td><td>0</td><td>3</td><td>
-<tr><td>Dungeons & Dragons Dice Masters: Battle for Faerûn</td><td>0</td><td>2</td><td>2</td><td>0</td><td>3</td><td>
-<tr><td>Sherlock Holmes Consulting Detective</td><td>6</td><td>1</td><td>4</td><td>0</td><td>4</td><td>
-<tr><td>Dou Dizhu</td><td>6</td><td>3</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Escape from the Hidden Castle</td><td>0</td><td>2</td><td>8</td><td>0</td><td>0</td><td>
-<tr><td>Big Brain Academy Boardgame</td><td>0</td><td>2</td><td>6</td><td>0</td><td>3</td><td>
-<tr><td>The Game of Life in Monstropolis</td><td>0</td><td></td><td></td><td>0</td><td>?</td><td>
-<tr><td>Guess Who?</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Codex: Card-Time Strategy – Deluxe Set</td><td>0</td><td>2</td><td>4</td><td>0</td><td>3</td><td>
-<tr><td>Spades</td><td>5</td><td>4</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Cosmic Encounter</td><td>0</td><td>4</td><td>5</td><td>0</td><td>3</td><td>
-<tr><td>Red7</td><td>0</td><td>2</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>Win, Lose, or Banana</td><td>0</td><td>3</td><td>3</td><td>0</td><td>0</td><td>
-<tr><td>Trivial Pursuit: 2000s</td><td>0</td><td>3</td><td>6</td><td>0</td><td>3</td><td>
-<tr><td>Tumblin-Dice</td><td>8</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Timeline: Events</td><td>0</td><td>2</td><td>8</td><td>0</td><td>2</td><td>
-<tr><td>Oh Hell!</td><td>8</td><td>3</td><td>7</td><td>0</td><td>0</td><td>
-<tr><td>Mahjong Rummy</td><td>0</td><td>1</td><td>4</td><td>0</td><td>?</td><td>
-<tr><td>Risk: Star Wars – Clone Wars Edition</td><td>0</td><td>2</td><td>4</td><td>0</td><td>2</td><td>
-<tr><td>Sushi Go!</td><td>0</td><td>3</td><td>5</td><td>0</td><td>0</td><td>
-<tr><td>Slither</td><td>7</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Othello</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Cranium</td><td>0</td><td>4</td><td>16</td><td>0</td><td>4</td><td>
-<tr><td>Go-Moku</td><td>0</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Star Wars: Imperial Assault</td><td>0</td><td>2</td><td>5</td><td>0</td><td>3</td><td>
-<tr><td>Tales of the Arabian Nights</td><td>0</td><td>2</td><td>4</td><td>0</td><td>3</td><td>
-<tr><td>CATAN</td><td>0</td><td>3</td><td>4</td><td>0</td><td>1</td><td>
-<tr><td>Da Yu: The Flood Conqueror</td><td>3</td><td>2</td><td>3</td><td>0</td><td>0</td><td>
-<tr><td>Witness</td><td>5</td><td>4</td><td>4</td><td>0</td><td>4</td><td>
-<tr><td>Cube Quest</td><td>8</td><td>2</td><td>2</td><td>0</td><td>0</td><td>
-<tr><td>Wits & Wagers</td><td>0</td><td>4</td><td>7</td><td>0</td><td>4</td><td>
-<tr><td>King of Tokyo</td><td>0</td><td>3</td><td>6</td><td>0</td><td>2</td><td>
-<tr><td>New York 1901</td><td>6</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Dungeon Twister</td><td>0</td><td>2</td><td>2</td><td>0</td><td>1</td><td>
-<tr><td>Blokus</td><td>6</td><td>2</td><td>4</td><td>0</td><td>0</td><td>
-<tr><td>Legendary: A Marvel Deck Building Game</td><td>0</td><td>1</td><td>4</td><td>0</td><td>3</td><td>
-</tbody></table>
+| Name | rating | minP | maxP | weight | wordy |
+|:--|:-:|:-:|:-:|:-:|:-:|
+| Lamarckian Poker | 7 | 2 | 6 | 0 | 0 |
+| Dominoes |  | 2 | 4 | 0 | 0 |
+| Tarot |  | 3 | 5 | 0 | 0 |
+| Regicide | 7 | 1 | 4 | 0 | 0 |
+| Splendor |  | 2 | 4 | 0 | 0 |
+| Scattergories |  | 2 | 6 | 0 | 4 |
+| Silk |  | 2 | 4 | 0 | 0 |
+| In a Pickle |  | 3 | 6 | 0 | 4 |
+| Not Alone |  | 3 | 7 | 0 | 2 |
+| Mage Wars Academy |  | 2 | 2 | 0 | 3 |
+| Telestrations |  | 5 | 8 | 0 | 3 |
+| Caldera |  | 2 | 2 | 0 | 0 |
+| Scrabble |  | 2 | 4 | 0 | 4 |
+| Stratego |  | 2 | 2 | 0 | 0 |
+| Battleship |  | 2 | 2 | 0 | 0 |
+| Gobblet | 7 | 2 | 2 | 0 | 0 |
+| Clank!: Legacy – Acquisitions Incorporated | 8 | 2 | 4 | 0 | 3 |
+| Dungeons & Dragons Dice Masters: Battle for Faerûn |  | 2 | 2 | 0 | 3 |
+| Sherlock Holmes Consulting Detective | 6 | 1 | 4 | 0 | 4 |
+| Dou Dizhu | 6 | 3 | 4 | 0 | 0 |
+| Escape from the Hidden Castle |  | 2 | 8 | 0 | 0 |
+| Big Brain Academy Boardgame |  | 2 | 6 | 0 | 3 |
+| The Game of Life in Monstropolis |  |  |  | 0 | ? |
+| Guess Who? |  | 2 | 2 | 0 | 0 |
+| Codex: Card-Time Strategy – Deluxe Set |  | 2 | 4 | 0 | 3 |
+| Spades | 5 | 4 | 4 | 0 | 0 |
+| Cosmic Encounter |  | 4 | 5 | 0 | 3 |
+| Red7 |  | 2 | 4 | 0 | 1 |
+| Win, Lose, or Banana |  | 3 | 3 | 0 | 0 |
+| Trivial Pursuit: 2000s |  | 3 | 6 | 0 | 3 |
+| Tumblin-Dice | 8 | 2 | 4 | 0 | 0 |
+| Timeline: Events |  | 2 | 8 | 0 | 2 |
+| Oh Hell! | 8 | 3 | 7 | 0 | 0 |
+| Mahjong Rummy |  | 1 | 4 | 0 | ? |
+| Risk: Star Wars – Clone Wars Edition |  | 2 | 4 | 0 | 2 |
+| Sushi Go! |  | 3 | 5 | 0 | 0 |
+| Slither | 7 | 2 | 2 | 0 | 0 |
+| Othello |  | 2 | 2 | 0 | 0 |
+| Cranium |  | 4 | 16 | 0 | 4 |
+| Go-Moku |  | 2 | 2 | 0 | 0 |
+| Star Wars: Imperial Assault |  | 2 | 5 | 0 | 3 |
+| Tales of the Arabian Nights |  | 2 | 4 | 0 | 3 |
+| CATAN |  | 3 | 4 | 0 | 1 |
+| Da Yu: The Flood Conqueror | 3 | 2 | 3 | 0 | 0 |
+| Witness | 5 | 4 | 4 | 0 | 4 |
+| Cube Quest | 8 | 2 | 2 | 0 | 0 |
+| Wits & Wagers |  | 4 | 7 | 0 | 4 |
+| King of Tokyo |  | 3 | 6 | 0 | 2 |
+| New York 1901 | 6 | 2 | 4 | 0 | 0 |
+| Dungeon Twister |  | 2 | 2 | 0 | 1 |
+| Blokus | 6 | 2 | 4 | 0 | 0 |
+| Legendary: A Marvel Deck Building Game |  | 1 | 4 | 0 | 3 |
+{: .js-sort-table }
+
 
 
 
@@ -183,11 +180,11 @@ f);var g=sortTable.getClickHandler(a[b],f);window.addEventListener?c.rows[d].cel
 0);c.insertRule('table.js-sort-table.js-sort-desc thead tr > .js-sort-active:not(.js-sort-none):after {content: "\\25bc";font-size: 0.7em;padding-left: 3px;line-height: 0.7em;}',0)};window.addEventListener?window.addEventListener("load",sortTable.init,!1):window.attachEvent&&window.attachEvent("onload",sortTable.init);"function"!==typeof NodeList.prototype.forEach&&(NodeList.prototype.forEach=Array.prototype.forEach);
 </script>
 
-<style>
+<!--<style>
     .js-sort-table td {
         style="text-align: center"
     }
-</style>
+</style>-->
 
 
 

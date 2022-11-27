@@ -1,7 +1,7 @@
 '''
 This script parses the collection.csv,
 which is exported from bgg,
-and converts it to an html table 
+and converts it to an html or markdown table 
 with trimmed down information.
 '''
 #%%
@@ -43,8 +43,8 @@ def printMDRow(gamename):
     game = gameDataMap[gamename]
     #print(game)
     assert len(game) == 6
-    #print('| ' + ' | '.join(game) + ' |')
-    print(r'<tr><td>' + r'</td><td>'.join(game) + r'</td><td>')
+    print('| ' + ' | '.join(game) + ' |')
+    #print(r'<tr><td>' + r'</td><td>'.join(game) + r'</td><td>')
 
 
 
@@ -56,8 +56,8 @@ tableHeader = r'''<table class="js-sort-table">
 tableFooter = r"</tbody></table>"
 
 
-#tableHeader = "| Name | rating | minP | maxP | weight | wordy |\n|:--|:-:|:-:|:-:|:-:|:-:|"
-#tableFooter = ""
+tableHeader = "| Name | rating | minP | maxP | weight | wordy |\n|:--|:-:|:-:|:-:|:-:|:-:|"
+tableFooter = "{: .js-sort-table }"
 
 
 
@@ -142,7 +142,7 @@ excludedGames = [ # games not to be converted to markdown
 
 
 #%% print the games in my apartment
-print(tableHeader, end='')
+print(tableHeader)
 for game in shelfList:
     printMDRow(game)
 for game in otherInHouseList:
@@ -152,7 +152,7 @@ print(tableFooter)
 
 #%% Print other games in collection
 
-print(tableHeader, end='')
+print(tableHeader)
 otherGames = set(gameDataMap.keys()) - set(shelfList) - set(otherInHouseList) - set(excludedGames)
 for game in otherGames:
     printMDRow(game)
