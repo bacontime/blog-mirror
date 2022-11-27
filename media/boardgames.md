@@ -21,7 +21,8 @@ These games are physically present in my house.
 The default sorting or 
 
 | Name | rating | minP | maxP | weight | wordy |
-|:--|:-:|:-:|:-:|:-:|:-:|| Watson & Holmes |  | 3 | 7 | 0 | 4 |
+|:--|:-:|:-:|:-:|:-:|:-:|
+| Watson & Holmes |  | 3 | 7 | 0 | 4 |
 | Castles of Mad King Ludwig |  | 2 | 4 | 0 | 1 |
 | Blueprints | 6 | 2 | 4 | 0 | 0 |
 | Mysterium |  | 3 | 7 | 0 | 0 |
