@@ -153,7 +153,7 @@ or they may be items like Spades which aren't distinct games.
 | Dungeon Twister | 0 | 2 | 2 | 0 | 1 |
 | Blokus | 6 | 2 | 4 | 0 | 0 |
 | Legendary: A Marvel Deck Building Game | 0 | 1 | 4 | 0 | 3 |
-{:.js-sort-table}
+
 
 
 
