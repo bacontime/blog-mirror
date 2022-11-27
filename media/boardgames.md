@@ -3,22 +3,21 @@ title: Boardgames
 subtitle: Boardgames in my collection
 layout: post
 date: 2022-11-26
-date_last_updated: 2022-11-26
+last_modified_date: 2022-11-26
 parent: Media
 nav_exclude: false
 description: "This is a list of board games I own, exported from BGG and converted to markdown."
 toc: false
 ---
 
-I have a lot of board games; so does my family.
-
-The following is a list of board games marked as "owned" on my BGG account.
+<!--I have a lot of board games; so does my family.
+The following is a list of board games marked as "owned" on my BGG account.-->
 
 
 ## Games in My Living Room
 
 These games are physically present in my house.
-The default sorting or 
+The default sorting order corresponds roughly to each game's shelf position.
 
 | Name | rating | minP | maxP | weight | wordy |
 |:--|:-:|:-:|:-:|:-:|:-:|
@@ -99,7 +98,7 @@ The default sorting or
 
 These are games which are marked as "owned" on my BGG account, but which aren't present on my shelf.
 These may games at my parents' house back in Kansas, 
-or they may be items like Spades which aren't distinct games.
+or they may be items like Spades which don't have distinct game boxes.
 
 | Name | rating | minP | maxP | weight | wordy |
 |:--|:-:|:-:|:-:|:-:|:-:|
