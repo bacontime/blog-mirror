@@ -1,5 +1,6 @@
 ---
 title: Encabulators
+description: The turbo-encabulator has now reached a high level of development, and it’s being successfully used in the operation of novertrunnions. Moreover, whenever a forescent skor motion is required, it may also be employed in conjunction with a drawn reciprocation dingle arm, to reduce sinusoidal repleneration.
 parent: Links
 has_children: false
 nav_exclude: false
