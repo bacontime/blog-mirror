@@ -1,5 +1,6 @@
 ---
 title: Misc Links
+parent: Links
 nav_exclude: true
 ---
 

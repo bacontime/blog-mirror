@@ -1,5 +1,6 @@
 ---
 title: Neat Stuff
+parent: Links
 has_children: false
 nav_exclude: false
 ---
