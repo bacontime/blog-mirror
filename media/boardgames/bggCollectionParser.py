@@ -23,14 +23,15 @@ with open("collection.csv", encoding="utf8") as f:
     csv_reader = csv.reader(f, delimiter=',')
     next(csv_reader) #skips first row
     for row in csv_reader:
-        name, rating, weight, bggrecplayers, bgglanguagedependence = row[0], row[2], row[4], row[33], row[36]
+        name, myrating, avgrating, weight, bggrecplayers, bgglanguagedependence = row[0], row[2], row[21], row[22], row[33], row[36]
         #print([(i,x) for i,x in enumerate(row)])
         players = bggrecplayers.split(',')
+        weight = weight[:3]
         minplayer,maxplayer = players[0], players[-1]
         wordiness = langMap[bgglanguagedependence]
-        if rating == "0":
-            rating = ""
-        gameDataMap[name] = [name,rating, minplayer,maxplayer, weight, wordiness]
+        if myrating == "0":
+            myrating = ""
+        gameDataMap[name] = [name, myrating, minplayer,maxplayer, weight, wordiness]
 
 
 

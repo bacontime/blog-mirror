@@ -1,6 +1,6 @@
 ---
 title: Boardgames
-subtitle: Boardgames in my collection
+subtitle: A formatted table of my collection.
 layout: post
 date: 2022-11-26
 last_modified_date: 2022-11-26
@@ -18,75 +18,77 @@ The following is a list of board games marked as "owned" on my BGG account.-->
 
 These games are physically present in my house.
 The default sorting order corresponds roughly to each game's shelf position.
+The headers can be clicked on to change sort order.
 
 | Name | rating | minP | maxP | weight | wordy |
 |:--|:-:|:-:|:-:|:-:|:-:|
-| Watson & Holmes |  | 3 | 7 | 0 | 4 |
-| Castles of Mad King Ludwig |  | 2 | 4 | 0 | 1 |
-| Blueprints | 6 | 2 | 4 | 0 | 0 |
-| Mysterium |  | 3 | 7 | 0 | 0 |
-| The Quest for El Dorado |  | 2 | 4 | 0 | 1 |
-| Zendo | 9 | 3 | 5 | 0 | 0 |
-| Cthulhu Wars |  | 3 | 4 | 0 | 2 |
-| Jaipur | 7 | 2 | 2 | 0 | 0 |
-| Kingdomino |  | 2 | 4 | 0 | 0 |
-| Raptor |  | 2 | 2 | 0 | 0 |
-| My Little Scythe |  | 1 | 6 | 0 | 2 |
-| Okey Dokey |  | 1 | 5 | 0 | 0 |
-| Photosynthesis | 8 | 2 | 4 | 0 | 0 |
-| Dancing Eggs | 6 | 3 | 4 | 0 | 0 |
-| KeyForge: Call of the Archons |  | 2 | 2 | 0 | 3 |
-| Agricola |  | 1 | 5 | 0 | 3 |
-| Machi Koro Legacy |  | 2 | 4 | 0 | 1 |
-| Mahjong | 6 | 4 | 4 | 0 | 0 |
-| Hive Pocket |  | 2 | 2 | 0 | 0 |
-| TAJ |  | 3 | 4 | 0 | 0 |
-| Codenames: Pictures |  | 4 | 8 | 0 | 0 |
-| Codenames: Duet |  | 2 | 2 | 0 | 4 |
-| Tsuro |  | 2 | 8 | 0 | 0 |
-| Mage Knight Board Game |  | 1 | 3 | 0 | 3 |
-| Scoville | 7 | 2 | 5 | 0 | 0 |
-| Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures | 7 | 1 | 4 | 0 | 4 |
-| Disney Villainous: Perfectly Wretched |  | 2 | 3 | 0 | 3 |
-| Charterstone |  | 2 | 6 | 0 | 3 |
-| Hanamikoji |  | 2 | 2 | 0 | 0 |
-| Planet |  | 2 | 4 | 0 | 0 |
-| Funkoverse Strategy Game | 8 | 2 | 4 | 0 | 1 |
-| Attack on Titan: The Last Stand | 5 | 3 | 5 | 0 | 1 |
-| Coup |  | 3 | 6 | 0 | 1 |
-| Pandemic: Iberia |  | 1 | 5 | 0 | 1 |
-| Adventure Time Card Wars: Finn vs. Jake |  | 2 | 2 | 0 | 2 |
-| The Castles of Burgundy | 7 | 2 | 4 | 0 | 0 |
-| Porta Nigra | 6 | 2 | 4 | 0 | 0 |
-| Biblios |  | 2 | 4 | 0 | 0 |
-| Sushi Go Party! |  | 2 | 8 | 0 | 1 |
-| Tales & Games: The Hare & the Tortoise | 8 | 2 | 5 | 0 | 0 |
-| Santorini |  | 2 | 3 | 0 | 0 |
-| Bob Ross: Art of Chill Game | 7 | 2 | 4 | 0 | 2 |
-| Azul |  | 2 | 4 | 0 | 0 |
-| ICECOOL |  | 3 | 4 | 0 | 0 |
-| Caverna: Cave vs Cave | 7 | 1 | 2 | 0 | 1 |
-| Welcome to the Dungeon |  | 2 | 4 | 0 | 1 |
-| Magic: The Gathering – Heroes of Dominaria Board Game |  | 2 | 4 | 0 | 2 |
-| Lord of the Rings: The Confrontation |  | 2 | 2 | 0 | 2 |
-| String Railway |  | 3 | 5 | 0 | 0 |
-| Trains: Rising Sun |  | 2 | 4 | 0 | 1 |
-| Catacombs (Third Edition) | 9 | 2 | 5 | 0 | 0 |
-| Portal: The Uncooperative Cake Acquisition Game | 6 | 2 | 4 | 0 | 2 |
-| Jungle Speed |  | 3 | 8 | 0 | 0 |
-| ZÈRTZ |  | 2 | 2 | 0 | 0 |
-| Loony Quest |  | 2 | 5 | 0 | 0 |
-| Jenga | 9 | 2 | 6 | 1 | 0 |
-| Deep Sea Adventure |  | 3 | 6 | 0 | 0 |
-| Love Letter |  | 3 | 4 | 0 | 1 |
-| BANG! The Dice Game |  | 5 | 8 | 0 | 1 |
-| Epic Card Game | 6 | 2 | 4 | 0 | 3 |
-| Spot it! |  | 2 | 8 | 0 | 0 |
-| Epic Card Game | 6 | 2 | 4 | 0 | 3 |
-| Mint Works |  | 1 | 4 | 0 | 1 |
-| Portal: The Uncooperative Cake Acquisition Game | 6 | 2 | 4 | 0 | 2 |
-| Go | 8 | 2 | 2 | 0 | 0 |
+| Watson & Holmes |  | 3 | 7 | 2.1 | 4 |
+| Castles of Mad King Ludwig |  | 2 | 4 | 2.6 | 1 |
+| Blueprints | 6 | 2 | 4 | 1.6 | 0 |
+| Mysterium |  | 3 | 7 | 1.9 | 0 |
+| The Quest for El Dorado |  | 2 | 4 | 1.9 | 1 |
+| Zendo | 9 | 3 | 5 | 2.5 | 0 |
+| Cthulhu Wars |  | 3 | 4 | 3.1 | 2 |
+| Jaipur | 7 | 2 | 2 | 1.4 | 0 |
+| Kingdomino |  | 2 | 4 | 1.2 | 0 |
+| Raptor |  | 2 | 2 | 2.0 | 0 |
+| My Little Scythe |  | 1 | 6 | 2 | 2 |
+| Okey Dokey |  | 1 | 5 | 1.1 | 0 |
+| Photosynthesis | 8 | 2 | 4 | 2.2 | 0 |
+| Dancing Eggs | 6 | 3 | 4 | 1.0 | 0 |
+| KeyForge: Call of the Archons |  | 2 | 2 | 2.5 | 3 |
+| Agricola |  | 1 | 5 | 3.6 | 3 |
+| Machi Koro Legacy |  | 2 | 4 | 1.9 | 1 |
+| Mahjong | 6 | 4 | 4 | 2.5 | 0 |
+| Hive Pocket |  | 2 | 2 | 2.2 | 0 |
+| TAJ |  | 3 | 4 | 2.1 | 0 |
+| Codenames: Pictures |  | 4 | 8 | 1.2 | 0 |
+| Codenames: Duet |  | 2 | 2 | 1.3 | 4 |
+| Tsuro |  | 2 | 8 | 1.2 | 0 |
+| Mage Knight Board Game |  | 1 | 3 | 4.3 | 3 |
+| Scoville | 7 | 2 | 5 | 2.7 | 0 |
+| Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures | 7 | 1 | 4 | 2.1 | 4 |
+| Disney Villainous: Perfectly Wretched |  | 2 | 3 | 2.3 | 3 |
+| Charterstone |  | 2 | 6 | 2.8 | 3 |
+| Hanamikoji |  | 2 | 2 | 1.7 | 0 |
+| Planet |  | 2 | 4 | 1.5 | 0 |
+| Funkoverse Strategy Game | 8 | 2 | 4 | 2.1 | 1 |
+| Attack on Titan: The Last Stand | 5 | 3 | 5 | 2.2 | 1 |
+| Coup |  | 3 | 6 | 1.4 | 1 |
+| Pandemic: Iberia |  | 1 | 5 | 2.5 | 1 |
+| Adventure Time Card Wars: Finn vs. Jake |  | 2 | 2 | 1.7 | 2 |
+| The Castles of Burgundy | 7 | 2 | 4 | 2.9 | 0 |
+| Porta Nigra | 6 | 2 | 4 | 2.9 | 0 |
+| Biblios |  | 2 | 4 | 1.6 | 0 |
+| Sushi Go Party! |  | 2 | 8 | 1.3 | 1 |
+| Tales & Games: The Hare & the Tortoise | 8 | 2 | 5 | 1.3 | 0 |
+| Santorini |  | 2 | 3 | 1.7 | 0 |
+| Bob Ross: Art of Chill Game | 7 | 2 | 4 | 1.7 | 2 |
+| Azul |  | 2 | 4 | 1.7 | 0 |
+| ICECOOL |  | 3 | 4 | 1.0 | 0 |
+| Caverna: Cave vs Cave | 7 | 1 | 2 | 2.5 | 1 |
+| Welcome to the Dungeon |  | 2 | 4 | 1.2 | 1 |
+| Magic: The Gathering – Heroes of Dominaria Board Game |  | 2 | 4 | 2.2 | 2 |
+| Lord of the Rings: The Confrontation |  | 2 | 2 | 2.1 | 2 |
+| String Railway |  | 3 | 5 | 1.4 | 0 |
+| Trains: Rising Sun |  | 2 | 4 | 2.4 | 1 |
+| Catacombs (Third Edition) | 9 | 2 | 5 | 2.2 | 0 |
+| Portal: The Uncooperative Cake Acquisition Game | 6 | 2 | 4 | 2.1 | 2 |
+| Jungle Speed |  | 3 | 8 | 1.1 | 0 |
+| ZÈRTZ |  | 2 | 2 | 2.7 | 0 |
+| Loony Quest |  | 2 | 5 | 1.1 | 0 |
+| Jenga | 9 | 2 | 6 | 1.1 | 0 |
+| Deep Sea Adventure |  | 3 | 6 | 1.1 | 0 |
+| Love Letter |  | 3 | 4 | 1.1 | 1 |
+| BANG! The Dice Game |  | 5 | 8 | 1.2 | 1 |
+| Epic Card Game | 6 | 2 | 4 | 2.5 | 3 |
+| Spot it! |  | 2 | 8 | 1.0 | 0 |
+| Epic Card Game | 6 | 2 | 4 | 2.5 | 3 |
+| Mint Works |  | 1 | 4 | 1.7 | 1 |
+| Portal: The Uncooperative Cake Acquisition Game | 6 | 2 | 4 | 2.1 | 2 |
+| Go | 8 | 2 | 2 | 3.9 | 0 |
 {: .js-sort-table }
+
 
 
 
@@ -102,59 +104,61 @@ or they may be items like Spades which don't have distinct game boxes.
 
 | Name | rating | minP | maxP | weight | wordy |
 |:--|:-:|:-:|:-:|:-:|:-:|
-| Lamarckian Poker | 7 | 2 | 6 | 0 | 0 |
-| Dominoes |  | 2 | 4 | 0 | 0 |
-| Tarot |  | 3 | 5 | 0 | 0 |
-| Regicide | 7 | 1 | 4 | 0 | 0 |
-| Splendor |  | 2 | 4 | 0 | 0 |
-| Scattergories |  | 2 | 6 | 0 | 4 |
-| Silk |  | 2 | 4 | 0 | 0 |
-| In a Pickle |  | 3 | 6 | 0 | 4 |
-| Not Alone |  | 3 | 7 | 0 | 2 |
-| Mage Wars Academy |  | 2 | 2 | 0 | 3 |
-| Telestrations |  | 5 | 8 | 0 | 3 |
-| Caldera |  | 2 | 2 | 0 | 0 |
-| Scrabble |  | 2 | 4 | 0 | 4 |
-| Stratego |  | 2 | 2 | 0 | 0 |
-| Battleship |  | 2 | 2 | 0 | 0 |
-| Gobblet | 7 | 2 | 2 | 0 | 0 |
-| Clank!: Legacy – Acquisitions Incorporated | 8 | 2 | 4 | 0 | 3 |
-| Dungeons & Dragons Dice Masters: Battle for Faerûn |  | 2 | 2 | 0 | 3 |
-| Sherlock Holmes Consulting Detective | 6 | 1 | 4 | 0 | 4 |
-| Dou Dizhu | 6 | 3 | 4 | 0 | 0 |
-| Escape from the Hidden Castle |  | 2 | 8 | 0 | 0 |
-| Big Brain Academy Boardgame |  | 2 | 6 | 0 | 3 |
-| The Game of Life in Monstropolis |  |  |  | 0 | ? |
-| Guess Who? |  | 2 | 2 | 0 | 0 |
-| Codex: Card-Time Strategy – Deluxe Set |  | 2 | 4 | 0 | 3 |
-| Spades | 5 | 4 | 4 | 0 | 0 |
-| Cosmic Encounter |  | 4 | 5 | 0 | 3 |
-| Red7 |  | 2 | 4 | 0 | 1 |
-| Win, Lose, or Banana |  | 3 | 3 | 0 | 0 |
-| Trivial Pursuit: 2000s |  | 3 | 6 | 0 | 3 |
-| Tumblin-Dice | 8 | 2 | 4 | 0 | 0 |
-| Timeline: Events |  | 2 | 8 | 0 | 2 |
-| Oh Hell! | 8 | 3 | 7 | 0 | 0 |
-| Mahjong Rummy |  | 1 | 4 | 0 | ? |
-| Risk: Star Wars – Clone Wars Edition |  | 2 | 4 | 0 | 2 |
-| Sushi Go! |  | 3 | 5 | 0 | 0 |
-| Slither | 7 | 2 | 2 | 0 | 0 |
-| Othello |  | 2 | 2 | 0 | 0 |
-| Cranium |  | 4 | 16 | 0 | 4 |
-| Go-Moku |  | 2 | 2 | 0 | 0 |
-| Star Wars: Imperial Assault |  | 2 | 5 | 0 | 3 |
-| Tales of the Arabian Nights |  | 2 | 4 | 0 | 3 |
-| CATAN |  | 3 | 4 | 0 | 1 |
-| Da Yu: The Flood Conqueror | 3 | 2 | 3 | 0 | 0 |
-| Witness | 5 | 4 | 4 | 0 | 4 |
-| Cube Quest | 8 | 2 | 2 | 0 | 0 |
-| Wits & Wagers |  | 4 | 7 | 0 | 4 |
-| King of Tokyo |  | 3 | 6 | 0 | 2 |
-| New York 1901 | 6 | 2 | 4 | 0 | 0 |
-| Dungeon Twister |  | 2 | 2 | 0 | 1 |
-| Blokus | 6 | 2 | 4 | 0 | 0 |
-| Legendary: A Marvel Deck Building Game |  | 1 | 4 | 0 | 3 |
+| Battleship |  | 2 | 2 | 1.2 | 0 |
+| Big Brain Academy Boardgame |  | 2 | 6 | 1.6 | 3 |
+| Blokus | 6 | 2 | 4 | 1.7 | 0 |
+| CATAN |  | 3 | 4 | 2.3 | 1 |
+| Caldera |  | 2 | 2 | 2 | 0 |
+| Clank!: Legacy – Acquisitions Incorporated | 8 | 2 | 4 | 2.7 | 3 |
+| Codex: Card-Time Strategy – Deluxe Set |  | 2 | 4 | 3.6 | 3 |
+| Cosmic Encounter |  | 4 | 5 | 2.5 | 3 |
+| Cranium |  | 4 | 16 | 1.4 | 4 |
+| Cube Quest | 8 | 2 | 2 | 1.0 | 0 |
+| Da Yu: The Flood Conqueror | 3 | 2 | 3 | 2.3 | 0 |
+| Dominoes |  | 2 | 4 | 1.3 | 0 |
+| Dou Dizhu | 6 | 3 | 4 | 2.1 | 0 |
+| Dungeon Twister |  | 2 | 2 | 2.8 | 1 |
+| Dungeons & Dragons Dice Masters: Battle for Faerûn |  | 2 | 2 | 2.2 | 3 |
+| Escape from the Hidden Castle |  | 2 | 8 | 1.1 | 0 |
+| Go-Moku |  | 2 | 2 | 1.8 | 0 |
+| Gobblet | 7 | 2 | 2 | 1.8 | 0 |
+| Guess Who? |  | 2 | 2 | 1.1 | 0 |
+| In a Pickle |  | 3 | 6 | 1.2 | 4 |
+| King of Tokyo |  | 3 | 6 | 1.4 | 2 |
+| Lamarckian Poker | 7 | 2 | 6 | 1.6 | 0 |
+| Legendary: A Marvel Deck Building Game |  | 1 | 4 | 2.4 | 3 |
+| Mage Wars Academy |  | 2 | 2 | 3.0 | 3 |
+| Mahjong Rummy |  | 1 | 4 | 2 | ? |
+| New York 1901 | 6 | 2 | 4 | 2.0 | 0 |
+| Not Alone |  | 3 | 7 | 1.9 | 2 |
+| Oh Hell! | 8 | 3 | 7 | 1.7 | 0 |
+| Othello |  | 2 | 2 | 2.0 | 0 |
+| Red7 |  | 2 | 4 | 1.6 | 1 |
+| Regicide | 7 | 1 | 4 | 1.9 | 0 |
+| Risk: Star Wars – Clone Wars Edition |  | 2 | 4 | 2.2 | 2 |
+| Scattergories |  | 2 | 6 | 1.3 | 4 |
+| Scrabble |  | 2 | 4 | 2.0 | 4 |
+| Sherlock Holmes Consulting Detective | 6 | 1 | 4 | 2.6 | 4 |
+| Silk |  | 2 | 4 | 2.5 | 0 |
+| Slither | 7 | 2 | 2 | 2.9 | 0 |
+| Spades | 5 | 4 | 4 | 2.0 | 0 |
+| Splendor |  | 2 | 4 | 1.7 | 0 |
+| Star Wars: Imperial Assault |  | 2 | 5 | 3.3 | 3 |
+| Stratego |  | 2 | 2 | 1.8 | 0 |
+| Sushi Go! |  | 3 | 5 | 1.1 | 0 |
+| Tales of the Arabian Nights |  | 2 | 4 | 2.1 | 3 |
+| Tarot |  | 3 | 5 | 2.4 | 0 |
+| Telestrations |  | 5 | 8 | 1.0 | 3 |
+| The Game of Life in Monstropolis |  |  |  | 1 | ? |
+| Timeline: Events |  | 2 | 8 | 1.0 | 2 |
+| Trivial Pursuit: 2000s |  | 3 | 6 | 1 | 3 |
+| Tumblin-Dice | 8 | 2 | 4 | 1.0 | 0 |
+| Win, Lose, or Banana |  | 3 | 3 | 1.0 | 0 |
+| Witness | 5 | 4 | 4 | 1.5 | 4 |
+| Wits & Wagers |  | 4 | 7 | 1.2 | 4 |
 {: .js-sort-table }
+
+
 
 
 
