@@ -40,7 +40,7 @@ And it was only in the last century that people realized that mushrooms aren't p
 -->
 
 These kinds of discussions can be somewhat silly, but 
-let's run with the fish example, and look for other similary silly animal classifications.
+let's run with the fish example, and look for other similarly silly animal classifications.
 
 The following is a cladistic tree of life using common names instead of latin names.
 When a common-name describes a non-clade group, I'll play a bit fast and loose with that common name to turn it into a clade.
@@ -273,6 +273,12 @@ A bug expert might insist that "bug" refers only to a specific clade of insects,
 either [hemiptera](https://askabiologist.asu.edu/explore/true-bugs) or [heteroptera](https://www.britannica.com/animal/heteropteran), depending on who you ask.
 But we all know what a bug is.
 It's a creepy crawly little whatzit with too many skittery legs. It's near synonymous with "arthropod".
+
+I'm not the only one who uses the term "bug" this way.
+[BugGuide.net](https://bugguide.net/node/view/15740) is about "Insects, Spiders & Their Kin", for example.
+The "bug" emoji 🐛 doesn't depict a "true bug".
+And [etymologically, "bug" probably comes from a word that means "something scary"](https://www.etymonline.com/search?q=bug).
+(Ignore the fact that bacteria are sometimes called bugs, because then *every* living creature would cladistically be a bug.)
 
 <!--
 Let me check to make sure I'm not the only one who feels this way about the word bug. 
