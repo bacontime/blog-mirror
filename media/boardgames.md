@@ -1,13 +1,13 @@
 ---
 title: Boardgames
 subtitle: A formatted table of my collection.
+description: "This is a list of board games I own, exported from BGG and converted to markdown."
+parent: Media
+grand_parent: Art and Culture
 layout: post
+toc: false
 date: 2022-11-26
 last_modified_date: 2022-11-26
-parent: Media
-nav_exclude: false
-description: "This is a list of board games I own, exported from BGG and converted to markdown."
-toc: false
 ---
 
 <!--I have a lot of board games; so does my family.

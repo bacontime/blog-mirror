@@ -1,10 +1,17 @@
 ---
 title: YouTube Channels
-parent: Media
 description: "This is a list of Youtube channels I like to check back to watch."
+parent: Media
+grand_parent: Art and Culture
+layout: post
+toc: false
+date: 2021-06-24
 ---
 
-Youtube's recomendation algorithm is evil and an unsorted list of every subscription isn't great for finding stuff I want to watch, so I made a categorized list of youtube channels that I like to check occasionally.
+<!--
+last_modified_date: 2022-11-27-->
+
+Youtube's recommendation algorithm is evil and an unsorted list of every subscription isn't great for finding stuff I want to watch, so I made a categorized list of youtube channels that I like to check occasionally.
 
 
 

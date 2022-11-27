@@ -1,8 +1,11 @@
 ---
 title: Movies
-parent: Media
-nav_exclude: false
 description: "This is a list of movies I've seen and remember."
+parent: Media
+grand_parent: Art and Culture
+layout: post
+toc: false
+date: 2021-09-14
 ---
 
 ## Rating Meaning

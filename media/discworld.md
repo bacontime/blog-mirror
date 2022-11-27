@@ -2,6 +2,9 @@
 title: Discworld Ranking
 description: A ranking of Discworld novels, based on personal preferences.
 parent: Media
+grand_parent: Art and Culture
+layout: post
+toc: false
 date: 2022-08-21
 last_modified_date: 2022-11-26
 ---
