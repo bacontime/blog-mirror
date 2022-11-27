@@ -278,7 +278,7 @@ I'm not the only one who uses the term "bug" this way.
 [BugGuide.net](https://bugguide.net/node/view/15740) is about "Insects, Spiders & Their Kin", for example.
 The "bug" emoji 🐛 doesn't depict a "true bug".
 And [etymologically, "bug" probably comes from a word that means "something scary"](https://www.etymonline.com/search?q=bug).
-(Ignore the fact that bacteria are sometimes called bugs, because then *every* living creature would cladistically be a bug.)
+(Ignore the fact that bacteria are sometimes called bugs, because then *every* living organism would cladistically be a bug.)
 
 <!--
 Let me check to make sure I'm not the only one who feels this way about the word bug. 
@@ -345,15 +345,15 @@ For example, the brine shrimp (called Sea-monkeys when sold as pets) are more cl
 So in this exercise, insects are crustaceans, and crustaceans are all shrimps, so insects are shrimps.
 
 Meanwhile, the 'classic' crustaceans are in the clade *Malacostraca*, which means 'soft-shell' in Greek. 
-Aristotle gave them this name because their shells crush under pressure, in constrast to harder-shelled animals (like snails and oysters) whose shells shatter under pressure. [^aristotlecite]
-The most familiar Malacostracans - 🦀🦞🦐 crabs, lobsters, and the other big shrimps people like to eat - are Decapods, in the clade *Decapoda*, meaning 'ten-feet'.  
+Aristotle gave them this name because their shells crush under pressure, in constrast to harder-shelled animals (like snails and oysters) whose shells shatter under pressure.[^aristotlecite]
+The most familiar Malacostracans - 🦀🦞🦐 crabs, lobsters, and the other big shrimps people like to eat - are Decapods, in the clade *Decapoda*, meaning 'ten-feet'.
 Malacostraca includes the decapods as well as other creatures like mantis shrimp and roly-polies (isopods).
 
 <!--Krill are not decapods though, and my wife likes to snack on those.-->
 
 I wanted to find a common-name which cladistically includes all of the decapods, and settled on "Prawns".
 Like "shrimp", "prawn" has no precise scientific meaning. 
-A critter is prawn if it looks like a prawn, and whether a critter is called a "prawn" or a "shrimp" often comes down to regional slang. [^weaselprawncite]
+A critter is prawn if it looks like a prawn, and whether a critter is called a "prawn" or a "shrimp" often comes down to regional slang.[^weaselprawncite]
 But unlike "shrimp", the application of the name "prawn" seems limited to decapods.
 
 <!--MW dict lists two true shrimps as prawns
