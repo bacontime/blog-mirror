@@ -1,0 +1,146 @@
+'''
+This script parses the collection.csv,
+which is exported from bgg,
+and converts it to a markdown table 
+with trimmed down information.
+'''
+#%%
+import csv
+
+gameDataMap = dict()
+
+langMap = {
+    "No necessary in-game text": "0",
+    "Some necessary text - easily memorized or small crib sheet": "1",
+    "Moderate in-game text - needs crib sheet or paste ups": "2",
+    "Extensive use of text - massive conversion needed to be playable": "3",
+    "Unplayable in another language": "4",
+    "": "?",
+}
+
+with open("collection.csv", encoding="utf8") as f:
+    #for line in f.readlines():
+    csv_reader = csv.reader(f, delimiter=',')
+    next(csv_reader) #skips first row
+    for row in csv_reader:
+        name, rating, weight, bggrecplayers, bgglanguagedependence = row[0], row[2], row[4], row[33], row[36]
+        #print([(i,x) for i,x in enumerate(row)])
+        players = bggrecplayers.split(',')
+        minplayer,maxplayer = players[0], players[-1]
+        wordiness = langMap[bgglanguagedependence]
+        gameDataMap[name] = [name,rating, minplayer,maxplayer, weight, wordiness]
+
+
+
+# TODO: include info on whether game is homemade, customized, etc.
+# player count, language dependency, age?
+
+
+#%% Define function for creating markdown row
+def printMDRow(gamename):
+    game = gameDataMap[gamename]
+    #print(game)
+    assert len(game) == 6
+    print('| ' + ' | '.join(game) + ' |')
+
+tableHeader = '''| Name | rating | minP | maxP | weight | wordy |
+|:--|:-:|:-:|:-:|:-:|:-:|
+'''
+
+
+# %%
+shelfList = [
+    'Watson & Holmes',
+    'Castles of Mad King Ludwig',
+    'Blueprints',
+    'Mysterium',
+    'The Quest for El Dorado',
+    'Zendo',
+    'Cthulhu Wars',
+    'Jaipur',
+    'Kingdomino',
+    'Raptor',
+    'My Little Scythe',
+    'Okey Dokey',
+    'Photosynthesis',
+    'Dancing Eggs',
+    'KeyForge: Call of the Archons',
+    'Agricola',
+    'Machi Koro Legacy',
+    'Mahjong',
+    'Hive Pocket',
+    'TAJ',
+    'Codenames: Pictures',
+    'Codenames: Duet',
+    'Tsuro',
+    'Mage Knight Board Game',
+    'Scoville',
+    'Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures',
+    'Disney Villainous: Perfectly Wretched',
+    'Charterstone',
+    'Hanamikoji',
+    'Planet',
+    'Funkoverse Strategy Game',
+    'Attack on Titan: The Last Stand',
+    'Coup',
+    'Pandemic: Iberia',
+    'Adventure Time Card Wars: Finn vs. Jake',
+    'The Castles of Burgundy',
+    'Porta Nigra',
+    'Biblios',
+    'Sushi Go Party!',
+    'Tales & Games: The Hare & the Tortoise',
+    'Santorini',
+    'Bob Ross: Art of Chill Game',
+    'Azul',
+    'ICECOOL',
+    'Caverna: Cave vs Cave',
+    'Welcome to the Dungeon',
+    'Magic: The Gathering – Heroes of Dominaria Board Game',
+    'Lord of the Rings: The Confrontation',
+    'String Railway',
+    'Trains: Rising Sun',
+    'Catacombs (Third Edition)',
+]
+
+otherInHouseList = [
+    'Portal: The Uncooperative Cake Acquisition Game',
+    'Jungle Speed',
+    'ZÈRTZ',
+    'Loony Quest',
+    'Jenga',
+    'Deep Sea Adventure',
+    'Love Letter',
+    'BANG! The Dice Game',
+    'Epic Card Game',
+    'Spot it!',
+    'Epic Card Game',
+    'Mint Works',
+    'Portal: The Uncooperative Cake Acquisition Game',
+    'Go',
+]
+
+
+excludedGames = [ # games not to be converted to markdown
+    #'Mahjong Rummy',
+    'Hive',
+    'Homeworlds',
+]
+
+
+#%% print the games in my apartment
+print(tableHeader, end='')
+for game in shelfList:
+    printMDRow(game)
+for game in otherInHouseList:
+    printMDRow(game)
+
+
+#%% Print other games in collection
+
+print(tableHeader, end='')
+otherGames = set(gameDataMap.keys()) - set(shelfList) - set(otherInHouseList) - set(excludedGames)
+for game in otherGames:
+    printMDRow(game)
+
+# %%
