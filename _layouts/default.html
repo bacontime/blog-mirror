@@ -125,11 +125,13 @@ layout: table_wrappers
           <hr>
           <h2 class="text-delta">Pages in this group</h2>
           <ul>
-            {%- assign children_list = pages_list | where: "parent", page.title | where_exp: "item", "item.nav_exclude == nil or item.nav_exclude == false" -%}
+            {%- assign children_list = pages_list | where: "parent", page.title -%}
             {% for child in children_list %}
+            {%- if child.nav_exclude != true -%}
               <li>
                 <a href="{{ child.url | absolute_url }}">{{ child.title }}</a>{% if child.summary %} - {{ child.summary }}{% endif %}
               </li>
+            {% endif %}
             {% endfor %}
           </ul>
         {% endif %}
