@@ -90,7 +90,7 @@ Worms
 ┃     ┣╸Crickets: 🦗
 ┃     ┗╸Roaches: 🪳
 ┣╸Mollusks: 🐙🦑🐚🐌🦪
-┣╸Ringed Worms: 🪱
+┣╸Segmented Worms: 🪱
 ┗╸Fishes
   ┣╸Sharks: 🦈
   ┣╸Ray-finned Fish: 🐟🐠🐡
@@ -424,7 +424,7 @@ Nearly all animals, excepting a few simple creatures like jellies and sponges, a
 Birds of Prey, (aka "Raptors", though *Jurassic Park* has completely changed the meaning of that term,) are the big fierce hunter birds.
 Eagles, hawks, falcons -- you know the lot.
 It was a sensible guess that these birds might be a clade, but it is now known that falcons are more closely related to parrots and songbirds.
-The clade containing all the birds of prey is now called "Telluraves", which means "Earth-birds".
+The clade containing all the birds of prey is now called "Telluraves", which means "Earth-birds" or "Land-birds".
 Owls and woodpeckers are also telluravians.
 
 The 🐦 emoji is displayed as different species depending on the emoji set, but all of the identifiable species (bluebird, cardinal, canary, parrot) are telluravians. 
@@ -485,22 +485,36 @@ In some cases, I wasn't able to find a common name which could be expanded to co
 ### Actual Clade Names
 
 - Arachnids - Everyone's heard of Arachne, right?
-- Supraprimates - It rolls off the tongue better than the synonym *Euarchontoglires*, which means soemthing like 'true-ancestors-and-dormice'.  
-- Even-toed Ungulates
-- Odd-toed Ungulates
-- Crocodilians - Secret tip: Never worry about whether it's a crocodile or an alligator. Just call them both crocodilians.
-- Ratites - This is the term for those weird flightless birds. Kiwis, emus, and the like. The name comes from the shape of their sternum. <!--Why isn't there a kiwibird emoji?-->
-- Fowl (Galloanserae), Landfowl (Galliformes), and Waterfowl (Anseriformes)
+- Mollusks (Mollusca)
+- Segmented Worms (Annelida)
+- Mammals (Mammalia)
+- Supraprimates - It rolls off the tongue better than the synonym *Euarchontoglires*, which means soemthing like 'true-ancestors-and-dormice'.
 - Rodents (Rodentia)
 - Camelids
+- Pigs (Suidae)
+- Giraffes (Giraffa) - I didn't put Okapi on the tree. Okapi aren't giraffes, but they are giraffids.
+- Carnivorans (Carnivora)
+- Cats (Felidae)
+- Dogs (Canidae)
+- Seals (Pinnipeds) - A sea lion is an eared seal. A walrus is a seal that hosts *MythBusters*.
+- Bats (Chiroptera)
+- Hedgehogs (Erinaceidae) - These used to be called "urchins". Closely related to the true shrews and moles.
+- Sloths (Folivora)
+- Crocodilians - Secret taxonomy tip: Never worry about whether it's a crocodile or an alligator. Just call them both crocodilians.
+- Turtles (Testudines)
+- Ratites - This is the term for those weird flightless birds. Kiwis, emus, and the like. The name comes from the shape of their sternum. <!--Why isn't there a kiwibird emoji?-->
+- Fowl (Galloanserae), Landfowl (Galliformes), and Waterfowl (Anseriformes)
+- Frogs (Anura) - Toads are just ugly frogs.
 
 <!--TODO: Give some of these sillier names.-->
 
 
 ### 'Translated' Names
 
+
 - Dogalikes (Caniformia)
-- Newbirds (Neoaves) - It's difficult to determine the relationships between birds within this clade because it underwent very rapid speciation after most of the dinos got wiped out [^neoavescite].
+- Even-toed Hoofers (Artiodactyla) and Odd-toed Hoofers (Perissodactyla) - These two clades are often called "ungulates", which is a Latin term referring to their hooves. I've translated "Ungulate" as "Hoofer". <aside>I have been informed that "hoofer" is a term for a tapdancer. I'm not changing it; I like the imagery.</aside>
+- Newbirds (Neoaves) - It's difficult to determine the relationships between birds within this clade because it underwent very rapid speciation after most of the dinos got wiped out [^neoavescite]. I've sidestepped the issue by only listing a few of the sub-clades.
 - Tyrants (Tyrannosaurus) - Listing all Theropods would make birds a subset, and I didn't want to indent that sublist an extra time.  
 
 
@@ -528,7 +542,10 @@ In some cases, I wasn't able to find a common name which could be expanded to co
 
 
 
-
+<!--
+From Aristotle to Linnaeus: the History of Taxonomy
+https://davesgarden.com/guides/articles/view/2051
+-->
 
 
 
