@@ -6,7 +6,7 @@ layout: post
 toc: true
 parent: Science and Nature
 date: 2022-04-28
-last_modified_date: 2022-07-23
+last_modified_date: 2022-11-28
 ---
 
 
@@ -784,10 +784,15 @@ Crabs and Lobsters are "Reptants"
 
 https://bugguide.net/node/view/15740
 bug guide includes spiders. spider is colloquial bug.
+
+Inkfish, snails/slugs, bivalves, for mollusks?
+
 -->
 
 
 ---
+
+## Links
 
 [OneZoom Tree of Life](http://www.onezoom.org/)
 : Zoomable fractal showing the tree of life. Playing around with it, it does seem like many of the branches are outdated.
@@ -795,7 +800,20 @@ bug guide includes spiders. spider is colloquial bug.
 [Vertlife](http://vertlife.org/)
 : A fork of OneZoom. More up to date, but only depicting the tetrapods. 
 
+[Tree of Life web project](http://tolweb.org/tree/phylogeny.html)
+: Hypertext tree of life with a seperate page for each node.
+
+<!--
+[Phylogeny Explorer](https://explorer.phylogenyexplorerproject.com/)
+: Work in progress. In closed beta.
+-->
+
+
+---
+
 (PLACEHOLDER FOR GRIDDED VISUALIZATION OF ANIMAL CLADES)
+
+---
 
 
 
