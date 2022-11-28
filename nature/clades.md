@@ -201,7 +201,7 @@ If you wanted to expand the clade to include everything that is sometimes *calle
 
 <!--Also, on a technicality, bees are fish in California.-->
 
----
+-------
 
 The remaining examples are listed in roughly decreasing order of sensibility:
 
@@ -229,6 +229,14 @@ This one seems like it might be a reasonable category; snakes and amphisbaenians
 Conversely, [tuatara](https://en.wikipedia.org/wiki/Tuatara) look super lizardy, and used to be considered lizards, but aren't part of the squamate clade. Biologists stopped calling them lizards when they noticed that while they do share some traits with lizards, they also share some traits with crocodiles (spiny plates) and turtles (beak instead of teeth). Tuatara are now thought to be the only surviving members of the [beakheads](https://en.wikipedia.org/wiki/Rhynchocephalia), a sort of sister clade to the lizards. Together, the squamates and beakheads form the clade of *Lepidosaurs*. And for the purposes of this exercise, it doesn't really matter whether we use "lizard" to refer to Squamata or Lepidosauria; both are clades full of lizardy things.
 TODO: Need to link a credible article which talks about these lads.
 -->
+
+### Rabbits (Leporidae)
+
+You might not even be aware that rabbits and hares are different things. Cladistically, they really aren't. 
+Rabbits usually dig burrows underground, and are born helpless (like us!).
+By contrast, hares build nests aboveground and are born ready to hop. It's primarily a distinction based on nesting behavior, not ancestry.
+An encyclopedia might define hares cladistically as the genus *lepus* and then define rabbits as the *non-hare leporids*. 
+But for this exercise, hares are rabbits. 
 
 
 
@@ -429,14 +437,19 @@ What's a shrew?
 [True shrews](https://www.youtube.com/watch?v=aFBp-iNTwBc) are a clade, closely related to hedgehogs.
 But there are also [tree shrews](https://www.youtube.com/watch?v=yt2ckFI2xwc) and [elephant shrews](https://www.youtube.com/watch?v=rvemPyOJZEY).
 All three of these creatures were once thought to be closely related, 
-but tree shrews are now know to be more closely related to primates, and elephants shrews are known to be more closely related to elephants than they are to true shrews (that's not a joke).
+but tree shrews are now know to be more closely related to primates, and elephant shrews are known to be more closely related to elephants than they are to true shrews (that's not a joke).
 
 The smallest clade that includes all of these shrews is *Placentalia*, encompassing all of the placental mammals - sheep, whales, elephants, you, your dog...
 
 A similar argument could be made to expand 'mole' to apply to all placental mammals, by way of the true moles and the golden moles.
 But 'shrew' sounds funnier, and I've heard it said that the shrew's bodyplan is in some sense the 'default' mammalian bodyplan.
 
-(There's also various species called "marsupial shrews" and "shrew possums", which would expand our shrew clade to include all the placental mammals and the marsupials. But unlike the previous shrews mentioned, biologists never grouped marsupial shrews together in the same clade with the other shrews; the pouch makes the difference clear. And besides, there are also creatures called "marsupial mice", "marsupial moles", "marsupial tapirs", and the "Tasmanian tiger". And in Chinese, kangaroos are called "pocket rats". People just weren't being very creative when they named some of these critters.)
+There's also various species called "marsupial shrews" and "shrew possums", 
+which would expand our shrew clade to include all the placental mammals and the marsupials. 
+But unlike the previous shrews mentioned, biologists never grouped marsupial shrews together in the same clade with the other shrews; the pouch makes the difference clear. 
+And besides, there are also creatures called "marsupial mice", "marsupial moles", "marsupial tapirs", and the "Tasmanian tiger". 
+And in Chinese, kangaroos are called "pocket rats". 
+People just weren't being very creative when they named some of these marsupial critters.
 
 
 
@@ -449,7 +462,7 @@ Speaking of marsupials, possums are not a clade. To make possums into a clade, t
 
 Possums aren't the same thing as **o**possums (american marsupials famous for playing dead) or shrew-oppossums (a marsupial which is neither a shrew nor an oppossum).
 But opossums are often called "'possums", and possums were named for their similarity to opossums.
-So for this exercise, I've lumped them together.
+So here, I've lumped them together.
 The smallest clade that includes all the (o)possums is the clade which includes every marsupial.
 
 
@@ -472,13 +485,13 @@ In some cases, I wasn't able to find a common name which could be expanded to co
 ### Actual Clade Names
 
 - Arachnids - Everyone's heard of Arachne, right?
-- Supraprimates - It rolls off the tongue better than the synonym *Euarchontoglires*, which means soemthing like 'true-rulers-and-dormice'.  
+- Supraprimates - It rolls off the tongue better than the synonym *Euarchontoglires*, which means soemthing like 'true-ancestors-and-dormice'.  
 - Even-toed Ungulates
 - Odd-toed Ungulates
 - Crocodilians - Secret tip: Never worry about whether it's a crocodile or an alligator. Just call them both crocodilians.
-- Ratites - This is the term for those weird flightless bird. The name comes from the shape of their sternum. Why isn't there a kiwibird emoji?
-- Fowl, Landfowl, Waterfowl
-- Rodents
+- Ratites - This is the term for those weird flightless birds. Kiwis, emus, and the like. The name comes from the shape of their sternum. <!--Why isn't there a kiwibird emoji?-->
+- Fowl (Galloanserae), Landfowl (Galliformes), and Waterfowl (Anseriformes)
+- Rodents (Rodentia)
 - Camelids
 
 <!--TODO: Give some of these sillier names.-->
@@ -534,47 +547,6 @@ https://www.whozoo.org/mammals/mammalianphylo.htm
 
 ---
 
-
-<!--
-CLADES TYPED OUT BUT EXCLUDED FROM ARTICLE
-
-
-
-
-### Rabbits and Hares (Leporidae)
-
-You might not even be aware that rabbits and hares are different things. Cladistically, they really aren't. 
-Rabbits usually dig burrows underground, and are born helpless (like us!).
-By contrast, hares build nests aboveground and are born ready to run. It's primarily a distinction based on nesting behavior, not ancestry.
-An encyclopedia might define hares cladistically as the genus *lepus* and then define rabbits as the *non-hare leporids*. 
-But for this exercise, hares are rabbits. 
-
-
-
-
-
-### Deer (Cervidae)
-
-Deer are a clade if, by 'deer', we mean the cervids, which includes elks and moosen. 
-And I can't think of why anyone would object to calling an elk a deer.
-So why include this example? 
-Because it allows us to segue into the very silly examples.
-
-### Deer (Ruminantia)
-
-Deer are only a clade if, by 'deer', we mean the cervids. 
-But there are two non-cervid critters which are also called 'deer'.
-The first is the musk deer, which are stinky little fanged fellas more closely related to antelopes than to elk.
-The second is the tiny mouse-deer, also called the chevrotain.
-Any clade which includes both cervids and chevrotains will include all the ruminants, including our pecoran friends from earlier. 
-
-Remember that deer are ~~pecorans~~ antelopes. Well, antelopes are also ~~ruminants~~ deer. (There's a reason biologists use cumbersome grecolatin names for clades.)
-
-Alternatively, if we wanted to talk about the clade of deer, 
-we could instead *shrink* the common-name category and say that chevrotains and musk-deer aren't *actually* deer,
-that only cervids are deer.
-This is essentially the "No such thing as a fish" approach.
--->
 
 
 
