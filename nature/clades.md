@@ -79,7 +79,7 @@ you could come up with a tree that looks something like this:-->
 <pre class="cladeslist">
 Worms
 ┣╸Bugs
-┃ ┣╸Arachnids: 🕷️🦂
+┃ ┣╸Spiders: 🕷️🦂
 ┃ ┗╸Shrimps 
 ┃   ┣╸Prawns: 🦀🦞🦐
 ┃   ┗╸Insects
@@ -88,7 +88,7 @@ Worms
 ┃     ┣╸Moths: 🦋🐛
 ┃     ┣╸Beetles: 🪲🐞
 ┃     ┣╸Crickets: 🦗
-┃     ┗╸Roaches: 🪳
+┃     ┗╸Cockroaches: 🪳
 ┣╸Mollusks: 🐙🦑🐚🐌🦪
 ┣╸Segmented Worms: 🪱
 ┗╸Fishes
@@ -248,6 +248,7 @@ Moths are just non-butterfly lepidopterans. And to make 'moths' into a clade, th
 Note that the emoji 🐛 represents an ambiguous species. Most emoji sets depict it as a baby moth, but some depict it as a centipede.
 
 
+
 ### Wasps (Apocrita)
 
 🐝 Bees are a clade. 
@@ -257,11 +258,20 @@ So cladistically, bees and ants are specific kinds of wasps.
 <!--Hymenoptera, also excluding sawflies? Or sawflies are monophyletically all hymenoptera?-->
 
 
+### Cockroaches (Blattodea)
+
+This is similar to the wasp situation.
+Termites are a clade.
+Cockroaches are only a clade if termites are included.
+Termites are essentially eusocial cockroaches.
+
+
 ### Monkeys (Simiiformes)
 
 A monkey is a *non-ape simian*. There are two different clades of monkeys, and any clade that includes both will also include the apes.
 Members of that shared clade are called "anthropoids" or "simians".
 But for this exercise, I'm calling apes "Monkeys" for the same reason that I'm calling them "Fish".
+
 
 
 
@@ -298,6 +308,27 @@ Even the "Bug" emoji 🐛 doesn't depict a "true bug"
 https://emojipedia.org/bug/
 -->
 
+
+
+
+
+
+
+---
+
+Here marks the point where things start getting downright silly.
+
+---
+
+
+### Crickets (Orthoptera)
+
+The only thing which prevents crickets (*Ensifera*)
+from being a clade are pygmy mole crickets (*Tridactylidae*),
+which are more closely related to grasshoppers.
+Crickets and grasshoppers together form the clade *Orthoptera*, which means 'straight wings'.
+
+<!--https://orthoptera.org.uk/about_orthoptera-->
 
 
 
@@ -363,6 +394,22 @@ And these two species are very distant from one another on the cervid family tre
 The only clade that includes both of them is cervidae itself.
 
 <!--http://endlessforest.org/community/tree-deer-life-->
+
+
+### Spiders (Arachnida) 
+
+Actual spiders are members of the clade *Araneae*.
+The arachnids are a broader clade which also includes scorpions, ticks and daddy long-legs, among others.
+
+As with deer, there are a few species in the broader clade which are also called spiders.
+Namely, animals in the clade *Solifugae* are often called sunspiders or camel spiders.
+Daddy long-legs are sometimes called "spiders" as well.
+The only clade which includes both these and true spiders is *Arachnida*.
+
+Solifugae are also called wind scorpions, so by the same logic, 
+we could expand "scorpion" to refer to all of *Arachnida*.
+But "arachnid" comes from the Greek word for spider, so that feels more natural.
+
 
 
 ### Shrimps (Pancrustacea) and Prawns (Decapoda)
@@ -484,7 +531,9 @@ In some cases, I wasn't able to find a common name which could be expanded to co
 
 ### Actual Clade Names
 
-- Arachnids - Everyone's heard of Arachne, right?
+- Insects (Insecta)
+- Flies (Diptera)
+- Beetles (Coleoptera)
 - Mollusks (Mollusca)
 - Segmented Worms (Annelida)
 - Mammals (Mammalia)
