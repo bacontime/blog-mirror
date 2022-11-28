@@ -20,15 +20,11 @@ So goes the internet discourse.
 
 Pufferfish, you see, share a more recent ancestor with humans than they do with sharks.
 Any group consisting of only the things called '[fish](https://en.wikipedia.org/wiki/Fish)' is a group defined by physical features rather than shared ancestry.
-Fish, in other words, aren't a true *clade*.
+Fish, in other words, aren't a true *clade*.[^cladeDefinition]
+
+[^cladeDefinition]: A <b>clade</b> is any group of organisms which share a common ancestor, such that all of the descendants of that common ancestor are included in the group.
 
 <!--TODO: Insert comment about form taxa or folk taxonomy.-->
-
-<!--
-<aside>
- A <b>clade</b> is any group of organisms which share a common ancestor, such that all of the descendants of that common ancestor are included in the group.
-</aside>
--->
 
 
 <!--
@@ -44,6 +40,8 @@ let's run with the fish example, and look for other similarly silly animal class
 
 The following is a cladistic tree of life using common names instead of latin names.
 When a common-name describes a non-clade group, I'll play a bit fast and loose with that common name to turn it into a clade.
+The goal here is to create a tree of life which is as baffling as possible, 
+without, strictly speaking, being *wrong*.
 Explanations are down below.
 
 
@@ -108,9 +106,9 @@ Worms
     ┃   ┃ ┣╸Camelids: 🐪🐫🦙
     ┃   ┃ ┣╸Whippos: 🦛🐳🐋🐬
     ┃   ┃ ┣╸Pigs: 🐷🐖🐗
-    ┃   ┃ ┗╸Ruminants
+    ┃   ┃ ┗╸Deers
     ┃   ┃   ┣╸Giraffes: 🦒
-    ┃   ┃   ┣╸Deers: 🦌
+    ┃   ┃   ┣╸Elk: 🦌
     ┃   ┃   ┗╸Antelopes: 🦬🐮🐂🐃🐄🐏🐑🐐
     ┃   ┣╸Odd-toed Ungulates: 🐴🐎🦄🦓🦏
     ┃   ┣╸Carnivorans:
@@ -146,16 +144,8 @@ Worms
 
 <!--
   ()  ()  () ()()
+  emojis in parentheses are not in the unicode standard, and are specific to OpenMoji
 -->
-
-
-<details markdown="block">
-<summary>Notes about this tree. (click to expand)</summary>
-- Many clades are excluded.
-- Todo: link to version with scientific names. 
-</details>
-
-<!--- emojis in parentheses are not in the unicode standard, and are specific to OpenMoji-->
 
 
 ## Explanations for Clade Names
@@ -206,7 +196,7 @@ Thus fish, as usually defined, is the group consisting of *non-tetrapod vertebra
 To make "fish" into a clade, we must include whales, chickens, and the like. 
 
 <aside> 
-If you wanted to expand the clade to include everything that is sometimes *called* a fish (jellyfish, inkfish, starfish), you would need to include basically every animal excepts sponges.
+If you wanted to expand the clade to include everything that is sometimes *called* a fish (jellyfish, inkfish, starfish), you would need to include basically <i>every</i> animal except sponges. <a href="https://www.reuters.com/legal/litigation/bees-are-fish-under-calif-endangered-species-act-state-court-2022-06-01/">This seems to be the approach taken by California law.</a> 
 </aside>
 
 <!--Also, on a technicality, bees are fish in California.-->
@@ -220,13 +210,13 @@ The remaining examples are listed in roughly decreasing order of sensibility:
 
 ### Elephants (Elephantidae)
 
-Asian Elephants are more closely related to Mammoths than they are to African Elephants. Mammoths were fuzzy elephants that recently went extinct. This one shouldn't be controversial. 
+Asian Elephants are more closely related to Mammoths than they are to African Elephants. Mammoths were fuzzy elephants that recently went extinct. <!--This one shouldn't be controversial. -->
 (Mastodons were slightly different creatures.)
 
 
 ### Doves (Columbidae)
 
-Columbidae is the clade of pigeons and doves. There is no rigourous distinction between the two terms; I used "doves" in the tree above because it sounds more lovely. The extinct dodo was a large ground-pigeon.
+Columbidae is the clade of pigeons and doves. There is no rigorous distinction between the two terms; I used "doves" in the tree above because it sounds more lovely. The extinct dodo was a large ground-pigeon.
 
 
 ### Lizards (Squamata)
@@ -237,6 +227,7 @@ This one seems like it might be a reasonable category; snakes and amphisbaenians
 
 <!--
 Conversely, [tuatara](https://en.wikipedia.org/wiki/Tuatara) look super lizardy, and used to be considered lizards, but aren't part of the squamate clade. Biologists stopped calling them lizards when they noticed that while they do share some traits with lizards, they also share some traits with crocodiles (spiny plates) and turtles (beak instead of teeth). Tuatara are now thought to be the only surviving members of the [beakheads](https://en.wikipedia.org/wiki/Rhynchocephalia), a sort of sister clade to the lizards. Together, the squamates and beakheads form the clade of *Lepidosaurs*. And for the purposes of this exercise, it doesn't really matter whether we use "lizard" to refer to Squamata or Lepidosauria; both are clades full of lizardy things.
+TODO: Need to link a credible article which talks about these lads.
 -->
 
 
@@ -266,7 +257,6 @@ But for this exercise, I'm calling apes "Monkeys" for the same reason that I'm c
 
 
 
-
 ### Bugs (Arthropoda)
 
 A bug expert might insist that "bug" refers only to a specific clade of insects,
@@ -276,11 +266,12 @@ It's a creepy crawly little whatzit with too many skittery legs. It's near synon
 
 I'm not the only one who uses the term "bug" this way.
 [BugGuide.net](https://bugguide.net/node/view/15740) is about "Insects, Spiders & Their Kin", for example.
-The "bug" emoji 🐛 doesn't depict a "true bug".
-And [etymologically, "bug" probably comes from a word that means "something scary"](https://www.etymonline.com/search?q=bug).
+The "bug" emoji 🐛 doesn't depict a "true bug", either.
+
 (Ignore the fact that bacteria are sometimes called bugs, because then *every* living organism would cladistically be a bug.)
 
 <!--
+And [etymologically, "bug" probably comes from a word that means "something scary"](https://www.etymonline.com/search?q=bug).
 Let me check to make sure I'm not the only one who feels this way about the word bug. 
 [Merriam-Webster](https://www.merriam-webster.com/dictionary/bug) lists spiders and beetles as examples of bugs.
 -->
@@ -304,19 +295,20 @@ https://emojipedia.org/bug/
 
 ### Antelopes (Bovidae)
 
-Antelopes are not a clade<!--, unless we restrict the term to only mean "[True Antelopes](https://en.wikipedia.org/wiki/Antilopinae)"-->. The clade which contains antelopes is called *Bovidae*, and its members are called *bovids*, which means 'cattle-like'. Cows are bovids, of course. So are sheep, goats, and musk ox. An antelope is simply any bovid which people don't care enough about to lump it into its own category.
-
+Antelopes are not a clade<!--, unless we restrict the term to only mean "[True Antelopes](https://en.wikipedia.org/wiki/Antilopinae)"-->. The clade which contains antelopes is called *Bovidae*, and its members are called *bovids*, which means 'cattle-like'. Cows are bovids, of course. So are sheep, goats, and musk ox. An antelope is simply any bovid which people don't care enough about to lump it into its own category. 
 I suppose you could cheekily define an antelope as any *non-algricultural bovid*. 
 
 "Bovid" is simple enough to be used as a common-name, but for this silly exercise, we're going to call all bovids 'antelopes'.
 
 The clade would become even more expansive if pronghorns were included. Pronghorns are often called *American Antelope*, but they aren't even bovids; Pronghorn are their own weird thing. The clade which includes both bovids and pronghorns is called *Pecora*, which, like *bovidae*, can be translated as 'cattle-like'. Deer and giraffes are also pecorans. 
 
-<aside markdown="block">
-In the emoji tree above, I've decided to limit "antelope" to mean "bovid". "Ruminant" seems like a common term to me.  <!--, with its own relateed idioms Secondly, there are *a lot* of ruminant emojis, and I don't want the row to be so wide that it messes up formatting on mobile.-->
-</aside>
+<!--<aside markdown="block">
+In the emoji tree above, I've decided to limit "antelope" to mean "bovid". "Ruminant" seems like a common term to me, with its own related idioms. 
+Secondly, there are *a lot* of ruminant emojis, and I don't want the row to be so wide that it messes up formatting on mobile.
+</aside>-->
 
 So an antelope in the broadest sense is anything related to cattle which isn't similar enough to cattle to be called cattle, but which isn't different enough to be called something else. 🤷
+
 
 <!--Ancient mythical version of the antelope: saw like horns, used to cut down trees.-->
 <!--Eland domestication:
@@ -329,6 +321,40 @@ https://www.youtube.com/watch?v=5luGVwB453g
 -->
 
 
+### Deer (Ruminantia) and Elk (Cervidae)
+
+Deer are a clade if, by 'deer', we mean only the cervids, members of the clade *Cervidae*,
+which includes caribous and [moosen](https://www.youtube.com/watch?v=QWzYaZDK6Is). 
+
+But there are two non-cervid critters which are also called 'deer'.
+The first is the musk-deer, which is a stinky little fanged fella more closely related to antelopes than to elk.
+The second is the tiny mouse-deer, also called the chevrotain.
+The clade which includes both cervids and chevrotains is called *Ruminantia*
+and its members are call *ruminants*,
+[named after their tendency to regurgitate and rechew their food](https://www.etymonline.com/search?q=Ruminant).
+
+If my goal here were to find sensible common names for clades, 
+then "Ruminant" is a fine term, fairly common, with its own related idioms.
+
+<!--- Ruminants - "Ruminant" actually has more results on Google than "Ruminate" (66m vs 41m), so it seems like a common enough term.-->
+
+But my goal is not to be sensible.
+As described above, deer are ~~pecorans~~ antelopes.
+Well, antelopes are also ~~ruminants~~ deer. 
+(Hopefully it's clear now why biologists use cumbersome Greco-Latin names for clades.)
+
+<!--Alternatively, if we wanted to talk about the clade of deer, 
+we could instead *shrink* the common-name category and say that chevrotains and musk-deer aren't *actually* deer,
+that only cervids are deer.
+This is essentially the "No such thing as a fish" approach.
+-->
+
+And what then shall we call the cervids, the "true deer"?
+Well, there are two species of deer called "elk" - the wapiti, and the moose.
+And these two species are very distant from one another on the cervid family tree.
+The only clade that includes both of them is cervidae itself.
+
+<!--http://endlessforest.org/community/tree-deer-life-->
 
 
 ### Shrimps (Pancrustacea) and Prawns (Decapoda)
@@ -449,7 +475,6 @@ In some cases, I wasn't able to find a common name which could be expanded to co
 - Supraprimates - It rolls off the tongue better than the synonym *Euarchontoglires*, which means soemthing like 'true-rulers-and-dormice'.  
 - Even-toed Ungulates
 - Odd-toed Ungulates
-- Ruminants - "Ruminant" actually has more results on Google than "Ruminate" (66m vs 41m), so it seems like a common enough term.
 - Crocodilians - Secret tip: Never worry about whether it's a crocodile or an alligator. Just call them both crocodilians.
 - Ratites - This is the term for those weird flightless bird. The name comes from the shape of their sternum. Why isn't there a kiwibird emoji?
 - Fowl, Landfowl, Waterfowl
