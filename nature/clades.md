@@ -266,13 +266,6 @@ Cockroaches are only a clade if termites are included.
 Termites are essentially eusocial cockroaches.
 
 
-### Monkeys (Simiiformes)
-
-A monkey is a *non-ape simian*. There are two different clades of monkeys, and any clade that includes both will also include the apes.
-Members of that shared clade are called "anthropoids" or "simians".
-But for this exercise, I'm calling apes "Monkeys" for the same reason that I'm calling them "Fish".
-
-
 
 
 ### Bugs (Arthropoda)
@@ -310,15 +303,23 @@ https://emojipedia.org/bug/
 
 
 
+### Monkeys (Simiiformes)
+
+A monkey is a *non-ape simian*. There are two different clades of monkeys, and any clade that includes both will also include the apes.
+Members of that shared clade are called "anthropoids" or "simians".
+But for this exercise, I'm calling apes "Monkeys" for the same reason that I'm calling them "Fish".
 
 
 
+### Sharks (Chondrichthyes)
 
----
+Sharks and rays are in the clade *Chondrichthyes*, which means *Cartilaginous Fish*, and that's what this group is usually called.
+Unlike other fish, which have hard bony skeletons, sharks and their relatives have skeletons mostly made of flexible cartilage. 
+In addition to actual sharks, this group includes  rays (one family of which are called *carpenter sharks*) and chimaeras (some species of which are called *ghost sharks*).
 
-Here marks the point where things start getting downright silly.
 
----
+<!--Oily liver instead of lungs swim bladder.-->
+
 
 
 ### Crickets (Orthoptera)
@@ -330,7 +331,11 @@ Crickets and grasshoppers together form the clade *Orthoptera*, which means 'str
 
 <!--https://orthoptera.org.uk/about_orthoptera-->
 
+---
 
+Here marks the point where things start getting downright silly.
+
+---
 
 ### Antelopes (Bovidae)
 
@@ -513,15 +518,6 @@ So here, I've lumped them together.
 The smallest clade that includes all the (o)possums is the clade which includes every marsupial.
 
 
-### Sharks (Chondrichthyes)
-
-Sharks and rays are in the clade *Chondrichthyes*, which means *Cartilaginous Fish*, and that's what this group is usually called.
-Unlike other fish, which have hard bony skeletons, sharks and their relatives have skeletons mostly made of flexible cartilage. 
-In addition to actual sharks, this group includes  rays (one family of which are called *carpenter sharks*) and chimaeras (some species of which are called *ghost sharks*).
-
-
-<!--Oily liver instead of lungs swim bladder.-->
-
 
 ---
 
@@ -536,6 +532,8 @@ In some cases, I wasn't able to find a common name which could be expanded to co
 - Beetles (Coleoptera)
 - Mollusks (Mollusca)
 - Segmented Worms (Annelida)
+- Ray-finned Fish (Actinopterygii)
+- Lobe-finned Fish (Sarcopterygii)
 - Mammals (Mammalia)
 - Supraprimates - It rolls off the tongue better than the synonym *Euarchontoglires*, which means soemthing like 'true-ancestors-and-dormice'.
 - Rodents (Rodentia)
