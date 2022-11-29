@@ -1,8 +1,9 @@
 ---
 title: Open-source Emojis
-grand_parent: Language
-parent: Unicode Characters
+parent: Language
 ---
+
+<!--parent: Unicode Characters-->
 
 # Comparison Table for a Few Open-Source Emoji Fonts
 
@@ -14,7 +15,8 @@ But all of the glyphs below are in the form of web fonts loaded by this page. An
 <details markdown='block'>
 <summary> Click for more information about these fonts.</summary>
 
-I've built all three of these fonts using v0.8.1 of Google's [nanoemoji](https://github.com/googlefonts/nanoemoji) tool.
+I've built all three of these fonts using Google's nanoemoji tool.
+[You can find details of the build process in this repo](https://github.com/Emoji-COLRv0/Emoji-COLRv0).
     
 [EmojiTwo](https://github.com/EmojiTwo/emojitwo)
 : EmojiOne was an early set of emojis which hasn't been under development since Emoji version 4.0. A closed-source successor is provided under the name [Joypixels](https://www.joypixels.com/emoji/flat). There is also an open-source fork called [EmojiTwo](https://github.com/EmojiTwo/emojitwo), which is the source for the images used in the font on this page. The images are used under a [CC-BY 4.0](https://creativecommons.org/licenses/by/4.0/legalcode) license.
@@ -45,7 +47,7 @@ These additional emoji sets are:
 
 
 
-The tables below cover most of the [emoji codepoints in version 13.0 of the standard](https://www.unicode.org/Public/emoji/13.0/emoji-test.txt), but I've left out most of the skin tone and gender variations (which comprise nearly half of the glyphs).
+The tables below cover most of the [emoji codepoints in version 15.0 of the standard](https://www.unicode.org/Public/emoji/15.0/emoji-test.txt), but I've left out most of the skin tone and gender variations (which comprise nearly half of the glyphs).
 
 
 
@@ -54,172 +56,6 @@ The tables below cover most of the [emoji codepoints in version 13.0 of the stan
 
 
 
-<!--
-TODO: Recompile the EmojiOne from Mozilla but with a fixed layerize.js file
-    I checked that I can drop in the e1 emojis into the modern less buggy twemoji compilation folder. 
-    So I just need to update the metadata and so forth. Eh. Nevermind. It borked out at the very last minute. I think fixing the problems there would take more effort then its worth.
-TODO: Clean up the extra fonts and licenses and whatnot floating around.
-TODO: Share the tweaked versions of the fonts with the twemoji mozilla repo people.-->
-
-
-<!--
-For this page to display properly, you'll need to install the following font files:
-- [Twitter Color Emoji SVGinOT Font](https://github.com/eosrei/twemoji-color-font/releases)
-- [Google's Noto Color Emoji Font](https://github.com/googlefonts/noto-emoji/tree/main/fonts) (this one might only work on Windows 10)
-- [A version of the OpenMoji font from here.](https://github.com/mavit/openmoji/tree/nanoemoji/font)
-- [Blobmoji?](https://github.com/C1710/blobmoji)
-- EmojiOne font?
-
-https://www.guemil.info/
-
-https://github.com/hfg-gmuend/openmoji/pull/260
-https://github.com/mavit/openmoji/tree/nanoemoji/font
-https://github.com/C1710/blobmoji
-https://helpx.adobe.com/fonts/using/ot-svg-color-fonts.html
-https://color.typekit.com/
-https://stackoverflow.com/questions/43828750/how-to-use-google-noto-color-emoji-front-from-cdn-via-css
-https://bugzilla.mozilla.org/show_bug.cgi?id=1454152
-
-https://transfonter.org/
-Sadly, this tool fails to preserve colors
-
-Catmoji replaces all the twemoji smilies with cats.
-https://github.com/catmoji/catmoji-colr
-
-https://github.com/googlefonts/noto-emoji/issues/375
-
-
-td:nth-child(2) {
-  font-family: EmojiOne Color;
-  font-size: 72px;
-  padding: 0px;
-}
-td:nth-child(3) {
-  font-family: Twitter Color Emoji;
-  font-size: 72px;
-  padding: 0px;
-}
-td:nth-child(4) {
-  font-family: OpenMoji Color;
-  font-size: 72px;
-  padding: 0px;
-}
-
-
-Notes on font performances:
-
-TwemojiMozilla.woff:
-- Breaks on windowsFF, windowsChrome, and on mac, just everywhere it is borked.
-- displays system default instead
-- woff compressions just completely borked it I think
-
-NotoColorEmoji-SVG.woff:
-EmojiOneColor.woff2:
-- renders on chrome, FF, 
-- but always B&W. I think woff compressor strips the formatting.
-- The woff2 from color.typekit.com is bigger than what I get doing the conversion myself. I think the online converters can't handle color fonts
-
-NotoColorEmoji.ttf
-- renders fine everywhere but FF. It's a known bug with FF. Just doesn't show up there at all. System default instead
-- Trying to convert this (bitmap?) font to woff yields broken results.
-
-
-
-EmojiOneColorAdobe.woff2  🌟🌟
-- Works everywhere, but in windows/mac, it's only colorful in Firefox. 
-- That's fine. That's what I expected.
-
-TwemojiMozilla.ttf   🌟
- - works great on all the browsers on windows. renders in color, even in chrome
- - Also working on android
- - And so svelte!
- - great work mozilla team!
- - doesn't work on mac os chrome or mac os Firefox. works fine on mac os safari. 
-
-OpenMoji-Color.COLRv0.ttf  🌟🌟🌟🌟
-- Works everywhere I've tried it. Windows, Mac, android, ios
-- reasonable size at only a bit over 2 MB. 
-- Wowzers, I wish I could have figured out how to get nanoemoji working.
-
-NotoSVGmiconv.woff2
-- Doesn't work at all, sadly.
-
-Blobmoji.ttf
-- Only working in chromium browsers...
-- Also, I think it's sometimes misaligned? Actually, no. I think that might have been a markdown formatting error on my part.
-
-Catrinity.woff2
-- Color was borked by conversion. What tool did Adobe use to get a functional color woff2?!
-
-NotoEmoji.otf (SVG)
-- monochrome. Works everywhere though.
-
-
-NotoColorEmoji-SVG.otf
-- So big!
-
-Catrinity.otf
-
-
-
-I generated some fonts on my mac. Hopefully these work.
-
-TweMozMine.ttf
-- Generated by following the steps from the Mozilla Twemoji repo
-
-TwemojiNanoemoji.ttf 🌟🌟🌟🌟
-- Generated using nanoemoji and color mode glyf_colr_0
-- Works perfectly everywhere I've tried it. Can't figure out how to generalize the nanoemoji to other places
-
-
-
-
-
-TwemojiMozillaBoundFix.ttf 🌟🌟🌟🌟
-- generated from mozilla repo with tweaks to layerize.js
-- nope. Didn't fix it. In fact, it's even more broken.
-- I removed the spaces from the file name. That seems to have fixed it. 
-- works on macos too now
-
-Catmoji.ttf
-- cats
-- https://github.com/catmoji/catmoji-colr
-- also made using grunt?
-- but only works in chromium browsers?
-- I am a confusion.
-- Ah, despite the repo name, the latest release version doesn't actually have colr glyphs. But the authors uploaded a colr version in one of the issues pages.
-
-
-
-I've spent too much time on this, so I should give up on trying to get the grunt twemoji mozilla whatsit to compile on windows. 
-And just deal with the fact that I don't have a machine set up to handle this kind of task.
-Oh well. I should have been doing other things today anyways.
-
-
-
-Some variants on the twemoji mozilla, to test at which point it breaks.
-I want to fully swap over a different emoji set into it.
-
-TwemojiMozillaNoFlag.ttf
-- just deleted the flags from the zip using 7zip
-
-TwemojiSmallReplacement.ttf
-- no flags, and also dropped in some noto emojis.
-- They appear. It works. It's just... uh. They're teeny tiny.
-- Oddly, it looks like twemoji has width 36 and noto has width 128. so I'm not sure why the noto would be *smaller*
-- When I open the svg files in inkscape, sure enough, the noto assets are much bigger.
-- It is worth noticing that the thumbnail for the svg files when view in MacOS is tiny and cornered as well. Not on windows though. It might be an operating system level misinterpretation.
-
-I really wanted to compile the blobmojis to a COLRv0 font, but the blobmoji svgs are just too wonky.
-It looks like Mozilla already made a COLRv0 version of the EmojiOne font though. 
-
-EmojiOneMozilla.ttf
-
-
-EmojiTwoNanoCOLRv0
-- compiled using nanonemoji v0.8.1, which some custom tweaks to the files.
-
--->
 
 ## Tables of Emojis
 
