@@ -42,6 +42,7 @@ sourceLines = sourceStr.split('\n')
 # format is (group, subgroup, codepoint, shortname, version)
 
 emojilist = []
+skincolorList = []
 currentGroup = ''
 currentSubgroup = ''
 
@@ -69,9 +70,8 @@ for line in sourceLines:
             version = int(suffix[suffix.index('E')+1:suffix.index('.')])
             #exclude the skin tone variants, because that adds 1699 entries (nearly half of them!).
             if 'skin tone' in shortname:
-                #if ' 200D ' in codepoint: #ZWJ
-                #if len(codepoint.split()) > 1:
-                continue
+                #continue
+                skincolorList.append((currentGroup, currentSubgroup, codepoint, shortname, version))
             else:
                 #now add it to our list
                 emojilist.append((currentGroup, currentSubgroup, codepoint, shortname, version))
@@ -136,6 +136,33 @@ for group, subgroup, codepoint, shortname, version in emojilist:
 
 
 
+
+
+# %% Now do the same for skin color variants.
+
+Emoji14SupportSet = set(emoji[2] for emoji in skincolorList if emoji[4] <= 14)
+fullemojiset = set(emoji[2] for emoji in skincolorList)
+COLUMNSETS = [EmojiTwoSupportSet,Emoji14SupportSet,Emoji14SupportSet]
+
+currentSubgroup = ''
+currentgroup = ''
+for group, subgroup, codepoint, shortname, version in skincolorList:
+    glyph = codepoint_to_html(codepoint)
+    if group != currentgroup:
+        print ('\n\n### '+group+'')
+        currentgroup = group
+    if subgroup != currentSubgroup:
+        print ('\n#### '+subgroup+'\n')
+        print('| name | EmojiTwo | Twemoji | OpenMoji |')
+        print('|:-:|'+':-:|'*len(COLUMNSETS))
+        currentSubgroup = subgroup
+    linestring = f'| <small>{codepoint}</small><br>{shortname}<br>{glyph} | '
+    for columnset in COLUMNSETS:
+        if checkforcodepoint(columnset,codepoint):
+            linestring += glyph
+        linestring += ' | '
+    print(linestring)
+    #print(f'| {shortname} | {glyph} | {glyph} | {glyph} |')
 
 
 # %%
