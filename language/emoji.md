@@ -281,6 +281,7 @@ td:nth-child(4) {
 | <small>1F602</small><br>face with tears of joy<br>&#x1F602; | &#x1F602; | &#x1F602; | &#x1F602; | 
 | <small>1F642</small><br>slightly smiling face<br>&#x1F642; | &#x1F642; | &#x1F642; | &#x1F642; | 
 | <small>1F643</small><br>upside-down face<br>&#x1F643; | &#x1F643; | &#x1F643; | &#x1F643; | 
+| <small>1FAE0</small><br>melting face<br>&#x1FAE0; |  | &#x1FAE0; | &#x1FAE0; | 
 | <small>1F609</small><br>winking face<br>&#x1F609; | &#x1F609; | &#x1F609; | &#x1F609; | 
 | <small>1F60A</small><br>smiling face with smiling eyes<br>&#x1F60A; | &#x1F60A; | &#x1F60A; | &#x1F60A; | 
 | <small>1F607</small><br>smiling face with halo<br>&#x1F607; | &#x1F607; | &#x1F607; | &#x1F607; | 
@@ -314,10 +315,13 @@ td:nth-child(4) {
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>1F917</small><br>hugging face<br>&#x1F917; | &#x1F917; | &#x1F917; | &#x1F917; | 
+| <small>1F917</small><br>smiling face with open hands<br>&#x1F917; | &#x1F917; | &#x1F917; | &#x1F917; | 
 | <small>1F92D</small><br>face with hand over mouth<br>&#x1F92D; |  | &#x1F92D; | &#x1F92D; | 
+| <small>1FAE2</small><br>face with open eyes and hand over mouth<br>&#x1FAE2; |  | &#x1FAE2; | &#x1FAE2; | 
+| <small>1FAE3</small><br>face with peeking eye<br>&#x1FAE3; |  | &#x1FAE3; | &#x1FAE3; | 
 | <small>1F92B</small><br>shushing face<br>&#x1F92B; |  | &#x1F92B; | &#x1F92B; | 
 | <small>1F914</small><br>thinking face<br>&#x1F914; | &#x1F914; | &#x1F914; | &#x1F914; | 
+| <small>1FAE1</small><br>saluting face<br>&#x1FAE1; |  | &#x1FAE1; | &#x1FAE1; | 
 
 #### face-neutral-skeptical
 
@@ -328,11 +332,15 @@ td:nth-child(4) {
 | <small>1F610</small><br>neutral face<br>&#x1F610; | &#x1F610; | &#x1F610; | &#x1F610; | 
 | <small>1F611</small><br>expressionless face<br>&#x1F611; | &#x1F611; | &#x1F611; | &#x1F611; | 
 | <small>1F636</small><br>face without mouth<br>&#x1F636; | &#x1F636; | &#x1F636; | &#x1F636; | 
+| <small>1FAE5</small><br>dotted line face<br>&#x1FAE5; |  | &#x1FAE5; | &#x1FAE5; | 
+| <small>1F636 200D 1F32B FE0F</small><br>face in clouds<br>&#x1F636;&#x200D;&#x1F32B;&#xFE0F; |  | &#x1F636;&#x200D;&#x1F32B;&#xFE0F; | &#x1F636;&#x200D;&#x1F32B;&#xFE0F; | 
 | <small>1F60F</small><br>smirking face<br>&#x1F60F; | &#x1F60F; | &#x1F60F; | &#x1F60F; | 
 | <small>1F612</small><br>unamused face<br>&#x1F612; | &#x1F612; | &#x1F612; | &#x1F612; | 
 | <small>1F644</small><br>face with rolling eyes<br>&#x1F644; | &#x1F644; | &#x1F644; | &#x1F644; | 
 | <small>1F62C</small><br>grimacing face<br>&#x1F62C; | &#x1F62C; | &#x1F62C; | &#x1F62C; | 
+| <small>1F62E 200D 1F4A8</small><br>face exhaling<br>&#x1F62E;&#x200D;&#x1F4A8; |  | &#x1F62E;&#x200D;&#x1F4A8; | &#x1F62E;&#x200D;&#x1F4A8; | 
 | <small>1F925</small><br>lying face<br>&#x1F925; | &#x1F925; | &#x1F925; | &#x1F925; | 
+| <small>1FAE8</small><br>shaking face<br>&#x1FAE8; |  |  |  | 
 
 #### face-sleepy
 
@@ -357,7 +365,8 @@ td:nth-child(4) {
 | <small>1F975</small><br>hot face<br>&#x1F975; |  | &#x1F975; | &#x1F975; | 
 | <small>1F976</small><br>cold face<br>&#x1F976; |  | &#x1F976; | &#x1F976; | 
 | <small>1F974</small><br>woozy face<br>&#x1F974; |  | &#x1F974; | &#x1F974; | 
-| <small>1F635</small><br>dizzy face<br>&#x1F635; | &#x1F635; | &#x1F635; | &#x1F635; | 
+| <small>1F635</small><br>face with crossed-out eyes<br>&#x1F635; | &#x1F635; | &#x1F635; | &#x1F635; | 
+| <small>1F635 200D 1F4AB</small><br>face with spiral eyes<br>&#x1F635;&#x200D;&#x1F4AB; |  | &#x1F635;&#x200D;&#x1F4AB; | &#x1F635;&#x200D;&#x1F4AB; | 
 | <small>1F92F</small><br>exploding head<br>&#x1F92F; |  | &#x1F92F; | &#x1F92F; | 
 
 #### face-hat
@@ -381,6 +390,7 @@ td:nth-child(4) {
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>1F615</small><br>confused face<br>&#x1F615; | &#x1F615; | &#x1F615; | &#x1F615; | 
+| <small>1FAE4</small><br>face with diagonal mouth<br>&#x1FAE4; |  | &#x1FAE4; | &#x1FAE4; | 
 | <small>1F61F</small><br>worried face<br>&#x1F61F; | &#x1F61F; | &#x1F61F; | &#x1F61F; | 
 | <small>1F641</small><br>slightly frowning face<br>&#x1F641; | &#x1F641; | &#x1F641; | &#x1F641; | 
 | <small>2639 FE0F</small><br>frowning face<br>&#x2639;&#xFE0F; | &#x2639;&#xFE0F; | &#x2639;&#xFE0F; | &#x2639;&#xFE0F; | 
@@ -389,6 +399,7 @@ td:nth-child(4) {
 | <small>1F632</small><br>astonished face<br>&#x1F632; | &#x1F632; | &#x1F632; | &#x1F632; | 
 | <small>1F633</small><br>flushed face<br>&#x1F633; | &#x1F633; | &#x1F633; | &#x1F633; | 
 | <small>1F97A</small><br>pleading face<br>&#x1F97A; | &#x1F97A; | &#x1F97A; | &#x1F97A; | 
+| <small>1F979</small><br>face holding back tears<br>&#x1F979; |  | &#x1F979; | &#x1F979; | 
 | <small>1F626</small><br>frowning face with open mouth<br>&#x1F626; | &#x1F626; | &#x1F626; | &#x1F626; | 
 | <small>1F627</small><br>anguished face<br>&#x1F627; | &#x1F627; | &#x1F627; | &#x1F627; | 
 | <small>1F628</small><br>fearful face<br>&#x1F628; | &#x1F628; | &#x1F628; | &#x1F628; | 
@@ -410,7 +421,7 @@ td:nth-child(4) {
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>1F624</small><br>face with steam from nose<br>&#x1F624; | &#x1F624; | &#x1F624; | &#x1F624; | 
-| <small>1F621</small><br>pouting face<br>&#x1F621; | &#x1F621; | &#x1F621; | &#x1F621; | 
+| <small>1F621</small><br>enraged face<br>&#x1F621; | &#x1F621; | &#x1F621; | &#x1F621; | 
 | <small>1F620</small><br>angry face<br>&#x1F620; | &#x1F620; | &#x1F620; | &#x1F620; | 
 | <small>1F92C</small><br>face with symbols on mouth<br>&#x1F92C; |  | &#x1F92C; | &#x1F92C; | 
 | <small>1F608</small><br>smiling face with horns<br>&#x1F608; | &#x1F608; | &#x1F608; | &#x1F608; | 
@@ -453,11 +464,10 @@ td:nth-child(4) {
 | <small>1F649</small><br>hear-no-evil monkey<br>&#x1F649; | &#x1F649; | &#x1F649; | &#x1F649; | 
 | <small>1F64A</small><br>speak-no-evil monkey<br>&#x1F64A; | &#x1F64A; | &#x1F64A; | &#x1F64A; | 
 
-#### emotion
+#### heart
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>1F48B</small><br>kiss mark<br>&#x1F48B; | &#x1F48B; | &#x1F48B; | &#x1F48B; | 
 | <small>1F48C</small><br>love letter<br>&#x1F48C; | &#x1F48C; | &#x1F48C; | &#x1F48C; | 
 | <small>1F498</small><br>heart with arrow<br>&#x1F498; | &#x1F498; | &#x1F498; | &#x1F498; | 
 | <small>1F49D</small><br>heart with ribbon<br>&#x1F49D; | &#x1F49D; | &#x1F49D; | &#x1F49D; | 
@@ -469,15 +479,26 @@ td:nth-child(4) {
 | <small>1F49F</small><br>heart decoration<br>&#x1F49F; | &#x1F49F; | &#x1F49F; | &#x1F49F; | 
 | <small>2763 FE0F</small><br>heart exclamation<br>&#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | &#x2763;&#xFE0F; | 
 | <small>1F494</small><br>broken heart<br>&#x1F494; | &#x1F494; | &#x1F494; | &#x1F494; | 
+| <small>2764 FE0F 200D 1F525</small><br>heart on fire<br>&#x2764;&#xFE0F;&#x200D;&#x1F525; |  | &#x2764;&#xFE0F;&#x200D;&#x1F525; | &#x2764;&#xFE0F;&#x200D;&#x1F525; | 
+| <small>2764 FE0F 200D 1FA79</small><br>mending heart<br>&#x2764;&#xFE0F;&#x200D;&#x1FA79; |  | &#x2764;&#xFE0F;&#x200D;&#x1FA79; | &#x2764;&#xFE0F;&#x200D;&#x1FA79; | 
 | <small>2764 FE0F</small><br>red heart<br>&#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | &#x2764;&#xFE0F; | 
+| <small>1FA77</small><br>pink heart<br>&#x1FA77; |  |  |  | 
 | <small>1F9E1</small><br>orange heart<br>&#x1F9E1; |  | &#x1F9E1; | &#x1F9E1; | 
 | <small>1F49B</small><br>yellow heart<br>&#x1F49B; | &#x1F49B; | &#x1F49B; | &#x1F49B; | 
 | <small>1F49A</small><br>green heart<br>&#x1F49A; | &#x1F49A; | &#x1F49A; | &#x1F49A; | 
 | <small>1F499</small><br>blue heart<br>&#x1F499; | &#x1F499; | &#x1F499; | &#x1F499; | 
+| <small>1FA75</small><br>light blue heart<br>&#x1FA75; |  |  |  | 
 | <small>1F49C</small><br>purple heart<br>&#x1F49C; | &#x1F49C; | &#x1F49C; | &#x1F49C; | 
 | <small>1F90E</small><br>brown heart<br>&#x1F90E; |  | &#x1F90E; | &#x1F90E; | 
 | <small>1F5A4</small><br>black heart<br>&#x1F5A4; | &#x1F5A4; | &#x1F5A4; | &#x1F5A4; | 
+| <small>1FA76</small><br>grey heart<br>&#x1FA76; |  |  |  | 
 | <small>1F90D</small><br>white heart<br>&#x1F90D; |  | &#x1F90D; | &#x1F90D; | 
+
+#### emotion
+
+| name | EmojiTwo | Twemoji | OpenMoji |
+|:-:|:-:|:-:|:-:|
+| <small>1F48B</small><br>kiss mark<br>&#x1F48B; | &#x1F48B; | &#x1F48B; | &#x1F48B; | 
 | <small>1F4AF</small><br>hundred points<br>&#x1F4AF; | &#x1F4AF; | &#x1F4AF; | &#x1F4AF; | 
 | <small>1F4A2</small><br>anger symbol<br>&#x1F4A2; | &#x1F4A2; | &#x1F4A2; | &#x1F4A2; | 
 | <small>1F4A5</small><br>collision<br>&#x1F4A5; | &#x1F4A5; | &#x1F4A5; | &#x1F4A5; | 
@@ -485,13 +506,12 @@ td:nth-child(4) {
 | <small>1F4A6</small><br>sweat droplets<br>&#x1F4A6; | &#x1F4A6; | &#x1F4A6; | &#x1F4A6; | 
 | <small>1F4A8</small><br>dashing away<br>&#x1F4A8; | &#x1F4A8; | &#x1F4A8; | &#x1F4A8; | 
 | <small>1F573 FE0F</small><br>hole<br>&#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | &#x1F573;&#xFE0F; | 
-| <small>1F4A3</small><br>bomb<br>&#x1F4A3; | &#x1F4A3; | &#x1F4A3; | &#x1F4A3; | 
 | <small>1F4AC</small><br>speech balloon<br>&#x1F4AC; | &#x1F4AC; | &#x1F4AC; | &#x1F4AC; | 
 | <small>1F441 FE0F 200D 1F5E8 FE0F</small><br>eye in speech bubble<br>&#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | &#x1F441;&#xFE0F;&#x200D;&#x1F5E8;&#xFE0F; | 
 | <small>1F5E8 FE0F</small><br>left speech bubble<br>&#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | &#x1F5E8;&#xFE0F; | 
 | <small>1F5EF FE0F</small><br>right anger bubble<br>&#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | &#x1F5EF;&#xFE0F; | 
 | <small>1F4AD</small><br>thought balloon<br>&#x1F4AD; | &#x1F4AD; | &#x1F4AD; | &#x1F4AD; | 
-| <small>1F4A4</small><br>zzz<br>&#x1F4A4; | &#x1F4A4; | &#x1F4A4; | &#x1F4A4; | 
+| <small>1F4A4</small><br>ZZZ<br>&#x1F4A4; | &#x1F4A4; | &#x1F4A4; | &#x1F4A4; | 
 
 
 ### People & Body
@@ -505,6 +525,12 @@ td:nth-child(4) {
 | <small>1F590 FE0F</small><br>hand with fingers splayed<br>&#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | &#x1F590;&#xFE0F; | 
 | <small>270B</small><br>raised hand<br>&#x270B; | &#x270B; | &#x270B; | &#x270B; | 
 | <small>1F596</small><br>vulcan salute<br>&#x1F596; | &#x1F596; | &#x1F596; | &#x1F596; | 
+| <small>1FAF1</small><br>rightwards hand<br>&#x1FAF1; |  | &#x1FAF1; | &#x1FAF1; | 
+| <small>1FAF2</small><br>leftwards hand<br>&#x1FAF2; |  | &#x1FAF2; | &#x1FAF2; | 
+| <small>1FAF3</small><br>palm down hand<br>&#x1FAF3; |  | &#x1FAF3; | &#x1FAF3; | 
+| <small>1FAF4</small><br>palm up hand<br>&#x1FAF4; |  | &#x1FAF4; | &#x1FAF4; | 
+| <small>1FAF7</small><br>leftwards pushing hand<br>&#x1FAF7; |  |  |  | 
+| <small>1FAF8</small><br>rightwards pushing hand<br>&#x1FAF8; |  |  |  | 
 
 #### hand-fingers-partial
 
@@ -515,6 +541,7 @@ td:nth-child(4) {
 | <small>1F90F</small><br>pinching hand<br>&#x1F90F; |  | &#x1F90F; | &#x1F90F; | 
 | <small>270C FE0F</small><br>victory hand<br>&#x270C;&#xFE0F; | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | &#x270C;&#xFE0F; | 
 | <small>1F91E</small><br>crossed fingers<br>&#x1F91E; | &#x1F91E; | &#x1F91E; | &#x1F91E; | 
+| <small>1FAF0</small><br>hand with index finger and thumb crossed<br>&#x1FAF0; |  | &#x1FAF0; | &#x1FAF0; | 
 | <small>1F91F</small><br>love-you gesture<br>&#x1F91F; |  | &#x1F91F; | &#x1F91F; | 
 | <small>1F918</small><br>sign of the horns<br>&#x1F918; | &#x1F918; | &#x1F918; | &#x1F918; | 
 | <small>1F919</small><br>call me hand<br>&#x1F919; | &#x1F919; | &#x1F919; | &#x1F919; | 
@@ -529,6 +556,7 @@ td:nth-child(4) {
 | <small>1F595</small><br>middle finger<br>&#x1F595; | &#x1F595; | &#x1F595; | &#x1F595; | 
 | <small>1F447</small><br>backhand index pointing down<br>&#x1F447; | &#x1F447; | &#x1F447; | &#x1F447; | 
 | <small>261D FE0F</small><br>index pointing up<br>&#x261D;&#xFE0F; | &#x261D;&#xFE0F; | &#x261D;&#xFE0F; | &#x261D;&#xFE0F; | 
+| <small>1FAF5</small><br>index pointing at the viewer<br>&#x1FAF5; |  | &#x1FAF5; | &#x1FAF5; | 
 
 #### hand-fingers-closed
 
@@ -547,6 +575,7 @@ td:nth-child(4) {
 |:-:|:-:|:-:|:-:|
 | <small>1F44F</small><br>clapping hands<br>&#x1F44F; | &#x1F44F; | &#x1F44F; | &#x1F44F; | 
 | <small>1F64C</small><br>raising hands<br>&#x1F64C; | &#x1F64C; | &#x1F64C; | &#x1F64C; | 
+| <small>1FAF6</small><br>heart hands<br>&#x1FAF6; |  | &#x1FAF6; | &#x1FAF6; | 
 | <small>1F450</small><br>open hands<br>&#x1F450; | &#x1F450; | &#x1F450; | &#x1F450; | 
 | <small>1F932</small><br>palms up together<br>&#x1F932; |  | &#x1F932; | &#x1F932; | 
 | <small>1F91D</small><br>handshake<br>&#x1F91D; | &#x1F91D; | &#x1F91D; | &#x1F91D; | 
@@ -581,6 +610,7 @@ td:nth-child(4) {
 | <small>1F441 FE0F</small><br>eye<br>&#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | &#x1F441;&#xFE0F; | 
 | <small>1F445</small><br>tongue<br>&#x1F445; | &#x1F445; | &#x1F445; | &#x1F445; | 
 | <small>1F444</small><br>mouth<br>&#x1F444; | &#x1F444; | &#x1F444; | &#x1F444; | 
+| <small>1FAE6</small><br>biting lip<br>&#x1FAE6; |  | &#x1FAE6; | &#x1FAE6; | 
 
 #### person
 
@@ -593,7 +623,9 @@ td:nth-child(4) {
 | <small>1F9D1</small><br>person<br>&#x1F9D1; |  | &#x1F9D1; | &#x1F9D1; | 
 | <small>1F471</small><br>person: blond hair<br>&#x1F471; | &#x1F471; | &#x1F471; | &#x1F471; | 
 | <small>1F468</small><br>man<br>&#x1F468; | &#x1F468; | &#x1F468; | &#x1F468; | 
-| <small>1F9D4</small><br>man: beard<br>&#x1F9D4; |  | &#x1F9D4; | &#x1F9D4; | 
+| <small>1F9D4</small><br>person: beard<br>&#x1F9D4; |  | &#x1F9D4; | &#x1F9D4; | 
+| <small>1F9D4 200D 2642 FE0F</small><br>man: beard<br>&#x1F9D4;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9D4;&#x200D;&#x2642;&#xFE0F; | &#x1F9D4;&#x200D;&#x2642;&#xFE0F; | 
+| <small>1F9D4 200D 2640 FE0F</small><br>woman: beard<br>&#x1F9D4;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9D4;&#x200D;&#x2640;&#xFE0F; | &#x1F9D4;&#x200D;&#x2640;&#xFE0F; | 
 | <small>1F468 200D 1F9B0</small><br>man: red hair<br>&#x1F468;&#x200D;&#x1F9B0; |  | &#x1F468;&#x200D;&#x1F9B0; | &#x1F468;&#x200D;&#x1F9B0; | 
 | <small>1F468 200D 1F9B1</small><br>man: curly hair<br>&#x1F468;&#x200D;&#x1F9B1; |  | &#x1F468;&#x200D;&#x1F9B1; | &#x1F468;&#x200D;&#x1F9B1; | 
 | <small>1F468 200D 1F9B3</small><br>man: white hair<br>&#x1F468;&#x200D;&#x1F9B3; |  | &#x1F468;&#x200D;&#x1F9B3; | &#x1F468;&#x200D;&#x1F9B3; | 
@@ -713,6 +745,7 @@ td:nth-child(4) {
 | <small>1F477</small><br>construction worker<br>&#x1F477; | &#x1F477; | &#x1F477; | &#x1F477; | 
 | <small>1F477 200D 2642 FE0F</small><br>man construction worker<br>&#x1F477;&#x200D;&#x2642;&#xFE0F; |  | &#x1F477;&#x200D;&#x2642;&#xFE0F; | &#x1F477;&#x200D;&#x2642;&#xFE0F; | 
 | <small>1F477 200D 2640 FE0F</small><br>woman construction worker<br>&#x1F477;&#x200D;&#x2640;&#xFE0F; |  | &#x1F477;&#x200D;&#x2640;&#xFE0F; | &#x1F477;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1FAC5</small><br>person with crown<br>&#x1FAC5; |  | &#x1FAC5; | &#x1FAC5; | 
 | <small>1F934</small><br>prince<br>&#x1F934; | &#x1F934; | &#x1F934; | &#x1F934; | 
 | <small>1F478</small><br>princess<br>&#x1F478; | &#x1F478; | &#x1F478; | &#x1F478; | 
 | <small>1F473</small><br>person wearing turban<br>&#x1F473; | &#x1F473; | &#x1F473; | &#x1F473; | 
@@ -727,6 +760,8 @@ td:nth-child(4) {
 | <small>1F470 200D 2642 FE0F</small><br>man with veil<br>&#x1F470;&#x200D;&#x2642;&#xFE0F; |  | &#x1F470;&#x200D;&#x2642;&#xFE0F; | &#x1F470;&#x200D;&#x2642;&#xFE0F; | 
 | <small>1F470 200D 2640 FE0F</small><br>woman with veil<br>&#x1F470;&#x200D;&#x2640;&#xFE0F; |  | &#x1F470;&#x200D;&#x2640;&#xFE0F; | &#x1F470;&#x200D;&#x2640;&#xFE0F; | 
 | <small>1F930</small><br>pregnant woman<br>&#x1F930; | &#x1F930; | &#x1F930; | &#x1F930; | 
+| <small>1FAC3</small><br>pregnant man<br>&#x1FAC3; |  | &#x1FAC3; | &#x1FAC3; | 
+| <small>1FAC4</small><br>pregnant person<br>&#x1FAC4; |  | &#x1FAC4; | &#x1FAC4; | 
 | <small>1F931</small><br>breast-feeding<br>&#x1F931; |  | &#x1F931; | &#x1F931; | 
 | <small>1F469 200D 1F37C</small><br>woman feeding baby<br>&#x1F469;&#x200D;&#x1F37C; |  | &#x1F469;&#x200D;&#x1F37C; | &#x1F469;&#x200D;&#x1F37C; | 
 | <small>1F468 200D 1F37C</small><br>man feeding baby<br>&#x1F468;&#x200D;&#x1F37C; |  | &#x1F468;&#x200D;&#x1F37C; | &#x1F468;&#x200D;&#x1F37C; | 
@@ -767,6 +802,7 @@ td:nth-child(4) {
 | <small>1F9DF</small><br>zombie<br>&#x1F9DF; |  | &#x1F9DF; | &#x1F9DF; | 
 | <small>1F9DF 200D 2642 FE0F</small><br>man zombie<br>&#x1F9DF;&#x200D;&#x2642;&#xFE0F; |  | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | &#x1F9DF;&#x200D;&#x2642;&#xFE0F; | 
 | <small>1F9DF 200D 2640 FE0F</small><br>woman zombie<br>&#x1F9DF;&#x200D;&#x2640;&#xFE0F; |  | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | &#x1F9DF;&#x200D;&#x2640;&#xFE0F; | 
+| <small>1F9CC</small><br>troll<br>&#x1F9CC; |  | &#x1F9CC; | &#x1F9CC; | 
 
 #### person-activity
 
@@ -950,6 +986,8 @@ td:nth-child(4) {
 | <small>1F405</small><br>tiger<br>&#x1F405; | &#x1F405; | &#x1F405; | &#x1F405; | 
 | <small>1F406</small><br>leopard<br>&#x1F406; | &#x1F406; | &#x1F406; | &#x1F406; | 
 | <small>1F434</small><br>horse face<br>&#x1F434; | &#x1F434; | &#x1F434; | &#x1F434; | 
+| <small>1FACE</small><br>moose<br>&#x1FACE; |  |  |  | 
+| <small>1FACF</small><br>donkey<br>&#x1FACF; |  |  |  | 
 | <small>1F40E</small><br>horse<br>&#x1F40E; | &#x1F40E; | &#x1F40E; | &#x1F40E; | 
 | <small>1F984</small><br>unicorn<br>&#x1F984; | &#x1F984; | &#x1F984; | &#x1F984; | 
 | <small>1F993</small><br>zebra<br>&#x1F993; |  | &#x1F993; | &#x1F993; | 
@@ -1017,6 +1055,9 @@ td:nth-child(4) {
 | <small>1F9A9</small><br>flamingo<br>&#x1F9A9; |  | &#x1F9A9; | &#x1F9A9; | 
 | <small>1F99A</small><br>peacock<br>&#x1F99A; |  | &#x1F99A; | &#x1F99A; | 
 | <small>1F99C</small><br>parrot<br>&#x1F99C; |  | &#x1F99C; | &#x1F99C; | 
+| <small>1FABD</small><br>wing<br>&#x1FABD; |  |  |  | 
+| <small>1F426 200D 2B1B</small><br>black bird<br>&#x1F426;&#x200D;&#x2B1B; |  |  |  | 
+| <small>1FABF</small><br>goose<br>&#x1FABF; |  |  |  | 
 
 #### animal-amphibian
 
@@ -1051,6 +1092,8 @@ td:nth-child(4) {
 | <small>1F988</small><br>shark<br>&#x1F988; | &#x1F988; | &#x1F988; | &#x1F988; | 
 | <small>1F419</small><br>octopus<br>&#x1F419; | &#x1F419; | &#x1F419; | &#x1F419; | 
 | <small>1F41A</small><br>spiral shell<br>&#x1F41A; | &#x1F41A; | &#x1F41A; | &#x1F41A; | 
+| <small>1FAB8</small><br>coral<br>&#x1FAB8; |  | &#x1FAB8; | &#x1FAB8; | 
+| <small>1FABC</small><br>jellyfish<br>&#x1FABC; |  |  |  | 
 
 #### animal-bug
 
@@ -1080,6 +1123,7 @@ td:nth-child(4) {
 | <small>1F490</small><br>bouquet<br>&#x1F490; | &#x1F490; | &#x1F490; | &#x1F490; | 
 | <small>1F338</small><br>cherry blossom<br>&#x1F338; | &#x1F338; | &#x1F338; | &#x1F338; | 
 | <small>1F4AE</small><br>white flower<br>&#x1F4AE; | &#x1F4AE; | &#x1F4AE; | &#x1F4AE; | 
+| <small>1FAB7</small><br>lotus<br>&#x1FAB7; |  | &#x1FAB7; | &#x1FAB7; | 
 | <small>1F3F5 FE0F</small><br>rosette<br>&#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | &#x1F3F5;&#xFE0F; | 
 | <small>1F339</small><br>rose<br>&#x1F339; | &#x1F339; | &#x1F339; | &#x1F339; | 
 | <small>1F940</small><br>wilted flower<br>&#x1F940; | &#x1F940; | &#x1F940; | &#x1F940; | 
@@ -1087,6 +1131,7 @@ td:nth-child(4) {
 | <small>1F33B</small><br>sunflower<br>&#x1F33B; | &#x1F33B; | &#x1F33B; | &#x1F33B; | 
 | <small>1F33C</small><br>blossom<br>&#x1F33C; | &#x1F33C; | &#x1F33C; | &#x1F33C; | 
 | <small>1F337</small><br>tulip<br>&#x1F337; | &#x1F337; | &#x1F337; | &#x1F337; | 
+| <small>1FABB</small><br>hyacinth<br>&#x1FABB; |  |  |  | 
 
 #### plant-other
 
@@ -1105,6 +1150,9 @@ td:nth-child(4) {
 | <small>1F341</small><br>maple leaf<br>&#x1F341; | &#x1F341; | &#x1F341; | &#x1F341; | 
 | <small>1F342</small><br>fallen leaf<br>&#x1F342; | &#x1F342; | &#x1F342; | &#x1F342; | 
 | <small>1F343</small><br>leaf fluttering in wind<br>&#x1F343; | &#x1F343; | &#x1F343; | &#x1F343; | 
+| <small>1FAB9</small><br>empty nest<br>&#x1FAB9; |  | &#x1FAB9; | &#x1FAB9; | 
+| <small>1FABA</small><br>nest with eggs<br>&#x1FABA; |  | &#x1FABA; | &#x1FABA; | 
+| <small>1F344</small><br>mushroom<br>&#x1F344; | &#x1F344; | &#x1F344; | &#x1F344; | 
 
 
 ### Food & Drink
@@ -1149,9 +1197,11 @@ td:nth-child(4) {
 | <small>1F966</small><br>broccoli<br>&#x1F966; |  | &#x1F966; | &#x1F966; | 
 | <small>1F9C4</small><br>garlic<br>&#x1F9C4; |  | &#x1F9C4; | &#x1F9C4; | 
 | <small>1F9C5</small><br>onion<br>&#x1F9C5; |  | &#x1F9C5; | &#x1F9C5; | 
-| <small>1F344</small><br>mushroom<br>&#x1F344; | &#x1F344; | &#x1F344; | &#x1F344; | 
 | <small>1F95C</small><br>peanuts<br>&#x1F95C; | &#x1F95C; | &#x1F95C; | &#x1F95C; | 
+| <small>1FAD8</small><br>beans<br>&#x1FAD8; |  | &#x1FAD8; | &#x1FAD8; | 
 | <small>1F330</small><br>chestnut<br>&#x1F330; | &#x1F330; | &#x1F330; | &#x1F330; | 
+| <small>1FADA</small><br>ginger root<br>&#x1FADA; |  |  |  | 
+| <small>1FADB</small><br>pea pod<br>&#x1FADB; |  |  |  | 
 
 #### food-prepared
 
@@ -1261,6 +1311,7 @@ td:nth-child(4) {
 | <small>1F37B</small><br>clinking beer mugs<br>&#x1F37B; | &#x1F37B; | &#x1F37B; | &#x1F37B; | 
 | <small>1F942</small><br>clinking glasses<br>&#x1F942; | &#x1F942; | &#x1F942; | &#x1F942; | 
 | <small>1F943</small><br>tumbler glass<br>&#x1F943; | &#x1F943; | &#x1F943; | &#x1F943; | 
+| <small>1FAD7</small><br>pouring liquid<br>&#x1FAD7; |  | &#x1FAD7; | &#x1FAD7; | 
 | <small>1F964</small><br>cup with straw<br>&#x1F964; |  | &#x1F964; | &#x1F964; | 
 | <small>1F9CB</small><br>bubble tea<br>&#x1F9CB; |  | &#x1F9CB; | &#x1F9CB; | 
 | <small>1F9C3</small><br>beverage box<br>&#x1F9C3; |  | &#x1F9C3; | &#x1F9C3; | 
@@ -1276,6 +1327,7 @@ td:nth-child(4) {
 | <small>1F374</small><br>fork and knife<br>&#x1F374; | &#x1F374; | &#x1F374; | &#x1F374; | 
 | <small>1F944</small><br>spoon<br>&#x1F944; | &#x1F944; | &#x1F944; | &#x1F944; | 
 | <small>1F52A</small><br>kitchen knife<br>&#x1F52A; | &#x1F52A; | &#x1F52A; | &#x1F52A; | 
+| <small>1FAD9</small><br>jar<br>&#x1FAD9; |  | &#x1FAD9; | &#x1FAD9; | 
 | <small>1F3FA</small><br>amphora<br>&#x1F3FA; | &#x1F3FA; | &#x1F3FA; | &#x1F3FA; | 
 
 
@@ -1366,6 +1418,7 @@ td:nth-child(4) {
 | <small>1F309</small><br>bridge at night<br>&#x1F309; | &#x1F309; | &#x1F309; | &#x1F309; | 
 | <small>2668 FE0F</small><br>hot springs<br>&#x2668;&#xFE0F; | &#x2668;&#xFE0F; | &#x2668;&#xFE0F; | &#x2668;&#xFE0F; | 
 | <small>1F3A0</small><br>carousel horse<br>&#x1F3A0; | &#x1F3A0; | &#x1F3A0; | &#x1F3A0; | 
+| <small>1F6DD</small><br>playground slide<br>&#x1F6DD; |  | &#x1F6DD; | &#x1F6DD; | 
 | <small>1F3A1</small><br>ferris wheel<br>&#x1F3A1; | &#x1F3A1; | &#x1F3A1; | &#x1F3A1; | 
 | <small>1F3A2</small><br>roller coaster<br>&#x1F3A2; | &#x1F3A2; | &#x1F3A2; | &#x1F3A2; | 
 | <small>1F488</small><br>barber pole<br>&#x1F488; | &#x1F488; | &#x1F488; | &#x1F488; | 
@@ -1419,6 +1472,7 @@ td:nth-child(4) {
 | <small>1F6E4 FE0F</small><br>railway track<br>&#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | &#x1F6E4;&#xFE0F; | 
 | <small>1F6E2 FE0F</small><br>oil drum<br>&#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | &#x1F6E2;&#xFE0F; | 
 | <small>26FD</small><br>fuel pump<br>&#x26FD; | &#x26FD; | &#x26FD; | &#x26FD; | 
+| <small>1F6DE</small><br>wheel<br>&#x1F6DE; |  | &#x1F6DE; | &#x1F6DE; | 
 | <small>1F6A8</small><br>police car light<br>&#x1F6A8; | &#x1F6A8; | &#x1F6A8; | &#x1F6A8; | 
 | <small>1F6A5</small><br>horizontal traffic light<br>&#x1F6A5; | &#x1F6A5; | &#x1F6A5; | &#x1F6A5; | 
 | <small>1F6A6</small><br>vertical traffic light<br>&#x1F6A6; | &#x1F6A6; | &#x1F6A6; | &#x1F6A6; | 
@@ -1430,6 +1484,7 @@ td:nth-child(4) {
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>2693</small><br>anchor<br>&#x2693; | &#x2693; | &#x2693; | &#x2693; | 
+| <small>1F6DF</small><br>ring buoy<br>&#x1F6DF; |  | &#x1F6DF; | &#x1F6DF; | 
 | <small>26F5</small><br>sailboat<br>&#x26F5; | &#x26F5; | &#x26F5; | &#x26F5; | 
 | <small>1F6F6</small><br>canoe<br>&#x1F6F6; | &#x1F6F6; | &#x1F6F6; | &#x1F6F6; | 
 | <small>1F6A4</small><br>speedboat<br>&#x1F6A4; | &#x1F6A4; | &#x1F6A4; | &#x1F6A4; | 
@@ -1627,13 +1682,13 @@ td:nth-child(4) {
 
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
-| <small>1F3AF</small><br>direct hit<br>&#x1F3AF; | &#x1F3AF; | &#x1F3AF; | &#x1F3AF; | 
+| <small>1F3AF</small><br>bullseye<br>&#x1F3AF; | &#x1F3AF; | &#x1F3AF; | &#x1F3AF; | 
 | <small>1FA80</small><br>yo-yo<br>&#x1FA80; |  | &#x1FA80; | &#x1FA80; | 
 | <small>1FA81</small><br>kite<br>&#x1FA81; |  | &#x1FA81; | &#x1FA81; | 
+| <small>1F52B</small><br>water pistol<br>&#x1F52B; | &#x1F52B; | &#x1F52B; | &#x1F52B; | 
 | <small>1F3B1</small><br>pool 8 ball<br>&#x1F3B1; | &#x1F3B1; | &#x1F3B1; | &#x1F3B1; | 
 | <small>1F52E</small><br>crystal ball<br>&#x1F52E; | &#x1F52E; | &#x1F52E; | &#x1F52E; | 
 | <small>1FA84</small><br>magic wand<br>&#x1FA84; |  | &#x1FA84; | &#x1FA84; | 
-| <small>1F9FF</small><br>nazar amulet<br>&#x1F9FF; |  | &#x1F9FF; | &#x1F9FF; | 
 | <small>1F3AE</small><br>video game<br>&#x1F3AE; | &#x1F3AE; | &#x1F3AE; | &#x1F3AE; | 
 | <small>1F579 FE0F</small><br>joystick<br>&#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | &#x1F579;&#xFE0F; | 
 | <small>1F3B0</small><br>slot machine<br>&#x1F3B0; | &#x1F3B0; | &#x1F3B0; | &#x1F3B0; | 
@@ -1641,6 +1696,7 @@ td:nth-child(4) {
 | <small>1F9E9</small><br>puzzle piece<br>&#x1F9E9; |  | &#x1F9E9; | &#x1F9E9; | 
 | <small>1F9F8</small><br>teddy bear<br>&#x1F9F8; |  | &#x1F9F8; | &#x1F9F8; | 
 | <small>1FA85</small><br>piñata<br>&#x1FA85; |  | &#x1FA85; | &#x1FA85; | 
+| <small>1FAA9</small><br>mirror ball<br>&#x1FAA9; |  | &#x1FAA9; | &#x1FAA9; | 
 | <small>1FA86</small><br>nesting dolls<br>&#x1FA86; |  | &#x1FA86; | &#x1FA86; | 
 | <small>2660 FE0F</small><br>spade suit<br>&#x2660;&#xFE0F; | &#x2660;&#xFE0F; | &#x2660;&#xFE0F; | &#x2660;&#xFE0F; | 
 | <small>2665 FE0F</small><br>heart suit<br>&#x2665;&#xFE0F; | &#x2665;&#xFE0F; | &#x2665;&#xFE0F; | &#x2665;&#xFE0F; | 
@@ -1690,6 +1746,7 @@ td:nth-child(4) {
 | <small>1FA73</small><br>shorts<br>&#x1FA73; |  | &#x1FA73; | &#x1FA73; | 
 | <small>1F459</small><br>bikini<br>&#x1F459; | &#x1F459; | &#x1F459; | &#x1F459; | 
 | <small>1F45A</small><br>woman’s clothes<br>&#x1F45A; | &#x1F45A; | &#x1F45A; | &#x1F45A; | 
+| <small>1FAAD</small><br>folding hand fan<br>&#x1FAAD; |  |  |  | 
 | <small>1F45B</small><br>purse<br>&#x1F45B; | &#x1F45B; | &#x1F45B; | &#x1F45B; | 
 | <small>1F45C</small><br>handbag<br>&#x1F45C; | &#x1F45C; | &#x1F45C; | &#x1F45C; | 
 | <small>1F45D</small><br>clutch bag<br>&#x1F45D; | &#x1F45D; | &#x1F45D; | &#x1F45D; | 
@@ -1704,6 +1761,7 @@ td:nth-child(4) {
 | <small>1F461</small><br>woman’s sandal<br>&#x1F461; | &#x1F461; | &#x1F461; | &#x1F461; | 
 | <small>1FA70</small><br>ballet shoes<br>&#x1FA70; |  | &#x1FA70; | &#x1FA70; | 
 | <small>1F462</small><br>woman’s boot<br>&#x1F462; | &#x1F462; | &#x1F462; | &#x1F462; | 
+| <small>1FAAE</small><br>hair pick<br>&#x1FAAE; |  |  |  | 
 | <small>1F451</small><br>crown<br>&#x1F451; | &#x1F451; | &#x1F451; | &#x1F451; | 
 | <small>1F452</small><br>woman’s hat<br>&#x1F452; | &#x1F452; | &#x1F452; | &#x1F452; | 
 | <small>1F3A9</small><br>top hat<br>&#x1F3A9; | &#x1F3A9; | &#x1F3A9; | &#x1F3A9; | 
@@ -1757,6 +1815,8 @@ td:nth-child(4) {
 | <small>1FA95</small><br>banjo<br>&#x1FA95; |  | &#x1FA95; | &#x1FA95; | 
 | <small>1F941</small><br>drum<br>&#x1F941; | &#x1F941; | &#x1F941; | &#x1F941; | 
 | <small>1FA98</small><br>long drum<br>&#x1FA98; |  | &#x1FA98; | &#x1FA98; | 
+| <small>1FA87</small><br>maracas<br>&#x1FA87; |  |  |  | 
+| <small>1FA88</small><br>flute<br>&#x1FA88; |  |  |  | 
 
 #### phone
 
@@ -1774,6 +1834,7 @@ td:nth-child(4) {
 | name | EmojiTwo | Twemoji | OpenMoji |
 |:-:|:-:|:-:|:-:|
 | <small>1F50B</small><br>battery<br>&#x1F50B; | &#x1F50B; | &#x1F50B; | &#x1F50B; | 
+| <small>1FAAB</small><br>low battery<br>&#x1FAAB; |  | &#x1FAAB; | &#x1FAAB; | 
 | <small>1F50C</small><br>electric plug<br>&#x1F50C; | &#x1F50C; | &#x1F50C; | &#x1F50C; | 
 | <small>1F4BB</small><br>laptop<br>&#x1F4BB; | &#x1F4BB; | &#x1F4BB; | &#x1F4BB; | 
 | <small>1F5A5 FE0F</small><br>desktop computer<br>&#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | &#x1F5A5;&#xFE0F; | 
@@ -1925,7 +1986,7 @@ td:nth-child(4) {
 | <small>1F6E0 FE0F</small><br>hammer and wrench<br>&#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | &#x1F6E0;&#xFE0F; | 
 | <small>1F5E1 FE0F</small><br>dagger<br>&#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | &#x1F5E1;&#xFE0F; | 
 | <small>2694 FE0F</small><br>crossed swords<br>&#x2694;&#xFE0F; | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | &#x2694;&#xFE0F; | 
-| <small>1F52B</small><br>pistol<br>&#x1F52B; | &#x1F52B; | &#x1F52B; | &#x1F52B; | 
+| <small>1F4A3</small><br>bomb<br>&#x1F4A3; | &#x1F4A3; | &#x1F4A3; | &#x1F4A3; | 
 | <small>1FA83</small><br>boomerang<br>&#x1FA83; |  | &#x1FA83; | &#x1FA83; | 
 | <small>1F3F9</small><br>bow and arrow<br>&#x1F3F9; | &#x1F3F9; | &#x1F3F9; | &#x1F3F9; | 
 | <small>1F6E1 FE0F</small><br>shield<br>&#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | &#x1F6E1;&#xFE0F; | 
@@ -1964,7 +2025,9 @@ td:nth-child(4) {
 | <small>1FA78</small><br>drop of blood<br>&#x1FA78; |  | &#x1FA78; | &#x1FA78; | 
 | <small>1F48A</small><br>pill<br>&#x1F48A; | &#x1F48A; | &#x1F48A; | &#x1F48A; | 
 | <small>1FA79</small><br>adhesive bandage<br>&#x1FA79; |  | &#x1FA79; | &#x1FA79; | 
+| <small>1FA7C</small><br>crutch<br>&#x1FA7C; |  | &#x1FA7C; | &#x1FA7C; | 
 | <small>1FA7A</small><br>stethoscope<br>&#x1FA7A; |  | &#x1FA7A; | &#x1FA7A; | 
+| <small>1FA7B</small><br>x-ray<br>&#x1FA7B; |  | &#x1FA7B; | &#x1FA7B; | 
 
 #### household
 
@@ -1990,6 +2053,7 @@ td:nth-child(4) {
 | <small>1F9FB</small><br>roll of paper<br>&#x1F9FB; |  | &#x1F9FB; | &#x1F9FB; | 
 | <small>1FAA3</small><br>bucket<br>&#x1FAA3; |  | &#x1FAA3; | &#x1FAA3; | 
 | <small>1F9FC</small><br>soap<br>&#x1F9FC; |  | &#x1F9FC; | &#x1F9FC; | 
+| <small>1FAE7</small><br>bubbles<br>&#x1FAE7; |  | &#x1FAE7; | &#x1FAE7; | 
 | <small>1FAA5</small><br>toothbrush<br>&#x1FAA5; |  | &#x1FAA5; | &#x1FAA5; | 
 | <small>1F9FD</small><br>sponge<br>&#x1F9FD; |  | &#x1F9FD; | &#x1F9FD; | 
 | <small>1F9EF</small><br>fire extinguisher<br>&#x1F9EF; |  | &#x1F9EF; | &#x1F9EF; | 
@@ -2003,8 +2067,11 @@ td:nth-child(4) {
 | <small>26B0 FE0F</small><br>coffin<br>&#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | &#x26B0;&#xFE0F; | 
 | <small>1FAA6</small><br>headstone<br>&#x1FAA6; |  | &#x1FAA6; | &#x1FAA6; | 
 | <small>26B1 FE0F</small><br>funeral urn<br>&#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | &#x26B1;&#xFE0F; | 
+| <small>1F9FF</small><br>nazar amulet<br>&#x1F9FF; |  | &#x1F9FF; | &#x1F9FF; | 
+| <small>1FAAC</small><br>hamsa<br>&#x1FAAC; |  | &#x1FAAC; | &#x1FAAC; | 
 | <small>1F5FF</small><br>moai<br>&#x1F5FF; | &#x1F5FF; | &#x1F5FF; | &#x1F5FF; | 
 | <small>1FAA7</small><br>placard<br>&#x1FAA7; |  | &#x1FAA7; | &#x1FAA7; | 
+| <small>1FAAA</small><br>identification card<br>&#x1FAAA; |  | &#x1FAAA; | &#x1FAAA; | 
 
 
 ### Symbols
@@ -2087,6 +2154,7 @@ td:nth-child(4) {
 | <small>262E FE0F</small><br>peace symbol<br>&#x262E;&#xFE0F; | &#x262E;&#xFE0F; | &#x262E;&#xFE0F; | &#x262E;&#xFE0F; | 
 | <small>1F54E</small><br>menorah<br>&#x1F54E; | &#x1F54E; | &#x1F54E; | &#x1F54E; | 
 | <small>1F52F</small><br>dotted six-pointed star<br>&#x1F52F; | &#x1F52F; | &#x1F52F; | &#x1F52F; | 
+| <small>1FAAF</small><br>khanda<br>&#x1FAAF; |  |  |  | 
 
 #### zodiac
 
@@ -2132,6 +2200,7 @@ td:nth-child(4) {
 | <small>1F505</small><br>dim button<br>&#x1F505; | &#x1F505; | &#x1F505; | &#x1F505; | 
 | <small>1F506</small><br>bright button<br>&#x1F506; | &#x1F506; | &#x1F506; | &#x1F506; | 
 | <small>1F4F6</small><br>antenna bars<br>&#x1F4F6; | &#x1F4F6; | &#x1F4F6; | &#x1F4F6; | 
+| <small>1F6DC</small><br>wireless<br>&#x1F6DC; |  |  |  | 
 | <small>1F4F3</small><br>vibration mode<br>&#x1F4F3; | &#x1F4F3; | &#x1F4F3; | &#x1F4F3; | 
 | <small>1F4F4</small><br>mobile phone off<br>&#x1F4F4; | &#x1F4F4; | &#x1F4F4; | &#x1F4F4; | 
 
@@ -2151,6 +2220,7 @@ td:nth-child(4) {
 | <small>2795</small><br>plus<br>&#x2795; | &#x2795; | &#x2795; | &#x2795; | 
 | <small>2796</small><br>minus<br>&#x2796; | &#x2796; | &#x2796; | &#x2796; | 
 | <small>2797</small><br>divide<br>&#x2797; | &#x2797; | &#x2797; | &#x2797; | 
+| <small>1F7F0</small><br>heavy equals sign<br>&#x1F7F0; |  | &#x1F7F0; | &#x1F7F0; | 
 | <small>267E FE0F</small><br>infinity<br>&#x267E;&#xFE0F; |  | &#x267E;&#xFE0F; | &#x267E;&#xFE0F; | 
 
 #### punctuation
@@ -2159,10 +2229,10 @@ td:nth-child(4) {
 |:-:|:-:|:-:|:-:|
 | <small>203C FE0F</small><br>double exclamation mark<br>&#x203C;&#xFE0F; | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | &#x203C;&#xFE0F; | 
 | <small>2049 FE0F</small><br>exclamation question mark<br>&#x2049;&#xFE0F; | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | &#x2049;&#xFE0F; | 
-| <small>2753</small><br>question mark<br>&#x2753; | &#x2753; | &#x2753; | &#x2753; | 
+| <small>2753</small><br>red question mark<br>&#x2753; | &#x2753; | &#x2753; | &#x2753; | 
 | <small>2754</small><br>white question mark<br>&#x2754; | &#x2754; | &#x2754; | &#x2754; | 
 | <small>2755</small><br>white exclamation mark<br>&#x2755; | &#x2755; | &#x2755; | &#x2755; | 
-| <small>2757</small><br>exclamation mark<br>&#x2757; | &#x2757; | &#x2757; | &#x2757; | 
+| <small>2757</small><br>red exclamation mark<br>&#x2757; | &#x2757; | &#x2757; | &#x2757; | 
 | <small>3030 FE0F</small><br>wavy dash<br>&#x3030;&#xFE0F; | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | &#x3030;&#xFE0F; | 
 
 #### currency
