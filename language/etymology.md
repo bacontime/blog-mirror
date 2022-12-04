@@ -3,7 +3,7 @@ title: Interesting Etymologies
 parent: Language
 layout: post
 date: 2021-10-15
-last_modified_date: 2022-07-23
+last_modified_date: 2022-12-04
 ---
 
 
@@ -13,6 +13,9 @@ Regression (statistics)
 
 Capital and per-capita
 : Both derive from the latin *capita*, meaning *head*. 'Per-capita' refers to human heads, of course. While 'Capital' refers to heads of cattle, which would now be classified as a specific kind of capital, falling under the category of [cultivated biological resources](https://stats.oecd.org/glossary/detail.asp?ID=6380).
+
+Economic
+: from Greek *oikonomikos* originally referred to the proper management of a household. (The word has since expanded in meaning, but household decisions are still a large part of the field of economics.)
 
 
 
