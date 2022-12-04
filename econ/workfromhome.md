@@ -16,7 +16,13 @@ The ATUS diaries contain self-rerported information on both what activity people
 
 I counted an activity as "Working from Home" if if it was coded as "Working" (codes 0501xx) and if the location for that activity was "Respondent's home or yard" (code 101).
 
+<style>
+    .sidebysideimages img {
+        max-width: 49%;
+    }
+</style>
 
+<div markdown="block" class="sidebysideimages">
 ![](wfhimg/plotMinWork.png) ![](wfhimg/plotMinCommute.png)
 
 ![](wfhimg/plotMinWFH.png) ![](wfhimg/plotWFHPerWork.png)
@@ -31,7 +37,7 @@ I counted an activity as "Working from Home" if if it was coded as "Working" (co
 
 ![](wfhimg/plotMinWorkNoWFH.png) 
 ![](wfhimg/plotMinWorkOffice.png) 
-
+</div>
 
 Compared to pre-2020 years, 
 the portion of people who reported working from home seems to have roughly doubled.

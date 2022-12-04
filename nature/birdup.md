@@ -2,6 +2,9 @@
 title: New State Birds
 parent: Science and Nature
 has_children: true
+layout: post
+toc: true
+date: 2021-11-21
 ---
 
 <!--Reminder: This page from sklearn has a list of classifiers to look at.
@@ -13,12 +16,7 @@ In [*The State Birds are Garbage*](https://www.youtube.com/watch?v=JAZI5GcPm8c),
 Jam2go calculates "BIRD Uniqueness Points" for each (bird,state) pair, 
 and uses this to assign new state birds.
 
-<!--<iframe width="560" height="315" maxwidth="100%" src="https://www.youtube-nocookie.com/embed/JAZI5GcPm8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>-->
-
-The video is about much more than that, and is definitely worth a watch,
-but I found the results of the exercise dissapointing. 
-As such, I downloaded 200 gigs of bird data and reran the numbers myself.
-
+<!--<iframe width="560" height="315" maxwidth="100%" src="https://www.youtube-nocookie.com/embed/JAZI5GcPm8c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 <details closed markdown="block">
   <summary>
@@ -27,6 +25,15 @@ As such, I downloaded 200 gigs of bird data and reran the numbers myself.
 - TOC
 {:toc}
 </details>
+
+
+-->
+
+The video is about much more than that, and is definitely worth a watch,
+but I found the results of the exercise dissapointing. 
+As such, I downloaded 200 gigs of bird data and reran the numbers myself.
+
+
 
 
 ## The Problems with Jam2go's BIRDUP

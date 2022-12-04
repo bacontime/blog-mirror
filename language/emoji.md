@@ -1,11 +1,13 @@
 ---
 title: Open-source Emojis
+subtitle: Comparison Table for a Few Open-Source Emoji Fonts
 parent: Language
+layout: post
+date: 2022-01-27
+last_modified_date: 2022-11-28
 ---
 
 <!--parent: Unicode Characters-->
-
-# Comparison Table for a Few Open-Source Emoji Fonts
 
 The tables below depict a few different open-source emoji fonts.
 [A more complete comparison can be found here on the Unicode Consortium's website.](https://unicode.org/emoji/charts/full-emoji-list.html)

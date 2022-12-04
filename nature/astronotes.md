@@ -5,6 +5,7 @@ grand_parent: Science and Nature
 parent: Astro Symbols
 layout: post
 toc: true
+date: 2021-06-06
 last_modified_date: 2022-11-14
 ---
 

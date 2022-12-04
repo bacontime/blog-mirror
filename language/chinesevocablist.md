@@ -2,6 +2,8 @@
 title: List of Basic Chinese Terms
 parent: Chinese Characters
 grand_parent: Language
+layout: post
+date: 2022-02-25
 ---
 
 WIP

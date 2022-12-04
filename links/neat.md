@@ -1,8 +1,10 @@
 ---
 title: Neat Stuff
 parent: Links
+layout: post
 has_children: false
 nav_exclude: false
+date: 2022-11-27
 ---
 
 [H3: Uber’s Hexagonal Hierarchical Spatial Index](https://eng.uber.com/h3/)

@@ -2,6 +2,7 @@
 title: Childcare Time Use
 subtitle: Breakdown of time spent on childcare in the ATUS
 parent: Econ
+layout: post
 date: 2022-10-16
 last_modified_date: 2022-10-16
 ---
