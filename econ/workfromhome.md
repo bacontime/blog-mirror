@@ -41,4 +41,4 @@ while the amount of time spent working doesn't seem to have changed much.
 (More time spent on leisure?)
 
 
-
+See also [this BLS Press Release](https://www.bls.gov/news.release/atus.nr0.htm), and [the accompanying Table 6](https://www.bls.gov/news.release/atus.t06.htm)
