@@ -56,21 +56,21 @@ These averages look at survey responses collected 2005-2019 from respondents who
 ![](ccimg/0519_all_♂.svg)
 </figure>
 
-<details markown="block">
+<details markdown="block" open>
 <summary>Symbol Key</summary>
-⚽ - Playing with kids, including sports and crafts.
-💬 - Talking with kids as a primary activity.
-📖 - Reading to kids.
-🏫 - Education-related activities (homework, homeschool, PTA meetings).
-🍼 - Physical care (a broad category including feeding, bathing, dressing, etc.)
-⚕️ - Health-related activities. 
-👁️ - Supervising as a primary activity.
-📝 - Planning, organizing, or attending events.
-⏳ - Picking up, dropping off, or waiting for or with kids.
-🚗 - Travel related to child-care.[travelInATUS]
+⚽ - Playing with kids, including sports and crafts.  
+💬 - Talking with kids as a primary activity.  
+📖 - Reading to kids.  
+🏫 - Education-related activities (homework, homeschool, PTA meetings).  
+🍼 - Physical care (a broad category including feeding, bathing, dressing, etc.)  
+⚕️ - Health-related activities.   
+👁️ - Supervising as a primary activity.  
+📝 - Planning, organizing, or attending events.  
+⏳ - Picking up, dropping off, or waiting for or with kids.  
+🚗 - Travel related to child-care.[^travelInATUS]  
 </details>
 
-[travelInATUS]: In ATUS, the purpose of travel is oddly defined. [See this article for details](https://www.bls.gov/opub/mlr/2018/article/what-is-the-impact-of-recoding-travel-activities-in-the-american-time-use-survey.htm). In brief, time spent on "Travel related to child-care" means any time spent travelling such that the *next* activity is child-care, unless the travel destination is home, in which case the travel time is associated with the *previous* activity.
+[^travelInATUS]: In ATUS, the purpose of travel is oddly defined. [See this article for details](https://www.bls.gov/opub/mlr/2018/article/what-is-the-impact-of-recoding-travel-activities-in-the-american-time-use-survey.htm). In brief, time spent on "Travel related to child-care" means any time spent travelling such that the *next* activity is child-care, unless the travel destination is home, in which case the travel time is associated with the *previous* activity.
 
 Mothers tend to spend more time on average caring for 
 children than do fathers. 
