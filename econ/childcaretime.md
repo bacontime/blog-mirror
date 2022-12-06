@@ -3,6 +3,7 @@ title: Childcare Time Use
 subtitle: Breakdown of time spent on childcare in the ATUS
 parent: Econ
 layout: post
+toc: true
 date: 2022-10-16
 last_modified_date: 2022-10-16
 ---
@@ -38,7 +39,7 @@ We all know that taking care of kids takes a lot of work. But *what kind* of wor
 
 Here, I look at data from the American Time Use Survey.
 The following graphs take the time spent on Primary Childcare,[^primaryVsSecondaryChildcare]
-and broken it down into 
+and break it down into several broad categories.
 
 [^primaryVsSecondaryChildcare]: The BLS uses "Primary Childcare" to refer to time spent where caring for or helping a child is the primary activity. "Secondary Childcare" is time spent watching a child while doing something else, like cooking.
 
@@ -55,6 +56,21 @@ These averages look at survey responses collected 2005-2019 from respondents who
 ![](ccimg/0519_all_♂.svg)
 </figure>
 
+<details markown="block">
+<summary>Symbol Key</summary>
+⚽ - Playing with kids, including sports and crafts.
+💬 - Talking with kids as a primary activity.
+📖 - Reading to kids.
+🏫 - Education-related activities (homework, homeschool, PTA meetings).
+🍼 - Physical care (a broad category including feeding, bathing, dressing, etc.)
+⚕️ - Health-related activities. 
+👁️ - Supervising as a primary activity.
+📝 - Planning, organizing, or attending events.
+⏳ - Picking up, dropping off, or waiting for or with kids.
+🚗 - Travel related to child-care.[travelInATUS]
+</details>
+
+[travelInATUS]: In ATUS, the purpose of travel is oddly defined. [See this article for details](https://www.bls.gov/opub/mlr/2018/article/what-is-the-impact-of-recoding-travel-activities-in-the-american-time-use-survey.htm). In brief, time spent on "Travel related to child-care" means any time spent travelling such that the *next* activity is child-care, unless the travel destination is home, in which case the travel time is associated with the *previous* activity.
 
 Mothers tend to spend more time on average caring for 
 children than do fathers. 
@@ -112,11 +128,11 @@ Here I slice the graphs by restricting each graph to include parents whose child
 
 
 <figure markdown="block">
+<figcaption>Childcare time of parents with kids aged 6 to 12</figcaption>
 ![](ccimg/0519_kidage_3to5_symbols.svg)
 ![](ccimg/0519_kidage_3to5_.svg)
 ![](ccimg/0519_kidage_3to5_♀.svg)
 ![](ccimg/0519_kidage_3to5_♂.svg)
-<figcaption>Childcare time of parents with kids aged 6 to 12</figcaption>
 </figure>
 
 
@@ -130,11 +146,11 @@ Here I slice the graphs by restricting each graph to include parents whose child
 
 
 <figure markdown="block">
+<figcaption>Childcare time of parents with newborn children</figcaption>
 ![](ccimg/0519_newborn_present_symbols.svg)
 ![](ccimg/0519_newborn_present_.svg)
 ![](ccimg/0519_newborn_present_♀.svg)
 ![](ccimg/0519_newborn_present_♂.svg)
-<figcaption>Childcare time of parents with newborn children</figcaption>
 </figure>
 
 
@@ -152,7 +168,7 @@ TODO: Possibly Move to seperate Appendix page
 
 ### Category Definitions
 
-### How exactly everything is filter
+### How exactly everything is filtered
 
 IPUMS variable names etc
 
