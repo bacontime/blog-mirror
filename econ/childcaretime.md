@@ -155,28 +155,6 @@ Here I slice the graphs by restricting each graph to include parents whose child
 
 
 
-
-<div markdown="block" style="width:150%">
-
-![](ccimg/0519_all_.svg)
-
-</div>
-
-## Data Details
-
-TODO: Possibly Move to seperate Appendix page
-
-### Category Definitions
-
-### How exactly everything is filtered
-
-IPUMS variable names etc
-
-### Details about travel in ATUS
-
-- includes walking
-- Coded to activity associated with destination, unless it is home.
-
 <!--All time with child present? Extra time from cooking when you have kids? Rugrats paper travel time?-->
 
 
@@ -189,7 +167,7 @@ redirect_from:
 
 
 
-
+---
 
 
 
