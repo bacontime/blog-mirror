@@ -1,7 +1,7 @@
 ---
 title: Discworld Ranking
 description: A ranking of Discworld novels, based on personal preferences.
-parent: Media
+parent: Media Recommendations
 grand_parent: Art and Culture
 layout: post
 toc: false
