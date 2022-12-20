@@ -1,8 +1,9 @@
 ---
-title: Media
+title: Media Recommendations
+parent: Art and Culture
 has_children: true
 nav_exclude: false
-description: "This is a repository of books, movies, and the like which I like."
+description: "This is a collection of books, movies, and other media which I enjoy."
 ---
 
 <!--

@@ -1,8 +1,11 @@
 ---
 title: Movies
-parent: Media
-nav_exclude: false
 description: "This is a list of movies I've seen and remember."
+parent: Media Recommendations
+grand_parent: Art and Culture
+layout: post
+toc: false
+date: 2021-09-14
 ---
 
 ## Rating Meaning
@@ -14,7 +17,7 @@ Doubled symbols indicate that a movie is superlative in that regard.
 | Symbol | Meaning |
 |:-:|:-:|
 | 😆 | Made me laugh. |
-| 💗 | Made me feel things. |
+| 💗 | Made me *feel*. |
 | 👀 | Neat spectacle. |
 | 💭 | It's a thinker. |
 | 🎼 | The score carries it. |
@@ -39,7 +42,9 @@ Doubled symbols indicate that a movie is superlative in that regard.
 ## Other Good Movies
 
 
-
+[Memories (1995)](https://www.imdb.com/title/tt0113799/)
+: 👀
+: Three animated science-fiction short stories. The first story, *Magnetic Rose*, is especially excellent.
 
 [Moon](https://www.imdb.com/title/tt1182345/)
 : 💭

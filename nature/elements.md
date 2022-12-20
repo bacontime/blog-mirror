@@ -1,14 +1,15 @@
 ---
 title: Element Names
+subtitle: Some Idle Musings Related to the Names of the Chemical Elements
+layout: post
 parent: Science and Nature
+date: 2022-07-15
+last_modified_date: 2022-09-28
+toc: true
 ---
 
 
-See [here](../language/hanzielements.html) for my notes on Chinese chemical element names.
-
-## Some Idle Musings
-
-### What is the third ferromagnetic goblin?
+## What is the third ferromagnetic goblin?
 
 Iron Cobalt and Nickel are sometimes known as the "[Iron Triad](https://chem.libretexts.org/Bookshelves/General_Chemistry/Map%3A_General_Chemistry_(Petrucci_et_al.)/23%3A_The_Transition_Elements/23.5%3A_The_Iron_Triad%3A_Iron_Cobalt_and_Nickel)" or Iron Group due to their similar properties. 
 
@@ -27,7 +28,7 @@ What terrible ferro-goblins might still sleep secretly deep within the earth?
 
 ---
 
-### Planetary Elements
+## Planetary Elements
 
 There are 8 elements named after celestial objects.  
 The seven metals of antiquity have traditionally been [associated with the seven classical planets](https://en.wikipedia.org/wiki/Classical_planet#Alchemy), especially Mercury, for which the planet and element share a name.
@@ -52,10 +53,11 @@ Between these two factors, there is at least one element associated with each of
 
 Though this still leaves many former planets and dwarf planets without an element of their own.
 
+<!--Uranus alternate symbol associated with platinum-->
 
 ---
 
-### "Cooler" Alternate Element Names
+## Interesting Alternate Element Names
 
 Many elements have alternate names,
 and there are good reasons for standardizing the names we have.
@@ -64,148 +66,11 @@ But some alternate names are fairly interesting.
 Tungsten
 : Wolfram, from *wolf's froth*, in reference to the difficulties of mining wolframite.
 Plutonium
-: Extremium, Ultimium, from the false belief that this was the final element.
+: Extremium or Ultimium, from the false belief that this was the final element.
+Mercury
+: Quicksilver, or Hydrargyrum, which is Greek for 'water-silver'
 
 
-
-<!--
-## The Full Table of Elements
-
-(work in progress)
-
-English | Literal | Pinyin | 汉字 | picto 
---- | --- | --- | --- | ---
-Hydrogen | water-former | Qīng | 氢 | also labor gas?
-Helium | sun metal | Hài | 氦 | astrological pig gas
-Lithium | stone metal | Lǐ | 锂 | village metal
-Beryllium | beryl metal | Pī | 鈹 | feather metal 
-Boron | borax stuff | Péng | 硼 | friends stone
-Carbon | charcoal stuff | Tàn | 碳 | charcoal stone
-Nitrogen | saltpetre-former | Dàn | 氮 | flaming gas 
-Oxygen | acid-former | Yǎng | 氧 | goat gas 
-Fluorine | flowing chemical | Fú | 氟 | negative gas (bow knife gas)
-Neon | new stuff | Nǎi | 氖 | indeed gas
-Sodium | soda metal | Nà | 鈉 | inside metal
-Magnesium | metal from the Magnesia Prefecture | Měi | 鎂 | beautiful metal
-Aluminum | alum metal | Lǚ | 鋁 | Lu metal (musical note/name)
-Silicon | flint stuff | Guī | 硅 | pointed jade stone
-Phosphorus  | light-bearer, the morning star | Lín | 磷 | phosporous stone? (mistaken rice stone)
-Sulfur | sulfur | Liú | 硫 | wasteland stone (secret river head stone)
-Chlorine | chartreuse chemical | Lǜ | 氯 | record gas
-Argon | lazy stuff | Yà | 氩 | Asia/second gas
-Potassium | pot ash metal | Jiǎ | 钾 | shell metal
-Calcium | lime metal | Gài | 钙 | beggar metal
-Scandium |  | kàng | 钪 | proud metal
-Titanium | giant god metal | tài | 钛 | very big metal
-Vanadium | fertility god metal | fán | 钒 | ordinary metal
-Chromium | colorful metal | Gè | 铬 | individually metal
-Manganese | stuff from the Magnesia Prefecture | Měng | 锰 | first metal
-Iron | strong stuff? | Tiě | 铁 | mistake metal 
-Cobalt | goblin | Gǔ | 钴 | old metal
-Nickel | also goblin | Niè | 镍 | law metal
-Copper | metal from Cyprus | Tóng | 铜 | similar metal (mouth open wide metal)
-Zinc | jaggy | Xīn | 锌 | bitter metal
-Gallium | French metal / chicken metal |  |  | 
-Germanium | German metal |  |  | 
-Arsenic | golden pigmentation |  |  | 
-Selenium | moon metal |  |  | 
-Bromine | stinky chemical | Xiù | 溴 | 臭水 stinky water
-Krypton | secret stuff |  |  | 
-Rubidium | red metal |  |  | 
-Strontium | metal from Strontian |  |  | 
-Yttrium | metal from Ytterby |  |  | 
-Zirconium | golden color |  |  | 
-Niobium |  |  |  | 
-Molybdenum | lead ore metal |  |  | 
-Technetium | artificial metal |  |  | 
-Ruthenium | Eastern European metal |  |  | 
-Rhodium | rose metal |  |  | 
-Palladium | wisdom god metal |  |  | 
-Silver | ? |  |  | 
-Cadmium |  |  |  | 
-Indium | indigo metal |  |  | 
-Tin | ? |  |  | 
-Antimony | cosmetic powder* |  |  | 
-Tellurium | earth metal |  |  | 
-Iodine | violet chemical |  |  | 
-Xenon | strange stuff |  |  | 
-Cesium | skyblue metal |  |  | 
-Barium | hefty metal |  |  | 
-Lanthanum |  |  |  | 
-Cerium |  |  |  | 
-Praseodymium |  |  |  | 
-Neodymium |  |  |  | 
-Promethium |  |  |  | 
-Samarium |  |  |  | 
-Europium |  |  |  | 
-Gadolinium |  |  |  | 
-Terbium |  |  |  | 
-Dysprosium |  |  |  | 
-Holmium |  |  |  | 
-Erbium |  |  |  | 
-Thulium |  |  |  | 
-Ytterbium |  |  |  | 
-Lutetium |  |  |  | 
-Hafnium |  |  |  | 
-Tantalum |  |  |  | 
-Tungsten |  |  |  | 
-Rhenium |  |  |  | 
-Osmium |  |  |  | 
-Iridium |  |  |  | 
-Platinum | silver metal | bó | 铂 | 白金 white metal
-Gold | yellow | jīn | 金 | metal
-Mercury | speed god metal | gǒng | 汞 | 工水 labor water
-Thallium |  |  |  | 
-Lead | ? | Qiān | 铅 | marsh metal
-Bismuth |  |  |  | 必金 invariably metal
-Polonium |  |  |  | 
-Astatine |  |  |  | 
-Radon |  |  |  | 
-Francium |  |  |  | 
-Radium |  |  |  | 
-Actinium |  |  |  | 
-Thorium |  |  |  | 
-Protactinium |  |  |  | 
-Uranium |  |  |  | 
-Neptunium |  |  |  | 
-Plutonium |  |  |  | 
-Americium |  |  |  | 
-Curium |  |  |  | 
-Berkelium |  |  |  | 
-Californium |  |  |  | 
-Einsteinium |  |  |  | 
-Fermium |  |  |  | 
-Mendelevium |  |  |  | 
-Nobelium |  |  |  | 
-Lawrencium |  |  |  | 
-Rutherfordium |  |  |  | 
-Dubnium |  |  |  | 
-Seaborgium |  |  |  | 
-Bohrium |  |  |  | 
-Hassium |  |  |  | 
-Meitnerium |  |  |  | 
-Darmstadtium |  |  |  | 
-Roentgenium |  |  |  | 
-Copernicium |  |  |  | 
-Nihonium |  |  |  | 
-Flerovium |  |  |  | 
-Moscovium |  |  |  | 
-Livermorium |  |  |  | 
-Tennessine |  |  |  | 
-Oganesson |  |  |  | 
-
-## The seven metals of antiquity
-
-English | Literal | Pinyin | 汉字 | picto 
---- | --- | --- | --- | ---
-Iron | strong stuff? | Tiě | 铁 | mistake metal 
-Copper | metal from Cyprus | Tóng | 铜 | similar metal (mouth open wide metal)
-Silver | ? | Yín | 银 | seventh trigram metal
-Tin | ? |  | 锡 | exchange metal
-Gold | yellow | Jīn | 金 | metal
-Mercury | speed god | Gǒng | 汞 | labor water
-Lead | ? | Qiān | 铅 | marsh metal
--->
 
 <!--Another theory, considered far-fetched in some quarters, traces it to Medieval Latin sodanum "a headache remedy," ultimately from Arabic suda "splitting headache."
 azoth/azote = lifeless Yang Air
@@ -218,12 +83,15 @@ helium aka 氦 sun vapor| Yin Air
 ## Links to pages about the elements:
 
 - Peter van de Krogt's [Periodic table color-coded by origin of name.](https://elements.vanderkrogt.net/ptable.php) Poke around this website for some very interesting articles on the history of each element's name, alternate names that were considered, and the like.
-- [Wiki article on Element Name Etymologies](https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies)
-- [An abbreviated Wiki Article with element etymologies](https://en.wikipedia.org/wiki/List_of_chemical_elements)
+- [An abbreviated Wikipedia Article with element etymologies](https://en.wikipedia.org/wiki/List_of_chemical_elements)
 - [A list of element names goofily adapted to only use germanic roots.](https://anglish.fandom.com/wiki/Fading_of_Ormotes)
-- [My notes about the Chinese characters for chemical elements.](../language/hanzielements.html)
 - [Theodore Gray's Periodic Table Website](https://periodictable.com/index.html).
 - [David Hamric's Element Coins](https://www.elementsales.com/ecoins.htm). [Relevant article](http://archive.boston.com/jobs/news/articles/2008/04/27/elements_a_natural_pick_of_career/). [Theodore Gray's gallery](https://periodictable.com/Elements/Source-hamric/index.html) of some of these 'coins'.
+
+<!--
+- [My notes about the Chinese names and characters for the chemical elements.](../language/hanzielements.html)
+- [Wikipedia article on Element Name Etymologies](https://en.wikipedia.org/wiki/List_of_chemical_element_name_etymologies)
+-->
 
 
 

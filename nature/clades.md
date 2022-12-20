@@ -6,7 +6,7 @@ layout: post
 toc: true
 parent: Science and Nature
 date: 2022-04-28
-last_modified_date: 2022-07-23
+last_modified_date: 2022-11-28
 ---
 
 
@@ -20,15 +20,11 @@ So goes the internet discourse.
 
 Pufferfish, you see, share a more recent ancestor with humans than they do with sharks.
 Any group consisting of only the things called '[fish](https://en.wikipedia.org/wiki/Fish)' is a group defined by physical features rather than shared ancestry.
-Fish, in other words, aren't a true *clade*.
+Fish, in other words, aren't a true *clade*.[^cladeDefinition]
+
+[^cladeDefinition]: A <b>clade</b> is any group of organisms which share a common ancestor, such that all of the descendants of that common ancestor are included in the group.
 
 <!--TODO: Insert comment about form taxa or folk taxonomy.-->
-
-<!--
-<aside>
- A <b>clade</b> is any group of organisms which share a common ancestor, such that all of the descendants of that common ancestor are included in the group.
-</aside>
--->
 
 
 <!--
@@ -40,10 +36,12 @@ And it was only in the last century that people realized that mushrooms aren't p
 -->
 
 These kinds of discussions can be somewhat silly, but 
-let's run with the fish example, and look for other similary silly animal classifications.
+let's run with the fish example, and look for other similarly silly animal classifications.
 
 The following is a cladistic tree of life using common names instead of latin names.
 When a common-name describes a non-clade group, I'll play a bit fast and loose with that common name to turn it into a clade.
+The goal here is to create a tree of life which is as baffling as possible, 
+without, strictly speaking, being *wrong*.
 Explanations are down below.
 
 
@@ -81,7 +79,7 @@ you could come up with a tree that looks something like this:-->
 <pre class="cladeslist">
 Worms
 ┣╸Bugs
-┃ ┣╸Arachnids: 🕷️🦂
+┃ ┣╸Spiders: 🕷️🦂
 ┃ ┗╸Shrimps 
 ┃   ┣╸Prawns: 🦀🦞🦐
 ┃   ┗╸Insects
@@ -90,9 +88,9 @@ Worms
 ┃     ┣╸Moths: 🦋🐛
 ┃     ┣╸Beetles: 🪲🐞
 ┃     ┣╸Crickets: 🦗
-┃     ┗╸Roaches: 🪳
+┃     ┗╸Cockroaches: 🪳
 ┣╸Mollusks: 🐙🦑🐚🐌🦪
-┣╸Ringed Worms: 🪱
+┣╸Segmented Worms: 🪱
 ┗╸Fishes
   ┣╸Sharks: 🦈
   ┣╸Ray-finned Fish: 🐟🐠🐡
@@ -108,9 +106,9 @@ Worms
     ┃   ┃ ┣╸Camelids: 🐪🐫🦙
     ┃   ┃ ┣╸Whippos: 🦛🐳🐋🐬
     ┃   ┃ ┣╸Pigs: 🐷🐖🐗
-    ┃   ┃ ┗╸Ruminants
+    ┃   ┃ ┗╸Deers
     ┃   ┃   ┣╸Giraffes: 🦒
-    ┃   ┃   ┣╸Deers: 🦌
+    ┃   ┃   ┣╸Elk: 🦌
     ┃   ┃   ┗╸Antelopes: 🦬🐮🐂🐃🐄🐏🐑🐐
     ┃   ┣╸Odd-toed Ungulates: 🐴🐎🦄🦓🦏
     ┃   ┣╸Carnivorans:
@@ -146,16 +144,8 @@ Worms
 
 <!--
   ()  ()  () ()()
+  emojis in parentheses are not in the unicode standard, and are specific to OpenMoji
 -->
-
-
-<details markdown="block">
-<summary>Notes about this tree. (click to expand)</summary>
-- Many clades are excluded.
-- Todo: link to version with scientific names. 
-</details>
-
-<!--- emojis in parentheses are not in the unicode standard, and are specific to OpenMoji-->
 
 
 ## Explanations for Clade Names
@@ -206,12 +196,12 @@ Thus fish, as usually defined, is the group consisting of *non-tetrapod vertebra
 To make "fish" into a clade, we must include whales, chickens, and the like. 
 
 <aside> 
-If you wanted to expand the clade to include everything that is sometimes *called* a fish (jellyfish, inkfish, starfish), you would need to include basically every animal excepts sponges.
+If you wanted to expand the clade to include everything that is sometimes *called* a fish (jellyfish, inkfish, starfish), you would need to include basically <i>every</i> animal except sponges. <a href="https://www.reuters.com/legal/litigation/bees-are-fish-under-calif-endangered-species-act-state-court-2022-06-01/">This seems to be the approach taken by California law.</a> 
 </aside>
 
 <!--Also, on a technicality, bees are fish in California.-->
 
----
+-------
 
 The remaining examples are listed in roughly decreasing order of sensibility:
 
@@ -220,13 +210,13 @@ The remaining examples are listed in roughly decreasing order of sensibility:
 
 ### Elephants (Elephantidae)
 
-Asian Elephants are more closely related to Mammoths than they are to African Elephants. Mammoths were fuzzy elephants that recently went extinct. This one shouldn't be controversial. 
+Asian Elephants are more closely related to Mammoths than they are to African Elephants. Mammoths were fuzzy elephants that recently went extinct. <!--This one shouldn't be controversial. -->
 (Mastodons were slightly different creatures.)
 
 
 ### Doves (Columbidae)
 
-Columbidae is the clade of pigeons and doves. There is no rigourous distinction between the two terms; I used "doves" in the tree above because it sounds more lovely. The extinct dodo was a large ground-pigeon.
+Columbidae is the clade of pigeons and doves. There is no rigorous distinction between the two terms; I used "doves" in the tree above because it sounds more lovely. The extinct dodo was a large ground-pigeon.
 
 
 ### Lizards (Squamata)
@@ -237,7 +227,16 @@ This one seems like it might be a reasonable category; snakes and amphisbaenians
 
 <!--
 Conversely, [tuatara](https://en.wikipedia.org/wiki/Tuatara) look super lizardy, and used to be considered lizards, but aren't part of the squamate clade. Biologists stopped calling them lizards when they noticed that while they do share some traits with lizards, they also share some traits with crocodiles (spiny plates) and turtles (beak instead of teeth). Tuatara are now thought to be the only surviving members of the [beakheads](https://en.wikipedia.org/wiki/Rhynchocephalia), a sort of sister clade to the lizards. Together, the squamates and beakheads form the clade of *Lepidosaurs*. And for the purposes of this exercise, it doesn't really matter whether we use "lizard" to refer to Squamata or Lepidosauria; both are clades full of lizardy things.
+TODO: Need to link a credible article which talks about these lads.
 -->
+
+### Rabbits (Leporidae)
+
+You might not even be aware that rabbits and hares are different things. Cladistically, they really aren't. 
+Rabbits usually dig burrows underground, and are born helpless (like us!).
+By contrast, hares build nests aboveground and are born ready to hop. It's primarily a distinction based on nesting behavior, not ancestry.
+An encyclopedia might define hares cladistically as the genus *lepus* and then define rabbits as the *non-hare leporids*. 
+But for this exercise, hares are rabbits. 
 
 
 
@@ -249,6 +248,7 @@ Moths are just non-butterfly lepidopterans. And to make 'moths' into a clade, th
 Note that the emoji 🐛 represents an ambiguous species. Most emoji sets depict it as a baby moth, but some depict it as a centipede.
 
 
+
 ### Wasps (Apocrita)
 
 🐝 Bees are a clade. 
@@ -258,11 +258,12 @@ So cladistically, bees and ants are specific kinds of wasps.
 <!--Hymenoptera, also excluding sawflies? Or sawflies are monophyletically all hymenoptera?-->
 
 
-### Monkeys (Simiiformes)
+### Cockroaches (Blattodea)
 
-A monkey is a *non-ape simian*. There are two different clades of monkeys, and any clade that includes both will also include the apes.
-Members of that shared clade are called "anthropoids" or "simians".
-But for this exercise, I'm calling apes "Monkeys" for the same reason that I'm calling them "Fish".
+This is similar to the wasp situation.
+Termites are a clade.
+Cockroaches are only a clade if termites are included.
+Termites are essentially eusocial cockroaches.
 
 
 
@@ -274,7 +275,14 @@ either [hemiptera](https://askabiologist.asu.edu/explore/true-bugs) or [heteropt
 But we all know what a bug is.
 It's a creepy crawly little whatzit with too many skittery legs. It's near synonymous with "arthropod".
 
+I'm not the only one who uses the term "bug" this way.
+[BugGuide.net](https://bugguide.net/node/view/15740) is about "Insects, Spiders & Their Kin", for example.
+The "bug" emoji 🐛 doesn't depict a "true bug", either.
+
+(Ignore the fact that bacteria are sometimes called bugs, because then *every* living organism would cladistically be a bug.)
+
 <!--
+And [etymologically, "bug" probably comes from a word that means "something scary"](https://www.etymonline.com/search?q=bug).
 Let me check to make sure I'm not the only one who feels this way about the word bug. 
 [Merriam-Webster](https://www.merriam-webster.com/dictionary/bug) lists spiders and beetles as examples of bugs.
 -->
@@ -295,22 +303,56 @@ https://emojipedia.org/bug/
 
 
 
+### Monkeys (Simiiformes)
+
+A monkey is a *non-ape simian*. There are two different clades of monkeys, and any clade that includes both will also include the apes.
+Members of that shared clade are called "anthropoids" or "simians".
+But for this exercise, I'm calling apes "Monkeys" for the same reason that I'm calling them "Fish".
+
+
+
+### Sharks (Chondrichthyes)
+
+Sharks and rays are in the clade *Chondrichthyes*, which means *Cartilaginous Fish*, and that's what this group is usually called.
+Unlike other fish, which have hard bony skeletons, sharks and their relatives have skeletons mostly made of flexible cartilage. 
+In addition to actual sharks, this group includes  rays (one family of which are called *carpenter sharks*) and chimaeras (some species of which are called *ghost sharks*).
+
+
+<!--Oily liver instead of lungs swim bladder.-->
+
+
+
+### Crickets (Orthoptera)
+
+The only thing which prevents crickets (*Ensifera*)
+from being a clade are pygmy mole crickets (*Tridactylidae*),
+which are more closely related to grasshoppers.
+Crickets and grasshoppers together form the clade *Orthoptera*, which means 'straight wings'.
+
+<!--https://orthoptera.org.uk/about_orthoptera-->
+
+---
+
+Here marks the point where things start getting downright silly.
+
+---
 
 ### Antelopes (Bovidae)
 
-Antelopes are not a clade<!--, unless we restrict the term to only mean "[True Antelopes](https://en.wikipedia.org/wiki/Antilopinae)"-->. The clade which contains antelopes is called *Bovidae*, and its members are called *bovids*, which means 'cattle-like'. Cows are bovids, of course. So are sheep, goats, and musk ox. An antelope is simply any bovid which people don't care enough about to lump it into its own category.
-
+Antelopes are not a clade<!--, unless we restrict the term to only mean "[True Antelopes](https://en.wikipedia.org/wiki/Antilopinae)"-->. The clade which contains antelopes is called *Bovidae*, and its members are called *bovids*, which means 'cattle-like'. Cows are bovids, of course. So are sheep, goats, and musk ox. An antelope is simply any bovid which people don't care enough about to lump it into its own category. 
 I suppose you could cheekily define an antelope as any *non-algricultural bovid*. 
 
 "Bovid" is simple enough to be used as a common-name, but for this silly exercise, we're going to call all bovids 'antelopes'.
 
 The clade would become even more expansive if pronghorns were included. Pronghorns are often called *American Antelope*, but they aren't even bovids; Pronghorn are their own weird thing. The clade which includes both bovids and pronghorns is called *Pecora*, which, like *bovidae*, can be translated as 'cattle-like'. Deer and giraffes are also pecorans. 
 
-<aside markdown="block">
-In the emoji tree above, I've decided to limit "antelope" to mean "bovid". "Ruminant" seems like a common term to me.  <!--, with its own relateed idioms Secondly, there are *a lot* of ruminant emojis, and I don't want the row to be so wide that it messes up formatting on mobile.-->
-</aside>
+<!--<aside markdown="block">
+In the emoji tree above, I've decided to limit "antelope" to mean "bovid". "Ruminant" seems like a common term to me, with its own related idioms. 
+Secondly, there are *a lot* of ruminant emojis, and I don't want the row to be so wide that it messes up formatting on mobile.
+</aside>-->
 
 So an antelope in the broadest sense is anything related to cattle which isn't similar enough to cattle to be called cattle, but which isn't different enough to be called something else. 🤷
+
 
 <!--Ancient mythical version of the antelope: saw like horns, used to cut down trees.-->
 <!--Eland domestication:
@@ -322,6 +364,56 @@ https://www.youtube.com/watch?v=5luGVwB453g
 "Amazing antelope" "cross between pig and deer". No. What?
 -->
 
+
+### Deer (Ruminantia) and Elk (Cervidae)
+
+Deer are a clade if, by 'deer', we mean only the cervids, members of the clade *Cervidae*,
+which includes caribous and [moosen](https://www.youtube.com/watch?v=QWzYaZDK6Is). 
+
+But there are two non-cervid critters which are also called 'deer'.
+The first is the musk-deer, which is a stinky little fanged fella more closely related to antelopes than to elk.
+The second is the tiny mouse-deer, also called the chevrotain.
+The clade which includes both cervids and chevrotains is called *Ruminantia*
+and its members are call *ruminants*,
+[named after their tendency to regurgitate and rechew their food](https://www.etymonline.com/search?q=Ruminant).
+
+If my goal here were to find sensible common names for clades, 
+then "Ruminant" is a fine term, fairly common, with its own related idioms.
+
+<!--- Ruminants - "Ruminant" actually has more results on Google than "Ruminate" (66m vs 41m), so it seems like a common enough term.-->
+
+But my goal is not to be sensible.
+As described above, deer are ~~pecorans~~ antelopes.
+Well, antelopes are also ~~ruminants~~ deer. 
+(Hopefully it's clear now why biologists use cumbersome Greco-Latin names for clades.)
+
+<!--Alternatively, if we wanted to talk about the clade of deer, 
+we could instead *shrink* the common-name category and say that chevrotains and musk-deer aren't *actually* deer,
+that only cervids are deer.
+This is essentially the "No such thing as a fish" approach.
+-->
+
+And what then shall we call the cervids, the "true deer"?
+Well, there are two species of deer called "elk" - the wapiti, and the moose.
+And these two species are very distant from one another on the cervid family tree.
+The only clade that includes both of them is cervidae itself.
+
+<!--http://endlessforest.org/community/tree-deer-life-->
+
+
+### Spiders (Arachnida) 
+
+Actual spiders are members of the clade *Araneae*.
+The arachnids are a broader clade which also includes scorpions, ticks and daddy long-legs, among others.
+
+As with deer, there are a few species in the broader clade which are also called spiders.
+Namely, animals in the clade *Solifugae* are often called sunspiders or camel spiders.
+Daddy long-legs are sometimes called "spiders" as well.
+The only clade which includes both these and true spiders is *Arachnida*.
+
+Solifugae are also called wind scorpions, so by the same logic, 
+we could expand "scorpion" to refer to all of *Arachnida*.
+But "arachnid" comes from the Greek word for spider, so that feels more natural.
 
 
 
@@ -339,15 +431,15 @@ For example, the brine shrimp (called Sea-monkeys when sold as pets) are more cl
 So in this exercise, insects are crustaceans, and crustaceans are all shrimps, so insects are shrimps.
 
 Meanwhile, the 'classic' crustaceans are in the clade *Malacostraca*, which means 'soft-shell' in Greek. 
-Aristotle gave them this name because their shells crush under pressure, in constrast to harder-shelled animals (like snails and oysters) whose shells shatter under pressure. [^aristotlecite]
-The most familiar Malacostracans - 🦀🦞🦐 crabs, lobsters, and the other big shrimps people like to eat - are Decapods, in the clade *Decapoda*, meaning 'ten-feet'.  
+Aristotle gave them this name because their shells crush under pressure, in constrast to harder-shelled animals (like snails and oysters) whose shells shatter under pressure.[^aristotlecite]
+The most familiar Malacostracans - 🦀🦞🦐 crabs, lobsters, and the other big shrimps people like to eat - are Decapods, in the clade *Decapoda*, meaning 'ten-feet'.
 Malacostraca includes the decapods as well as other creatures like mantis shrimp and roly-polies (isopods).
 
 <!--Krill are not decapods though, and my wife likes to snack on those.-->
 
 I wanted to find a common-name which cladistically includes all of the decapods, and settled on "Prawns".
 Like "shrimp", "prawn" has no precise scientific meaning. 
-A critter is prawn if it looks like a prawn, and whether a critter is called a "prawn" or a "shrimp" often comes down to regional slang. [^weaselprawncite]
+A critter is prawn if it looks like a prawn, and whether a critter is called a "prawn" or a "shrimp" often comes down to regional slang.[^weaselprawncite]
 But unlike "shrimp", the application of the name "prawn" seems limited to decapods.
 
 <!--MW dict lists two true shrimps as prawns
@@ -384,7 +476,7 @@ Nearly all animals, excepting a few simple creatures like jellies and sponges, a
 Birds of Prey, (aka "Raptors", though *Jurassic Park* has completely changed the meaning of that term,) are the big fierce hunter birds.
 Eagles, hawks, falcons -- you know the lot.
 It was a sensible guess that these birds might be a clade, but it is now known that falcons are more closely related to parrots and songbirds.
-The clade containing all the birds of prey is now called "Telluraves", which means "Earth-birds".
+The clade containing all the birds of prey is now called "Telluraves", which means "Earth-birds" or "Land-birds".
 Owls and woodpeckers are also telluravians.
 
 The 🐦 emoji is displayed as different species depending on the emoji set, but all of the identifiable species (bluebird, cardinal, canary, parrot) are telluravians. 
@@ -397,14 +489,19 @@ What's a shrew?
 [True shrews](https://www.youtube.com/watch?v=aFBp-iNTwBc) are a clade, closely related to hedgehogs.
 But there are also [tree shrews](https://www.youtube.com/watch?v=yt2ckFI2xwc) and [elephant shrews](https://www.youtube.com/watch?v=rvemPyOJZEY).
 All three of these creatures were once thought to be closely related, 
-but tree shrews are now know to be more closely related to primates, and elephants shrews are known to be more closely related to elephants than they are to true shrews (that's not a joke).
+but tree shrews are now know to be more closely related to primates, and elephant shrews are known to be more closely related to elephants than they are to true shrews (that's not a joke).
 
 The smallest clade that includes all of these shrews is *Placentalia*, encompassing all of the placental mammals - sheep, whales, elephants, you, your dog...
 
 A similar argument could be made to expand 'mole' to apply to all placental mammals, by way of the true moles and the golden moles.
 But 'shrew' sounds funnier, and I've heard it said that the shrew's bodyplan is in some sense the 'default' mammalian bodyplan.
 
-(There's also various species called "marsupial shrews" and "shrew possums", which would expand our shrew clade to include all the placental mammals and the marsupials. But unlike the previous shrews mentioned, biologists never grouped marsupial shrews together in the same clade with the other shrews; the pouch makes the difference clear. And besides, there are also creatures called "marsupial mice", "marsupial moles", "marsupial tapirs", and the "Tasmanian tiger". And in Chinese, kangaroos are called "pocket rats". People just weren't being very creative when they named some of these critters.)
+There's also various species called "marsupial shrews" and "shrew possums", 
+which would expand our shrew clade to include all the placental mammals and the marsupials. 
+But unlike the previous shrews mentioned, biologists never grouped marsupial shrews together in the same clade with the other shrews; the pouch makes the difference clear. 
+And besides, there are also creatures called "marsupial mice", "marsupial moles", "marsupial tapirs", and the "Tasmanian tiger". 
+And in Chinese, kangaroos are called "pocket rats". 
+People just weren't being very creative when they named some of these marsupial critters.
 
 
 
@@ -417,18 +514,9 @@ Speaking of marsupials, possums are not a clade. To make possums into a clade, t
 
 Possums aren't the same thing as **o**possums (american marsupials famous for playing dead) or shrew-oppossums (a marsupial which is neither a shrew nor an oppossum).
 But opossums are often called "'possums", and possums were named for their similarity to opossums.
-So for this exercise, I've lumped them together.
+So here, I've lumped them together.
 The smallest clade that includes all the (o)possums is the clade which includes every marsupial.
 
-
-### Sharks (Chondrichthyes)
-
-Sharks and rays are in the clade *Chondrichthyes*, which means *Cartilaginous Fish*, and that's what this group is usually called.
-Unlike other fish, which have hard bony skeletons, sharks and their relatives have skeletons mostly made of flexible cartilage. 
-In addition to actual sharks, this group includes  rays (one family of which are called *carpenter sharks*) and chimaeras (some species of which are called *ghost sharks*).
-
-
-<!--Oily liver instead of lungs swim bladder.-->
 
 
 ---
@@ -439,24 +527,41 @@ In some cases, I wasn't able to find a common name which could be expanded to co
 
 ### Actual Clade Names
 
-- Arachnids - Everyone's heard of Arachne, right?
-- Supraprimates - It rolls off the tongue better than the synonym *Euarchontoglires*, which means soemthing like 'true-rulers-and-dormice'.  
-- Even-toed Ungulates
-- Odd-toed Ungulates
-- Ruminants - "Ruminant" actually has more results on Google than "Ruminate" (66m vs 41m), so it seems like a common enough term.
-- Crocodilians - Secret tip: Never worry about whether it's a crocodile or an alligator. Just call them both crocodilians.
-- Ratites - This is the term for those weird flightless bird. The name comes from the shape of their sternum. Why isn't there a kiwibird emoji?
-- Fowl, Landfowl, Waterfowl
-- Rodents
+- Insects (Insecta)
+- Flies (Diptera)
+- Beetles (Coleoptera)
+- Mollusks (Mollusca)
+- Segmented Worms (Annelida)
+- Ray-finned Fish (Actinopterygii)
+- Lobe-finned Fish (Sarcopterygii)
+- Mammals (Mammalia)
+- Supraprimates - It rolls off the tongue better than the synonym *Euarchontoglires*, which means soemthing like 'true-ancestors-and-dormice'.
+- Rodents (Rodentia)
 - Camelids
+- Pigs (Suidae)
+- Giraffes (Giraffa) - I didn't put Okapi on the tree. Okapi aren't giraffes, but they are giraffids.
+- Carnivorans (Carnivora)
+- Cats (Felidae)
+- Dogs (Canidae)
+- Seals (Pinnipeds) - A sea lion is an eared seal. A walrus is a seal that hosts *MythBusters*.
+- Bats (Chiroptera)
+- Hedgehogs (Erinaceidae) - These used to be called "urchins". Closely related to the true shrews and moles.
+- Sloths (Folivora)
+- Crocodilians - Secret taxonomy tip: Never worry about whether it's a crocodile or an alligator. Just call them both crocodilians.
+- Turtles (Testudines)
+- Ratites - This is the term for those weird flightless birds. Kiwis, emus, and the like. The name comes from the shape of their sternum. <!--Why isn't there a kiwibird emoji?-->
+- Fowl (Galloanserae), Landfowl (Galliformes), and Waterfowl (Anseriformes)
+- Frogs (Anura) - Toads are just ugly frogs.
 
 <!--TODO: Give some of these sillier names.-->
 
 
 ### 'Translated' Names
 
+
 - Dogalikes (Caniformia)
-- Newbirds (Neoaves) - It's difficult to determine the relationships between birds within this clade because it underwent very rapid speciation after most of the dinos got wiped out [^neoavescite].
+- Even-toed Hoofers (Artiodactyla) and Odd-toed Hoofers (Perissodactyla) - These two clades are often called "ungulates", which is a Latin term referring to their hooves. I've translated "Ungulate" as "Hoofer". <aside>I have been informed that "hoofer" is a term for a tapdancer. I'm not changing it; I like the imagery.</aside>
+- Newbirds (Neoaves) - It's difficult to determine the relationships between birds within this clade because it underwent very rapid speciation after most of the dinos got wiped out [^neoavescite]. I've sidestepped the issue by only listing a few of the sub-clades.
 - Tyrants (Tyrannosaurus) - Listing all Theropods would make birds a subset, and I didn't want to indent that sublist an extra time.  
 
 
@@ -484,7 +589,10 @@ In some cases, I wasn't able to find a common name which could be expanded to co
 
 
 
-
+<!--
+From Aristotle to Linnaeus: the History of Taxonomy
+https://davesgarden.com/guides/articles/view/2051
+-->
 
 
 
@@ -503,47 +611,6 @@ https://www.whozoo.org/mammals/mammalianphylo.htm
 
 ---
 
-
-<!--
-CLADES TYPED OUT BUT EXCLUDED FROM ARTICLE
-
-
-
-
-### Rabbits and Hares (Leporidae)
-
-You might not even be aware that rabbits and hares are different things. Cladistically, they really aren't. 
-Rabbits usually dig burrows underground, and are born helpless (like us!).
-By contrast, hares build nests aboveground and are born ready to run. It's primarily a distinction based on nesting behavior, not ancestry.
-An encyclopedia might define hares cladistically as the genus *lepus* and then define rabbits as the *non-hare leporids*. 
-But for this exercise, hares are rabbits. 
-
-
-
-
-
-### Deer (Cervidae)
-
-Deer are a clade if, by 'deer', we mean the cervids, which includes elks and moosen. 
-And I can't think of why anyone would object to calling an elk a deer.
-So why include this example? 
-Because it allows us to segue into the very silly examples.
-
-### Deer (Ruminantia)
-
-Deer are only a clade if, by 'deer', we mean the cervids. 
-But there are two non-cervid critters which are also called 'deer'.
-The first is the musk deer, which are stinky little fanged fellas more closely related to antelopes than to elk.
-The second is the tiny mouse-deer, also called the chevrotain.
-Any clade which includes both cervids and chevrotains will include all the ruminants, including our pecoran friends from earlier. 
-
-Remember that deer are ~~pecorans~~ antelopes. Well, antelopes are also ~~ruminants~~ deer. (There's a reason biologists use cumbersome grecolatin names for clades.)
-
-Alternatively, if we wanted to talk about the clade of deer, 
-we could instead *shrink* the common-name category and say that chevrotains and musk-deer aren't *actually* deer,
-that only cervids are deer.
-This is essentially the "No such thing as a fish" approach.
--->
 
 
 
@@ -717,10 +784,15 @@ Crabs and Lobsters are "Reptants"
 
 https://bugguide.net/node/view/15740
 bug guide includes spiders. spider is colloquial bug.
+
+Inkfish, snails/slugs, bivalves, for mollusks?
+
 -->
 
 
 ---
+
+## Links
 
 [OneZoom Tree of Life](http://www.onezoom.org/)
 : Zoomable fractal showing the tree of life. Playing around with it, it does seem like many of the branches are outdated.
@@ -728,7 +800,20 @@ bug guide includes spiders. spider is colloquial bug.
 [Vertlife](http://vertlife.org/)
 : A fork of OneZoom. More up to date, but only depicting the tetrapods. 
 
+[Tree of Life web project](http://tolweb.org/tree/phylogeny.html)
+: Hypertext tree of life with a seperate page for each node.
+
+<!--
+[Phylogeny Explorer](https://explorer.phylogenyexplorerproject.com/)
+: Work in progress. In closed beta.
+-->
+
+
+---
+
 (PLACEHOLDER FOR GRIDDED VISUALIZATION OF ANIMAL CLADES)
+
+---
 
 
 

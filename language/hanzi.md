@@ -3,7 +3,7 @@ title: Chinese Characters
 parent: Language
 has_children: true
 ---
-
+<!--
 # Chinese Characters
 
 Hanzi, or Chinese characters, are the logographic symbols used to write Chinese. 
@@ -17,7 +17,7 @@ I'm generally terrible at language acquisition, but I find Chinese characters co
 - Secondly, I'm fascinated by ideograms[^ideogramnote] in general. Numerals, mathematical operators, emojis, bathroom signs, and astronomical symbols. All of these convey meaning without explicitly representing sound: 28 ∯∫ ❤︎☺ 🚺🚹 ☾🜨
 
 In the links down below, you can find several lists of Chinese characters that I've compiled for my own study and amusement.
-
+-->
 
 [^logogrammeaning]: "Logogram" comes from λόγος (word) + γράμμα (letter)
 

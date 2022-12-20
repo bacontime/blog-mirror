@@ -2,16 +2,21 @@
 title: List of Basic Chinese Terms
 parent: Chinese Characters
 grand_parent: Language
+layout: post
+toc: true
+date: 2022-02-25
+last_modified_date: 2022-02-25
 ---
 
-WIP
 
-# My Lists of Terms for Learning in Mandarin
-
+<!--
 This is a collection of vocabulary lists I've put together. 
 The only common factor is that I found these collections of words compelling or interesting in some way.
 
 Translations come mostly from [MDBG](https://www.mdbg.net/chinese/dictionary) and conversations with my wife.
+-->
+
+WIP
 
 ## Translations of Minimal English
 
@@ -167,23 +172,25 @@ The Authors of Minimal English provide the following list of more complicated co
 | husband | 老公 (lǎogōng) or 丈夫 (zhàngfu) |  Affectionate vs academic. 老公 is like 'old man'.  |
 | wood | 木 (mù) |  |
 | stone | 石 (shí) |  |
-| know (someone) |  () |  |
-| be called |  () |  |
-| hold |  () |  |
-| make |  () |  |
+| know (someone) | 认识 (rèn​shi) | Or if you know of somebody, just by their name, it's 知道 (zhī​dào). |
+| be called | 叫 (jiào) or 称作 (chēng​zuò) |  |
+| hold | 拿 (ná) or 抱 (bào) | 拿 has the connotation of 'grabbing'. 抱 is like a hug. "Hold" is difficult to translate into Chinese |
+| make | 做 (zuò) |  |
 | kill | 杀 (shā) |  |
 | breathe | 呼吸 (hūxī) |  |
 | sleep | 睡觉 (shuìjiào) |  |
 | sit | 坐 (zuò) |  |
 | lie | 躺 (tǎng) |  |
 | stand | 站 (zhàn) |  |
-| play | () |  |
+| play | 玩 (wán) | Pronounced *wáer* in my wife's dialect. "Northern people just add 'er' to all the words." |
 | laugh | 笑 (xiào) |  |
 | sing | 唱歌 (chànggē) | |
 
 
 
 <!--
+be called has a"bei" in front of the chengzuo. Something about active vs passive sentences?
+
 The following terms aren't interesting vocab terms, but show up in Minimal English
 
 | at the top |  () |  |
@@ -282,19 +289,19 @@ In addition to the above universal terms, the authors of Minimal English also pr
 | cloth                    |                       |                         |
 | Thread                   |                       |                         |
 | gold                     | 金 (jīn)              |                         |
-| rubber                   |                       |                         |
-| plastic                  |                       |                         |
-| oil                      |                       |                         |
-| coal                     |                       |                         |
-| petrol                   |                       |                         |
-| car                      |                       |                         |
-| bicycle                  |                       |                         |
-| plane                    |                       |                         |
-| boat                     |                       |                         |
-| train                    |                       |                         |
-| road                     |                       |                         |
-| wheel                    |                       |                         |
-| wire                     |                       |                         |
+| rubber                   | 橡胶 (xiàng​jiāo)       |                         |
+| plastic                  | 塑料 (sù​liào)          |                         |
+| oil                      | 油 (yóu)               |                         |
+| coal                     | 煤 (méi) or 煤炭 (méi​tàn) |                         |
+| petrol                   | 石油 (shí​yóu)         | Literally 'stone oil'.                        |
+| car                      | 车 (chē)              | This character is a pictograph of a cart, as can more clearly be seen with the traditional variant 車        |
+| bicycle                  | 自行车 (zì​xíng​chē)     | Can be confusingly literally translated as 'self-driving car'.       |
+| plane                    | 飞机 (fēi​jī)           | Literally 'flying machine'      |
+| boat                     | 船 (chuán)             |                         |
+| train                    | 火车 (huǒ​chē)         | Literally 'fire car'.    |
+| road                     | 路 (lù)               |                         |
+| wheel                    | 轮 (lún)              |                         |
+| wire                     | 电线 (diàn​xiàn)       | literally 'electric line'    |
 | engine                   |                       |                         |
 | pipe                     |                       |                         |
 | telephone                |                       |                         |
@@ -308,20 +315,22 @@ In addition to the above universal terms, the authors of Minimal English also pr
 | newspaper                |                       |                         |
 | film                     |                       |                         |
 | money                    |                       |                         |
-| God                      |                       |                         |
-| war                      |                       |                         |
-| poison                   |                       |                         |
-| music                    |                       |                         |
-| go/went                  |                       |                         |
-| eat                      |                       |                         |
-| drink                    |                       |                         |
-| take (someone somewhere) |                       |                         |
-| burn                     |                       |                         |
-| buy/pay                  |                       |                         |
-| learn                    |                       |                         |
-| clean (adjective)        |                       |                         |
+| God                      | 神 (shén) or 天神 (tiān​shén)    |                         |
+| war                      | 战争 (zhàn​zhēng)                      |                         |
+| poison                   | 毒 (dú)                     |                         |
+| music                    | 音乐 (yīn​yuè)                     |                         |
+| go/went                  |                      |                         |
+| eat                      | 吃 (chī)                      |                         |
+| drink                    | 喝 (hē)                      |                         |
+| take (someone somewhere) |                     |                         |
+| burn                     | 着 (zháo)                      |                         |
+| buy/pay                  | 买 (mǎi)                      |                         |
+| learn                    | 学习 (xué​xí)                     |                         |
+| clean (adjective)        | 干净 (gān​jìng)                      |                         |
 
-
+<!--
+Yiru's gma: confuse "landing" and "walkuing". 'Oh listen, the airplane is walking'
+-->
 
 ## Henanren Phrases
 

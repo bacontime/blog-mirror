@@ -2,12 +2,12 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="191.44003mm"
-   height="55.975285mm"
-   viewBox="0 0 191.44 55.975285"
+   width="200mm"
+   height="55mm"
+   viewBox="0 0 199.99997 55"
    version="1.1"
    id="svg5"
-   inkscape:version="1.1.2 (b8e25be833, 2022-02-05)"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
    sodipodi:docname="isomorphic43.svg"
    inkscape:export-filename="C:\Users\RobertWinslow\Documents\website\posts\art\isomorphic\r\isomorphic43.png"
    inkscape:export-xdpi="97.560913"
@@ -27,9 +27,16 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="1.1300912"
-     inkscape:cx="422.08983"
-     inkscape:cy="93.355297"
-     inkscape:current-layer="layer2" />
+     inkscape:cx="330.94674"
+     inkscape:cy="158.3943"
+     inkscape:current-layer="layer2"
+     inkscape:showpageshadow="2"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:window-width="2256"
+     inkscape:window-height="1451"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
   <defs
      id="defs2">
     <marker
@@ -80,7 +87,7 @@
      id="layer2"
      inkscape:label="translucent"
      style="opacity:0.2"
-     transform="translate(-212.30565,8.065053)">
+     transform="translate(-209.14334,13.673346)">
     <g
        id="g125323-1-6"
        transform="translate(175.82114,6.7271309)">
@@ -4136,6 +4143,56 @@
          id="text2420-9-4-9-9-3-2-3"><tspan
            sodipodi:role="line"
            id="tspan2418-5-9-7-5-94-6-31"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="95.581436"
+           y="12.349822">0</tspan></text>
+    </g>
+    <g
+       id="g125308-7-0-4-1"
+       transform="translate(307.66425,-18.646087)"
+       style="opacity:1">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#f6f5f4;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path968-7-8-7-8-2-16-1"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="272.5444"
+         sodipodi:cy="125.65358"
+         sodipodi:r1="31.966257"
+         sodipodi:r2="15.983128"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.0943951"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.26458333,0,0,0.26458333,23.470731,-26.393674)"
+         inkscape:transform-center-y="2.1144343"
+         d="m 272.5444,157.61984 -27.68359,-15.98313 0,-31.96626 27.68359,-15.983127 27.68359,15.983127 0,31.96626 z" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path1126-3-5-4-0-9-7-9"
+         cx="95.581436"
+         cy="6.852169"
+         r="6.3213925" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87778px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="95.052269"
+         y="10.393353"
+         id="text2420-9-4-9-7-1-874-6"><tspan
+           sodipodi:role="line"
+           id="tspan2418-5-9-7-3-5-1-8"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="95.052269"
+           y="10.393353">C</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="95.581436"
+         y="12.349822"
+         id="text2420-9-4-9-9-3-2-3-3"><tspan
+           sodipodi:role="line"
+           id="tspan2418-5-9-7-5-94-6-31-0"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
            x="95.581436"
            y="12.349822">0</tspan></text>
@@ -9382,12 +9439,62 @@
            x="22.335272"
            y="12.349822">1</tspan></text>
     </g>
+    <g
+       id="g125347-8-4-9-2"
+       transform="translate(43.978054,-18.646072)"
+       style="opacity:1">
+      <path
+         sodipodi:type="star"
+         style="fill:#ffffff;stroke:#f6f5f4;stroke-width:3.77953;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path968-7-7-5-0-9-3"
+         inkscape:flatsided="true"
+         sodipodi:sides="6"
+         sodipodi:cx="272.5444"
+         sodipodi:cy="125.65358"
+         sodipodi:r1="31.966257"
+         sodipodi:r2="15.983128"
+         sodipodi:arg1="1.5707963"
+         sodipodi:arg2="2.0943951"
+         inkscape:rounded="0"
+         inkscape:randomized="0"
+         transform="matrix(0.26458333,0,0,0.26458333,96.716896,-26.393674)"
+         inkscape:transform-center-y="2.1144343"
+         d="m 272.5444,157.61984 -27.68359,-15.98313 0,-31.96626 27.68359,-15.983127 27.68359,15.983127 0,31.96626 z" />
+      <circle
+         style="fill:#ffffff;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;paint-order:markers fill stroke"
+         id="path1126-3-3-4-2-2-38"
+         cx="168.82761"
+         cy="6.852169"
+         r="6.3213925" />
+      <text
+         xml:space="preserve"
+         style="font-size:9.87778px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="168.82761"
+         y="10.393353"
+         id="text2420-9-9-61-0-1-4"><tspan
+           sodipodi:role="line"
+           id="tspan2418-5-2-07-4-0-3"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:9.87778px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="168.82761"
+           y="10.393353">A</tspan></text>
+      <text
+         xml:space="preserve"
+         style="font-size:2.11667px;line-height:1;font-family:'CMU Sans Serif';-inkscape-font-specification:'CMU Sans Serif';text-align:center;letter-spacing:0px;word-spacing:0px;text-anchor:middle;stroke-width:0.264583"
+         x="168.82761"
+         y="12.349822"
+         id="text2420-9-4-9-9-6-18-6-7-4-9"><tspan
+           sodipodi:role="line"
+           id="tspan2418-5-9-7-5-9-4-1-6-5-2"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:2.11667px;font-family:sans-serif;-inkscape-font-specification:sans-serif;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="168.82761"
+           y="12.349822">9</tspan></text>
+    </g>
   </g>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(-251.61262,-27.174752)"
+     transform="translate(-248.45031,-21.566459)"
      sodipodi:insensitive="true">
     <path
        sodipodi:type="star"
@@ -12075,7 +12182,7 @@
      inkscape:groupmode="layer"
      id="layer3"
      inkscape:label="echoes"
-     transform="translate(65.921548,-50.74643)"
+     transform="translate(69.083856,-45.138137)"
      sodipodi:insensitive="true">
     <g
        id="g125323-1-0-2"
