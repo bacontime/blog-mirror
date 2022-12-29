@@ -1,0 +1,36 @@
+---
+title: Jianpu
+subtitle: Simplified Numeric Musical Notation
+parent: Art and Culture
+has_children: false
+layout: post
+toc: true
+date: 2022-12-29
+---
+
+<style>
+@font-face {
+    font-family: Jianpu;
+    src: url("{{site.webfontdirectory}}/jianpu/JianpuASCII.ttf ");
+}
+.jianpu {
+    font-family: Jianpu;
+    line-height: 1.5;
+}
+</style>
+
+The following is currently just a test of a Jianpu webfont.
+
+<pre class="jianpu">
+3|s3,,s3,s3s3's3''q3,,q3,q3q3'q3''3,,3,33'3''qx
+|0|:0:|:0:|0||
+| |5,,//|5''| | | |  q5 _5 5/ s5 __5 5// 5,/,/ 5//,, 5//,, 5/,/, 5,//, 5/,,/
+1,,2,,3,,4,,5,,6,,7,,1,2,3,4,5,6,7,12345671'2'3'4'5'6'7'1''2''3''4''5''6''7''89
+|X X qXqX X|qXqX qXqX q0qx x|
+#1##3-#_#6,,__4_#5_
+b1bb3-b_b6,,__4_b5_
+|1155|665-|4433|221-|
+|1 1 5 5|6 6 5 -|4 4 3 3|2 2 1 3-3**3*|
+|1 1 5 5|6 6 5 -|4 4 3 3|2 2 1 3-3*3*|
+</pre>
+
