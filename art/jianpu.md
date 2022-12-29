@@ -4,7 +4,7 @@ subtitle: Simplified Numeric Musical Notation
 parent: Art and Culture
 has_children: false
 layout: post
-toc: true
+toc: false
 date: 2022-12-29
 ---
 
@@ -16,6 +16,7 @@ date: 2022-12-29
 .jianpu {
     font-family: Jianpu;
     line-height: 1.5;
+    font-size: 30;
 }
 </style>
 
