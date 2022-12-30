@@ -16,7 +16,7 @@ date: 2022-12-29
 .jianpu {
     font-family: Jianpu;
     line-height: 1.5;
-    font-size: 30;
+    font-size: 30px;
 }
 </style>
 
