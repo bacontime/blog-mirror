@@ -1,7 +1,8 @@
 ---
 title: Jianpu Key Signatures
 subtitle: Some Infographics I made to Help Transpose Music to Jianpu
-parent: Art and Culture
+parent: Jianpu
+grand_parent: Art and Culture
 has_children: false
 layout: post
 toc: false
