@@ -50,7 +50,7 @@ For example, *Twinkle Twinkle Little Star* can be written
 </pre>
 
 The dashes indicate that the previous note should be extended by one quarter note.
-Like is staff notation, a dot after a note indicate that a note's duration should be extended by 50%.
+Like in staff notation, a dot after a note indicate that a note's duration should be extended by 50%.
 
 Underlining a note halves its duration.
 
