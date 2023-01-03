@@ -2,7 +2,7 @@
 title: Jianpu
 subtitle: Simplified Numeric Musical Notation
 parent: Art and Culture
-has_children: false
+has_children: true
 layout: post
 toc: false
 date: 2022-12-29
