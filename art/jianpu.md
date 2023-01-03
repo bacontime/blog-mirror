@@ -18,6 +18,10 @@ date: 2022-12-29
     line-height: 1.5;
     font-size: 20px;
 }
+@media (min-width: 31.25rem) {
+    .jianpu  {
+        font-size: 20px;
+    }
 </style>
 
 You're almost certainly familiar with western staff notation 🎼, even if you don't know how to read it.
@@ -76,3 +80,4 @@ These features are demonstrated in the following rendition of *Amazing Grace*, t
 5, |1, - 5, | 1, - 5, |4, - 4,|1, - 5,|1, - 1, |5, - 5,|1, - ||
 </pre>
 
+(If the song is too complicated, try just playing the top note of each chord.)
