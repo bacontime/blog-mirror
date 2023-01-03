@@ -4,7 +4,7 @@ subtitle: Simplified Numeric Musical Notation
 parent: Art and Culture
 has_children: true
 layout: post
-toc: false
+toc: true
 date: 2022-12-29
 last_modified_date: 2023-01-03
 ---
