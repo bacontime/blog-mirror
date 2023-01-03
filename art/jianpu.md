@@ -41,9 +41,11 @@ For example, *Twinkle Twinkle Little Star* can be written
 
 <pre class="jianpu">
 | 1 1 5 5 | 6 6 5 - | 4 4 3 3 | 2 2 1 - |
-
+</pre>
+<pre class="jianpu">
 | 5 5 4 4 | 3 3 2 - | 5 5 4 4 | 3 3 2 - | 
-
+</pre>
+<pre class="jianpu">
 | 1 1 5 5 | 6 6 5 - | 4 4 3 3 | 2 2 1 - |
 </pre>
 
