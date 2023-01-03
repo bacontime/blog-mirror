@@ -25,7 +25,11 @@ You're almost certainly familiar with western staff notation 🎼, even if you d
 But this isn't the only system for recording music. 
 I'm particularly fond of numbered musical notation,
 which seems to be more commonly used in China, 
-where is is sometimes called *jianpu*, meaning *simplified score*.
+where it's sometimes called *jianpu*, meaning *simplified score*.
+
+<aside hidden>
+My granpa-in-law, for example only knows how to read this kind of notation. 
+</aside>
 
 In western staff notation, 
 the shape of a symbol indicates that note's duration,
@@ -34,10 +38,9 @@ while the vertical position of the symbol indicates the note's pitch.
 In jianpu, by contrast,
 the shape of the symbol indicates its pitch.
 
-The digits 1-7 are used to indicate the notes of the scale *do re mi fa so la ti*.
+The digits 1-7 are used to indicate the notes of the scale *do re mi fa so la ti*, while 0 indicates a rest.
 
 For example, *Twinkle Twinkle Little Star* can be written
-
 
 <pre class="jianpu">
 | 1 1 5 5 | 6 6 5 - | 4 4 3 3 | 2 2 1 - |
@@ -52,12 +55,10 @@ For example, *Twinkle Twinkle Little Star* can be written
 The dashes indicate that the previous note should be extended by one quarter note.
 Like in staff notation, a dot after a note indicate that a note's duration should be extended by 50%.
 
-Underlining a note halves its duration.
-
-Placing a dot above or below a note moves up or down an octave, respectively.
-
-Finally, if two or more notes are vertically stacked,
-this means they should be played simultaneously as a chord.
+Some other bits of notation:
+- Underlining a note halves its duration.
+- Placing a dot above or below a note moves up or down an octave, respectively.
+- Finally, if notes are vertically stacked, this means they should be played simultaneously as a chord.
 
 These features are demonstrated in the following rendition of *Amazing Grace*, transcribed from [Wikipedia's page on jianpu](https://en.wikipedia.org/wiki/Numbered_musical_notation#Examples).
 
