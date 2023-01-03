@@ -16,22 +16,60 @@ date: 2022-12-29
 .jianpu {
     font-family: Jianpu;
     line-height: 1.5;
-    font-size: 30px;
+    font-size: 20px;
 }
 </style>
 
-The following is currently just a test of a Jianpu webfont.
+You're almost certainly familiar with western staff notation 🎼, even if you don't know how to read it.
+
+But this isn't the only system for recording music. 
+I'm particularly fond of numbered musical notation,
+which seems to be more commonly used in China, 
+where is is sometimes called *jianpu*, meaning *simplified score*.
+
+In western staff notation, 
+the shape of a symbol indicates that note's duration,
+while the vertical position of the symbol indicates the note's pitch.
+
+In jianpu, by contrast,
+the shape of the symbol indicates its pitch.
+
+The digits 1-7 are used to indicate the notes of the scale *do re mi fa so la ti*.
+
+For example, *Twinkle Twinkle Little Star* can be written
+
 
 <pre class="jianpu">
-3|s3,,s3,s3s3's3''q3,,q3,q3q3'q3''3,,3,33'3''qx
-|0|:0:|:0:|0||
-| |5,,//|5''| | | |  q5 _5 5/ s5 __5 5// 5,/,/ 5//,, 5//,, 5/,/, 5,//, 5/,,/
-1,,2,,3,,4,,5,,6,,7,,1,2,3,4,5,6,7,12345671'2'3'4'5'6'7'1''2''3''4''5''6''7''89
-|X X qXqX X|qXqX qXqX q0qx x|
-#1##3-#_#6,,__4_#5_
-b1bb3-b_b6,,__4_b5_
-|1155|665-|4433|221-|
-|1 1 5 5|6 6 5 -|4 4 3 3|2 2 1 3-3**3*|
-|1 1 5 5|6 6 5 -|4 4 3 3|2 2 1 3-3*3*|
+| 1 1 5 5 | 6 6 5 - | 4 4 3 3 | 2 2 1 - |
+
+| 5 5 4 4 | 3 3 2 - | 5 5 4 4 | 3 3 2 - | 
+
+| 1 1 5 5 | 6 6 5 - | 4 4 3 3 | 2 2 1 - |
+</pre>
+
+The dashes indicate that the previous note should be extended by one quarter note.
+Like is staff notation, a dot after a note indicate that a note's duration should be extended by 50%.
+
+Underlining a note halves its duration.
+
+Placing a dot above or below a note moves up or down an octave, respectively.
+
+Finally, if two or more notes are vertically stacked,
+this means they should be played simultaneously as a chord.
+
+These features are demonstrated in the following rendition of *Amazing Grace*, transcribed from [Wikipedia's page on jianpu](https://en.wikipedia.org/wiki/Numbered_musical_notation#Examples).
+
+
+
+<pre class="jianpu">
+5 |1' - q3'q1'| 3' - 2' |1' - 6|5 - 5|1' - q3'q1'|3' - q2'q3'|5' -
+3 |3 - 5 |b7 -b7 |4 - 4|3 - 3|3 - 5 |1' - 5 |5 -
+5, |1 - 1 | 1 - 1 |6, - 6,|1 - 1|5, - 5, |1 - 1 |7, -
+1, |1, - 5, | 1, - 5, |4, - 4,|1, - 5,|1, - 3, |5, -   |5, -
+ 
+2'/3'/|5' - 3'/1'/| 3' - 3'/2'/|1' - 6|5 - 5|1' - 3'/1'/|3' - 2'|1' - ||
+5 |3 - 5 |b7 -b7 |4 - 4|3 - 3|3 - 5 |1' - 4|3 - ||
+7, |5, - 1 | 1 - 1 |6, - 6,|1 - 1|5, - 5, |1 - 7,|1 - ||
+5, |1, - 5, | 1, - 5, |4, - 4,|1, - 5,|1, - 1, |5, - 5,|1, - ||
 </pre>
 
