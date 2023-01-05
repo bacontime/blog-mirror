@@ -34,7 +34,7 @@ and are [mirrored on the internet archive](https://archive.org/details/tomlehrer
 
 ## The Elements (Aristotle's Version)
 
-[See here for the original sheet music.](lehrer/Elements-Aristotle.jpeg)
+[See here for the original sheet music.](Lehrer/Elements-Aristotle.jpeg)
 
 <pre class="jianpu">
 |0 3 0 4|0 3 5 -|0 3 0 4|0 3 5   5|5 5 5 5|5 5 5/5. |1 5,/#/4,/5,/b6, 5, |0 5 1' 0||
