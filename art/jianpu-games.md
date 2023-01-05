@@ -102,7 +102,45 @@ Song Title
 Composer
 : Jonathan Coulton
 
-[Transcribed from this page on MuseScore](https://musescore.com/user/12125/scores/21060).
+
+
+[Transcribed from this arrangement on MuseScore](https://musescore.com/stratfordmusic/scores/5500093) posted by user Stratford Music.
+
+
+
+`Key: D Major. 1=D`
+
+<pre class="jianpu">
+|    4'/3'/2'/2'/|0/3'. 0 0 |0. 5/4'/3'/2'/2'/|0/3'. 1' 2'/5/|0 0 0. 5/|2' 3'/4'. 2'/7/|0 1'/2'/0 5/5/|0/3'. 0 0 |
+
+|0 0 4'/3'/2'/2'/|0/3'. 0 0 |0. 5/4'/3'/2'/2'/|0 3'/1'. 2'/5/|0 0 0 0 |2' 3'/4'. 2'/7/|0 1'/2'/0/5/7'/2'/|b3'/2'/1'/b/7/0 5/b/6/||
+</pre>
+<!--
+|    4'3'2'2'|03'--0---|0--54'3'2'2'|03'--1'-2'5|0------5|2'-3'4'--2'7|0-1'2'0-55|03'--0---|
+|0---4'3'2'2'|03'--0---|0--54'3'2'2'|0-3'1'--2'5|0-------|2'-3'4'--2'7|0-1'2'057'2'|b3'2'1'b70-5b6||
+-->
+
+`Key: F Major. 1=F`
+<pre class="jianpu">
+|5 1' 7/6/6/5/|6/5/5 5 3/4/|4 1' 2'/1'/7/6/|6/7/1' 1' 2'/3'/|4' 3' 2' 1'/2'/|3'/3'/2'/1'/1' 6/5/|6/1'/1'/7 7/#/1'/#/1'/|
+</pre>
+<!--|5-1'-7665|655-5-34|4-1'-2'1'76|671'-1'-2'3'|4'-3'-2'-1'2'|3'3'2'1'1'-65|61'1'7-7#1'#1'|-->
+
+
+`Key: D Major. 1=D`
+
+<pre class="jianpu">
+|0 0 0 0 |0 0 4'/.3'/.1'/|5 - - -|???? |
+</pre>
+
+
+
+
+
+<details markdown='block' closed>
+<summary>A More Complicated Rendition</summary>
+
+[Transcribed from this arrangement on MuseScore](https://musescore.com/user/12125/scores/21060) posted by Michel Yung.
 
 `Key: D Major. 1=D`
 
@@ -185,3 +223,12 @@ Composer
 
 (This example does illustrate that jianpu is perhaps better suited for simpler scores, with a single voice.)
 
+</details>
+
+
+
+<!--
+http://www.vgmpf.com/Wiki/index.php?title=Still_Alive
+https://musescore.com/user/6965226/scores/3214446
+https://musescore.com/stratfordmusic/scores/5500093
+-->
