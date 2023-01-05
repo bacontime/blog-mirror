@@ -34,6 +34,8 @@ https://archive.org/details/tomlehrersongs
 
 ## The Elements (Aristotle's Version)
 
+[See here for the original sheet music.](lehrer/Elements-Aristotle.jpeg)
+
 <pre class="jianpu">
 |0 3 0 4|0 3 5 -|0 3 0 4|0 3 5   5|5 5 5 5|5 5 5/5. |1 5,/#/4,/5,/b6, 5, |0 5 1' 0||
 |  1   2|0 1 5, -|  1   2|  1 5,  #2|3 3 3 3|3 3 3/3. |           |  4 5  ||
