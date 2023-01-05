@@ -25,9 +25,9 @@ date: 2023-01-04
 }
 </style>
 
-In 2020, Tom Lehrer released his musical works into the public domain.
-https://tomlehrersongs.com/
-https://archive.org/details/tomlehrersongs
+Tom Lehrer released his musical works into the public domain.
+The lyrics, sheet music, and recordings can be found on [Tom Lehrer's website](https://tomlehrersongs.com/),
+and are [mirrored on the internet archive](https://archive.org/details/tomlehrersongs).
 
 
 
