@@ -104,8 +104,7 @@ Composer
 
 
 
-[Based on this arrangement on MuseScore](https://musescore.com/stratfordmusic/scores/5500093) posted by Madeline Stratford,
-and modified by me to make it biphonic.
+[Based on this arrangement on MuseScore](https://musescore.com/stratfordmusic/scores/5500093), modified by to make it biphonic.
 
 
 
