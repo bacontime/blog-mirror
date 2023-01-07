@@ -27,6 +27,9 @@ date: 2023-01-07
     .jianpu  {
         font-size: 25px;
     }
+    .lyrics {
+        font-size: 65%
+    }
 }
 </style>
 
@@ -45,49 +48,49 @@ and are [mirrored on the internet archive](https://archive.org/details/tomlehrer
 <pre class="jianpu">
       3'-2'|1'----7-3|1'731'-7-3|7----6-3|7637-6-3|
 </pre>
-`| Counting | sheep When you're | trying to sleep, Being | fair When there's | something to share, Being |`
+<pre class="lyrics">| Counting | sheep When you're | trying to sleep, Being | fair When there's | something to share, Being |</pre>
 
 <pre class="jianpu">
 |5----5-4|353'1'----|003'-2'-1'-|3'--2'-3'-2'|1'----7-3|
 </pre>
-`| neat When you're | folding a sheet, | That's math - e - | mat - ics! When a | ball Bounces |`
+<pre class="lyrics">| neat When you're | folding a sheet, | That's math - e - | mat - ics! When a | ball Bounces |</pre>
 
 <pre class="jianpu">
 |1'731'-7-3|7----6-3|7637-6-3|5----5-4|353'1'----|
 </pre>
-`| off of a wall, When you | cook From a | recipe book, When you | know How much | money you owe, |`
+<pre class="lyrics">| off of a wall, When you | cook From a | recipe book, When you | know How much | money you owe, |</pre>
 
 <pre class="jianpu">
 |001'-6-7-|2'--1'-1'-^1'|2'-2'1'2'-2'1'|2'1'_3'2'-1'-_6|5-535-53|
 </pre>
-`| That's math-e- | matics! How much | gold can you hold in an | elephant's ear? When it's | noon on the moon Then what |`
+<pre class="lyrics">| That's math-e- | matics! How much | gold can you hold in an | elephant's ear? When it's | noon on the moon Then what |</pre>
 
 <pre class="jianpu">
 |53_76----|003-3-3-|3235--65|3'-1'62'/2'/7-5|1'/1'1'/647/7/5--|
 </pre>
-`| time is it here? |     If  you could | count for a year Would you | get to infinity or | somewhere in that vicinity? |`
+<pre class="lyrics">| time is it here? | If  you could | count for a year Would you | get to infinity or | somewhere in that vicinity? |</pre>
 
 <pre class="jianpu">
 |3''-1''6'2''7'-5'|1''-6'4'7'5'3'2'|        |        |        |        |
 |1'-6475-3|6-425300|1'----7-3|1'731'-7-3|7----6-3|7637-6-3|
 </pre>
-`|    | When you | choose how much | postage to use, When you | know what's the | chance it will snow, When you |`
+<pre class="lyrics">|    |    When you | choose how much | postage to use, When you | know what's the | chance it will snow, When you |</pre>
 
 <pre class="jianpu">
 |5----6-5|3'_3'2'^1'---5|^4-51'3'-1'6|4-61'3'2'1'2'|3'-------|1'-000000|
 </pre>
-`| bet and you | end up in debt, Oh, | try as you may, You just | can't get away From math-e - | mat -    | ics! |`
+<pre class="lyrics">| bet and you | end up in debt, Oh, | try as you may, You just | can't get away From math-e- | mat -    | ics! |</pre>
 
 <pre class="jianpu">
 |3''-1''6'2''7'-5'|1''-6'4'7'5'3'2'|        |        |        |        |
 |1'-6475-3|6-425300|1'----7-3|1'731'-7-3|7----6-3|7637-6-3|
 </pre>
-`|    | Tap your | feet, keeping time | to the beat, Of a | song while you're | singing along, Harmo |`
+<pre class="lyrics">|    |    Tap your | feet, keeping time | to the beat, Of a | song while you're | singing along, Harmo |</pre>
 
 <pre class="jianpu">
 |5----6-5|3'^2'=2'^1'---5|^4-61'3'-1'6|4-61'3'2'1'2'|3'-------|1'----000||
 </pre>
-`| -nize with the | rest of the guys, Yes, | try as you may, You just | can't get away From math-e-  | mat -    | ics! |`
+<pre class="lyrics">| -nize with the | rest of the guys, Yes, | try as you may, You just | can't get away From math-e-  | mat -    | ics! |</pre>
 
 
 <!--TODO: Economics lyrics version-->
