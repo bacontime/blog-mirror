@@ -19,14 +19,14 @@ date: 2023-01-07
     line-height: 1.5;
 }
 .lyrics {
-    font-size: 75%
+    font-size: 65%
 }
 @media (min-width: 50rem) {
     .jianpu  {
         font-size: 25px;
     }
     .lyrics {
-        font-size: 65%
+        font-size: 75%
     }
 }
 </style>
