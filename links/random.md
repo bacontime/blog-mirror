@@ -9,6 +9,14 @@ last_modified_date: 2022-12-05
 ---
 
 
+[Twitter's Whistleblower Report](https://www.washingtonpost.com/technology/interactive/2022/twitter-whistleblower-sec-spam/whistleblower_disclosure.pdf)
+: There has been much ado over twitter drama since Elon Musk took over the company. But much more shocking and less talked about are the allegations made by a whistleblower back in July 2022. Twitter threads with highlights: [1](https://nitter.net/AvidHalaby/status/1602127460677844993), [2](https://nitter.net/TheMattBeebe/status/1601731247977693184). Among other things, Twitter was apparently doing development on the production environment.  
+
+
+
+[Heavy Boots](https://www.phys.ufl.edu/~det/phy2060/heavyboots.html)
+:    
+
 [Vertical Castling](https://www.futilitycloset.com/2009/12/11/outside-the-box/)
 : The rules of chess used to allow a King to Castle with a newly promoted pawn.
 
