@@ -19,8 +19,6 @@ date: 2023-01-07
     line-height: 1.5;
 }
 .lyrics {
-    font-family: Jianpu;
-    line-height: 1.5;
     font-size: 75%
 }
 @media (min-width: 50rem) {
