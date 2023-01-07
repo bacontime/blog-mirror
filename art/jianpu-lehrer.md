@@ -1,12 +1,13 @@
 ---
 title: Tom Lehrer's Songs
-subtitle: Jianpu scores some of Tom Lehrer's Songs
+subtitle: Jianpu scores for some of Tom Lehrer's Songs
 parent: Jianpu
 grand_parent: Art and Culture
 has_children: false
 layout: post
 toc: false
-date: 2023-01-07
+date: 2023-01-04
+last_modified_date: 2023-01-07
 ---
 
 <style>
@@ -73,7 +74,7 @@ and are [mirrored on the internet archive](https://archive.org/details/tomlehrer
 |3''-1''6'2''7'-5'|1''-6'4'7'5'3'2'|        |        |        |        |
 |1'-6475-3|6-425300|1'----7-3|1'731'-7-3|7----6-3|7637-6-3|
 </pre>
-<pre class="lyrics">|    |    When you | choose how much | postage to use, When you | know what's the | chance it will snow, When you |</pre>
+<pre class="lyrics">|        |    When you | choose how much | postage to use, When you | know what's the | chance it will snow, When you |</pre>
 
 <pre class="jianpu">
 |5----6-5|3'_3'2'^1'---5|^4-51'3'-1'6|4-61'3'2'1'2'|3'-------|1'-000000|
@@ -84,7 +85,7 @@ and are [mirrored on the internet archive](https://archive.org/details/tomlehrer
 |3''-1''6'2''7'-5'|1''-6'4'7'5'3'2'|        |        |        |        |
 |1'-6475-3|6-425300|1'----7-3|1'731'-7-3|7----6-3|7637-6-3|
 </pre>
-<pre class="lyrics">|    |    Tap your | feet, keeping time | to the beat, Of a | song while you're | singing along, Harmo |</pre>
+<pre class="lyrics">|        |    Tap your | feet, keeping time | to the beat, Of a | song while you're | singing along, Harmo |</pre>
 
 <pre class="jianpu">
 |5----6-5|3'^2'=2'^1'---5|^4-61'3'-1'6|4-61'3'2'1'2'|3'-------|1'----000||
@@ -117,6 +118,8 @@ Lyrics:
 ### A similar adaption for the classical Chinese elements
 
 ![Wu Xing Elements Song](Lehrer/TomLehrerWuXing.png)
+
+Clumsily made by me.
 
 <!--Need some way to notate the little gracenote flourishes-->
 
