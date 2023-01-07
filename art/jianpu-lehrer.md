@@ -38,12 +38,12 @@ and are [mirrored on the internet archive](https://archive.org/details/tomlehrer
 `Key: 1=Bb`
 
 <pre class="jianpu">
-      3'-2'|1----7-3|1'731'-7-3|7----6-3|7637-6-3|5----5-4|
+      3'-2'|1'----7-3|1'731'-7-3|7----6-3|7637-6-3|5----5-4|
 </pre>
-`| Counting | sheep When you're | trying to sleep, Being | fair When there's | some thing to share, Being | neat When you're |`
+`| Counting | sheep When you're | trying to sleep, Being | fair When there's | something to share, Being | neat When you're |`
 
 <pre class="jianpu">
-|353'1'----|003'-2'-1'-|3'--2'-3'-2'|1'---1'7-3|1'731'-7-3|7----6-3|
+|353'1'----|003'-2'-1'-|3'--2'-3'-2'|1'----7-3|1'731'-7-3|7----6-3|
 </pre>
 `| folding a sheet, | That's math - e - | mat - ics! When a | ball Bounces | off of a wall, When you | cook From a |`
 
@@ -53,14 +53,14 @@ and are [mirrored on the internet archive](https://archive.org/details/tomlehrer
 `| recipe book, When you | know How much | money you owe, | That's math - e -  | mat ics! How much | gold can you hold in an |`
 
 <pre class="jianpu">
-|2'1'_3'3'-1'-_6|5-535-53|53_76----|003-3-3-|3235--65|
+|2'1'_3'2'-1'-_6|5-535-53|53_76----|003-3-3-|3235--65|
 </pre>
 `| elephant's ear? When it's | noon on the moon Then what | time is it here? |     If  you could | count for a year Would you |`
 
 <pre class="jianpu">
 |3'-1'62'/2'/7-5|1'/1'1'/647/7/5--|
 </pre>
-`| get to infinity or | some where in that vicinity? |`
+`| get to infinity or | somewhere in that vicinity? |`
 
 <pre class="jianpu">
 |3''-1''6'2''7'-5'|1''-6'4'7'5'3'2'|        |        |        |        |
