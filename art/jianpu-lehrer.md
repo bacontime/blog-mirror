@@ -25,7 +25,7 @@ date: 2023-01-07
 }
 @media (min-width: 50rem) {
     .jianpu  {
-        font-size: 20px;
+        font-size: 25px;
     }
 }
 </style>
@@ -60,7 +60,7 @@ and are [mirrored on the internet archive](https://archive.org/details/tomlehrer
 <pre class="jianpu">
 |001'-6-7-|2'--1'-1'-^1'|2'-2'1'2'-2'1'|2'1'_3'2'-1'-_6|5-535-53|
 </pre>
-`| That's math - e -  | mat ics! How much  | gold can you hold in an| elephant's ear? When it's | noon on the moon Then what |`
+`| That's math-e- | matics! How much | gold can you hold in an | elephant's ear? When it's | noon on the moon Then what |`
 
 <pre class="jianpu">
 |53_76----|003-3-3-|3235--65|3'-1'62'/2'/7-5|1'/1'1'/647/7/5--|
@@ -76,7 +76,7 @@ and are [mirrored on the internet archive](https://archive.org/details/tomlehrer
 <pre class="jianpu">
 |5----6-5|3'_3'2'^1'---5|^4-51'3'-1'6|4-61'3'2'1'2'|3'-------|1'-000000|
 </pre>
-`| bet and you | end up in debt, Oh, | try as you may, You just | can't get away From math - e - | mat -    | ics! |`
+`| bet and you | end up in debt, Oh, | try as you may, You just | can't get away From math-e - | mat -    | ics! |`
 
 <pre class="jianpu">
 |3''-1''6'2''7'-5'|1''-6'4'7'5'3'2'|        |        |        |        |
@@ -87,7 +87,7 @@ and are [mirrored on the internet archive](https://archive.org/details/tomlehrer
 <pre class="jianpu">
 |5----6-5|3'^2'=2'^1'---5|^4-61'3'-1'6|4-61'3'2'1'2'|3'-------|1'----000||
 </pre>
-`| -nize with the | rest of the guys, Yes, | try as you may, You just | can't get away From math - e -  | mat -    | ics! |`
+`| -nize with the | rest of the guys, Yes, | try as you may, You just | can't get away From math-e-  | mat -    | ics! |`
 
 
 <!--TODO: Economics lyrics version-->
