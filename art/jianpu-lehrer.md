@@ -17,16 +17,17 @@ date: 2023-01-07
 .jianpu {
     font-family: Jianpu;
     line-height: 1.5;
+    font-size: 150%
 }
 .lyrics {
-    font-size: 65%
+    font-size: 75%
 }
-@media (min-width: 50rem) {
+@media (max-width: 50rem) {
     .jianpu  {
-        font-size: 25px;
+        font-size: 120%;
     }
     .lyrics {
-        font-size: 75%
+        font-size: 60%
     }
 }
 </style>
