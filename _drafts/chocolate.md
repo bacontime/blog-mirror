@@ -13,7 +13,7 @@ about the lead content in some brands of dark chocolate.[^cadmiumnote]
 For example, Consumer Reports' testing found that an **single ounce** of Hershey's dark chocolate 
 has **2.65 times** California's maximum allowable dose level (MADL) for lead. <!--(0.5 micrograms)-->
 
-[^cadmiumnote]: The article also talks about high levels of cadmium. I have not read the research about cadmium exposure. This post focuses only on lead. But CR's article was so blatantly misleading about lead that I feel comfortable ignoring their fear-mongering about cadmium as well. Please let me know if the mentioned levels of Cadmium actually *are* dangerously high.
+[^cadmiumnote]: The article also talks about high levels of cadmium. I have not read the research about cadmium exposure. This post focuses only on lead. But CR's article was so blatantly misleading about lead that I feel comfortable ignoring the concerns about cadmium as well.<!--their fear-mongering about cadmium as well.--> Please let me know if the mentioned levels of Cadmium actually *are* dangerously high.
 
 Oh my goodness! I love eating chocolate. I must be at risk for lead poisoning!
 
@@ -22,21 +22,7 @@ California is notorious for poorly designed chemical safety regulation.
 
 Short answer:
 It's just California being California.
-Dark chocolate is safe to eat.
-
-If you're an adult, the detected lead concentrations are so low that it *isn't even worth thinking about*.
-You could eat literally nothing but dark chocolate and the lead intake still wouldn't be a serious concern.
-Young children are much more sensitive to lead, but occasional chocolate intake is still completely safe.
-
-
-The only way to exceed safe limits for lead consumption by eating dark chocolate
-
-is for a small shil
-
-If you gave a young child nothing but dark chocolate to eat, 
-then their lead consumption would exceed the FDA's suggested limits.
-
-But 
+Dark chocolate is safe to eat, thank goodness.
 
 For very small children, occasional chocolate consumption is completely safe.
 A diet consisting of literally nothing but dark chocolate
@@ -48,11 +34,6 @@ And if you're an adult, the detected lead concentrations are so low that it *isn
 You could eat literally nothing but dark chocolate and the lead intake still wouldn't be a concern.
 
 
-For very young children, occasional chocolate intake is completely safe, but 
-and only a diet consisting *entirely* of dark 
-
-
-however, things are a bit less clear-cut. 
 Read on for details.
 
 
@@ -83,7 +64,7 @@ The FDA's article, (which is from 2006) mentions that
 > The chocolate industry data indicate that the mean lead level in 226 dark chocolate samples (consisting of 9 products) was 0.048 ppm, the standard deviation was 0.029 ppm, and the maximum lead level found was 0.275 ppm. Several dark chocolate samples had lead levels exceeding 0.1 ppm, and more dark chocolate than milk chocolate samples had lead levels approaching 0.1 ppm.
 
 For comparison, the most lead-contaminated dark chocolate brand in Consumer Report's article was 
-Hershey's Special Dark Mildly Sweet Chocolate, with a lead concentration of .047 ppm,[^leadppmcalculation].
+*Hershey's Special Dark Mildly Sweet Chocolate*, with a lead concentration of .047 ppm,[^leadppmcalculation].
 This is less than half the limit set by the FDA, and slightly less than the 0.048 ppm average cited by the FDA.
 
 [^leadppmcalculation]: CR states that one ounce of this chocolate has 265% of California's MADL (0.5 micrograms). This means that there are 1.325 micrograms of lead per ounce of chocolate. [Doing the unit conversion](https://www.wolframalpha.com/input?i=1.325+micrograms+per+ounce), this works out to 0.047 ppm.
@@ -100,27 +81,127 @@ If they were dangerously high, the FDA just wouldn't let people sell chocolate.
 
 ## But What if I Eat a *LOT* of Chocolate?
 
-Let's consider the worst case scenario for dark-chocolate based lead exposure.
+Let's consider a worst case scenario for dark-chocolate based lead exposure.
+If you eat nothing but the worst brand of dark chocolate, 
+would you be consuming a dangerously high amount of lead?
+
+The brand with the highest lead content in Consumer Report's article was
+*Hershey's Special Dark Mildly Sweet Chocolate*.
+
+Looking at the nutrition label on Amazon's storepage, 
+one serving of this chocolate weighs 1.45 oz and contains 200 Calories.
+
+10 servings is 2000 Calories, making it a full day's worth of food for the 'typical' person.
+That's 14.5 oz of chocolate.
+
+According to Consumer Reports, this brand has 1.325 micrograms of lead per ounce.
+So 10 servings would result in your ingesting 19.2 micrograms of lead.
+
+<!--Doublecheck: 41 grams * 10 * 047ppm = 19.27 micrograms-->
+
+Is that a dangerous amount of lead? Probably not if you're an adult. The FDA's provisional total tolerable intake level (PTTIL) for a non-pregnant adult is 75μg/day, well above the 20μg/day you'd get from a nothing-but-dark chocolate diet. The FDA calculates this limit like so: The lowest blood concentration of lead observed to have any measurable health impacts is 30μg lead per deciliter blood. It is estimated that this blood concentration would result from the consumption of 750μg/day of lead, which is divided by 10 to give a safety margin.[^citationforPTTIL]
+
+[^citationforPTTIL]: The FDA's PTTILs for lead come from this paper: Carrington, C. D., & Bolger, P. M. (1992). [An assessment of the hazards of lead in food](https://www.sciencedirect.com/science/article/pii/027323009290006U). Regulatory toxicology and pharmacology, 16(3), 265-272.
+
+A nothing-but-dark-chocolate diet is probably a terrible idea for a toddler, however. For small children the PTTIL is only 6μg/day, both because their health is affected by lead in the blood at lower concentrations, and because the same amount of lead consumed translates to a higher blood concentration (baby is small). Even 600 kcal of dark chocolate is enough to push them above that limit, and little kids typically eat above 1000 kcal. There are about a million other reasons that it's a bad idea to feed your kid only candy, but hey, there's another one.
+
+For pregnant women, the PTTIL is 25μg/day. (Baby is sensitive but momma is large.)
+The nothing-but-dark-chocolate diet could push the limits of that limit.
+But again, that diet would be a bad idea even if chocolate was completely free of impurities.
+
+So what's the important takeaway from all these numbers?
+
+Simple: 
+Make sure your kids eat their vegetables,
+and don't eat literal kilograms of cocoa powder each day if you are pregnant.
+
+Otherwise, forget about it.
+
+
+
+## Some other bits of info
+
+
+<!--
+[This paper](https://www.sciencedirect.com/science/article/pii/S0273230017300843#bib7) makes a similar statement.
+
+> A MADL is the exposure level at which a chemical would have no observable reproductive effect, even if a person were exposed to 1000 times that level.
+
+It cites [California legal code](https://oehha.ca.gov/media/downloads/crnr/regtextart8041511.pdf), but CA code is written atrociously. The linked bit of law mentions
+
+> By means of an assessment that meets the standards described in Section
+12803 to determine the maximum dose level having no observable effect, and dividing
+that level by one thousand (1,000) to arrive at the maximum allowable dose level,
+-->
+
+<!--
+Remember how the article said:
+
+> CR’s scientists believe that California’s levels are the most protective available
+
+Let me translate that for you:
+
+> CR’s editors believe that California’s levels make for the most provocative infographics
+-->
+
+
+### Actual sources of lead
+
+So if even the worst brand of dark chocolate doesn't contain high enough levels of lead to cause significant concern, 
+are there any foods that do?
+
+Probably not. <!-- If there were, they'd be illegal to sell.-->
+Or at least, it isn't the food itself that causes the problem.
+
+But there are other ways for a person to consume dangerously high amounts of lead.
+I'm sure you've heard of the problems with lead pipes and leaded gasoline,
+but did you know we used to use lead solder in food cans until the 90s?
+
+From [this 1993 issue of the Federal Register](https://www.govinfo.gov/content/pkg/FR-1993-06-21/pdf/FR-1993-06-21.pdf):
+
+> The dietary lead
+intake from eating canned foods only
+packaged in lead-soldered cans would
+be 50 μg/day for 2-year-old children and
+75 μg/day for women 25 to 30 years old.
+
+50 micrograms! Remember that 6 is the limit, 
+and 10 or so is what they'd get from eating nothing but the worst, 
+most contaminated brand of dark chocolate every day.
+Fifty! From old cans!
+
+<!--Also worth noting: all these limits don't account for other sources of lead consumption eating into your daily 'budget'. I'm sure you've heard of the leaded gasoline thing, but did you know we used to use lead solder in food cans?!-->
+
+
+### Where Did the Limits in the Consumer Report Article Come From?
+
+If you're wondering where the California Maximum Allowable Dose Level limit comes from: 
+They find the maximum daily exposure level which is known *not* to cause any *reproductive* health problems specifically,
+and then divide it by 1000.[^caliMADL]
+So the number is basically completely meaningless.
+
+[^caliMADL]: The primary source for this definition seems to be this [this bit of California legal code](https://oehha.ca.gov/media/downloads/crnr/regtextart8041511.pdf), but it's written obtusely enough that I'm partially relying on [secondary sources like this one](https://www.sciencedirect.com/science/article/pii/S0273230017300843#bib7) for my interpretation. That paper, for example, cites that legal code and describes MADL as "the exposure level at which a chemical would have no observable reproductive effect, even if a person were exposed to 1000 times that level".
 
 
 
 
+<!--But there are ways for food to become contaminated.
+But there are-->
+
+<!--
+The FDA expends quite a lot of effort testing the levels of contaminants in foodstuffs.
+If there were some food that consistently had dangerously high amounts of lead, 
+I'd hope the FDA would forbid it from being sold as food.
+That is kind of what we're paying them for.
+-->
+<!--
+Also, all these limits don't account for other sources of lead consumption eating into your daily 'budget'. I'm sure you've heard of the leaded gasoline thing, but did you know we used to use lead solder in food cans?!
+-->
 
 
 
 
-## Where Do These Limits Come From?
-
-
-
-
-
-
-
-
------
-
-
+<!--
 
 While I trust the numbers they give for tested lead concentrations,
 the article is misleading when it implies that these levels are dangerously high.
@@ -207,6 +288,11 @@ are 15 ppb lead for tap water
 
 ------
 
+-->
+
+<!--
+
+
 [This page](https://dradrianmd.com/prop-65) mentions
 
 > For example, for lead, for children under the age of six, the U.S. Food and Drug Administration has established the “provisional total tolerable intake level” at six micrograms of lead per day.  Consuming less than this amount of lead daily is an amount the U.S. Food and Drug Administration deems to be safe for children in this age group.  By contrast, Proposition 65 requires a warning notice on any product that provides 0.5 micrograms of lead daily – an amount 12 times lower than the U.S. Food and Drug Administration’s “provisional total tolerable intake level” for daily lead consumption in a six-year-old.  For pregnant women, the U.S. Food and Drug Administration’s “provisional total tolerable intake level” for lead is 25 micrograms daily, which is 50 times greater than the amount requiring a Proposition 65 warning notice.  Finally, the U.S. Food and Drug Administration’s “provisional total tolerable intake level” for non-pregnant adults is set at 75 micrograms of lead daily, which is 150 times greater than the amount requiring a Proposition 65 warning notice in the State of California.
@@ -245,9 +331,10 @@ The latter report
 
 Haven't read yet; seems relevant: [Cadmium and lead in cocoa powder and chocolate products in the US Market ](https://pubmed.ncbi.nlm.nih.gov/29310543/)
 
+-->
 
 
-----
+<!----
 
 Okay back to that cite which contained the numbers for FDA's recommendations:
 
@@ -317,7 +404,9 @@ Something to read later: [Tolerable weekly intake for cadmium](https://efsa.onli
 
 
 [Supposedly lead shot might be bad enough to cause problems](https://www.amjmed.com/article/S0002-9343(16)30021-3/fulltext) (haven't read yet)
+-->
 
+<!--
 ## California Law
 
 <!--
@@ -326,7 +415,7 @@ https://oehha.ca.gov/media/downloads/crnr/regtextart8041511.pdf
 
 https://oehha.ca.gov/proposition-65/general-info/current-proposition-65-no-significant-risk-levels-nsrls-maximum
 https://oehha.ca.gov/proposition-65/law/proposition-65-law-and-regulations
--->
+
 
 [This page](https://dradrianmd.com/prop-65) is well written but lacks sources.
 
@@ -400,3 +489,7 @@ be 50 μg/day for 2-year-old children and
 
 
 Finally, where does the California maximum allowable dose level limit come from? They find the maximum daily exposure level which is known *not* to cause any *reproductive* health problems specifically, and then divide it by 1000. So the number is basically completely meaningless.
+
+
+
+-->
