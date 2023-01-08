@@ -22,9 +22,37 @@ California is notorious for poorly designed chemical safety regulation.
 
 Short answer:
 It's just California being California.
-Dark chocolate is still safe to eat.
-If you're an adult, the detected lead concentrations are so low that it isn't even worth thinking about.
-For very young children, however, things are a bit less clear-cut. 
+Dark chocolate is safe to eat.
+
+If you're an adult, the detected lead concentrations are so low that it *isn't even worth thinking about*.
+You could eat literally nothing but dark chocolate and the lead intake still wouldn't be a serious concern.
+Young children are much more sensitive to lead, but occasional chocolate intake is still completely safe.
+
+
+The only way to exceed safe limits for lead consumption by eating dark chocolate
+
+is for a small shil
+
+If you gave a young child nothing but dark chocolate to eat, 
+then their lead consumption would exceed the FDA's suggested limits.
+
+But 
+
+For very small children, occasional chocolate consumption is completely safe.
+A diet consisting of literally nothing but dark chocolate
+would potentially push the child's lead intake above the limits set by the FDA.
+But you probably don't need me to tell you not to give your kid a diet of literally 100% candy.
+The risk of lead exposure doesn't even make the top ten list of reasons that's a terrible idea.
+
+And if you're an adult, the detected lead concentrations are so low that it *isn't even worth thinking about*.
+You could eat literally nothing but dark chocolate and the lead intake still wouldn't be a concern.
+
+
+For very young children, occasional chocolate intake is completely safe, but 
+and only a diet consisting *entirely* of dark 
+
+
+however, things are a bit less clear-cut. 
 Read on for details.
 
 
@@ -38,9 +66,15 @@ Consumer Reports says they chose to use California's MADL because
 
 But this is about as close as you can get to lying without actually saying something technically untrue.
 While there may not be federal limits for the amount of lead "most foods" can contain,
-the [FDA does have guidelines for the maximum amount of lead in *chocolate specifically*](https://www.fda.gov/food/environmental-contaminants-food/supporting-document-recommended-maximum-level-lead-candy-likely-be-consumed-frequently-small).
+the [FDA does have guidelines for the maximum amount of lead in *candy specifically*](https://www.fda.gov/food/environmental-contaminants-food/supporting-document-recommended-maximum-level-lead-candy-likely-be-consumed-frequently-small), 
+and the guidelines go into detail about chocolate in particular.
 
-The FDA's recommended maximum lead level in Candy is **0.1 parts per million (ppm)**.
+<!--
+The [FDA has info about lead in candy](https://www.fda.gov/food/environmental-contaminants-food/supporting-document-recommended-maximum-level-lead-candy-likely-be-consumed-frequently-small#lead).
+See also [this related document](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-lead-candy-likely-be-consumed-frequently-small-children).
+-->
+
+The FDA's recommended maximum lead level in candy, including chocolate, is **0.1 parts per million (ppm)**.
 
 ### Does Dark Chocolate Stay Below This Limit?
 
@@ -49,9 +83,38 @@ The FDA's article, (which is from 2006) mentions that
 > The chocolate industry data indicate that the mean lead level in 226 dark chocolate samples (consisting of 9 products) was 0.048 ppm, the standard deviation was 0.029 ppm, and the maximum lead level found was 0.275 ppm. Several dark chocolate samples had lead levels exceeding 0.1 ppm, and more dark chocolate than milk chocolate samples had lead levels approaching 0.1 ppm.
 
 For comparison, the most lead-contaminated dark chocolate brand in Consumer Report's article was 
-Hershey's Special Dark Mildly Sweet Chocolate, with a lead concentration of .047 ppm,[^leadppmcalculation]
+Hershey's Special Dark Mildly Sweet Chocolate, with a lead concentration of .047 ppm,[^leadppmcalculation].
+This is less than half the limit set by the FDA, and slightly less than the 0.048 ppm average cited by the FDA.
 
 [^leadppmcalculation]: CR states that one ounce of this chocolate has 265% of California's MADL (0.5 micrograms). This means that there are 1.325 micrograms of lead per ounce of chocolate. [Doing the unit conversion](https://www.wolframalpha.com/input?i=1.325+micrograms+per+ounce), this works out to 0.047 ppm.
+
+So Consumer Report did not find unusually high levels of lead in chocolate.
+There hasn't been any sort of catastrophic contamination event.
+The levels of lead measured by CR are pretty much exactly what the relevant regulatory authorities expect to find,
+and well below the limits these authorities consider to be dangerous.
+
+These are typical lead levels for chocolate.
+If they were dangerously high, the FDA just wouldn't let people sell chocolate.
+
+
+
+## But What if I Eat a *LOT* of Chocolate?
+
+Let's consider the worst case scenario for dark-chocolate based lead exposure.
+
+
+
+
+
+
+
+
+## Where Do These Limits Come From?
+
+
+
+
+
 
 
 
@@ -70,8 +133,6 @@ First of all, some other bits of info.
 
 1.325 micrograms per ounce is 0.05 parts per million
 
-The [FDA has info about lead in candy](https://www.fda.gov/food/environmental-contaminants-food/supporting-document-recommended-maximum-level-lead-candy-likely-be-consumed-frequently-small#lead).
-See also [this related document](https://www.fda.gov/regulatory-information/search-fda-guidance-documents/guidance-industry-lead-candy-likely-be-consumed-frequently-small-children).
 
 This number seems in line with typical averages:
 
