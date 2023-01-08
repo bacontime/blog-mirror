@@ -1,5 +1,6 @@
 ---
 title: Astro Fonts
+subtitle: A font which uses ligatures to encode symbols for the major moons.
 parent: Astro Symbols
 grand_parent: Science and Nature
 layout: post
