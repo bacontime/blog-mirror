@@ -12,7 +12,7 @@ about the lead content in some brands of dark chocolate.[^cadmiumnote]
 For example, Consumer Reports' testing found that an **single ounce** of Hershey's dark chocolate 
 has **2.65 times** California's maximum allowable dose level (MADL) for lead. <!--(0.5 micrograms)-->
 
-[^cadmiumnote]: The article also talks about high levels of cadmium. I have not read the research about cadmium exposure. This post focuses only on lead. But CR's article was so blatantly misleading about lead that I feel comfortable ignoring the concerns about cadmium as well.<!--their fear-mongering about cadmium as well.--> Please let me know if the mentioned levels of Cadmium actually *are* dangerously high.
+[^cadmiumnote]: The article also talks about high levels of cadmium. I have not read the research about cadmium exposure. This post focuses only on lead. <!--But CR's article was so blatantly misleading about lead that I feel comfortable ignoring the concerns about cadmium as well.their fear-mongering about cadmium as well.--> My gut instinct is that CR has exagerated the cadmium concerns in exactly the same way they exagerated the lead concerns. But please let me know if the mentioned levels of Cadmium actually *are* dangerously high. 
 
 Oh my goodness! I love eating chocolate. I must be at risk for lead poisoning!
 
