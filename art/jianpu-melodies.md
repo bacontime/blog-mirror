@@ -69,3 +69,10 @@ https://drwhispers.com/2021/11/11/jianpu/
 </pre>
 
 
+-----------
+
+Happy Birthday
+
+<pre class="jianpu">
+|5/5/6 5|1' 7 -|5/5/6 5|2' 1' -|5/5/5' 3'|1' 7 6|4'/4'/3' 1'|2' 1' -||
+</pre>
