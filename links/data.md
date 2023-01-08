@@ -29,6 +29,9 @@ date: 2022-12-05
 : A relatively small spreadsheet that compiles time series on output, prices, and capital stocks from many different countries for the years 1950-2019.
 : Has a focus on PPP-adjusted comparisons between countries. 
 
+[Panel Study on Income Dynamics](https://simba.isr.umich.edu/data/data.aspx)
+: Really long running panel data.
+
 I've used data from the OECD stats page, FRED, and the Penn World Table to construct homework assignments or in-class exercises.
 
 <!--
@@ -141,3 +144,6 @@ https://guides.lib.vt.edu/subject-guides/econ/data-sources
 
 [NBER's Public Use Data Archive](https://www.nber.org/research/data?page=1&perPage=100)
 : Mirrors of public data sources. Oddly organized and sometimes out of date.
+
+[Papers with Code](https://paperswithcode.com/datasets)
+: Datasets from machine learning papers.
