@@ -1,11 +1,10 @@
 ---
 title: Lead in Dark Chocolate
 subtitle: While dark chocolate has more lead than other foods, it isn't something you should worry about.
-parent: Econ
+parent: Food and Health
 layout: post
 toc: true
-date: 2022-10-16
-last_modified_date: 2022-10-16
+date: 2022-01-07
 ---
 
 Consumer Reports [published a story](https://www.consumerreports.org/health/food-safety/lead-and-cadmium-in-dark-chocolate-a8480295550/) 
