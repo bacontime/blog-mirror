@@ -5,7 +5,7 @@ parent: Jianpu
 grand_parent: Art and Culture
 has_children: false
 layout: post
-toc: false
+toc: true
 date: 2023-01-07
 last_modified_date: 2023-01-09
 ---
@@ -13,7 +13,7 @@ last_modified_date: 2023-01-09
 <style>
 @font-face {
     font-family: Jianpu;
-    src: url("{{site.webfontdirectory}}/jianpu/colrJianpu.ttf ");
+    src: url("{{site.webfontdirectory}}/jianpu/JianpuASCII.ttf ");
 }
 .jianpu {
     font-family: Jianpu;
@@ -28,7 +28,7 @@ last_modified_date: 2023-01-09
         font-size: 120%;
     }
     .lyrics {
-        font-size: 60%
+        font-size: 100%
     }
 }
 </style>
