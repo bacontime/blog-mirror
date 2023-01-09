@@ -220,12 +220,29 @@ Time: ♩=120
 https://www.cpdl.org/wiki/index.php/Category:Micah_Brandhandler_editions
 -->
 
-
-
 <pre class="jianpu">
+1'|1' - 5 1' 2' - 5 -|3' 2' 3' 4' 3' - 2' 1'|1' - 7 6 7 1' 2' 4'|
 </pre>
 <pre class="lyrics">
+O | come, all ye faithful, | joyful and triumphant! O | come ye, O come ye to 
 </pre>
+
+<pre class="jianpu">
+7 - 6. 5/5 - - -|5' - 4' 3' 4' - 3' -|2' 3' 1' 2' 7. 6/5 1'|
+</pre>
+<pre class="lyrics">
+Bethlehem; | Come and behold him | Born the King of Angels: O
+</pre>
+
+<pre class="jianpu">
+1' 7 1' 2' 1' - 5 3'|3' 2' 3' 4' 3' - 2' 3'|4' 3' 2' 1' 7 - 1' 4'|3' - 2'. 1'/1' - -
+</pre>
+<pre class="lyrics">
+come, let us adore Him, O | come, let us adore Him, O | come, let us adore Him, | Chri-ist the Lord.
+</pre>
+
+
+
 
 
 
@@ -269,7 +286,6 @@ Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, 
 
 <!--TODO
 Hark! The Herald Angels Sing
-O Come All Ye Faithful
 The First Noel
 -->
 
