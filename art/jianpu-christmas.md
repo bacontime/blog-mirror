@@ -84,10 +84,10 @@ Remember Christ our Savior | was born on Christmas Day,
 </pre>
 
 <pre class="jianpu">
-3' 4' 2' 3' 4' 5' 6' 3'|2' 2' 6 7 1' 2' - 1'|
+3' 4' 2' 3' 4' 5' 6' 3'|2' 1' 6 7 1' 2' - 1'|
 </pre>
 <pre class="lyrics">
-To save us all from Satan's pow'r | when we were gone astray.O
+To save us all from Satan's pow'r | when we were gone astray. O
 </pre>
 
 <pre class="jianpu">
@@ -102,7 +102,7 @@ Alternate presentation:
 <pre class="jianpu">
 6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - -|
 6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - 0|
-3' 4' 2' 3' 4' 5' 6' 3'|2' 2' 6 7 1' 2' - 1'|
+3' 4' 2' 3' 4' 5' 6' 3'|2' 1' 6 7 1' 2' - 1'|
 2' 3' - 4' 3' 3' 2' 1'|7 6 - 1'/7/6 2' - 1'|2' 3' 4' 5' 6' 3' 2' 1'|7 6 - -||
 </pre>
 <pre class="lyrics">
