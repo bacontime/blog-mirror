@@ -3,6 +3,7 @@ title: Jianpu ASCII Font
 subtitle: A font to quickly jot down jianpu notation using ASCII characters.
 parent: Jianpu
 grand_parent: Art and Culture
+nav_order: 1
 has_children: false
 layout: post
 toc: false
