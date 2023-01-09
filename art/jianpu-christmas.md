@@ -131,6 +131,54 @@ Glo ---- - ----| - ---- - ri a | in excelsis De - | o!
 
 
 
+## Deck the Hall
+<pre>
+Composer: Welsh trad.
+Key: FMajor, 1=F
+Time: ♩=150
+</pre>
+<!--Andrew Sims-->
+
+
+<pre class="jianpu">
+|:5. 4/3 2 1 2 3 1|2/3/4/2/3. 2/1 7, 1 -:|
+</pre>
+<pre class="lyrics">
+Deck the hall with boughs of holly, | fa la la la la la la la la.
+'Tis the season to be jolly, | fa la la la la la la la la.
+</pre>
+
+<pre class="jianpu">
+ 2. 3/4 2 3. 4/5 2|3/^4/5 6/7/1' 7 6 5 -|
+</pre>
+<pre class="lyrics">
+Don we now our gay apparel, | fa la la la la la la la la.
+</pre>
+
+<pre class="jianpu">
+5. 4/3 2 1 2 3 1 |6/6/6/6/5. 4/3 2 1 - ||
+</pre>
+<pre class="lyrics">
+Troll the ancient Yule tide carol, | fa la la la la la la la la.
+</pre>
+
+
+
+
+
+Additional Verses:
+
+<pre class="lyrics">
+See the blazing Yule before us, | fa la la la la la la la la.
+Strike the harp and join the chorus, | fa la la la la la la la la.
+Follow me in merry measure, | fa la la la la la la la la.
+While I tell of Yuletide treasure, | fa la la la la la la la la.
+
+Fast away the old year passes, | fa la la la la la la la la.
+Hail the new ye lads and lasses, | fa la la la la la la la la.
+Sing we joyous all together,  | fa la la la la la la la la.
+Headless of the wind and weather, | fa la la la la la la la la.
+</pre>
 
 
 
@@ -243,5 +291,8 @@ The traditional Christmas Carols on this page are all in the Public Domain.
 I have based these jianpu renditions on public domain arrangements
 from the [Choral Public Domain Library](https://www.cpdl.org/wiki/index.php/Main_Page).
 In particular, any arrangements which I have used or modified are licensed under the [CPDL License](https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL) or fully in the public domain.
+
+The arrangements on CPDL are often made with four voices, for Soprano/Alto/Tenor/Bass.
+I've typically copied the Soprano voice above.
 
 
