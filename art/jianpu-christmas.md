@@ -162,7 +162,7 @@ To save us all from Satan's pow'r | when we were gone astray. O
 ...o ti-dings of com-fort | and joy, comfort and joy. O | o ti-dings of com-fort | and joy.
 </pre>
 
-Additional Verses:
+<!--Additional Verses:
 
 <pre class="lyrics">
 In Bethlehem, in Jewry, | This blessed Babe was born, 
@@ -179,20 +179,4 @@ The shepherds at those tidings | Rejoiced much in mind,
 And left their flocks a feeding | In tempest storm and wind.
 And went to Bethlehem strait-way, | The Son of God to find. O
 ...o ti-dings of com-fort | and joy, comfort and joy. O | o ti-dings of com-fort | and joy.
-</pre>
-
-<!--Alternate presentation:
-
-<pre class="jianpu">
-6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - -|
-6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - 0|
-3' 4' 2' 3' 4' 5' 6' 3'|2' 1' 6 7 1' 2' - 1'|
-2' 3' - 4' 3' 3' 2' 1'|7 6 - 1'/7/6 2' - 1'|2' 3' 4' 5' 6' 3' 2' 1'|7 6 - -||
-</pre>
-<pre class="lyrics">
-God rest you merry, gentlemen.| Let nothing you dismay.
-Remember Christ our Savior | was born on Christmas Day,
-To save us all from Satan's pow'r | when we were gone astray.O
-...o ti-dings of com-fort | and joy, comfort and joy. O | o ti-dings of com-fort | and joy.
-</pre>
--->
+</pre>-->
