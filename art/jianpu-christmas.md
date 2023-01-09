@@ -209,7 +209,23 @@ And went to Bethlehem strait-way, | The Son of God to find. O
 
 
 
+## Oh Come All Ye Faithful
 
+<pre>
+Composer: Traditional
+Key: AMajor, 1=A
+Time: ♩=120
+</pre>
+<!--Micah Brandhandler https://www.cpdl.org/wiki/images/b/b3/48_OhComeAllYeFaithful.pdf
+https://www.cpdl.org/wiki/index.php/Category:Micah_Brandhandler_editions
+-->
+
+
+
+<pre class="jianpu">
+</pre>
+<pre class="lyrics">
+</pre>
 
 
 
@@ -251,7 +267,11 @@ Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, 
 
 
 
-
+<!--TODO
+Hark! The Herald Angels Sing
+O Come All Ye Faithful
+The First Noel
+-->
 
 
 
