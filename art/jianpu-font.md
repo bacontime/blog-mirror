@@ -46,7 +46,7 @@ Or you can [read more about the font at its GitHub Repo](https://github.com/Robe
 
 Here's a text area which has the jianpu font applied.
 
-<textarea style="width: 100%; height:15rem; padding: 1rem;" class="jianpu">
+<textarea style="width: 100%; height:15em; padding: 1rem;" class="jianpu">
 5 |1' - 3'/1'/| 3' - 2' |1' - 6|5 - 5|1' - 3'/q1'/|3' - 2'/3'/|5' -
 3 |3 - 5 |b7 -b7 |4 - 4|3 - 3|3 - 5 |1' - 5 |5 -
 5, |1 - 1 | 1 - 1 |6, - 6,|1 - 1|5, - 5, |1 - 1 |7, -
