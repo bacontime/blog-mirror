@@ -39,9 +39,20 @@ These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.
 
 
 ## We Wish You a Merry Christmas
-`1=G`
+<pre>
+Composer: English trad.
+Key: GMajor, 1=G
+Time: 3/4, ♩=180
+</pre>
+
 <pre class="jianpu">
-5 |1' 1'/2'/1'/7/|6 4 6 |2' 2'/3'/2'/1'/|7 5 5 |3' 3'/4'/3'/2'/|1' 6 5/5/|6 3' 7 |1' ||
+ 5 |1' 1'/2'/1'/7/|6 4 6 |2' 2'/3'/2'/1'/|7 5 5 |3' 3'/4'/3'/2'/|1' 6 5/5/|6 3' 7 |1' :||
+</pre>
+<pre class="lyrics">
+We wish you a Merry Christmas, We wish you a Merry Christmas, We wish you a Merry Christmas, and a happy New Year!
+Now bring us some figgy pudding, Now bring us some figgy pudding, Now bring us some figgy pudding, And bring it right here!
+O we won't go until we get some, No we won't go until we get some, We won't go until we get some, So bring it right here!
+O we all like figgy pudding, Yes we all like figgy pudding, We all like figgy pudding, So bring it out here!
 </pre>
 
 
@@ -52,8 +63,6 @@ These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.
 </pre>
 <pre class="lyrics">
 Angels we have heard on high, | Sweetly singing o'er the plains.
-</pre>
-<pre class="lyrics">
 And the mountains in reply,  | Echoing their joyous strains.
 </pre>
 
@@ -62,8 +71,6 @@ And the mountains in reply,  | Echoing their joyous strains.
 </pre>
 <pre class="lyrics">
 Glo - - - | - - - ri a | in excelsis Deo!
-</pre>
-<pre class="lyrics">
 Glo - - - | - - - ri a | in excelsis De - | o!
 </pre>
 
@@ -97,13 +104,11 @@ Glo - - - | - - - ri a | in excelsis De - | o!
 </pre>
 <pre class="lyrics">
 Deck the hall with boughs of ho-ly, | Fa la la la la, la la la la.
-</pre>
-<pre class="lyrics">
 'Tis the sea-son to be jol-ly, | Fa la la la la, la la la la.
 </pre>
 
 <pre class="jianpu">
-2. 3/4 2 3. 4/5 2 |3/^4/5 6/7/1' 7 6 5 - |
+1. 3/4 2 3. 4/5 2 |3/^4/5 6/7/1' 7 6 5 - |
 </pre>
 <pre class="lyrics">
 Don we now our gay ap-par-el, | Fa la la la  la la la la la,
