@@ -45,14 +45,48 @@ These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.
 </pre>
 
 
-## Angels We Have Heard On High (In Eggshells See Day O)
+## Angels We Have Heard On High (In Eggshells Cease Day O)
 `1=G`
 <pre class="jianpu">
-|:3'3'3'5'|5'.4'/3'-|3'2'3'5'|3'.2'/1'-:|
+|:3'3'3'5' 5'.4'/3'-|3'2'3'5' 3'.2'/1'-:|
 </pre>
+<pre class="lyrics">
+Angels we have heard on high, | Sweetly singing o'er the plains.
+</pre>
+<pre class="lyrics">
+And the mountains in reply,  | Echoing their joyous strains.
+</pre>
+
 <pre class="jianpu">
 |:5'-6'/5'/4'/3'/|4'-5'/4'/3'/2'/|3'-4'/3'/2'/1'/|2'.5/5-|1'2'3'4'|3'-2'-:|1'---||
 </pre>
+<pre class="lyrics">
+Glo - - - | - - - ri a | in excelsis Deo!
+</pre>
+<pre class="lyrics">
+Glo - - - | - - - ri a | in excelsis De - | o!
+</pre>
+
+
+Additional Verses:
+
+<pre class="lyrics">
+Shepherds why this jubilee? | Why your joyous strains prolong?
+What the gladsome tidings be, | Which inspire your heav'nly song?
+Glo - - - | - - - ri a | in excelsis Deo!
+Glo - - - | - - - ri a | in excelsis De - | o!
+
+Come, to Bethlehem, and see | Him whose birth the angels sing;
+Come, adore on bended knee, | Christ the Lord, the new born King.
+Glo - - - | - - - ri a | in excelsis Deo!
+Glo - - - | - - - ri a | in excelsis De - | o!
+
+See him in a manger laid, | Whom the choirs of angels praise;
+Mary, Joseph lend your aid, | While our hearts in love we raise.
+Glo - - - | - - - ri a | in excelsis Deo!
+Glo - - - | - - - ri a | in excelsis De - | o!
+</pre>
+
 
 
 
