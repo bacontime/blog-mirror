@@ -76,27 +76,37 @@ Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, 
 </pre>
 
 
-<!--
+
+
+
+
+
+
+
+
 ## Angels We Have Heard On High (In Eggshells Cease Day O)
+
 <pre>
-Composer: French trad.
-Key: GMajor, 1=G
+Composer: French Traditional
+Key: FMajor, 1=F
 Time: ♩=140
 </pre>
+<!--Rod Mather-->
+
 <pre class="jianpu">
-|:3' 3' 3' 5' 5'. 4'/3' -|3' 2' 3' 5' 3'. 2'/1' -:|
+|:3 3 3 5 5. 4/3 -|3 2 3 5 3. 2/1 -:|
 </pre>
 <pre class="lyrics">
-Angels we have heard on high, | Sweetly singing o'er the plains.
-And the mountains in reply,  | Echoing their joyous strains.
+Angels we have heard on high | Sweetly singing o'er the plains.
+And the mountains in reply | Echoing their joyous strains.
 </pre>
 
 <pre class="jianpu">
-|:5'-6'/5'/4'/3'/ 4'-5'/4'/3'/2'/|3'-4'/3'/2'/1'/ 2'.5/5-|1'2'3'4' 3'-2'-:|1'---||
+|:5- 6/5/4/3/ 4- 5/4/3/2/|3- 4/3/2/1/ 2.5,/5-|1234 3-2-:|1---||
 </pre>
 <pre class="lyrics">
-Glo - - - | - - - ri a | in excelsis Deo!
-Glo - - - | - - - ri a | in excelsis De - | o!
+Glo ---- - ----| - ---- - ri a | in excelsis Deo!
+Glo ---- - ----| - ---- - ri a | in excelsis De - | o!
 </pre>
 
 
@@ -104,23 +114,27 @@ Additional Verses:
 
 <pre class="lyrics">
 Shepherds why this jubilee? | Why your joyous strains prolong?
-What the gladsome tidings be, | Which inspire your heav'nly song?
-Glo - - - | - - - ri a | in excelsis Deo!
-Glo - - - | - - - ri a | in excelsis De - | o!
+What the gladsome tidings be? | Which inspire your heav'nly song?
+Glo ---- - ----| - ---- - ri a | in excelsis Deo!
+Glo ---- - ----| - ---- - ri a | in excelsis De - | o!
 
-Come, to Bethlehem, and see | Him whose birth the angels sing;
-Come, adore on bended knee, | Christ the Lord, the new born King.
-Glo - - - | - - - ri a | in excelsis Deo!
-Glo - - - | - - - ri a | in excelsis De - | o!
+Come to Bethlehem and see | Christ whose birth the angels sing;
+Come, adore on bended knee, | Christ the Lord, the newborn King.
+Glo ---- - ----| - ---- - ri a | in excelsis Deo!
+Glo ---- - ----| - ---- - ri a | in excelsis De - | o!
 
 See him in a manger laid, | Whom the choirs of angels praise;
-Mary, Joseph lend your aid, | While our hearts in love we raise.
-Glo - - - | - - - ri a | in excelsis Deo!
-Glo - - - | - - - ri a | in excelsis De - | o!
+Mary, Joseph, lend your aid, | While our hearts in love we raise.
+Glo ---- - ----| - ---- - ri a | in excelsis Deo!
+Glo ---- - ----| - ---- - ri a | in excelsis De - | o!
 </pre>
 
 
 
+
+
+
+<!--
 
 ## Deck the Hall
 <pre>
@@ -228,7 +242,6 @@ And went to Bethlehem strait-way, | The Son of God to find. O
 The traditional Christmas Carols on this page are all in the Public Domain.
 I have based these jianpu renditions on public domain arrangements
 from the [Choral Public Domain Library](https://www.cpdl.org/wiki/index.php/Main_Page).
-In particular, any arrangements which I have used or modified are licensed under the [CPDL License](https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL).
-
+In particular, any arrangements which I have used or modified are licensed under the [CPDL License](https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL) or fully in the public domain.
 
 
