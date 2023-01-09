@@ -68,19 +68,48 @@ These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.
 
 
 
-## Angels We Have Heard On High (In Eggshells See Day O)
+## God Rest You Merry Gentlemen
 `1=G`
 <pre class="jianpu">
-   6|63'3'2'|1'765|671'2'|
-
-3'--6|63'3'2'|1'765|671'2'|
-
-3'-03'|4'2'3'4'|5'6'3'2'|2'671'|2'-
-
-1'2'|3'-4'3'|3'2'1'7|6-1'/7/6
-
-2'-1'2'|3'4'5'6'|3'2'1'7|6--||
+6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - -|
+</pre>
+<pre class="lyrics">
+God rest you merry, gentlemen.| Let nothing you dismay.
 </pre>
 
+<pre class="jianpu">
+6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - 0|
+</pre>
+<pre class="lyrics">
+Remember Christ our Savior | was born on Christmas Day,
+</pre>
 
+<pre class="jianpu">
+3' 4' 2' 3' 4' 5' 6' 3'|2' 2' 6 7 1' 2' - 1'|
+</pre>
+<pre class="lyrics">
+To save us all from Satan's pow'r | when we were gone astray.O
+</pre>
+
+<pre class="jianpu">
+2' 3' - 4' 3' 3' 2' 1'|7 6 - 1'/7/6 2' - 1'|2' 3' 4' 5' 6' 3' 2' 1'|7 6 - -||
+</pre>
+<pre class="lyrics">
+...o ti-dings of com-fort | and joy, comfort and joy. O | o ti-dings of com-fort | and joy.
+</pre>
+
+Alternate presentation:
+
+<pre class="jianpu">
+6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - -|
+6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - 0|
+3' 4' 2' 3' 4' 5' 6' 3'|2' 2' 6 7 1' 2' - 1'|
+2' 3' - 4' 3' 3' 2' 1'|7 6 - 1'/7/6 2' - 1'|2' 3' 4' 5' 6' 3' 2' 1'|7 6 - -||
+</pre>
+<pre class="lyrics">
+God rest you merry, gentlemen.| Let nothing you dismay.
+Remember Christ our Savior | was born on Christmas Day,
+To save us all from Satan's pow'r | when we were gone astray.O
+...o ti-dings of com-fort | and joy, comfort and joy. O | o ti-dings of com-fort | and joy.
+</pre>
 
