@@ -34,28 +34,49 @@ last_modified_date: 2023-01-09
 </style>
 <!--colrJianpu.ttf for colrv0 font; JianpuAscii for black.-->
 
-The following are some jianpu transcriptions of Christmas Carols.
-These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.archive.org/web/20111129102113/http://www.goess.org/mason/xmas-abc/)
+<!--The following are some jianpu transcriptions of Christmas Carols.
+These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.archive.org/web/20111129102113/http://www.goess.org/mason/xmas-abc/)-->
+
+
+
+<!--http://www.cpdl.org/wiki/index.php/Main_Page-->
 
 
 ## We Wish You a Merry Christmas
 <pre>
-Composer: English trad.
-Key: GMajor, 1=G
+Composer: English Traditional
+Key: BbMajor, 1=Bb
 Time: ♩=180
 </pre>
+<!--Based on Arrangement by John Brown-->
 
 <pre class="jianpu">
- 5 |1' 1'/2'/1'/7/ 6 4 6 |2' 2'/3'/2'/1'/ 7 5 5 |3' 3'/4'/3'/2'/ 1' 6 5/5/|6 3' 7  1' - :||
+5|1' 1'/2'/ 1'/7/ 6 6 6|2' 2'/3'/ 2'/1'/ 7 5 5|3' 3'/4'/ 3'/2'/ 1' 6 5/5/|6 2' 7 1' -
 </pre>
 <pre class="lyrics">
 We | wish you a Merry Christmas, We | wish you a Merry Christmas, We | wish you a Merry Christmas, and a | happy New Year!
-Now bring us some figgy pudding, Now bring us some figgy pudding, Now bring us some figgy pudding, And bring it right here!
-O we won't go until we get some, No we won't go until we get some, We won't go until we get some, So bring it right here!
-O we all like figgy pudding, Yes we all like figgy pudding, We all like figgy pudding, So bring it out here!
+</pre>
+
+<pre class="jianpu">
+5|1' 1'  1'  7 - 7|1' 7  6  5 - 2'|3' 2'/2'/ 1'/1'/ 5' 5 5/5/|6 2' 7 1' - 
+</pre>
+<pre class="lyrics">
+Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
 </pre>
 
 
+Additional Verses:
+
+<pre class="lyrics">
+Now | bring us some figgy pudding, Now | bring us some figgy pudding, Now | bring us some figgy pudding, and a | cup of good cheer!
+Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
+
+We | won't go until get some, we | won't go until get some, we | won't go until get some, so | bring some out here!
+Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
+</pre>
+
+
+<!--
 ## Angels We Have Heard On High (In Eggshells Cease Day O)
 <pre>
 Composer: French trad.
@@ -198,3 +219,16 @@ And left their flocks a feeding | In tempest storm and wind.
 And went to Bethlehem strait-way, | The Son of God to find. O
 ...o ti-dings of com-fort | and joy, comfort and joy. O | o ti-dings of com-fort | and joy.
 </pre>-->
+
+
+
+------------
+
+
+The traditional Christmas Carols on this page are all in the Public Domain.
+I have based these jianpu renditions on public domain arrangements
+from the [Choral Public Domain Library](https://www.cpdl.org/wiki/index.php/Main_Page).
+In particular, any arrangements which I have used or modified are licensed under the [CPDL License](https://www.cpdl.org/wiki/index.php/ChoralWiki:CPDL).
+
+
+
