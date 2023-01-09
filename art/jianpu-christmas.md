@@ -57,7 +57,7 @@ These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.
 
 
 ## Deck the Hall
-1=F
+`1=F`
 <pre class="jianpu">
 5. 4/3 2 1 2 3 2 |2/3/4/2/3. 2/1 7, 1 - :|
 </pre>
@@ -69,10 +69,10 @@ Deck the hall with boughs of ho-ly, | Fa la la la la, la la la la.
 </pre>
 
 <pre class="jianpu">
-2. 3/4 2 |3
+2. 3/4 2 |3. 4/5 2 |3/^4/5 6/7/1' |7 6 5 - |
+</pre>
 <pre class="lyrics">
 Don we now our gay ap-par-el, | Fa la la la  la la la la la,
-</pre>. 4/5 2 |3/^4/5 6/7/1' |7 6 5 - |
 </pre>
 
 <pre class="jianpu">
@@ -85,7 +85,7 @@ Troll the an-cient Yule-tide ca-rol, | Fa la la la la la la la la.
 
 Additional Verses:
 
-<pre class="lyrics"> 
+<pre class="lyrics">
 See the blazing Yule before us, | Fa la la la la, la la la la.
 Strike the harp and join the chorus, | Fa la la la la, la la la la.
 Sing we now in merry measure, | Fa la la, la la la, la la la.
