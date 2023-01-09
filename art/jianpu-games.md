@@ -7,6 +7,7 @@ has_children: false
 layout: post
 toc: false
 date: 2023-01-03
+nav_exclude: true
 ---
 
 <style>
