@@ -42,14 +42,14 @@ These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.
 <pre>
 Composer: English trad.
 Key: GMajor, 1=G
-Time: 3/4, ♩=180
+Time: ♩=180
 </pre>
 
 <pre class="jianpu">
- 5 |1' 1'/2'/1'/7/|6 4 6 |2' 2'/3'/2'/1'/|7 5 5 |3' 3'/4'/3'/2'/|1' 6 5/5/|6 3' 7 |1' :||
+ 5 |1' 1'/2'/1'/7/ 6 4 6 |2' 2'/3'/2'/1'/ 7 5 5 |3' 3'/4'/3'/2'/ 1' 6 5/5/|6 3' 7  1' - :||
 </pre>
 <pre class="lyrics">
-We wish you a Merry Christmas, We wish you a Merry Christmas, We wish you a Merry Christmas, and a happy New Year!
+We | wish you a Merry Christmas, We | wish you a Merry Christmas, We | wish you a Merry Christmas, and a | happy New Year!
 Now bring us some figgy pudding, Now bring us some figgy pudding, Now bring us some figgy pudding, And bring it right here!
 O we won't go until we get some, No we won't go until we get some, We won't go until we get some, So bring it right here!
 O we all like figgy pudding, Yes we all like figgy pudding, We all like figgy pudding, So bring it out here!
@@ -57,9 +57,13 @@ O we all like figgy pudding, Yes we all like figgy pudding, We all like figgy pu
 
 
 ## Angels We Have Heard On High (In Eggshells Cease Day O)
-`1=G`
+<pre>
+Composer: French trad.
+Key: GMajor, 1=G
+Time: ♩=140
+</pre>
 <pre class="jianpu">
-|:3'3'3'5' 5'.4'/3'-|3'2'3'5' 3'.2'/1'-:|
+|:3' 3' 3' 5' 5'. 4'/3' -|3' 2' 3' 5' 3'. 2'/1' -:|
 </pre>
 <pre class="lyrics">
 Angels we have heard on high, | Sweetly singing o'er the plains.
@@ -67,7 +71,7 @@ And the mountains in reply,  | Echoing their joyous strains.
 </pre>
 
 <pre class="jianpu">
-|:5'-6'/5'/4'/3'/|4'-5'/4'/3'/2'/|3'-4'/3'/2'/1'/|2'.5/5-|1'2'3'4'|3'-2'-:|1'---||
+|:5'-6'/5'/4'/3'/ 4'-5'/4'/3'/2'/|3'-4'/3'/2'/1'/ 2'.5/5-|1'2'3'4' 3'-2'-:|1'---||
 </pre>
 <pre class="lyrics">
 Glo - - - | - - - ri a | in excelsis Deo!
@@ -98,7 +102,11 @@ Glo - - - | - - - ri a | in excelsis De - | o!
 
 
 ## Deck the Hall
-`1=F`
+<pre>
+Composer: Welsh trad.
+Key: FMajor, 1=F
+Time: ♩=150
+</pre>
 <pre class="jianpu">
 5. 4/3 2 1 2 3 1 |2/3/4/2/3. 2/1 7, 1 - :|
 </pre>
@@ -138,7 +146,12 @@ Heedless of the wind and weather, | Fa la la la la, la la la la.
 
 
 ## God Rest You Merry Gentlemen
-`1=G`
+
+<pre>
+Composer: English trad.
+Key: GMajor, 1=G
+Time: ♩=150
+</pre>
 <pre class="jianpu">
 6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - -|
 </pre>
