@@ -42,40 +42,6 @@ These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.
 <!--http://www.cpdl.org/wiki/index.php/Main_Page-->
 
 
-## We Wish You a Merry Christmas
-<pre>
-Composer: English Traditional
-Key: BbMajor, 1=Bb
-Time: ♩=180
-</pre>
-<!--Based on Arrangement by John Brown-->
-
-<pre class="jianpu">
-5|1' 1'/2'/ 1'/7/ 6 6 6|2' 2'/3'/ 2'/1'/ 7 5 5|3' 3'/4'/ 3'/2'/ 1' 6 5/5/|6 2' 7 1' -
-</pre>
-<pre class="lyrics">
-We | wish you a Merry Christmas, We | wish you a Merry Christmas, We | wish you a Merry Christmas, and a | happy New Year!
-</pre>
-
-<pre class="jianpu">
-5|1' 1'  1'  7 - 7|1' 7  6  5 - 2'|3' 2'/2'/ 1'/1'/ 5' 5 5/5/|6 2' 7 1' - 
-</pre>
-<pre class="lyrics">
-Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
-</pre>
-
-
-Additional Verses:
-
-<pre class="lyrics">
-Now | bring us some figgy pudding, Now | bring us some figgy pudding, Now | bring us some figgy pudding, and a | cup of good cheer!
-Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
-
-We | won't go until get some, we | won't go until get some, we | won't go until get some, so | bring some out here!
-Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
-</pre>
-
-
 
 
 
@@ -221,18 +187,7 @@ To save us all from Satan's pow'r | when we were gone astray. O
 
 
 <!--
-
-
-
-
-<pre class="jianpu">
-2' 3' - 4' 3' 3' 2' 1'|7 6 - 1'/7/6 2' - 1'|2' 3' 4' 5' 6' 3' 2' 1'|7 6 - -:||
-</pre>
-<pre class="lyrics">
-...o ti-dings of com-fort | and joy, comfort and joy. O | o ti-dings of com-fort | and joy.
-</pre>
-
-<!--Additional Verses:
+Additional Verses:
 
 <pre class="lyrics">
 In Bethlehem, in Jewry, | This blessed Babe was born, 
@@ -250,6 +205,57 @@ And left their flocks a feeding | In tempest storm and wind.
 And went to Bethlehem strait-way, | The Son of God to find. O
 ...o ti-dings of com-fort | and joy, comfort and joy. O | o ti-dings of com-fort | and joy.
 </pre>-->
+
+
+
+
+
+
+
+
+
+## We Wish You a Merry Christmas
+<pre>
+Composer: English Traditional
+Key: BbMajor, 1=Bb
+Time: ♩=180
+</pre>
+<!--Based on Arrangement by John Brown-->
+
+<pre class="jianpu">
+5|1' 1'/2'/ 1'/7/ 6 6 6|2' 2'/3'/ 2'/1'/ 7 5 5|3' 3'/4'/ 3'/2'/ 1' 6 5/5/|6 2' 7 1' -
+</pre>
+<pre class="lyrics">
+We | wish you a Merry Christmas, We | wish you a Merry Christmas, We | wish you a Merry Christmas, and a | happy New Year!
+</pre>
+
+<pre class="jianpu">
+5|1' 1'  1'  7 - 7|1' 7  6  5 - 2'|3' 2'/2'/ 1'/1'/ 5' 5 5/5/|6 2' 7 1' - 
+</pre>
+<pre class="lyrics">
+Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
+</pre>
+
+
+Additional Verses:
+
+<pre class="lyrics">
+Now | bring us some figgy pudding, Now | bring us some figgy pudding, Now | bring us some figgy pudding, and a | cup of good cheer!
+Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
+
+We | won't go until get some, we | won't go until get some, we | won't go until get some, so | bring some out here!
+Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
+</pre>
+
+
+
+
+
+
+
+
+
+
 
 
 
