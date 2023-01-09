@@ -21,14 +21,14 @@ last_modified_date: 2023-01-09
     font-size: 150%
 }
 .lyrics {
-    font-size: 75%
+    font-size: 100%
 }
 @media (max-width: 50rem) {
     .jianpu  {
         font-size: 120%;
     }
     .lyrics {
-        font-size: 100%
+        font-size: 80%
     }
 }
 </style>
@@ -59,7 +59,7 @@ These are based on the scores from [Kevin M. Goess' "ABC Fakebook"](https://web.
 ## Deck the Hall
 `1=F`
 <pre class="jianpu">
-5. 4/3 2 1 2 3 2 |2/3/4/2/3. 2/1 7, 1 - :|
+5. 4/3 2 1 2 3 1 |2/3/4/2/3. 2/1 7, 1 - :|
 </pre>
 <pre class="lyrics">
 Deck the hall with boughs of ho-ly, | Fa la la la la, la la la la.
@@ -69,14 +69,14 @@ Deck the hall with boughs of ho-ly, | Fa la la la la, la la la la.
 </pre>
 
 <pre class="jianpu">
-2. 3/4 2 |3. 4/5 2 |3/^4/5 6/7/1' |7 6 5 - |
+2. 3/4 2 3. 4/5 2 |3/^4/5 6/7/1' 7 6 5 - |
 </pre>
 <pre class="lyrics">
 Don we now our gay ap-par-el, | Fa la la la  la la la la la,
 </pre>
 
 <pre class="jianpu">
-5. 4/3 2 1 2 3 2 |6/6/6/6/5. 4/3 2 1 - ||
+5. 4/3 2 1 2 3 1 |6/6/6/6/5. 4/3 2 1 - ||
 </pre>
 <pre class="lyrics">
 Troll the an-cient Yule-tide ca-rol, | Fa la la la la la la la la.
