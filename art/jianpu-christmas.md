@@ -182,50 +182,7 @@ Headless of the wind and weather, | fa la la la la la la la la.
 
 
 
-<!--
 
-## Deck the Hall
-<pre>
-Composer: Welsh trad.
-Key: FMajor, 1=F
-Time: ♩=150
-</pre>
-<pre class="jianpu">
-5. 4/3 2 1 2 3 1 |2/3/4/2/3. 2/1 7, 1 - :|
-</pre>
-<pre class="lyrics">
-Deck the hall with boughs of ho-ly, | Fa la la la la, la la la la.
-'Tis the sea-son to be jol-ly, | Fa la la la la, la la la la.
-</pre>
-
-<pre class="jianpu">
-1. 3/4 2 3. 4/5 2 |3/^4/5 6/7/1' 7 6 5 - |
-</pre>
-<pre class="lyrics">
-Don we now our gay ap-par-el, | Fa la la la  la la la la la,
-</pre>
-
-<pre class="jianpu">
-5. 4/3 2 1 2 3 1 |6/6/6/6/5. 4/3 2 1 - ||
-</pre>
-<pre class="lyrics">
-Troll the an-cient Yule-tide ca-rol, | Fa la la la la la la la la.
-</pre>
-
-
-Additional Verses:
-
-<pre class="lyrics">
-See the blazing Yule before us, | Fa la la la la, la la la la.
-Strike the harp and join the chorus, | Fa la la la la, la la la la.
-Sing we now in merry measure, | Fa la la, la la la, la la la.
-While I tell of Yuletide treasure, | Fa la la la la, la la la la.
-
-Fast away the old year passes, | Fa la la la la, la la la la.
-Hail the new ye lads and lasses, | Fa la la la la, la la la la.
-Sing we joyous all together, | Fa la la, la la la, la la la.
-Heedless of the wind and weather, | Fa la la la la, la la la la.
-</pre>
 
 
 ## God Rest You Merry Gentlemen
@@ -235,26 +192,38 @@ Composer: English trad.
 Key: GMajor, 1=G
 Time: ♩=150
 </pre>
+<!--Andrew Sims https://www.cpdl.org/wiki/images/2/25/God_rest_you.pdf
+also John Stainer https://www.cpdl.org/wiki/images/3/31/Ws-xmas-002.pdf-->
+
+
 <pre class="jianpu">
-6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - -|
+|:6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - -:|
 </pre>
 <pre class="lyrics">
 God rest you merry, gentlemen.| Let nothing you dismay.
+For Jesus Christ our Sa-vior | was born up Christmas day,
 </pre>
 
 <pre class="jianpu">
-6 6 3' 3' 2' 1' 7 6|5 6 7 1' 2' 3' - 0|
-</pre>
-<pre class="lyrics">
-Remember Christ our Savior | was born on Christmas Day,
-</pre>
-
-<pre class="jianpu">
-3' 4' 2' 3' 4' 5' 6' 3'|2' 1' 6 7 1' 2' - 1'|
+ 3' 4' 2' 3' 4' 5' 6' 3'|2' 1' 6 7 1' 2' - 1'|
 </pre>
 <pre class="lyrics">
 To save us all from Satan's pow'r | when we were gone astray. O
 </pre>
+
+
+<pre class="jianpu">
+2' 3' - 4' 3' 3' 2' 1'|7 6 - 1'/7/6 2' - 1'|2' 3' 4' 5' 6' 3' 2' 1'|7 6 - -:||
+</pre>
+<pre class="lyrics">
+...o ti-dings of com-fort | and joy, comfort and joy. O | o ti-dings of com-fort | and joy.
+</pre>
+
+
+<!--
+
+
+
 
 <pre class="jianpu">
 2' 3' - 4' 3' 3' 2' 1'|7 6 - 1'/7/6 2' - 1'|2' 3' 4' 5' 6' 3' 2' 1'|7 6 - -:||
