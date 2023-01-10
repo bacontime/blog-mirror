@@ -57,7 +57,7 @@ You'll also find a link to a little font I made to help display the symbols for 
 
 ## The Sun and its Planemos (Transcript)
 
-The Sun, Major planets, likely and official dwarf planets, and planetary-mass moons.
+The Sun, Major planets, likely and official dwarf planets, and planetary-mass moons.  
 <small><i>Enceladus is here, too.</i></small>
 
 Object diameters are scaled in proportion to the square root of their actual size.  
