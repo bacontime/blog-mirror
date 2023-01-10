@@ -8,7 +8,7 @@ layout: post
 toc: true
 date: 2023-01-09
 last_modified_date: 2023-01-09
-nav_exclude: true
+nav_exclude: false
 ---
 
 <style>
@@ -24,7 +24,7 @@ nav_exclude: true
 .lyrics {
     font-size: 90%
 }
-@media (max-width: 50rem) {
+@media (max-width: 80rem) {
     .jianpu  {
         font-size: 120%;
     }
@@ -97,7 +97,7 @@ It | rain'd all night the day I left, the | weather it was dry, The | sun so hot
 </pre>
 
 <pre class="jianpu">
-|4 - 4 - 6 6 - - |5 5 3 1 2 - 0 1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 2 1 - -||
+  |4 - 4 - 6 6 - - |5 5 3 1 2 - 0 1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 2 1 - -||
 </pre>
 <pre class="lyrics">
 Oh! Susanna, | don't you cry for me, I've come | from Alabama with my banjo | on my knee.
@@ -119,7 +119,7 @@ It | rain'd all night the day I left, the | weather it was dry, The | sun so hot
 </pre>
 
 <pre class="jianpu">
-|4 4 6/ 6.|5/5/3/1/ 2 0/ 1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/2/ 1.||
+  |4 4 6/ 6.|5/5/3/1/ 2 0/ 1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/2/ 1.||
 </pre>
 <pre class="lyrics">
 Oh! Susanna, | don't you cry for me, I've come | from Alabama with my banjo | on my knee.
