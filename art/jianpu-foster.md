@@ -26,10 +26,10 @@ nav_exclude: false
 }
 @media (max-width: 80rem) {
     .jianpu  {
-        font-size: 120%;
+        font-size: 100%;
     }
     .lyrics {
-        font-size: 72%
+        font-size: 60%
     }
 }
 </style>
