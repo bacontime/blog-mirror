@@ -48,17 +48,25 @@ Key: GMajor, 1=G
 Time: ♩=130
 </pre>
 
-
-
+<pre class="jianpu">
+1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|3/5/5/./6// 5/3/ 1/./2//|3/3/ 2/2/ 1 0/ 
+</pre>
+<pre class="lyrics">
+I | come from Alabama with my|banjo on my knee; I | gwan to Lousiana, My true love for to see.
+</pre>
 
 <pre class="jianpu">
-1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|3/5/5/./6// 5/3/ 1/./2//|
+1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|3/5/5/./6// 5/3/1/./ 2//|3/3/ 2/2/ 1 0 |
+</pre>
+<pre class="lyrics">
+It | rain'd all night the day I left, the | weather it was dry, The | sun so hot I froze to death Su | sana don't you cry.
+</pre>
 
-3/3/ 2/2/ 1 0/ 1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|
-
-3/5/5/./ 5/3/1/./2//|3/3/ 2/2/ 1 0||4 4 6/ 6.|
-
-5/5/3/1/ 2 0/ 1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/2/ 3.||
+<pre class="jianpu">
+|4 4 6/ 6.|5/5/3/1/ 2 0/ 1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/2/ 3.||
+</pre>
+<pre class="lyrics">
+Oh! Susanna, | don't you cry for me, I've come | from Alabama with my banjo | on my knee.
 </pre>
 
 
