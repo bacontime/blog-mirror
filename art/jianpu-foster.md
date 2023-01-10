@@ -49,14 +49,14 @@ Time: ♩=130
 </pre>
 
 <pre class="jianpu">
-1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|3/5/5/./6// 5/3/ 1/./2//|3/3/ 2/2/ 1 0/ 
+1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/2/ 1 0/ 
 </pre>
 <pre class="lyrics">
 I | come from Alabama with my | banjo on my knee; I'm | goin' to Lousiana, My true love for to see.
 </pre>
 
 <pre class="jianpu">
-1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|3/5/5/./6// 5/3/1/./ 2//|3/3/ 2/2/ 1 0 |
+1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/2/ 1 0 |
 </pre>
 <pre class="lyrics">
 It | rain'd all night the day I left, the | weather it was dry, The | sun so hot I froze to death, Su | sana don't you cry.
@@ -75,15 +75,85 @@ Additional Verses:
 
 <pre class="lyrics">
 
-I | had a dream the other night, when ev | rything was still; I | thought I saw Susanna dear, a comin' down the hill,
+I | had a dream the other night, when ev | rything was still; I | thought I saw Susanna dear, a | comin' down the hill,
 The | buckweat cake was in her mouth, the | tear was in her eye, Says | I'm coming from the south, Su | sana don't you cry.
 Oh! Susanna, | don't you cry for me, I've come | from Alabama with my banjo | on my knee.
 
-I | soon will be in New Orleans, and then | I'll look around; And | when I find Susanna, I'll fall upon the ground,
+I | soon will be in New Orleans, and then | I'll look around; And | when I find Susanna, I'll | fall upon the ground,
 But | if I do not find her, this | man will surely die, And | when I'm dead and buried, Su | sana don't you cry.
 Oh! Susanna, | don't you cry for me, I've come | from Alabama with my banjo | on my knee.
 
 Oh! Susanna, | don't you cry for me, I've come | from Alabama with my banjo | on my knee.
+</pre>
+
+
+
+### Alternate Presentations
+
+<pre class="jianpu">
+1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 1 2 - 0 1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 2 1 - 0 
+</pre>
+<pre class="lyrics">
+I | come from Alabama with my | banjo on my knee; I'm | goin' to Lousiana, My | true love for to see.
+</pre>
+
+<pre class="jianpu">
+1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 1 2 - 0 1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 2 1 - 0 - |
+</pre>
+<pre class="lyrics">
+It | rain'd all night the day I left, the | weather it was dry, The | sun so hot I froze to death, Su | sana don't you cry.
+</pre>
+
+<pre class="jianpu">
+|4 - 4 - 6 6 - - |5 5 3 1 2 - 0 1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 2 3 - -||
+</pre>
+<pre class="lyrics">
+Oh! Susanna, | don't you cry for me, I've come | from Alabama with my banjo | on my knee.
+</pre>
+
+Or
+
+<pre class="jianpu">
+1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 1 2 - 0 
+</pre>
+<pre class="lyrics">
+I | come from Alabama with my | banjo on my knee; 
+</pre>
+
+<pre class="jianpu">
+1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 2 1 - 0 
+</pre>
+<pre class="lyrics">
+I'm | goin' to Lousiana, My | true love for to see.
+</pre>
+
+<pre class="jianpu">
+1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 1 2 - 0 
+</pre>
+<pre class="lyrics">
+It | rain'd all night the day I left, the | weather it was dry,
+</pre>
+
+<pre class="jianpu">
+1/2/|3 5 5. 6/5 3 1. 2/|3 3 2 2 1 - 0 
+</pre>
+<pre class="lyrics">
+I'm | goin' to Lousiana, My true love for to see.
+The | sun so hot I froze to death, Su | sana don't you cry.
+</pre>
+
+<pre class="jianpu">
+|4 - 4 - 6 6 - - |5 5 3 1 2 - 0 1/2/|
+</pre>
+<pre class="lyrics">
+Oh! Susanna, | don't you cry for me, I've come |
+</pre>
+
+<pre class="jianpu">
+ 3 5 5. 6/5 3 1. 2/|3 3 2 2 3 - -||
+</pre>
+<pre class="lyrics">
+ from Alabama with my banjo | on my knee.
 </pre>
 
 
