@@ -40,12 +40,44 @@ https://github.com/kgoess/foster-abc/tree/master/abc-src
 -->
 
 
+## Beautiful Dreamer
+
+<pre>
+Composer: Stephen Foster, 1864
+Key: EbMajor, 1=Eb
+Time: ♩=200
+</pre>
+
+
+<!--https://upload.wikimedia.org/wikipedia/commons/5/57/Beautiful_Dreamer_music.jpg-->
+
+<pre class="jianpu">
+|1'71' 5-- 3--|2^12 6-- ---|576 654 432|3-- --- ---|
+|03,5, 35,3, 15,3,|04,6, 46,4, 26,4,|04,5, 25,4, 7,5,4,|03,5, 35,3, 15,3,|
+</pre>
+<pre class="lyrics">
+Beautiful dreamer, | wake unto me, | Starlight and dewdrops are waiting for | thee - -;
+</pre>
+
+<pre class="jianpu">
+|1'71' 5-- 3--|2^12 6-- ---|576 654 432|1-- --- ---|
+|03,5, 35,3, 15,3,|04,6, 46,4, 26,4,|04,5, 25,4, 7,5,4,|03,5, 35,3, 15,3,|
+</pre>
+<pre class="lyrics">
+Sounds of the rude world, | heard in the day, | Lull'd by the moonlight have all passed a | way!
+</pre>
+
+
+
+
+
+
 ## O Susanna!
 <pre>
 Composer: Stephen Foster, 1848
 Arranged: Kevin Goess 4/14/2000
 Key: GMajor, 1=G
-Time: ♩=130
+Time: ♩=260
 </pre>
 
 
@@ -98,7 +130,6 @@ Oh! Susanna, | don't you cry for me, I've come | from Alabama with my banjo | on
 Additional Verses:
 
 <pre class="lyrics">
-
 I | had a dream the other night, when ev | rything was still; I | thought I saw Susanna dear, a | comin' down the hill,
 The | buckweat cake was in her mouth, the | tear was in her eye, Says | I'm coming from the south, Su | sana don't you cry.
 Oh! Susanna, | don't you cry for me, I've come | from Alabama with my banjo | on my knee.
