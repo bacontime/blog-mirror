@@ -1,0 +1,104 @@
+---
+title: Stephen Foster
+subtitle: Jianpu scores for a few songs by Stephen Foster
+parent: Jianpu
+grand_parent: Art and Culture
+has_children: false
+layout: post
+toc: true
+date: 2023-01-09
+last_modified_date: 2023-01-09
+nav_exclude: true
+---
+
+<style>
+@font-face {
+    font-family: Jianpu;
+    src: url("{{site.webfontdirectory}}/jianpu/JianpuASCII.ttf ");
+}
+.jianpu {
+    font-family: Jianpu;
+    line-height: 1.5;
+    font-size: 150%
+}
+.lyrics {
+    font-size: 100%
+}
+@media (max-width: 50rem) {
+    .jianpu  {
+        font-size: 120%;
+    }
+    .lyrics {
+        font-size: 80%
+    }
+}
+</style>
+
+<!--
+https://zn-live.zupfnoter.de/
+https://github.com/kgoess/foster-abc/tree/master/abc-src
+-->
+
+
+## O Susanna!
+<pre>
+Composer: Stephen Foster, 1848
+Arranged: Kevin Goess 4/14/2000
+Key: GMajor, 1=G
+Time: ♩=130
+</pre>
+
+
+
+
+<pre class="jianpu">
+1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|3/5/5/./6// 5/3/ 1/./2//|
+
+3/3/ 2/2/ 1 0/ 1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/1/ 2 0/1//2//|
+
+3/5/5/./ 5/3/1/./2//|3/3/ 2/2/ 1 0||4 4 6/ 6.|
+
+5/5/3/1/ 2 0/ 1//2//|3/5/5/./6// 5/3/1/./2//|3/3/ 2/2/ 3.||
+</pre>
+
+
+
+
+
+
+<!--
+## We Wish You a Merry Christmas
+<pre>
+Composer: English Traditional
+Key: BbMajor, 1=Bb
+Time: ♩=180
+</pre>
+
+<pre class="jianpu">
+5|1' 1'/2'/ 1'/7/ 6 6 6|2' 2'/3'/ 2'/1'/ 7 5 5|3' 3'/4'/ 3'/2'/ 1' 6 5/5/|6 2' 7 1' -
+</pre>
+<pre class="lyrics">
+We | wish you a Merry Christmas, We | wish you a Merry Christmas, We | wish you a Merry Christmas, and a | happy New Year!
+</pre>
+
+<pre class="jianpu">
+5|1' 1'  1'  7 - 7|1' 7  6  5 - 2'|3' 2'/2'/ 1'/1'/ 5' 5 5/5/|6 2' 7 1' - 
+</pre>
+<pre class="lyrics">
+Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
+</pre>
+
+
+Additional Verses:
+
+<pre class="lyrics">
+Now | bring us some figgy pudding, Now | bring us some figgy pudding, Now | bring us some figgy pudding, and a | cup of good cheer!
+Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
+
+We | won't go until get some, we | won't go until get some, we | won't go until get some, so | bring some out here!
+Good | tidings we bring to | you and your kin. We | wish you a Merry Christmas, and a | happy New Year!
+</pre>
+-->
+
+
+
