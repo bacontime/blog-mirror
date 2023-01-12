@@ -66,7 +66,7 @@ Sounds of the rude world, | heard in the day, | Lull'd by the moonlight have all
 </pre>
 
 <pre class="jianpu">
-|542 7,-- 6--|653 1-- 1--|1'71' 6-- 2'-1'|71'6 5-- ---|
+|542 7,-- 6--|653 1-- ---|1'71' 6-- 2'-1'|71'6 5-- ---|
 </pre>
 <pre class="lyrics">
 Beau-ti-ful dream-er, | queen of my song,|List while I woo thee | with soft me-lo-dy;
@@ -85,6 +85,21 @@ Gone are the cares of | life's bus-y throng,|Beau-ti-ful dream-er, a-wake un-to 
 <pre class="lyrics">
 Beau-ti-ful dream-er, a-wake un-to | me - -!
 </pre>
+
+Second verse:
+
+<pre class="lyrics">
+Beautiful dreamer, out on the sea
+Mermaids are chanting the wild lorelie;
+Over the streamlet vapors are borne,
+Waiting to fade at the bright coming morn.
+Beautiful dreamer, beam on my heart,
+E'en as the morn on the streamlet and sea;
+Then will all clouds of sorrow depart,
+Beautiful dreamer, awake unto me!
+Beautiful dreamer, awake unto me!
+</pre>
+
 
 <!--
 |03,5, 35,3, 15,3,|04,6, 46,4, 26,4,|04,5, 25,4, 7,5,4,|03,5, 35,3, 15,3,|
