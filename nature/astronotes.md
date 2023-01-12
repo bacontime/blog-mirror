@@ -1,6 +1,6 @@
 ---
 title: Notes on Astro Symbols
-subtitle: My notes on the objects of the solar system and their namesakes
+subtitle: My notes on the objects of the solar system, their symbols, and their namesakes
 grand_parent: Science and Nature
 parent: Astro Symbols
 layout: post

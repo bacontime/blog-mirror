@@ -1,17 +1,40 @@
 ---
 title: YouTube Channels
 description: "This is a list of Youtube channels I like to check back to watch."
-parent: Media
+parent: Media Recommendations
 grand_parent: Art and Culture
 layout: post
 toc: false
 date: 2021-06-24
+last_modified_date: 2023-01-07
+nav_exclude: true
 ---
 
 <!--
 last_modified_date: 2022-11-27-->
 
-Youtube's recommendation algorithm is evil and an unsorted list of every subscription isn't great for finding stuff I want to watch, so I made a categorized list of youtube channels that I like to check occasionally.
+Youtube's recommendation algorithm is a mess, and an unsorted list of every subscription isn't great for finding stuff I want to watch, so I made a categorized list of youtube channels that I like to check occasionally.
+
+I also find that the YouTube experience is improved by a third-party client.
+I use [FreeTube](https://freetubeapp.io/) on desktop,
+and [NewPipe](https://newpipe.net/) on Android.
+
+
+
+## A Man Walks About Whilst Describing Something
+
+[Dime Store Adventures](https://www.youtube.com/@DimeStoreAdventures/videos)
+: Investigating local history and folklore!
+
+[Tom Scott](https://www.youtube.com/@TomScottGo/videos)
+: Amazing Places
+
+[Atomic Frontier](https://www.youtube.com/@AtomicFrontier/videos)
+: Tom Scott's Doppelganger
+
+[Jay Foreman](https://www.youtube.com/user/jayforeman51/videos?disable_polymer=1)
+: Map Men and Unfinished London
+
 
 
 
@@ -20,18 +43,20 @@ Youtube's recommendation algorithm is evil and an unsorted list of every subscri
 [3Blue1Brown](https://www.youtube.com/channel/UCYO_jab_esuFRV4b17AJtAw/videos?disable_polymer=1)
 : Beautiful theorems
 
-[Vihart](https://www.youtube.com/user/Vihart/videos?disable_polymer=1)
-: Math Doodles
-
 [Numberphile](https://www.youtube.com/user/numberphile/videos?disable_polymer=1)
 : Videos about numbers
 
 [Matt Parker](https://www.youtube.com/user/standupmaths/videos?disable_polymer=1)
-: More videos about numbers. Took me a while to realize it's not the same channel as numberphile.
+: More videos about numbers. Took me a while to realize it's not the same channel as Numberphile.
+
+
+<!--
+[Vihart](https://www.youtube.com/user/Vihart/videos?disable_polymer=1)
+: Math Doodles
 
 [George Hart](https://www.youtube.com/channel/UCTl0dASnxto6j2wlVs5Bs2Q/videos?disable_polymer=1)
 : Origami
-
+-->
 
 
 ## Physics and Engineering
@@ -39,9 +64,10 @@ Youtube's recommendation algorithm is evil and an unsorted list of every subscri
 [engineerguy](https://www.youtube.com/user/engineerguyvideo/videos?disable_polymer=1)
 : Elegant videos about everyday engineering marvels
 
+<!--
 [Illinois EnergyProf](https://www.youtube.com/channel/UCKH_iLhhkTyt8Dk4dmeCQ9w/videos?disable_polymer=1)
 : Clear lectures from Professor David Ruzic
-
+-->
 [Steve Mould](https://www.youtube.com/user/steventhebrave/videos)
 : Various Physics Visualizations
 
@@ -127,11 +153,7 @@ Youtube's recommendation algorithm is evil and an unsorted list of every subscri
 
 ## Interesting Places
 
-[Tom Scott](https://www.youtube.com/user/enyay/videos?disable_polymer=1)
-: Amazing Places
 
-[Jay Foreman](https://www.youtube.com/user/jayforeman51/videos?disable_polymer=1)
-: Map Men and Unfinished London
 
 [Artifexian](https://www.youtube.com/user/Artifexian/videos)
 : Strange exoplanets and advice about imagining them

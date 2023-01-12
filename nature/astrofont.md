@@ -1,5 +1,6 @@
 ---
 title: Astro Fonts
+subtitle: A font which uses ligatures to encode symbols for the major moons.
 parent: Astro Symbols
 grand_parent: Science and Nature
 layout: post
@@ -17,7 +18,7 @@ For example, "♂I" will be rendered as a symbol for Phobos, the first moon of M
 
 ### Download
 
-[Sans Serif v1.0]({{site.webfontdirectory}}/astro/AstromoonySans.ttf)
+[Sans Serif v1.0]({{site.webfontdirectory}}/astro/AstromoonySans.ttf) ([Github Repo](https://github.com/RobertWinslow/Astromoony-Font))
 
 
 ### Table of Characters
