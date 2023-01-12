@@ -1,5 +1,5 @@
 ---
-title: Stephen Foster
+title: Stephen Foster's Music
 subtitle: Jianpu scores for a few songs by Stephen Foster
 parent: Jianpu
 grand_parent: Art and Culture
@@ -53,7 +53,6 @@ Time: ♩=200
 
 <pre class="jianpu">
 |1'71' 5-- 3--|2^12 6-- ---|576 654 432|3-- --- ---|
-|03,5, 35,3, 15,3,|04,6, 46,4, 26,4,|04,5, 25,4, 7,5,4,|03,5, 35,3, 15,3,|
 </pre>
 <pre class="lyrics">
 Beautiful dreamer, | wake unto me, | Starlight and dewdrops are waiting for | thee - -;
@@ -61,15 +60,23 @@ Beautiful dreamer, | wake unto me, | Starlight and dewdrops are waiting for | th
 
 <pre class="jianpu">
 |1'71' 5-- 3--|2^12 6-- ---|576 654 432|1-- --- ---|
-|03,5, 35,3, 15,3,|04,6, 46,4, 26,4,|04,5, 25,4, 7,5,4,|03,5, 35,3, 15,3,|
 </pre>
 <pre class="lyrics">
 Sounds of the rude world, | heard in the day, | Lull'd by the moonlight have all passed a | way!
 </pre>
 
+<pre class="jianpu">
+|542 7,-- 6--|653 1-- 1--|1'71' 6-- 2'-1'|71'6 5-- ---|
 
+|1'71' 5-- 3--|2^12 6-- ---|576 654 432|3-- --- ---|
 
+|671' 1'53 432|1-- --- ---|
+</pre>
 
+<!--
+|03,5, 35,3, 15,3,|04,6, 46,4, 26,4,|04,5, 25,4, 7,5,4,|03,5, 35,3, 15,3,|
+|03,5, 35,3, 15,3,|04,6, 46,4, 26,4,|04,5, 25,4, 7,5,4,|03,5, 35,3, 15,3,|
+-->
 
 
 ## O Susanna!
