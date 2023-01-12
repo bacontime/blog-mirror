@@ -67,10 +67,23 @@ Sounds of the rude world, | heard in the day, | Lull'd by the moonlight have all
 
 <pre class="jianpu">
 |542 7,-- 6--|653 1-- 1--|1'71' 6-- 2'-1'|71'6 5-- ---|
+</pre>
+<pre class="lyrics">
+Beau-ti-ful dream-er, | queen of my song,|List while I woo thee | with soft me-lo-dy;
+</pre>
 
+<pre class="jianpu">
 |1'71' 5-- 3--|2^12 6-- ---|576 654 432|3-- --- ---|
+</pre>
+<pre class="lyrics">
+Gone are the cares of | life's bus-y throng,|Beau-ti-ful dream-er, a-wake un-to | me - -!
+</pre>
 
+<pre class="jianpu">
 |671' 1'53 432|1-- --- ---|
+</pre>
+<pre class="lyrics">
+Beau-ti-ful dream-er, a-wake un-to | me - -!
 </pre>
 
 <!--
